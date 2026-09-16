@@ -151,6 +151,22 @@ for (const city of cities) {
         }
       }
 
+      // A route whose located stops all sit within a couple of hundred metres cannot be drawn or planned.
+      if (cum[cum.length - 1] < 0.2) {
+        warnings.push(`${sys.id}/${r.id}: located stops are too close together to draw a line; listed as information only`);
+        const routeIndex = routes.length;
+        routes.push({
+          key: `${sys.id}:${r.id}`, id: r.id, system: sys.id, name: r.name, name_ur: r.name_ur || '', mode, variant: r.variant || 'regular',
+          color: r.color || (VARIANT_COLORS[r.variant] || VARIANT_COLORS.default)[0], status: r.status, length_km: r.length_km ?? null,
+          headway_min: r.headway_min ?? null, hours: r.hours || (sys.hours ? { start: sys.hours.start || null, end: sys.hours.end || null } : null),
+          fare: fare0, women_only: Boolean(r.women_only), launched: r.launched || null, stops: cityStops.map((s) => s.id),
+          cum_km: cityStops.map(() => 0), shape: '', shape_source: 'straight', stops_confidence: r.stops_confidence || 'low',
+          sources: r.sources || [], notes: r.notes || '',
+        });
+        for (const s of cityStops) if (!s.routes.includes(routeIndex)) s.routes.push(routeIndex);
+        continue;
+      }
+
       const variant = r.variant || 'regular';
       const pal = palette[variant] || palette.default;
       used[variant] = (used[variant] || 0) + 1;
@@ -271,6 +287,16 @@ for (const c of coverage) {
     lastCity = c.city;
   }
   md += `| ${c.system} | ${c.route} | ${c.name.replace(/\|/g, '/')} | ${c.status} | ${c.stops} | ${pct(c.counts.exact, c.stops)} | ${pct(c.counts.matched, c.stops)} | ${pct(c.counts.geocoded, c.stops)} | ${pct(c.counts.estimated, c.stops)} | ${c.counts.missing} | ${c.confidence} |\n`;
+}
+// Routes where contributors would help most: many stops without a real position.
+const weak = coverage
+  .map((c) => ({ ...c, weak: c.counts.missing + c.counts.estimated }))
+  .filter((c) => c.stops >= 3 && c.weak / c.stops >= 0.5)
+  .sort((a, b) => b.weak - a.weak)
+  .slice(0, 30);
+if (weak.length) {
+  md += `\n## Where help is needed most\n\nThese routes have the most stops without a verified position. Adding real coordinates, or the stop's OpenStreetMap id, to the matching file in \`data/systems/\` improves the map and the trip planner straight away.\n\n| City | System | Route | Stops | Missing | Estimated |\n|---|---|---|---|---:|---:|\n`;
+  for (const c of weak) md += `| ${c.city} | ${c.system} | ${c.route} | ${c.stops} | ${c.counts.missing} | ${c.counts.estimated} |\n`;
 }
 if (warnings.length) md += `\n## Build warnings\n\n${warnings.map((w) => `- ${w}`).join('\n')}\n`;
 fs.mkdirSync(path.join(ROOT, 'docs'), { recursive: true });

@@ -8,6 +8,15 @@ Pakistan has no official open transit data. There is no GTFS feed and no public 
 
 > ⚠️ Community-compiled data. Routes, stops and fares change often. Confirm with the operator before you travel, and please [report mistakes](../../issues/new/choose).
 
+## The networks, drawn from this data
+
+| | |
+|---|---|
+| ![Karachi routes](docs/previews/karachi.svg) | ![Lahore routes](docs/previews/lahore.svg) |
+| ![Islamabad and Rawalpindi routes](docs/previews/islamabad-rawalpindi.svg) | ![Peshawar routes](docs/previews/peshawar.svg) |
+
+Regenerate with `npm run preview:maps`.
+
 ## What is covered
 
 See [docs/COVERAGE.md](docs/COVERAGE.md) for the per-route list, generated from the data.
@@ -51,6 +60,7 @@ Other commands:
 | `npm run data:validate` | Check every file in `data/systems/` |
 | `npm run data:osm` | Download named places from OpenStreetMap for each city (network) |
 | `npm run data:geocode` | Fill missing stop coordinates from OpenStreetMap and Nominatim (network) |
+| `npm run data:names` | Fill missing Urdu stop names from the OpenStreetMap cache |
 | `npm run data:shapes` | Build road-following route lines with OSRM (network) |
 | `npm run build` | Production build into `dist/` |
 

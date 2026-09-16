@@ -1,7 +1,7 @@
 // Validate data/systems/*.json. Errors fail CI; warnings are printed for maintainers.
 //   node scripts/validate.mjs [--strict]   (--strict turns warnings into errors)
 import path from 'node:path';
-import { haversine, loadCities, loadSystems } from './lib.mjs';
+import { haversine, loadCities, loadSystems, nameKey } from './lib.mjs';
 
 const strict = process.argv.includes('--strict');
 const cities = new Map(loadCities().map((c) => [c.id, c]));
@@ -74,7 +74,11 @@ for (const { file, system: s } of loadSystems()) {
           const d = haversine(prev.lat, prev.lon, st.lat, st.lon);
           const limit = (s.mode === 'metro_rail' ? 5000 : 6000) * Math.max(1, i - prev.i);
           if (d > limit) warnings.push(`${sw}: ${(d / 1000).toFixed(1)} km from previous located stop, check geocoding`);
-          if (d < 5 && i - prev.i === 1 && st.name !== r.stops[prev.i].name) warnings.push(`${sw}: same position as previous stop`);
+          // Two names for one place ("Golra Morh" / "Golra Morh Metro Station") is fine; unrelated names are not.
+          const a = nameKey(st.name);
+          const b = nameKey(r.stops[prev.i].name);
+          const related = a === b || ` ${a} `.includes(` ${b} `) || ` ${b} `.includes(` ${a} `);
+          if (d < 5 && i - prev.i === 1 && !related) warnings.push(`${sw}: same position as previous stop`);
         }
         prev = { lat: st.lat, lon: st.lon, i };
       }

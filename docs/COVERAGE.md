@@ -2,7 +2,7 @@
 
 Generated 2026-09-16 by `npm run data:build`. Do not edit by hand.
 
-**49 cities · 60 systems · 247 published routes · 2833 stops**
+**49 cities · 60 systems · 247 published routes · 2842 stops**
 
 Coordinate quality: **exact** = verified (OpenStreetMap element or Wikipedia, checked by a person), **matched** = automatic OpenStreetMap name match, **geocoded** = Nominatim search, **estimated** = interpolated between neighbours, **missing** = not on the map yet.
 
@@ -59,13 +59,13 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Lahore Feeder Routes (Speedo) | RT-08 | Canal - Jinnah Bus Terminal | operational | 21 | 29% | 43% | 0% | 29% | 0 | medium |
 | Lahore Feeder Routes (Speedo) | RT-09 | Railway Station - Gulshan-e-Ravi (Orange Line station) | operational | 15 | 33% | 40% | 0% | 27% | 0 | medium |
 | Lahore Feeder Routes (Speedo) | RT-10 | Wahdat Road Station - Qartaba Chowk | operational | 23 | 39% | 22% | 4% | 35% | 0 | medium |
-| Lahore Feeder Routes (Speedo) | RT-11 | Main Market Gulberg - Babu Sabu | operational | 28 | 7% | 32% | 4% | 50% | 2 | medium |
+| Lahore Feeder Routes (Speedo) | RT-11 | Main Market Gulberg - Babu Sabu | operational | 28 | 7% | 32% | 4% | 39% | 5 | medium |
 | Lahore Feeder Routes (Speedo) | RT-12 | R.A. Bazar - Nasir Bagh | operational | 23 | 9% | 57% | 4% | 30% | 0 | medium |
 | Lahore Feeder Routes (Speedo) | RT-13 | Depot Chowk - Kalma Chowk | operational | 29 | 38% | 28% | 0% | 34% | 0 | medium |
 | Lahore Feeder Routes (Speedo) | RT-14 | Purana Kahna - R.A. Bazar | operational | 37 | 24% | 30% | 3% | 43% | 0 | medium |
 | Lahore Feeder Routes (Speedo) | RT-15 | Bhatti Chowk - R.A. Bazar | operational | 28 | 21% | 54% | 0% | 25% | 0 | medium |
 | Lahore Feeder Routes (Speedo) | RT-16 | Canal - Jinnah Bus Terminal (via Model Town, Johar Town) | operational | 35 | 20% | 31% | 6% | 43% | 0 | medium |
-| Lahore Feeder Routes (Speedo) | RT-17 | Gajju Matah - Rangers Wing Headquarter (Heir) | operational | 41 | 2% | 12% | 0% | 73% | 5 | medium |
+| Lahore Feeder Routes (Speedo) | RT-17 | Gajju Matah - Rangers Wing Headquarter (Heir) | operational | 41 | 2% | 12% | 0% | 32% | 22 | medium |
 | Lahore Feeder Routes (Speedo) | RT-18 | Bhatti Chowk - Mandiali Toll Plaza | operational | 18 | 0% | 39% | 17% | 28% | 3 | medium |
 | Lahore Feeder Routes (Speedo) | RT-19 | Paragon City - Railway Station | operational | 32 | 3% | 34% | 6% | 56% | 0 | low |
 | Lahore Feeder Routes (Speedo) | RT-20 | Sharif Medical City - Ali Town Station | unverified | 29 | 7% | 24% | 0% | 66% | 1 | low |
@@ -99,7 +99,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Islamabad Electric Feeder Buses (CDA) | FR-08A | PIMS Hospital - Capt. Naeem Tufail Shaheed Chowk (Tramri) via Aabpara & Park Road | operational | 23 | 4% | 43% | 0% | 43% | 2 | high |
 | Islamabad Electric Feeder Buses (CDA) | FR-08B | Khanna Pul - Nilore (via Lehtrar Road, Tarlai, Tramri) | operational | 28 | 4% | 46% | 0% | 50% | 0 | medium |
 | Islamabad Electric Feeder Buses (CDA) | FR-08C | PIMS Hospital - Capt. Naeem Tufail Shaheed Chowk (Tramri) via Faizabad | operational | 23 | 9% | 43% | 0% | 39% | 2 | high |
-| Islamabad Electric Feeder Buses (CDA) | FR-09 | Khanna Pul - Golra Morh Metro Station (via IJP Road, Pirwadhai) | operational | 27 | 30% | 33% | 0% | 37% | 0 | high |
+| Islamabad Electric Feeder Buses (CDA) | FR-09 | Khanna Pul - Golra Morh Metro Station (via IJP Road, Pirwadhai) | operational | 27 | 30% | 33% | 0% | 33% | 1 | high |
 | Islamabad Electric Feeder Buses (CDA) | FR-10 | Golra Morh Metro Station - Taxila (via G-11, F-11, E-11, D-12, Sangjani, B-17) | operational | 25 | 12% | 32% | 0% | 56% | 0 | high |
 | Islamabad Electric Feeder Buses (CDA) | FR-11 | Golra Morh Metro Station - I-16/4 (via N-5, I-14) | operational | 20 | 20% | 45% | 0% | 35% | 0 | medium |
 | Islamabad Electric Feeder Buses (CDA) | FR-12 | Taxila Chowk - Tipu Sultan Shaheed Chowk (Hassan Abdal) via Wah | operational | 25 | 0% | 16% | 0% | 12% | 18 | high |
@@ -161,7 +161,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Multan Metrobus Feeder Routes | MFR09B | Chungi No 9 to Nadirabad Phatak | operational | 36 | 8% | 25% | 8% | 58% | 0 | medium |
 | Multan Metrobus Feeder Routes | MFR09C | Chungi No 9 to Nadirabad Phatak via Ali Wala | operational | 38 | 8% | 32% | 8% | 53% | 0 | medium |
 | Multan Metrobus Feeder Routes | MFR10 | Chungi no 9 to Nawabpur | operational | 20 | 5% | 15% | 0% | 80% | 0 | medium |
-| Multan Metrobus Feeder Routes | MFR11 | Vehari Chowk to CMH | operational | 24 | 4% | 46% | 4% | 46% | 0 | medium |
+| Multan Metrobus Feeder Routes | MFR11 | Vehari Chowk to CMH | operational | 24 | 4% | 46% | 8% | 42% | 0 | medium |
 | Multan Metrobus Feeder Routes | MFR12A | Aziz Hotel to Airport | operational | 15 | 7% | 47% | 0% | 47% | 0 | medium |
 | Multan Metrobus Feeder Routes | MFR12B | Aziz Hotel to Nishtar Hospital | operational | 9 | 11% | 67% | 0% | 22% | 0 | medium |
 | Multan Metrobus Feeder Routes | MFR30 | Dera Adda to Sher Shah Bypass | operational | 28 | 4% | 32% | 0% | 61% | 1 | medium |
@@ -196,7 +196,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 
 | System | Route | Name | Status | Stops | Exact | Matched | Geocoded | Estimated | Missing | Stop list confidence |
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---|
-| Green Electric Bus Bahawalpur | 13-solang-to-cattle-market | 13 solang to Cattle market | operational | 36 | 0% | 22% | 0% | 58% | 7 | medium |
+| Green Electric Bus Bahawalpur | 13-solang-to-cattle-market | 13 solang to Cattle market | operational | 36 | 0% | 22% | 0% | 56% | 8 | medium |
 | Green Electric Bus Bahawalpur | bhatta-1-to-goth-lashkar | Bhatta 1 to Goth Lashkar | operational | 20 | 0% | 25% | 0% | 30% | 9 | medium |
 | Green Electric Bus Bahawalpur | dera-bakha-to-lodhran-entrance-gate | Dera Bakha to Lodhran entrance gate | operational | 47 | 0% | 17% | 0% | 62% | 10 | medium |
 | Green Electric Bus Bahawalpur | talha-town-to-al-raheem-town | Talha Town to Al Raheem Town | operational | 22 | 0% | 32% | 0% | 41% | 6 | medium |
@@ -370,7 +370,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | System | Route | Name | Status | Stops | Exact | Matched | Geocoded | Estimated | Missing | Stop list confidence |
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---|
 | Green Electric Bus Khushab | gbs-khushab-to-girot-chowk | GBS Khushab to Girot Chowk | operational | 21 | 0% | 19% | 5% | 71% | 1 | medium |
-| Green Electric Bus Khushab | gbs-khushab-to-mangwal | GBS Khushab to Mangwal | operational | 18 | 0% | 11% | 0% | 56% | 6 | medium |
+| Green Electric Bus Khushab | gbs-khushab-to-mangwal | GBS Khushab to Mangwal | operational | 18 | 0% | 11% | 0% | 0% | 16 | medium |
 | Green Electric Bus Khushab | gbs-khushab-to-mitha-tiwana-stop | GBS Khushab to Mitha Tiwana Stop | operational | 18 | 0% | 17% | 6% | 33% | 8 | medium |
 
 ## Layyah
@@ -398,7 +398,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 
 | System | Route | Name | Status | Stops | Exact | Matched | Geocoded | Estimated | Missing | Stop list confidence |
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---|
-| Green Electric Bus Mianwali | gbs-to-ban-hafiz-jee | GBS to Ban Hafiz Jee | operational | 24 | 0% | 0% | 4% | 0% | 23 | medium |
+| Green Electric Bus Mianwali | gbs-to-ban-hafiz-jee | GBS to Ban Hafiz Jee | operational | 24 | 0% | 4% | 4% | 29% | 15 | medium |
 | Green Electric Bus Mianwali | gbs-to-daud-khel | GBS to Daud Khel | operational | 26 | 0% | 27% | 4% | 58% | 3 | medium |
 | Green Electric Bus Mianwali | gbs-to-health-center-wan-bachran | GBS to Health Center Wan Bachran | operational | 22 | 0% | 23% | 0% | 45% | 7 | medium |
 
@@ -432,7 +432,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 
 | System | Route | Name | Status | Stops | Exact | Matched | Geocoded | Estimated | Missing | Stop list confidence |
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---|
-| Green Electric Bus Okara | gbs-okara-to-deepal-pur | GBS Okara To Deepal Pur | operational | 17 | 0% | 0% | 12% | 0% | 15 | medium |
+| Green Electric Bus Okara | gbs-okara-to-deepal-pur | GBS Okara To Deepal Pur | operational | 17 | 0% | 6% | 12% | 6% | 13 | medium |
 | Green Electric Bus Okara | gbs-okara-to-sher-ghar | GBS Okara to Sher Ghar | operational | 21 | 0% | 10% | 0% | 10% | 17 | medium |
 | Green Electric Bus Okara | sahiwal-bypass-to-kfc-bypass | Sahiwal Bypass to KFC Bypass | operational | 15 | 0% | 13% | 0% | 13% | 11 | medium |
 
@@ -451,7 +451,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Green Electric Bus Rajanpur | gbs-rajanpur-to-hajipur | GBS Rajanpur to Hajipur | operational | 16 | 0% | 0% | 0% | 0% | 16 | medium |
 | Green Electric Bus Rajanpur | rajanpur-intercity | Rajanpur Intercity | operational | 17 | 0% | 0% | 0% | 0% | 17 | medium |
 | Green Electric Bus Rajanpur | rajanpur-to-fazilpur | Rajanpur to Fazilpur | operational | 14 | 0% | 0% | 0% | 0% | 14 | medium |
-| Green Electric Bus Rajanpur | rajanpur-to-kot-mithan | Rajanpur to Kot Mithan | operational | 15 | 0% | 0% | 7% | 0% | 14 | medium |
+| Green Electric Bus Rajanpur | rajanpur-to-kot-mithan | Rajanpur to Kot Mithan | operational | 15 | 0% | 7% | 7% | 0% | 13 | medium |
 
 ## Sheikhupura
 
@@ -501,12 +501,49 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---|
 | Green Peoples Bus Service Turbat | TBT-1 | Turbat town route | operational | 0 | - | - | - | - | 0 | low |
 
+## Where help is needed most
+
+These routes have the most stops without a verified position. Adding real coordinates, or the stop's OpenStreetMap id, to the matching file in `data/systems/` improves the map and the trip planner straight away.
+
+| City | System | Route | Stops | Missing | Estimated |
+|---|---|---|---|---:|---:|
+| Bahawalpur | Green Electric Bus Bahawalpur | dera-bakha-to-lodhran-entrance-gate | 47 | 10 | 29 |
+| Lahore | Lahore Feeder Routes (Speedo) | RT-17 | 41 | 22 | 13 |
+| Multan | Multan Metrobus Feeder Routes | MFR08B | 41 | 16 | 18 |
+| Multan | Multan Metrobus Feeder Routes | MFR07B | 36 | 3 | 30 |
+| Sargodha | Green Electric Bus Sargodha | gbs-sargodha-to-mid-ranjha | 37 | 29 | 4 |
+| Sheikhupura | Green Electric Bus Sheikhupura | e-bus-depot-govt-college-to-shahdara-metro-stop | 37 | 17 | 16 |
+| Vehari | Green Electric Bus Vehari | govt-collage-to-fawara-chowk-burewala | 34 | 33 | 0 |
+| Vehari | Green Electric Bus Vehari | peer-mahal-to-tibba-sultanpur | 35 | 11 | 22 |
+| Lodhran | Green Electric Bus Lodhran | shahida-islam-hospital-to-duniyapur | 34 | 25 | 7 |
+| Multan | Multan Metrobus Feeder Routes | MFR03B | 38 | 4 | 27 |
+| Sargodha | Green Electric Bus Sargodha | gbs-sargodha-to-gbs-bhera | 36 | 14 | 17 |
+| Lodhran | Green Electric Bus Lodhran | shahida-islam-hospital-to-kahror-pakka | 33 | 20 | 11 |
+| Narowal | Green Electric Bus Narowal | gbs-narowal-to-manga-pul | 34 | 20 | 9 |
+| Toba Tek Singh | Green Electric Bus Toba Tek Singh | toba-tek-singh-to-gojra | 31 | 12 | 17 |
+| Toba Tek Singh | Green Electric Bus Toba Tek Singh | toba-tek-singh-to-kamalia | 33 | 16 | 13 |
+| Bahawalpur | Green Electric Bus Bahawalpur | 13-solang-to-cattle-market | 36 | 8 | 20 |
+| Layyah | Green Electric Bus Layyah | gbs-layyah-to-pahar-pur | 30 | 23 | 5 |
+| Narowal | Green Electric Bus Narowal | gbs-narowal-to-shakargarh | 34 | 26 | 2 |
+| Lahore | Green Electric Bus Lahore (Electro) | RT20-E | 40 | 1 | 26 |
+| Attock | Green Electric Bus Attock | pof-sanjwal-to-hazro | 36 | 7 | 20 |
+| Narowal | Green Electric Bus Narowal | gbs-narowal-to-zafarwal | 30 | 12 | 15 |
+| Multan | Multan Metrobus Feeder Routes | MFR04B | 40 | 0 | 25 |
+| Gujar Khan | Green Electric Bus Gujar Khan | gujjar-khan-to-t-chowk | 29 | 5 | 19 |
+| Multan | Multan Metrobus Feeder Routes | MFR01B | 32 | 8 | 15 |
+| Sahiwal | Green Electric Bus Sahiwal | admore-pump-farid-town-to-adda-gamber | 25 | 8 | 15 |
+| Bahawalnagar | Green Electric Bus Bahawalnagar | gbs-bahawalnagar-to-chishtian | 23 | 23 | 0 |
+| Bahawalnagar | Green Electric Bus Bahawalnagar | gbs-bahawalnagar-to-gbs-bahawalnagar | 23 | 23 | 0 |
+| Narowal | Green Electric Bus Narowal | gbs-narowal-to-pasrur-chowk | 28 | 5 | 18 |
+| Toba Tek Singh | Green Electric Bus Toba Tek Singh | gbs-toba-tek-singh-to-peer-mahal | 30 | 1 | 22 |
+| Islamabad & Rawalpindi | Islamabad Electric Feeder Buses (CDA) | FR-13 | 29 | 0 | 22 |
+
 ## Build warnings
 
 - lahore-electric-bus/RT20-E: 1 stop(s) without coordinates are left out of the map
 - lahore-feeder/RT-05: 1 stop(s) without coordinates are left out of the map
-- lahore-feeder/RT-11: 2 stop(s) without coordinates are left out of the map
-- lahore-feeder/RT-17: 5 stop(s) without coordinates are left out of the map
+- lahore-feeder/RT-11: 5 stop(s) without coordinates are left out of the map
+- lahore-feeder/RT-17: 22 stop(s) without coordinates are left out of the map
 - lahore-feeder/RT-18: 3 stop(s) without coordinates are left out of the map
 - lahore-feeder/RT-20: 1 stop(s) without coordinates are left out of the map
 - lahore-feeder/RT-23: 4 stop(s) without coordinates are left out of the map
@@ -520,6 +557,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 - islamabad-electric-feeder/FR-07: 1 stop(s) without coordinates are left out of the map
 - islamabad-electric-feeder/FR-08A: 2 stop(s) without coordinates are left out of the map
 - islamabad-electric-feeder/FR-08C: 2 stop(s) without coordinates are left out of the map
+- islamabad-electric-feeder/FR-09: 1 stop(s) without coordinates are left out of the map
 - islamabad-electric-feeder/FR-12: 18 stop(s) without coordinates are left out of the map
 - islamabad-electric-feeder/FR-14: 1 stop(s) without coordinates are left out of the map
 - islamabad-electric-feeder/FR-14A: 3 stop(s) without coordinates are left out of the map
@@ -555,7 +593,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 - sargodha-electric-bus/gbs-sargodha-to-kot-momin: 11 stop(s) without coordinates are left out of the map
 - sargodha-electric-bus/gbs-sargodha-to-mid-ranjha: 29 stop(s) without coordinates are left out of the map
 - sargodha-electric-bus/gbs-sargodha-to-sillanwali: 14 stop(s) without coordinates are left out of the map
-- bahawalpur-electric-bus/13-solang-to-cattle-market: 7 stop(s) without coordinates are left out of the map
+- bahawalpur-electric-bus/13-solang-to-cattle-market: 8 stop(s) without coordinates are left out of the map
 - bahawalpur-electric-bus/bhatta-1-to-goth-lashkar: 9 stop(s) without coordinates are left out of the map
 - bahawalpur-electric-bus/dera-bakha-to-lodhran-entrance-gate: 10 stop(s) without coordinates are left out of the map
 - bahawalpur-electric-bus/talha-town-to-al-raheem-town: 6 stop(s) without coordinates are left out of the map
@@ -601,6 +639,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 - gujar-khan-electric-bus/gujar-khan-to-sohawa: 2 stop(s) without coordinates are left out of the map
 - gujar-khan-electric-bus/gujjar-khan-to-t-chowk: 5 stop(s) without coordinates are left out of the map
 - hafizabad-electric-bus/ghora-chowk-to-jalalpur-bhattian: 3 stop(s) without coordinates are left out of the map
+- hafizabad-electric-bus/jinnah-chowk-jinnah-chowk: located stops are too close together to draw a line; listed as information only
 - jhang-electric-bus/gbs-jhang-to-aliabad: 12 stop(s) without coordinates are left out of the map
 - jhang-electric-bus/gbs-jhang-to-aliabad: fewer than 2 located stops, listed without a map line
 - jhang-electric-bus/gbs-jhang-to-gojra-bypass: 7 stop(s) without coordinates are left out of the map
@@ -613,7 +652,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 - khanewal-electric-bus/khanewal-to-jahaniya: 8 stop(s) without coordinates are left out of the map
 - khanewal-electric-bus/khanewal-to-kabirwala: 9 stop(s) without coordinates are left out of the map
 - khushab-electric-bus/gbs-khushab-to-girot-chowk: 1 stop(s) without coordinates are left out of the map
-- khushab-electric-bus/gbs-khushab-to-mangwal: 6 stop(s) without coordinates are left out of the map
+- khushab-electric-bus/gbs-khushab-to-mangwal: 16 stop(s) without coordinates are left out of the map
 - khushab-electric-bus/gbs-khushab-to-mangwal: fewer than 2 located stops, listed without a map line
 - khushab-electric-bus/gbs-khushab-to-mitha-tiwana-stop: 8 stop(s) without coordinates are left out of the map
 - layyah-electric-bus/gbs-layyah-to-pahar-pur: 23 stop(s) without coordinates are left out of the map
@@ -623,8 +662,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 - lodhran-electric-bus/shahida-islam-hospital-to-kahror-pakka: 20 stop(s) without coordinates are left out of the map
 - mandi-bahauddin-electric-bus/college-chowk-to-mano-chak: 3 stop(s) without coordinates are left out of the map
 - mandi-bahauddin-electric-bus/kathiala-sheikhan-to-rasool-village: 4 stop(s) without coordinates are left out of the map
-- mianwali-electric-bus/gbs-to-ban-hafiz-jee: 23 stop(s) without coordinates are left out of the map
-- mianwali-electric-bus/gbs-to-ban-hafiz-jee: fewer than 2 located stops, listed without a map line
+- mianwali-electric-bus/gbs-to-ban-hafiz-jee: 15 stop(s) without coordinates are left out of the map
 - mianwali-electric-bus/gbs-to-daud-khel: 3 stop(s) without coordinates are left out of the map
 - mianwali-electric-bus/gbs-to-health-center-wan-bachran: 7 stop(s) without coordinates are left out of the map
 - muzaffargarh-electric-bus/fazal-mill-to-khanpur-bagga-sher: 8 stop(s) without coordinates are left out of the map
@@ -640,7 +678,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 - narowal-electric-bus/gbs-narowal-to-zafarwal: 12 stop(s) without coordinates are left out of the map
 - narowal-electric-bus/narowal-circular-route: 13 stop(s) without coordinates are left out of the map
 - narowal-electric-bus/narowal-circular-route: fewer than 2 located stops, listed without a map line
-- okara-electric-bus/gbs-okara-to-deepal-pur: 15 stop(s) without coordinates are left out of the map
+- okara-electric-bus/gbs-okara-to-deepal-pur: 13 stop(s) without coordinates are left out of the map
 - okara-electric-bus/gbs-okara-to-sher-ghar: 17 stop(s) without coordinates are left out of the map
 - okara-electric-bus/sahiwal-bypass-to-kfc-bypass: 11 stop(s) without coordinates are left out of the map
 - pakpattan-electric-bus/gbs-pakpattan-to-arifwala: 20 stop(s) without coordinates are left out of the map
@@ -654,8 +692,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 - rajanpur-electric-bus/rajanpur-intercity: fewer than 2 located stops, listed without a map line
 - rajanpur-electric-bus/rajanpur-to-fazilpur: 14 stop(s) without coordinates are left out of the map
 - rajanpur-electric-bus/rajanpur-to-fazilpur: fewer than 2 located stops, listed without a map line
-- rajanpur-electric-bus/rajanpur-to-kot-mithan: 14 stop(s) without coordinates are left out of the map
-- rajanpur-electric-bus/rajanpur-to-kot-mithan: fewer than 2 located stops, listed without a map line
+- rajanpur-electric-bus/rajanpur-to-kot-mithan: 13 stop(s) without coordinates are left out of the map
 - sheikhupura-electric-bus/e-bus-depot-govt-college-to-shahdara-metro-stop: 17 stop(s) without coordinates are left out of the map
 - sheikhupura-electric-bus/e-bus-depot-to-khanqah-dogran: 15 stop(s) without coordinates are left out of the map
 - toba-tek-singh-electric-bus/gbs-toba-tek-singh-to-peer-mahal: 1 stop(s) without coordinates are left out of the map

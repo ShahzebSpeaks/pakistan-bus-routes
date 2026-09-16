@@ -354,6 +354,8 @@ for (const pass of [1, 2]) {
             const pt = pointAlong(ref.line, ref.cum, a + (b - a) * t);
             set(s, { lat: pt[0], lon: pt[1], source: 'auto:interpolated' });
           } else if (prev != null && next != null) {
+            // Anchors at (nearly) the same place would stack every stop between them on one point.
+            if (dist(stops[prev], stops[next]) < 100) return;
             const t = (i - prev) / (next - prev);
             set(s, {
               lat: stops[prev].lat + t * (stops[next].lat - stops[prev].lat),

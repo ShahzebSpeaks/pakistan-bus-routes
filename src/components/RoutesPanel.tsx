@@ -6,6 +6,32 @@ import { localName, num } from '../lib/i18n';
 import type { CityData, FareRules, Route, Stop, SystemInfo } from '../types';
 import { RouteBadge } from './RouteBadge';
 
+/** Copies the current page link (routes and stops have their own URL). */
+export function ShareButton({ t }: { t: Dict }) {
+  const [done, setDone] = useState(false);
+  return (
+    <button
+      type="button"
+      className="btn btn-outline"
+      onClick={async () => {
+        const url = window.location.href;
+        try {
+          if (navigator.share) await navigator.share({ url });
+          else {
+            await navigator.clipboard.writeText(url);
+            setDone(true);
+            setTimeout(() => setDone(false), 2000);
+          }
+        } catch {
+          /* the user dismissed the share sheet */
+        }
+      }}
+    >
+      {done ? '✓ ' + t.copied : '↗ ' + t.share}
+    </button>
+  );
+}
+
 const ACTIVE = new Set(['operational', 'unverified']);
 
 export function fareText(f: FareRules | undefined, t: Dict, lang: Lang) {
@@ -242,9 +268,12 @@ export function RouteDetail({ data, route, lang, t, selectedStopId, onBack, onSt
       )}
       <Sources t={t} sources={[...route.sources, ...(system?.sources ?? [])]} />
       <SystemContact t={t} system={system} />
-      <a className="btn btn-outline" href={issueUrl(`Route correction: ${route.key}`, body)} target="_blank" rel="noopener">
-        ✎ {t.reportIssue}
-      </a>
+      <div className="btn-row">
+        <ShareButton t={t} />
+        <a className="btn btn-outline" href={issueUrl(`Route correction: ${route.key}`, body)} target="_blank" rel="noopener">
+          ✎ {t.reportIssue}
+        </a>
+      </div>
     </div>
   );
 }
@@ -365,9 +394,12 @@ export function StopDetail({ data, stop, lang, t, onBack, onRoute, onPlanFrom, o
           );
         })}
       </ul>
-      <a className="btn btn-outline" href={issueUrl(`Stop correction: ${data.city.id}/${stop.id}`, body)} target="_blank" rel="noopener">
-        ✎ {t.reportIssue}
-      </a>
+      <div className="btn-row">
+        <ShareButton t={t} />
+        <a className="btn btn-outline" href={issueUrl(`Stop correction: ${data.city.id}/${stop.id}`, body)} target="_blank" rel="noopener">
+          ✎ {t.reportIssue}
+        </a>
+      </div>
     </div>
   );
 }

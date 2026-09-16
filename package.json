@@ -20,7 +20,9 @@
     "data:build": "node scripts/build-data.mjs",
     "data:validate": "node scripts/validate.mjs",
     "data:all": "npm run data:osm && npm run data:geocode && npm run data:shapes && npm run data:validate && npm run data:build",
-    "icons": "python scripts/assets/make-icons.py"
+    "icons": "python scripts/assets/make-icons.py",
+    "preview:maps": "node scripts/preview-svg.mjs",
+    "data:names": "node scripts/enrich-names.mjs"
   },
   "engines": {
     "node": ">=20"
