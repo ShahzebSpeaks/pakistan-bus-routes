@@ -25,11 +25,11 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run data:validate
-      - run: npm test
       - name: Compile data
         run: npm run data:build
         env:
           REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+      - run: npm test
       - name: Build site
         run: npm run build
         env:

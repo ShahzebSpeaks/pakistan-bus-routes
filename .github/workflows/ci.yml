@@ -17,9 +17,9 @@ jobs:
       - run: npm ci
       - name: Validate data
         run: npm run data:validate
-      - name: Unit tests
-        run: npm test
       - name: Compile data (offline)
         run: npm run data:build
+      - name: Unit and dataset tests
+        run: npm test
       - name: Typecheck and build
         run: npm run build
