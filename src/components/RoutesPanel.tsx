@@ -88,17 +88,18 @@ export function RouteList({ data, lang, t, systemFilter, showInactive, onSystemF
     bySystem.get(item.r.system)!.push(item);
   }
   const systems = new Map(data.systems.map((s) => [s.id, s]));
+  const systemsWithRoutes = data.systems.filter((sys) => data.routes.some((r) => r.system === sys.id));
   const inactiveCount = data.routes.filter((r) => !ACTIVE.has(r.status)).length;
 
   return (
     <div className="panel-body">
       <input className="search" type="search" placeholder={t.searchRoutes} value={q} onChange={(e) => setQ(e.target.value)} aria-label={t.searchRoutes} />
-      {data.systems.length > 1 && (
+      {systemsWithRoutes.length > 1 && (
         <div className="chips" role="group">
           <button type="button" className={`chip ${!systemFilter ? 'on' : ''}`} onClick={() => onSystemFilter(null)}>
             {t.allSystems}
           </button>
-          {data.systems.map((s) => (
+          {systemsWithRoutes.map((s) => (
             <button key={s.id} type="button" className={`chip ${systemFilter === s.id ? 'on' : ''}`} onClick={() => onSystemFilter(systemFilter === s.id ? null : s.id)}>
               {localName(lang, s)}
             </button>

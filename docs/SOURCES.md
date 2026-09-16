@@ -282,6 +282,11 @@ Generated 2026-09-16 from `data/systems`. Facts (route numbers, stop names, fare
 - [Karachi Pink Bus Gets New Route & Timings for Women](https://www.techjuice.pk/karachi-pink-bus-gets-new-route-timings-for-women/)
 - [Karachi Pink Bus service updates route and timings for women](https://www.nation.com.pk/16-Nov-2025/karachi-pink-bus-service-updates-route-timings-women)
 
+## Private buses, minibuses and coaches (karachi)
+
+- [Intra-city provisional fare list for buses, minibuses and coaches](https://mwb.sindh.gov.pk/storage/Transport/intracity.jpeg) · Regional Transport Authority Karachi · 2026-04-04 · official
+- [Fares, Transport & Mass Transit Department Sindh](https://transport.sindh.gov.pk/fares) · Government of Sindh · official
+
 ## Green Electric Bus Kasur (kasur)
 
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
@@ -377,6 +382,25 @@ Generated 2026-09-16 from `data/systems`. Facts (route numbers, stop names, fare
 - [Metro Bus, Orange Line Train fares increased](https://pakobserver.net/metro-bus-orange-line-train-fares-increased-check-new-rates-here/) · Pakistan Observer · 2024-02-13
 - [Govt mulls raise in fares of mass transit system in Lahore](https://www.dawn.com/news/1954150) · Dawn · 2025-11-10
 - [Safar - Orange Line](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-1)
+
+## Lahore city wagon / minibus routes (LOV) (lahore)
+
+- [Urban (LOV) Wagon / Mini Bus - Routes & Fares](https://ptc.punjab.gov.pk/lov-route-fare) · Punjab Transport Company, Govt of Punjab · official
+- [PTC fare table LOV-101](https://ptc.punjab.gov.pk/system/files?file=101_2.pdf)
+- [PTC fare table LOV-102](https://ptc.punjab.gov.pk/system/files?file=102_2.pdf)
+- [PTC fare table LOV-103](https://ptc.punjab.gov.pk/system/files?file=103_0.pdf)
+- [PTC fare table LOV-105](https://ptc.punjab.gov.pk/system/files?file=105_0.pdf)
+- [PTC fare table LOV-105A](https://ptc.punjab.gov.pk/system/files/105-A.pdf)
+- [PTC fare table LOV-106](https://ptc.punjab.gov.pk/system/files?file=106_0.pdf)
+- [PTC fare table LOV-107](https://ptc.punjab.gov.pk/system/files?file=107_0.pdf)
+- [PTC fare table LOV-108](https://ptc.punjab.gov.pk/system/files?file=108_0.pdf)
+- [PTC fare table LOV-111](https://ptc.punjab.gov.pk/system/files?file=111_0.pdf)
+- [PTC fare table LOV-112](https://ptc.punjab.gov.pk/system/files?file=112_0.pdf)
+- [PTC fare table LOV-116](https://ptc.punjab.gov.pk/system/files?file=116_0.pdf)
+- [PTC fare table LOV-122](https://ptc.punjab.gov.pk/system/files?file=122.pdf)
+- [PTC fare table LOV-125](https://ptc.punjab.gov.pk/system/files?file=125_0.pdf)
+- [PTC fare table LOV-126](https://ptc.punjab.gov.pk/system/files?file=126_0.pdf)
+- [PTC fare table LOV-130](https://ptc.punjab.gov.pk/system/files?file=130.pdf)
 
 ## Peoples Bus Service Larkana (larkana)
 

@@ -1,0 +1,791 @@
+{
+  "assignment": "sources-official",
+  "researched_on": "2026-09-16",
+  "systems": [
+    {
+      "id": "islamabad-electric-feeder",
+      "city": "islamabad-rawalpindi",
+      "name": "CDA Electric Feeder Buses",
+      "name_ur": "",
+      "operator": "Capital Development Authority",
+      "mode": "electric_bus",
+      "website": "https://www.cda.gov.pk",
+      "helpline": null,
+      "payment": "",
+      "fare_rules": {
+        "type": "unknown",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "",
+        "as_of": null,
+        "source_url": null
+      },
+      "hours": null,
+      "sources": [
+        {
+          "title": "Transit Map of Islamabad (V-07)",
+          "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf",
+          "publisher": "CDA",
+          "date": null,
+          "official": true
+        }
+      ],
+      "routes": [
+        {
+          "id": "FR-01",
+          "name": "Khana Pul - NUST",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Alignment: via IH & I-9, I-10 & I-11. Route list taken from the legend of the official CDA map. Stops appear on the map graphic but cannot be read reliably from it."
+        },
+        {
+          "id": "FR-02",
+          "name": "Sohan - AOU",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Alignment: via I-8. Route list taken from the legend of the official CDA map. Stops appear on the map graphic but cannot be read reliably from it."
+        },
+        {
+          "id": "FR-03A",
+          "name": "PIMS Hospital - Saidpur Village",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Alignment: via F-8. Route list taken from the legend of the official CDA map. Stops appear on the map graphic but cannot be read reliably from it."
+        },
+        {
+          "id": "FR-03B",
+          "name": "PIMS Hospital - NL",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Alignment: via Margalla Road & Pak Secretariat. Route list taken from the legend of the official CDA map. Stops appear on the map graphic but cannot be read reliably from it."
+        },
+        {
+          "id": "FR-04",
+          "name": "PIMS Hospital - Bari Imam - QAU",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Route list taken from the legend of the official CDA map. Stops appear on the map graphic but cannot be read reliably from it."
+        },
+        {
+          "id": "FR-05",
+          "name": "Golra Morh - Taxila",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Alignment: via Margalla Road & GT Road. Route list taken from the legend of the official CDA map. Stops appear on the map graphic but cannot be read reliably from it."
+        },
+        {
+          "id": "FR-06",
+          "name": "PIMS Hospital - E-11 Markaz",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Alignment: via G-9, F-10 & F-11. Route list taken from the legend of the official CDA map. Stops appear on the map graphic but cannot be read reliably from it."
+        },
+        {
+          "id": "FR-07",
+          "name": "PIMS - NUST/PF",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Alignment: via G-8, G-9, G-10 & G-11. Route list taken from the legend of the official CDA map. Stops appear on the map graphic but cannot be read reliably from it."
+        },
+        {
+          "id": "FR-08A",
+          "name": "Capt. Naeem T. Shaheed Chowk - PIMS",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Alignment: via Park Road & SH. Route list taken from the legend of the official CDA map. Stops appear on the map graphic but cannot be read reliably from it."
+        },
+        {
+          "id": "FR-08B",
+          "name": "Khana Pul - Nilore",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Route list taken from the legend of the official CDA map. Stops appear on the map graphic but cannot be read reliably from it."
+        },
+        {
+          "id": "FR-08C",
+          "name": "Capt. Naeem T. Shaheed Chowk - PIMS",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Alignment: via Islamabad Highway. Route list taken from the legend of the official CDA map. Stops appear on the map graphic but cannot be read reliably from it."
+        },
+        {
+          "id": "FR-09",
+          "name": "Golra Morh - Khanna Pul",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Alignment: via IJP Road. Route list taken from the legend of the official CDA map. Stops appear on the map graphic but cannot be read reliably from it."
+        },
+        {
+          "id": "FR-10",
+          "name": "Golra Morh - Taxila",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Alignment: via N5. Route list taken from the legend of the official CDA map. Stops appear on the map graphic but cannot be read reliably from it."
+        },
+        {
+          "id": "FR-11",
+          "name": "Golra Morh Station - Foreign Office Society",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Alignment: via SH & N5. Route list taken from the legend of the official CDA map. Stops appear on the map graphic but cannot be read reliably from it."
+        },
+        {
+          "id": "FR-12",
+          "name": "Taxila - Tipu Sultan Chowk",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "G-15/H-15",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "G-16/H-16",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "G-16/1",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Masjid Abu Al Qasim",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Islamabad Toll Plaza",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Top City",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mumtaz City",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Airport Enclave",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Madni Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dhuma",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "PECHS",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mohri Patak",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dhok Baba Lal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dhok Miskeen",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mangial Link Road 1",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Graceland Housing Society",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mangial Link Road 2",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mangial Main Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Alignment: via N5. Route list taken from the legend of the official CDA map. Stops appear on the map graphic but cannot be read reliably from it. The map has an 18-stop numbered box headed 'ROUTE FR-12 Taxila to Tipu Sultan Chowk'. The stops do not reach Taxila, so the box may show only a new segment. Check before merging."
+        },
+        {
+          "id": "FR-13",
+          "name": "Golra Morh Station - Fateh Jang",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Alignment: via SH. Route list taken from the legend of the official CDA map. Stops appear on the map graphic but cannot be read reliably from it."
+        },
+        {
+          "id": "FR-14",
+          "name": "Bara Kahu - Mandi Morh",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Alignment: via Murree Road & IJP Road. Route list taken from the legend of the official CDA map. Stops appear on the map graphic but cannot be read reliably from it."
+        },
+        {
+          "id": "FR-14A",
+          "name": "Bara Kahu - Satra Meel",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Bara Kahu",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mangu Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Col. Ammanullah Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Athal Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Barakahu Bazar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bhera Pull",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mohallah Chaudhrian",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nai Abadi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Traders Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Akbar Niazi Hospital",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Phulgran",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dhok Badam",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Punjab College",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Al Wadi Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Satra Meel",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "high",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Alignment: via Murree Road. Route list taken from the legend of the official CDA map. Stops appear on the map graphic but cannot be read reliably from it. Stops 1-14 come from the numbered map box 'ROUTE-14A Bara Kahu to Satra Meel'. I added the Bara Kahu terminal as the origin."
+        },
+        {
+          "id": "FR-15",
+          "name": "Khana Pul - T-Chowk",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Alignment: via Islamabad Highway. Route list taken from the legend of the official CDA map. Stops appear on the map graphic but cannot be read reliably from it."
+        },
+        {
+          "id": "ST-01",
+          "name": "PIMS - Daman-e-Koh",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": 60,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Special trip. Runs Saturday and Sunday only, once an hour."
+        },
+        {
+          "id": "ST-02",
+          "name": "PIMS / Capt. Naeem T. Shaheed Chowk - Shakarparian",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": 60,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA)",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            }
+          ],
+          "notes": "Special trip. Runs Saturday and Sunday only, once an hour."
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    "The map does not print a version date. Compare it with the existing islamabad-electric-feeder data.",
+    "The map also lists a Diplomatic Enclave shuttle (Monday to Friday, every 2-5 minutes)."
+  ]
+}

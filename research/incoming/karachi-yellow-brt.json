@@ -1,0 +1,420 @@
+{
+  "assignment": "sources-official",
+  "researched_on": "2026-09-16",
+  "systems": [
+    {
+      "id": "karachi-yellow-brt",
+      "city": "karachi",
+      "name": "Karachi Breeze Yellow Line BRT",
+      "name_ur": "",
+      "operator": "Sindh Mass Transit Authority (World Bank Karachi Mobility Project)",
+      "mode": "brt",
+      "website": null,
+      "helpline": null,
+      "payment": "",
+      "fare_rules": {
+        "type": "unknown",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "",
+        "as_of": null,
+        "source_url": null
+      },
+      "hours": null,
+      "sources": [
+        {
+          "title": "Environmental Impact Assessment, BRT Yellow Line, Vol 1 (19-03-2024)",
+          "url": "https://urckarachi.org/wp-content/uploads/2024/09/BRT-Yellow-LIne-Volume-1-EIA-19-03-24_compressed.pdf",
+          "publisher": "Sindh Mass Transit Authority (copy hosted by Urban Resource Centre)",
+          "date": "2024-03-19",
+          "official": true
+        }
+      ],
+      "routes": [
+        {
+          "id": "YL",
+          "name": "Dawood Chowrangi - Numaish",
+          "name_ur": "",
+          "variant": "brt",
+          "color": null,
+          "status": "under_construction",
+          "launched": null,
+          "length_km": 21,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Dawood Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Mansehra Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Landhi Graveyard",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Sector 21",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Jamia Darul Uloom",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "SNA Motors",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "National Refinery",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Toyota Southern",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "KPT Interchange 1",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "KPT Interchange 2",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Khayaban-e-Ittehad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Sunset Boulevard",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Circular Avenue",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "National Medical Centre",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Kala Pull",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Shahrah-e-Faisal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Khalid Bin Walid Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Bilal Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Vita Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Shan Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Brooks Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Murtaza Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Singer Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Tariq Road intersection",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "BRT Yellow Line EIA Vol 1 (Mar 2024), sec 3.6.4",
+              "url": "https://urckarachi.org/wp-content/uploads/2024/09/BRT-Yellow-LIne-Volume-1-EIA-19-03-24_compressed.pdf"
+            }
+          ],
+          "notes": "The EIA lists 24 stations (21 at grade and 3 underground), grouped by type rather than in corridor order. Vita, Shan and Brooks Chowrangi are on the Korangi industrial side, and the underground stations are Murtaza, Singer and Tariq Road. Reorder the stations from OSM or a map before use."
+        },
+        {
+          "id": "YL-D1",
+          "name": "Numaish - Korangi Model Park",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 20,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "BRT Yellow Line EIA Vol 1 (Mar 2024), sec 3.5.7",
+              "url": "https://urckarachi.org/wp-content/uploads/2024/09/BRT-Yellow-LIne-Volume-1-EIA-19-03-24_compressed.pdf"
+            }
+          ],
+          "notes": "Direct service via Korangi Road, Jam Sadiq Bridge, Brookes Chowrangi and Landhi Road. 11 km of it runs on the corridor."
+        },
+        {
+          "id": "YL-D2",
+          "name": "Korangi Road - Chungi Stop",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 9,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "BRT Yellow Line EIA Vol 1 (Mar 2024), sec 3.5.7",
+              "url": "https://urckarachi.org/wp-content/uploads/2024/09/BRT-Yellow-LIne-Volume-1-EIA-19-03-24_compressed.pdf"
+            }
+          ],
+          "notes": "Direct service. 2.4 km of it runs on the corridor."
+        },
+        {
+          "id": "YL-D4",
+          "name": "Siddiq Akbar Road - Ibrahim Hyderi",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 13,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "BRT Yellow Line EIA Vol 1 (Mar 2024), sec 3.5.7",
+              "url": "https://urckarachi.org/wp-content/uploads/2024/09/BRT-Yellow-LIne-Volume-1-EIA-19-03-24_compressed.pdf"
+            }
+          ],
+          "notes": "Direct service via Syed Ammar Bukhari Road, Korangi Road and Coast Guard Chowrangi. 2.2 km of it runs on the corridor."
+        },
+        {
+          "id": "YL-D5",
+          "name": "Syed Ammar Bukhari Road - 51/C Graveyard",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 11,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "BRT Yellow Line EIA Vol 1 (Mar 2024), sec 3.5.7",
+              "url": "https://urckarachi.org/wp-content/uploads/2024/09/BRT-Yellow-LIne-Volume-1-EIA-19-03-24_compressed.pdf"
+            }
+          ],
+          "notes": "Direct service via National Refinery Road, Vita Chowrangi, Indus Chowrangi, Korangi No. 5 and Qabrastan Road. 2.72 km of it runs on the corridor."
+        },
+        {
+          "id": "YL-F1",
+          "name": "Dawood Chowrangi - Port Bin Qasim Mor",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 9.9,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "BRT Yellow Line EIA Vol 1 (Mar 2024), sec 3.5.7",
+              "url": "https://urckarachi.org/wp-content/uploads/2024/09/BRT-Yellow-LIne-Volume-1-EIA-19-03-24_compressed.pdf"
+            }
+          ],
+          "notes": "Feeder via Landhi Road and the N-5, with 15 bus stops (names not given)."
+        },
+        {
+          "id": "YL-F2B",
+          "name": "Dawood Chowrangi - Qasim Road / Mehran Highway",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 11,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "BRT Yellow Line EIA Vol 1 (Mar 2024), sec 3.5.7",
+              "url": "https://urckarachi.org/wp-content/uploads/2024/09/BRT-Yellow-LIne-Volume-1-EIA-19-03-24_compressed.pdf"
+            }
+          ],
+          "notes": "Feeder via the Landhi industrial area road, with 18 stops. It shares 3.4 km with Feeder 02A, which the EIA does not describe."
+        },
+        {
+          "id": "YL-F3",
+          "name": "Jinnah Airport Intersection - Murtaza Chowrangi",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 11.8,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "BRT Yellow Line EIA Vol 1 (Mar 2024), sec 3.5.7",
+              "url": "https://urckarachi.org/wp-content/uploads/2024/09/BRT-Yellow-LIne-Volume-1-EIA-19-03-24_compressed.pdf"
+            }
+          ],
+          "notes": "Feeder via Airport Road, Shahrah-e-Faisal, Korangi Shah Faisal Road, Malir River Bridge and 8000 Road, with 11 stops."
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    "What is the station order along the corridor?",
+    "The EIA does not describe Direct service 03 or Feeder 02A.",
+    "What is the construction status in 2026?"
+  ]
+}

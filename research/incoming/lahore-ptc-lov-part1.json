@@ -1,0 +1,1823 @@
+{
+  "assignment": "lahore-ptc-lov-part1",
+  "researched_on": "2026-09-16",
+  "systems": [
+    {
+      "id": "lahore-ptc-lov",
+      "city": "lahore",
+      "name": "Lahore city wagon / minibus routes (LOV)",
+      "name_ur": "سٹی ویگن",
+      "operator": "Private operators on route permits; routes and fares published by Punjab Transport Company",
+      "mode": "bus",
+      "website": "https://ptc.punjab.gov.pk/lov-route-fare",
+      "helpline": null,
+      "payment": "cash",
+      "fare_rules": {
+        "type": "distance_slab",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "",
+        "as_of": "2020-05",
+        "source_url": "https://ptc.punjab.gov.pk/lov-route-fare"
+      },
+      "hours": null,
+      "sources": [
+        {
+          "title": "Urban (LOV) Wagon / Mini Bus - Routes & Fares",
+          "url": "https://ptc.punjab.gov.pk/lov-route-fare",
+          "publisher": "Punjab Transport Company, Govt of Punjab",
+          "date": null,
+          "official": true
+        }
+      ],
+      "routes": [
+        {
+          "id": "LOV-102",
+          "name": "Rang Mehal - Liaqat Chowk",
+          "name_ur": "رنگ محل تا لیاقت چوک",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 14.1,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "range",
+            "currency": "PKR",
+            "min": 14,
+            "max": 23,
+            "concessions": "Minimum fare Rs 14, full route Rs 23. Fares are from the PTC table under the 17 May 2020 notification and may be outdated.",
+            "as_of": "2020-05",
+            "source_url": "https://ptc.punjab.gov.pk/system/files?file=102_2.pdf"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Rang Mehal",
+              "name_ur": "رنگ محل",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shah Alam Market",
+              "name_ur": "شاہ عالم مارکیٹ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lohari Gate",
+              "name_ur": "لوہاری گیٹ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bhati Gate",
+              "name_ur": "بھاٹی گیٹ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Central Model School",
+              "name_ur": "سنٹرل ماڈل سکول",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "GC College",
+              "name_ur": "جی سی کالج",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Istanbul Chowk",
+              "name_ur": "استنبول چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Civil Secretariat",
+              "name_ur": "سول سیکرٹریٹ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "MAO College",
+              "name_ur": "ایم اے او کالج",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chauburji",
+              "name_ur": "چوبرجی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Islamia Park",
+              "name_ur": "اسلامیہ پارک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kacha Ferozepur Road",
+              "name_ur": "کچا فیروزپور روڈ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Samanabad Gol Chakkar",
+              "name_ur": "سمن آباد گول چکر",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Samanabad Mor",
+              "name_ur": "سمن آباد موڑ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bahla Stop",
+              "name_ur": "بھلہ سٹاپ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sodiwal",
+              "name_ur": "سوڈیوال",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Yateem Khana Chowk",
+              "name_ur": "یتیم خانہ چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shezan Factory",
+              "name_ur": "شیزان فیکٹری",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "City Adda",
+              "name_ur": "سٹی اڈا",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bakar Mandi",
+              "name_ur": "بکرمنڈی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "D Block",
+              "name_ur": "ڈی بلاک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Allah Akbar Chowk",
+              "name_ur": "اللہ اکبرچوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "School Chowk",
+              "name_ur": "سکول چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Liaqat Chowk",
+              "name_ur": "لیاقت چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-102",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=102_2.pdf"
+            },
+            {
+              "title": "Urban (LOV) Wagon / Mini Bus - Routes & Fares",
+              "url": "https://ptc.punjab.gov.pk/lov-route-fare"
+            }
+          ],
+          "notes": "Stops transcribed from the Urdu fare table, in table order. Urdu names are verbatim; Roman spellings are transliterations and need a local check. The fare matrix runs from Rs 14 (minimum) to Rs 23 (full 14.1 km) under notification SO(TR-I)2-6/2015(F)(PIII) dated 17-05-2020, so it is probably out of date. km: 0.0, 1.0, 1.3, 1.8, 2.6, 3.1, 3.5, 4.1, 4.8, 5.6, 6.4, 6.7, 7.3, 8.0, 8.7, 9.0, 9.5, 10.5, 10.9, 11.4, 12.5, 13.1, 13.8, 14.1. Via (table header): Bhati Gate, Istanbul Chowk, Chauburji, Samanabad Mor, Yateem Khana Chowk, Shezan Factory, School Chowk. Roman spelling of Bahla Stop is uncertain."
+        },
+        {
+          "id": "LOV-103",
+          "name": "Rang Mehal - Samanabad",
+          "name_ur": "رنگ محل تا سمن آباد",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 9.1,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "range",
+            "currency": "PKR",
+            "min": 14,
+            "max": 19,
+            "concessions": "Minimum fare Rs 14, full route Rs 19. Fares are from the PTC table under the 17 May 2020 notification and may be outdated.",
+            "as_of": "2020-05",
+            "source_url": "https://ptc.punjab.gov.pk/system/files?file=103_0.pdf"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Rang Mehal",
+              "name_ur": "رنگ محل",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shah Alam Gate",
+              "name_ur": "شاہ عالم گیٹ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lohari Gate",
+              "name_ur": "لوہاری گیٹ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bhati Gate",
+              "name_ur": "بھاٹی گیٹ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Model School",
+              "name_ur": "ماڈل سکول",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Government College",
+              "name_ur": "گورنمنٹ کالج",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Istanbul Chowk",
+              "name_ur": "استنبول چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Purani Anarkali",
+              "name_ur": "پُرانی انارکلی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jain Mandir",
+              "name_ur": "جین مندر",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chauburji",
+              "name_ur": "چوبرجی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Venus Cinema",
+              "name_ur": "وینس سینما",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Quarters",
+              "name_ur": "کوارٹرز",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Samanabad Mor",
+              "name_ur": "سمن آباد موڑ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Pehla Gol Chakkar",
+              "name_ur": "پہلاگول چکر",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dusra Gol Chakkar",
+              "name_ur": "دوسراگول چکر",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Samanabad",
+              "name_ur": "سمن آباد",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-103",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=103_0.pdf"
+            },
+            {
+              "title": "Urban (LOV) Wagon / Mini Bus - Routes & Fares",
+              "url": "https://ptc.punjab.gov.pk/lov-route-fare"
+            }
+          ],
+          "notes": "Stops transcribed from the Urdu fare table, in table order. Urdu names are verbatim; Roman spellings are transliterations and need a local check. The fare matrix runs from Rs 14 (minimum) to Rs 19 (full 9.1 km) under notification SO(TR-I)2-6/2015(F)(PIII) dated 17-05-2020, so it is probably out of date. km: 0.0, 1.0, 1.3, 1.8, 2.6, 3.1, 3.5, 4.0, 4.6, 5.1, 5.9, 6.4, 6.9, 7.6, 8.1, 9.1. Via (table header): Bhati Gate, Istanbul Chowk, Chauburji, Samanabad Mor."
+        },
+        {
+          "id": "LOV-105",
+          "name": "Railway Station - Thokar Niaz Baig",
+          "name_ur": "ریلوے اسٹیشن تا ٹھوکر نیاز بیگ",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 15.7,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "range",
+            "currency": "PKR",
+            "min": 14,
+            "max": 23,
+            "concessions": "Minimum fare Rs 14, full route Rs 23. Fares are from the PTC table under the 17 May 2020 notification and may be outdated.",
+            "as_of": "2020-05",
+            "source_url": "https://ptc.punjab.gov.pk/system/files?file=105_0.pdf"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Railway Station",
+              "name_ur": "ریلوے اسٹیشن",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Haji Camp",
+              "name_ur": "حاجی کیمپ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lahore Hotel",
+              "name_ur": "لاہورہوٹل",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lakshmi Chowk",
+              "name_ur": "لکشمی چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Hall Road",
+              "name_ur": "ہال روڈ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "GPO",
+              "name_ur": "جی پی او",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "AG Office",
+              "name_ur": "اے جی آفس",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jain Mandir",
+              "name_ur": "جین مندر",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chauburji",
+              "name_ur": "چوبرجی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Islamia Park",
+              "name_ur": "اسلامیہ پارک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kacha Ferozepur Road",
+              "name_ur": "کچا فیروزپور روڈ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Samanabad Mor",
+              "name_ur": "سمن آباد موڑ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bahla Stop",
+              "name_ur": "بھلہ سٹاپ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sodiwal",
+              "name_ur": "سوڈیوال",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Yateem Khana Chowk",
+              "name_ur": "یتیم خانہ چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Scheme Mor",
+              "name_ur": "سکیم موڑ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Liaqat Chowk",
+              "name_ur": "لیاقت چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bijli Ghar",
+              "name_ur": "بجلی گھر",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kharak Nala",
+              "name_ur": "کھاڑک نالہ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Karim Block",
+              "name_ur": "کریم بلاک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Wahdat Road",
+              "name_ur": "وحدت روڈ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mansoora College",
+              "name_ur": "منصورہ کالج",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Multan Chungi",
+              "name_ur": "ملتان چونگی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-105",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=105_0.pdf"
+            },
+            {
+              "title": "Urban (LOV) Wagon / Mini Bus - Routes & Fares",
+              "url": "https://ptc.punjab.gov.pk/lov-route-fare"
+            }
+          ],
+          "notes": "Stops transcribed from the Urdu fare table, in table order. Urdu names are verbatim; Roman spellings are transliterations and need a local check. The fare matrix runs from Rs 14 (minimum) to Rs 23 (full 15.7 km) under notification SO(TR-I)2-6/2015(F)(PIII) dated 17-05-2020, so it is probably out of date. km: 0.0, 0.9, 1.5, 2.0, 2.6, 3.0, 3.4, 3.9, 4.7, 5.6, 5.9, 7.2, 7.9, 8.2, 8.7, 9.4, 10.9, 11.8, 12.6, 13.6, 14.7, 15.2, 15.7. CONFLICT: the PTC listing page calls this route Railway Station - Thokar Niaz Baig, but the fare table title reads Railway Station to Multan Chungi (ریلوے اسٹیشن تا ملتان چونگی) and the last stop is Multan Chungi. The route name is kept from the listing. Distance inconsistency: the stop-to-stop column gives 0.6 (Wahdat Road) and 1.0 (Mansoora College), but the cumulative km differences are 1.1 and 0.5. Cumulative km are kept as printed. Via (table header): Hall Road, Chauburji, Samanabad Mor, Yateem Khana Chowk, Scheme Mor, Liaqat Chowk."
+        },
+        {
+          "id": "LOV-105A",
+          "name": "Railway Station - Liaqat Chowk",
+          "name_ur": "ریلوے اسٹیشن تا لیاقت چوک",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 13.3,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "range",
+            "currency": "PKR",
+            "min": 14,
+            "max": 19,
+            "concessions": "Minimum fare Rs 14, full route Rs 19. Fares are from the PTC table under the 17 May 2020 notification and may be outdated.",
+            "as_of": "2020-05",
+            "source_url": "https://ptc.punjab.gov.pk/system/files/105-A.pdf"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Railway Station",
+              "name_ur": "ریلوے اسٹیشن",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Haji Camp",
+              "name_ur": "حاجی کیمپ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lahore Hotel",
+              "name_ur": "لاہورہوٹل",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lakshmi Chowk",
+              "name_ur": "لکشمی چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Hall Road",
+              "name_ur": "ہال روڈ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "GPO",
+              "name_ur": "جی پی او",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "AG Office",
+              "name_ur": "اے جی آفس",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jain Mandir",
+              "name_ur": "جین مندر",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chauburji",
+              "name_ur": "چوبرجی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Islamia Park",
+              "name_ur": "اسلامیہ پارک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kacha Ferozepur Road",
+              "name_ur": "کچا فیروزپور روڈ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Samanabad Gol Chakkar",
+              "name_ur": "سمن آباد گول چکر",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Samanabad Mor",
+              "name_ur": "سمن آباد موڑ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bahla Stop",
+              "name_ur": "بھلہ سٹاپ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sodiwal",
+              "name_ur": "سوڈیوال",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Yateem Khana Chowk",
+              "name_ur": "یتیم خانہ چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shezan Factory",
+              "name_ur": "شیزان فیکٹری",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "City Adda",
+              "name_ur": "سٹی اڈا",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bakar Mandi",
+              "name_ur": "بکرمنڈی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "D Block",
+              "name_ur": "ڈی بلاک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Allah Akbar Chowk",
+              "name_ur": "اللہ اکبرچوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "School Chowk",
+              "name_ur": "سکول چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Liaqat Chowk",
+              "name_ur": "لیاقت چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-105A",
+              "url": "https://ptc.punjab.gov.pk/system/files/105-A.pdf"
+            },
+            {
+              "title": "Urban (LOV) Wagon / Mini Bus - Routes & Fares",
+              "url": "https://ptc.punjab.gov.pk/lov-route-fare"
+            }
+          ],
+          "notes": "Stops transcribed from the Urdu fare table, in table order. Urdu names are verbatim; Roman spellings are transliterations and need a local check. The fare matrix runs from Rs 14 (minimum) to Rs 19 (full 13.3 km) under notification SO(TR-I)2-6/2015(F)(PIII) dated 17-05-2020, so it is probably out of date. km: 0.0, 0.9, 1.5, 2.0, 2.6, 3.0, 3.4, 3.9, 4.7, 5.6, 5.9, 6.5, 7.2, 7.9, 8.2, 8.7, 9.7, 10.1, 10.6, 11.7, 12.3, 13.0, 13.3. The link on the listing page (/system/files?file=105-A.pdf) returns HTTP 500. The same PDF downloads from /system/files/105-A.pdf, which is the URL used here. The table is titled LOV-105/A."
+        },
+        {
+          "id": "LOV-106",
+          "name": "Bhatti Chowk - Workshop U-Turn",
+          "name_ur": "بھاٹی چوک تا ورکشاپ یو ٹرن",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 22.3,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "range",
+            "currency": "PKR",
+            "min": 14,
+            "max": 27,
+            "concessions": "Minimum fare Rs 14, full route Rs 27. Fares are from the PTC table under the 17 May 2020 notification and may be outdated.",
+            "as_of": "2020-05",
+            "source_url": "https://ptc.punjab.gov.pk/system/files?file=106_0.pdf"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Workshop U-Turn",
+              "name_ur": "ورکشاپ یو ٹرن",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Walton Chowk",
+              "name_ur": "والٹن چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Walton Station",
+              "name_ur": "والٹن اسٹیشن",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gali No. 1",
+              "name_ur": "گلی نمبر 1",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Phatak",
+              "name_ur": "پھاٹک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Seven Up Stop",
+              "name_ur": "سیون اپ سٹاپ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sui Gas Stop",
+              "name_ur": "سوئی گیس سٹاپ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Hussain Chowk",
+              "name_ur": "حسین چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Liberty Gol Chakkar",
+              "name_ur": "لبرٹی گول چکر",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Hafeez Centre",
+              "name_ur": "حفیظ سنٹر",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Main Market",
+              "name_ur": "مین مارکیٹ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "McDonalds",
+              "name_ur": "میکڈونلڈز",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Siddique Trade Centre",
+              "name_ur": "صدیق ٹریڈ سنٹر",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Zafar Ali Road",
+              "name_ur": "ظفر علی روڈ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kinnaird College",
+              "name_ur": "کنیرڈ کالج",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Services Hospital",
+              "name_ur": "سروسز ہسپتال",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lahore College",
+              "name_ur": "لاہورکالج",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jail Road",
+              "name_ur": "جیل روڈ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mozang",
+              "name_ur": "مزنگ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Warris Road",
+              "name_ur": "وارث روڈ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ganga Ram Hospital",
+              "name_ur": "گنگارام ہسپتال",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Safa Wala Chowk",
+              "name_ur": "صفا والہ چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Regal Chowk",
+              "name_ur": "ریگل چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Hall Road",
+              "name_ur": "ہال روڈ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mayo Hospital",
+              "name_ur": "میوہسپتال",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lohari",
+              "name_ur": "لوہاری",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Urdu Bazar",
+              "name_ur": "اُردو بازار",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bhati Gate",
+              "name_ur": "بھاٹی گیٹ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-106",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=106_0.pdf"
+            },
+            {
+              "title": "Urban (LOV) Wagon / Mini Bus - Routes & Fares",
+              "url": "https://ptc.punjab.gov.pk/lov-route-fare"
+            }
+          ],
+          "notes": "Stops transcribed from the Urdu fare table, in table order. Urdu names are verbatim; Roman spellings are transliterations and need a local check. The fare matrix runs from Rs 14 (minimum) to Rs 27 (full 22.3 km) under notification SO(TR-I)2-6/2015(F)(PIII) dated 17-05-2020, so it is probably out of date. km: 0.0, 1.0, 2.1, 3.1, 3.6, 3.9, 4.4, 5.2, 6.6, 7.2, 8.6, 9.3, 9.8, 10.7, 11.3, 11.9, 12.8, 14.0, 15.5, 16.5, 16.9, 17.5, 18.0, 18.8, 19.4, 20.2, 20.8, 22.3. The table lists stops from Workshop U-Turn to Bhati Gate, the reverse of the route name, and that order is kept. The last stop is printed as بھاٹی گیٹ although the title says بھاٹی چوک."
+        },
+        {
+          "id": "LOV-107",
+          "name": "Bhatti Gate - Manga Mandi",
+          "name_ur": "بھاٹی گیٹ تا مانگا منڈی",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 49.2,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "range",
+            "currency": "PKR",
+            "min": 14,
+            "max": 34,
+            "concessions": "Minimum fare Rs 14, full route Rs 34. Fares are from the PTC table under the 17 May 2020 notification and may be outdated.",
+            "as_of": "2020-05",
+            "source_url": "https://ptc.punjab.gov.pk/system/files?file=107_0.pdf"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Bhati Chowk",
+              "name_ur": "بھاٹی چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "GC College University",
+              "name_ur": "جی سی کالج یونیورسٹی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Civil Lines College",
+              "name_ur": "سول لائنز کالج",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Veterinary University",
+              "name_ur": "ورٹینری یونیورسٹی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Taj Company",
+              "name_ur": "تاج کمپنی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sanda Stop",
+              "name_ur": "ساندہ سٹاپ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gulshan-e-Ravi",
+              "name_ur": "گلشن راوی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "New Khan Adda",
+              "name_ur": "نیو خان اڈا",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Police Station Shera Kot",
+              "name_ur": "پولیس اسٹیشن شیرا کوٹ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shera Kot",
+              "name_ur": "شیراکوٹ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Babu Sabu Interchange",
+              "name_ur": "بابو صابو انٹرچینج",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Niazi Terminal",
+              "name_ur": "نیازی ٹرمینل",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shezan Factory",
+              "name_ur": "شیزان فیکٹری",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "City Adda",
+              "name_ur": "سٹی اڈا",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Yateem Khana Chowk",
+              "name_ur": "یتیم خانہ چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Scheme Mor",
+              "name_ur": "سکیم موڑ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dubai Chowk",
+              "name_ur": "دبئی چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Karim Market Gol Chakkar",
+              "name_ur": "کریم مارکیٹ گول چکر",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Wahdat Road",
+              "name_ur": "وحدت روڈ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shah Di Khui",
+              "name_ur": "شاہ دی کھوئی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jinnah Hospital",
+              "name_ur": "جناح ہسپتال",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Wafaqi Colony",
+              "name_ur": "وفاقی کالونی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Doctors Hospital",
+              "name_ur": "ڈاکٹرز ہسپتال",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jorian Pul",
+              "name_ur": "جوڑیاں پل",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Hanjarwal",
+              "name_ur": "ہنجروال",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Canal View",
+              "name_ur": "کینال ویو",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Thokar Niaz Baig",
+              "name_ur": "ٹھوکر نیاز بیگ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Terminal Stop",
+              "name_ur": "ٹرمینل سٹاپ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Pakka Mail",
+              "name_ur": "پکا میل",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kot Muhammad Hussain",
+              "name_ur": "کوٹ محمد حسین",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "EME Society",
+              "name_ur": "ای ایم ای سوسائٹی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kakakhel",
+              "name_ur": "کاکاخیل",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shabab Studio",
+              "name_ur": "شباب سٹوڈیو",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chung Center Gate No. 1",
+              "name_ur": "چونگ سنٹرگیٹ نمبر1",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chung Adda",
+              "name_ur": "چوہنگ اڈا",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dhola Shah Darbar",
+              "name_ur": "ڈھولا شاہ دربار",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mohlanwal",
+              "name_ur": "موہلنوال",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bani Noon",
+              "name_ur": "بانی نون",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Maraka",
+              "name_ur": "مراکہ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Orient Gate 3",
+              "name_ur": "اوورنٹ گیٹ3",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bata Factory",
+              "name_ur": "باٹا فیکٹری",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Loharan Da Khoh",
+              "name_ur": "لوہاراں دا کھوہ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sundar",
+              "name_ur": "سُندر",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Daewoo Workshop",
+              "name_ur": "ڈائیووورکشاپ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shamke Bhattian",
+              "name_ur": "شامکے بھٹیاں",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mauza Bath",
+              "name_ur": "موضع باٹھ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Aligarh College",
+              "name_ur": "علی گڑھ کالج",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Manga Mandi",
+              "name_ur": "مانگا منڈی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-107",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=107_0.pdf"
+            },
+            {
+              "title": "Urban (LOV) Wagon / Mini Bus - Routes & Fares",
+              "url": "https://ptc.punjab.gov.pk/lov-route-fare"
+            }
+          ],
+          "notes": "Stops transcribed from the Urdu fare table, in table order. Urdu names are verbatim; Roman spellings are transliterations and need a local check. The fare matrix runs from Rs 14 (minimum) to Rs 34 (full 49.2 km) under notification SO(TR-I)2-6/2015(F)(PIII) dated 17-05-2020, so it is probably out of date. km: 0.0, 0.5, 0.8, 1.1, 2.4, 3.3, 4.5, 5.5, 6.0, 6.4, 6.8, 7.7, 8.2, 8.6, 9.1, 9.8, 10.9, 12.5, 13.2, 14.8, 15.1, 15.5, 16.3, 17.5, 17.9, 18.8, 20.3, 21.6, 22.4, 23.0, 23.7, 24.2, 25.5, 27.0, 27.7, 29.4, 31.1, 31.9, 32.6, 33.3, 34.2, 36.2, 39.2, 41.4, 43.2, 44.8, 46.5, 49.2. The scan is small and low-resolution, so these readings are uncertain: ہنجروال (may be printed بنجروال; Hanjarwal assumed), پکا میل (Pakka Mail? meaning unclear), چونگ سنٹرگیٹ نمبر1 (Chung Center Gate No. 1?), بانی نون (Bani Noon? could be Bhai Noon), اوورنٹ گیٹ3 (Orient Gate 3?), کاکاخیل and شاہ دی کھوئی. The title terminal is Bhati Chowk. Via (table header): Civil Lines College, Taj Company, Sanda, Babu Sabu Interchange, City Adda, Scheme Mor, Karim Block Gol Chakkar (the table says Karim Market), Jinnah Hospital, Doctors Hospital, Thokar Niaz Baig, Maraka and Sundar. Stop-to-stop and cumulative km agree for every stop."
+        },
+        {
+          "id": "LOV-108",
+          "name": "Railway Station - Packages Gate",
+          "name_ur": "ریلوے اسٹیشن تا پیکجز گیٹ",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 18.8,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "range",
+            "currency": "PKR",
+            "min": 14,
+            "max": 23,
+            "concessions": "Minimum fare Rs 14, full route Rs 23. Fares are from the PTC table under the 17 May 2020 notification and may be outdated.",
+            "as_of": "2020-05",
+            "source_url": "https://ptc.punjab.gov.pk/system/files?file=108_0.pdf"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Railway Station",
+              "name_ur": "ریلوے اسٹیشن",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Borr Wala Chowk",
+              "name_ur": "بوھڑ والا چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Railway Headquarters",
+              "name_ur": "ریلوے ہیڈ کوارٹرز",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Garhi Shahu Chowk",
+              "name_ur": "گڑھی شاہو چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Garhi Shahu Bazar",
+              "name_ur": "گڑھی شاہو بازار",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Thana Garhi Shahu",
+              "name_ur": "تھانہ گڑھی شاہو",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Asif Centre",
+              "name_ur": "آصف سنٹر",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dharampura",
+              "name_ur": "دھرمپورہ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ganda Nala",
+              "name_ur": "گندا نالہ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "CMH",
+              "name_ur": "سی ایم ایچ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Fortress Stadium",
+              "name_ur": "فورٹریس سٹیڈیم",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Fortress Mall",
+              "name_ur": "فورٹریس مال",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bazar 28",
+              "name_ur": "بازار 28",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Munir Road",
+              "name_ur": "منیرروڈ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khursheed Alam Road",
+              "name_ur": "خورشید عالم روڈ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Cavalry Mor",
+              "name_ur": "کیولری موڑ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Petrol Pump",
+              "name_ur": "پیٹرول پمپ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ghora Chowk",
+              "name_ur": "گھوڑا چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "RA Bazar",
+              "name_ur": "آر اے بازار",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "T Crossing",
+              "name_ur": "ٹی کراسنگ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Defence Mor",
+              "name_ur": "ڈیفنس موڑ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khaira Stop",
+              "name_ur": "کھیڑا سٹاپ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sharif Market",
+              "name_ur": "شریف مارکیٹ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bank Stop",
+              "name_ur": "بنک سٹاپ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Walton Stop",
+              "name_ur": "والٹن سٹاپ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Boy Scout",
+              "name_ur": "بوائے سکاؤٹ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Workshop Stop",
+              "name_ur": "ورکشاپ سٹاپ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khayaban-e-Iqbal",
+              "name_ur": "خیابان اقبال",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Packages Gate 3",
+              "name_ur": "پیکجز گیٹ 3",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-108",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=108_0.pdf"
+            },
+            {
+              "title": "Urban (LOV) Wagon / Mini Bus - Routes & Fares",
+              "url": "https://ptc.punjab.gov.pk/lov-route-fare"
+            }
+          ],
+          "notes": "Stops transcribed from the Urdu fare table, in table order. Urdu names are verbatim; Roman spellings are transliterations and need a local check. The fare matrix runs from Rs 14 (minimum) to Rs 23 (full 18.8 km) under notification SO(TR-I)2-6/2015(F)(PIII) dated 17-05-2020, so it is probably out of date. km: 0.0, 0.4, 0.8, 1.4, 3.2, 3.8, 4.3, 5.1, 5.7, 6.7, 7.4, 7.9, 8.7, 9.2, 10.4, 11.0, 11.6, 12.2, 13.2, 14.4, 15.0, 15.3, 15.7, 16.1, 16.6, 17.1, 17.6, 18.1, 18.8. The table title reads Railway Station to Packages Gate No. 3. The stop column prints گھوڑ اچوک (a typo for گھوڑا چوک) and بوائے سکاٹ (normalised here to سکاؤٹ)."
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    "LOV-105: the listing names the terminus Thokar Niaz Baig, but the fare table ends at Multan Chungi",
+    "LOV-107: several low-resolution stop names need a local check",
+    "Which of these routes still run in 2026, and what fares apply now, is unknown"
+  ]
+}

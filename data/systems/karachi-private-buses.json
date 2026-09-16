@@ -1,0 +1,41 @@
+{
+  "id": "karachi-private-buses",
+  "city": "karachi",
+  "name": "Private buses, minibuses and coaches",
+  "name_ur": "نجی بسیں، منی بسیں اور کوچز",
+  "operator": "Private operators, fares regulated by the Regional Transport Authority Karachi (Transport & Mass Transit Department, Government of Sindh)",
+  "mode": "bus",
+  "website": "https://transport.sindh.gov.pk/fares",
+  "helpline": null,
+  "payment": "Cash to the conductor",
+  "fare_rules": {
+    "type": "distance_slab",
+    "currency": "PKR",
+    "slabs": [
+      { "up_to_km": 10, "fare": 40 },
+      { "up_to_km": 30, "fare": 70 },
+      { "up_to_km": null, "fare": 110 }
+    ],
+    "concessions": "Official provisional fares, notified 4 April 2026: large bus Rs 40 up to 10 km, Rs 70 up to 30 km, Rs 110 above that. Minibus and coach: Rs 50, Rs 80 and Rs 120 for the same distances. The notice says fares remain as they were before 27 February 2026. Route lists for private services are not published officially; help add them.",
+    "as_of": "2026-04-04",
+    "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intracity.jpeg"
+  },
+  "hours": null,
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Intra-city provisional fare list for buses, minibuses and coaches",
+      "url": "https://mwb.sindh.gov.pk/storage/Transport/intracity.jpeg",
+      "publisher": "Regional Transport Authority Karachi",
+      "date": "2026-04-04",
+      "official": true
+    },
+    {
+      "title": "Fares, Transport & Mass Transit Department Sindh",
+      "url": "https://transport.sindh.gov.pk/fares",
+      "publisher": "Government of Sindh",
+      "official": true
+    }
+  ],
+  "routes": []
+}

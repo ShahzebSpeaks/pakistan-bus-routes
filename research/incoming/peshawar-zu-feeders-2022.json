@@ -1,0 +1,878 @@
+{
+  "assignment": "sources-official",
+  "researched_on": "2026-09-16",
+  "systems": [
+    {
+      "id": "peshawar-zu-brt",
+      "city": "peshawar",
+      "name": "Zu Peshawar feeder routes (2022 data book)",
+      "name_ur": "",
+      "operator": "TransPeshawar",
+      "mode": "feeder",
+      "website": "https://transpeshawar.pk",
+      "helpline": null,
+      "payment": "Zu card",
+      "fare_rules": {
+        "type": "unknown",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "",
+        "as_of": null,
+        "source_url": null
+      },
+      "hours": {
+        "start": "06:00",
+        "end": "22:00",
+        "notes": "From the 2022 data book"
+      },
+      "sources": [
+        {
+          "title": "Zu Peshawar Ridership Data Book 2022",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2023/08/BRT-Annual-Ridership-Book-2022.pdf",
+          "publisher": "TransPeshawar",
+          "date": "2023-08",
+          "official": true
+        }
+      ],
+      "routes": [
+        {
+          "id": "DR-3A",
+          "name": "Dabgari Garden - Kohat Adda",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": "2020-12-01",
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Dabgari Gardens",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kohat Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gulshan Rehman Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ghari Qamar Din",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Landi Arbab",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Technical College",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Civil Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bhana Marri",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Civil Quarters",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shaheed Saqib Ghani School",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Zu Peshawar Ridership Data Book 2022, sec 5",
+              "url": "https://transpeshawar.pk/wp-content/uploads/2023/08/BRT-Annual-Ridership-Book-2022.pdf"
+            }
+          ],
+          "notes": "The book's stop-wise ridership tables give an official list of stops, but the row order may not match the order along the route (DR-3A and DR-06 look out of sequence). Check against the existing data. Stop codes printed in the book: Dabgari 12, Kohat Adda 125, Gulshan Rehman Colony 126, Ghari Qamar Din 127, Landi Arbab 128, Technical College 129, Civil Colony 130, Bhana Marri 131, Civil Quarters 130 (sic)."
+        },
+        {
+          "id": "DR-3B",
+          "name": "Malik Saad Shaheed - Shah Alam Pul",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": "2021-06-07",
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Malik Saad Shaheed",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shaheed Tehseen Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Charsadda Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Eid Gah",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shahi Bagh",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bacha Khan Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Budhni Pul",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nishat Mill",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Landey Sarrak",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shero Jhangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ibrahim Abad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bakhshu Pul",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nasapa",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sugar Mill",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sewan",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khazana",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Wahid Garhi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shah Alam Pul",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Habib Abad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Muslim Abad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nasapa Bala",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Faqir Abad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Toda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Zu Peshawar Ridership Data Book 2022, sec 5",
+              "url": "https://transpeshawar.pk/wp-content/uploads/2023/08/BRT-Annual-Ridership-Book-2022.pdf"
+            }
+          ],
+          "notes": "The book's stop-wise ridership tables give an official list of stops, but the row order may not match the order along the route (DR-3A and DR-06 look out of sequence). Check against the existing data."
+        },
+        {
+          "id": "DR-05",
+          "name": "Mall of Hayatabad - Phase 6 Terminal",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": "2020-08-23",
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Mall of Hayatabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bakht Khan Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Basharat Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Yousafzai Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ring Road Bridge",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Itwar Bazar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Achini",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shalman Park",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Government College",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "CECOS University",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gol Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nawab Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Phase 6 Terminal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Zu Peshawar Ridership Data Book 2022, sec 5",
+              "url": "https://transpeshawar.pk/wp-content/uploads/2023/08/BRT-Annual-Ridership-Book-2022.pdf"
+            }
+          ],
+          "notes": "The book's stop-wise ridership tables give an official list of stops, but the row order may not match the order along the route (DR-3A and DR-06 look out of sequence). Check against the existing data."
+        },
+        {
+          "id": "DR-06",
+          "name": "Mall of Hayatabad - Phase 7 Terminal",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": "2020-08-23",
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Phase 7 Terminal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Zarghuni Masjid",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lalazar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "IMSciences",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Madrassa",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Judicial Complex",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Haji Camp",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rehman Baba Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Malik Saad Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Itwar Bazar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Iqra University",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bagh-e-Naran",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Football Ground",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Zu Peshawar Ridership Data Book 2022, sec 5",
+              "url": "https://transpeshawar.pk/wp-content/uploads/2023/08/BRT-Annual-Ridership-Book-2022.pdf"
+            }
+          ],
+          "notes": "The book's stop-wise ridership tables give an official list of stops, but the row order may not match the order along the route (DR-3A and DR-06 look out of sequence). Check against the existing data."
+        },
+        {
+          "id": "DR-07",
+          "name": "Karkhano Market - Phase 7 Terminal",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": "2020-08-23",
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Karkhano Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gol Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Phase 7 Terminal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bangash Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Phase 7 Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Deans Heights",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Zarghuni Masjid",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lalazar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shamali Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Fast University",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Industrial Estate",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Fort",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "TEVTA",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Karkhano Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Zu Peshawar Ridership Data Book 2022, sec 5",
+              "url": "https://transpeshawar.pk/wp-content/uploads/2023/08/BRT-Annual-Ridership-Book-2022.pdf"
+            }
+          ],
+          "notes": "The book's stop-wise ridership tables give an official list of stops, but the row order may not match the order along the route (DR-3A and DR-06 look out of sequence). Check against the existing data."
+        },
+        {
+          "id": "ER-09",
+          "name": "Gulbahar - Phase 6 Terminal",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": "2021-08-25",
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Phase 6 Terminal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nawab Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gol Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ring Road Bridge",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Yousafzai Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Basharat Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Zarghuni Masjid",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Zu Peshawar Ridership Data Book 2022, sec 5",
+              "url": "https://transpeshawar.pk/wp-content/uploads/2023/08/BRT-Annual-Ridership-Book-2022.pdf"
+            }
+          ],
+          "notes": "The book's stop-wise ridership tables give an official list of stops, but the row order may not match the order along the route (DR-3A and DR-06 look out of sequence). Check against the existing data. Express route. Only off-corridor stops are listed."
+        },
+        {
+          "id": "ER-10",
+          "name": "Hospital Chowk - Kohat Adda",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": "2022-02-07",
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Kohat Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ghari Qamar Din",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Technical College",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Zu Peshawar Ridership Data Book 2022, sec 5",
+              "url": "https://transpeshawar.pk/wp-content/uploads/2023/08/BRT-Annual-Ridership-Book-2022.pdf"
+            }
+          ],
+          "notes": "The book's stop-wise ridership tables give an official list of stops, but the row order may not match the order along the route (DR-3A and DR-06 look out of sequence). Check against the existing data. Express route. Only 3 off-corridor stops are listed."
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    "What is the stop order on each route?",
+    "What about routes added after 2022? New feeder routes on Ring Road, Dilzak Road and Khyber Road were announced in May 2026."
+  ]
+}

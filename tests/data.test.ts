@@ -1,12 +1,14 @@
 // Checks the compiled dataset in public/data, so a bad pipeline run fails CI instead of the app.
 import fs from 'node:fs';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { describe, expect, it } from 'vitest';
 import { decodePolyline, haversine } from '../src/lib/geo';
 import { Planner } from '../src/lib/planner';
 import type { CityData, DatasetIndex } from '../src/types';
 
-const DATA = path.resolve(__dirname, '..', 'public', 'data');
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const DATA = path.join(ROOT, 'public', 'data');
 const read = <T,>(p: string): T => JSON.parse(fs.readFileSync(p, 'utf8'));
 
 const index = read<DatasetIndex>(path.join(DATA, 'index.json'));
@@ -96,7 +98,7 @@ describe('compiled dataset', () => {
   });
 
   it('publishes downloads', () => {
-    const dir = path.resolve(__dirname, '..', 'public', 'downloads');
+    const dir = path.join(ROOT, 'public', 'downloads');
     for (const f of ['pakistan-bus-routes.geojson', 'pakistan-bus-routes-gtfs.zip', 'stops.csv']) {
       expect(fs.existsSync(path.join(dir, f)), `${f} missing`).toBe(true);
       expect(fs.statSync(path.join(dir, f)).size).toBeGreaterThan(1000);

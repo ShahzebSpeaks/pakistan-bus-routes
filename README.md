@@ -91,6 +91,8 @@ Corrections from people who ride these buses are the most valuable contribution.
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) for details, including how to fix a stop location.
 
+Some organisations hold better data that needs their permission. [docs/OUTREACH.md](docs/OUTREACH.md) lists who to ask and has ready-to-send emails and Right to Information requests. What was searched and what was found is in [research/sources-datasets.md](research/sources-datasets.md), [research/sources-official.md](research/sources-official.md) and [research/sources-apis.md](research/sources-apis.md).
+
 ## Deploying to GitHub Pages
 
 1. Push this repository to GitHub.

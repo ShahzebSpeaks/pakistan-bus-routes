@@ -2,7 +2,7 @@
 
 Generated 2026-09-16 by `npm run data:build`. Do not edit by hand.
 
-**49 cities · 60 systems · 247 published routes · 2842 stops**
+**49 cities · 62 systems · 262 published routes · 3086 stops**
 
 Coordinate quality: **exact** = verified (OpenStreetMap element or Wikipedia, checked by a person), **matched** = automatic OpenStreetMap name match, **geocoded** = Nominatim search, **estimated** = interpolated between neighbours, **missing** = not on the map yet.
 
@@ -79,6 +79,21 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Lahore Metro - planned lines | PURPLE | Airport rail link | planned | 0 | - | - | - | - | 0 | low |
 | Lahore Metrobus (Green Line) | METRO | Shahdara - Gajju Matah | operational | 27 | 100% | 0% | 0% | 0% | 0 | high |
 | Orange Line Metro Train | OL | Ali Town - Dera Gujran | operational | 26 | 100% | 0% | 0% | 0% | 0 | high |
+| Lahore city wagon / minibus routes (LOV) | LOV-101 | Bhati Gate - Sharaqpur Sharif | unverified | 29 | 0% | 31% | 7% | 52% | 3 | medium |
+| Lahore city wagon / minibus routes (LOV) | LOV-102 | Rang Mehal - Liaqat Chowk | unverified | 24 | 0% | 54% | 0% | 42% | 1 | medium |
+| Lahore city wagon / minibus routes (LOV) | LOV-103 | Rang Mehal - Samanabad | unverified | 16 | 0% | 50% | 0% | 31% | 3 | medium |
+| Lahore city wagon / minibus routes (LOV) | LOV-105 | Railway Station - Thokar Niaz Baig | unverified | 23 | 0% | 70% | 0% | 30% | 0 | medium |
+| Lahore city wagon / minibus routes (LOV) | LOV-105A | Railway Station - Liaqat Chowk | unverified | 23 | 0% | 65% | 0% | 35% | 0 | medium |
+| Lahore city wagon / minibus routes (LOV) | LOV-106 | Bhatti Chowk - Workshop U-Turn | unverified | 28 | 0% | 54% | 0% | 39% | 2 | medium |
+| Lahore city wagon / minibus routes (LOV) | LOV-107 | Bhatti Gate - Manga Mandi | unverified | 48 | 0% | 44% | 2% | 54% | 0 | medium |
+| Lahore city wagon / minibus routes (LOV) | LOV-108 | Railway Station - Packages Gate | unverified | 29 | 0% | 38% | 0% | 59% | 1 | medium |
+| Lahore city wagon / minibus routes (LOV) | LOV-111 | Railway Station - Bogiwal | unverified | 22 | 0% | 50% | 9% | 41% | 0 | medium |
+| Lahore city wagon / minibus routes (LOV) | LOV-112 | Kot Lakhpat Jail - Manga Mandi | unverified | 40 | 0% | 38% | 0% | 63% | 0 | medium |
+| Lahore city wagon / minibus routes (LOV) | LOV-116 | Gawala Colony - Thokar Niaz Baig | unverified | 28 | 0% | 46% | 0% | 39% | 4 | medium |
+| Lahore city wagon / minibus routes (LOV) | LOV-122 | Railway Station - Nonarian Chowk | unverified | 20 | 0% | 65% | 0% | 35% | 0 | medium |
+| Lahore city wagon / minibus routes (LOV) | LOV-125 | Phattak - Thokar Niaz Baig | unverified | 30 | 0% | 20% | 0% | 73% | 2 | medium |
+| Lahore city wagon / minibus routes (LOV) | LOV-126 | Railway Station - Attari Mor | unverified | 16 | 0% | 69% | 13% | 19% | 0 | medium |
+| Lahore city wagon / minibus routes (LOV) | LOV-130 | Kahna Nau - Saddar Chowk | unverified | 35 | 0% | 37% | 6% | 54% | 1 | medium |
 
 ## Islamabad & Rawalpindi
 
@@ -528,15 +543,15 @@ These routes have the most stops without a verified position. Adding real coordi
 | Lahore | Green Electric Bus Lahore (Electro) | RT20-E | 40 | 1 | 26 |
 | Attock | Green Electric Bus Attock | pof-sanjwal-to-hazro | 36 | 7 | 20 |
 | Narowal | Green Electric Bus Narowal | gbs-narowal-to-zafarwal | 30 | 12 | 15 |
+| Lahore | Lahore city wagon / minibus routes (LOV) | LOV-107 | 48 | 0 | 26 |
+| Lahore | Lahore city wagon / minibus routes (LOV) | LOV-112 | 40 | 0 | 25 |
 | Multan | Multan Metrobus Feeder Routes | MFR04B | 40 | 0 | 25 |
+| Lahore | Lahore city wagon / minibus routes (LOV) | LOV-125 | 30 | 2 | 22 |
 | Gujar Khan | Green Electric Bus Gujar Khan | gujjar-khan-to-t-chowk | 29 | 5 | 19 |
 | Multan | Multan Metrobus Feeder Routes | MFR01B | 32 | 8 | 15 |
 | Sahiwal | Green Electric Bus Sahiwal | admore-pump-farid-town-to-adda-gamber | 25 | 8 | 15 |
 | Bahawalnagar | Green Electric Bus Bahawalnagar | gbs-bahawalnagar-to-chishtian | 23 | 23 | 0 |
 | Bahawalnagar | Green Electric Bus Bahawalnagar | gbs-bahawalnagar-to-gbs-bahawalnagar | 23 | 23 | 0 |
-| Narowal | Green Electric Bus Narowal | gbs-narowal-to-pasrur-chowk | 28 | 5 | 18 |
-| Toba Tek Singh | Green Electric Bus Toba Tek Singh | gbs-toba-tek-singh-to-peer-mahal | 30 | 1 | 22 |
-| Islamabad & Rawalpindi | Islamabad Electric Feeder Buses (CDA) | FR-13 | 29 | 0 | 22 |
 
 ## Build warnings
 
@@ -550,6 +565,14 @@ These routes have the most stops without a verified position. Adding real coordi
 - lahore-feeder/RT-28: 3 stop(s) without coordinates are left out of the map
 - lahore-metro-planned/BLUE: fewer than 2 located stops, listed without a map line
 - lahore-metro-planned/PURPLE: fewer than 2 located stops, listed without a map line
+- lahore-ptc-lov/LOV-101: 3 stop(s) without coordinates are left out of the map
+- lahore-ptc-lov/LOV-102: 1 stop(s) without coordinates are left out of the map
+- lahore-ptc-lov/LOV-103: 3 stop(s) without coordinates are left out of the map
+- lahore-ptc-lov/LOV-106: 2 stop(s) without coordinates are left out of the map
+- lahore-ptc-lov/LOV-108: 1 stop(s) without coordinates are left out of the map
+- lahore-ptc-lov/LOV-116: 4 stop(s) without coordinates are left out of the map
+- lahore-ptc-lov/LOV-125: 2 stop(s) without coordinates are left out of the map
+- lahore-ptc-lov/LOV-130: 1 stop(s) without coordinates are left out of the map
 - isb-rwp-metrobus/GREEN: 3 stop(s) without coordinates are left out of the map
 - islamabad-electric-feeder/FR-03A: 2 stop(s) without coordinates are left out of the map
 - islamabad-electric-feeder/FR-04: 1 stop(s) without coordinates are left out of the map

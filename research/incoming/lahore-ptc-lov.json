@@ -1,0 +1,634 @@
+{
+  "assignment": "sources-official",
+  "researched_on": "2026-09-16",
+  "systems": [
+    {
+      "id": "lahore-ptc-lov",
+      "city": "lahore",
+      "name": "Lahore city wagon / minibus routes (LOV)",
+      "name_ur": "سٹی ویگن",
+      "operator": "Private operators on route permits; routes and fares published by Punjab Transport Company",
+      "mode": "bus",
+      "website": "https://ptc.punjab.gov.pk/lov-route-fare",
+      "helpline": null,
+      "payment": "cash",
+      "fare_rules": {
+        "type": "distance_slab",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "",
+        "as_of": "2020-05",
+        "source_url": "https://ptc.punjab.gov.pk/lov-route-fare"
+      },
+      "hours": null,
+      "sources": [
+        {
+          "title": "Urban (LOV) Wagon / Mini Bus - Routes & Fares",
+          "url": "https://ptc.punjab.gov.pk/lov-route-fare",
+          "publisher": "Punjab Transport Company, Govt of Punjab",
+          "date": null,
+          "official": true
+        }
+      ],
+      "routes": [
+        {
+          "id": "LOV-101",
+          "name": "Bhati Gate - Sharaqpur Sharif",
+          "name_ur": "بھاٹی تا شرقپور شریف",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 34.4,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "distance_slab",
+            "currency": "PKR",
+            "flat": null,
+            "slabs": [
+              {
+                "up_to_km": 34.4,
+                "fare": 34
+              }
+            ],
+            "concessions": "Minimum fare Rs 14",
+            "as_of": "2020-05",
+            "source_url": "https://ptc.punjab.gov.pk/system/files?file=101_2.pdf"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Bhati Gate",
+              "name_ur": "بھاٹی گیٹ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rattigan Road",
+              "name_ur": "ریٹیگن روڈ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Civil Lines College",
+              "name_ur": "سول لائنز کالج",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Veterinary University",
+              "name_ur": "ورٹینری یونیورسٹی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Corporation Chowk",
+              "name_ur": "کارپوریشن چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Taj Company",
+              "name_ur": "تاج کمپنی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Saggian Interchange",
+              "name_ur": "سگیاں انٹرچینج",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Saggian Pul",
+              "name_ur": "سگیاں پل",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Farjan Park",
+              "name_ur": "فرجان پارک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rehman City",
+              "name_ur": "رحمان سٹی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Hira College",
+              "name_ur": "حرا کالج",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Parchi Nain Sukh",
+              "name_ur": "پرچی نین سکھ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nain Sukh Chowk",
+              "name_ur": "نین سکھ چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Abul Khair Stop",
+              "name_ur": "ابولخیر سٹاپ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Al-Rehman Garden",
+              "name_ur": "الرحمان گارڈن",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Faizpur",
+              "name_ur": "فیض پور",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kot Noor Shah",
+              "name_ur": "کوٹ نور شاہ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rana Bhatti",
+              "name_ur": "رانا بھٹی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Burj Attari",
+              "name_ur": "برج اٹاری",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Theekriwala",
+              "name_ur": "ٹھیکری والا",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nawan Pind",
+              "name_ur": "نواں پنڈ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dhamke",
+              "name_ur": "ڈاھمکے",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bismillah Factory",
+              "name_ur": "بسم اللہ فیکٹری",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Tirre Wali",
+              "name_ur": "تریڑے والی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mandianwala",
+              "name_ur": "منڈیانوالا",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ponewala",
+              "name_ur": "پونے والا",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Elite School",
+              "name_ur": "ایلیٹ سکول",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sharaqpur Mor",
+              "name_ur": "شرقپور موڑ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sharaqpur City",
+              "name_ur": "شرقپور سٹی",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-101",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=101_2.pdf"
+            }
+          ],
+          "notes": "Stops transcribed from the Urdu fare table. Urdu names are verbatim. Roman spellings are my transliterations and need a local check. The fare matrix runs from Rs 14 (minimum) to Rs 34 (full 34.4 km) under notification SO(TR-I)2-6/2015(F)(PIII) dated 17-05-2020, so it is probably out of date."
+        },
+        {
+          "id": "LOV-102",
+          "name": "Rang Mehal - Liaqat Chowk",
+          "name_ur": "رنگ محل تا لیاقت چوک",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-102",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=102_2.pdf"
+            }
+          ],
+          "notes": "Official PTC route listing (wagon/minibus). The fare-table PDF is a scanned image with ordered stops in Urdu and cumulative km. Not transcribed yet."
+        },
+        {
+          "id": "LOV-103",
+          "name": "Rang Mehal - Samanabad",
+          "name_ur": "رنگ محل تا سمن آباد",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-103",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=103_0.pdf"
+            }
+          ],
+          "notes": "Official PTC route listing (wagon/minibus). The fare-table PDF is a scanned image with ordered stops in Urdu and cumulative km. Not transcribed yet."
+        },
+        {
+          "id": "LOV-105",
+          "name": "Railway Station - Thokar Niaz Baig",
+          "name_ur": "ریلوے اسٹیشن تا ٹھوکر نیاز بیگ",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-105",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=105_0.pdf"
+            }
+          ],
+          "notes": "Official PTC route listing (wagon/minibus). The fare-table PDF is a scanned image with ordered stops in Urdu and cumulative km. Not transcribed yet."
+        },
+        {
+          "id": "LOV-105A",
+          "name": "Railway Station - Liaqat Chowk",
+          "name_ur": "ریلوے اسٹیشن تا لیاقت چوک",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-105A",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=105-A.pdf"
+            }
+          ],
+          "notes": "Official PTC route listing (wagon/minibus). The fare-table PDF is a scanned image with ordered stops in Urdu and cumulative km. Not transcribed yet."
+        },
+        {
+          "id": "LOV-106",
+          "name": "Bhatti Chowk - Workshop U-Turn",
+          "name_ur": "بھاٹی چوک تا ورکشاپ یو ٹرن",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-106",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=106_0.pdf"
+            }
+          ],
+          "notes": "Official PTC route listing (wagon/minibus). The fare-table PDF is a scanned image with ordered stops in Urdu and cumulative km. Not transcribed yet."
+        },
+        {
+          "id": "LOV-107",
+          "name": "Bhatti Gate - Manga Mandi",
+          "name_ur": "بھاٹی گیٹ تا مانگا منڈی",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-107",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=107_0.pdf"
+            }
+          ],
+          "notes": "Official PTC route listing (wagon/minibus). The fare-table PDF is a scanned image with ordered stops in Urdu and cumulative km. Not transcribed yet."
+        },
+        {
+          "id": "LOV-108",
+          "name": "Railway Station - Packages Gate",
+          "name_ur": "ریلوے اسٹیشن تا پیکجز گیٹ",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-108",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=108_0.pdf"
+            }
+          ],
+          "notes": "Official PTC route listing (wagon/minibus). The fare-table PDF is a scanned image with ordered stops in Urdu and cumulative km. Not transcribed yet."
+        },
+        {
+          "id": "LOV-111",
+          "name": "Railway Station - Bogiwal",
+          "name_ur": "ریلوے اسٹیشن تا بھوگیوال",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-111",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=111_0.pdf"
+            }
+          ],
+          "notes": "Official PTC route listing (wagon/minibus). The fare-table PDF is a scanned image with ordered stops in Urdu and cumulative km. Not transcribed yet."
+        },
+        {
+          "id": "LOV-112",
+          "name": "Kot Lakhpat Jail - Manga Mandi",
+          "name_ur": "کوٹ لکھپت جیل تا مانگا منڈی",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-112",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=112_0.pdf"
+            }
+          ],
+          "notes": "Official PTC route listing (wagon/minibus). The fare-table PDF is a scanned image with ordered stops in Urdu and cumulative km. Not transcribed yet."
+        },
+        {
+          "id": "LOV-116",
+          "name": "Gawala Colony - Thokar Niaz Baig",
+          "name_ur": "گوالہ کالونی تا ٹھوکر نیا ز بیگ",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-116",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=116_0.pdf"
+            }
+          ],
+          "notes": "Official PTC route listing (wagon/minibus). The fare-table PDF is a scanned image with ordered stops in Urdu and cumulative km. Not transcribed yet."
+        },
+        {
+          "id": "LOV-122",
+          "name": "Railway Station - Nonarian Chowk",
+          "name_ur": "ریلوے اسٹیشن تا نوناریاں چوک",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-122",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=122.pdf"
+            }
+          ],
+          "notes": "Official PTC route listing (wagon/minibus). The fare-table PDF is a scanned image with ordered stops in Urdu and cumulative km. Not transcribed yet."
+        },
+        {
+          "id": "LOV-125",
+          "name": "Phattak - Thokar Niaz Baig",
+          "name_ur": "پھاٹک تا ٹھوکر نیاز بیگ",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-125",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=125_0.pdf"
+            }
+          ],
+          "notes": "Official PTC route listing (wagon/minibus). The fare-table PDF is a scanned image with ordered stops in Urdu and cumulative km. Not transcribed yet."
+        },
+        {
+          "id": "LOV-126",
+          "name": "Railway Station - Attari Mor",
+          "name_ur": "ریلوے اسٹیشن تا اٹاری موڑ",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-126",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=126_0.pdf"
+            }
+          ],
+          "notes": "Official PTC route listing (wagon/minibus). The fare-table PDF is a scanned image with ordered stops in Urdu and cumulative km. Not transcribed yet."
+        },
+        {
+          "id": "LOV-130",
+          "name": "Kahna Nau - Saddar Chowk",
+          "name_ur": "کاہنہ نو تا صدر چوک",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PTC fare table LOV-130",
+              "url": "https://ptc.punjab.gov.pk/system/files?file=130.pdf"
+            }
+          ],
+          "notes": "Official PTC route listing (wagon/minibus). The fare-table PDF is a scanned image with ordered stops in Urdu and cumulative km. Not transcribed yet."
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    "Which of the 15 LOV routes still run in 2026?",
+    "The fare tables date from 2020, and current fares are unknown",
+    "14 fare-table images are not transcribed yet"
+  ]
+}

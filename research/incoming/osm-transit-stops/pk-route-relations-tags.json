@@ -1,0 +1,253 @@
+[
+ {
+  "type": "relation",
+  "id": 1671298,
+  "tags": {
+   "name": "Punjab ways Transport",
+   "route": "bus",
+   "type": "route"
+  }
+ },
+ {
+  "type": "relation",
+  "id": 1757992,
+  "tags": {
+   "route": "bus",
+   "type": "route"
+  }
+ },
+ {
+  "type": "relation",
+  "id": 1777288,
+  "tags": {
+   "route": "bus",
+   "type": "route"
+  }
+ },
+ {
+  "type": "relation",
+  "id": 5552445,
+  "tags": {
+   "id": "0001",
+   "name": "Circular Road Link",
+   "route": "bus",
+   "type": "route"
+  }
+ },
+ {
+  "type": "relation",
+  "id": 9192969,
+  "tags": {
+   "route": "bus",
+   "type": "route"
+  }
+ },
+ {
+  "type": "relation",
+  "id": 10995086,
+  "tags": {
+   "from": "Chowk Kumran",
+   "name": "Multan Metro Bus",
+   "operator": "Pakistan Govt",
+   "public_transport:version": "2",
+   "route": "bus",
+   "to": "Bosan Road",
+   "type": "route"
+  }
+ },
+ {
+  "type": "relation",
+  "id": 11803498,
+  "tags": {
+   "colour": "#F7943A",
+   "from": "Dera Gujran",
+   "name": "Orange Line: Dera Gujran → Ali Town",
+   "network": "Lahore Metro",
+   "operator": "Punjab Masstransit Authority",
+   "public_transport:version": "2",
+   "ref": "O",
+   "route": "subway",
+   "to": "Ali Town",
+   "type": "route",
+   "via": "Central Station-GPO",
+   "wikidata": "Q18385578",
+   "wikipedia": "en:Orange Line (Lahore Metro)"
+  }
+ },
+ {
+  "type": "relation",
+  "id": 11803500,
+  "tags": {
+   "colour": "#F7943A",
+   "from": "Ali Town",
+   "name": "Orange Line: Ali Town → Dera Gujran",
+   "network": "Lahore Metro",
+   "operator": "Punjab Masstransit Authority",
+   "public_transport:version": "2",
+   "ref": "O",
+   "route": "subway",
+   "to": "Dera Gujran",
+   "type": "route",
+   "via": "Central Station-GPO",
+   "wikidata": "Q18385578",
+   "wikipedia": "en:Orange Line (Lahore Metro)"
+  }
+ },
+ {
+  "type": "relation",
+  "id": 13911249,
+  "tags": {
+   "colour": "red",
+   "from": "Saddar",
+   "name": "ریڈ میٹرو بس ٹریک",
+   "name:de": "Metro Bus Strecke nach Rawalpindi",
+   "name:en": "Red Metro Bus Track",
+   "name:ur": "میٹرو بس ٹریک",
+   "network": "Pakistan Metrobus System",
+   "operator": "Punjab Masstransit Authority",
+   "route": "bus",
+   "to": "Pak Secretariat",
+   "type": "route",
+   "via": "Faiszabd"
+  }
+ },
+ {
+  "type": "relation",
+  "id": 13911250,
+  "tags": {
+   "colour": "orange",
+   "from": "Faiz Ahmed Faiz",
+   "name": "اورینج میٹرو بس",
+   "name:de": "Orange Line",
+   "name:en": "Orange Line",
+   "name:ur": "اورینج میٹرو بس",
+   "network": "Capital Mass Transit Authority",
+   "operator": "Capital Development Authority",
+   "route": "bus",
+   "to": "Airport",
+   "type": "route"
+  }
+ },
+ {
+  "type": "relation",
+  "id": 14168850,
+  "tags": {
+   "from": "Kotwali Narwala",
+   "network": "Regional Transport Authority Faisalabad",
+   "network:wikidata": "Q111809659",
+   "operator": "Regional Transport Authority Faisalabad",
+   "operator:wikidata": "Q111809659",
+   "ref": "B-10",
+   "roundtrip": "no",
+   "route": "bus",
+   "type": "route",
+   "via": "Millat Road"
+  }
+ },
+ {
+  "type": "relation",
+  "id": 18946702,
+  "tags": {
+   "route": "bus",
+   "type": "route"
+  }
+ },
+ {
+  "type": "relation",
+  "id": 18946704,
+  "tags": {
+   "from": "PIMS Gate",
+   "name": "FR-4",
+   "operator": "Capital Development Authority",
+   "public_transport:version": "2",
+   "route": "bus",
+   "route_master": "bus",
+   "route_ref": "4",
+   "to": "Bari Imam",
+   "type": "route",
+   "via": "Aabpara"
+  }
+ },
+ {
+  "type": "relation",
+  "id": 18950634,
+  "tags": {
+   "from": "Bari Imam",
+   "name": "FR-4",
+   "public_transport:version": "2",
+   "ref": "4",
+   "route": "bus",
+   "to": "PIMS Gate",
+   "type": "route",
+   "via": "Aabpara"
+  }
+ },
+ {
+  "type": "relation",
+  "id": 19222651,
+  "tags": {
+   "from": "Quaid-e-Azam University",
+   "name": "FR-04A",
+   "route": "bus",
+   "to": "Bari Imam",
+   "type": "route"
+  }
+ },
+ {
+  "type": "relation",
+  "id": 19222652,
+  "tags": {
+   "from": "Bari Imam",
+   "name": "FR-04A",
+   "route": "bus",
+   "to": "Quaid-e-Azam University",
+   "type": "route"
+  }
+ },
+ {
+  "type": "relation",
+  "id": 19857202,
+  "tags": {
+   "route": "trolleybus",
+   "type": "route"
+  }
+ },
+ {
+  "type": "relation",
+  "id": 19984670,
+  "tags": {
+   "colour": "red",
+   "from": "شاہدرہ",
+   "name": "Lahore Metro Bus System (MBS)",
+   "network": "Punjab MassTransit Authority",
+   "operator": "Daewoo Express",
+   "route": "bus",
+   "to": "گجو متہ",
+   "type": "route"
+  }
+ },
+ {
+  "type": "relation",
+  "id": 20012008,
+  "tags": {
+   "colour": "#803a1c",
+   "network": "TransPeshawar",
+   "operator": "زو پشاور",
+   "ref": "SR 08",
+   "route": "bus",
+   "type": "route"
+  }
+ },
+ {
+  "type": "relation",
+  "id": 20012341,
+  "tags": {
+   "colour": "gray",
+   "network": "TransPeshawar",
+   "operator": "زو پشاور",
+   "ref": "DR 05",
+   "route": "bus",
+   "type": "route"
+  }
+ }
+]
