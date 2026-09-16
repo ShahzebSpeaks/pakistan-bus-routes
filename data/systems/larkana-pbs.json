@@ -1,0 +1,159 @@
+{
+  "id": "larkana-pbs",
+  "city": "larkana",
+  "name": "Peoples Bus Service Larkana",
+  "name_ur": "پیپلز بس سروس",
+  "operator": "Sindh Mass Transit Authority (Transport & Mass Transit Dept, Govt of Sindh)",
+  "mode": "bus",
+  "website": "https://smta.gos.pk",
+  "helpline": "0800-07682",
+  "payment": "cash (ticket on board); card/app not confirmed for this city",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "Not published for non-Karachi routes. Launch-era reports cite PKR 50-100; Sukkur-Shikarpur (2026) passengers pay 50% of fare with Sindh govt subsidising the rest.",
+    "as_of": null,
+    "source_url": "https://en.wikipedia.org/wiki/Peoples_Bus_Service"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "Not published; PBS launched in 2022 with 08:00-20:00 operation (Wikipedia). "
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "SMTA Route Map & Provincial Route Directory",
+      "url": "https://smta.gos.pk/route-map",
+      "publisher": "Sindh Mass Transit Authority",
+      "date": "2026",
+      "official": true
+    },
+    {
+      "title": "Peoples Bus Service",
+      "url": "https://en.wikipedia.org/wiki/Peoples_Bus_Service",
+      "publisher": "Wikipedia",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "LRK-01",
+      "name": "New Bus Stand - Dokri",
+      "name_ur": "",
+      "variant": "red",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 32,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "New Bus Stand",
+          "name_ur": "",
+          "lat": 27.578567,
+          "lon": 68.22373,
+          "coord_source": "auto:osm:node/12522417741",
+          "is_station": false
+        },
+        {
+          "name": "Naka Number 07",
+          "name_ur": "",
+          "lat": 27.56878,
+          "lon": 68.210073,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sachal Chowk",
+          "name_ur": "",
+          "lat": 27.558993,
+          "lon": 68.196417,
+          "coord_source": "auto:osm:way/775991299",
+          "is_station": false
+        },
+        {
+          "name": "Chandka",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mohtarma Benazir Bhutto Medical University",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Allahabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Qaid-e-Awam",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dokri",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "LRK-01",
+          "url": "https://smta.gos.pk/route-map"
+        },
+        {
+          "title": "Peoples Bus Service set to be launched in Larkana district",
+          "url": "https://www.dawn.com/news/1703571"
+        }
+      ],
+      "notes": "Official SMTA list ('via Indus Highway' omitted as a road name). Earlier (2022-23) route was New Bus Stand - QUES stop / Larkana Junction, ~10.3 km; now extended to Dokri."
+    },
+    {
+      "id": "LRK-QMB",
+      "name": "Larkana - Qambar - Shahdadkot",
+      "name_ur": "",
+      "variant": "red",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [],
+      "sources": [
+        {
+          "title": "Date Announced for New Peoples Bus Service Route Launch",
+          "url": "https://propakistani.pk/2026/09/15/date-announced-for-new-peoples-bus-service-route-launch/"
+        }
+      ],
+      "notes": "Announced to start 18 Sep 2026; no stops or code published yet (LRK-QMB is a placeholder id)."
+    }
+  ]
+}

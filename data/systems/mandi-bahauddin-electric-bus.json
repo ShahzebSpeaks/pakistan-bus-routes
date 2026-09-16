@@ -1,0 +1,427 @@
+{
+  "id": "mandi-bahauddin-electric-bus",
+  "city": "mandi-bahauddin",
+  "name": "Green Electric Bus Mandi Bahauddin",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Electric bus service starts on 13 new routes",
+      "url": "https://www.thenews.pk/print/1424248-electric-bus-service-starts-on-13-new-routes",
+      "publisher": "The News",
+      "date": "2026-07-06",
+      "official": false
+    },
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Mandi Bahauddin Green Electric Bus routes",
+      "url": "https://www.safar.fyi/mandi-bahauddin/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "college-chowk-to-mano-chak",
+      "name": "College Chowk to Mano chak",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "College Chowk Mandi bahauddin",
+          "name_ur": "",
+          "lat": 32.584424,
+          "lon": 73.485265,
+          "coord_source": "auto:osm:node/3390412594",
+          "is_station": false
+        },
+        {
+          "name": "Cheema Chowk Mandi bahauddin",
+          "name_ur": "",
+          "lat": 32.588381,
+          "lon": 73.492201,
+          "coord_source": "auto:osm:node/2445623550",
+          "is_station": false
+        },
+        {
+          "name": "Ghigha Chowk",
+          "name_ur": "",
+          "lat": 32.57943,
+          "lon": 73.491003,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sat Sirra",
+          "name_ur": "",
+          "lat": 32.570479,
+          "lon": 73.489806,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "King Chowk",
+          "name_ur": "",
+          "lat": 32.561528,
+          "lon": 73.488608,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "DC Office Mandi bahauddin",
+          "name_ur": "",
+          "lat": 32.552578,
+          "lon": 73.48741,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Larri Adda mandi bahauddin",
+          "name_ur": "",
+          "lat": 32.543627,
+          "lon": 73.486213,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jholana",
+          "name_ur": "",
+          "lat": 32.534676,
+          "lon": 73.485015,
+          "coord_source": "auto:osm:node/5393927945",
+          "is_station": false
+        },
+        {
+          "name": "Mangat",
+          "name_ur": "",
+          "lat": 32.515791,
+          "lon": 73.503117,
+          "coord_source": "auto:osm:node/2647420500",
+          "is_station": false
+        },
+        {
+          "name": "Aslamabad Ranjha",
+          "name_ur": "",
+          "lat": 32.49143,
+          "lon": 73.524259,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ladher",
+          "name_ur": "",
+          "lat": 32.467069,
+          "lon": 73.5454,
+          "coord_source": "auto:osm:node/5393927946",
+          "is_station": false
+        },
+        {
+          "name": "Phalia Katchery",
+          "name_ur": "",
+          "lat": 32.455567,
+          "lon": 73.554862,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Phalia Qanchi",
+          "name_ur": "",
+          "lat": 32.444066,
+          "lon": 73.564325,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Phalia",
+          "name_ur": "",
+          "lat": 32.432564,
+          "lon": 73.573787,
+          "coord_source": "auto:osm:way/1258172132",
+          "is_station": false
+        },
+        {
+          "name": "Raikay",
+          "name_ur": "",
+          "lat": 32.430443,
+          "lon": 73.607404,
+          "coord_source": "auto:osm:node/8870572585",
+          "is_station": false
+        },
+        {
+          "name": "Lak Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak Dala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak Mano",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Mandi Bahauddin route",
+          "url": "https://www.safar.fyi/mandi-bahauddin/transit-lines/etransit-mandi-bahauddin%3A286"
+        }
+      ],
+      "notes": "9 buses; Kathiala Sheikhan-Rasool Village and College Chowk-Mano Chak, started ~6 Jul 2026. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'College Chowk Mandi bahauddin to Chak Mano', 18 stops); safar lists service 6:00 AM - 8:00 PM (unverified)."
+    },
+    {
+      "id": "kathiala-sheikhan-to-rasool-village",
+      "name": "Kathiala Sheikhan to Rasool Village",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Kathiala Sheikhan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kathiala Qainchi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Munda Wala Pull",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhikhi Shareef",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kako Wal",
+          "name_ur": "",
+          "lat": 32.518027,
+          "lon": 73.429262,
+          "coord_source": "auto:osm:node/5501632917",
+          "is_station": false
+        },
+        {
+          "name": "Superior College / University",
+          "name_ur": "",
+          "lat": 32.529753,
+          "lon": 73.439752,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sohawa Gamnani Morr",
+          "name_ur": "",
+          "lat": 32.541478,
+          "lon": 73.450242,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "King Chowk",
+          "name_ur": "",
+          "lat": 32.553204,
+          "lon": 73.460731,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sat Sirra",
+          "name_ur": "",
+          "lat": 32.56493,
+          "lon": 73.471221,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ghigha Chowk",
+          "name_ur": "",
+          "lat": 32.576655,
+          "lon": 73.481711,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Cheema Chowk Mandi bahauddin",
+          "name_ur": "",
+          "lat": 32.588381,
+          "lon": 73.492201,
+          "coord_source": "auto:osm:node/2445623550",
+          "is_station": false
+        },
+        {
+          "name": "College Chowk Mandi bahauddin",
+          "name_ur": "",
+          "lat": 32.584424,
+          "lon": 73.485265,
+          "coord_source": "auto:osm:node/3390412594",
+          "is_station": false
+        },
+        {
+          "name": "Qainchi Morr Mandi bahauddin",
+          "name_ur": "",
+          "lat": 32.584635,
+          "lon": 73.491417,
+          "coord_source": "auto:osm:node/281407604",
+          "is_station": false
+        },
+        {
+          "name": "Punjab College Mandi bahauddin",
+          "name_ur": "",
+          "lat": 32.60557,
+          "lon": 73.497326,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hamza Town Mandi bahauddin",
+          "name_ur": "",
+          "lat": 32.626505,
+          "lon": 73.503235,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mong Mandi bahauddin",
+          "name_ur": "",
+          "lat": 32.64744,
+          "lon": 73.509144,
+          "coord_source": "auto:nominatim:node/5468601028",
+          "is_station": false
+        },
+        {
+          "name": "8 R.D",
+          "name_ur": "",
+          "lat": 32.654365,
+          "lon": 73.511084,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shahana Lok",
+          "name_ur": "",
+          "lat": 32.661289,
+          "lon": 73.513024,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rasool University",
+          "name_ur": "",
+          "lat": 32.668214,
+          "lon": 73.514965,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kareem Abad",
+          "name_ur": "",
+          "lat": 32.675138,
+          "lon": 73.516905,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Head Rasool",
+          "name_ur": "",
+          "lat": 32.682063,
+          "lon": 73.518845,
+          "coord_source": "auto:nominatim:way/232008128",
+          "is_station": false
+        },
+        {
+          "name": "Rasool Lokery",
+          "name_ur": "",
+          "lat": 32.695554,
+          "lon": 73.547057,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rasool Village",
+          "name_ur": "",
+          "lat": 32.709044,
+          "lon": 73.575269,
+          "coord_source": "auto:osm:node/5468601026",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Mandi Bahauddin route",
+          "url": "https://www.safar.fyi/mandi-bahauddin/transit-lines/etransit-mandi-bahauddin%3A287"
+        }
+      ],
+      "notes": "9 buses; Kathiala Sheikhan-Rasool Village and College Chowk-Mano Chak, started ~6 Jul 2026. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Kathiala Sheikhan to Rasool Village', 23 stops); safar lists service 6:00 AM - 7:45 PM (unverified)."
+    }
+  ]
+}

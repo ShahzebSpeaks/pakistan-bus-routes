@@ -1,0 +1,31 @@
+name: Missing route · نیا روٹ
+description: A government bus, BRT or metro route is missing
+labels: [data, new-route]
+body:
+  - type: input
+    id: city
+    attributes:
+      label: City
+    validations:
+      required: true
+  - type: input
+    id: route
+    attributes:
+      label: Route number and terminals
+      description: For example "EV6, Malir Cantt - Tower"
+    validations:
+      required: true
+  - type: textarea
+    id: stops
+    attributes:
+      label: Stops in order (if you know them)
+  - type: input
+    id: fare
+    attributes:
+      label: Fare and timings
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+    validations:
+      required: true

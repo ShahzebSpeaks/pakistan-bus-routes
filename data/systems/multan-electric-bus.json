@@ -1,0 +1,250 @@
+{
+  "id": "multan-electric-bus",
+  "city": "multan",
+  "name": "Green Electric Bus Multan",
+  "name_ur": "گرین الیکٹرک بس ملتان",
+  "operator": "Government of Punjab (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "Province-wide e-bus policy is Rs 20 with free travel for women, students, senior citizens and persons with disabilities; not confirmed for Multan (safar: fare not published).",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: 05:30-22:00 (unverified)"
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Multan e-bus first fleet dispatched (Urdu)",
+      "url": "https://dailyausaf.com/latest-news/2026/04/10/255181/",
+      "publisher": "Daily Ausaf",
+      "date": "2026-04-10",
+      "official": false
+    },
+    {
+      "title": "Punjab set to take green electric buses number to 1,500",
+      "url": "https://www.dawn.com/news/2013201/punjab-set-to-take-green-electric-buses-number-to-1500",
+      "publisher": "Dawn",
+      "date": "2026-07-06",
+      "official": false
+    },
+    {
+      "title": "Electric bus service to be launched soon in Multan division",
+      "url": "https://www.app.com.pk/domestic/electric-bus-service-to-be-launched-soon-in-multan-division/",
+      "publisher": "APP",
+      "date": "2025-01-30",
+      "official": false
+    },
+    {
+      "title": "All Multan routes",
+      "url": "https://www.safar.fyi/multan/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "EV-VC-NC",
+      "name": "Vehari Chowk to Nishtar Hospital",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Vehari Chowk",
+          "name_ur": "",
+          "lat": 30.173723,
+          "lon": 71.50879,
+          "coord_source": "auto:osm:way/28292761",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah Park",
+          "name_ur": "",
+          "lat": 30.18871,
+          "lon": 71.510471,
+          "coord_source": "auto:osm:way/38074343",
+          "is_station": false
+        },
+        {
+          "name": "Sabzi Mandi",
+          "name_ur": "",
+          "lat": 30.192655,
+          "lon": 71.508675,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shah Ruk-ne-Alam",
+          "name_ur": "",
+          "lat": 30.196599,
+          "lon": 71.506879,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chowk Kumharan Wala",
+          "name_ur": "",
+          "lat": 30.200544,
+          "lon": 71.505083,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "City Admire college",
+          "name_ur": "",
+          "lat": 30.204488,
+          "lon": 71.503287,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "MEPCO",
+          "name_ur": "",
+          "lat": 30.208433,
+          "lon": 71.501491,
+          "coord_source": "auto:osm:way/182024744",
+          "is_station": false
+        },
+        {
+          "name": "Khushhal Colony",
+          "name_ur": "",
+          "lat": 30.209119,
+          "lon": 71.49529,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rasheed Abad",
+          "name_ur": "",
+          "lat": 30.209806,
+          "lon": 71.489089,
+          "coord_source": "auto:osm:node/1921952575",
+          "is_station": false
+        },
+        {
+          "name": "Science School",
+          "name_ur": "",
+          "lat": 30.2103,
+          "lon": 71.484014,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Eid gah",
+          "name_ur": "",
+          "lat": 30.210794,
+          "lon": 71.478939,
+          "coord_source": "auto:osm:node/444356918",
+          "is_station": false
+        },
+        {
+          "name": "Chungi. No.9 Multan",
+          "name_ur": "",
+          "lat": 30.208356,
+          "lon": 71.471549,
+          "coord_source": "auto:osm:node/4595570001",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No 8",
+          "name_ur": "",
+          "lat": 30.209441,
+          "lon": 71.465571,
+          "coord_source": "osm:node/1921952559",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No 7",
+          "name_ur": "",
+          "lat": 30.206885,
+          "lon": 71.462351,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Katchery Chowk",
+          "name_ur": "",
+          "lat": 30.20433,
+          "lon": 71.459132,
+          "coord_source": "auto:osm:way/1174102624",
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk",
+          "name_ur": "",
+          "lat": 30.2010652,
+          "lon": 71.4543044,
+          "coord_source": "osm:node/4729230492",
+          "is_station": false
+        },
+        {
+          "name": "Nawa Shehar",
+          "name_ur": "",
+          "lat": 30.198026,
+          "lon": 71.450068,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Cardiology Hospital",
+          "name_ur": "",
+          "lat": 30.194988,
+          "lon": 71.445832,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "SP Chowk",
+          "name_ur": "",
+          "lat": 30.191949,
+          "lon": 71.441596,
+          "coord_source": "auto:osm:node/534943715",
+          "is_station": false
+        },
+        {
+          "name": "High Court",
+          "name_ur": "",
+          "lat": 30.194803,
+          "lon": 71.440626,
+          "coord_source": "auto:osm:way/901097343",
+          "is_station": false
+        },
+        {
+          "name": "Nishter Chowk",
+          "name_ur": "",
+          "lat": 30.202376,
+          "lon": 71.442978,
+          "coord_source": "auto:osm:way/901143192",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A457"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Vehari Chowk (EV) to Nishter Chowk'); safar lists 21 stops, fare Fare not published, service 5:30 AM - 10:00 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence). Listed by safar.fyi as a 'City Bus' EV route; no news report naming this route found. Ausaf (Apr 2026) reported first 10 e-buses dispatched to Multan with 50 more later; Dawn (Jul 2026) said 12 e-buses due in Multan by end-July 2026; APP (Jan 2025) planned 45 buses on 3 routes + 24 on 5 routes."
+    }
+  ]
+}

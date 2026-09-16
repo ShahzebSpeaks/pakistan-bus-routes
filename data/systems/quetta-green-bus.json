@@ -1,0 +1,144 @@
+{
+  "id": "quetta-green-bus",
+  "city": "quetta",
+  "name": "Green Bus Service Quetta (incl. Pink Bus)",
+  "name_ur": "گرین بس سروس",
+  "operator": "Transport Department, Government of Balochistan (public-private partnership)",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "cash ticket",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 30,
+    "slabs": [],
+    "concessions": "",
+    "as_of": "2023-07",
+    "source_url": "https://www.dawn.com/news/1765358"
+  },
+  "hours": {
+    "start": "07:00",
+    "end": "20:00",
+    "notes": "Hours reported around 2023 launch; not re-confirmed for 2025-26 expansion."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "First ever Green Bus Service launched in Quetta",
+      "url": "https://www.dawn.com/news/1765358",
+      "publisher": "Dawn",
+      "date": "2023-07-18",
+      "official": false
+    },
+    {
+      "title": "Balochistan expands Green Bus fleet to 25 in Quetta with 17 new additions",
+      "url": "https://www.app.com.pk/domestic/balochistan-expands-green-bus-fleet-to-25-in-quetta-with-17-new-additions/",
+      "publisher": "APP",
+      "date": "2025",
+      "official": false
+    },
+    {
+      "title": "CM Balochistan inaugurates Pink Bus Service for women, expanding Green Bus routes",
+      "url": "https://www.app.com.pk/domestic/cm-balochistan-inaugurates-pink-bus-service-for-women-expanding-green-bus-routes/",
+      "publisher": "APP",
+      "date": "2025-12-10",
+      "official": false
+    },
+    {
+      "title": "Pink fleet expands Quetta's bus network",
+      "url": "https://www.gwadarpro.pk/1997545188923703298/pink-fleet-expands-quettas-bus-network",
+      "publisher": "Gwadar Pro",
+      "date": "2025-12-07",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "GB-1",
+      "name": "BUITEMS - University of Balochistan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": "2023-07-18",
+      "length_km": 18.7,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "BUITEMS",
+          "name_ur": "",
+          "lat": 30.26956,
+          "lon": 66.940229,
+          "coord_source": "osm:way/653436561",
+          "is_station": false
+        },
+        {
+          "name": "University of Balochistan",
+          "name_ur": "",
+          "lat": 30.164572,
+          "lon": 66.99418,
+          "coord_source": "osm:way/995134260",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "First ever Green Bus Service launched in Quetta",
+          "url": "https://www.dawn.com/news/1765358"
+        }
+      ],
+      "notes": "No official route code found (GB-1 is a placeholder). 18 stops reported but names not published; route runs via Airport Road, Zarghoon Road, Anscomb Road, Koila Phatak and Sariab Road. Only terminals listed; their coordinates are OSM campus centroids, not stop positions. Reportedly extended to Sariab Customs (Sept 2025, after Balochistan High Court orders); Dec 2025 reports describe routes Sariab Road - Airport Chowk and University Road - Sariab Mill. OSM node 12699227422 'Green Bus Stop' (30.19336, 67.0044) exists."
+    },
+    {
+      "id": "PINK",
+      "name": "Pink Bus (women only)",
+      "name_ur": "",
+      "variant": "pink",
+      "color": null,
+      "status": "unverified",
+      "launched": "2025-12-10",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": true,
+      "stops_confidence": "low",
+      "stops": [],
+      "sources": [
+        {
+          "title": "CM Balochistan inaugurates Pink Bus Service",
+          "url": "https://www.app.com.pk/domestic/cm-balochistan-inaugurates-pink-bus-service-for-women-expanding-green-bus-routes/"
+        }
+      ],
+      "notes": "4-5 pink buses inaugurated Dec 2025; route not published (likely on green bus corridor)."
+    },
+    {
+      "id": "KUCHLAK",
+      "name": "Kuchlak (AC Office) - Mian Ghundi (Sariab)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 38,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [],
+      "sources": [
+        {
+          "title": "Balochistan expands Green Bus fleet to 25 in Quetta",
+          "url": "https://www.app.com.pk/domestic/balochistan-expands-green-bus-fleet-to-25-in-quetta-with-17-new-additions/"
+        }
+      ],
+      "notes": "Planned network extension from 18 km to ~40 km (Sona Khan/Mian Ghundi - Kuchlak) covering Hazara Town, Marriabad, Samungli Road, Sariab Custom, Nawan Killi. Operational status in Sept 2026 not confirmed."
+    }
+  ]
+}

@@ -1,0 +1,5211 @@
+{
+  "id": "lahore-feeder",
+  "city": "lahore",
+  "name": "Lahore Feeder Routes (Speedo)",
+  "name_ur": "سپیڈو فیڈر بس",
+  "operator": "Punjab Masstransit Authority (buses operated by Daewoo under PMA contract)",
+  "mode": "feeder",
+  "website": "https://pma.punjab.gov.pk/lahore-feeder-routes-phase1",
+  "helpline": "042-111-222-627",
+  "payment": "PMA card / cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 25,
+    "slabs": [],
+    "concessions": "Rs25 per Safar (Rs20 + Rs5 raise approved early 2024). Nov-2025 proposal of a further Rs5 raise not confirmed implemented. Free period ended 2026-06-13.",
+    "as_of": "2024-02",
+    "source_url": "https://www.safar.fyi/lahore"
+  },
+  "hours": {
+    "start": "06:00",
+    "end": "22:30",
+    "notes": "Varies by route (earliest ~05:30, latest ~23:00); see per-route hours. Phase I started 2017-03-20 with 200 buses (PMA)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Lahore Feeder Route (Phase I)",
+      "url": "https://pma.punjab.gov.pk/lahore-feeder-route-phaseI",
+      "publisher": "PMA",
+      "date": null,
+      "official": true
+    },
+    {
+      "title": "Lahore Feeder Routes (Phase I)",
+      "url": "https://pma.punjab.gov.pk/lahore-feeder-routes-phase1",
+      "publisher": "PMA",
+      "date": null,
+      "official": true
+    },
+    {
+      "title": "Lahore transit lines",
+      "url": "https://www.safar.fyi/lahore/transit-lines",
+      "publisher": "Safar",
+      "date": "2026-09",
+      "official": false
+    },
+    {
+      "title": "Metro Bus, Orange Line Train fares increased",
+      "url": "https://pakobserver.net/metro-bus-orange-line-train-fares-increased-check-new-rates-here/",
+      "publisher": "Pakistan Observer",
+      "date": "2024-02-13",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "RT-03",
+      "name": "Rana Town - Railway Station",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 13,
+      "hours": {
+        "start": "05:00",
+        "end": "22:22"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Rana Town",
+          "name_ur": "",
+          "lat": 31.636848,
+          "lon": 74.284203,
+          "coord_source": "auto:osm:node/304964074",
+          "is_station": false
+        },
+        {
+          "name": "Nazim Road",
+          "name_ur": "",
+          "lat": 31.635557,
+          "lon": 74.284575,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Haider Road",
+          "name_ur": "",
+          "lat": 31.634266,
+          "lon": 74.284947,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "College Road",
+          "name_ur": "",
+          "lat": 31.632975,
+          "lon": 74.285319,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rachna Town",
+          "name_ur": "",
+          "lat": 31.631684,
+          "lon": 74.285692,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Feroz Wala",
+          "name_ur": "",
+          "lat": 31.630393,
+          "lon": 74.286064,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Imamia Colony",
+          "name_ur": "",
+          "lat": 31.629102,
+          "lon": 74.286436,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kala Khatai Road",
+          "name_ur": "",
+          "lat": 31.627811,
+          "lon": 74.286808,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Barkat Town",
+          "name_ur": "",
+          "lat": 31.62652,
+          "lon": 74.28718,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Machas Factory",
+          "name_ur": "",
+          "lat": 31.625229,
+          "lon": 74.287552,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kashmir Park",
+          "name_ur": "",
+          "lat": 31.623938,
+          "lon": 74.287924,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Wandala Road",
+          "name_ur": "",
+          "lat": 31.622647,
+          "lon": 74.288297,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shahdra Railway Station",
+          "name_ur": "",
+          "lat": 31.621356,
+          "lon": 74.288669,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kot Shahab-ud-Din",
+          "name_ur": "",
+          "lat": 31.620065,
+          "lon": 74.289041,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shahdra Lari Adda",
+          "name_ur": "",
+          "lat": 31.618774,
+          "lon": 74.289413,
+          "coord_source": "osm:node/2955181283",
+          "is_station": false
+        },
+        {
+          "name": "Shahdara Metro Station",
+          "name_ur": "",
+          "lat": 31.616508,
+          "lon": 74.290818,
+          "coord_source": "osm:node/3093598533",
+          "is_station": false
+        },
+        {
+          "name": "Niazi Interchange",
+          "name_ur": "",
+          "lat": 31.600983,
+          "lon": 74.299229,
+          "coord_source": "auto:same-name:osm:node/2405226777",
+          "is_station": false
+        },
+        {
+          "name": "Niazi Chowk",
+          "name_ur": "",
+          "lat": 31.600983,
+          "lon": 74.299229,
+          "coord_source": "osm:node/2405226777",
+          "is_station": false
+        },
+        {
+          "name": "Metro",
+          "name_ur": "",
+          "lat": 31.596837,
+          "lon": 74.298341,
+          "coord_source": "auto:osm:way/500080231",
+          "is_station": false
+        },
+        {
+          "name": "Timber Market",
+          "name_ur": "",
+          "lat": 31.594494,
+          "lon": 74.302139,
+          "coord_source": "osm:node/2405226778",
+          "is_station": false
+        },
+        {
+          "name": "Azadi Chowk",
+          "name_ur": "",
+          "lat": 31.590712,
+          "lon": 74.306381,
+          "coord_source": "osm:node/2401335839",
+          "is_station": false
+        },
+        {
+          "name": "Texali Chowk",
+          "name_ur": "",
+          "lat": 31.590822,
+          "lon": 74.30888,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bhatti Chowk-2",
+          "name_ur": "",
+          "lat": 31.590933,
+          "lon": 74.311379,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "texali Chowk 2",
+          "name_ur": "",
+          "lat": 31.591043,
+          "lon": 74.313879,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lari Adda Gol Chakar",
+          "name_ur": "",
+          "lat": 31.591154,
+          "lon": 74.316378,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lari Adda",
+          "name_ur": "",
+          "lat": 31.591264,
+          "lon": 74.318877,
+          "coord_source": "auto:nominatim:node/2952892667",
+          "is_station": false
+        },
+        {
+          "name": "Kashmiri Gate",
+          "name_ur": "",
+          "lat": 31.586842,
+          "lon": 74.321044,
+          "coord_source": "auto:osm:node/8389022126",
+          "is_station": false
+        },
+        {
+          "name": "Sheranwala Gate",
+          "name_ur": "",
+          "lat": 31.585517,
+          "lon": 74.324054,
+          "coord_source": "auto:osm:way/468965903",
+          "is_station": false
+        },
+        {
+          "name": "Nawaz Sharif Hospital",
+          "name_ur": "",
+          "lat": 31.573855,
+          "lon": 74.329638,
+          "coord_source": "auto:osm:way/761860753",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station-2",
+          "name_ur": "",
+          "lat": 31.57701,
+          "lon": 74.334721,
+          "coord_source": "auto:nominatim:way/1528230626",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station-1",
+          "name_ur": "",
+          "lat": 31.572298,
+          "lon": 74.336153,
+          "coord_source": "osm:node/8058806356",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-03",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-239"
+        },
+        {
+          "title": "PMA - Lahore Feeder Route (Phase I) list",
+          "url": "https://pma.punjab.gov.pk/lahore-feeder-route-phaseI"
+        }
+      ],
+      "notes": "PMA code FRT03. Stop order = Safar direction 'Railway Station-1'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-04",
+      "name": "R.A. Bazar - Chungi Amar Sidhu",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 20,
+      "hours": {
+        "start": "05:30",
+        "end": "22:10"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "R A Bazar",
+          "name_ur": "",
+          "lat": 31.500086,
+          "lon": 74.383372,
+          "coord_source": "auto:osm:node/10248120909",
+          "is_station": false
+        },
+        {
+          "name": "Nadeem Chowk",
+          "name_ur": "",
+          "lat": 31.504646,
+          "lon": 74.385136,
+          "coord_source": "auto:osm:way/699369250",
+          "is_station": false
+        },
+        {
+          "name": "T-Stop",
+          "name_ur": "",
+          "lat": 31.491025,
+          "lon": 74.392037,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Defence Morr",
+          "name_ur": "",
+          "lat": 31.477404,
+          "lon": 74.398937,
+          "coord_source": "auto:osm:node/5253650252",
+          "is_station": false
+        },
+        {
+          "name": "Korray Stop",
+          "name_ur": "",
+          "lat": 31.476471,
+          "lon": 74.384723,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shareef Market",
+          "name_ur": "",
+          "lat": 31.475538,
+          "lon": 74.370508,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "College Stop",
+          "name_ur": "",
+          "lat": 31.474605,
+          "lon": 74.356294,
+          "coord_source": "auto:osm:node/5273669393",
+          "is_station": false
+        },
+        {
+          "name": "Walton",
+          "name_ur": "",
+          "lat": 31.487404,
+          "lon": 74.354274,
+          "coord_source": "auto:osm:node/2296900504",
+          "is_station": false
+        },
+        {
+          "name": "Bab e Pakistan",
+          "name_ur": "",
+          "lat": 31.480186,
+          "lon": 74.357112,
+          "coord_source": "auto:osm:node/4408516197",
+          "is_station": false
+        },
+        {
+          "name": "Workshop",
+          "name_ur": "",
+          "lat": 31.467377,
+          "lon": 74.351978,
+          "coord_source": "auto:osm:way/718280830",
+          "is_station": false
+        },
+        {
+          "name": "Rabia Basri Stop",
+          "name_ur": "",
+          "lat": 31.468702,
+          "lon": 74.353464,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Packages",
+          "name_ur": "",
+          "lat": 31.470026,
+          "lon": 74.35495,
+          "coord_source": "auto:osm:node/5273669394",
+          "is_station": false
+        },
+        {
+          "name": "Qainchi",
+          "name_ur": "",
+          "lat": 31.464367,
+          "lon": 74.348214,
+          "coord_source": "osm:node/2401358346",
+          "is_station": false
+        },
+        {
+          "name": "Ghazi Chowk",
+          "name_ur": "",
+          "lat": 31.457051,
+          "lon": 74.351205,
+          "coord_source": "osm:node/2401358343",
+          "is_station": false
+        },
+        {
+          "name": "Chungi Amar Sidhu",
+          "name_ur": "",
+          "lat": 31.450361,
+          "lon": 74.353336,
+          "coord_source": "osm:node/8389210063",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-04",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-240"
+        },
+        {
+          "title": "PMA - Lahore Feeder Route (Phase I) list",
+          "url": "https://pma.punjab.gov.pk/lahore-feeder-route-phaseI"
+        }
+      ],
+      "notes": "Return direction skips Rabia Basri Stop. PMA code FRT04. Stop order = Safar direction 'R.A. Bazar to Chungi Amar Sidhu'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-05",
+      "name": "Bhatti Chowk - Shadbagh Underpass",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 20,
+      "hours": {
+        "start": "06:15",
+        "end": "22:35"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Bhatti Chowk",
+          "name_ur": "",
+          "lat": 31.580611,
+          "lon": 74.306255,
+          "coord_source": "auto:osm:node/13392220626",
+          "is_station": false
+        },
+        {
+          "name": "texali Chowk 2",
+          "name_ur": "",
+          "lat": 31.584772,
+          "lon": 74.309986,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lari Adda Gol Chakar 2",
+          "name_ur": "",
+          "lat": 31.588933,
+          "lon": 74.313716,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Badami Bagh",
+          "name_ur": "",
+          "lat": 31.593094,
+          "lon": 74.317447,
+          "coord_source": "auto:osm:node/2952851631",
+          "is_station": false
+        },
+        {
+          "name": "Sabzi Mandi",
+          "name_ur": "",
+          "lat": 31.588109,
+          "lon": 74.315657,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Usman Chowk",
+          "name_ur": "",
+          "lat": 31.583123,
+          "lon": 74.313866,
+          "coord_source": "auto:osm:node/8388859003",
+          "is_station": false
+        },
+        {
+          "name": "Lohay Wali Pulley",
+          "name_ur": "",
+          "lat": 31.58333,
+          "lon": 74.31415,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ali Hajvery Shadi Hall",
+          "name_ur": "",
+          "lat": 31.583537,
+          "lon": 74.314434,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Masoom Shah Darbar",
+          "name_ur": "",
+          "lat": 31.583745,
+          "lon": 74.314717,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Madina Chowk",
+          "name_ur": "",
+          "lat": 31.583952,
+          "lon": 74.315001,
+          "coord_source": "auto:osm:node/9862965631",
+          "is_station": false
+        },
+        {
+          "name": "Rajput Park",
+          "name_ur": "",
+          "lat": 31.593001,
+          "lon": 74.306649,
+          "coord_source": "auto:nominatim:node/4912575664",
+          "is_station": false
+        },
+        {
+          "name": "Shadbagh Underpass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-05",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-241"
+        },
+        {
+          "title": "PMA - Lahore Feeder Route (Phase I) list",
+          "url": "https://pma.punjab.gov.pk/lahore-feeder-route-phaseI"
+        }
+      ],
+      "notes": "PMA code FRT05. Stop order = Safar direction 'Bhatti Chowk to Shadbagh Underpass'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-07",
+      "name": "Depot Chowk - Chungi Amar Sidhu",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 23,
+      "hours": {
+        "start": "06:30",
+        "end": "22:12"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Depot Chowk",
+          "name_ur": "",
+          "lat": 31.446882,
+          "lon": 74.32083,
+          "coord_source": "auto:osm:way/1016961320",
+          "is_station": false
+        },
+        {
+          "name": "Pulley Bus Stop",
+          "name_ur": "",
+          "lat": 31.447249,
+          "lon": 74.318276,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Keer Kalan",
+          "name_ur": "",
+          "lat": 31.447615,
+          "lon": 74.315723,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Minhaj University",
+          "name_ur": "",
+          "lat": 31.447982,
+          "lon": 74.313169,
+          "coord_source": "auto:nominatim:way/544118546",
+          "is_station": false
+        },
+        {
+          "name": "Hamdard Chowk",
+          "name_ur": "",
+          "lat": 31.447039,
+          "lon": 74.320433,
+          "coord_source": "auto:osm:node/6390377992",
+          "is_station": false
+        },
+        {
+          "name": "Somi Center Bus Stop",
+          "name_ur": "",
+          "lat": 31.448835,
+          "lon": 74.323021,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nursery Bus Stop",
+          "name_ur": "",
+          "lat": 31.450631,
+          "lon": 74.325608,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rehmat Eye Hospital",
+          "name_ur": "",
+          "lat": 31.452427,
+          "lon": 74.328196,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pindi Stop",
+          "name_ur": "",
+          "lat": 31.454222,
+          "lon": 74.330784,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Treet Stop",
+          "name_ur": "",
+          "lat": 31.456018,
+          "lon": 74.333372,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Peco Mor",
+          "name_ur": "",
+          "lat": 31.457814,
+          "lon": 74.335959,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kot lakhpat Railway Station",
+          "name_ur": "",
+          "lat": 31.45961,
+          "lon": 74.338547,
+          "coord_source": "auto:osm:node/2433376123",
+          "is_station": false
+        },
+        {
+          "name": "Phatki stop",
+          "name_ur": "",
+          "lat": 31.460799,
+          "lon": 74.340964,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Phattak mandi Stop",
+          "name_ur": "",
+          "lat": 31.461989,
+          "lon": 74.34338,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Model Town Katchery",
+          "name_ur": "",
+          "lat": 31.463178,
+          "lon": 74.345797,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Qainchi stop",
+          "name_ur": "",
+          "lat": 31.464367,
+          "lon": 74.348214,
+          "coord_source": "osm:node/2401358346",
+          "is_station": false
+        },
+        {
+          "name": "Ghazi Chowk",
+          "name_ur": "",
+          "lat": 31.457051,
+          "lon": 74.351205,
+          "coord_source": "osm:node/2401358343",
+          "is_station": false
+        },
+        {
+          "name": "Chungi Amar Sidhu",
+          "name_ur": "",
+          "lat": 31.450361,
+          "lon": 74.353336,
+          "coord_source": "osm:node/8389210063",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-07",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-242"
+        },
+        {
+          "title": "PMA - Lahore Feeder Route (Phase I) list",
+          "url": "https://pma.punjab.gov.pk/lahore-feeder-route-phaseI"
+        }
+      ],
+      "notes": "Depot Chowk is in the Green Town / Township area. PMA code FRT07. Stop order = Safar direction 'Depot Chowk to Chungi Amer Sidhu'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-08",
+      "name": "Canal - Jinnah Bus Terminal",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 30,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Canal",
+          "name_ur": "",
+          "lat": 31.519329,
+          "lon": 74.326938,
+          "coord_source": "osm:way/1460187686",
+          "is_station": false
+        },
+        {
+          "name": "Qaddafi Stadium",
+          "name_ur": "",
+          "lat": 31.512022,
+          "lon": 74.328812,
+          "coord_source": "osm:node/13392211430",
+          "is_station": false
+        },
+        {
+          "name": "8 kalma chowk",
+          "name_ur": "",
+          "lat": 31.503496,
+          "lon": 74.331848,
+          "coord_source": "osm:node/13392211429",
+          "is_station": false
+        },
+        {
+          "name": "Barkat Market",
+          "name_ur": "",
+          "lat": 31.500683,
+          "lon": 74.321154,
+          "coord_source": "auto:osm:way/283328556",
+          "is_station": false
+        },
+        {
+          "name": "Campus Pull",
+          "name_ur": "",
+          "lat": 31.500856,
+          "lon": 74.314911,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gate No 4",
+          "name_ur": "",
+          "lat": 31.50103,
+          "lon": 74.308669,
+          "coord_source": "osm:node/526681498",
+          "is_station": false
+        },
+        {
+          "name": "Hailey College",
+          "name_ur": "",
+          "lat": 31.497253,
+          "lon": 74.305326,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "IBA Stop",
+          "name_ur": "",
+          "lat": 31.493476,
+          "lon": 74.301982,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shah Di Khoi",
+          "name_ur": "",
+          "lat": 31.4897,
+          "lon": 74.298639,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah Hospital",
+          "name_ur": "",
+          "lat": 31.485923,
+          "lon": 74.295296,
+          "coord_source": "auto:osm:way/500980109",
+          "is_station": false
+        },
+        {
+          "name": "Wafaqi Colony",
+          "name_ur": "",
+          "lat": 31.481735,
+          "lon": 74.290773,
+          "coord_source": "auto:osm:node/304965887",
+          "is_station": false
+        },
+        {
+          "name": "Doctor Hospital",
+          "name_ur": "",
+          "lat": 31.481323,
+          "lon": 74.282374,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "PCSIR 1",
+          "name_ur": "",
+          "lat": 31.480911,
+          "lon": 74.273975,
+          "coord_source": "auto:osm:way/667591624",
+          "is_station": false
+        },
+        {
+          "name": "G 4 Johar Town",
+          "name_ur": "",
+          "lat": 31.483604,
+          "lon": 74.266162,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hanjarwal",
+          "name_ur": "",
+          "lat": 31.486296,
+          "lon": 74.25835,
+          "coord_source": "osm:node/5844889653",
+          "is_station": false
+        },
+        {
+          "name": "Mughal Eye Hospital",
+          "name_ur": "",
+          "lat": 31.472039,
+          "lon": 74.261058,
+          "coord_source": "auto:osm:node/5016859022",
+          "is_station": false
+        },
+        {
+          "name": "Canal View Gate1",
+          "name_ur": "",
+          "lat": 31.480695,
+          "lon": 74.249204,
+          "coord_source": "auto:osm:node/5844889652",
+          "is_station": false
+        },
+        {
+          "name": "Judicial Colony",
+          "name_ur": "",
+          "lat": 31.467822,
+          "lon": 74.245653,
+          "coord_source": "auto:osm:way/1535912029",
+          "is_station": false
+        },
+        {
+          "name": "Thokar Niaz Baig",
+          "name_ur": "",
+          "lat": 31.473642,
+          "lon": 74.241825,
+          "coord_source": "osm:node/5844889651",
+          "is_station": false
+        },
+        {
+          "name": "Daewoo Terminal",
+          "name_ur": "",
+          "lat": 31.469103,
+          "lon": 74.238514,
+          "coord_source": "auto:osm:node/4770908181",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah terminal",
+          "name_ur": "",
+          "lat": 31.466517,
+          "lon": 74.225562,
+          "coord_source": "auto:osm:way/316917153",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-08",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-243"
+        },
+        {
+          "title": "PMA - Lahore Feeder Route (Phase I) list",
+          "url": "https://pma.punjab.gov.pk/lahore-feeder-route-phaseI"
+        }
+      ],
+      "notes": "PMA Phase-I list names the terminal Daewoo Terminal; Safar extends to Jinnah Terminal (Thokar Niaz Baig). PMA code FRT08. Stop order = Safar direction 'RT-8 Canal to Jinnah Terminal'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-09",
+      "name": "Railway Station - Gulshan-e-Ravi (Orange Line station)",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 15,
+      "hours": {
+        "start": "06:15",
+        "end": "22:23"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Railway Station-1",
+          "name_ur": "",
+          "lat": 31.572298,
+          "lon": 74.336153,
+          "coord_source": "osm:node/8058806356",
+          "is_station": false
+        },
+        {
+          "name": "Haji Camp",
+          "name_ur": "",
+          "lat": 31.571108,
+          "lon": 74.334406,
+          "coord_source": "auto:osm:way/611958741",
+          "is_station": false
+        },
+        {
+          "name": "Police Line",
+          "name_ur": "",
+          "lat": 31.566615,
+          "lon": 74.33546,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shimla Pahari",
+          "name_ur": "",
+          "lat": 31.562122,
+          "lon": 74.336514,
+          "coord_source": "auto:osm:node/8398513042",
+          "is_station": false
+        },
+        {
+          "name": "Shimla Pahari-2",
+          "name_ur": "",
+          "lat": 31.56145,
+          "lon": 74.333516,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Aiwan-E-Iqbal",
+          "name_ur": "",
+          "lat": 31.560778,
+          "lon": 74.330518,
+          "coord_source": "auto:osm:way/611953498",
+          "is_station": false
+        },
+        {
+          "name": "Lahore Zoo",
+          "name_ur": "",
+          "lat": 31.556284,
+          "lon": 74.325859,
+          "coord_source": "auto:osm:way/290937634",
+          "is_station": false
+        },
+        {
+          "name": "Charing Cross",
+          "name_ur": "",
+          "lat": 31.560297,
+          "lon": 74.323787,
+          "coord_source": "osm:node/2944031592",
+          "is_station": false
+        },
+        {
+          "name": "Ganga Ram Hospital",
+          "name_ur": "",
+          "lat": 31.554437,
+          "lon": 74.321698,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Waris Road",
+          "name_ur": "",
+          "lat": 31.548576,
+          "lon": 74.319609,
+          "coord_source": "auto:osm:way/27641462",
+          "is_station": false
+        },
+        {
+          "name": "Qartaba Chowk",
+          "name_ur": "",
+          "lat": 31.5487,
+          "lon": 74.315106,
+          "coord_source": "osm:way/607183579",
+          "is_station": false
+        },
+        {
+          "name": "Surayya Azeem Hospital",
+          "name_ur": "",
+          "lat": 31.550498,
+          "lon": 74.309023,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chauburji Station",
+          "name_ur": "",
+          "lat": 31.552296,
+          "lon": 74.302941,
+          "coord_source": "osm:node/8060376252",
+          "is_station": false
+        },
+        {
+          "name": "Poonch House",
+          "name_ur": "",
+          "lat": 31.550637,
+          "lon": 74.301893,
+          "coord_source": "auto:osm:way/905357074",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Ravi Station",
+          "name_ur": "",
+          "lat": 31.544898,
+          "lon": 74.295299,
+          "coord_source": "osm:node/5844879609",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-09",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-244"
+        },
+        {
+          "title": "PMA - Lahore Feeder Route (Phase I) list",
+          "url": "https://pma.punjab.gov.pk/lahore-feeder-route-phaseI"
+        }
+      ],
+      "notes": "PMA Phase-I list: Railway Station - Chauburji; Safar shows extension to Gulshan Ravi Orange Line station. PMA code FRT09. Stop order = Safar direction 'Gulshan Ravi Station'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-10",
+      "name": "Wahdat Road Station - Qartaba Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 15,
+      "hours": {
+        "start": "06:15",
+        "end": "22:55"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Wahdat Road Station",
+          "name_ur": "",
+          "lat": 31.494689,
+          "lon": 74.263366,
+          "coord_source": "osm:node/5844889654",
+          "is_station": false
+        },
+        {
+          "name": "Multan Chungi",
+          "name_ur": "",
+          "lat": 31.496067,
+          "lon": 74.263701,
+          "coord_source": "osm:node/674141731",
+          "is_station": false
+        },
+        {
+          "name": "Elephant Link road",
+          "name_ur": "",
+          "lat": 31.495941,
+          "lon": 74.268587,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mustafa Town",
+          "name_ur": "",
+          "lat": 31.495815,
+          "lon": 74.273474,
+          "coord_source": "auto:osm:node/304965552",
+          "is_station": false
+        },
+        {
+          "name": "Karim Block Market",
+          "name_ur": "",
+          "lat": 31.498602,
+          "lon": 74.277679,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sikander Block",
+          "name_ur": "",
+          "lat": 31.501388,
+          "lon": 74.281884,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Raza Block",
+          "name_ur": "",
+          "lat": 31.504175,
+          "lon": 74.28609,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "PU Examination Hall",
+          "name_ur": "",
+          "lat": 31.506961,
+          "lon": 74.290295,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Science College",
+          "name_ur": "",
+          "lat": 31.509748,
+          "lon": 74.2945,
+          "coord_source": "auto:nominatim:way/359002101",
+          "is_station": false
+        },
+        {
+          "name": "Bhekewal Morr 2",
+          "name_ur": "",
+          "lat": 31.512623,
+          "lon": 74.301231,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Wahdat Colony",
+          "name_ur": "",
+          "lat": 31.515499,
+          "lon": 74.307962,
+          "coord_source": "auto:osm:way/1009392572",
+          "is_station": false
+        },
+        {
+          "name": "School Stop",
+          "name_ur": "",
+          "lat": 31.51301,
+          "lon": 74.314655,
+          "coord_source": "auto:osm:node/5273347270",
+          "is_station": false
+        },
+        {
+          "name": "Bank Stop",
+          "name_ur": "",
+          "lat": 31.515132,
+          "lon": 74.315446,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Naqsha Stop",
+          "name_ur": "",
+          "lat": 31.517253,
+          "lon": 74.316236,
+          "coord_source": "osm:node/2874255265",
+          "is_station": false
+        },
+        {
+          "name": "Karma Abad",
+          "name_ur": "",
+          "lat": 31.518332,
+          "lon": 74.318941,
+          "coord_source": "osm:node/2874250693",
+          "is_station": false
+        },
+        {
+          "name": "Aab Para Market",
+          "name_ur": "",
+          "lat": 31.520177,
+          "lon": 74.321019,
+          "coord_source": "osm:node/2874230471",
+          "is_station": false
+        },
+        {
+          "name": "Canal",
+          "name_ur": "",
+          "lat": 31.519329,
+          "lon": 74.326938,
+          "coord_source": "osm:way/1460187686",
+          "is_station": false
+        },
+        {
+          "name": "Rehman Pura",
+          "name_ur": "",
+          "lat": 31.522756,
+          "lon": 74.319592,
+          "coord_source": "auto:osm:node/304951119",
+          "is_station": false
+        },
+        {
+          "name": "Shah Jamal",
+          "name_ur": "",
+          "lat": 31.532104,
+          "lon": 74.328018,
+          "coord_source": "auto:osm:node/303561417",
+          "is_station": false
+        },
+        {
+          "name": "Ichara",
+          "name_ur": "",
+          "lat": 31.531509,
+          "lon": 74.321417,
+          "coord_source": "osm:way/1460187687",
+          "is_station": false
+        },
+        {
+          "name": "Shama",
+          "name_ur": "",
+          "lat": 31.539077,
+          "lon": 74.319069,
+          "coord_source": "osm:way/607183580",
+          "is_station": false
+        },
+        {
+          "name": "LOS",
+          "name_ur": "",
+          "lat": 31.543889,
+          "lon": 74.317087,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Qartaba Chowk",
+          "name_ur": "",
+          "lat": 31.5487,
+          "lon": 74.315106,
+          "coord_source": "osm:way/607183579",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-10",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-245"
+        },
+        {
+          "title": "PMA - Lahore Feeder Route (Phase I) list",
+          "url": "https://pma.punjab.gov.pk/lahore-feeder-route-phaseI"
+        }
+      ],
+      "notes": "PMA code FRT10. Stop order = Safar direction 'Wahdat Road Station to Qartaba Chowk'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-11",
+      "name": "Main Market Gulberg - Babu Sabu",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 20,
+      "hours": {
+        "start": "06:15",
+        "end": "21:55"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Main Market Gulberg",
+          "name_ur": "",
+          "lat": 31.524157,
+          "lon": 74.346883,
+          "coord_source": "osm:node/1749449947",
+          "is_station": false
+        },
+        {
+          "name": "McDonalds 1",
+          "name_ur": "",
+          "lat": 31.524173,
+          "lon": 74.346681,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Siddique Trade Center",
+          "name_ur": "",
+          "lat": 31.52419,
+          "lon": 74.346478,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "McDonalds 2",
+          "name_ur": "",
+          "lat": 31.524206,
+          "lon": 74.346276,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Main Market-2",
+          "name_ur": "",
+          "lat": 31.524223,
+          "lon": 74.346073,
+          "coord_source": "auto:osm:way/233581678",
+          "is_station": false
+        },
+        {
+          "name": "Mini market",
+          "name_ur": "",
+          "lat": 31.520907,
+          "lon": 74.351373,
+          "coord_source": "auto:osm:way/543233372",
+          "is_station": false
+        },
+        {
+          "name": "Hafeez Center",
+          "name_ur": "",
+          "lat": 31.515462,
+          "lon": 74.345991,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Liberty Chowk",
+          "name_ur": "",
+          "lat": 31.510018,
+          "lon": 74.34061,
+          "coord_source": "auto:osm:node/162443425",
+          "is_station": false
+        },
+        {
+          "name": "Center Point",
+          "name_ur": "",
+          "lat": 31.50535,
+          "lon": 74.330882,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Barkat Market",
+          "name_ur": "",
+          "lat": 31.500683,
+          "lon": 74.321154,
+          "coord_source": "auto:osm:way/283328556",
+          "is_station": false
+        },
+        {
+          "name": "Campus Pull",
+          "name_ur": "",
+          "lat": 31.502725,
+          "lon": 74.316775,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "PU Campus",
+          "name_ur": "",
+          "lat": 31.504768,
+          "lon": 74.312396,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sheikh Zaid Hospital",
+          "name_ur": "",
+          "lat": 31.50681,
+          "lon": 74.308017,
+          "coord_source": "osm:node/9676546777",
+          "is_station": false
+        },
+        {
+          "name": "Bhekewal Morr 1",
+          "name_ur": "",
+          "lat": 31.509315,
+          "lon": 74.305097,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pilot School",
+          "name_ur": "",
+          "lat": 31.51182,
+          "lon": 74.302176,
+          "coord_source": "auto:nominatim:way/321064819",
+          "is_station": false
+        },
+        {
+          "name": "Farooq Hospital",
+          "name_ur": "",
+          "lat": 31.513434,
+          "lon": 74.298245,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan-e-Iqbal",
+          "name_ur": "",
+          "lat": 31.515048,
+          "lon": 74.294313,
+          "coord_source": "auto:osm:way/27640189",
+          "is_station": false
+        },
+        {
+          "name": "Dubai Chowk",
+          "name_ur": "",
+          "lat": 31.517696,
+          "lon": 74.291649,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Flat Stop",
+          "name_ur": "",
+          "lat": 31.520345,
+          "lon": 74.288985,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kali Kothi Stop",
+          "name_ur": "",
+          "lat": 31.522993,
+          "lon": 74.286321,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Scheme Morr",
+          "name_ur": "",
+          "lat": 31.525641,
+          "lon": 74.283657,
+          "coord_source": "auto:osm:node/3536220946",
+          "is_station": false
+        },
+        {
+          "name": "Grand Battery Stop",
+          "name_ur": "",
+          "lat": 31.528073,
+          "lon": 74.285053,
+          "coord_source": "auto:osm:node/3339321728",
+          "is_station": false
+        },
+        {
+          "name": "Chowk Yateem Khana",
+          "name_ur": "",
+          "lat": 31.531933,
+          "lon": 74.287252,
+          "coord_source": "auto:osm:node/303542027",
+          "is_station": false
+        },
+        {
+          "name": "City Bus Stand",
+          "name_ur": "",
+          "lat": 31.55495,
+          "lon": 74.291244,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shezan Factory",
+          "name_ur": "",
+          "lat": 31.577966,
+          "lon": 74.295237,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Niazi Adda",
+          "name_ur": "",
+          "lat": 31.600983,
+          "lon": 74.299229,
+          "coord_source": "auto:same-name:osm:node/2405226777",
+          "is_station": false
+        },
+        {
+          "name": "Bilal Daewoo",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Babu sabu",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-11",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-246"
+        },
+        {
+          "title": "PMA - Lahore Feeder Route (Phase I) list",
+          "url": "https://pma.punjab.gov.pk/lahore-feeder-route-phaseI"
+        }
+      ],
+      "notes": "Return direction also serves Bund Road Orange Line station. PMA code FRT11. Stop order = Safar direction 'Main Market Gulberg to Babu Sabu'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-12",
+      "name": "R.A. Bazar - Nasir Bagh",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 15,
+      "hours": {
+        "start": "06:15",
+        "end": "22:30"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "R A Bazar",
+          "name_ur": "",
+          "lat": 31.500086,
+          "lon": 74.383372,
+          "coord_source": "auto:osm:node/10248120909",
+          "is_station": false
+        },
+        {
+          "name": "PAF Market",
+          "name_ur": "",
+          "lat": 31.519608,
+          "lon": 74.381796,
+          "coord_source": "auto:osm:way/642735526",
+          "is_station": false
+        },
+        {
+          "name": "Telephone Exchange",
+          "name_ur": "",
+          "lat": 31.520791,
+          "lon": 74.380464,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Girja Chowk",
+          "name_ur": "",
+          "lat": 31.521974,
+          "lon": 74.379133,
+          "coord_source": "auto:osm:node/2944220324",
+          "is_station": false
+        },
+        {
+          "name": "Alla-ud-Din Road 1",
+          "name_ur": "",
+          "lat": 31.524509,
+          "lon": 74.378361,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Afshan Chowk",
+          "name_ur": "",
+          "lat": 31.527043,
+          "lon": 74.377589,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rahat Bakery",
+          "name_ur": "",
+          "lat": 31.529578,
+          "lon": 74.376817,
+          "coord_source": "auto:osm:node/3228594852",
+          "is_station": false
+        },
+        {
+          "name": "Fortress Stradium",
+          "name_ur": "",
+          "lat": 31.540837,
+          "lon": 74.368426,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mian Mir",
+          "name_ur": "",
+          "lat": 31.552096,
+          "lon": 74.360034,
+          "coord_source": "auto:osm:node/303829270",
+          "is_station": false
+        },
+        {
+          "name": "Gymkhana",
+          "name_ur": "",
+          "lat": 31.535139,
+          "lon": 74.354691,
+          "coord_source": "auto:nominatim:way/290777835",
+          "is_station": false
+        },
+        {
+          "name": "Canal Bridge",
+          "name_ur": "",
+          "lat": 31.542654,
+          "lon": 74.350662,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Aitchison College",
+          "name_ur": "",
+          "lat": 31.550168,
+          "lon": 74.346632,
+          "coord_source": "auto:osm:way/321064493",
+          "is_station": false
+        },
+        {
+          "name": "Club Road",
+          "name_ur": "",
+          "lat": 31.547825,
+          "lon": 74.3421,
+          "coord_source": "auto:osm:way/290079697",
+          "is_station": false
+        },
+        {
+          "name": "PC Hotel",
+          "name_ur": "",
+          "lat": 31.552219,
+          "lon": 74.338306,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Governor House",
+          "name_ur": "",
+          "lat": 31.556612,
+          "lon": 74.334511,
+          "coord_source": "auto:osm:way/290937633",
+          "is_station": false
+        },
+        {
+          "name": "Lahore Zoo",
+          "name_ur": "",
+          "lat": 31.556284,
+          "lon": 74.325859,
+          "coord_source": "auto:osm:way/290937634",
+          "is_station": false
+        },
+        {
+          "name": "Charing Cross",
+          "name_ur": "",
+          "lat": 31.560297,
+          "lon": 74.323787,
+          "coord_source": "osm:node/2944031592",
+          "is_station": false
+        },
+        {
+          "name": "Regal Chowk",
+          "name_ur": "",
+          "lat": 31.561749,
+          "lon": 74.31917,
+          "coord_source": "osm:node/2953190102",
+          "is_station": false
+        },
+        {
+          "name": "GPO",
+          "name_ur": "",
+          "lat": 31.565555,
+          "lon": 74.314246,
+          "coord_source": "auto:osm:way/611921782",
+          "is_station": false
+        },
+        {
+          "name": "Anarkali",
+          "name_ur": "",
+          "lat": 31.568167,
+          "lon": 74.310345,
+          "coord_source": "auto:osm:node/2953209488",
+          "is_station": false
+        },
+        {
+          "name": "PU Old Campus",
+          "name_ur": "",
+          "lat": 31.569837,
+          "lon": 74.309521,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Government College",
+          "name_ur": "",
+          "lat": 31.571506,
+          "lon": 74.308697,
+          "coord_source": "auto:osm:node/5188793426",
+          "is_station": false
+        },
+        {
+          "name": "Nasir Bagh",
+          "name_ur": "",
+          "lat": 31.568917,
+          "lon": 74.307077,
+          "coord_source": "auto:osm:way/1486988838",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-12",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-247"
+        },
+        {
+          "title": "PMA - Lahore Feeder Route (Phase I) list",
+          "url": "https://pma.punjab.gov.pk/lahore-feeder-route-phaseI"
+        }
+      ],
+      "notes": "PMA code FRT12. Stop order = Safar direction 'R.A Bazar to Nasir Bagh'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-13",
+      "name": "Depot Chowk - Kalma Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 20,
+      "hours": {
+        "start": "06:00",
+        "end": "22:34"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Depot Chowk",
+          "name_ur": "",
+          "lat": 31.446882,
+          "lon": 74.32083,
+          "coord_source": "auto:osm:way/1016961320",
+          "is_station": false
+        },
+        {
+          "name": "Ameer Chowk",
+          "name_ur": "",
+          "lat": 31.433169,
+          "lon": 74.289149,
+          "coord_source": "osm:node/13903232002",
+          "is_station": false
+        },
+        {
+          "name": "Bagrian",
+          "name_ur": "",
+          "lat": 31.432717,
+          "lon": 74.300006,
+          "coord_source": "osm:node/4360886490",
+          "is_station": false
+        },
+        {
+          "name": "Muslim Chowk",
+          "name_ur": "",
+          "lat": 31.435502,
+          "lon": 74.293562,
+          "coord_source": "osm:node/3646839474",
+          "is_station": false
+        },
+        {
+          "name": "Ghazi Chowk 2",
+          "name_ur": "",
+          "lat": 31.437728,
+          "lon": 74.293112,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gondal Chowk",
+          "name_ur": "",
+          "lat": 31.439954,
+          "lon": 74.292662,
+          "coord_source": "osm:node/4387536490",
+          "is_station": false
+        },
+        {
+          "name": "Butt Chowk",
+          "name_ur": "",
+          "lat": 31.443161,
+          "lon": 74.294319,
+          "coord_source": "osm:node/14087802902",
+          "is_station": false
+        },
+        {
+          "name": "Lajhna Chowk",
+          "name_ur": "",
+          "lat": 31.446959,
+          "lon": 74.296347,
+          "coord_source": "osm:node/4402576092",
+          "is_station": false
+        },
+        {
+          "name": "UMT Stop",
+          "name_ur": "",
+          "lat": 31.451943,
+          "lon": 74.293245,
+          "coord_source": "auto:osm:way/363743557",
+          "is_station": false
+        },
+        {
+          "name": "Khokhar Chowk",
+          "name_ur": "",
+          "lat": 31.455369,
+          "lon": 74.300827,
+          "coord_source": "osm:node/4387536792",
+          "is_station": false
+        },
+        {
+          "name": "M. Ali Chowk",
+          "name_ur": "",
+          "lat": 31.459453,
+          "lon": 74.302855,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Aslam Chowk",
+          "name_ur": "",
+          "lat": 31.463537,
+          "lon": 74.304883,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Akbar Chowk",
+          "name_ur": "",
+          "lat": 31.467621,
+          "lon": 74.306911,
+          "coord_source": "auto:osm:node/4282268703",
+          "is_station": false
+        },
+        {
+          "name": "Mochipura Morr",
+          "name_ur": "",
+          "lat": 31.468307,
+          "lon": 74.312203,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Model Town Link Road",
+          "name_ur": "",
+          "lat": 31.468993,
+          "lon": 74.317495,
+          "coord_source": "auto:osm:way/333949178",
+          "is_station": false
+        },
+        {
+          "name": "Al-Habib Stop",
+          "name_ur": "",
+          "lat": 31.462545,
+          "lon": 74.319313,
+          "coord_source": "auto:osm:node/4916786456",
+          "is_station": false
+        },
+        {
+          "name": "Pindi Stop",
+          "name_ur": "",
+          "lat": 31.461811,
+          "lon": 74.324121,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Treet Stop",
+          "name_ur": "",
+          "lat": 31.461078,
+          "lon": 74.32893,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Peco Mor",
+          "name_ur": "",
+          "lat": 31.460344,
+          "lon": 74.333739,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kot lakhpat Railway Station",
+          "name_ur": "",
+          "lat": 31.45961,
+          "lon": 74.338547,
+          "coord_source": "auto:osm:node/2433376123",
+          "is_station": false
+        },
+        {
+          "name": "Phatki stop",
+          "name_ur": "",
+          "lat": 31.464527,
+          "lon": 74.33941,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Phatak Mandi",
+          "name_ur": "",
+          "lat": 31.469444,
+          "lon": 74.340273,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Traffic Police Station",
+          "name_ur": "",
+          "lat": 31.474361,
+          "lon": 74.341137,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ittefaq Hospital",
+          "name_ur": "",
+          "lat": 31.479278,
+          "lon": 74.342,
+          "coord_source": "osm:node/2401358351",
+          "is_station": false
+        },
+        {
+          "name": "Gulab Devi Hospital",
+          "name_ur": "",
+          "lat": 31.482146,
+          "lon": 74.3439,
+          "coord_source": "auto:osm:way/383245067",
+          "is_station": false
+        },
+        {
+          "name": "Naseerabad",
+          "name_ur": "",
+          "lat": 31.487064,
+          "lon": 74.338735,
+          "coord_source": "osm:node/13392211417",
+          "is_station": false
+        },
+        {
+          "name": "Bhabra Stop",
+          "name_ur": "",
+          "lat": 31.489207,
+          "lon": 74.341307,
+          "coord_source": "auto:osm:node/9395404996",
+          "is_station": false
+        },
+        {
+          "name": "Model Town",
+          "name_ur": "",
+          "lat": 31.4975,
+          "lon": 74.334397,
+          "coord_source": "osm:node/13392211420",
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk",
+          "name_ur": "",
+          "lat": 31.503496,
+          "lon": 74.331848,
+          "coord_source": "osm:node/13392211429",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-13",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-248"
+        },
+        {
+          "title": "PMA - Lahore Feeder Route (Phase I) list",
+          "url": "https://pma.punjab.gov.pk/lahore-feeder-route-phaseI"
+        }
+      ],
+      "notes": "PMA code FRT13. Stop order = Safar direction 'Depot Chowk to Kalma Chowk'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-14",
+      "name": "Purana Kahna - R.A. Bazar",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 9,
+      "hours": {
+        "start": "06:15",
+        "end": "22:03"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Purana Kahna",
+          "name_ur": "",
+          "lat": 31.352336,
+          "lon": 74.372561,
+          "coord_source": "auto:osm:node/8852335194",
+          "is_station": false
+        },
+        {
+          "name": "Malik Pura",
+          "name_ur": "",
+          "lat": 31.359572,
+          "lon": 74.365608,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "5 Number Stop",
+          "name_ur": "",
+          "lat": 31.366808,
+          "lon": 74.358655,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Railu Wali Masjid",
+          "name_ur": "",
+          "lat": 31.374043,
+          "lon": 74.351703,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kahna",
+          "name_ur": "",
+          "lat": 31.381279,
+          "lon": 74.34475,
+          "coord_source": "auto:osm:node/5693861752",
+          "is_station": false
+        },
+        {
+          "name": "Darbar Barket Shah",
+          "name_ur": "",
+          "lat": 31.384619,
+          "lon": 74.348128,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ahlu Road",
+          "name_ur": "",
+          "lat": 31.38796,
+          "lon": 74.351506,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rehmat Park",
+          "name_ur": "",
+          "lat": 31.3913,
+          "lon": 74.354885,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "LDA Gol Chakar",
+          "name_ur": "",
+          "lat": 31.394641,
+          "lon": 74.358263,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gajjumatta",
+          "name_ur": "",
+          "lat": 31.397981,
+          "lon": 74.361641,
+          "coord_source": "osm:way/231802913",
+          "is_station": false
+        },
+        {
+          "name": "Masjid Ibrahim",
+          "name_ur": "",
+          "lat": 31.401779,
+          "lon": 74.361061,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dullu Khurd",
+          "name_ur": "",
+          "lat": 31.405577,
+          "lon": 74.360481,
+          "coord_source": "osm:node/2401358319",
+          "is_station": false
+        },
+        {
+          "name": "Dulam",
+          "name_ur": "",
+          "lat": 31.409247,
+          "lon": 74.35994,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Yohanabad",
+          "name_ur": "",
+          "lat": 31.412916,
+          "lon": 74.3594,
+          "coord_source": "osm:node/2401358322",
+          "is_station": false
+        },
+        {
+          "name": "Nishtar Colony",
+          "name_ur": "",
+          "lat": 31.419825,
+          "lon": 74.358384,
+          "coord_source": "osm:node/2401358326",
+          "is_station": false
+        },
+        {
+          "name": "Descon Headquarters",
+          "name_ur": "",
+          "lat": 31.425455,
+          "lon": 74.357822,
+          "coord_source": "auto:osm:node/12196623457",
+          "is_station": false
+        },
+        {
+          "name": "Attari Saroba",
+          "name_ur": "",
+          "lat": 31.431058,
+          "lon": 74.356728,
+          "coord_source": "osm:node/2401358329",
+          "is_station": false
+        },
+        {
+          "name": "Venus Housing",
+          "name_ur": "",
+          "lat": 31.437067,
+          "lon": 74.352339,
+          "coord_source": "auto:osm:way/660323562",
+          "is_station": false
+        },
+        {
+          "name": "Kamahan",
+          "name_ur": "",
+          "lat": 31.440913,
+          "lon": 74.355274,
+          "coord_source": "osm:node/2401358332",
+          "is_station": false
+        },
+        {
+          "name": "Chungi Metro Station",
+          "name_ur": "",
+          "lat": 31.450361,
+          "lon": 74.353336,
+          "coord_source": "osm:node/8389210063",
+          "is_station": false
+        },
+        {
+          "name": "Ghazi Chowk",
+          "name_ur": "",
+          "lat": 31.457051,
+          "lon": 74.351205,
+          "coord_source": "osm:node/2401358343",
+          "is_station": false
+        },
+        {
+          "name": "Shoukat Town",
+          "name_ur": "",
+          "lat": 31.459569,
+          "lon": 74.358637,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Naka Stop",
+          "name_ur": "",
+          "lat": 31.462087,
+          "lon": 74.366068,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chota Ishara Stop",
+          "name_ur": "",
+          "lat": 31.464606,
+          "lon": 74.3735,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sector C (Y-Block)",
+          "name_ur": "",
+          "lat": 31.467124,
+          "lon": 74.380931,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "LESCO",
+          "name_ur": "",
+          "lat": 31.469642,
+          "lon": 74.388363,
+          "coord_source": "auto:osm:way/544946943",
+          "is_station": false
+        },
+        {
+          "name": "Charar Pind",
+          "name_ur": "",
+          "lat": 31.472229,
+          "lon": 74.391888,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "DHA Nursery",
+          "name_ur": "",
+          "lat": 31.474817,
+          "lon": 74.395412,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Defence Chowk",
+          "name_ur": "",
+          "lat": 31.477404,
+          "lon": 74.398937,
+          "coord_source": "auto:osm:node/5253650252",
+          "is_station": false
+        },
+        {
+          "name": "PSO",
+          "name_ur": "",
+          "lat": 31.481518,
+          "lon": 74.405172,
+          "coord_source": "auto:osm:way/683333317",
+          "is_station": false
+        },
+        {
+          "name": "Bhatta Chowk",
+          "name_ur": "",
+          "lat": 31.487521,
+          "lon": 74.412082,
+          "coord_source": "auto:nominatim:node/4704694321",
+          "is_station": false
+        },
+        {
+          "name": "Arifabad",
+          "name_ur": "",
+          "lat": 31.490931,
+          "lon": 74.408865,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nadirabad",
+          "name_ur": "",
+          "lat": 31.49434,
+          "lon": 74.405648,
+          "coord_source": "auto:osm:way/683288181",
+          "is_station": false
+        },
+        {
+          "name": "Ali View Garden",
+          "name_ur": "",
+          "lat": 31.494764,
+          "lon": 74.403095,
+          "coord_source": "osm:node/11384192810",
+          "is_station": false
+        },
+        {
+          "name": "Cantt. Bus Stop",
+          "name_ur": "",
+          "lat": 31.498966,
+          "lon": 74.383315,
+          "coord_source": "auto:osm:way/699337362",
+          "is_station": false
+        },
+        {
+          "name": "Fauji Foundation",
+          "name_ur": "",
+          "lat": 31.500104,
+          "lon": 74.394925,
+          "coord_source": "auto:osm:node/3228646369",
+          "is_station": false
+        },
+        {
+          "name": "R A Bazar",
+          "name_ur": "",
+          "lat": 31.500086,
+          "lon": 74.383372,
+          "coord_source": "auto:osm:node/10248120909",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-14",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-249"
+        },
+        {
+          "title": "PMA - Lahore Feeder Route (Phase I) list",
+          "url": "https://pma.punjab.gov.pk/lahore-feeder-route-phaseI"
+        }
+      ],
+      "notes": "Runs parallel to Metrobus between Gajju Matah and Ghazi Chowk. PMA code FRT14. Stop order = Safar direction 'R A Bazar'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-15",
+      "name": "Bhatti Chowk - R.A. Bazar",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 12,
+      "hours": {
+        "start": "06:15",
+        "end": "22:11"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Bhatti Chowk",
+          "name_ur": "",
+          "lat": 31.580611,
+          "lon": 74.306255,
+          "coord_source": "auto:osm:node/13392220626",
+          "is_station": false
+        },
+        {
+          "name": "Katchery",
+          "name_ur": "",
+          "lat": 31.574684,
+          "lon": 74.306507,
+          "coord_source": "osm:way/607183032",
+          "is_station": false
+        },
+        {
+          "name": "Nasir Bagh",
+          "name_ur": "",
+          "lat": 31.568917,
+          "lon": 74.307077,
+          "coord_source": "auto:osm:way/1486988838",
+          "is_station": false
+        },
+        {
+          "name": "Civil Secretariat",
+          "name_ur": "",
+          "lat": 31.568746,
+          "lon": 74.304265,
+          "coord_source": "osm:way/607183035",
+          "is_station": false
+        },
+        {
+          "name": "M.A.O College",
+          "name_ur": "",
+          "lat": 31.561713,
+          "lon": 74.306667,
+          "coord_source": "osm:way/607183154",
+          "is_station": false
+        },
+        {
+          "name": "Anarkali Metro Station",
+          "name_ur": "",
+          "lat": 31.568167,
+          "lon": 74.310345,
+          "coord_source": "auto:osm:node/2953209488",
+          "is_station": false
+        },
+        {
+          "name": "Janazgah",
+          "name_ur": "",
+          "lat": 31.553895,
+          "lon": 74.311432,
+          "coord_source": "osm:way/607183350",
+          "is_station": false
+        },
+        {
+          "name": "Qartaba Chowk",
+          "name_ur": "",
+          "lat": 31.5487,
+          "lon": 74.315106,
+          "coord_source": "osm:way/607183579",
+          "is_station": false
+        },
+        {
+          "name": "Mazang",
+          "name_ur": "",
+          "lat": 31.547234,
+          "lon": 74.31585,
+          "coord_source": "auto:osm:node/3277759661",
+          "is_station": false
+        },
+        {
+          "name": "Roznama Pakistan",
+          "name_ur": "",
+          "lat": 31.54595,
+          "lon": 74.321093,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lahore College Women",
+          "name_ur": "",
+          "lat": 31.544666,
+          "lon": 74.326337,
+          "coord_source": "auto:osm:way/316872414",
+          "is_station": false
+        },
+        {
+          "name": "Services Hospital",
+          "name_ur": "",
+          "lat": 31.541253,
+          "lon": 74.33091,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Punjab Institute of Cardiology",
+          "name_ur": "",
+          "lat": 31.53784,
+          "lon": 74.335484,
+          "coord_source": "auto:osm:way/316873735",
+          "is_station": false
+        },
+        {
+          "name": "Kinnaird College",
+          "name_ur": "",
+          "lat": 31.537466,
+          "lon": 74.340433,
+          "coord_source": "auto:osm:way/321064496",
+          "is_station": false
+        },
+        {
+          "name": "Zafar Ali Road",
+          "name_ur": "",
+          "lat": 31.538898,
+          "lon": 74.352392,
+          "coord_source": "auto:osm:way/660882077",
+          "is_station": false
+        },
+        {
+          "name": "Siddique Trade Center",
+          "name_ur": "",
+          "lat": 31.532091,
+          "lon": 74.350931,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "McDonald",
+          "name_ur": "",
+          "lat": 31.525284,
+          "lon": 74.349469,
+          "coord_source": "auto:osm:node/13256474694",
+          "is_station": false
+        },
+        {
+          "name": "Main Market",
+          "name_ur": "",
+          "lat": 31.524157,
+          "lon": 74.346883,
+          "coord_source": "auto:osm:node/1749449947",
+          "is_station": false
+        },
+        {
+          "name": "Mini market",
+          "name_ur": "",
+          "lat": 31.520907,
+          "lon": 74.351373,
+          "coord_source": "auto:osm:way/543233372",
+          "is_station": false
+        },
+        {
+          "name": "Hafeez Center",
+          "name_ur": "",
+          "lat": 31.515462,
+          "lon": 74.345991,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Liberty Chowk",
+          "name_ur": "",
+          "lat": 31.510018,
+          "lon": 74.34061,
+          "coord_source": "auto:osm:node/162443425",
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk",
+          "name_ur": "",
+          "lat": 31.503496,
+          "lon": 74.331848,
+          "coord_source": "osm:node/13392211429",
+          "is_station": false
+        },
+        {
+          "name": "Center Point",
+          "name_ur": "",
+          "lat": 31.503214,
+          "lon": 74.339928,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Firdous Market",
+          "name_ur": "",
+          "lat": 31.502931,
+          "lon": 74.348008,
+          "coord_source": "auto:osm:way/1344893487",
+          "is_station": false
+        },
+        {
+          "name": "Cavalry Road",
+          "name_ur": "",
+          "lat": 31.503503,
+          "lon": 74.360384,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "D Mess Stop",
+          "name_ur": "",
+          "lat": 31.504074,
+          "lon": 74.37276,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nadeem Chowk",
+          "name_ur": "",
+          "lat": 31.504646,
+          "lon": 74.385136,
+          "coord_source": "auto:osm:way/699369250",
+          "is_station": false
+        },
+        {
+          "name": "R A Bazar",
+          "name_ur": "",
+          "lat": 31.500086,
+          "lon": 74.383372,
+          "coord_source": "auto:osm:node/10248120909",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-15",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-250"
+        },
+        {
+          "title": "PMA - Lahore Feeder Route (Phase I) list",
+          "url": "https://pma.punjab.gov.pk/lahore-feeder-route-phaseI"
+        }
+      ],
+      "notes": "Safar lists \"Anarkali Metro Station\" after MAO College (Orange Line interchange). PMA list names this route Bhatti Chowk - R.A Bazar; Safar description says R A Bazar - Katchery. PMA code FRT15. Stop order = Safar direction 'Bhatti to R.A Bazar'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-16",
+      "name": "Canal - Jinnah Bus Terminal (via Model Town, Johar Town)",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 40,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Canal",
+          "name_ur": "",
+          "lat": 31.519329,
+          "lon": 74.326938,
+          "coord_source": "osm:way/1460187686",
+          "is_station": false
+        },
+        {
+          "name": "Qaddafi Stadium",
+          "name_ur": "",
+          "lat": 31.512022,
+          "lon": 74.328812,
+          "coord_source": "osm:node/13392211430",
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk",
+          "name_ur": "",
+          "lat": 31.503496,
+          "lon": 74.331848,
+          "coord_source": "osm:node/13392211429",
+          "is_station": false
+        },
+        {
+          "name": "Model Town Morr",
+          "name_ur": "",
+          "lat": 31.496136,
+          "lon": 74.332639,
+          "coord_source": "osm:node/3254485561",
+          "is_station": false
+        },
+        {
+          "name": "Pakistani Chowk",
+          "name_ur": "",
+          "lat": 31.496234,
+          "lon": 74.331496,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bank Square C-Block",
+          "name_ur": "",
+          "lat": 31.496332,
+          "lon": 74.330354,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ladies Club D-Block",
+          "name_ur": "",
+          "lat": 31.496429,
+          "lon": 74.329211,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Girls College E-Block",
+          "name_ur": "",
+          "lat": 31.496527,
+          "lon": 74.328068,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "F-Block",
+          "name_ur": "",
+          "lat": 31.496625,
+          "lon": 74.326925,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Club Chowk",
+          "name_ur": "",
+          "lat": 31.496723,
+          "lon": 74.325783,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Quid-e-Azam Law College",
+          "name_ur": "",
+          "lat": 31.49682,
+          "lon": 74.32464,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shaheed Chowk",
+          "name_ur": "",
+          "lat": 31.496918,
+          "lon": 74.323497,
+          "coord_source": "auto:osm:way/620992056",
+          "is_station": false
+        },
+        {
+          "name": "Pace Shopping Centre",
+          "name_ur": "",
+          "lat": 31.490756,
+          "lon": 74.323998,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "McDonald Model Town",
+          "name_ur": "",
+          "lat": 31.484594,
+          "lon": 74.324499,
+          "coord_source": "auto:osm:way/627246938",
+          "is_station": false
+        },
+        {
+          "name": "Ayesha Heights",
+          "name_ur": "",
+          "lat": 31.476108,
+          "lon": 74.315705,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Akbar Chowk",
+          "name_ur": "",
+          "lat": 31.467621,
+          "lon": 74.306911,
+          "coord_source": "auto:osm:node/4282268703",
+          "is_station": false
+        },
+        {
+          "name": "Shouq Chowk",
+          "name_ur": "",
+          "lat": 31.471183,
+          "lon": 74.302785,
+          "coord_source": "osm:node/2641921982",
+          "is_station": false
+        },
+        {
+          "name": "Allah-Hoo Chowk",
+          "name_ur": "",
+          "lat": 31.469477,
+          "lon": 74.298975,
+          "coord_source": "auto:osm:node/126141561",
+          "is_station": false
+        },
+        {
+          "name": "Aleem Dar Stadium",
+          "name_ur": "",
+          "lat": 31.464851,
+          "lon": 74.291642,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "LDA Plaza",
+          "name_ur": "",
+          "lat": 31.460226,
+          "lon": 74.28431,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shadiwal Chowk",
+          "name_ur": "",
+          "lat": 31.4556,
+          "lon": 74.276977,
+          "coord_source": "osm:node/2641923828",
+          "is_station": false
+        },
+        {
+          "name": "Shaukat Khanum Hospital",
+          "name_ur": "",
+          "lat": 31.44803,
+          "lon": 74.269956,
+          "coord_source": "auto:osm:node/4503730191",
+          "is_station": false
+        },
+        {
+          "name": "WAPDA Town Stop 1",
+          "name_ur": "",
+          "lat": 31.434097,
+          "lon": 74.27585,
+          "coord_source": "auto:osm:way/48755925",
+          "is_station": false
+        },
+        {
+          "name": "WAPDA Town Stop 2",
+          "name_ur": "",
+          "lat": 31.436878,
+          "lon": 74.269981,
+          "coord_source": "auto:osm:node/304242090",
+          "is_station": false
+        },
+        {
+          "name": "UCP",
+          "name_ur": "",
+          "lat": 31.446402,
+          "lon": 74.267612,
+          "coord_source": "auto:nominatim:node/13184937342",
+          "is_station": false
+        },
+        {
+          "name": "PCSIR",
+          "name_ur": "",
+          "lat": 31.451037,
+          "lon": 74.265642,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Abdalian Society",
+          "name_ur": "",
+          "lat": 31.455672,
+          "lon": 74.263672,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ayub Chowk",
+          "name_ur": "",
+          "lat": 31.460308,
+          "lon": 74.261701,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Expo Centre",
+          "name_ur": "",
+          "lat": 31.464943,
+          "lon": 74.259731,
+          "coord_source": "auto:osm:way/623002099",
+          "is_station": false
+        },
+        {
+          "name": "Shan Chowk",
+          "name_ur": "",
+          "lat": 31.464679,
+          "lon": 74.249364,
+          "coord_source": "auto:nominatim:node/305144768",
+          "is_station": false
+        },
+        {
+          "name": "Ring Chowk",
+          "name_ur": "",
+          "lat": 31.466251,
+          "lon": 74.247509,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Judicial Colony",
+          "name_ur": "",
+          "lat": 31.467822,
+          "lon": 74.245653,
+          "coord_source": "auto:osm:way/1535912029",
+          "is_station": false
+        },
+        {
+          "name": "Thokar Niaz Baig",
+          "name_ur": "",
+          "lat": 31.473642,
+          "lon": 74.241825,
+          "coord_source": "osm:node/5844889651",
+          "is_station": false
+        },
+        {
+          "name": "Daewoo Terminal",
+          "name_ur": "",
+          "lat": 31.469103,
+          "lon": 74.238514,
+          "coord_source": "auto:osm:node/4770908181",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah terminal",
+          "name_ur": "",
+          "lat": 31.466517,
+          "lon": 74.225562,
+          "coord_source": "auto:osm:way/316917153",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-16",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-251"
+        },
+        {
+          "title": "PMA - Lahore Feeder Route (Phase I) list",
+          "url": "https://pma.punjab.gov.pk/lahore-feeder-route-phaseI"
+        }
+      ],
+      "notes": "PMA Phase-I list names the terminal Daewoo Terminal. PMA code FRT16. Stop order = Safar direction 'RT 16 Canal to Jinnah Terminal'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-17",
+      "name": "Gajju Matah - Rangers Wing Headquarter (Heir)",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 25,
+      "hours": {
+        "start": "05:30",
+        "end": "21:20"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Gajjumata",
+          "name_ur": "",
+          "lat": 31.397981,
+          "lon": 74.361641,
+          "coord_source": "osm:way/231802913",
+          "is_station": false
+        },
+        {
+          "name": "Ali Murtaza Associates",
+          "name_ur": "",
+          "lat": 31.397564,
+          "lon": 74.368978,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nishat Mills",
+          "name_ur": "",
+          "lat": 31.397147,
+          "lon": 74.376316,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shafi Reso",
+          "name_ur": "",
+          "lat": 31.396729,
+          "lon": 74.383654,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ghankar Stop",
+          "name_ur": "",
+          "lat": 31.396312,
+          "lon": 74.390991,
+          "coord_source": "auto:osm:node/8673689564",
+          "is_station": false
+        },
+        {
+          "name": "Bhuller Village",
+          "name_ur": "",
+          "lat": 31.399007,
+          "lon": 74.398505,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Transport Housing Society",
+          "name_ur": "",
+          "lat": 31.401701,
+          "lon": 74.406018,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hush Puppies",
+          "name_ur": "",
+          "lat": 31.404396,
+          "lon": 74.413532,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Raja Bhula Pull",
+          "name_ur": "",
+          "lat": 31.40709,
+          "lon": 74.421046,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nishat Dying Mills",
+          "name_ur": "",
+          "lat": 31.409785,
+          "lon": 74.428559,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Deo Pull",
+          "name_ur": "",
+          "lat": 31.412479,
+          "lon": 74.436073,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nishat Apparel",
+          "name_ur": "",
+          "lat": 31.415174,
+          "lon": 74.443587,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sora Stop",
+          "name_ur": "",
+          "lat": 31.417868,
+          "lon": 74.4511,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Thethar Stop",
+          "name_ur": "",
+          "lat": 31.420563,
+          "lon": 74.458614,
+          "coord_source": "auto:osm:node/8673689614",
+          "is_station": false
+        },
+        {
+          "name": "Avicina Hospital",
+          "name_ur": "",
+          "lat": 31.431579,
+          "lon": 74.465275,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dera Chahal",
+          "name_ur": "",
+          "lat": 31.442594,
+          "lon": 74.471937,
+          "coord_source": "auto:osm:node/8851646557",
+          "is_station": false
+        },
+        {
+          "name": "Elite School",
+          "name_ur": "",
+          "lat": 31.44263,
+          "lon": 74.47193,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ramzan Nursery 1",
+          "name_ur": "",
+          "lat": 31.442665,
+          "lon": 74.471924,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "PKLI-1",
+          "name_ur": "",
+          "lat": 31.442701,
+          "lon": 74.471917,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "PKLI-2",
+          "name_ur": "",
+          "lat": 31.442736,
+          "lon": 74.471911,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "PKLI-1 (u-turn)",
+          "name_ur": "",
+          "lat": 31.442772,
+          "lon": 74.471904,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ramzan Nursery 2",
+          "name_ur": "",
+          "lat": 31.442808,
+          "lon": 74.471898,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Workshop Stop 1",
+          "name_ur": "",
+          "lat": 31.442843,
+          "lon": 74.471891,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "School Stop Lidher 1",
+          "name_ur": "",
+          "lat": 31.442879,
+          "lon": 74.471885,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shehbaz Sharif Hospital 1",
+          "name_ur": "",
+          "lat": 31.442915,
+          "lon": 74.471879,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lidher 1",
+          "name_ur": "",
+          "lat": 31.44295,
+          "lon": 74.471872,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nawaz Shareef Interchange",
+          "name_ur": "",
+          "lat": 31.442986,
+          "lon": 74.471865,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nawaz Shareef Interchange 2",
+          "name_ur": "",
+          "lat": 31.443021,
+          "lon": 74.471859,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lidher 2",
+          "name_ur": "",
+          "lat": 31.443057,
+          "lon": 74.471852,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shehbaz Sharif Hospital 2",
+          "name_ur": "",
+          "lat": 31.443093,
+          "lon": 74.471846,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "School Stop Lidher 2",
+          "name_ur": "",
+          "lat": 31.443128,
+          "lon": 74.471839,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Workshop Stop 2",
+          "name_ur": "",
+          "lat": 31.443164,
+          "lon": 74.471833,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Elite School 2",
+          "name_ur": "",
+          "lat": 31.443199,
+          "lon": 74.471826,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dera Chahal 2",
+          "name_ur": "",
+          "lat": 31.443235,
+          "lon": 74.47182,
+          "coord_source": "auto:osm:way/1552533899",
+          "is_station": false
+        },
+        {
+          "name": "Bankers Society",
+          "name_ur": "",
+          "lat": 31.441106,
+          "lon": 74.483793,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Karbath",
+          "name_ur": "",
+          "lat": 31.438977,
+          "lon": 74.495767,
+          "coord_source": "auto:osm:node/8851646558",
+          "is_station": false
+        },
+        {
+          "name": "Total Pump Heir",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shareef Pura Market",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Masjid Ghosia Heir",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Heir Adda Lfrf",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Rangers Wing Headquarter",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-17",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-252"
+        },
+        {
+          "title": "PMA - Lahore Feeder Route (Phase I) list",
+          "url": "https://pma.punjab.gov.pk/lahore-feeder-route-phaseI"
+        }
+      ],
+      "notes": "Out-and-back spur via PKLI and Nawaz Sharif Interchange; several stops appear twice. PMA code FRT17. Stop order = Safar direction 'Gajjumata to Rangers Wing Headquarter'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-18",
+      "name": "Bhatti Chowk - Mandiali Toll Plaza",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 17,
+      "hours": {
+        "start": "06:00",
+        "end": "22:13"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Bhatti Chowk",
+          "name_ur": "",
+          "lat": 31.580611,
+          "lon": 74.306255,
+          "coord_source": "auto:osm:node/13392220626",
+          "is_station": false
+        },
+        {
+          "name": "Zila Katchery",
+          "name_ur": "",
+          "lat": 31.575746,
+          "lon": 74.303712,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "UVAS",
+          "name_ur": "",
+          "lat": 31.570881,
+          "lon": 74.30117,
+          "coord_source": "auto:nominatim:way/295738677",
+          "is_station": false
+        },
+        {
+          "name": "Corporation Chowk",
+          "name_ur": "",
+          "lat": 31.581742,
+          "lon": 74.33071,
+          "coord_source": "auto:osm:way/761860751",
+          "is_station": false
+        },
+        {
+          "name": "80 Foot Road",
+          "name_ur": "",
+          "lat": 31.580886,
+          "lon": 74.296744,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Fatima Zahra Road",
+          "name_ur": "",
+          "lat": 31.580029,
+          "lon": 74.262778,
+          "coord_source": "auto:nominatim:way/1184064862",
+          "is_station": false
+        },
+        {
+          "name": "Hazrat Ali Road",
+          "name_ur": "",
+          "lat": 31.588425,
+          "lon": 74.262128,
+          "coord_source": "auto:osm:way/694837775",
+          "is_station": false
+        },
+        {
+          "name": "Sui Gas Office",
+          "name_ur": "",
+          "lat": 31.59729,
+          "lon": 74.255097,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nain Sukh",
+          "name_ur": "",
+          "lat": 31.606155,
+          "lon": 74.248066,
+          "coord_source": "auto:nominatim:way/725247609",
+          "is_station": false
+        },
+        {
+          "name": "Saggian Chowk",
+          "name_ur": "",
+          "lat": 31.596665,
+          "lon": 74.237505,
+          "coord_source": "auto:osm:node/2517087112",
+          "is_station": false
+        },
+        {
+          "name": "Dosako Chowk",
+          "name_ur": "",
+          "lat": 31.612821,
+          "lon": 74.222126,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "kot Abdul Malik",
+          "name_ur": "",
+          "lat": 31.628976,
+          "lon": 74.206746,
+          "coord_source": "auto:osm:node/2093211185",
+          "is_station": false
+        },
+        {
+          "name": "Main Bazar kot Abdul Malik",
+          "name_ur": "",
+          "lat": 31.648104,
+          "lon": 74.207348,
+          "coord_source": "auto:osm:node/2093224369",
+          "is_station": false
+        },
+        {
+          "name": "Al-Wahab Garden",
+          "name_ur": "",
+          "lat": 31.645547,
+          "lon": 74.21203,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Motorway City",
+          "name_ur": "",
+          "lat": 31.64299,
+          "lon": 74.216712,
+          "coord_source": "auto:osm:way/568503992",
+          "is_station": false
+        },
+        {
+          "name": "Javaid Nagar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Fazal Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mandiali Toll Plaza",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-18",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-253"
+        },
+        {
+          "title": "PMA - Lahore Feeder Route (Phase I) list",
+          "url": "https://pma.punjab.gov.pk/lahore-feeder-route-phaseI"
+        }
+      ],
+      "notes": "PMA code FRT18. Stop order = Safar direction 'Bhatti Chowk to Mandiali Toll Plaza'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-19",
+      "name": "Paragon City - Railway Station",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 25,
+      "hours": {
+        "start": "05:30",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Paragon City",
+          "name_ur": "",
+          "lat": 31.530473,
+          "lon": 74.453158,
+          "coord_source": "auto:osm:node/9313233692",
+          "is_station": false
+        },
+        {
+          "name": "Dograi",
+          "name_ur": "",
+          "lat": 31.528321,
+          "lon": 74.445733,
+          "coord_source": "auto:osm:node/2405776572",
+          "is_station": false
+        },
+        {
+          "name": "Baoo Wala",
+          "name_ur": "",
+          "lat": 31.538138,
+          "lon": 74.441366,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mehfooz Shaheed Garrison",
+          "name_ur": "",
+          "lat": 31.547956,
+          "lon": 74.436999,
+          "coord_source": "auto:osm:way/699618881",
+          "is_station": false
+        },
+        {
+          "name": "Quaid Check post",
+          "name_ur": "",
+          "lat": 31.541824,
+          "lon": 74.427228,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Askari 10",
+          "name_ur": "",
+          "lat": 31.535692,
+          "lon": 74.417457,
+          "coord_source": "auto:osm:node/4630049095",
+          "is_station": false
+        },
+        {
+          "name": "Ranger Headquarter",
+          "name_ur": "",
+          "lat": 31.534239,
+          "lon": 74.411118,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jawad Cheema Road",
+          "name_ur": "",
+          "lat": 31.532786,
+          "lon": 74.40478,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Army Museum",
+          "name_ur": "",
+          "lat": 31.531333,
+          "lon": 74.398441,
+          "coord_source": "auto:osm:node/5737713722",
+          "is_station": false
+        },
+        {
+          "name": "Ayub Stadium",
+          "name_ur": "",
+          "lat": 31.527425,
+          "lon": 74.392893,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "APS Sarfaraz Rafique Road",
+          "name_ur": "",
+          "lat": 31.523516,
+          "lon": 74.387344,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "PAF Market",
+          "name_ur": "",
+          "lat": 31.519608,
+          "lon": 74.381796,
+          "coord_source": "auto:osm:way/642735526",
+          "is_station": false
+        },
+        {
+          "name": "R.A Bazar",
+          "name_ur": "",
+          "lat": 31.500086,
+          "lon": 74.383372,
+          "coord_source": "auto:osm:node/10248120909",
+          "is_station": false
+        },
+        {
+          "name": "Nadeem Chowk",
+          "name_ur": "",
+          "lat": 31.504646,
+          "lon": 74.385136,
+          "coord_source": "auto:osm:way/699369250",
+          "is_station": false
+        },
+        {
+          "name": "Serwar Road",
+          "name_ur": "",
+          "lat": 31.507818,
+          "lon": 74.384584,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "D-Mess Khursheed Alam Rd",
+          "name_ur": "",
+          "lat": 31.510989,
+          "lon": 74.384032,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "F-Mess Shami Road",
+          "name_ur": "",
+          "lat": 31.51416,
+          "lon": 74.38348,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Munir Road",
+          "name_ur": "",
+          "lat": 31.517332,
+          "lon": 74.382928,
+          "coord_source": "auto:osm:way/901289263",
+          "is_station": false
+        },
+        {
+          "name": "Abid Majeed Road",
+          "name_ur": "",
+          "lat": 31.521839,
+          "lon": 74.38359,
+          "coord_source": "auto:osm:way/10276141",
+          "is_station": false
+        },
+        {
+          "name": "Alla-Ud-Din Road 2",
+          "name_ur": "",
+          "lat": 31.52617,
+          "lon": 74.380486,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Fotress Stadium",
+          "name_ur": "",
+          "lat": 31.530502,
+          "lon": 74.377382,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Navy Selection Center",
+          "name_ur": "",
+          "lat": 31.534834,
+          "lon": 74.374279,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "CMH",
+          "name_ur": "",
+          "lat": 31.539165,
+          "lon": 74.371175,
+          "coord_source": "auto:nominatim:node/5255424740",
+          "is_station": false
+        },
+        {
+          "name": "Infantry Road Mian Mir",
+          "name_ur": "",
+          "lat": 31.552255,
+          "lon": 74.359824,
+          "coord_source": "auto:nominatim:way/1320822194",
+          "is_station": false
+        },
+        {
+          "name": "Dharampura Bridge",
+          "name_ur": "",
+          "lat": 31.554935,
+          "lon": 74.355843,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Euro Store",
+          "name_ur": "",
+          "lat": 31.557616,
+          "lon": 74.351862,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Police Station Ghari Shahu",
+          "name_ur": "",
+          "lat": 31.560296,
+          "lon": 74.347881,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ghari Shahu Bazar",
+          "name_ur": "",
+          "lat": 31.562977,
+          "lon": 74.3439,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ghari Shahu Chowk",
+          "name_ur": "",
+          "lat": 31.565658,
+          "lon": 74.339919,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Railway HeadQuarters",
+          "name_ur": "",
+          "lat": 31.568338,
+          "lon": 74.335938,
+          "coord_source": "auto:osm:node/4718339090",
+          "is_station": false
+        },
+        {
+          "name": "Bohar Wala Chowk",
+          "name_ur": "",
+          "lat": 31.570318,
+          "lon": 74.336045,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station-1",
+          "name_ur": "",
+          "lat": 31.572298,
+          "lon": 74.336153,
+          "coord_source": "osm:node/8058806356",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-19",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-254"
+        }
+      ],
+      "notes": "Not in PMA Phase-I list (later route); only Safar confirms stops. Stop order = Safar direction 'Paragon City to Railway Station'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-20",
+      "name": "Sharif Medical City - Ali Town Station",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 35,
+      "hours": {
+        "start": "06:00",
+        "end": "22:20"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Shareef Medical City",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sui Gas Society",
+          "name_ur": "",
+          "lat": 31.454263,
+          "lon": 74.399841,
+          "coord_source": "auto:osm:node/304580278",
+          "is_station": false
+        },
+        {
+          "name": "Army Welfare Trust",
+          "name_ur": "",
+          "lat": 31.437487,
+          "lon": 74.375315,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Beacon House Society",
+          "name_ur": "",
+          "lat": 31.420711,
+          "lon": 74.350788,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Adda Plot Gol Chakkar",
+          "name_ur": "",
+          "lat": 31.403934,
+          "lon": 74.326261,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Adda Plot",
+          "name_ur": "",
+          "lat": 31.387158,
+          "lon": 74.301735,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Faizaia Housing Society",
+          "name_ur": "",
+          "lat": 31.370382,
+          "lon": 74.277209,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lake City",
+          "name_ur": "",
+          "lat": 31.353606,
+          "lon": 74.252682,
+          "coord_source": "auto:osm:node/3279634736",
+          "is_station": false
+        },
+        {
+          "name": "khayban-e-Amin",
+          "name_ur": "",
+          "lat": 31.360742,
+          "lon": 74.252103,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Eden Abad",
+          "name_ur": "",
+          "lat": 31.367877,
+          "lon": 74.251525,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Eden Villas",
+          "name_ur": "",
+          "lat": 31.375013,
+          "lon": 74.250946,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "DHA Rahber",
+          "name_ur": "",
+          "lat": 31.382148,
+          "lon": 74.250368,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pine Avenue",
+          "name_ur": "",
+          "lat": 31.389284,
+          "lon": 74.249789,
+          "coord_source": "auto:osm:way/500271782",
+          "is_station": false
+        },
+        {
+          "name": "University of Lahore",
+          "name_ur": "",
+          "lat": 31.390971,
+          "lon": 74.241638,
+          "coord_source": "auto:osm:node/12748334790",
+          "is_station": false
+        },
+        {
+          "name": "Bhubhtian Chowk",
+          "name_ur": "",
+          "lat": 31.39678,
+          "lon": 74.230249,
+          "coord_source": "osm:node/4404141689",
+          "is_station": false
+        },
+        {
+          "name": "Bhubhtian Pind",
+          "name_ur": "",
+          "lat": 31.400475,
+          "lon": 74.226069,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mumtaz Bakhtawar Hospital",
+          "name_ur": "",
+          "lat": 31.404169,
+          "lon": 74.22189,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sher-Shah Road",
+          "name_ur": "",
+          "lat": 31.407864,
+          "lon": 74.21771,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "UMT Stop",
+          "name_ur": "",
+          "lat": 31.411558,
+          "lon": 74.213531,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "LDA Avenue Chowk",
+          "name_ur": "",
+          "lat": 31.415253,
+          "lon": 74.209351,
+          "coord_source": "auto:osm:way/900432184",
+          "is_station": false
+        },
+        {
+          "name": "University of Asia",
+          "name_ur": "",
+          "lat": 31.421832,
+          "lon": 74.213125,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "P.U. Employees Society",
+          "name_ur": "",
+          "lat": 31.428411,
+          "lon": 74.216899,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ali-Raza Baad",
+          "name_ur": "",
+          "lat": 31.434991,
+          "lon": 74.220673,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Agrics Town",
+          "name_ur": "",
+          "lat": 31.44157,
+          "lon": 74.224447,
+          "coord_source": "auto:osm:node/1264437684",
+          "is_station": false
+        },
+        {
+          "name": "Rahima Baad",
+          "name_ur": "",
+          "lat": 31.444786,
+          "lon": 74.231009,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Qazzalbash Chowk",
+          "name_ur": "",
+          "lat": 31.448002,
+          "lon": 74.237572,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Katchi Kothi Stop",
+          "name_ur": "",
+          "lat": 31.451218,
+          "lon": 74.244134,
+          "coord_source": "auto:osm:node/9314663090",
+          "is_station": false
+        },
+        {
+          "name": "Fatima Masjid",
+          "name_ur": "",
+          "lat": 31.45777,
+          "lon": 74.24398,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ali Town Station",
+          "name_ur": "",
+          "lat": 31.464321,
+          "lon": 74.243826,
+          "coord_source": "osm:node/5844889650",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-20",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-260"
+        }
+      ],
+      "notes": "Safar page title says \"Mull Adda to Jinnah Bus Terminal\" but its stop list runs Sharif Medical City - Ali Town; overlaps Electric RT20. Not in PMA Phase-I list. Stop order = Safar direction 'Ali Town Station'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-21",
+      "name": "Shalamar (Orange Line) Station - Khaira Pull",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 15,
+      "hours": {
+        "start": "06:00",
+        "end": "22:30"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Shalamar Station",
+          "name_ur": "",
+          "lat": 31.58346,
+          "lon": 74.3797,
+          "coord_source": "osm:way/611924568",
+          "is_station": false
+        },
+        {
+          "name": "Shalamar Chowk",
+          "name_ur": "",
+          "lat": 31.58346,
+          "lon": 74.3797,
+          "coord_source": "auto:same-name:osm:way/611924568",
+          "is_station": false
+        },
+        {
+          "name": "Angoori Bagh Scheme",
+          "name_ur": "",
+          "lat": 31.582453,
+          "lon": 74.384126,
+          "coord_source": "auto:osm:way/612400136",
+          "is_station": false
+        },
+        {
+          "name": "Ganda Nala",
+          "name_ur": "",
+          "lat": 31.578646,
+          "lon": 74.381986,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shalamar Hospital",
+          "name_ur": "",
+          "lat": 31.574838,
+          "lon": 74.379847,
+          "coord_source": "auto:nominatim:way/152215400",
+          "is_station": false
+        },
+        {
+          "name": "Ramgarh",
+          "name_ur": "",
+          "lat": 31.569625,
+          "lon": 74.384585,
+          "coord_source": "auto:osm:node/7113863870",
+          "is_station": false
+        },
+        {
+          "name": "Shah Kamal Road",
+          "name_ur": "",
+          "lat": 31.56677,
+          "lon": 74.384614,
+          "coord_source": "auto:osm:way/314796795",
+          "is_station": false
+        },
+        {
+          "name": "Gunj Bazar",
+          "name_ur": "",
+          "lat": 31.564855,
+          "lon": 74.383068,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mughal Pura",
+          "name_ur": "",
+          "lat": 31.56294,
+          "lon": 74.381522,
+          "coord_source": "osm:node/4327638889",
+          "is_station": false
+        },
+        {
+          "name": "Jafri Pull",
+          "name_ur": "",
+          "lat": 31.563523,
+          "lon": 74.386408,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lal Pull",
+          "name_ur": "",
+          "lat": 31.564106,
+          "lon": 74.391294,
+          "coord_source": "osm:node/6721933569",
+          "is_station": false
+        },
+        {
+          "name": "Nawan Pull",
+          "name_ur": "",
+          "lat": 31.565858,
+          "lon": 74.398626,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Fateh Garh Pull",
+          "name_ur": "",
+          "lat": 31.567611,
+          "lon": 74.405957,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Canal Bank Society",
+          "name_ur": "",
+          "lat": 31.569363,
+          "lon": 74.413289,
+          "coord_source": "osm:node/4351219389",
+          "is_station": false
+        },
+        {
+          "name": "Taj Bagh",
+          "name_ur": "",
+          "lat": 31.564336,
+          "lon": 74.418691,
+          "coord_source": "auto:osm:way/612410758",
+          "is_station": false
+        },
+        {
+          "name": "Harbanspura Morr",
+          "name_ur": "",
+          "lat": 31.569025,
+          "lon": 74.436553,
+          "coord_source": "auto:osm:node/11747136390",
+          "is_station": false
+        },
+        {
+          "name": "Harbanspura Bridge",
+          "name_ur": "",
+          "lat": 31.573157,
+          "lon": 74.440791,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Harbanspura Police Station",
+          "name_ur": "",
+          "lat": 31.577289,
+          "lon": 74.44503,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Press Club Society",
+          "name_ur": "",
+          "lat": 31.581421,
+          "lon": 74.449268,
+          "coord_source": "auto:osm:way/1234071045",
+          "is_station": false
+        },
+        {
+          "name": "Rani Pind",
+          "name_ur": "",
+          "lat": 31.580707,
+          "lon": 74.454208,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Tulspura",
+          "name_ur": "",
+          "lat": 31.579993,
+          "lon": 74.459148,
+          "coord_source": "auto:osm:node/8851381917",
+          "is_station": false
+        },
+        {
+          "name": "Rizwan Garden",
+          "name_ur": "",
+          "lat": 31.581265,
+          "lon": 74.473071,
+          "coord_source": "osm:node/4102342399",
+          "is_station": false
+        },
+        {
+          "name": "Jallo Park",
+          "name_ur": "",
+          "lat": 31.574641,
+          "lon": 74.475493,
+          "coord_source": "auto:osm:node/5167082026",
+          "is_station": false
+        },
+        {
+          "name": "Sozo Water Park",
+          "name_ur": "",
+          "lat": 31.580321,
+          "lon": 74.488677,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Khaira Pull",
+          "name_ur": "",
+          "lat": 31.586001,
+          "lon": 74.501861,
+          "coord_source": "auto:osm:node/13546891251",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-21",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-255"
+        }
+      ],
+      "notes": "Not in PMA Phase-I list; overlaps eastern half of Electric RT26. Stop order = Safar direction 'Shalamar OL Station Station to Khaira Pull'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-23",
+      "name": "Canal - Chung (Adalat Ali Shah Darbar)",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 80,
+      "hours": {
+        "start": "05:00",
+        "end": "22:15"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Canal",
+          "name_ur": "",
+          "lat": 31.519329,
+          "lon": 74.326938,
+          "coord_source": "osm:way/1460187686",
+          "is_station": false
+        },
+        {
+          "name": "Qaddafi Stadium",
+          "name_ur": "",
+          "lat": 31.512022,
+          "lon": 74.328812,
+          "coord_source": "osm:node/13392211430",
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk",
+          "name_ur": "",
+          "lat": 31.503496,
+          "lon": 74.331848,
+          "coord_source": "osm:node/13392211429",
+          "is_station": false
+        },
+        {
+          "name": "Barkat Market",
+          "name_ur": "",
+          "lat": 31.500683,
+          "lon": 74.321154,
+          "coord_source": "auto:osm:way/283328556",
+          "is_station": false
+        },
+        {
+          "name": "Campus Pull",
+          "name_ur": "",
+          "lat": 31.500856,
+          "lon": 74.314911,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gate No 4",
+          "name_ur": "",
+          "lat": 31.50103,
+          "lon": 74.308669,
+          "coord_source": "osm:node/526681498",
+          "is_station": false
+        },
+        {
+          "name": "Hailey College",
+          "name_ur": "",
+          "lat": 31.497253,
+          "lon": 74.305326,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "IBA Stop",
+          "name_ur": "",
+          "lat": 31.493476,
+          "lon": 74.301982,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shah Di Khoi",
+          "name_ur": "",
+          "lat": 31.4897,
+          "lon": 74.298639,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah Hospital",
+          "name_ur": "",
+          "lat": 31.485923,
+          "lon": 74.295296,
+          "coord_source": "auto:osm:way/500980109",
+          "is_station": false
+        },
+        {
+          "name": "Wafaqi Colony",
+          "name_ur": "",
+          "lat": 31.481735,
+          "lon": 74.290773,
+          "coord_source": "auto:osm:node/304965887",
+          "is_station": false
+        },
+        {
+          "name": "Doctor Hospital",
+          "name_ur": "",
+          "lat": 31.481323,
+          "lon": 74.282374,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "PCSIR 1",
+          "name_ur": "",
+          "lat": 31.480911,
+          "lon": 74.273975,
+          "coord_source": "auto:osm:way/667591624",
+          "is_station": false
+        },
+        {
+          "name": "G 4 Johar Town",
+          "name_ur": "",
+          "lat": 31.483604,
+          "lon": 74.266162,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hanjarwal",
+          "name_ur": "",
+          "lat": 31.486296,
+          "lon": 74.25835,
+          "coord_source": "osm:node/5844889653",
+          "is_station": false
+        },
+        {
+          "name": "Mughal Eye Hospital",
+          "name_ur": "",
+          "lat": 31.472039,
+          "lon": 74.261058,
+          "coord_source": "auto:osm:node/5016859022",
+          "is_station": false
+        },
+        {
+          "name": "Canal View Gate 1",
+          "name_ur": "",
+          "lat": 31.477883,
+          "lon": 74.256823,
+          "coord_source": "auto:nominatim:node/304963320",
+          "is_station": false
+        },
+        {
+          "name": "Judicial Colony",
+          "name_ur": "",
+          "lat": 31.467822,
+          "lon": 74.245653,
+          "coord_source": "auto:osm:way/1535912029",
+          "is_station": false
+        },
+        {
+          "name": "Thokar Niaz Baig",
+          "name_ur": "",
+          "lat": 31.473642,
+          "lon": 74.241825,
+          "coord_source": "osm:node/5844889651",
+          "is_station": false
+        },
+        {
+          "name": "Daewoo Terminal",
+          "name_ur": "",
+          "lat": 31.469103,
+          "lon": 74.238514,
+          "coord_source": "auto:osm:node/4770908181",
+          "is_station": false
+        },
+        {
+          "name": "Haroon Terminal",
+          "name_ur": "",
+          "lat": 31.463327,
+          "lon": 74.223893,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Khanpur",
+          "name_ur": "",
+          "lat": 31.457551,
+          "lon": 74.209271,
+          "coord_source": "auto:osm:node/8856208328",
+          "is_station": false
+        },
+        {
+          "name": "Kot Gujra",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Manowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Gourmet baker Chung",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Adalat Ali Shah Darbar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-23",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-257"
+        }
+      ],
+      "notes": "Not in PMA Phase-I list. Sparse timetable (~80 min median gap). Stop order = Safar direction 'Canal to Chung'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-24",
+      "name": "Kala Shah Kaku - Railway Station",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 30,
+      "hours": {
+        "start": "04:50",
+        "end": "23:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Kala Shah Kaku",
+          "name_ur": "",
+          "lat": 31.719733,
+          "lon": 74.273519,
+          "coord_source": "auto:osm:node/4907178055",
+          "is_station": false
+        },
+        {
+          "name": "Baoli Jamada",
+          "name_ur": "",
+          "lat": 31.703156,
+          "lon": 74.275656,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sham-k-Pind",
+          "name_ur": "",
+          "lat": 31.686579,
+          "lon": 74.277793,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "UET KSK Campus",
+          "name_ur": "",
+          "lat": 31.670002,
+          "lon": 74.279929,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Labour Colony",
+          "name_ur": "",
+          "lat": 31.653425,
+          "lon": 74.282066,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rana Town",
+          "name_ur": "",
+          "lat": 31.636848,
+          "lon": 74.284203,
+          "coord_source": "auto:osm:node/304964074",
+          "is_station": false
+        },
+        {
+          "name": "Nazim Road",
+          "name_ur": "",
+          "lat": 31.635458,
+          "lon": 74.284604,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Haider Road",
+          "name_ur": "",
+          "lat": 31.634067,
+          "lon": 74.285005,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "College Road",
+          "name_ur": "",
+          "lat": 31.632677,
+          "lon": 74.285405,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rachna Town",
+          "name_ur": "",
+          "lat": 31.631287,
+          "lon": 74.285806,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Feroz Wala",
+          "name_ur": "",
+          "lat": 31.629896,
+          "lon": 74.286207,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Imamia Colony",
+          "name_ur": "",
+          "lat": 31.628506,
+          "lon": 74.286608,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kala Khatai Road",
+          "name_ur": "",
+          "lat": 31.627116,
+          "lon": 74.287008,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Barkat Town",
+          "name_ur": "",
+          "lat": 31.625726,
+          "lon": 74.287409,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Machas Factory",
+          "name_ur": "",
+          "lat": 31.624335,
+          "lon": 74.28781,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kashmir Park",
+          "name_ur": "",
+          "lat": 31.622945,
+          "lon": 74.288211,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Wandala Road",
+          "name_ur": "",
+          "lat": 31.621555,
+          "lon": 74.288611,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shahdra Railway Station",
+          "name_ur": "",
+          "lat": 31.620164,
+          "lon": 74.289012,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shahdra Lari Adda",
+          "name_ur": "",
+          "lat": 31.618774,
+          "lon": 74.289413,
+          "coord_source": "osm:node/2955181283",
+          "is_station": false
+        },
+        {
+          "name": "Shahdara Metro Station",
+          "name_ur": "",
+          "lat": 31.616508,
+          "lon": 74.290818,
+          "coord_source": "osm:node/3093598533",
+          "is_station": false
+        },
+        {
+          "name": "Niazi Interchange",
+          "name_ur": "",
+          "lat": 31.600983,
+          "lon": 74.299229,
+          "coord_source": "auto:same-name:osm:node/2405226777",
+          "is_station": false
+        },
+        {
+          "name": "Niazi Chowk",
+          "name_ur": "",
+          "lat": 31.600983,
+          "lon": 74.299229,
+          "coord_source": "osm:node/2405226777",
+          "is_station": false
+        },
+        {
+          "name": "Metro",
+          "name_ur": "",
+          "lat": 31.596837,
+          "lon": 74.298341,
+          "coord_source": "auto:osm:way/500080231",
+          "is_station": false
+        },
+        {
+          "name": "Timber Market",
+          "name_ur": "",
+          "lat": 31.594494,
+          "lon": 74.302139,
+          "coord_source": "osm:node/2405226778",
+          "is_station": false
+        },
+        {
+          "name": "Azadi Chowk",
+          "name_ur": "",
+          "lat": 31.590712,
+          "lon": 74.306381,
+          "coord_source": "osm:node/2401335839",
+          "is_station": false
+        },
+        {
+          "name": "Texali Chowk",
+          "name_ur": "",
+          "lat": 31.585662,
+          "lon": 74.306318,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bhatti Chowk",
+          "name_ur": "",
+          "lat": 31.580611,
+          "lon": 74.306255,
+          "coord_source": "auto:osm:node/13392220626",
+          "is_station": false
+        },
+        {
+          "name": "Bhatti Chowk-2",
+          "name_ur": "",
+          "lat": 31.583274,
+          "lon": 74.30941,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "texali Chowk 2",
+          "name_ur": "",
+          "lat": 31.585938,
+          "lon": 74.312566,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lari Adda Gol Chakar",
+          "name_ur": "",
+          "lat": 31.588601,
+          "lon": 74.315721,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lari Adda",
+          "name_ur": "",
+          "lat": 31.591264,
+          "lon": 74.318877,
+          "coord_source": "auto:nominatim:node/2952892667",
+          "is_station": false
+        },
+        {
+          "name": "Kashmiri Gate",
+          "name_ur": "",
+          "lat": 31.586842,
+          "lon": 74.321044,
+          "coord_source": "auto:osm:node/8389022126",
+          "is_station": false
+        },
+        {
+          "name": "Sheranwala Gate",
+          "name_ur": "",
+          "lat": 31.585517,
+          "lon": 74.324054,
+          "coord_source": "auto:osm:way/468965903",
+          "is_station": false
+        },
+        {
+          "name": "Nawaz Sharif Hospital",
+          "name_ur": "",
+          "lat": 31.573855,
+          "lon": 74.329638,
+          "coord_source": "auto:osm:way/761860753",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station-2",
+          "name_ur": "",
+          "lat": 31.57701,
+          "lon": 74.334721,
+          "coord_source": "auto:nominatim:way/1528230626",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": 31.572298,
+          "lon": 74.336153,
+          "coord_source": "auto:osm:node/8058806356",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-24",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-258"
+        }
+      ],
+      "notes": "Extension of the RT-03 corridor to Kala Shah Kaku. Not in PMA Phase-I list. Stop order = Safar direction 'KSK to Railway Station'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-25",
+      "name": "Askari 10 - Allama Iqbal Airport",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 30,
+      "hours": {
+        "start": "07:00",
+        "end": "21:15"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Askari 10",
+          "name_ur": "",
+          "lat": 31.535692,
+          "lon": 74.417457,
+          "coord_source": "auto:osm:node/4630049095",
+          "is_station": false
+        },
+        {
+          "name": "Dher Pindi",
+          "name_ur": "",
+          "lat": 31.52808,
+          "lon": 74.414402,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Airport",
+          "name_ur": "",
+          "lat": 31.520467,
+          "lon": 74.411348,
+          "coord_source": "osm:node/4805866921",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-25",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-259"
+        }
+      ],
+      "notes": "Short shuttle, 3 stops. Not in PMA Phase-I list. Stop order = Safar direction 'Askari X to Airport'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-27",
+      "name": "Jinnah Bus Terminal - Bahria Town",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 20,
+      "hours": {
+        "start": "05:50",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Jinnah terminal",
+          "name_ur": "",
+          "lat": 31.466517,
+          "lon": 74.225562,
+          "coord_source": "auto:osm:way/316917153",
+          "is_station": false
+        },
+        {
+          "name": "Thokar Niaz Baig",
+          "name_ur": "",
+          "lat": 31.473642,
+          "lon": 74.241825,
+          "coord_source": "osm:node/5844889651",
+          "is_station": false
+        },
+        {
+          "name": "Daewoo Terminal",
+          "name_ur": "",
+          "lat": 31.469103,
+          "lon": 74.238514,
+          "coord_source": "auto:osm:node/4770908181",
+          "is_station": false
+        },
+        {
+          "name": "Rabani Hospital",
+          "name_ur": "",
+          "lat": 31.46608,
+          "lon": 74.23402,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Doctor Society",
+          "name_ur": "",
+          "lat": 31.463057,
+          "lon": 74.229526,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Eden Canal Villa's",
+          "name_ur": "",
+          "lat": 31.460034,
+          "lon": 74.225033,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Basco Society",
+          "name_ur": "",
+          "lat": 31.457011,
+          "lon": 74.220539,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Muhafiz Town Market",
+          "name_ur": "",
+          "lat": 31.453988,
+          "lon": 74.216045,
+          "coord_source": "auto:osm:way/1008218867",
+          "is_station": false
+        },
+        {
+          "name": "Rajput Town",
+          "name_ur": "",
+          "lat": 31.450818,
+          "lon": 74.215056,
+          "coord_source": "auto:osm:way/314506548",
+          "is_station": false
+        },
+        {
+          "name": "EME Society",
+          "name_ur": "",
+          "lat": 31.446181,
+          "lon": 74.21032,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Aabpara Market",
+          "name_ur": "",
+          "lat": 31.441545,
+          "lon": 74.205583,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Green Fort 2",
+          "name_ur": "",
+          "lat": 31.436908,
+          "lon": 74.200847,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Saleem Memorial Hospital",
+          "name_ur": "",
+          "lat": 31.432272,
+          "lon": 74.19611,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "P & D Society",
+          "name_ur": "",
+          "lat": 31.427635,
+          "lon": 74.191374,
+          "coord_source": "auto:osm:way/900426994",
+          "is_station": false
+        },
+        {
+          "name": "NESPAK Society",
+          "name_ur": "",
+          "lat": 31.428384,
+          "lon": 74.219798,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Izmir Town",
+          "name_ur": "",
+          "lat": 31.429133,
+          "lon": 74.248223,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jubliee Town",
+          "name_ur": "",
+          "lat": 31.429882,
+          "lon": 74.276647,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mian Chowk",
+          "name_ur": "",
+          "lat": 31.430631,
+          "lon": 74.305072,
+          "coord_source": "osm:node/4360873691",
+          "is_station": false
+        },
+        {
+          "name": "Indus Hospital",
+          "name_ur": "",
+          "lat": 31.420777,
+          "lon": 74.281327,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shahkam Chowk",
+          "name_ur": "",
+          "lat": 31.410922,
+          "lon": 74.257582,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Canal Garden",
+          "name_ur": "",
+          "lat": 31.401068,
+          "lon": 74.233837,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Alwaiz Tower",
+          "name_ur": "",
+          "lat": 31.391213,
+          "lon": 74.210092,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bahria Town",
+          "name_ur": "",
+          "lat": 31.381359,
+          "lon": 74.186347,
+          "coord_source": "auto:osm:node/303543852",
+          "is_station": false
+        },
+        {
+          "name": "Bail Chowk",
+          "name_ur": "",
+          "lat": 31.374714,
+          "lon": 74.185853,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bahria Masjid",
+          "name_ur": "",
+          "lat": 31.36807,
+          "lon": 74.185359,
+          "coord_source": "auto:nominatim:way/359659209",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-27",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-270"
+        }
+      ],
+      "notes": "Not in PMA Phase-I list. Stop order = Safar direction 'Jinnah Bus Terminal to Bahria Town'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    },
+    {
+      "id": "RT-28",
+      "name": "Samanabad - Gulshan-e-Ravi Double Sarka",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 25,
+      "hours": {
+        "start": "06:00",
+        "end": "21:50"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Samanabad",
+          "name_ur": "",
+          "lat": 31.539754,
+          "lon": 74.292818,
+          "coord_source": "auto:osm:node/5844879610",
+          "is_station": false
+        },
+        {
+          "name": "Samanabad Gol Chakkar",
+          "name_ur": "",
+          "lat": 31.542326,
+          "lon": 74.294059,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Ravi Market",
+          "name_ur": "",
+          "lat": 31.544898,
+          "lon": 74.295299,
+          "coord_source": "auto:osm:node/5844879609",
+          "is_station": false
+        },
+        {
+          "name": "Ganda Nala",
+          "name_ur": "",
+          "lat": 31.52163,
+          "lon": 74.298856,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shehnai Palace",
+          "name_ur": "",
+          "lat": 31.498362,
+          "lon": 74.302414,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Moon Market",
+          "name_ur": "",
+          "lat": 31.475094,
+          "lon": 74.305971,
+          "coord_source": "auto:osm:node/5255424744",
+          "is_station": false
+        },
+        {
+          "name": "Park Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Wasa Disposal Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Ravi Double Sarka",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar - Speedo RT-28",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-272"
+        }
+      ],
+      "notes": "Not in PMA Phase-I list. Stop order = Safar direction 'Samanabad to Gulshan Ravi Double Sarka'; headway = median gap of Safar's published first-stop timetable; hours = Safar first/last service. Coordinates only where an OSM element with a matching name exists (feeder stops at Metrobus/Orange Line stations use the station element)."
+    }
+  ]
+}

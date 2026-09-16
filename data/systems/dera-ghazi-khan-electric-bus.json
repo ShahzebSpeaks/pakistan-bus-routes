@@ -1,0 +1,842 @@
+{
+  "id": "dera-ghazi-khan-electric-bus",
+  "city": "dera-ghazi-khan",
+  "name": "Green Electric Bus Dera Ghazi Khan",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "CM Maryam inaugurates first electro bus service in south Punjab",
+      "url": "https://www.app.com.pk/domestic/cm-maryam-inaugurates-first-electro-bus-service-in-south-punjab/",
+      "publisher": "APP",
+      "date": "2025-09-25",
+      "official": false
+    },
+    {
+      "title": "Punjab Expands Electric Bus Service to Tehsil Level",
+      "url": "https://propakistani.pk/2026/09/09/punjab-expands-electric-bus-service-to-tehsil-level/",
+      "publisher": "ProPakistani",
+      "date": "2026-09-09",
+      "official": false
+    },
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Dera Ghazi Khan Green Electric Bus routes",
+      "url": "https://www.safar.fyi/dera-ghazi-khan/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "gbs-dg-khan-to-choti-zareen-via-kot-chutta",
+      "name": "GBS DG Khan to Choti Zareen Via Kot Chutta",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2025-09-25",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS DG Khan",
+          "name_ur": "",
+          "lat": 30.032137,
+          "lon": 70.640111,
+          "coord_source": "auto:osm:node/253890085",
+          "is_station": false
+        },
+        {
+          "name": "Pull Dat Jampur Road",
+          "name_ur": "",
+          "lat": 30.018598,
+          "lon": 70.638973,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lahore Grammar School",
+          "name_ur": "",
+          "lat": 30.005059,
+          "lon": 70.637835,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "New Defence View Housing Society",
+          "name_ur": "",
+          "lat": 29.991521,
+          "lon": 70.636697,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shoria Bridge",
+          "name_ur": "",
+          "lat": 29.977982,
+          "lon": 70.635559,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah Colony Ansari",
+          "name_ur": "",
+          "lat": 29.964443,
+          "lon": 70.634421,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Paigah",
+          "name_ur": "",
+          "lat": 29.950904,
+          "lon": 70.633283,
+          "coord_source": "auto:osm:node/13316937408",
+          "is_station": false
+        },
+        {
+          "name": "Satwan Mill",
+          "name_ur": "",
+          "lat": 29.946271,
+          "lon": 70.624375,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Basti Khanan Wala",
+          "name_ur": "",
+          "lat": 29.941638,
+          "lon": 70.615467,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Aali Wala",
+          "name_ur": "",
+          "lat": 29.937006,
+          "lon": 70.606559,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Noorwala Bus Stop",
+          "name_ur": "",
+          "lat": 29.932373,
+          "lon": 70.597651,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "33 Morr",
+          "name_ur": "",
+          "lat": 29.92774,
+          "lon": 70.588742,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Purana Pump",
+          "name_ur": "",
+          "lat": 29.923108,
+          "lon": 70.579834,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kot Chutta City",
+          "name_ur": "",
+          "lat": 29.918475,
+          "lon": 70.570926,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mamoori Morr Stop",
+          "name_ur": "",
+          "lat": 29.913842,
+          "lon": 70.562018,
+          "coord_source": "auto:osm:way/1434893823",
+          "is_station": false
+        },
+        {
+          "name": "Kot Chutta Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pull Shoria Choti Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ada Haiderabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Samandari",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Lighari Minar Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Hootwala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mamouri Morr Choti Zareen",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Choti Zareen",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Dera Ghazi Khan route",
+          "url": "https://www.safar.fyi/dera-ghazi-khan/transit-lines/dgk%3A156"
+        }
+      ],
+      "notes": "24 buses initially (first e-bus service in South Punjab): GBS-Kot Chutta-Choti Zareen, GBS-Sakhi Sarwar, GBS-Shah Sadar Din, city loop. Launch date = APP report date. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS DG Khan to Choti Zareen', 23 stops); safar lists service 6:00 AM - 8:00 PM (unverified)."
+    },
+    {
+      "id": "gbs-dg-khan-to-gbs-dg-khan-intercity",
+      "name": "GBS DG Khan to GBS DG Khan (InterCity)",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2025-09-25",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS DG Khan",
+          "name_ur": "",
+          "lat": 30.032137,
+          "lon": 70.640111,
+          "coord_source": "auto:osm:node/253890085",
+          "is_station": false
+        },
+        {
+          "name": "Sultania Chowk",
+          "name_ur": "",
+          "lat": 30.046933,
+          "lon": 70.646154,
+          "coord_source": "auto:osm:node/6188013285",
+          "is_station": false
+        },
+        {
+          "name": "Piyarywali pull",
+          "name_ur": "",
+          "lat": 30.051081,
+          "lon": 70.643336,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Traffic Chowk",
+          "name_ur": "",
+          "lat": 30.055229,
+          "lon": 70.640517,
+          "coord_source": "auto:osm:node/5326762423",
+          "is_station": false
+        },
+        {
+          "name": "Hospital Chowk",
+          "name_ur": "",
+          "lat": 30.051444,
+          "lon": 70.639422,
+          "coord_source": "auto:osm:node/5326752223",
+          "is_station": false
+        },
+        {
+          "name": "Musharraf Chowk",
+          "name_ur": "",
+          "lat": 30.050792,
+          "lon": 70.636486,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Girls High School No 01",
+          "name_ur": "",
+          "lat": 30.050139,
+          "lon": 70.63355,
+          "coord_source": "auto:osm:node/1927270805",
+          "is_station": false
+        },
+        {
+          "name": "Katchehry Chowk",
+          "name_ur": "",
+          "lat": 30.051286,
+          "lon": 70.630045,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Railway Pulli",
+          "name_ur": "",
+          "lat": 30.052434,
+          "lon": 70.62654,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": 30.053581,
+          "lon": 70.623035,
+          "coord_source": "auto:osm:way/1451068394",
+          "is_station": false
+        },
+        {
+          "name": "Indus Colony",
+          "name_ur": "",
+          "lat": 30.052704,
+          "lon": 70.624859,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Circuit House",
+          "name_ur": "",
+          "lat": 30.051828,
+          "lon": 70.626683,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ghazi Colony",
+          "name_ur": "",
+          "lat": 30.050951,
+          "lon": 70.628507,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kundan Naseem Hospital",
+          "name_ur": "",
+          "lat": 30.050075,
+          "lon": 70.630331,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Modern Children Home",
+          "name_ur": "",
+          "lat": 30.049198,
+          "lon": 70.632155,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gadai Moor",
+          "name_ur": "",
+          "lat": 30.048321,
+          "lon": 70.633979,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "ALLAH Abad colony",
+          "name_ur": "",
+          "lat": 30.047445,
+          "lon": 70.635804,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Divisional Sports complex",
+          "name_ur": "",
+          "lat": 30.046568,
+          "lon": 70.637628,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ghazi University",
+          "name_ur": "",
+          "lat": 30.045691,
+          "lon": 70.639452,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Waqar Canteen Chowk",
+          "name_ur": "",
+          "lat": 30.044815,
+          "lon": 70.641276,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dunya Chowk",
+          "name_ur": "",
+          "lat": 30.043938,
+          "lon": 70.6431,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pull Dat",
+          "name_ur": "",
+          "lat": 30.043062,
+          "lon": 70.644924,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Khayaban e Sarwar",
+          "name_ur": "",
+          "lat": 30.042185,
+          "lon": 70.646748,
+          "coord_source": "auto:osm:node/4382899715",
+          "is_station": false
+        },
+        {
+          "name": "Shakir Town",
+          "name_ur": "",
+          "lat": 30.044559,
+          "lon": 70.646451,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sultania Chowk",
+          "name_ur": "",
+          "lat": 30.046933,
+          "lon": 70.646154,
+          "coord_source": "auto:osm:node/6188013285",
+          "is_station": false
+        },
+        {
+          "name": "GBS DG Khan",
+          "name_ur": "",
+          "lat": 30.032137,
+          "lon": 70.640111,
+          "coord_source": "auto:osm:node/253890085",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Dera Ghazi Khan route",
+          "url": "https://www.safar.fyi/dera-ghazi-khan/transit-lines/dgk%3A162"
+        }
+      ],
+      "notes": "24 buses initially (first e-bus service in South Punjab): GBS-Kot Chutta-Choti Zareen, GBS-Sakhi Sarwar, GBS-Shah Sadar Din, city loop. Launch date = APP report date. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS DG Khan to GBS DG Khan', 26 stops); safar lists service 6:00 AM - 8:15 PM (unverified)."
+    },
+    {
+      "id": "gbs-dg-khan-to-sakhi-sarwar",
+      "name": "GBS DG Khan to Sakhi Sarwar",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2025-09-25",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS DG Khan",
+          "name_ur": "",
+          "lat": 30.032137,
+          "lon": 70.640111,
+          "coord_source": "auto:osm:node/253890085",
+          "is_station": false
+        },
+        {
+          "name": "Samina Chowk",
+          "name_ur": "",
+          "lat": 30.033823,
+          "lon": 70.639862,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Khayaban E Sarwar Multan Road",
+          "name_ur": "",
+          "lat": 30.03551,
+          "lon": 70.639613,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gulshanabad",
+          "name_ur": "",
+          "lat": 30.037196,
+          "lon": 70.639364,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rescue 1122 DGK",
+          "name_ur": "",
+          "lat": 30.038883,
+          "lon": 70.639115,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bhutta Colony DGK",
+          "name_ur": "",
+          "lat": 30.040569,
+          "lon": 70.638866,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Khitran Colony",
+          "name_ur": "",
+          "lat": 30.042256,
+          "lon": 70.638617,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "CSD Shop DGK",
+          "name_ur": "",
+          "lat": 30.043942,
+          "lon": 70.638368,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "PAEC Hospital",
+          "name_ur": "",
+          "lat": 30.045629,
+          "lon": 70.638119,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Government Primary School Machi Wala",
+          "name_ur": "",
+          "lat": 30.047315,
+          "lon": 70.63787,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Silver Sand City",
+          "name_ur": "",
+          "lat": 30.049002,
+          "lon": 70.637621,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Meer Chakar University",
+          "name_ur": "",
+          "lat": 30.050688,
+          "lon": 70.637372,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Al Ghazi Tractor Limited",
+          "name_ur": "",
+          "lat": 30.052375,
+          "lon": 70.637123,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Babli Petrol Pump",
+          "name_ur": "",
+          "lat": 30.054061,
+          "lon": 70.636874,
+          "coord_source": "auto:osm:node/5331511224",
+          "is_station": false
+        },
+        {
+          "name": "Airport Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Grid Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Tonmi wala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Faridaabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Zair Peer",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Dera Ghazi Khan route",
+          "url": "https://www.safar.fyi/dera-ghazi-khan/transit-lines/dgk%3A160"
+        }
+      ],
+      "notes": "24 buses initially (first e-bus service in South Punjab): GBS-Kot Chutta-Choti Zareen, GBS-Sakhi Sarwar, GBS-Shah Sadar Din, city loop. Launch date = APP report date. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS DG Khan to Zair Peer', 19 stops); safar lists service 6:00 AM - 8:11 PM (unverified)."
+    },
+    {
+      "id": "gbs-dg-khan-to-shah-sadar-din",
+      "name": "GBS DG Khan to Shah Sadar Din",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2025-09-25",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS DG Khan",
+          "name_ur": "",
+          "lat": 30.032137,
+          "lon": 70.640111,
+          "coord_source": "auto:osm:node/253890085",
+          "is_station": false
+        },
+        {
+          "name": "Sardar Fateh Institute of Cardiology",
+          "name_ur": "",
+          "lat": 30.04512,
+          "lon": 70.646231,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shalimar Town",
+          "name_ur": "",
+          "lat": 30.058103,
+          "lon": 70.652352,
+          "coord_source": "auto:osm:node/4382899709",
+          "is_station": false
+        },
+        {
+          "name": "Chowk Churrtha",
+          "name_ur": "",
+          "lat": 30.069956,
+          "lon": 70.641661,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Faizan e Madina",
+          "name_ur": "",
+          "lat": 30.081809,
+          "lon": 70.630969,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hakim Shahwala",
+          "name_ur": "",
+          "lat": 30.093662,
+          "lon": 70.620278,
+          "coord_source": "auto:osm:node/3908820821",
+          "is_station": false
+        },
+        {
+          "name": "Jarwar Chowk - Azizabad",
+          "name_ur": "",
+          "lat": 30.108743,
+          "lon": 70.622217,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mahermani Basti",
+          "name_ur": "",
+          "lat": 30.123825,
+          "lon": 70.624156,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chabri Bala",
+          "name_ur": "",
+          "lat": 30.138906,
+          "lon": 70.626095,
+          "coord_source": "auto:osm:node/4382918275",
+          "is_station": false
+        },
+        {
+          "name": "Yaroo Khosa",
+          "name_ur": "",
+          "lat": 30.164857,
+          "lon": 70.611919,
+          "coord_source": "auto:osm:node/13316926494",
+          "is_station": false
+        },
+        {
+          "name": "Tibbi Isran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Noorpur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pir Adil",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jhok Noor Hafiz",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Wahidiwala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pull Gajjri Wala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Adda Mian Ibrahim Shah",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shah Sardar Din",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Dera Ghazi Khan route",
+          "url": "https://www.safar.fyi/dera-ghazi-khan/transit-lines/dgk%3A158"
+        }
+      ],
+      "notes": "24 buses initially (first e-bus service in South Punjab): GBS-Kot Chutta-Choti Zareen, GBS-Sakhi Sarwar, GBS-Shah Sadar Din, city loop. Launch date = APP report date. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS DG Khan to Shah Sardar Din', 19 stops); safar lists service 6:00 AM - 8:10 PM (unverified). Removed consecutive duplicate stop(s): Shah Sardar Din."
+    }
+  ]
+}

@@ -1,0 +1,692 @@
+{
+  "id": "mianwali-electric-bus",
+  "city": "mianwali",
+  "name": "Green Electric Bus Mianwali",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Mianwali Green Electric Bus routes",
+      "url": "https://www.safar.fyi/mianwali/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "gbs-to-ban-hafiz-jee",
+      "name": "GBS to Ban Hafiz Jee",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Accounts Office Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jahaz Chowk Mianwali",
+          "name_ur": "",
+          "lat": 32.585857,
+          "lon": 71.546631,
+          "coord_source": "auto:nominatim:node/4294148539",
+          "is_station": false
+        },
+        {
+          "name": "City Police Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Masjid Abu Bakar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sohrabwala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chidru Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sohanwala Pul",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Midad Khel",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Indus City",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "BHU Abba Khel",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Abba Khel City",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Muslanmwala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Madi Khel",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ghoranianwala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Wan Bhachran Pull",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Musa Khel City",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sakaisir Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Numal University",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Rikhi Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Rikhi Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chah Agarwal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Tasneem Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ban Hafiz Jee",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Mianwali route",
+          "url": "https://www.safar.fyi/mianwali/transit-lines/mnw%3A65"
+        }
+      ],
+      "notes": "No dated launch report found; routes from safar.fyi only. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS to Ban Hafiz Jee', 24 stops); safar lists service 6:00 AM - 9:00 PM (unverified)."
+    },
+    {
+      "id": "gbs-to-daud-khel",
+      "name": "GBS to Daud Khel",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Accounts Office Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jahaz Chowk Mianwali",
+          "name_ur": "",
+          "lat": 32.585857,
+          "lon": 71.546631,
+          "coord_source": "auto:nominatim:node/4294148539",
+          "is_station": false
+        },
+        {
+          "name": "University Road",
+          "name_ur": "",
+          "lat": 32.594233,
+          "lon": 71.540022,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Turahbaaz Town",
+          "name_ur": "",
+          "lat": 32.602609,
+          "lon": 71.533414,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shahbaz Khel Morr",
+          "name_ur": "",
+          "lat": 32.610985,
+          "lon": 71.526805,
+          "coord_source": "auto:osm:node/871997535",
+          "is_station": false
+        },
+        {
+          "name": "Ghalbalianwala",
+          "name_ur": "",
+          "lat": 32.623378,
+          "lon": 71.522658,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Berulii",
+          "name_ur": "",
+          "lat": 32.63577,
+          "lon": 71.518511,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mahranwala",
+          "name_ur": "",
+          "lat": 32.648162,
+          "lon": 71.514365,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rokhari Morr",
+          "name_ur": "",
+          "lat": 32.660555,
+          "lon": 71.510218,
+          "coord_source": "auto:osm:node/10774103417",
+          "is_station": false
+        },
+        {
+          "name": "Tari Khel",
+          "name_ur": "",
+          "lat": 32.689124,
+          "lon": 71.52439,
+          "coord_source": "auto:osm:node/871997537",
+          "is_station": false
+        },
+        {
+          "name": "Dillaywali",
+          "name_ur": "",
+          "lat": 32.681662,
+          "lon": 71.530593,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Khawjabad",
+          "name_ur": "",
+          "lat": 32.6742,
+          "lon": 71.536795,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sawans",
+          "name_ur": "",
+          "lat": 32.666739,
+          "lon": 71.542998,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Moch",
+          "name_ur": "",
+          "lat": 32.659277,
+          "lon": 71.5492,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pai Khel",
+          "name_ur": "",
+          "lat": 32.651815,
+          "lon": 71.555403,
+          "coord_source": "auto:osm:way/1451928472",
+          "is_station": false
+        },
+        {
+          "name": "Wandha Laly Khel",
+          "name_ur": "",
+          "lat": 32.649232,
+          "lon": 71.554958,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pai Khel City",
+          "name_ur": "",
+          "lat": 32.64665,
+          "lon": 71.554512,
+          "coord_source": "auto:osm:way/1451928473",
+          "is_station": false
+        },
+        {
+          "name": "Kot Bailian Interchange",
+          "name_ur": "",
+          "lat": 32.633079,
+          "lon": 71.551064,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Janu Khel",
+          "name_ur": "",
+          "lat": 32.619508,
+          "lon": 71.547615,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dher Umid Ali Shah",
+          "name_ur": "",
+          "lat": 32.605938,
+          "lon": 71.544167,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Thathi",
+          "name_ur": "",
+          "lat": 32.592367,
+          "lon": 71.540718,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Daud Khel",
+          "name_ur": "",
+          "lat": 32.578796,
+          "lon": 71.53727,
+          "coord_source": "auto:osm:node/4298864437",
+          "is_station": false
+        },
+        {
+          "name": "NADRA Office Daud Khel",
+          "name_ur": "",
+          "lat": 32.583722,
+          "lon": 71.555183,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bilal Masjid",
+          "name_ur": "",
+          "lat": 32.588649,
+          "lon": 71.573096,
+          "coord_source": "auto:osm:node/4302460113",
+          "is_station": false
+        },
+        {
+          "name": "CPEC Interchange",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Mianwali route",
+          "url": "https://www.safar.fyi/mianwali/transit-lines/mnw%3A63"
+        }
+      ],
+      "notes": "No dated launch report found; routes from safar.fyi only. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS to CPEC Interchange', 26 stops); safar lists service 6:00 AM - 9:35 PM (unverified)."
+    },
+    {
+      "id": "gbs-to-health-center-wan-bachran",
+      "name": "GBS to Health Center Wan Bachran",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Watta Khel Chowk",
+          "name_ur": "",
+          "lat": 32.566969,
+          "lon": 71.514063,
+          "coord_source": "auto:osm:node/4298852614",
+          "is_station": false
+        },
+        {
+          "name": "Jhambra Gharbi",
+          "name_ur": "",
+          "lat": 32.554148,
+          "lon": 71.546501,
+          "coord_source": "auto:osm:node/4298765125",
+          "is_station": false
+        },
+        {
+          "name": "Sargodha Morr",
+          "name_ur": "",
+          "lat": 32.540295,
+          "lon": 71.556736,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Zalla",
+          "name_ur": "",
+          "lat": 32.526442,
+          "lon": 71.566971,
+          "coord_source": "auto:osm:node/4298844239",
+          "is_station": false
+        },
+        {
+          "name": "Rodda Sharif",
+          "name_ur": "",
+          "lat": 32.523696,
+          "lon": 71.57106,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Azeem Wala One",
+          "name_ur": "",
+          "lat": 32.520949,
+          "lon": 71.57515,
+          "coord_source": "auto:osm:node/10774103328",
+          "is_station": false
+        },
+        {
+          "name": "Azeem Wala Two",
+          "name_ur": "",
+          "lat": 32.516768,
+          "lon": 71.582645,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Masjid E Ghosia",
+          "name_ur": "",
+          "lat": 32.512587,
+          "lon": 71.590141,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gulmiri",
+          "name_ur": "",
+          "lat": 32.508407,
+          "lon": 71.597636,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Govt High School Gulmiri",
+          "name_ur": "",
+          "lat": 32.504226,
+          "lon": 71.605131,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ramzanabad",
+          "name_ur": "",
+          "lat": 32.500045,
+          "lon": 71.612627,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bahoo Cotton",
+          "name_ur": "",
+          "lat": 32.495864,
+          "lon": 71.620122,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dera Chohdrian Wala",
+          "name_ur": "",
+          "lat": 32.491684,
+          "lon": 71.627617,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Morous",
+          "name_ur": "",
+          "lat": 32.487503,
+          "lon": 71.635113,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nangni Morr",
+          "name_ur": "",
+          "lat": 32.483322,
+          "lon": 71.642608,
+          "coord_source": "auto:osm:way/430619182",
+          "is_station": false
+        },
+        {
+          "name": "Muzaffarpur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dhoolanwala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jahaz Chowk Wan Bachran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bus Stand Wan Bachran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Govt Girls College Wan Bachran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Health Center Wan Bachran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Mianwali route",
+          "url": "https://www.safar.fyi/mianwali/transit-lines/mnw%3A60"
+        }
+      ],
+      "notes": "No dated launch report found; routes from safar.fyi only. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS to Health Center Wan Bachran', 22 stops); safar lists service 6:00 AM - 9:45 PM (unverified)."
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "mirpurkhas-pbs",
+  "city": "mirpurkhas",
+  "name": "Peoples Bus Service Mirpurkhas",
+  "name_ur": "پیپلز بس سروس",
+  "operator": "Sindh Mass Transit Authority (Transport & Mass Transit Dept, Govt of Sindh)",
+  "mode": "bus",
+  "website": "https://smta.gos.pk",
+  "helpline": "0800-07682",
+  "payment": "cash (ticket on board); card/app not confirmed for this city",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "Not published for non-Karachi routes. Launch-era reports cite PKR 50-100; Sukkur-Shikarpur (2026) passengers pay 50% of fare with Sindh govt subsidising the rest.",
+    "as_of": null,
+    "source_url": "https://en.wikipedia.org/wiki/Peoples_Bus_Service"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "Not published; PBS launched in 2022 with 08:00-20:00 operation (Wikipedia). "
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "SMTA Route Map & Provincial Route Directory",
+      "url": "https://smta.gos.pk/route-map",
+      "publisher": "Sindh Mass Transit Authority",
+      "date": "2026",
+      "official": true
+    },
+    {
+      "title": "Peoples Bus Service",
+      "url": "https://en.wikipedia.org/wiki/Peoples_Bus_Service",
+      "publisher": "Wikipedia",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "MIRPURKHAS",
+      "name": "New Civil Hospital - Mirwah",
+      "name_ur": "",
+      "variant": "red",
+      "color": null,
+      "status": "operational",
+      "launched": "2024-04-20",
+      "length_km": 32,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "New Civil Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Terminal Bus Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Old Civil City",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jarwari Shakh",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Laghari Pump",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Saman Goth",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bilaro Shah",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mirwah",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mirpur Khas route",
+          "url": "https://smta.gos.pk/routes/25"
+        },
+        {
+          "title": "Peoples Bus Service launched in Mirpurkhas",
+          "url": "https://www.dawn.com/news/1828639"
+        }
+      ],
+      "notes": "Official SMTA list. Launched Apr 2024 as Bus Stand - Teen Talwar Chowk (Jarwari Shakh) per Wikipedia; now extended to Mirwah. No official code."
+    }
+  ]
+}

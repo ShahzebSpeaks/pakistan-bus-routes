@@ -1,0 +1,184 @@
+{
+  "id": "shikarpur-pbs",
+  "city": "shikarpur",
+  "name": "Peoples Bus Service Sukkur-Shikarpur",
+  "name_ur": "پیپلز بس سروس",
+  "operator": "Sindh Mass Transit Authority (Transport & Mass Transit Dept, Govt of Sindh)",
+  "mode": "bus",
+  "website": "https://smta.gos.pk",
+  "helpline": "0800-07682",
+  "payment": "cash (ticket on board); card/app not confirmed for this city",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "Not published for non-Karachi routes. Launch-era reports cite PKR 50-100; Sukkur-Shikarpur (2026) passengers pay 50% of fare with Sindh govt subsidising the rest.",
+    "as_of": null,
+    "source_url": "https://en.wikipedia.org/wiki/Peoples_Bus_Service"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "Not published; PBS launched in 2022 with 08:00-20:00 operation (Wikipedia). "
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "SMTA Route Map & Provincial Route Directory",
+      "url": "https://smta.gos.pk/route-map",
+      "publisher": "Sindh Mass Transit Authority",
+      "date": "2026",
+      "official": true
+    },
+    {
+      "title": "Peoples Bus Service",
+      "url": "https://en.wikipedia.org/wiki/Peoples_Bus_Service",
+      "publisher": "Wikipedia",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "SHIKARPUR",
+      "name": "Sindhri Hotel Sukkur - Shikarpur (Jahaz Chowk)",
+      "name_ur": "",
+      "variant": "red",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-04-18",
+      "length_km": 32,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Sindhri Hotel Sukkur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dreha",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Qasim Goth",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dalgot",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Lakhi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Goth Jano Sharif",
+          "name_ur": "",
+          "lat": 27.928707,
+          "lon": 68.665657,
+          "coord_source": "auto:osm:node/9993497377",
+          "is_station": false
+        },
+        {
+          "name": "Jaffer Shah Graveyard",
+          "name_ur": "",
+          "lat": 27.934534,
+          "lon": 68.661875,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "DC Office",
+          "name_ur": "",
+          "lat": 27.940361,
+          "lon": 68.658092,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "20 Bed Hospital",
+          "name_ur": "",
+          "lat": 27.946187,
+          "lon": 68.65431,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shaikh Ayaz University",
+          "name_ur": "",
+          "lat": 27.952014,
+          "lon": 68.650527,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shikarpur Bus Stand",
+          "name_ur": "",
+          "lat": 27.957841,
+          "lon": 68.646745,
+          "coord_source": "auto:osm:node/3965893627",
+          "is_station": false
+        },
+        {
+          "name": "Civil Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Govt. High School #01",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jahaz Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Shikarpur route",
+          "url": "https://smta.gos.pk/routes/28"
+        },
+        {
+          "title": "Sharjeel inaugurates Sukkur-Shikarpur Peoples Bus Service",
+          "url": "https://www.dawn.com/news/1992736"
+        }
+      ],
+      "notes": "Official SMTA list. Inaugurated April 2026 with 6 hybrid buses; passengers pay 50% of fare (govt subsidy). No official route code; SMTA labels it 'Shikarpur'."
+    }
+  ]
+}

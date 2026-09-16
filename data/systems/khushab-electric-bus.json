@@ -1,0 +1,579 @@
+{
+  "id": "khushab-electric-bus",
+  "city": "khushab",
+  "name": "Green Electric Bus Khushab",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Electric bus service starts on 13 new routes",
+      "url": "https://www.thenews.pk/print/1424248-electric-bus-service-starts-on-13-new-routes",
+      "publisher": "The News",
+      "date": "2026-07-06",
+      "official": false
+    },
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Khushab Green Electric Bus routes",
+      "url": "https://www.safar.fyi/khushab/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "gbs-khushab-to-girot-chowk",
+      "name": "GBS Khushab to Girot Chowk",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS Khushab",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhatti Hospital",
+          "name_ur": "",
+          "lat": 32.294642,
+          "lon": 72.33575,
+          "coord_source": "auto:osm:node/8831148413",
+          "is_station": false
+        },
+        {
+          "name": "Agriculture University khushab",
+          "name_ur": "",
+          "lat": 32.291958,
+          "lon": 72.322729,
+          "coord_source": "auto:osm:way/140089227",
+          "is_station": false
+        },
+        {
+          "name": "Joharabad Bypass",
+          "name_ur": "",
+          "lat": 32.289202,
+          "lon": 72.315292,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jahaz Chowk",
+          "name_ur": "",
+          "lat": 32.286445,
+          "lon": 72.307855,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Old Bus Stand khushab",
+          "name_ur": "",
+          "lat": 32.283689,
+          "lon": 72.300419,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "New Bus Stand Khushab",
+          "name_ur": "",
+          "lat": 32.280933,
+          "lon": 72.292982,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Muzaffargarh Road",
+          "name_ur": "",
+          "lat": 32.278176,
+          "lon": 72.285545,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Darul Islam Chowk",
+          "name_ur": "",
+          "lat": 32.27542,
+          "lon": 72.278109,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Officer Colony khushab",
+          "name_ur": "",
+          "lat": 32.272663,
+          "lon": 72.270672,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Police Line khushab",
+          "name_ur": "",
+          "lat": 32.269907,
+          "lon": 72.263235,
+          "coord_source": "auto:nominatim:way/432730421",
+          "is_station": false
+        },
+        {
+          "name": "UK Hotel",
+          "name_ur": "",
+          "lat": 32.25471,
+          "lon": 72.273864,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 52 MB",
+          "name_ur": "",
+          "lat": 32.239512,
+          "lon": 72.284492,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 51 MB",
+          "name_ur": "",
+          "lat": 32.224315,
+          "lon": 72.295121,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 47 MB",
+          "name_ur": "",
+          "lat": 32.209118,
+          "lon": 72.305749,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 50 MB",
+          "name_ur": "",
+          "lat": 32.193921,
+          "lon": 72.316378,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 45 MB",
+          "name_ur": "",
+          "lat": 32.178723,
+          "lon": 72.327006,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hamoka Morr",
+          "name_ur": "",
+          "lat": 32.163526,
+          "lon": 72.337635,
+          "coord_source": "auto:osm:node/12832759039",
+          "is_station": false
+        },
+        {
+          "name": "National Colony No. 2 / Billu Farm",
+          "name_ur": "",
+          "lat": 32.169373,
+          "lon": 72.324217,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "15 Chak",
+          "name_ur": "",
+          "lat": 32.17522,
+          "lon": 72.310799,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Girot Chowk",
+          "name_ur": "",
+          "lat": 32.181067,
+          "lon": 72.297381,
+          "coord_source": "auto:osm:way/563943658",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Khushab route",
+          "url": "https://www.safar.fyi/khushab/transit-lines/etransit-khushab%3A294"
+        }
+      ],
+      "notes": "15 buses; GBS to Girot Chowk, Mitha Tiwana and Mangowal, started ~6 Jul 2026. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Khushab to Girot Chowk', 21 stops); safar lists service 6:00 AM - 9:10 PM (unverified)."
+    },
+    {
+      "id": "gbs-khushab-to-mangwal",
+      "name": "GBS Khushab to Mangwal",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS Khushab",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Katha Chowk",
+          "name_ur": "",
+          "lat": 32.298631,
+          "lon": 72.350907,
+          "coord_source": "auto:osm:node/5434121273",
+          "is_station": false
+        },
+        {
+          "name": "Ali Medical Complex",
+          "name_ur": "",
+          "lat": 32.298631,
+          "lon": 72.350907,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sangha Petroleum",
+          "name_ur": "",
+          "lat": 32.298631,
+          "lon": 72.350907,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shawala",
+          "name_ur": "",
+          "lat": 32.298631,
+          "lon": 72.350907,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shawala Kalan",
+          "name_ur": "",
+          "lat": 32.298631,
+          "lon": 72.350907,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Joharabad Morr",
+          "name_ur": "",
+          "lat": 32.298631,
+          "lon": 72.350907,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chabeel",
+          "name_ur": "",
+          "lat": 32.298631,
+          "lon": 72.350907,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chabeel Naala",
+          "name_ur": "",
+          "lat": 32.298631,
+          "lon": 72.350907,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 65 Morr",
+          "name_ur": "",
+          "lat": 32.298631,
+          "lon": 72.350907,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nalli Morr Mahajer Branch",
+          "name_ur": "",
+          "lat": 32.298631,
+          "lon": 72.350907,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Narri",
+          "name_ur": "",
+          "lat": 32.298631,
+          "lon": 72.350907,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Katha Morr",
+          "name_ur": "",
+          "lat": 32.298631,
+          "lon": 72.350907,
+          "coord_source": "auto:osm:node/5434121273",
+          "is_station": false
+        },
+        {
+          "name": "Katha Sagral",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dera Gunadha Katha Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Noor Muhammad Kiryana Store Daiwal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Daiwal Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mangwal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Khushab route",
+          "url": "https://www.safar.fyi/khushab/transit-lines/etransit-khushab%3A303"
+        }
+      ],
+      "notes": "15 buses; GBS to Girot Chowk, Mitha Tiwana and Mangowal, started ~6 Jul 2026. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Khushab to Mangwal', 18 stops); safar lists service 6:00 AM - 8:00 PM (unverified)."
+    },
+    {
+      "id": "gbs-khushab-to-mitha-tiwana-stop",
+      "name": "GBS Khushab to Mitha Tiwana Stop",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS Khushab",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhatti Hospital",
+          "name_ur": "",
+          "lat": 32.294642,
+          "lon": 72.33575,
+          "coord_source": "auto:osm:node/8831148413",
+          "is_station": false
+        },
+        {
+          "name": "Agriculture University khushab",
+          "name_ur": "",
+          "lat": 32.291958,
+          "lon": 72.322729,
+          "coord_source": "auto:osm:way/140089227",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Iqbal",
+          "name_ur": "",
+          "lat": 32.289894,
+          "lon": 72.302709,
+          "coord_source": "auto:osm:node/4316754122",
+          "is_station": false
+        },
+        {
+          "name": "Joharabad Bypass khushab",
+          "name_ur": "",
+          "lat": 32.290544,
+          "lon": 72.294856,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jahaz Chowk",
+          "name_ur": "",
+          "lat": 32.291194,
+          "lon": 72.287002,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Old Bus Stand khushab",
+          "name_ur": "",
+          "lat": 32.291844,
+          "lon": 72.279149,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "New Bus Stand Khushab",
+          "name_ur": "",
+          "lat": 32.292494,
+          "lon": 72.271295,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Muzaffargarh Road",
+          "name_ur": "",
+          "lat": 32.293144,
+          "lon": 72.263442,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hadali Bypass",
+          "name_ur": "",
+          "lat": 32.293794,
+          "lon": 72.255588,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Punjab College Khushab",
+          "name_ur": "",
+          "lat": 32.294444,
+          "lon": 72.247735,
+          "coord_source": "auto:nominatim:node/4316746111",
+          "is_station": false
+        },
+        {
+          "name": "Kachi Puli",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Purana Lari Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Hadali Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Botala Colony",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dera Loharanwala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Balkianwala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mitha Tiwana Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Khushab route",
+          "url": "https://www.safar.fyi/khushab/transit-lines/etransit-khushab%3A298"
+        }
+      ],
+      "notes": "15 buses; GBS to Girot Chowk, Mitha Tiwana and Mangowal, started ~6 Jul 2026. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Khushab to Mitha Tiwana Stop', 18 stops); safar lists service 6:00 AM - 8:10 PM (unverified)."
+    }
+  ]
+}

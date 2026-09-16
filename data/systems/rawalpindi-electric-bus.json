@@ -1,0 +1,1024 @@
+{
+  "id": "rawalpindi-electric-bus",
+  "city": "islamabad-rawalpindi",
+  "name": "Rawalpindi Electric Bus (Punjab Green Electric Bus)",
+  "name_ur": "",
+  "operator": "Punjab Masstransit Authority (Government of Punjab)",
+  "mode": "electric_bus",
+  "website": "https://pma.punjab.gov.pk/rawalpindi",
+  "helpline": null,
+  "payment": "Cash; card payment reported (unverified)",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Dawn, Nov 2025); other reports say women, elderly, special-needs children.",
+    "as_of": "2025-11-19",
+    "source_url": "https://www.dawn.com/news/1956136/electric-bus-service-with-45-vehicles-launched-in-rawalpindi"
+  },
+  "hours": {
+    "start": "05:40",
+    "end": "23:00",
+    "notes": "Per-route from Safar; not officially published."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Electric bus service with 45 vehicles launched in Rawalpindi",
+      "url": "https://www.dawn.com/news/1956136/electric-bus-service-with-45-vehicles-launched-in-rawalpindi",
+      "publisher": "Dawn",
+      "date": "2025-11-20",
+      "official": false
+    },
+    {
+      "title": "Electric bus service to launch next week on 10 routes in Rawalpindi",
+      "url": "https://www.dawn.com/news/1955110",
+      "publisher": "Dawn",
+      "date": "2025-11-15",
+      "official": false
+    },
+    {
+      "title": "Rawalpindi set for Phase-II electric bus rollout",
+      "url": "https://www.dawn.com/news/2000782/rawalpindi-set-for-phase-ii-electric-bus-rollout",
+      "publisher": "Dawn",
+      "date": null,
+      "official": false
+    },
+    {
+      "title": "Punjab to Launch New Electric Bus Routes in Rawalpindi",
+      "url": "https://propakistani.pk/2026/05/18/punjab-to-launch-new-electric-bus-routes-in-rawalpindi/",
+      "publisher": "ProPakistani",
+      "date": "2026-05-18",
+      "official": false
+    },
+    {
+      "title": "Rawalpindi launches 45 electric buses; 80-bus fleet planned",
+      "url": "https://profit.pakistantoday.com.pk/2025/11/19/rawalpindi-launches-45-electric-buses-80-bus-fleet-planned/",
+      "publisher": "Profit",
+      "date": "2025-11-19",
+      "official": false
+    },
+    {
+      "title": "Safar - Islamabad/Rawalpindi transit lines",
+      "url": "https://www.safar.fyi/map",
+      "publisher": "Safar",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "RWP-EB-01",
+      "name": "Saddar - Qabristan Chowk (via Qasim Market)",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2025-11-19",
+      "length_km": 7,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Saddar Stop",
+          "name_ur": "",
+          "lat": 33.594161,
+          "lon": 73.056508,
+          "coord_source": "auto:same-name:osm:node/9160047641",
+          "is_station": false
+        },
+        {
+          "name": "GPO Chowk, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.594701,
+          "lon": 73.051307,
+          "coord_source": "auto:osm:way/23637309",
+          "is_station": false
+        },
+        {
+          "name": "MH Stop",
+          "name_ur": "",
+          "lat": 33.59555,
+          "lon": 73.041915,
+          "coord_source": "auto:osm:node/278052793",
+          "is_station": false
+        },
+        {
+          "name": "Qasim Market Stop",
+          "name_ur": "",
+          "lat": 33.600363,
+          "lon": 73.033505,
+          "coord_source": "auto:osm:way/231202621",
+          "is_station": false
+        },
+        {
+          "name": "Askari 11",
+          "name_ur": "",
+          "lat": 33.59902,
+          "lon": 73.027076,
+          "coord_source": "auto:osm:node/2441089887",
+          "is_station": false
+        },
+        {
+          "name": "Farid Family Hospital",
+          "name_ur": "",
+          "lat": 33.598053,
+          "lon": 73.023756,
+          "coord_source": "auto:osm:node/4590878152",
+          "is_station": false
+        },
+        {
+          "name": "Afzal Town Lane No 4",
+          "name_ur": "",
+          "lat": 33.598676,
+          "lon": 73.019865,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Malik Azam Street",
+          "name_ur": "",
+          "lat": 33.5993,
+          "lon": 73.015974,
+          "coord_source": "auto:osm:way/187714791",
+          "is_station": false
+        },
+        {
+          "name": "Noor Hospital",
+          "name_ur": "",
+          "lat": 33.593062,
+          "lon": 73.019451,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hakeem Plaza Street No 4",
+          "name_ur": "",
+          "lat": 33.586824,
+          "lon": 73.022927,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Misriyal Chowk",
+          "name_ur": "",
+          "lat": 33.580585,
+          "lon": 73.026404,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Qabristan Chowk",
+          "name_ur": "",
+          "lat": 33.574347,
+          "lon": 73.02988,
+          "coord_source": "auto:osm:way/788653023",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar route page",
+          "url": "https://www.safar.fyi/islamabad/transit-lines/rwp%3A100"
+        },
+        {
+          "title": "Electric bus service with 45 vehicles launched in Rawalpindi",
+          "url": "https://www.dawn.com/news/1956136/electric-bus-service-with-45-vehicles-launched-in-rawalpindi"
+        }
+      ],
+      "notes": "Phase-I route (7 km, 7 buses) launched 19 Nov 2025. Stops from Safar (12). No official route number found - id is provisional."
+    },
+    {
+      "id": "RWP-EB-01X",
+      "name": "Saddar - Bhatta Chowk (via Qasim Market, Misriyal)",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": {
+        "start": "05:50",
+        "end": "23:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Saddar Stop",
+          "name_ur": "",
+          "lat": 33.594161,
+          "lon": 73.056508,
+          "coord_source": "auto:same-name:osm:node/9160047641",
+          "is_station": false
+        },
+        {
+          "name": "GPO Chowk, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.594701,
+          "lon": 73.051307,
+          "coord_source": "auto:osm:way/23637309",
+          "is_station": false
+        },
+        {
+          "name": "MH Stop",
+          "name_ur": "",
+          "lat": 33.59555,
+          "lon": 73.041915,
+          "coord_source": "auto:osm:node/278052793",
+          "is_station": false
+        },
+        {
+          "name": "Qasim Market Stop",
+          "name_ur": "",
+          "lat": 33.600363,
+          "lon": 73.033505,
+          "coord_source": "auto:osm:way/231202621",
+          "is_station": false
+        },
+        {
+          "name": "Askari 11",
+          "name_ur": "",
+          "lat": 33.59902,
+          "lon": 73.027076,
+          "coord_source": "auto:osm:node/2441089887",
+          "is_station": false
+        },
+        {
+          "name": "Farid Family Hospital",
+          "name_ur": "",
+          "lat": 33.598053,
+          "lon": 73.023756,
+          "coord_source": "auto:osm:node/4590878152",
+          "is_station": false
+        },
+        {
+          "name": "Afzal Town Lane No 4",
+          "name_ur": "",
+          "lat": 33.598676,
+          "lon": 73.019865,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Malik Azam Street",
+          "name_ur": "",
+          "lat": 33.5993,
+          "lon": 73.015974,
+          "coord_source": "auto:osm:way/187714791",
+          "is_station": false
+        },
+        {
+          "name": "Noor Hospital",
+          "name_ur": "",
+          "lat": 33.594309,
+          "lon": 73.018755,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hakeem Plaza Street No 4",
+          "name_ur": "",
+          "lat": 33.589319,
+          "lon": 73.021536,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Islamic Nazriyati Council",
+          "name_ur": "",
+          "lat": 33.584328,
+          "lon": 73.024318,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Misriyal Chowk",
+          "name_ur": "",
+          "lat": 33.579338,
+          "lon": 73.027099,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Qabristan Chowk",
+          "name_ur": "",
+          "lat": 33.574347,
+          "lon": 73.02988,
+          "coord_source": "auto:osm:way/788653023",
+          "is_station": false
+        },
+        {
+          "name": "PSO Pump",
+          "name_ur": "",
+          "lat": 33.577074,
+          "lon": 73.030158,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lane No 5",
+          "name_ur": "",
+          "lat": 33.5798,
+          "lon": 73.030436,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bhatta Chowk",
+          "name_ur": "",
+          "lat": 33.582527,
+          "lon": 73.030714,
+          "coord_source": "auto:osm:node/254768538",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar route page",
+          "url": "https://www.safar.fyi/islamabad/transit-lines/rwp%3A172"
+        }
+      ],
+      "notes": "Extension of Saddar - Qabristan Chowk to Bhatta Chowk (Bakra Mandi) listed on Safar (16 stops, 05:50-23:00); some reports call the Phase-I route \"Saddar to Bhatta Chowk\". Relationship with RWP-EB-01 unclear. Provisional id."
+    },
+    {
+      "id": "RWP-EB-02",
+      "name": "Fawara Chowk - Koral Chowk (via Liaquat Bagh, Old Airport Road)",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2025-11-19",
+      "length_km": 11.3,
+      "headway_min": null,
+      "hours": {
+        "start": "05:40",
+        "end": "23:20"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Rwp Fawara Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Gawalmandi",
+          "name_ur": "",
+          "lat": 33.609274,
+          "lon": 73.059668,
+          "coord_source": "auto:osm:node/243530828",
+          "is_station": false
+        },
+        {
+          "name": "Liaqat Bagh Station",
+          "name_ur": "",
+          "lat": 33.605941,
+          "lon": 73.065774,
+          "coord_source": "osm:node/10827084437",
+          "is_station": false
+        },
+        {
+          "name": "Marrir Chowk Metrobus",
+          "name_ur": "",
+          "lat": 33.599724,
+          "lon": 73.062795,
+          "coord_source": "osm:node/9160047665",
+          "is_station": false
+        },
+        {
+          "name": "Marrir Hassan Stop",
+          "name_ur": "",
+          "lat": 33.596281,
+          "lon": 73.064023,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Punjab House",
+          "name_ur": "",
+          "lat": 33.592838,
+          "lon": 73.065252,
+          "coord_source": "osm:node/4700591160",
+          "is_station": false
+        },
+        {
+          "name": "Katchery Stop",
+          "name_ur": "",
+          "lat": 33.592453,
+          "lon": 73.068994,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jinah Park",
+          "name_ur": "",
+          "lat": 33.592068,
+          "lon": 73.072735,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jhanda Chichi",
+          "name_ur": "",
+          "lat": 33.591684,
+          "lon": 73.076477,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ammar Chowk",
+          "name_ur": "",
+          "lat": 33.591299,
+          "lon": 73.080219,
+          "coord_source": "auto:osm:way/1015406256",
+          "is_station": false
+        },
+        {
+          "name": "Rahimabad",
+          "name_ur": "",
+          "lat": 33.595772,
+          "lon": 73.084851,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Umar Baig Chowk",
+          "name_ur": "",
+          "lat": 33.600246,
+          "lon": 73.089482,
+          "coord_source": "auto:osm:node/1135079614",
+          "is_station": false
+        },
+        {
+          "name": "Chaklala Stop",
+          "name_ur": "",
+          "lat": 33.600917,
+          "lon": 73.096446,
+          "coord_source": "auto:osm:node/248036851",
+          "is_station": false
+        },
+        {
+          "name": "NASTP",
+          "name_ur": "",
+          "lat": 33.606898,
+          "lon": 73.100313,
+          "coord_source": "auto:osm:way/587470335",
+          "is_station": false
+        },
+        {
+          "name": "Old Airport",
+          "name_ur": "",
+          "lat": 33.604748,
+          "lon": 73.107319,
+          "coord_source": "auto:osm:way/539375383",
+          "is_station": false
+        },
+        {
+          "name": "Shah Khalid Colony",
+          "name_ur": "",
+          "lat": 33.604483,
+          "lon": 73.113875,
+          "coord_source": "auto:osm:node/2642087228",
+          "is_station": false
+        },
+        {
+          "name": "MAZEN School Quaid Campus",
+          "name_ur": "",
+          "lat": 33.601698,
+          "lon": 73.121958,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gulzar e Quaid",
+          "name_ur": "",
+          "lat": 33.598912,
+          "lon": 73.130041,
+          "coord_source": "auto:osm:node/458337738",
+          "is_station": false
+        },
+        {
+          "name": "Koral Chowk",
+          "name_ur": "",
+          "lat": 33.605619,
+          "lon": 73.131182,
+          "coord_source": "auto:osm:node/4331753492",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar route page",
+          "url": "https://www.safar.fyi/islamabad/transit-lines/rwp%3A92"
+        },
+        {
+          "title": "Electric bus service with 45 vehicles launched in Rawalpindi",
+          "url": "https://www.dawn.com/news/1956136/electric-bus-service-with-45-vehicles-launched-in-rawalpindi"
+        },
+        {
+          "title": "Rawalpindi set for Phase-II electric bus rollout",
+          "url": "https://www.dawn.com/news/2000782/rawalpindi-set-for-phase-ii-electric-bus-rollout"
+        }
+      ],
+      "notes": "Phase-I (11.3 km, 8 buses) launched 19 Nov 2025. Safar: 19 stops, 05:40-23:20. Dawn (2026) notes diversion via Tipu Road. Provisional id."
+    },
+    {
+      "id": "RWP-EB-03",
+      "name": "Saddar Metro Station - Munawar Colony (via Tulsa Road)",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2025-11-19",
+      "length_km": null,
+      "headway_min": null,
+      "hours": {
+        "start": "05:55",
+        "end": "22:35"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Saddar Metro Station",
+          "name_ur": "",
+          "lat": 33.594161,
+          "lon": 73.056508,
+          "coord_source": "osm:node/9160047641",
+          "is_station": false
+        },
+        {
+          "name": "CSD",
+          "name_ur": "",
+          "lat": 33.585518,
+          "lon": 73.055201,
+          "coord_source": "auto:osm:way/230580807",
+          "is_station": false
+        },
+        {
+          "name": "CMH Gate No 2",
+          "name_ur": "",
+          "lat": 33.5796,
+          "lon": 73.054721,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dheri Hasanabad-1",
+          "name_ur": "",
+          "lat": 33.573681,
+          "lon": 73.05424,
+          "coord_source": "auto:osm:node/7805801622",
+          "is_station": false
+        },
+        {
+          "name": "Dheri Hasanabad-2",
+          "name_ur": "",
+          "lat": 33.571381,
+          "lon": 73.057579,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mahfooz Shaheed Park",
+          "name_ur": "",
+          "lat": 33.56908,
+          "lon": 73.060919,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Zia Ul Haq Park",
+          "name_ur": "",
+          "lat": 33.56678,
+          "lon": 73.064258,
+          "coord_source": "auto:osm:way/229671501",
+          "is_station": false
+        },
+        {
+          "name": "Askari VII",
+          "name_ur": "",
+          "lat": 33.562994,
+          "lon": 73.061718,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Khawja Corporation",
+          "name_ur": "",
+          "lat": 33.559208,
+          "lon": 73.059178,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dharma Syedan",
+          "name_ur": "",
+          "lat": 33.555422,
+          "lon": 73.056638,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ali Town",
+          "name_ur": "",
+          "lat": 33.551636,
+          "lon": 73.054098,
+          "coord_source": "auto:osm:way/687969409",
+          "is_station": false
+        },
+        {
+          "name": "Munawar Colony",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar route page",
+          "url": "https://www.safar.fyi/islamabad/transit-lines/rwp%3A93"
+        },
+        {
+          "title": "Electric bus service with 45 vehicles launched in Rawalpindi",
+          "url": "https://www.dawn.com/news/1956136/electric-bus-service-with-45-vehicles-launched-in-rawalpindi"
+        }
+      ],
+      "notes": "Phase-I (7 buses) launched 19 Nov 2025. Safar: 12 stops, 05:55-22:35. Provisional id."
+    },
+    {
+      "id": "RWP-EB-04",
+      "name": "Marrir Metro Station - Motorway Chowk 26 Number (via The Mall, Pirwadhai)",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2025-11-19",
+      "length_km": 13.1,
+      "headway_min": null,
+      "hours": {
+        "start": "05:40",
+        "end": "23:05"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Marrir Metrobus Station",
+          "name_ur": "",
+          "lat": 33.599724,
+          "lon": 73.062795,
+          "coord_source": "osm:node/9160047665",
+          "is_station": false
+        },
+        {
+          "name": "Kamran Market",
+          "name_ur": "",
+          "lat": 33.620237,
+          "lon": 73.069145,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "GPO Stop, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.640749,
+          "lon": 73.075496,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "MH",
+          "name_ur": "",
+          "lat": 33.661262,
+          "lon": 73.081846,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Roomi Park",
+          "name_ur": "",
+          "lat": 33.681775,
+          "lon": 73.088197,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Qasim Market",
+          "name_ur": "",
+          "lat": 33.702287,
+          "lon": 73.094548,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Radio Pakistan",
+          "name_ur": "",
+          "lat": 33.7228,
+          "lon": 73.100898,
+          "coord_source": "osm:node/12731754757",
+          "is_station": false
+        },
+        {
+          "name": "Lane No 4",
+          "name_ur": "",
+          "lat": 33.715312,
+          "lon": 73.088223,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chairing Cross",
+          "name_ur": "",
+          "lat": 33.707824,
+          "lon": 73.075548,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chur Chowk",
+          "name_ur": "",
+          "lat": 33.700335,
+          "lon": 73.062874,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chur Harpal",
+          "name_ur": "",
+          "lat": 33.692847,
+          "lon": 73.050199,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Model Bazar",
+          "name_ur": "",
+          "lat": 33.685359,
+          "lon": 73.037524,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kainat Bus Terminal",
+          "name_ur": "",
+          "lat": 33.677871,
+          "lon": 73.024849,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pir Wadahi Mor",
+          "name_ur": "",
+          "lat": 33.670383,
+          "lon": 73.012174,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kohinoor Bus Terminal",
+          "name_ur": "",
+          "lat": 33.662895,
+          "lon": 72.999499,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kohinoor Mills",
+          "name_ur": "",
+          "lat": 33.655406,
+          "lon": 72.986825,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chistianabad",
+          "name_ur": "",
+          "lat": 33.647918,
+          "lon": 72.97415,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Golra Mor",
+          "name_ur": "",
+          "lat": 33.64043,
+          "lon": 72.961475,
+          "coord_source": "auto:same-name:osm:node/9182623635",
+          "is_station": false
+        },
+        {
+          "name": "Daewoo Bus Terminal",
+          "name_ur": "",
+          "lat": 33.622178,
+          "lon": 72.954202,
+          "coord_source": "auto:osm:node/9534110219",
+          "is_station": false
+        },
+        {
+          "name": "Jhangi Syedan",
+          "name_ur": "",
+          "lat": 33.623832,
+          "lon": 72.951469,
+          "coord_source": "auto:osm:node/5211585722",
+          "is_station": false
+        },
+        {
+          "name": "Motorway Bus Terminal",
+          "name_ur": "",
+          "lat": 33.629021,
+          "lon": 72.943672,
+          "coord_source": "auto:osm:node/2502440920",
+          "is_station": false
+        },
+        {
+          "name": "Motorway Chowk (26 No)",
+          "name_ur": "",
+          "lat": 33.629021,
+          "lon": 72.943672,
+          "coord_source": "auto:osm:node/2502440920",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar route page",
+          "url": "https://www.safar.fyi/islamabad/transit-lines/rwp%3A94"
+        },
+        {
+          "title": "Electric bus service with 45 vehicles launched in Rawalpindi",
+          "url": "https://www.dawn.com/news/1956136/electric-bus-service-with-45-vehicles-launched-in-rawalpindi"
+        }
+      ],
+      "notes": "Phase-I (13.1 km, 14 buses) launched 19 Nov 2025. Safar: 22 stops, 05:40-23:05. Provisional id."
+    },
+    {
+      "id": "RWP-EB-05",
+      "name": "Rawalpindi Railway Station - Hamrahi Bus Stop (Adiala Road, LHC Bench)",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Rawalpindi Railway Station",
+          "name_ur": "",
+          "lat": 33.603754,
+          "lon": 73.048295,
+          "coord_source": "auto:osm:way/810454622",
+          "is_station": false
+        },
+        {
+          "name": "Station Mor",
+          "name_ur": "",
+          "lat": 33.599227,
+          "lon": 73.049801,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "GPO Chowk, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.594701,
+          "lon": 73.051307,
+          "coord_source": "auto:osm:way/23637309",
+          "is_station": false
+        },
+        {
+          "name": "Saddar Stop",
+          "name_ur": "",
+          "lat": 33.594161,
+          "lon": 73.056508,
+          "coord_source": "auto:same-name:osm:node/9160047641",
+          "is_station": false
+        },
+        {
+          "name": "Sarwar Park",
+          "name_ur": "",
+          "lat": 33.589582,
+          "lon": 73.05878,
+          "coord_source": "auto:osm:way/23013514",
+          "is_station": false
+        },
+        {
+          "name": "Adiala Park",
+          "name_ur": "",
+          "lat": 33.583229,
+          "lon": 73.065148,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Katchery",
+          "name_ur": "",
+          "lat": 33.576877,
+          "lon": 73.071517,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Golf Club",
+          "name_ur": "",
+          "lat": 33.570524,
+          "lon": 73.077885,
+          "coord_source": "auto:osm:node/1420471040",
+          "is_station": false
+        },
+        {
+          "name": "Ayub National Park",
+          "name_ur": "",
+          "lat": 33.56826,
+          "lon": 73.082673,
+          "coord_source": "auto:osm:way/995898090",
+          "is_station": false
+        },
+        {
+          "name": "Sports Complex",
+          "name_ur": "",
+          "lat": 33.561431,
+          "lon": 73.086011,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Morgah Stop",
+          "name_ur": "",
+          "lat": 33.554601,
+          "lon": 73.089348,
+          "coord_source": "auto:osm:node/2442157547",
+          "is_station": false
+        },
+        {
+          "name": "Al Shifa Trust Eye Hospital",
+          "name_ur": "",
+          "lat": 33.560011,
+          "lon": 73.091935,
+          "coord_source": "auto:osm:way/995895934",
+          "is_station": false
+        },
+        {
+          "name": "Fouji Foundation Hospital",
+          "name_ur": "",
+          "lat": 33.557617,
+          "lon": 73.095973,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "High Court",
+          "name_ur": "",
+          "lat": 33.555223,
+          "lon": 73.100011,
+          "coord_source": "auto:osm:way/73533856",
+          "is_station": false
+        },
+        {
+          "name": "Hamrahi Bus Stop",
+          "name_ur": "",
+          "lat": 33.548751,
+          "lon": 73.102294,
+          "coord_source": "auto:osm:node/13954953089",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Safar route page",
+          "url": "https://www.safar.fyi/islamabad/transit-lines/rwp%3A91"
+        },
+        {
+          "title": "Electric bus service to launch next week on 10 routes in Rawalpindi",
+          "url": "https://www.dawn.com/news/1955110"
+        },
+        {
+          "title": "Rawalpindi set for Phase-II electric bus rollout",
+          "url": "https://www.dawn.com/news/2000782/rawalpindi-set-for-phase-ii-electric-bus-rollout"
+        }
+      ],
+      "notes": "Announced Nov 2025 (\"Railway Station to LHC Rawalpindi Bench\"); Dawn/ProPakistani May 2026 said Saddar - Hamrahi route to follow. Listed on Safar (15 stops) with no valid timings. Launch date unverified. Provisional id."
+    }
+  ]
+}

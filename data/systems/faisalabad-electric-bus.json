@@ -1,0 +1,496 @@
+{
+  "id": "faisalabad-electric-bus",
+  "city": "faisalabad",
+  "name": "Green Electric Bus Faisalabad",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "CM Punjab launches electric bus service in Faisalabad",
+      "url": "https://www.radio.gov.pk/29-09-2025/cm-punjab-launches-electric-bus-service-in-faisalabad",
+      "publisher": "Radio Pakistan",
+      "date": "2025-09-29",
+      "official": true
+    },
+    {
+      "title": "Faisalabad to get 30 e-buses for seven routes",
+      "url": "https://www.dawn.com/news/1943811",
+      "publisher": "Dawn",
+      "date": "2025-09-22",
+      "official": false
+    },
+    {
+      "title": "Free Electric Bus Service Launched In Faisalabad",
+      "url": "https://www.urdupoint.com/en/pakistan/free-electric-bus-service-launched-in-faisala-2165567.html",
+      "publisher": "UrduPoint",
+      "date": null,
+      "official": false
+    },
+    {
+      "title": "Punjab Expands Electric Bus Service to Tehsil Level",
+      "url": "https://propakistani.pk/2026/09/09/punjab-expands-electric-bus-service-to-tehsil-level/",
+      "publisher": "ProPakistani",
+      "date": "2026-09-09",
+      "official": false
+    },
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Faisalabad Green Electric Bus routes",
+      "url": "https://www.safar.fyi/faisalabad/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "kamal-pur-to-roshan-wala-bypass",
+      "name": "Kamal Pur to Roshan Wala Bypass",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2025-09-29",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Kamal Pur Interhchange",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Faisalabad Metro Stop",
+          "name_ur": "",
+          "lat": 31.51613,
+          "lon": 73.064578,
+          "coord_source": "auto:osm:node/9615103515",
+          "is_station": false
+        },
+        {
+          "name": "Samana",
+          "name_ur": "",
+          "lat": 31.505209,
+          "lon": 73.067974,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Madina University",
+          "name_ur": "",
+          "lat": 31.494287,
+          "lon": 73.07137,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bawa Chowk Saim Nala",
+          "name_ur": "",
+          "lat": 31.483366,
+          "lon": 73.074765,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Yousaf Chowk",
+          "name_ur": "",
+          "lat": 31.472444,
+          "lon": 73.078161,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lasani Pulli",
+          "name_ur": "",
+          "lat": 31.461523,
+          "lon": 73.081557,
+          "coord_source": "auto:osm:node/4621623189",
+          "is_station": false
+        },
+        {
+          "name": "Allied Morr",
+          "name_ur": "",
+          "lat": 31.451188,
+          "lon": 73.079445,
+          "coord_source": "auto:osm:way/822625628",
+          "is_station": false
+        },
+        {
+          "name": "Boly De Jhugi",
+          "name_ur": "",
+          "lat": 31.443546,
+          "lon": 73.081107,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jamia Chistia Chowk",
+          "name_ur": "",
+          "lat": 31.435903,
+          "lon": 73.082769,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Faisalabad GBS",
+          "name_ur": "",
+          "lat": 31.428261,
+          "lon": 73.084431,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Katchary Chowk",
+          "name_ur": "",
+          "lat": 31.420619,
+          "lon": 73.086093,
+          "coord_source": "auto:osm:way/231093139",
+          "is_station": false
+        },
+        {
+          "name": "Gumti Chowk",
+          "name_ur": "",
+          "lat": 31.419018,
+          "lon": 73.084394,
+          "coord_source": "auto:osm:way/243417492",
+          "is_station": false
+        },
+        {
+          "name": "Jhang Bazar",
+          "name_ur": "",
+          "lat": 31.417427,
+          "lon": 73.077796,
+          "coord_source": "auto:osm:way/23413731",
+          "is_station": false
+        },
+        {
+          "name": "Thotian Wala Khu",
+          "name_ur": "",
+          "lat": 31.409797,
+          "lon": 73.077606,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Faisalabad Central Jail",
+          "name_ur": "",
+          "lat": 31.402166,
+          "lon": 73.077417,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Al Aziz",
+          "name_ur": "",
+          "lat": 31.394536,
+          "lon": 73.077227,
+          "coord_source": "auto:osm:node/5255873673",
+          "is_station": false
+        },
+        {
+          "name": "Mandi Quarter",
+          "name_ur": "",
+          "lat": 31.38924,
+          "lon": 73.075144,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "D-type",
+          "name_ur": "",
+          "lat": 31.383944,
+          "lon": 73.073062,
+          "coord_source": "auto:osm:node/4130581113",
+          "is_station": false
+        },
+        {
+          "name": "Korian Wala Pull",
+          "name_ur": "",
+          "lat": 31.375901,
+          "lon": 73.073234,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Abdullah Pull",
+          "name_ur": "",
+          "lat": 31.367858,
+          "lon": 73.073407,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bijli Ghar",
+          "name_ur": "",
+          "lat": 31.359815,
+          "lon": 73.073579,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chenab Garden",
+          "name_ur": "",
+          "lat": 31.351772,
+          "lon": 73.073752,
+          "coord_source": "auto:osm:way/73298152",
+          "is_station": false
+        },
+        {
+          "name": "Rafhan Mill",
+          "name_ur": "",
+          "lat": 31.349024,
+          "lon": 73.071489,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sehgal City",
+          "name_ur": "",
+          "lat": 31.346276,
+          "lon": 73.069225,
+          "coord_source": "auto:osm:node/5273204239",
+          "is_station": false
+        },
+        {
+          "name": "Workshop Stop",
+          "name_ur": "",
+          "lat": 31.333448,
+          "lon": 73.061071,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Roshan Wala Bypass",
+          "name_ur": "",
+          "lat": 31.320621,
+          "lon": 73.052918,
+          "coord_source": "auto:osm:node/5380535724",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Faisalabad route",
+          "url": "https://www.safar.fyi/faisalabad/transit-lines/fsd%3A130"
+        }
+      ],
+      "notes": "Radio Pakistan/Dawn: 30 buses on seven routes, depots Ghulam Muhammad Abad, Sargodha Road, Gutwala Road; only 2 routes (Kamalpur-Roshanwala Bypass, UAF-Sidhar Bypass) are named by UrduPoint and safar.fyi; the other ~5 routes are unverified. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Kamal Pur Interhchange to Roshan Wala Bypass', 28 stops); safar lists service 6:00 AM - 10:00 PM (unverified)."
+    },
+    {
+      "id": "uaf-to-sadhaar-bypass",
+      "name": "UAF to Sadhaar Bypass",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2025-09-29",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "UAF",
+          "name_ur": "",
+          "lat": 31.434021,
+          "lon": 73.067196,
+          "coord_source": "auto:osm:way/822631626",
+          "is_station": false
+        },
+        {
+          "name": "Chinoti Bazar",
+          "name_ur": "",
+          "lat": 31.427149,
+          "lon": 73.067348,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ghumti Chowk",
+          "name_ur": "",
+          "lat": 31.420278,
+          "lon": 73.067501,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chenab Chowk",
+          "name_ur": "",
+          "lat": 31.413406,
+          "lon": 73.067653,
+          "coord_source": "auto:osm:node/6711730387",
+          "is_station": false
+        },
+        {
+          "name": "Lakar Mandi",
+          "name_ur": "",
+          "lat": 31.409869,
+          "lon": 73.054985,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Motor Market",
+          "name_ur": "",
+          "lat": 31.406333,
+          "lon": 73.042317,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gulfishan Colony",
+          "name_ur": "",
+          "lat": 31.402796,
+          "lon": 73.029649,
+          "coord_source": "auto:osm:way/287656450",
+          "is_station": false
+        },
+        {
+          "name": "Shadab Colony",
+          "name_ur": "",
+          "lat": 31.401419,
+          "lon": 73.014971,
+          "coord_source": "auto:osm:way/287656445",
+          "is_station": false
+        },
+        {
+          "name": "Saifabad",
+          "name_ur": "",
+          "lat": 31.397055,
+          "lon": 73.012682,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bhatta Stop",
+          "name_ur": "",
+          "lat": 31.39269,
+          "lon": 73.010393,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Truck Stand",
+          "name_ur": "",
+          "lat": 31.388326,
+          "lon": 73.008104,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Children Stop",
+          "name_ur": "",
+          "lat": 31.383961,
+          "lon": 73.005814,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Baowala",
+          "name_ur": "",
+          "lat": 31.379597,
+          "lon": 73.003525,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Air Avenue City",
+          "name_ur": "",
+          "lat": 31.375233,
+          "lon": 73.001236,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Agri Campus",
+          "name_ur": "",
+          "lat": 31.370868,
+          "lon": 72.998947,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Faisalabad Airport",
+          "name_ur": "",
+          "lat": 31.366504,
+          "lon": 72.996658,
+          "coord_source": "auto:osm:way/1500718240",
+          "is_station": false
+        },
+        {
+          "name": "7 Meal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Faisalabad Sabaz Mandi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sadhaar City",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sidhar Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Faisalabad route",
+          "url": "https://www.safar.fyi/faisalabad/transit-lines/fsd%3A131"
+        }
+      ],
+      "notes": "Radio Pakistan/Dawn: 30 buses on seven routes, depots Ghulam Muhammad Abad, Sargodha Road, Gutwala Road; only 2 routes (Kamalpur-Roshanwala Bypass, UAF-Sidhar Bypass) are named by UrduPoint and safar.fyi; the other ~5 routes are unverified. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'UAF to Sidhar Bypass', 21 stops); safar lists service 6:00 AM - 10:12 PM (unverified)."
+    }
+  ]
+}

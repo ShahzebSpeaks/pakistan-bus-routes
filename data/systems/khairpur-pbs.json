@@ -1,0 +1,228 @@
+{
+  "id": "khairpur-pbs",
+  "city": "khairpur",
+  "name": "Peoples Bus Service Khairpur",
+  "name_ur": "پیپلز بس سروس",
+  "operator": "Sindh Mass Transit Authority (Transport & Mass Transit Dept, Govt of Sindh)",
+  "mode": "bus",
+  "website": "https://smta.gos.pk",
+  "helpline": "0800-07682",
+  "payment": "cash (ticket on board); card/app not confirmed for this city",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "Not published for non-Karachi routes. Launch-era reports cite PKR 50-100; Sukkur-Shikarpur (2026) passengers pay 50% of fare with Sindh govt subsidising the rest.",
+    "as_of": null,
+    "source_url": "https://en.wikipedia.org/wiki/Peoples_Bus_Service"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "Not published; PBS launched in 2022 with 08:00-20:00 operation (Wikipedia). "
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "SMTA Route Map & Provincial Route Directory",
+      "url": "https://smta.gos.pk/route-map",
+      "publisher": "Sindh Mass Transit Authority",
+      "date": "2026",
+      "official": true
+    },
+    {
+      "title": "Peoples Bus Service",
+      "url": "https://en.wikipedia.org/wiki/Peoples_Bus_Service",
+      "publisher": "Wikipedia",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "KHAIRPUR-01",
+      "name": "Khairpur Bus Terminal - Ranipur",
+      "name_ur": "",
+      "variant": "red",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-05-13",
+      "length_km": 45,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Khairpur Bus Terminal",
+          "name_ur": "",
+          "lat": 27.520373,
+          "lon": 68.738499,
+          "coord_source": "auto:osm:node/13299615860",
+          "is_station": false
+        },
+        {
+          "name": "Bhurgari",
+          "name_ur": "",
+          "lat": 27.516549,
+          "lon": 68.76494,
+          "coord_source": "auto:osm:node/10609226256",
+          "is_station": false
+        },
+        {
+          "name": "Jani Buriro",
+          "name_ur": "",
+          "lat": 27.438605,
+          "lon": 68.767879,
+          "coord_source": "auto:osm:node/10067989555",
+          "is_station": false
+        },
+        {
+          "name": "Mitri",
+          "name_ur": "",
+          "lat": 27.41458,
+          "lon": 68.754375,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Deh Sohu",
+          "name_ur": "",
+          "lat": 27.390554,
+          "lon": 68.740872,
+          "coord_source": "auto:osm:node/10067989675",
+          "is_station": false
+        },
+        {
+          "name": "Kot Diji",
+          "name_ur": "",
+          "lat": 27.38936,
+          "lon": 68.684904,
+          "coord_source": "auto:nominatim:way/310320664",
+          "is_station": false
+        },
+        {
+          "name": "Jiskani",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Arab Solangi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kumb",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jando Maskakh",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ranipur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Khairpur 01",
+          "url": "https://smta.gos.pk/routes/29"
+        }
+      ],
+      "notes": "Official SMTA list. Wikipedia numbers this as route 2 (and Rohri as route 1); SMTA numbering used. Launch date from Wikipedia."
+    },
+    {
+      "id": "KHAIRPUR-02",
+      "name": "Khairpur Bus Terminal - Rohri",
+      "name_ur": "",
+      "variant": "red",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-05-13",
+      "length_km": 22,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Khairpur Bus Terminal",
+          "name_ur": "",
+          "lat": 27.520373,
+          "lon": 68.738499,
+          "coord_source": "auto:osm:node/13299615860",
+          "is_station": false
+        },
+        {
+          "name": "Bhurgari",
+          "name_ur": "",
+          "lat": 27.516549,
+          "lon": 68.76494,
+          "coord_source": "auto:osm:node/10609226256",
+          "is_station": false
+        },
+        {
+          "name": "Therhi",
+          "name_ur": "",
+          "lat": 27.597047,
+          "lon": 68.784152,
+          "coord_source": "auto:nominatim:node/5255632049",
+          "is_station": false
+        },
+        {
+          "name": "Babarloi",
+          "name_ur": "",
+          "lat": 27.649201,
+          "lon": 68.835919,
+          "coord_source": "auto:osm:node/9991962353",
+          "is_station": false
+        },
+        {
+          "name": "Daewoo Bus Terminal",
+          "name_ur": "",
+          "lat": 27.657701,
+          "lon": 68.848863,
+          "coord_source": "auto:osm:node/3998250369",
+          "is_station": false
+        },
+        {
+          "name": "Rohri Sukkur Bus Terminal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Khairpur 02",
+          "url": "https://smta.gos.pk/routes/30"
+        }
+      ],
+      "notes": "Official SMTA list. Wikipedia describes it as New Bus Terminal Khairpur - Rohri Railway Station via Sukkur Barrage, Globe Chowk, Lab-e-Mehran."
+    }
+  ]
+}

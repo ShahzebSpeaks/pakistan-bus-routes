@@ -1,0 +1,459 @@
+{
+  "id": "gujar-khan-electric-bus",
+  "city": "gujar-khan",
+  "name": "Green Electric Bus Gujar Khan",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Punjab expands electric bus service into ten new cities",
+      "url": "https://minutemirror.com.pk/punjab-expands-electric-bus-service-into-ten-new-cities-463865/",
+      "publisher": "Minute Mirror",
+      "date": "2025-11-18",
+      "official": false
+    },
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Gujar Khan Green Electric Bus routes",
+      "url": "https://www.safar.fyi/gujar-khan/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "gujar-khan-to-sohawa",
+      "name": "Gujar Khan to Sohawa",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Gujar Khan Adda",
+          "name_ur": "",
+          "lat": 33.25588,
+          "lon": 73.30467,
+          "coord_source": "auto:osm:node/2627585964",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah Hotel Gujar Khan",
+          "name_ur": "",
+          "lat": 33.246527,
+          "lon": 73.312292,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Guliyana Morr",
+          "name_ur": "",
+          "lat": 33.237175,
+          "lon": 73.319913,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Educators School",
+          "name_ur": "",
+          "lat": 33.227823,
+          "lon": 73.327534,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Punjab College Gujar Khan",
+          "name_ur": "",
+          "lat": 33.21847,
+          "lon": 73.335156,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Baba Jani Darbar",
+          "name_ur": "",
+          "lat": 33.209117,
+          "lon": 73.342777,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gujjar Khan Metro City",
+          "name_ur": "",
+          "lat": 33.199765,
+          "lon": 73.350399,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dhoke Sammey",
+          "name_ur": "",
+          "lat": 33.190413,
+          "lon": 73.358021,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Iqamat Stop Dhoke Rajgaan",
+          "name_ur": "",
+          "lat": 33.18106,
+          "lon": 73.365642,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Missa Kiswal",
+          "name_ur": "",
+          "lat": 33.171707,
+          "lon": 73.373264,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gujar Khan Caddet College",
+          "name_ur": "",
+          "lat": 33.162355,
+          "lon": 73.380885,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pind Mattey Khan",
+          "name_ur": "",
+          "lat": 33.153002,
+          "lon": 73.388507,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chakwal Morr",
+          "name_ur": "",
+          "lat": 33.14365,
+          "lon": 73.396128,
+          "coord_source": "auto:osm:way/202441055",
+          "is_station": false
+        },
+        {
+          "name": "Dhok Alif",
+          "name_ur": "",
+          "lat": 33.143735,
+          "lon": 73.398253,
+          "coord_source": "auto:osm:node/2790419826",
+          "is_station": false
+        },
+        {
+          "name": "Honest School",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sohawa City",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Gujar Khan route",
+          "url": "https://www.safar.fyi/gujar-khan/transit-lines/gjk%3A264"
+        }
+      ],
+      "notes": "Tehsil of Rawalpindi district; part of ten-city phase (Nov 2025). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Gujar Khan Adda to Sohawa City', 17 stops); safar lists service 6:00 AM - 10:00 PM (unverified)."
+    },
+    {
+      "id": "gujjar-khan-to-t-chowk",
+      "name": "Gujjar Khan to T Chowk",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Gujar Khan Adda",
+          "name_ur": "",
+          "lat": 33.25588,
+          "lon": 73.30467,
+          "coord_source": "auto:osm:node/2627585964",
+          "is_station": false
+        },
+        {
+          "name": "Al-Hijrah High School",
+          "name_ur": "",
+          "lat": 33.265205,
+          "lon": 73.298084,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sarwar Shaheed College Stop",
+          "name_ur": "",
+          "lat": 33.27453,
+          "lon": 73.291497,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Best College Gujjar Khan",
+          "name_ur": "",
+          "lat": 33.283855,
+          "lon": 73.284911,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Concordia College",
+          "name_ur": "",
+          "lat": 33.293179,
+          "lon": 73.278325,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ghungreela Railway Station",
+          "name_ur": "",
+          "lat": 33.302504,
+          "lon": 73.271739,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bawali Morr Dera Khalsa",
+          "name_ur": "",
+          "lat": 33.311829,
+          "lon": 73.265152,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chehari Stop",
+          "name_ur": "",
+          "lat": 33.321154,
+          "lon": 73.258566,
+          "coord_source": "auto:osm:node/2622430344",
+          "is_station": false
+        },
+        {
+          "name": "Gulparah",
+          "name_ur": "",
+          "lat": 33.333271,
+          "lon": 73.253195,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Buchaa",
+          "name_ur": "",
+          "lat": 33.345387,
+          "lon": 73.247823,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chakwal-Mandra Morr",
+          "name_ur": "",
+          "lat": 33.357504,
+          "lon": 73.242452,
+          "coord_source": "auto:osm:way/333837511",
+          "is_station": false
+        },
+        {
+          "name": "Mandra Stop",
+          "name_ur": "",
+          "lat": 33.364657,
+          "lon": 73.238034,
+          "coord_source": "auto:osm:node/9581803356",
+          "is_station": false
+        },
+        {
+          "name": "Abdul Rehman Hospital",
+          "name_ur": "",
+          "lat": 33.355591,
+          "lon": 73.243527,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gujar Khan Fauji Foundation School",
+          "name_ur": "",
+          "lat": 33.346526,
+          "lon": 73.24902,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dhoke Maqadam",
+          "name_ur": "",
+          "lat": 33.33746,
+          "lon": 73.254514,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mandra Toll Plaza",
+          "name_ur": "",
+          "lat": 33.328395,
+          "lon": 73.260007,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sarwar Shaheed Road",
+          "name_ur": "",
+          "lat": 33.319329,
+          "lon": 73.2655,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Banth - Rawat City",
+          "name_ur": "",
+          "lat": 33.310264,
+          "lon": 73.270993,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Machine Stop",
+          "name_ur": "",
+          "lat": 33.301198,
+          "lon": 73.276486,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Police Station Rawat, Channi Morr",
+          "name_ur": "",
+          "lat": 33.292132,
+          "lon": 73.281979,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mankiala Road stop",
+          "name_ur": "",
+          "lat": 33.283067,
+          "lon": 73.287472,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Police Complex",
+          "name_ur": "",
+          "lat": 33.274001,
+          "lon": 73.292966,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dhoke Shoukat Saffron City",
+          "name_ur": "",
+          "lat": 33.264936,
+          "lon": 73.298459,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Police Training School Gujar Khan",
+          "name_ur": "",
+          "lat": 33.25587,
+          "lon": 73.303952,
+          "coord_source": "auto:osm:way/258519479",
+          "is_station": false
+        },
+        {
+          "name": "Gujar Khan DHA Phase 3",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Rawat Bus Stand",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "DHA Gate 5 - NADRA Office",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "WATIM Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "T.Chowk CDA Bus Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Gujar Khan route",
+          "url": "https://www.safar.fyi/gujar-khan/transit-lines/gjk%3A268"
+        }
+      ],
+      "notes": "Tehsil of Rawalpindi district; part of ten-city phase (Nov 2025). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Gujar Khan Adda to T.Chowk CDA Bus Stop', 29 stops); safar lists service 6:00 AM - 9:20 PM (unverified)."
+    }
+  ]
+}

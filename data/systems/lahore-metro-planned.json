@@ -1,0 +1,83 @@
+{
+  "id": "lahore-metro-planned",
+  "city": "lahore",
+  "name": "Lahore Metro - planned lines",
+  "name_ur": "",
+  "operator": "Punjab Masstransit Authority (proposed)",
+  "mode": "metro_rail",
+  "website": "https://en.wikipedia.org/wiki/Lahore_Metro",
+  "helpline": null,
+  "payment": null,
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "Not operational"
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Lahore Metro",
+      "url": "https://en.wikipedia.org/wiki/Lahore_Metro",
+      "publisher": "Wikipedia",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "BLUE",
+      "name": "Chauburji - Eden Avenue",
+      "name_ur": "",
+      "variant": "metro",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 24,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [],
+      "sources": [
+        {
+          "title": "Wikipedia - Lahore Metro",
+          "url": "https://en.wikipedia.org/wiki/Lahore_Metro"
+        }
+      ],
+      "notes": "Proposed only; no construction or timeline."
+    },
+    {
+      "id": "PURPLE",
+      "name": "Airport rail link",
+      "name_ur": "",
+      "variant": "metro",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 32,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [],
+      "sources": [
+        {
+          "title": "Wikipedia - Lahore Metro",
+          "url": "https://en.wikipedia.org/wiki/Lahore_Metro"
+        }
+      ],
+      "notes": "Proposed only; terminals not published. Wikipedia also lists a proposed Yellow Line (Jinnah Bus Terminal - Harbanspura along Canal Road, 24 km)."
+    }
+  ]
+}

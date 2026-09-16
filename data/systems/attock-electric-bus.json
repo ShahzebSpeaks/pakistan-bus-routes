@@ -1,0 +1,539 @@
+{
+  "id": "attock-electric-bus",
+  "city": "attock",
+  "name": "Green Electric Bus Attock",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Electric bus service starts on 13 new routes",
+      "url": "https://www.thenews.pk/print/1424248-electric-bus-service-starts-on-13-new-routes",
+      "publisher": "The News",
+      "date": "2026-07-06",
+      "official": false
+    },
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Attock Green Electric Bus routes",
+      "url": "https://www.safar.fyi/attock/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "hakeem-abad-to-attock-khurd",
+      "name": "Hakeem Abad to Attock Khurd",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Hakeem Abad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nasir Abad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dhok Fateh",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "College Stop Attock",
+          "name_ur": "",
+          "lat": 33.817547,
+          "lon": 72.367491,
+          "coord_source": "auto:osm:way/331377485",
+          "is_station": false
+        },
+        {
+          "name": "Session Chowk Attock",
+          "name_ur": "",
+          "lat": 33.802129,
+          "lon": 72.365439,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Katchery Chowk Attock",
+          "name_ur": "",
+          "lat": 33.78671,
+          "lon": 72.363388,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "GPO Stop Attock",
+          "name_ur": "",
+          "lat": 33.771292,
+          "lon": 72.361336,
+          "coord_source": "auto:osm:node/4979776322",
+          "is_station": false
+        },
+        {
+          "name": "General Hospital Stop Attock",
+          "name_ur": "",
+          "lat": 33.78447,
+          "lon": 72.356983,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "DPS School Attock 1",
+          "name_ur": "",
+          "lat": 33.797647,
+          "lon": 72.35263,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mahria Town",
+          "name_ur": "",
+          "lat": 33.810825,
+          "lon": 72.348277,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "China Chowk Attock",
+          "name_ur": "",
+          "lat": 33.824003,
+          "lon": 72.343924,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Roomia Stop",
+          "name_ur": "",
+          "lat": 33.83718,
+          "lon": 72.339571,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dhok Alam Sher",
+          "name_ur": "",
+          "lat": 33.850358,
+          "lon": 72.335218,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bank Stop Attock",
+          "name_ur": "",
+          "lat": 33.863535,
+          "lon": 72.330865,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Haji Shah",
+          "name_ur": "",
+          "lat": 33.876713,
+          "lon": 72.326512,
+          "coord_source": "auto:osm:node/875836218",
+          "is_station": false
+        },
+        {
+          "name": "Mansoor Camp",
+          "name_ur": "",
+          "lat": 33.875956,
+          "lon": 72.30512,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mullah Mansoor",
+          "name_ur": "",
+          "lat": 33.875198,
+          "lon": 72.283728,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Malai Tola",
+          "name_ur": "",
+          "lat": 33.874441,
+          "lon": 72.262337,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Attock Khurd",
+          "name_ur": "",
+          "lat": 33.873684,
+          "lon": 72.240945,
+          "coord_source": "auto:osm:node/2432160530",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Attock route",
+          "url": "https://www.safar.fyi/attock/transit-lines/etransit-attock%3A285"
+        }
+      ],
+      "notes": "9 buses; POF Sanjwal-Hazro and Hakimabad-Attock Khurd reported started ~6 Jul 2026 (The News). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Hakeem Abad to Attock Khurd', 29 stops); safar lists service 6:00 AM - 8:05 PM (unverified)."
+    },
+    {
+      "id": "pof-sanjwal-to-hazro",
+      "name": "POF Sanjwal to Hazro",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "POF Sanjwal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Khattak Hotel",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Setha Pull Mirza",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mirza Chowk",
+          "name_ur": "",
+          "lat": 33.769683,
+          "lon": 72.391583,
+          "coord_source": "auto:osm:node/868965635",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No.03 Attock",
+          "name_ur": "",
+          "lat": 33.768669,
+          "lon": 72.382613,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "APS College Stop Attock",
+          "name_ur": "",
+          "lat": 33.767655,
+          "lon": 72.373642,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Naaz Cinema Chowk",
+          "name_ur": "",
+          "lat": 33.766641,
+          "lon": 72.364672,
+          "coord_source": "auto:osm:node/3387433813",
+          "is_station": false
+        },
+        {
+          "name": "Session Chowk Attock",
+          "name_ur": "",
+          "lat": 33.767804,
+          "lon": 72.363838,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Katchery Chowk Attock",
+          "name_ur": "",
+          "lat": 33.768967,
+          "lon": 72.363004,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "GBS Attock",
+          "name_ur": "",
+          "lat": 33.770129,
+          "lon": 72.36217,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "GPO Stop Attock",
+          "name_ur": "",
+          "lat": 33.771292,
+          "lon": 72.361336,
+          "coord_source": "auto:osm:node/4979776322",
+          "is_station": false
+        },
+        {
+          "name": "DHQ Stop Attock",
+          "name_ur": "",
+          "lat": 33.77669,
+          "lon": 72.360257,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "General Hospital Stop Attock",
+          "name_ur": "",
+          "lat": 33.782088,
+          "lon": 72.359177,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Officers Colony Attock",
+          "name_ur": "",
+          "lat": 33.787486,
+          "lon": 72.358098,
+          "coord_source": "auto:osm:way/331627573",
+          "is_station": false
+        },
+        {
+          "name": "People Colony Attock",
+          "name_ur": "",
+          "lat": 33.791614,
+          "lon": 72.355939,
+          "coord_source": "auto:osm:way/331627512",
+          "is_station": false
+        },
+        {
+          "name": "Takbeer Colony Attock",
+          "name_ur": "",
+          "lat": 33.799809,
+          "lon": 72.352321,
+          "coord_source": "auto:osm:node/6104211286",
+          "is_station": false
+        },
+        {
+          "name": "NADRA Office Attock",
+          "name_ur": "",
+          "lat": 33.768036,
+          "lon": 72.36425,
+          "coord_source": "auto:nominatim:way/1255272072",
+          "is_station": false
+        },
+        {
+          "name": "3 Mila Chowk",
+          "name_ur": "",
+          "lat": 33.79005,
+          "lon": 72.371722,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "DPS School Attock 1",
+          "name_ur": "",
+          "lat": 33.812063,
+          "lon": 72.379193,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "DPS School Attock 2",
+          "name_ur": "",
+          "lat": 33.834077,
+          "lon": 72.386664,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kamra Chowk",
+          "name_ur": "",
+          "lat": 33.85609,
+          "lon": 72.394136,
+          "coord_source": "auto:osm:node/90529210",
+          "is_station": false
+        },
+        {
+          "name": "Nawaz Sharif School",
+          "name_ur": "",
+          "lat": 33.857945,
+          "lon": 72.400595,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mahria Enclave Society",
+          "name_ur": "",
+          "lat": 33.859801,
+          "lon": 72.407054,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "ARID University",
+          "name_ur": "",
+          "lat": 33.861656,
+          "lon": 72.413513,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Allah Ho Chowk",
+          "name_ur": "",
+          "lat": 33.863511,
+          "lon": 72.419972,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Air University Attock",
+          "name_ur": "",
+          "lat": 33.865367,
+          "lon": 72.426431,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Camp Bellpur Green Society",
+          "name_ur": "",
+          "lat": 33.867222,
+          "lon": 72.432889,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Baab E Attock",
+          "name_ur": "",
+          "lat": 33.869078,
+          "lon": 72.439348,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hattian Stop",
+          "name_ur": "",
+          "lat": 33.870933,
+          "lon": 72.445807,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Akbar Town",
+          "name_ur": "",
+          "lat": 33.872788,
+          "lon": 72.452266,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Village Saiydan",
+          "name_ur": "",
+          "lat": 33.874644,
+          "lon": 72.458725,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bahadur Khan",
+          "name_ur": "",
+          "lat": 33.876499,
+          "lon": 72.465184,
+          "coord_source": "auto:osm:node/868965664",
+          "is_station": false
+        },
+        {
+          "name": "Chechian Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Musa Pull",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "THQ Hospital Attock",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "GBS Hazro",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Attock route",
+          "url": "https://www.safar.fyi/attock/transit-lines/etransit-attock%3A284"
+        }
+      ],
+      "notes": "9 buses; POF Sanjwal-Hazro and Hakimabad-Attock Khurd reported started ~6 Jul 2026 (The News). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'POF Sanjwal to GBS Hazro', 36 stops); safar lists service 6:00 AM - 9:00 PM (unverified)."
+    }
+  ]
+}

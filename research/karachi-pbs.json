@@ -1,0 +1,4756 @@
+{
+  "assignment": "karachi-pbs",
+  "researched_on": "2026-09-16",
+  "systems": [
+    {
+      "id": "karachi-pbs",
+      "city": "karachi",
+      "name": "Peoples Bus Service",
+      "name_ur": "پیپلز بس سروس",
+      "operator": "Sindh Mass Transit Authority (Transport & Mass Transit Dept, Govt of Sindh); operated by NRTC",
+      "mode": "bus",
+      "website": "https://smta.gos.pk/route-map",
+      "helpline": "0800-07682",
+      "payment": "Cash to on-board conductor; contactless Sindh Mass Transit card (Zindigi/Mastercard open-loop, automated fare collection launched May 2024, initially on Model Colony-Tower and Gulshan-e-Hadeed-Tower, rolled out in phases). Breeze (BRT) card not documented for PBS.",
+      "fare_rules": {
+        "type": "distance_slab",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [
+          {
+            "up_to_km": 15,
+            "fare": 80
+          },
+          {
+            "up_to_km": null,
+            "fare": 120
+          }
+        ],
+        "concessions": "Children under 3 free (rehbar.pk). No student concession confirmed (rehbar.pk says none; INCPak claims student/senior discounts). Before 1 Feb 2025: Rs 50 minimum (up to about Rs 100). The same slab is reported for red, EV and double-decker buses (INCPak; Dawn Dec 2025 for double-decker). No further change found up to Sep 2026.",
+        "as_of": "2025-02-01",
+        "source_url": "https://www.dawn.com/news/1888967"
+      },
+      "hours": {
+        "start": "07:00",
+        "end": "22:00",
+        "notes": "Think Transportation/redbus.shop/rehbar.pk: 07:00-22:00, headway about 15 min in peaks (08-10, 17-20) and 30 min off-peak. INCPak says 07:00-20:00; Wikipedia (2022) 08:00-20:00. Not confirmed by SMTA."
+      },
+      "sources": [
+        {
+          "title": "Karachi Bus Route Map & Full Provincial Route Directory",
+          "url": "https://smta.gos.pk/route-map",
+          "publisher": "Sindh Mass Transit Authority",
+          "date": "2026",
+          "official": true
+        },
+        {
+          "title": "People Bus Service project page",
+          "url": "https://smta.sindh.gov.pk/people-bus-service",
+          "publisher": "Sindh Mass Transit Authority",
+          "date": null,
+          "official": true
+        },
+        {
+          "title": "New Red Bus Karachi (Peoples Bus Service) Route Maps",
+          "url": "https://thinktransportation.net/red-bus-karachi/",
+          "publisher": "Think Transportation",
+          "date": "2025-02-03",
+          "official": false
+        },
+        {
+          "title": "Karachi Red Bus routes",
+          "url": "https://redbus.shop/karachi-red-bus-routes",
+          "publisher": "redbus.shop",
+          "date": "2026-07",
+          "official": false
+        },
+        {
+          "title": "Karachi Peoples Bus Service Routes & Timings",
+          "url": "https://rehbar.pk/info/karachi-peoples-bus-service-routes-and-timings/",
+          "publisher": "Rehbar",
+          "date": null,
+          "official": false
+        },
+        {
+          "title": "Sindh govt raises fare of Peoples Bus Service from today",
+          "url": "https://www.dawn.com/news/1888967",
+          "publisher": "Dawn",
+          "date": "2025-02-01",
+          "official": false
+        },
+        {
+          "title": "Peoples Bus Service announces fare hike starting February 1",
+          "url": "https://tribune.com.pk/story/2524010/govt-increases-fares-for-peoples-bus-service",
+          "publisher": "The Express Tribune",
+          "date": "2025-01",
+          "official": false
+        },
+        {
+          "title": "Automated fare collection system for Peoples Buses launched in Karachi",
+          "url": "https://www.dawn.com/news/1831510",
+          "publisher": "Dawn",
+          "date": "2024-05",
+          "official": false
+        },
+        {
+          "title": "Zindigi, Sindh Govt, Mastercard & People Bus Service launch open loop transit solution",
+          "url": "https://propakistani.pk/2024/05/06/zindigi-sindh-govt-mastercard-people-bus-service-launch-pakistans-first-open-loop-transit-solution/",
+          "publisher": "ProPakistani",
+          "date": "2024-05-06",
+          "official": false
+        },
+        {
+          "title": "New Routes Announced for Peoples Bus Service Karachi",
+          "url": "https://propakistani.pk/2024/07/19/peoples-bus-service-gets-new-routes-in-karachi/",
+          "publisher": "ProPakistani",
+          "date": "2024-07-19",
+          "official": false
+        },
+        {
+          "title": "Double-decker buses introduced in Karachi",
+          "url": "https://www.dawn.com/news/1964276",
+          "publisher": "Dawn",
+          "date": "2025-12-31",
+          "official": false
+        },
+        {
+          "title": "Karachi Expands Double-Decker Bus Route",
+          "url": "https://propakistani.pk/2026/02/16/karachi-expands-double-decker-bus-route/",
+          "publisher": "ProPakistani",
+          "date": "2026-02-16",
+          "official": false
+        },
+        {
+          "title": "New Electric Bus Route Announced in Karachi",
+          "url": "https://propakistani.pk/2026/03/16/new-electric-bus-route-announced-in-karachi/",
+          "publisher": "ProPakistani",
+          "date": "2026-03-16",
+          "official": false
+        },
+        {
+          "title": "Purchase of 500 EV buses for Karachi routes approved: Sharjeel",
+          "url": "https://www.brecorder.com/news/40421844/purchase-of-500-ev-buses-for-karachi-routes-approved-sharjeel",
+          "publisher": "Business Recorder",
+          "date": "2026",
+          "official": false
+        },
+        {
+          "title": "Peoples Bus Service (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Peoples_Bus_Service",
+          "publisher": "Wikipedia",
+          "date": null,
+          "official": false
+        },
+        {
+          "title": "Peoples Bus Service Karachi Routes & Fare [Updated]",
+          "url": "https://www.incpak.com/national/peoples-bus-service-karachi-routes-fare/",
+          "publisher": "INCPak",
+          "date": "2026",
+          "official": false
+        },
+        {
+          "title": "Peoples Bus Service in Karachi: Routes, Fare & More",
+          "url": "https://www.zameen.com/blog/peoples-bus-service-karachi.html",
+          "publisher": "Zameen",
+          "date": "2022-11-01",
+          "official": false
+        }
+      ],
+      "routes": [
+        {
+          "id": "R1",
+          "name": "Khokhrapar - Dockyard",
+          "name_ur": "",
+          "variant": "red",
+          "color": null,
+          "status": "operational",
+          "launched": "2022-06-27",
+          "length_km": 31,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Khokhrapar",
+              "name_ur": "",
+              "lat": 24.903373,
+              "lon": 67.208845,
+              "coord_source": "osm:node/5339035694",
+              "is_station": false
+            },
+            {
+              "name": "Saudabad Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Model Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "RCD Ground",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kalaboard",
+              "name_ur": "",
+              "lat": 24.882327,
+              "lon": 67.182328,
+              "coord_source": "osm:node/4674618397",
+              "is_station": false
+            },
+            {
+              "name": "Malir Halt",
+              "name_ur": "",
+              "lat": 24.884427,
+              "lon": 67.174553,
+              "coord_source": "osm:node/5226556649",
+              "is_station": false
+            },
+            {
+              "name": "Colony Gate",
+              "name_ur": "",
+              "lat": 24.88711,
+              "lon": 67.150142,
+              "coord_source": "osm:node/5123980564",
+              "is_station": false
+            },
+            {
+              "name": "Natha Khan Bridge",
+              "name_ur": "",
+              "lat": 24.887074,
+              "lon": 67.143363,
+              "coord_source": "osm:node/8428207421",
+              "is_station": false
+            },
+            {
+              "name": "Drigh Road Station",
+              "name_ur": "ڈرگ روڈ",
+              "lat": 24.887237,
+              "lon": 67.127541,
+              "coord_source": "osm:node/5893613282",
+              "is_station": false
+            },
+            {
+              "name": "PAF Base Faisal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Karsaz",
+              "name_ur": "",
+              "lat": 24.87616,
+              "lon": 67.10106,
+              "coord_source": "osm:node/4758254637",
+              "is_station": false
+            },
+            {
+              "name": "Lal Kothi",
+              "name_ur": "",
+              "lat": 24.86215,
+              "lon": 67.069064,
+              "coord_source": "osm:node/8428197373",
+              "is_station": false
+            },
+            {
+              "name": "Nursery",
+              "name_ur": "",
+              "lat": 24.860189,
+              "lon": 67.062246,
+              "coord_source": "osm:way/589611546",
+              "is_station": false
+            },
+            {
+              "name": "FTC",
+              "name_ur": "",
+              "lat": 24.858705,
+              "lon": 67.050093,
+              "coord_source": "osm:way/96587948",
+              "is_station": false
+            },
+            {
+              "name": "Regent Plaza",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Metropole",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Fawwara Chowk",
+              "name_ur": "",
+              "lat": 24.853725,
+              "lon": 67.028432,
+              "coord_source": "osm:way/26182912",
+              "is_station": false
+            },
+            {
+              "name": "Arts Council",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Press Club",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shaheen Complex",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "I.I. Chundrigar Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Tower",
+              "name_ur": "",
+              "lat": 24.847935,
+              "lon": 66.99537,
+              "coord_source": "osm:node/5133250067",
+              "is_station": false
+            },
+            {
+              "name": "ICI Flyover",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Fisheries",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dockyard",
+              "name_ur": "",
+              "lat": 24.833299,
+              "lon": 66.971925,
+              "coord_source": "osm:node/5585878046",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "high",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "New Red Bus Karachi (Peoples Bus Service) Route Maps",
+              "url": "https://thinktransportation.net/red-bus-karachi/"
+            },
+            {
+              "title": "Karachi Red Bus routes",
+              "url": "https://redbus.shop/karachi-red-bus-routes"
+            },
+            {
+              "title": "Peoples Bus Service in Karachi: Routes, Fare & More (Zameen, 2022)",
+              "url": "https://www.zameen.com/blog/peoples-bus-service-karachi.html"
+            }
+          ],
+          "notes": "Inaugurated 27 Jun 2022 as Model Colony - Tower; later extended to Khokhrapar and Dockyard. SMTA 2026 directory: 31 km, 'Khokharapar 04 to Dockyard' via Saudabad, Model Colony, Malir Halt ... Metropole Hotel, Press Club, I.I. Chundrigar Road, Tower, ICI Flyover. Think Transportation (Feb 2025, 28 km) instead lists RCD Ground, Kalaboard, Drigh Road, Lal Kothi, Fawwara Chowk, Arts Council, Shaheen Complex, Fisheries. Merged; position of Model Colony relative to RCD Ground/Kalaboard is uncertain. SMTA classifies R1 under 'Pink Bus' (mixed red and pink fleet). Think Transportation/redbus.shop list Lal Kothi before Karsaz; the OSM 'Lal Kothi Stop' node projects between Karsaz and Nursery on the reference polyline, so it is placed after Karsaz here."
+        },
+        {
+          "id": "R2",
+          "name": "Power House Chowrangi - Korangi Crossing",
+          "name_ur": "",
+          "variant": "red",
+          "color": null,
+          "status": "operational",
+          "launched": "2022",
+          "length_km": 31,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Power House Chowrangi",
+              "name_ur": "",
+              "lat": 24.985712,
+              "lon": 67.065683,
+              "coord_source": "osm:way/176315821",
+              "is_station": false
+            },
+            {
+              "name": "UP Mor",
+              "name_ur": "یو پی موڑ",
+              "lat": 24.972253,
+              "lon": 67.066678,
+              "coord_source": "osm:node/1868061102",
+              "is_station": false
+            },
+            {
+              "name": "Nagan Chowrangi",
+              "name_ur": "",
+              "lat": 24.965857,
+              "lon": 67.066642,
+              "coord_source": "osm:node/5333549822",
+              "is_station": false
+            },
+            {
+              "name": "Shafiq Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sohrab Goth",
+              "name_ur": "",
+              "lat": 24.945051,
+              "lon": 67.085713,
+              "coord_source": "osm:node/12126380204",
+              "is_station": false
+            },
+            {
+              "name": "Gulshan Chowrangi",
+              "name_ur": "گلشن چورنگی",
+              "lat": 24.924388,
+              "lon": 67.091563,
+              "coord_source": "osm:node/253623506",
+              "is_station": false
+            },
+            {
+              "name": "NIPA",
+              "name_ur": "",
+              "lat": 24.917822,
+              "lon": 67.097137,
+              "coord_source": "osm:node/253626696",
+              "is_station": false
+            },
+            {
+              "name": "Johar Mor",
+              "name_ur": "",
+              "lat": 24.904667,
+              "lon": 67.113586,
+              "coord_source": "osm:node/5340602456",
+              "is_station": false
+            },
+            {
+              "name": "COD",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Drigh Road Station",
+              "name_ur": "ڈرگ روڈ",
+              "lat": 24.887237,
+              "lon": 67.127541,
+              "coord_source": "osm:node/5893613282",
+              "is_station": false
+            },
+            {
+              "name": "Natha Khan Bridge",
+              "name_ur": "",
+              "lat": 24.887074,
+              "lon": 67.143363,
+              "coord_source": "osm:node/8428207421",
+              "is_station": false
+            },
+            {
+              "name": "Colony Gate",
+              "name_ur": "",
+              "lat": 24.88711,
+              "lon": 67.150142,
+              "coord_source": "osm:node/5123980564",
+              "is_station": false
+            },
+            {
+              "name": "Shah Faisal Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Singer Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khaddi Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Korangi No. 5",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nasir Jump",
+              "name_ur": "",
+              "lat": 24.820463,
+              "lon": 67.125114,
+              "coord_source": "osm:node/12126274344",
+              "is_station": false
+            },
+            {
+              "name": "Indus Hospital",
+              "name_ur": "",
+              "lat": 24.816587,
+              "lon": 67.11146,
+              "coord_source": "osm:way/1144173764",
+              "is_station": false
+            },
+            {
+              "name": "Korangi Crossing",
+              "name_ur": "",
+              "lat": 24.817025,
+              "lon": 67.107953,
+              "coord_source": "osm:node/3418586768",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "New Red Bus Karachi (Peoples Bus Service) Route Maps",
+              "url": "https://thinktransportation.net/red-bus-karachi/"
+            },
+            {
+              "title": "Karachi Red Bus routes",
+              "url": "https://redbus.shop/karachi-red-bus-routes"
+            },
+            {
+              "title": "Karachi Peoples Bus Service Routes & Timings",
+              "url": "https://rehbar.pk/info/karachi-peoples-bus-service-routes-and-timings/"
+            }
+          ],
+          "notes": "SMTA 2026: 'North Karachi to Korangi Crossing', 31 km, via Korangi No. 5, Nasir Jump, Indus Hospital. Think Transportation/redbus.shop/rehbar.pk end at Indus Hospital (30 km) and add UP Mor and Khaddi Stop; reference polyline (Feb 2025) ends at Korangi Crossing. SMTA lists Nata Khan before Colony Gate; OSM positions confirm Drigh Road -> Natha Khan -> Colony Gate. Khaddi Stop vs Korangi No. 5 order unverified. Also run with pink buses."
+        },
+        {
+          "id": "R3",
+          "name": "Power House Chowrangi - Nasir Jump",
+          "name_ur": "",
+          "variant": "red",
+          "color": null,
+          "status": "operational",
+          "launched": "2022",
+          "length_km": 32,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Power House Chowrangi",
+              "name_ur": "",
+              "lat": 24.985712,
+              "lon": 67.065683,
+              "coord_source": "osm:way/176315821",
+              "is_station": false
+            },
+            {
+              "name": "UP Mor",
+              "name_ur": "یو پی موڑ",
+              "lat": 24.972253,
+              "lon": 67.066678,
+              "coord_source": "osm:node/1868061102",
+              "is_station": false
+            },
+            {
+              "name": "Nagan Chowrangi",
+              "name_ur": "",
+              "lat": 24.965857,
+              "lon": 67.066642,
+              "coord_source": "osm:node/5333549822",
+              "is_station": false
+            },
+            {
+              "name": "Sakhi Hasan",
+              "name_ur": "",
+              "lat": 24.954877,
+              "lon": 67.058054,
+              "coord_source": "osm:node/5176449658",
+              "is_station": false
+            },
+            {
+              "name": "Five Star Chowrangi",
+              "name_ur": "",
+              "lat": 24.942723,
+              "lon": 67.047606,
+              "coord_source": "osm:node/3848454294",
+              "is_station": false
+            },
+            {
+              "name": "KDA Chowrangi",
+              "name_ur": "",
+              "lat": 24.931405,
+              "lon": 67.037512,
+              "coord_source": "osm:node/3483501207",
+              "is_station": false
+            },
+            {
+              "name": "Board Office",
+              "name_ur": "",
+              "lat": 24.92662,
+              "lon": 67.033248,
+              "coord_source": "osm:node/8474862577",
+              "is_station": false
+            },
+            {
+              "name": "Nazimabad Petrol Pump",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nazimabad Eidgah Ground",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Liaquatabad No. 10",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Essa Nagri",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Civic Centre",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "National Stadium",
+              "name_ur": "",
+              "lat": 24.892804,
+              "lon": 67.082938,
+              "coord_source": "osm:node/5091305056",
+              "is_station": false
+            },
+            {
+              "name": "Karsaz",
+              "name_ur": "",
+              "lat": 24.87616,
+              "lon": 67.10106,
+              "coord_source": "osm:node/4758254637",
+              "is_station": false
+            },
+            {
+              "name": "Nursery",
+              "name_ur": "",
+              "lat": 24.860189,
+              "lon": 67.062246,
+              "coord_source": "osm:way/589611546",
+              "is_station": false
+            },
+            {
+              "name": "FTC",
+              "name_ur": "",
+              "lat": 24.857802,
+              "lon": 67.050555,
+              "coord_source": "osm:way/483149614",
+              "is_station": false
+            },
+            {
+              "name": "Kala Pul",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Akhtar Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "KPT Interchange",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shan Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nasir Jump",
+              "name_ur": "",
+              "lat": 24.820463,
+              "lon": 67.125114,
+              "coord_source": "osm:node/12126274344",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "New Red Bus Karachi (Peoples Bus Service) Route Maps",
+              "url": "https://thinktransportation.net/red-bus-karachi/"
+            },
+            {
+              "title": "Karachi Red Bus routes",
+              "url": "https://redbus.shop/karachi-red-bus-routes"
+            }
+          ],
+          "notes": "SMTA 2026: 'North Karachi to Nasir Jump', 32 km, via Five Star Chowrangi, Board Office, Nazimabad Petrol Pump, Essa Nagri, National Stadium, Karsaz, Nursery, FTC, Kala Pull, Akhtar Colony, Shan Chowrangi. Think Transportation adds UP Mor, Sakhi Hasan, KDA Chowrangi, Eidgah Ground, Liaquatabad No. 10, Civic Centre, KPT Interchange ('Korangi Road' omitted as a road name). Petrol Pump vs Eidgah order unverified. Temporarily diverted on Champions Trophy match days, Feb-Mar 2025 (Daily Jang). rehbar.pk gives a different, probably outdated list via Johar Mor/Shah Faisal. Also run with pink buses."
+        },
+        {
+          "id": "R4",
+          "name": "Power House Chowrangi - Keamari",
+          "name_ur": "",
+          "variant": "red",
+          "color": null,
+          "status": "operational",
+          "launched": "2022",
+          "length_km": 26,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Power House Chowrangi",
+              "name_ur": "",
+              "lat": 24.985712,
+              "lon": 67.065683,
+              "coord_source": "osm:way/176315821",
+              "is_station": false
+            },
+            {
+              "name": "UP Mor",
+              "name_ur": "یو پی موڑ",
+              "lat": 24.972253,
+              "lon": 67.066678,
+              "coord_source": "osm:node/1868061102",
+              "is_station": false
+            },
+            {
+              "name": "Nagan Chowrangi",
+              "name_ur": "",
+              "lat": 24.965857,
+              "lon": 67.066642,
+              "coord_source": "osm:node/5333549822",
+              "is_station": false
+            },
+            {
+              "name": "Shafiq Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sohrab Goth",
+              "name_ur": "",
+              "lat": 24.945051,
+              "lon": 67.085713,
+              "coord_source": "osm:node/12126380204",
+              "is_station": false
+            },
+            {
+              "name": "Water Pump",
+              "name_ur": "",
+              "lat": 24.936888,
+              "lon": 67.075982,
+              "coord_source": "osm:way/415689748",
+              "is_station": false
+            },
+            {
+              "name": "Ayesha Manzil",
+              "name_ur": "",
+              "lat": 24.927679,
+              "lon": 67.064016,
+              "coord_source": "osm:node/4166787368",
+              "is_station": false
+            },
+            {
+              "name": "Karimabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Liaquatabad No. 10",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lalukhet",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Teen Hatti",
+              "name_ur": "",
+              "lat": 24.892254,
+              "lon": 67.043495,
+              "coord_source": "osm:node/4314129401",
+              "is_station": false
+            },
+            {
+              "name": "Jahangir Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Guru Mandir",
+              "name_ur": "",
+              "lat": 24.88136,
+              "lon": 67.038008,
+              "coord_source": "osm:node/12183370529",
+              "is_station": false
+            },
+            {
+              "name": "Numaish",
+              "name_ur": "",
+              "lat": 24.873017,
+              "lon": 67.036194,
+              "coord_source": "osm:node/1868568300",
+              "is_station": false
+            },
+            {
+              "name": "Taj Complex",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mobile Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Urdu Bazar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sindh High Court",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Civil Hospital",
+              "name_ur": "",
+              "lat": 24.859315,
+              "lon": 67.010401,
+              "coord_source": "osm:way/681548018",
+              "is_station": false
+            },
+            {
+              "name": "City Court",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Light House",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bolton Market",
+              "name_ur": "",
+              "lat": 24.85074,
+              "lon": 67.000143,
+              "coord_source": "osm:node/4776942997",
+              "is_station": false
+            },
+            {
+              "name": "Tower",
+              "name_ur": "",
+              "lat": 24.847935,
+              "lon": 66.99537,
+              "coord_source": "osm:node/5133250067",
+              "is_station": false
+            },
+            {
+              "name": "Jackson Market",
+              "name_ur": "جیکسن مارکیٹ",
+              "lat": 24.823979,
+              "lon": 66.978456,
+              "coord_source": "osm:node/5122919863",
+              "is_station": false
+            },
+            {
+              "name": "Keamari",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "New Red Bus Karachi (Peoples Bus Service) Route Maps",
+              "url": "https://thinktransportation.net/red-bus-karachi/"
+            },
+            {
+              "title": "Karachi Red Bus routes",
+              "url": "https://redbus.shop/karachi-red-bus-routes"
+            },
+            {
+              "title": "Karachi Peoples Bus Service Routes & Timings",
+              "url": "https://rehbar.pk/info/karachi-peoples-bus-service-routes-and-timings/"
+            }
+          ],
+          "notes": "SMTA 2026: 'North Karachi to Kemari', 26 km, via Ayesha Manzil, Lalukhait, Teen Hatti, Jahangir Road, Guru Mandir, Numaish, Taj Complex, Sindh High Court, Tower, Jackson Market. Think Transportation (21 km) routes downtown via Mobile Market, Urdu Bazar, Civil Hospital, City Court, Light House, Bolton Market (reference polyline follows this M.A. Jinnah Road alignment). Sindh High Court (SMTA only) may belong to the other direction; position unverified. redbus.shop names the terminal 'Tower'."
+        },
+        {
+          "id": "R8",
+          "name": "Yousuf Goth - Tower",
+          "name_ur": "",
+          "variant": "red",
+          "color": null,
+          "status": "operational",
+          "launched": "2024-07-25",
+          "length_km": 17,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Yousuf Goth",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Naval Colony",
+              "name_ur": "",
+              "lat": 24.944208,
+              "lon": 66.93383,
+              "coord_source": "osm:node/5311735185",
+              "is_station": false
+            },
+            {
+              "name": "Saeedabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Baldia",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ittehad Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mauch Goth",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sher Shah",
+              "name_ur": "",
+              "lat": 24.889438,
+              "lon": 66.983087,
+              "coord_source": "osm:node/4735339523",
+              "is_station": false
+            },
+            {
+              "name": "Gulbai",
+              "name_ur": "",
+              "lat": 24.876587,
+              "lon": 66.969813,
+              "coord_source": "osm:node/7416125312",
+              "is_station": false
+            },
+            {
+              "name": "Agra Taj Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Daryabad",
+              "name_ur": "",
+              "lat": 24.866056,
+              "lon": 66.984338,
+              "coord_source": "osm:node/5162828833",
+              "is_station": false
+            },
+            {
+              "name": "Dua Restaurant",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "ICI Bridge",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jinnah Bridge",
+              "name_ur": "",
+              "lat": 24.845946,
+              "lon": 66.992946,
+              "coord_source": "osm:node/5026134342",
+              "is_station": false
+            },
+            {
+              "name": "Tower",
+              "name_ur": "",
+              "lat": 24.847935,
+              "lon": 66.99537,
+              "coord_source": "osm:node/5133250067",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "New Red Bus Karachi (Peoples Bus Service) Route Maps",
+              "url": "https://thinktransportation.net/red-bus-karachi/"
+            },
+            {
+              "title": "New Routes Announced for Peoples Bus Service Karachi (R13, R12 extension, EV4, R8)",
+              "url": "https://propakistani.pk/2024/07/19/peoples-bus-service-gets-new-routes-in-karachi/"
+            }
+          ],
+          "notes": "Launched 25 Jul 2024 (ProPakistani/APP). SMTA order: Hub River Road, Yousuf Goth, Saeedabad, Baldia, Ittehad Town, Naval Colony, Moach Goth, Sher Shah, Gulbai, Agra Taj, Dua Restaurant, ICI, Tower. Think Transportation: Yousuf Goth, Naval Colony, Baldia, Sher Shah, Gulbai, Agra Taj, Daryabad, Jinnah Bridge, Tower. OSM Naval Colony lies ~2 km from the Yousuf Goth end, so it is placed second; order of Saeedabad/Baldia/Ittehad Town/Mauch Goth and of Dua Restaurant/ICI Bridge vs Jinnah Bridge unverified."
+        },
+        {
+          "id": "R9",
+          "name": "Gulshan-e-Hadeed - Tower",
+          "name_ur": "",
+          "variant": "red",
+          "color": null,
+          "status": "operational",
+          "launched": "2022",
+          "length_km": 48,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Gulshan-e-Hadeed",
+              "name_ur": "",
+              "lat": 24.869716,
+              "lon": 67.360165,
+              "coord_source": "osm:way/481044367",
+              "is_station": false
+            },
+            {
+              "name": "Allah Wali Chowrangi",
+              "name_ur": "",
+              "lat": 24.864346,
+              "lon": 67.349908,
+              "coord_source": "osm:way/288879979",
+              "is_station": false
+            },
+            {
+              "name": "Steel Town",
+              "name_ur": "",
+              "lat": 24.86002,
+              "lon": 67.336187,
+              "coord_source": "osm:node/4299888089",
+              "is_station": false
+            },
+            {
+              "name": "Steel Mill Mor",
+              "name_ur": "",
+              "lat": 24.86166,
+              "lon": 67.324723,
+              "coord_source": "osm:way/1430155862",
+              "is_station": false
+            },
+            {
+              "name": "Port Qasim Chowrangi",
+              "name_ur": "",
+              "lat": 24.866274,
+              "lon": 67.300176,
+              "coord_source": "osm:node/4299624393",
+              "is_station": false
+            },
+            {
+              "name": "Razzakabad",
+              "name_ur": "",
+              "lat": 24.864182,
+              "lon": 67.292654,
+              "coord_source": "osm:node/4783144472",
+              "is_station": false
+            },
+            {
+              "name": "Abdullah Goth",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chowkundi Mor",
+              "name_ur": "",
+              "lat": 24.859557,
+              "lon": 67.272819,
+              "coord_source": "osm:node/5217715786",
+              "is_station": false
+            },
+            {
+              "name": "FAST University",
+              "name_ur": "",
+              "lat": 24.856921,
+              "lon": 67.264637,
+              "coord_source": "osm:way/39368356",
+              "is_station": false
+            },
+            {
+              "name": "Bhains Colony Mor",
+              "name_ur": "",
+              "lat": 24.855901,
+              "lon": 67.258487,
+              "coord_source": "osm:node/4783144464",
+              "is_station": false
+            },
+            {
+              "name": "Manzil Pump",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Quaidabad",
+              "name_ur": "",
+              "lat": 24.855128,
+              "lon": 67.211744,
+              "coord_source": "osm:node/5217715771",
+              "is_station": false
+            },
+            {
+              "name": "Murghi Khana",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Prince Aly Boys School",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "NADRA Center Malir",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Malir Session Court",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Malir 15",
+              "name_ur": "",
+              "lat": 24.879024,
+              "lon": 67.188264,
+              "coord_source": "osm:node/4299693694",
+              "is_station": false
+            },
+            {
+              "name": "Kalaboard",
+              "name_ur": "",
+              "lat": 24.882327,
+              "lon": 67.182328,
+              "coord_source": "osm:node/4674618397",
+              "is_station": false
+            },
+            {
+              "name": "Malir Halt",
+              "name_ur": "",
+              "lat": 24.884427,
+              "lon": 67.174553,
+              "coord_source": "osm:node/5226556649",
+              "is_station": false
+            },
+            {
+              "name": "Colony Gate",
+              "name_ur": "",
+              "lat": 24.88711,
+              "lon": 67.150142,
+              "coord_source": "osm:node/5123980564",
+              "is_station": false
+            },
+            {
+              "name": "Natha Khan Bridge",
+              "name_ur": "",
+              "lat": 24.887074,
+              "lon": 67.143363,
+              "coord_source": "osm:node/8428207421",
+              "is_station": false
+            },
+            {
+              "name": "Drigh Road Station",
+              "name_ur": "ڈرگ روڈ",
+              "lat": 24.887237,
+              "lon": 67.127541,
+              "coord_source": "osm:node/5893613282",
+              "is_station": false
+            },
+            {
+              "name": "PAF Base Faisal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Karsaz",
+              "name_ur": "",
+              "lat": 24.87616,
+              "lon": 67.10106,
+              "coord_source": "osm:node/4758254637",
+              "is_station": false
+            },
+            {
+              "name": "Lal Kothi",
+              "name_ur": "",
+              "lat": 24.86215,
+              "lon": 67.069064,
+              "coord_source": "osm:node/8428197373",
+              "is_station": false
+            },
+            {
+              "name": "Nursery",
+              "name_ur": "",
+              "lat": 24.860189,
+              "lon": 67.062246,
+              "coord_source": "osm:way/589611546",
+              "is_station": false
+            },
+            {
+              "name": "FTC",
+              "name_ur": "",
+              "lat": 24.858705,
+              "lon": 67.050093,
+              "coord_source": "osm:way/96587948",
+              "is_station": false
+            },
+            {
+              "name": "Regent Plaza",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Metropole",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Fawwara Chowk",
+              "name_ur": "",
+              "lat": 24.853725,
+              "lon": 67.028432,
+              "coord_source": "osm:way/26182912",
+              "is_station": false
+            },
+            {
+              "name": "Arts Council",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Press Club",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shaheen Complex",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "I.I. Chundrigar Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Tower",
+              "name_ur": "",
+              "lat": 24.847935,
+              "lon": 66.99537,
+              "coord_source": "osm:node/5133250067",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "high",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "New Red Bus Karachi (Peoples Bus Service) Route Maps",
+              "url": "https://thinktransportation.net/red-bus-karachi/"
+            },
+            {
+              "title": "Karachi Red Bus routes",
+              "url": "https://redbus.shop/karachi-red-bus-routes"
+            },
+            {
+              "title": "Automated fare collection system for Peoples Buses launched in Karachi",
+              "url": "https://www.dawn.com/news/1831510"
+            }
+          ],
+          "notes": "Length: SMTA 48 km, Think Transportation 42 km. Originally Gulshan-e-Hadeed - Malir Halt (2022), extended to Tower. Think Transportation also lists 'Salahuddin Ayubi Road' and 'National Highway 5' (road names, omitted). SMTA has Steel Town, Think Transportation Steel Mill Mor; both kept in OSM order. Also run with pink buses. Think Transportation/redbus.shop list Lal Kothi before Karsaz; the OSM 'Lal Kothi Stop' node projects between Karsaz and Nursery on the reference polyline, so it is placed after Karsaz here."
+        },
+        {
+          "id": "R10",
+          "name": "Numaish - Ibrahim Hyderi",
+          "name_ur": "",
+          "variant": "red",
+          "color": null,
+          "status": "operational",
+          "launched": "2022",
+          "length_km": 30,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Numaish",
+              "name_ur": "",
+              "lat": 24.873017,
+              "lon": 67.036194,
+              "coord_source": "osm:node/1868568300",
+              "is_station": false
+            },
+            {
+              "name": "Taj Complex",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mobile Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Zaibunnisa Street",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Zainab Market",
+              "name_ur": "",
+              "lat": 24.855704,
+              "lon": 67.028272,
+              "coord_source": "osm:node/5119792984",
+              "is_station": false
+            },
+            {
+              "name": "Metropole",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Frere Hall",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Teen Talwar",
+              "name_ur": "3 تلوار",
+              "lat": 24.833818,
+              "lon": 67.033666,
+              "coord_source": "osm:node/3677499728",
+              "is_station": false
+            },
+            {
+              "name": "Do Talwar",
+              "name_ur": "",
+              "lat": 24.821338,
+              "lon": 67.034114,
+              "coord_source": "osm:node/292144327",
+              "is_station": false
+            },
+            {
+              "name": "Pak Tower",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Abdullah Shah Ghazi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dolmen Mall Clifton",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Clock Tower DHA",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "26th Street",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Masjid-e-Ayesha",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khayaban-e-Ittehad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rahat Park",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Akhtar Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "KPT Interchange",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Korangi Crossing",
+              "name_ur": "",
+              "lat": 24.817025,
+              "lon": 67.107953,
+              "coord_source": "osm:node/3418586768",
+              "is_station": false
+            },
+            {
+              "name": "CBM University",
+              "name_ur": "",
+              "lat": 24.812161,
+              "lon": 67.117155,
+              "coord_source": "osm:node/5144939660",
+              "is_station": false
+            },
+            {
+              "name": "PARCO",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ibrahim Hyderi",
+              "name_ur": "",
+              "lat": 24.797538,
+              "lon": 67.135893,
+              "coord_source": "osm:node/5283675745",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "New Red Bus Karachi (Peoples Bus Service) Route Maps",
+              "url": "https://thinktransportation.net/red-bus-karachi/"
+            },
+            {
+              "title": "Karachi Red Bus routes",
+              "url": "https://redbus.shop/karachi-red-bus-routes"
+            }
+          ],
+          "notes": "Originally Numaish - Sea View (12 km, 2022), later extended to Ibrahim Hyderi. SMTA 2026 (30 km): Taj Complex, Zaibunnisa Street, Zainab Market, Metropole, Frere Hall, Teen Talwar, Do Talwar, Pak Tower, Abdullah Shah Ghazi, Dolmen Mall, Clock Tower, Khayaban-e-Ittehad, Akhtar Colony, Korangi Crossing. Think Transportation adds Mobile Market, 26th Street, Masjid-e-Ayesha, Rahat Park, KPT Interchange, CBM University, PARCO. Order in the DHA section (Dolmen Mall to KPT Interchange) unverified. rehbar.pk gives an unrelated list via Lucky Star/FTC (likely wrong)."
+        },
+        {
+          "id": "R11",
+          "name": "Miran Naka - Ziauddin Hospital Clifton",
+          "name_ur": "",
+          "variant": "red",
+          "color": null,
+          "status": "operational",
+          "launched": "2023",
+          "length_km": 21,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Miran Naka",
+              "name_ur": "",
+              "lat": 24.879484,
+              "lon": 66.995648,
+              "coord_source": "osm:node/10137799618",
+              "is_station": false
+            },
+            {
+              "name": "Gulistan Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bihar Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Agra Taj Colony",
+              "name_ur": "",
+              "lat": 24.876354,
+              "lon": 66.988103,
+              "coord_source": "osm:node/7820425057",
+              "is_station": false
+            },
+            {
+              "name": "Daryabad",
+              "name_ur": "",
+              "lat": 24.866056,
+              "lon": 66.984338,
+              "coord_source": "osm:node/5162828833",
+              "is_station": false
+            },
+            {
+              "name": "Jinnah Bridge",
+              "name_ur": "",
+              "lat": 24.845946,
+              "lon": 66.992946,
+              "coord_source": "osm:node/5026134342",
+              "is_station": false
+            },
+            {
+              "name": "KPT",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bahria Complex",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "M.T. Khan Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "PIDC",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Submarine Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bahria Complex 3",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Punjab Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gizri",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khadda Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khayaban-e-Shamsheer",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Abdullah Shah Ghazi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bilawal Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ziauddin Hospital Clifton",
+              "name_ur": "",
+              "lat": 24.817,
+              "lon": 67.006739,
+              "coord_source": "osm:way/26182600",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "New Red Bus Karachi (Peoples Bus Service) Route Maps",
+              "url": "https://thinktransportation.net/red-bus-karachi/"
+            },
+            {
+              "title": "Karachi Red Bus routes",
+              "url": "https://redbus.shop/karachi-red-bus-routes"
+            },
+            {
+              "title": "Karachi Peoples Bus Service Routes & Timings",
+              "url": "https://rehbar.pk/info/karachi-peoples-bus-service-routes-and-timings/"
+            }
+          ],
+          "notes": "SMTA 2026: 'Mera Naka to Ziauddin Hospital', 21 km (9 m buses), via Mauripur Road, Agra Taj Colony, KPT, Bahria Complex, PIDC, Punjabi Chowrangi, Gizri, Khayaban-e-Shamsheer, Abdullah Shah Ghazi, Bilawal Chowrangi; the reference polyline also ends at Ziauddin Hospital. Think Transportation/redbus.shop continue to Shireen Jinnah Colony (19 km) and list Gulistan Colony, Bihar Colony, Daryabad, Jinnah Bridge, M.T. Khan Road, Submarine Chowk, Bahria Complex 3, Khadda Market. Shireen Jinnah Colony omitted (not official). Clifton/DHA section order unverified. Launch year approximate."
+        },
+        {
+          "id": "R12",
+          "name": "Memon Goth - Lucky Star Saddar",
+          "name_ur": "",
+          "variant": "red",
+          "color": null,
+          "status": "operational",
+          "launched": "2023-08",
+          "length_km": 36,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Memon Goth",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Naddi Kinara",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khokhrapar",
+              "name_ur": "",
+              "lat": 24.903373,
+              "lon": 67.208845,
+              "coord_source": "osm:node/5339035694",
+              "is_station": false
+            },
+            {
+              "name": "Saudabad Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "RCD Ground",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kalaboard",
+              "name_ur": "",
+              "lat": 24.882327,
+              "lon": 67.182328,
+              "coord_source": "osm:node/4674618397",
+              "is_station": false
+            },
+            {
+              "name": "Malir 15",
+              "name_ur": "",
+              "lat": 24.879024,
+              "lon": 67.188264,
+              "coord_source": "osm:node/4299693694",
+              "is_station": false
+            },
+            {
+              "name": "Malir Mandir",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Malir Session Court",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Murghi Khana",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Quaidabad",
+              "name_ur": "",
+              "lat": 24.855128,
+              "lon": 67.211744,
+              "coord_source": "osm:node/5217715771",
+              "is_station": false
+            },
+            {
+              "name": "Dawood Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "89 Chowrangi",
+              "name_ur": "",
+              "lat": 24.846765,
+              "lon": 67.205914,
+              "coord_source": "osm:node/5133191774",
+              "is_station": false
+            },
+            {
+              "name": "Babar Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nasir Jump",
+              "name_ur": "",
+              "lat": 24.820463,
+              "lon": 67.125114,
+              "coord_source": "osm:node/12126274344",
+              "is_station": false
+            },
+            {
+              "name": "Indus Hospital",
+              "name_ur": "",
+              "lat": 24.816587,
+              "lon": 67.11146,
+              "coord_source": "osm:way/1144173764",
+              "is_station": false
+            },
+            {
+              "name": "Korangi Crossing",
+              "name_ur": "",
+              "lat": 24.817025,
+              "lon": 67.107953,
+              "coord_source": "osm:node/3418586768",
+              "is_station": false
+            },
+            {
+              "name": "Qayyumabad",
+              "name_ur": "",
+              "lat": 24.829419,
+              "lon": 67.080768,
+              "coord_source": "osm:node/4786563395",
+              "is_station": false
+            },
+            {
+              "name": "Defence Mor",
+              "name_ur": "",
+              "lat": 24.833695,
+              "lon": 67.073686,
+              "coord_source": "osm:node/286464835",
+              "is_station": false
+            },
+            {
+              "name": "National Medical Centre",
+              "name_ur": "",
+              "lat": 24.846636,
+              "lon": 67.055843,
+              "coord_source": "osm:way/364303445",
+              "is_station": false
+            },
+            {
+              "name": "Kala Pul",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gora Qabristan",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "FTC",
+              "name_ur": "",
+              "lat": 24.857492,
+              "lon": 67.050553,
+              "coord_source": "osm:way/1223256741",
+              "is_station": false
+            },
+            {
+              "name": "Jutt Land",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lines Area",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Army Public School",
+              "name_ur": "",
+              "lat": 24.860078,
+              "lon": 67.038602,
+              "coord_source": "osm:node/5158977105",
+              "is_station": false
+            },
+            {
+              "name": "Lucky Star Saddar",
+              "name_ur": "",
+              "lat": 24.857065,
+              "lon": 67.033165,
+              "coord_source": "osm:node/3525960472",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "New Red Bus Karachi (Peoples Bus Service) Route Maps",
+              "url": "https://thinktransportation.net/red-bus-karachi/"
+            },
+            {
+              "title": "Karachi Red Bus routes",
+              "url": "https://redbus.shop/karachi-red-bus-routes"
+            },
+            {
+              "title": "New Routes Announced for Peoples Bus Service Karachi (R13, R12 extension, EV4, R8)",
+              "url": "https://propakistani.pk/2024/07/19/peoples-bus-service-gets-new-routes-in-karachi/"
+            }
+          ],
+          "notes": "Added Aug 2023 as Khokhrapar/Naddi Kinara - Lucky Star; start extended to Memon Goth on 23 Jul 2024 (ProPakistani). SMTA 2026 (36 km): Saudabad, Khokharapar RCD Ground, Kala Board, Malir 15, Qaidabad, Dawood Chowrangi, 89 Chowrangi, Landhi, Korangi, Korangi Crossing, Qayyumabad, Kala Pull, FTC. Think Transportation starts at Naddi Kinara and adds Malir Mandir, Session Court, Murghi Khana, Babar Market, Nasir Jump, Indus Hospital, Defence Mor, NMC, Gora Qabristan, Jutt Land, Lines Area, Army Public School. The reference polyline reaches Khokhrapar after ~2.4 km, so the Memon Goth end and Naddi Kinara position are uncertain. INCPak says 'Memon Goth to Tower' (conflict)."
+        },
+        {
+          "id": "R13",
+          "name": "Hawksbay - Tower",
+          "name_ur": "",
+          "variant": "red",
+          "color": null,
+          "status": "operational",
+          "launched": "2024-07-22",
+          "length_km": 19,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Hawksbay",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mauripur",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Pakistan Marine Academy",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mauripur Truck Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gulbai",
+              "name_ur": "",
+              "lat": 24.876587,
+              "lon": 66.969813,
+              "coord_source": "osm:node/7416125312",
+              "is_station": false
+            },
+            {
+              "name": "Agra Taj Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Daryabad",
+              "name_ur": "",
+              "lat": 24.866056,
+              "lon": 66.984338,
+              "coord_source": "osm:node/5162828833",
+              "is_station": false
+            },
+            {
+              "name": "Dua Restaurant",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "ICI Bridge",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jinnah Bridge",
+              "name_ur": "",
+              "lat": 24.845946,
+              "lon": 66.992946,
+              "coord_source": "osm:node/5026134342",
+              "is_station": false
+            },
+            {
+              "name": "Tower",
+              "name_ur": "",
+              "lat": 24.847935,
+              "lon": 66.99537,
+              "coord_source": "osm:node/5133250067",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "New Red Bus Karachi (Peoples Bus Service) Route Maps",
+              "url": "https://thinktransportation.net/red-bus-karachi/"
+            },
+            {
+              "title": "New Routes Announced for Peoples Bus Service Karachi (R13, R12 extension, EV4, R8)",
+              "url": "https://propakistani.pk/2024/07/19/peoples-bus-service-gets-new-routes-in-karachi/"
+            }
+          ],
+          "notes": "Launched 22 Jul 2024. SMTA: Hawksbay, Maripur, Pakistan Marine Academy, Maripur Truck Adda, Gulbai, Agra Taj, Dua Restaurant, ICI, Tower (19 km). Think Transportation: Hawksbay, Mauripur, Gulbai, Agra Taj, Daryabad, Jinnah Bridge, Tower (20 km). Order of Dua Restaurant/ICI Bridge/Jinnah Bridge unverified."
+        },
+        {
+          "id": "R14",
+          "name": "Gulshan-e-Maymar - Tower",
+          "name_ur": "",
+          "variant": "ev",
+          "color": null,
+          "status": "operational",
+          "launched": "2026-03-17",
+          "length_km": 29,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Gulshan-e-Maymar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nawaz Sharif Park",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Maymar Extension",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Maymar Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ahsanabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jamali Pul",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Al-Asif Square",
+              "name_ur": "",
+              "lat": 24.948826,
+              "lon": 67.090951,
+              "coord_source": "osm:node/4366233701",
+              "is_station": false
+            },
+            {
+              "name": "Sohrab Goth",
+              "name_ur": "",
+              "lat": 24.945051,
+              "lon": 67.085713,
+              "coord_source": "osm:node/12126380204",
+              "is_station": false
+            },
+            {
+              "name": "Ayesha Manzil",
+              "name_ur": "",
+              "lat": 24.927679,
+              "lon": 67.064016,
+              "coord_source": "osm:node/4166787368",
+              "is_station": false
+            },
+            {
+              "name": "Lalukhet",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Teen Hatti",
+              "name_ur": "",
+              "lat": 24.892254,
+              "lon": 67.043495,
+              "coord_source": "osm:node/4314129401",
+              "is_station": false
+            },
+            {
+              "name": "Jahangir Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Guru Mandir",
+              "name_ur": "",
+              "lat": 24.88136,
+              "lon": 67.038008,
+              "coord_source": "osm:node/12183370529",
+              "is_station": false
+            },
+            {
+              "name": "Numaish",
+              "name_ur": "",
+              "lat": 24.873017,
+              "lon": 67.036194,
+              "coord_source": "osm:node/1868568300",
+              "is_station": false
+            },
+            {
+              "name": "Taj Complex",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sindh High Court",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Tower",
+              "name_ur": "",
+              "lat": 24.847935,
+              "lon": 66.99537,
+              "coord_source": "osm:node/5133250067",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "New Electric Bus Route Announced in Karachi",
+              "url": "https://propakistani.pk/2026/03/16/new-electric-bus-route-announced-in-karachi/"
+            },
+            {
+              "title": "Gulshan-e-Maymar to Tower: Karachi to get new bus route",
+              "url": "https://arynews.tv/sindh-announces-new-ev-bus-route-launch"
+            },
+            {
+              "title": "Electric bus new route starts today (Roznama Dunya)",
+              "url": "https://dunya.com.pk/index.php/city/karachi/2026-03-17/2644181"
+            }
+          ],
+          "notes": "New EV route (15 electric buses per ARY) started 17 Mar 2026; news gives no route code. SMTA directory lists 'Route 14 - Maymar to Tower', 29 km (Dunya: 32 km), via Nawaz Sharif Park, Maymar Ext, Maymar Mor, Ahsanabad, Jamali Pull, Al-Asif, Sorab Goth, Ayesha Manzil, Lalukhait, Teen Hatti, Jahangir Road, Guru Mandar, Numaish, Taj Complex, Sindh High Court, Tower. Single-source stop list. No reference polyline: coordinates accepted only where the OSM element is within 500 m of another PBS reference polyline on the shared corridor (R4/EV4)."
+        },
+        {
+          "id": "EV1",
+          "name": "CMH Malir Cantt - Dolmen Mall Clifton",
+          "name_ur": "",
+          "variant": "ev",
+          "color": null,
+          "status": "operational",
+          "launched": "2023",
+          "length_km": 41,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "CMH Malir Cantt",
+              "name_ur": "",
+              "lat": 24.949481,
+              "lon": 67.214321,
+              "coord_source": "osm:node/4344000389",
+              "is_station": false
+            },
+            {
+              "name": "Cantt Bazar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Check Post 2",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Tank Chowk",
+              "name_ur": "",
+              "lat": 24.912558,
+              "lon": 67.185987,
+              "coord_source": "osm:node/4916608922",
+              "is_station": false
+            },
+            {
+              "name": "Model Colony Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jinnah Avenue",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Malir Halt",
+              "name_ur": "",
+              "lat": 24.884427,
+              "lon": 67.174553,
+              "coord_source": "osm:node/5226556649",
+              "is_station": false
+            },
+            {
+              "name": "Airport",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Colony Gate",
+              "name_ur": "",
+              "lat": 24.88711,
+              "lon": 67.150142,
+              "coord_source": "osm:node/5123980564",
+              "is_station": false
+            },
+            {
+              "name": "Natha Khan Bridge",
+              "name_ur": "",
+              "lat": 24.887074,
+              "lon": 67.143363,
+              "coord_source": "osm:node/8428207421",
+              "is_station": false
+            },
+            {
+              "name": "Drigh Road Station",
+              "name_ur": "ڈرگ روڈ",
+              "lat": 24.887237,
+              "lon": 67.127541,
+              "coord_source": "osm:node/5893613282",
+              "is_station": false
+            },
+            {
+              "name": "PAF Base Faisal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Karsaz",
+              "name_ur": "",
+              "lat": 24.87616,
+              "lon": 67.10106,
+              "coord_source": "osm:node/4758254637",
+              "is_station": false
+            },
+            {
+              "name": "Lal Kothi",
+              "name_ur": "",
+              "lat": 24.86215,
+              "lon": 67.069064,
+              "coord_source": "osm:node/8428197373",
+              "is_station": false
+            },
+            {
+              "name": "Nursery",
+              "name_ur": "",
+              "lat": 24.860189,
+              "lon": 67.062246,
+              "coord_source": "osm:way/589611546",
+              "is_station": false
+            },
+            {
+              "name": "FTC",
+              "name_ur": "",
+              "lat": 24.857802,
+              "lon": 67.050555,
+              "coord_source": "osm:way/483149614",
+              "is_station": false
+            },
+            {
+              "name": "Kala Pul",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gold Mart",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Akhtar Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khayaban-e-Ittehad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Masjid-e-Ayesha",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Clock Tower DHA",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dolmen Mall Clifton",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "New Red Bus Karachi (Peoples Bus Service) Route Maps",
+              "url": "https://thinktransportation.net/red-bus-karachi/"
+            },
+            {
+              "title": "Karachi Red Bus routes",
+              "url": "https://redbus.shop/karachi-red-bus-routes"
+            },
+            {
+              "title": "Karachi Peoples Bus Service Routes & Timings",
+              "url": "https://rehbar.pk/info/karachi-peoples-bus-service-routes-and-timings/"
+            }
+          ],
+          "notes": "SMTA 2026 (41 km): CMH, Cantt Bazar, Checkpost 02, Tank Chowk, Model Colony, Malir Halt, Colony Gate, Nata Khan, PAF Base Faisal, Karsaz, Nursery, FTC, Kala Pull, Gold Mart, Akhtar Colony, Khayaban-e-Ittehad, Clock Tower, Dolmen Mall. Think Transportation (28 km) adds Jinnah Avenue, Airport, Drigh Road, Lal Kothi, 'DHA Phase 1', Masjid-e-Ayesha. The OSM 'Airport' match is a railway station and was not used. Order of Masjid-e-Ayesha unverified. Think Transportation/redbus.shop list Lal Kothi before Karsaz; the OSM 'Lal Kothi Stop' node projects between Karsaz and Nursery on the reference polyline, so it is placed after Karsaz here."
+        },
+        {
+          "id": "EV2",
+          "name": "Bahria Town - Malir Halt",
+          "name_ur": "",
+          "variant": "ev",
+          "color": null,
+          "status": "operational",
+          "launched": "2023",
+          "length_km": 44,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Bahria Town Karachi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Usmania",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dumba Goth",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Karachi Toll Plaza (M-9)",
+              "name_ur": "",
+              "lat": 24.982162,
+              "lon": 67.227556,
+              "coord_source": "osm:node/7929411241",
+              "is_station": false
+            },
+            {
+              "name": "Baqai University",
+              "name_ur": "",
+              "lat": 24.987676,
+              "lon": 67.213885,
+              "coord_source": "osm:way/528125673",
+              "is_station": false
+            },
+            {
+              "name": "Malir Cantt Check Post 5",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Malir Cantt Check Post 6",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Tank Chowk",
+              "name_ur": "",
+              "lat": 24.912558,
+              "lon": 67.185987,
+              "coord_source": "osm:node/4916608922",
+              "is_station": false
+            },
+            {
+              "name": "Model Colony Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jinnah Avenue",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Malir Halt",
+              "name_ur": "",
+              "lat": 24.884427,
+              "lon": 67.174553,
+              "coord_source": "osm:node/5226556649",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "high",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "New Red Bus Karachi (Peoples Bus Service) Route Maps",
+              "url": "https://thinktransportation.net/red-bus-karachi/"
+            },
+            {
+              "title": "Karachi Red Bus routes",
+              "url": "https://redbus.shop/karachi-red-bus-routes"
+            },
+            {
+              "title": "Karachi Peoples Bus Service Routes & Timings",
+              "url": "https://rehbar.pk/info/karachi-peoples-bus-service-routes-and-timings/"
+            }
+          ],
+          "notes": "Length: SMTA 44 km, Think Transportation 30 km, reference polyline 39.3 km. SMTA lists Usmania, Karachi Toll Plaza, Checkpost 05/06; Think Transportation lists Baqai University, Malir Cantt Gate 5/6, Jinnah Avenue (Checkpost 5/6 = Malir Cantt gates). Terminal 'Bahria Town' OSM place node lies mid-way along the polyline, so no terminal coordinate."
+        },
+        {
+          "id": "EV3",
+          "name": "Malir Cantt (Quaid-e-Azam Square) - Numaish",
+          "name_ur": "",
+          "variant": "ev",
+          "color": null,
+          "status": "operational",
+          "launched": "2023-08",
+          "length_km": 23,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Quaid-e-Azam Square Malir Cantt",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "X-20",
+              "name_ur": "",
+              "lat": 24.931296,
+              "lon": 67.204499,
+              "coord_source": "osm:way/26180171",
+              "is_station": false
+            },
+            {
+              "name": "Phase 2",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Askari 5",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Allahwala Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Malir Cantt Check Post 5",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rim Jhim Tower",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Safoora Chowrangi",
+              "name_ur": "",
+              "lat": 24.939138,
+              "lon": 67.156082,
+              "coord_source": "osm:node/4419575568",
+              "is_station": false
+            },
+            {
+              "name": "Mausamiyat Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kamran Chowrangi",
+              "name_ur": "",
+              "lat": 24.923719,
+              "lon": 67.137763,
+              "coord_source": "osm:way/877797819",
+              "is_station": false
+            },
+            {
+              "name": "Darul Sehat Hospital",
+              "name_ur": "دارالصحت ہسپتال",
+              "lat": 24.914236,
+              "lon": 67.127488,
+              "coord_source": "osm:node/5128368408",
+              "is_station": false
+            },
+            {
+              "name": "Johar Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Johar Mor",
+              "name_ur": "",
+              "lat": 24.904729,
+              "lon": 67.113671,
+              "coord_source": "osm:node/974370904",
+              "is_station": false
+            },
+            {
+              "name": "Millennium Mall",
+              "name_ur": "",
+              "lat": 24.900609,
+              "lon": 67.115707,
+              "coord_source": "osm:node/12025425876",
+              "is_station": false
+            },
+            {
+              "name": "Dalmia Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bahria University",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "National Stadium",
+              "name_ur": "",
+              "lat": 24.892804,
+              "lon": 67.082938,
+              "coord_source": "osm:node/5091305056",
+              "is_station": false
+            },
+            {
+              "name": "Aga Khan Hospital",
+              "name_ur": "",
+              "lat": 24.892804,
+              "lon": 67.075098,
+              "coord_source": "osm:relation/17336276",
+              "is_station": false
+            },
+            {
+              "name": "Liaquat National Hospital",
+              "name_ur": "",
+              "lat": 24.890216,
+              "lon": 67.068412,
+              "coord_source": "osm:node/4762117189",
+              "is_station": false
+            },
+            {
+              "name": "New Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "PIB Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jail Chowrangi",
+              "name_ur": "",
+              "lat": 24.884757,
+              "lon": 67.057054,
+              "coord_source": "osm:node/4774672041",
+              "is_station": false
+            },
+            {
+              "name": "Dawood Engineering University",
+              "name_ur": "",
+              "lat": 24.878936,
+              "lon": 67.047507,
+              "coord_source": "osm:way/687683684",
+              "is_station": false
+            },
+            {
+              "name": "Islamia College",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Peoples Secretariat Chowrangi",
+              "name_ur": "",
+              "lat": 24.877154,
+              "lon": 67.043727,
+              "coord_source": "osm:way/122119694",
+              "is_station": false
+            },
+            {
+              "name": "Numaish",
+              "name_ur": "",
+              "lat": 24.873063,
+              "lon": 67.036426,
+              "coord_source": "osm:node/4793639795",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "New Red Bus Karachi (Peoples Bus Service) Route Maps",
+              "url": "https://thinktransportation.net/red-bus-karachi/"
+            },
+            {
+              "title": "Karachi Red Bus routes",
+              "url": "https://redbus.shop/karachi-red-bus-routes"
+            },
+            {
+              "title": "Karachi Peoples Bus Service Routes & Timings",
+              "url": "https://rehbar.pk/info/karachi-peoples-bus-service-routes-and-timings/"
+            }
+          ],
+          "notes": "Added Aug 2023 (Think Transportation). SMTA 2026 starts at Quaid-e-Azam Square Malir Cantt via X-20, Phase 2, Askari 5, Allahwala Chowk, Checkpost 05; Think Transportation starts at Malir Cantt Check Post 5 and adds Rim Jhim Tower, Darul Sehat, Johar Chowrangi, Dalmia Road, National Stadium, PIB Colony, Jail Chowrangi, Dawood University, Peoples Secretariat. 'New Town' (SMTA) placed before PIB Colony; 'Phase 2' is an SMTA via-point with no further detail."
+        },
+        {
+          "id": "EV4",
+          "name": "Bahria Town - Ayesha Manzil",
+          "name_ur": "",
+          "variant": "ev",
+          "color": null,
+          "status": "operational",
+          "launched": "2024-07-24",
+          "length_km": 58,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Bahria Town Karachi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Usmania",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dumba Goth",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Karachi Toll Plaza (M-9)",
+              "name_ur": "",
+              "lat": 24.982162,
+              "lon": 67.227556,
+              "coord_source": "osm:node/7929411241",
+              "is_station": false
+            },
+            {
+              "name": "New Sabzi Mandi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Maymar Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jamali Pul",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Al-Asif Square",
+              "name_ur": "",
+              "lat": 24.948826,
+              "lon": 67.090951,
+              "coord_source": "osm:node/4366233701",
+              "is_station": false
+            },
+            {
+              "name": "Sohrab Goth",
+              "name_ur": "",
+              "lat": 24.945051,
+              "lon": 67.085713,
+              "coord_source": "osm:node/12126380204",
+              "is_station": false
+            },
+            {
+              "name": "Water Pump",
+              "name_ur": "",
+              "lat": 24.936888,
+              "lon": 67.075982,
+              "coord_source": "osm:way/415689748",
+              "is_station": false
+            },
+            {
+              "name": "Ayesha Manzil",
+              "name_ur": "",
+              "lat": 24.927679,
+              "lon": 67.064016,
+              "coord_source": "osm:node/4166787368",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "New Red Bus Karachi (Peoples Bus Service) Route Maps",
+              "url": "https://thinktransportation.net/red-bus-karachi/"
+            },
+            {
+              "title": "Karachi Red Bus routes",
+              "url": "https://redbus.shop/karachi-red-bus-routes"
+            },
+            {
+              "title": "New Routes Announced for Peoples Bus Service Karachi (R13, R12 extension, EV4, R8)",
+              "url": "https://propakistani.pk/2024/07/19/peoples-bus-service-gets-new-routes-in-karachi/"
+            }
+          ],
+          "notes": "Launched 24 Jul 2024 as 'Kathore - Numaish Chowrangi' (ProPakistani/APP); INCPak still says Bahria Town - Numaish. SMTA 2026 and reference polyline: Bahria Town - Ayesha Manzil (SMTA 58 km, Think Transportation 34 km, polyline 43 km). SMTA says 'Old Sabzi Mandi' and 'Malir Link Road'; Think Transportation and the DHA City EV-5 notice say New Sabzi Mandi (used; Malir Link Road omitted as a road name). Think Transportation puts Jamali Pul before New Sabzi Mandi; the DHA City notice order is used."
+        },
+        {
+          "id": "EV5",
+          "name": "DHA City - Sohrab Goth",
+          "name_ur": "",
+          "variant": "ev",
+          "color": null,
+          "status": "operational",
+          "launched": "2024-05-23",
+          "length_km": 48,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "unknown",
+            "currency": "PKR",
+            "flat": null,
+            "slabs": [],
+            "concessions": "At launch SMTA gave Rs 100 Bahria Gate - Sohrab Goth and Rs 150 Sohrab Goth - DHA City; current fare not confirmed (general 80/120 slab may now apply).",
+            "as_of": "2024-05",
+            "source_url": "https://smta.sindh.gov.pk/news/launch-of-new-ev-5-bus-service-operation-dha-city-near-by-goths-towards-down-town"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "DHA City Karachi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kathore",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bahria Town Karachi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Usmania",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dumba Goth",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Karachi Toll Plaza (M-9)",
+              "name_ur": "",
+              "lat": 24.982162,
+              "lon": 67.227556,
+              "coord_source": "osm:node/7929411241",
+              "is_station": false
+            },
+            {
+              "name": "Baqai University",
+              "name_ur": "",
+              "lat": 24.987676,
+              "lon": 67.213885,
+              "coord_source": "osm:way/528125673",
+              "is_station": false
+            },
+            {
+              "name": "New Sabzi Mandi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Maymar Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jamali Pul",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Al-Asif Square",
+              "name_ur": "",
+              "lat": 24.948826,
+              "lon": 67.090951,
+              "coord_source": "osm:node/4366233701",
+              "is_station": false
+            },
+            {
+              "name": "Sohrab Goth",
+              "name_ur": "",
+              "lat": 24.945051,
+              "lon": 67.085713,
+              "coord_source": "osm:node/12126380204",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "New Red Bus Karachi (Peoples Bus Service) Route Maps",
+              "url": "https://thinktransportation.net/red-bus-karachi/"
+            },
+            {
+              "title": "Launch of new EV-5 bus service operation DHA City near-by goths towards down town",
+              "url": "https://smta.sindh.gov.pk/news/launch-of-new-ev-5-bus-service-operation-dha-city-near-by-goths-towards-down-town"
+            },
+            {
+              "title": "DHA City launches bus service for its residents and visitors",
+              "url": "https://www.thenews.com.pk/print/1192590-dha-city-launches-bus-service-for-its-residents-and-visitors"
+            }
+          ],
+          "notes": "Launched 23 May 2024 with DHA City Karachi (initially 2 buses; SMTA notice: departures 06:00 Bahria Town and 07:00 Sohrab Goth). SMTA 2026 (48 km): M9, Kathore, Usmania, Domba Goth, Karachi Toll Plaza, Malir Link Road, Old Sabzi Mandi, Maymar Mor, Al-Asif Square. DHA City launch notice (reverse direction): Sohrab Goth, Al Asif Square, Jamali Bridge, Maymar Mor, New Sabzi Mandi, Baqai University, Karachi Toll Plaza, Dumba Goth, Bahria Town, Kathore, DHA City. Think Transportation length 41 km. Very low frequency."
+        },
+        {
+          "id": "DD1",
+          "name": "Model Colony - Tower (Double Decker)",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "operational",
+          "launched": "2026-01-01",
+          "length_km": 24,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Model Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Malir Halt",
+              "name_ur": "",
+              "lat": 24.884427,
+              "lon": 67.174553,
+              "coord_source": "osm:node/5226556649",
+              "is_station": false
+            },
+            {
+              "name": "Airport",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Colony Gate",
+              "name_ur": "",
+              "lat": 24.88711,
+              "lon": 67.150142,
+              "coord_source": "osm:node/5123980564",
+              "is_station": false
+            },
+            {
+              "name": "Natha Khan Bridge",
+              "name_ur": "",
+              "lat": 24.887074,
+              "lon": 67.143363,
+              "coord_source": "osm:node/8428207421",
+              "is_station": false
+            },
+            {
+              "name": "Drigh Road Station",
+              "name_ur": "ڈرگ روڈ",
+              "lat": 24.887237,
+              "lon": 67.127541,
+              "coord_source": "osm:node/5893613282",
+              "is_station": false
+            },
+            {
+              "name": "PAF Base Faisal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Karsaz",
+              "name_ur": "",
+              "lat": 24.87616,
+              "lon": 67.10106,
+              "coord_source": "osm:node/4758254637",
+              "is_station": false
+            },
+            {
+              "name": "Baloch Colony",
+              "name_ur": "",
+              "lat": 24.867295,
+              "lon": 67.082761,
+              "coord_source": "osm:node/3523446756",
+              "is_station": false
+            },
+            {
+              "name": "Nursery",
+              "name_ur": "",
+              "lat": 24.860189,
+              "lon": 67.062246,
+              "coord_source": "osm:way/589611546",
+              "is_station": false
+            },
+            {
+              "name": "FTC",
+              "name_ur": "",
+              "lat": 24.858705,
+              "lon": 67.050093,
+              "coord_source": "osm:way/96587948",
+              "is_station": false
+            },
+            {
+              "name": "Regent Plaza",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Metropole",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Press Club",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "I.I. Chundrigar Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Tower",
+              "name_ur": "",
+              "lat": 24.847935,
+              "lon": 66.99537,
+              "coord_source": "osm:node/5133250067",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "Double-decker buses introduced in Karachi, to be available to the public from tomorrow",
+              "url": "https://www.dawn.com/news/1964276"
+            },
+            {
+              "title": "Karachi Expands Double-Decker Bus Route",
+              "url": "https://propakistani.pk/2026/02/16/karachi-expands-double-decker-bus-route/"
+            },
+            {
+              "title": "Double-decker buses return to Karachi after decades, trial service begins",
+              "url": "https://tribune.com.pk/story/2584770/double-decker-buses-return-to-karachi-after-decades-trial-service-begins"
+            }
+          ],
+          "notes": "PBS double-decker service: open to public 1 Jan 2026 between Malir/Model Colony and Sharea Faisal (Dawn stops: Malir Halt, Airport, Colony Gate, Natha Khan Bridge, Drigh Road, Nursery, Baloch Colony, FTC), extended to Tower from 16 Feb 2026. SMTA map index code 'DD01', 24 km: Model Colony Pathak, Malir Halt, Colony Gate, Nata Khan, PAF Base Faisal, Karsaz, Nursery, FTC, Regent Plaza, Metropole Hotel, Press Club, I.I. Chundrigar Road, Tower. About 5 double-deckers imported. Fare Rs 80-120 (Dawn). Coordinates checked against the R1 reference polyline (same corridor). Variant 'regular' because propulsion not confirmed. Baloch Colony vs Nursery order from OSM positions."
+        }
+      ]
+    },
+    {
+      "id": "karachi-pink-bus",
+      "city": "karachi",
+      "name": "Pink Bus (Peoples Bus Service, women-only)",
+      "name_ur": "پنک بس",
+      "operator": "Sindh Mass Transit Authority; operated by NRTC",
+      "mode": "bus",
+      "website": "https://smta.gos.pk/route-map",
+      "helpline": "0800-07682",
+      "payment": "Cash on board; Sindh Mass Transit (Zindigi) card where enabled",
+      "fare_rules": {
+        "type": "distance_slab",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [
+          {
+            "up_to_km": 15,
+            "fare": 80
+          },
+          {
+            "up_to_km": null,
+            "fare": 120
+          }
+        ],
+        "concessions": "Girls under 5 free. Pink fare was Rs 50 in 2023-2024; rehbar.pk/redbus.shop say pink uses the same 80/120 slab since Feb 2025, but Nov 2025 news for the Abdullah Chowk route still quotes Rs 50.",
+        "as_of": "2025-02-01",
+        "source_url": "https://www.dawn.com/news/1888967"
+      },
+      "hours": {
+        "start": "07:00",
+        "end": "20:00",
+        "notes": "Varies by source: Zameen (2023) 07:00-20:00; redbus.shop peak hours only; Abdullah Chowk route 08-09, 13-14, 17-19."
+      },
+      "sources": [
+        {
+          "title": "Karachi Bus Route Map",
+          "url": "https://smta.gos.pk/route-map",
+          "publisher": "Sindh Mass Transit Authority",
+          "date": "2026",
+          "official": true
+        },
+        {
+          "title": "Karachi Peoples Bus Service Routes & Timings",
+          "url": "https://rehbar.pk/info/karachi-peoples-bus-service-routes-and-timings/",
+          "publisher": "Rehbar",
+          "date": null,
+          "official": false
+        },
+        {
+          "title": "Govt Launches New Routes for Pink Bus Service in Karachi",
+          "url": "https://propakistani.pk/2024/04/15/govt-launches-new-routes-for-pink-bus-service-in-karachi/",
+          "publisher": "ProPakistani",
+          "date": "2024-04-15",
+          "official": false
+        },
+        {
+          "title": "Karachi Pink Bus service: new route, timings for women from Nov 17",
+          "url": "https://tribune.com.pk/story/2577568/karachi-pink-bus-gets-new-route-timings-for-women",
+          "publisher": "The Express Tribune",
+          "date": "2025-11-15",
+          "official": false
+        },
+        {
+          "title": "Pink Bus Service in Karachi: Route, Timings & More",
+          "url": "https://www.zameen.com/blog/peoples-pink-bus-service-karachi.html",
+          "publisher": "Zameen",
+          "date": "2023-03-06",
+          "official": false
+        }
+      ],
+      "routes": [
+        {
+          "id": "R1",
+          "name": "Khokhrapar - Dockyard (Pink)",
+          "name_ur": "",
+          "variant": "pink",
+          "color": null,
+          "status": "operational",
+          "launched": "2023-02-01",
+          "length_km": 31,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": true,
+          "stops": [
+            {
+              "name": "Khokhrapar",
+              "name_ur": "",
+              "lat": 24.903373,
+              "lon": 67.208845,
+              "coord_source": "osm:node/5339035694",
+              "is_station": false
+            },
+            {
+              "name": "Saudabad Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Model Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "RCD Ground",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kalaboard",
+              "name_ur": "",
+              "lat": 24.882327,
+              "lon": 67.182328,
+              "coord_source": "osm:node/4674618397",
+              "is_station": false
+            },
+            {
+              "name": "Malir Halt",
+              "name_ur": "",
+              "lat": 24.884427,
+              "lon": 67.174553,
+              "coord_source": "osm:node/5226556649",
+              "is_station": false
+            },
+            {
+              "name": "Colony Gate",
+              "name_ur": "",
+              "lat": 24.88711,
+              "lon": 67.150142,
+              "coord_source": "osm:node/5123980564",
+              "is_station": false
+            },
+            {
+              "name": "Natha Khan Bridge",
+              "name_ur": "",
+              "lat": 24.887074,
+              "lon": 67.143363,
+              "coord_source": "osm:node/8428207421",
+              "is_station": false
+            },
+            {
+              "name": "Drigh Road Station",
+              "name_ur": "ڈرگ روڈ",
+              "lat": 24.887237,
+              "lon": 67.127541,
+              "coord_source": "osm:node/5893613282",
+              "is_station": false
+            },
+            {
+              "name": "PAF Base Faisal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Karsaz",
+              "name_ur": "",
+              "lat": 24.87616,
+              "lon": 67.10106,
+              "coord_source": "osm:node/4758254637",
+              "is_station": false
+            },
+            {
+              "name": "Lal Kothi",
+              "name_ur": "",
+              "lat": 24.86215,
+              "lon": 67.069064,
+              "coord_source": "osm:node/8428197373",
+              "is_station": false
+            },
+            {
+              "name": "Nursery",
+              "name_ur": "",
+              "lat": 24.860189,
+              "lon": 67.062246,
+              "coord_source": "osm:way/589611546",
+              "is_station": false
+            },
+            {
+              "name": "FTC",
+              "name_ur": "",
+              "lat": 24.858705,
+              "lon": 67.050093,
+              "coord_source": "osm:way/96587948",
+              "is_station": false
+            },
+            {
+              "name": "Regent Plaza",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Metropole",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Fawwara Chowk",
+              "name_ur": "",
+              "lat": 24.853725,
+              "lon": 67.028432,
+              "coord_source": "osm:way/26182912",
+              "is_station": false
+            },
+            {
+              "name": "Arts Council",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Press Club",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shaheen Complex",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "I.I. Chundrigar Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Tower",
+              "name_ur": "",
+              "lat": 24.847935,
+              "lon": 66.99537,
+              "coord_source": "osm:node/5133250067",
+              "is_station": false
+            },
+            {
+              "name": "ICI Flyover",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Fisheries",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dockyard",
+              "name_ur": "",
+              "lat": 24.833299,
+              "lon": 66.971925,
+              "coord_source": "osm:node/5585878046",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "Karachi Peoples Bus Service Routes & Timings",
+              "url": "https://rehbar.pk/info/karachi-peoples-bus-service-routes-and-timings/"
+            },
+            {
+              "title": "Govt Launches New Routes for Pink Bus Service in Karachi",
+              "url": "https://propakistani.pk/2024/04/15/govt-launches-new-routes-for-pink-bus-service-in-karachi/"
+            },
+            {
+              "title": "Pink Bus Service in Karachi (Zameen, 2023)",
+              "url": "https://www.zameen.com/blog/peoples-pink-bus-service-karachi.html"
+            }
+          ],
+          "notes": "Women-only pink buses on the same alignment as red R1 (SMTA directory classifies R1 under 'Pink Bus'; rehbar.pk: pink buses mirror red routes). First pink route (Model Colony - Tower via Shahrah-e-Faisal), launched 1 Feb 2023; SMTA 2026 shows the extended R1 alignment. Pink timetable unclear: redbus.shop says peak hours only; Zameen (2023) 07:00-20:00, 20-min peak / hourly off-peak. Stop list copied from red R1; see that route's notes."
+        },
+        {
+          "id": "R2",
+          "name": "Power House Chowrangi - Korangi Crossing (Pink)",
+          "name_ur": "",
+          "variant": "pink",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": 31,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": true,
+          "stops": [
+            {
+              "name": "Power House Chowrangi",
+              "name_ur": "",
+              "lat": 24.985712,
+              "lon": 67.065683,
+              "coord_source": "osm:way/176315821",
+              "is_station": false
+            },
+            {
+              "name": "UP Mor",
+              "name_ur": "یو پی موڑ",
+              "lat": 24.972253,
+              "lon": 67.066678,
+              "coord_source": "osm:node/1868061102",
+              "is_station": false
+            },
+            {
+              "name": "Nagan Chowrangi",
+              "name_ur": "",
+              "lat": 24.965857,
+              "lon": 67.066642,
+              "coord_source": "osm:node/5333549822",
+              "is_station": false
+            },
+            {
+              "name": "Shafiq Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sohrab Goth",
+              "name_ur": "",
+              "lat": 24.945051,
+              "lon": 67.085713,
+              "coord_source": "osm:node/12126380204",
+              "is_station": false
+            },
+            {
+              "name": "Gulshan Chowrangi",
+              "name_ur": "گلشن چورنگی",
+              "lat": 24.924388,
+              "lon": 67.091563,
+              "coord_source": "osm:node/253623506",
+              "is_station": false
+            },
+            {
+              "name": "NIPA",
+              "name_ur": "",
+              "lat": 24.917822,
+              "lon": 67.097137,
+              "coord_source": "osm:node/253626696",
+              "is_station": false
+            },
+            {
+              "name": "Johar Mor",
+              "name_ur": "",
+              "lat": 24.904667,
+              "lon": 67.113586,
+              "coord_source": "osm:node/5340602456",
+              "is_station": false
+            },
+            {
+              "name": "COD",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Drigh Road Station",
+              "name_ur": "ڈرگ روڈ",
+              "lat": 24.887237,
+              "lon": 67.127541,
+              "coord_source": "osm:node/5893613282",
+              "is_station": false
+            },
+            {
+              "name": "Natha Khan Bridge",
+              "name_ur": "",
+              "lat": 24.887074,
+              "lon": 67.143363,
+              "coord_source": "osm:node/8428207421",
+              "is_station": false
+            },
+            {
+              "name": "Colony Gate",
+              "name_ur": "",
+              "lat": 24.88711,
+              "lon": 67.150142,
+              "coord_source": "osm:node/5123980564",
+              "is_station": false
+            },
+            {
+              "name": "Shah Faisal Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Singer Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khaddi Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Korangi No. 5",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nasir Jump",
+              "name_ur": "",
+              "lat": 24.820463,
+              "lon": 67.125114,
+              "coord_source": "osm:node/12126274344",
+              "is_station": false
+            },
+            {
+              "name": "Indus Hospital",
+              "name_ur": "",
+              "lat": 24.816587,
+              "lon": 67.11146,
+              "coord_source": "osm:way/1144173764",
+              "is_station": false
+            },
+            {
+              "name": "Korangi Crossing",
+              "name_ur": "",
+              "lat": 24.817025,
+              "lon": 67.107953,
+              "coord_source": "osm:node/3418586768",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "Karachi Peoples Bus Service Routes & Timings",
+              "url": "https://rehbar.pk/info/karachi-peoples-bus-service-routes-and-timings/"
+            },
+            {
+              "title": "Govt Launches New Routes for Pink Bus Service in Karachi",
+              "url": "https://propakistani.pk/2024/04/15/govt-launches-new-routes-for-pink-bus-service-in-karachi/"
+            },
+            {
+              "title": "Pink Bus Service in Karachi (Zameen, 2023)",
+              "url": "https://www.zameen.com/blog/peoples-pink-bus-service-karachi.html"
+            }
+          ],
+          "notes": "Women-only pink buses on the same alignment as red R2 (SMTA directory classifies R2 under 'Pink Bus'; rehbar.pk: pink buses mirror red routes). Zameen (2023): Power House - Singer Chowrangi/Korangi No. 5; SMTA 2026: North Karachi - Korangi Crossing. Pink timetable unclear: redbus.shop says peak hours only; Zameen (2023) 07:00-20:00, 20-min peak / hourly off-peak. Stop list copied from red R2; see that route's notes."
+        },
+        {
+          "id": "R3",
+          "name": "Power House Chowrangi - Nasir Jump (Pink)",
+          "name_ur": "",
+          "variant": "pink",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": 32,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": true,
+          "stops": [
+            {
+              "name": "Power House Chowrangi",
+              "name_ur": "",
+              "lat": 24.985712,
+              "lon": 67.065683,
+              "coord_source": "osm:way/176315821",
+              "is_station": false
+            },
+            {
+              "name": "UP Mor",
+              "name_ur": "یو پی موڑ",
+              "lat": 24.972253,
+              "lon": 67.066678,
+              "coord_source": "osm:node/1868061102",
+              "is_station": false
+            },
+            {
+              "name": "Nagan Chowrangi",
+              "name_ur": "",
+              "lat": 24.965857,
+              "lon": 67.066642,
+              "coord_source": "osm:node/5333549822",
+              "is_station": false
+            },
+            {
+              "name": "Sakhi Hasan",
+              "name_ur": "",
+              "lat": 24.954877,
+              "lon": 67.058054,
+              "coord_source": "osm:node/5176449658",
+              "is_station": false
+            },
+            {
+              "name": "Five Star Chowrangi",
+              "name_ur": "",
+              "lat": 24.942723,
+              "lon": 67.047606,
+              "coord_source": "osm:node/3848454294",
+              "is_station": false
+            },
+            {
+              "name": "KDA Chowrangi",
+              "name_ur": "",
+              "lat": 24.931405,
+              "lon": 67.037512,
+              "coord_source": "osm:node/3483501207",
+              "is_station": false
+            },
+            {
+              "name": "Board Office",
+              "name_ur": "",
+              "lat": 24.92662,
+              "lon": 67.033248,
+              "coord_source": "osm:node/8474862577",
+              "is_station": false
+            },
+            {
+              "name": "Nazimabad Petrol Pump",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nazimabad Eidgah Ground",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Liaquatabad No. 10",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Essa Nagri",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Civic Centre",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "National Stadium",
+              "name_ur": "",
+              "lat": 24.892804,
+              "lon": 67.082938,
+              "coord_source": "osm:node/5091305056",
+              "is_station": false
+            },
+            {
+              "name": "Karsaz",
+              "name_ur": "",
+              "lat": 24.87616,
+              "lon": 67.10106,
+              "coord_source": "osm:node/4758254637",
+              "is_station": false
+            },
+            {
+              "name": "Nursery",
+              "name_ur": "",
+              "lat": 24.860189,
+              "lon": 67.062246,
+              "coord_source": "osm:way/589611546",
+              "is_station": false
+            },
+            {
+              "name": "FTC",
+              "name_ur": "",
+              "lat": 24.857802,
+              "lon": 67.050555,
+              "coord_source": "osm:way/483149614",
+              "is_station": false
+            },
+            {
+              "name": "Kala Pul",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Akhtar Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "KPT Interchange",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shan Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nasir Jump",
+              "name_ur": "",
+              "lat": 24.820463,
+              "lon": 67.125114,
+              "coord_source": "osm:node/12126274344",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "Karachi Peoples Bus Service Routes & Timings",
+              "url": "https://rehbar.pk/info/karachi-peoples-bus-service-routes-and-timings/"
+            },
+            {
+              "title": "Govt Launches New Routes for Pink Bus Service in Karachi",
+              "url": "https://propakistani.pk/2024/04/15/govt-launches-new-routes-for-pink-bus-service-in-karachi/"
+            },
+            {
+              "title": "Pink Bus Service in Karachi (Zameen, 2023)",
+              "url": "https://www.zameen.com/blog/peoples-pink-bus-service-karachi.html"
+            }
+          ],
+          "notes": "Women-only pink buses on the same alignment as red R3 (SMTA directory classifies R3 under 'Pink Bus'; rehbar.pk: pink buses mirror red routes). Listed as pink by SMTA 2026, rehbar.pk and Bol News (2024: Power House - Nasir Jump); launch date not found. Pink timetable unclear: redbus.shop says peak hours only; Zameen (2023) 07:00-20:00, 20-min peak / hourly off-peak. Stop list copied from red R3; see that route's notes."
+        },
+        {
+          "id": "R9",
+          "name": "Gulshan-e-Hadeed - Tower (Pink)",
+          "name_ur": "",
+          "variant": "pink",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": 48,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": true,
+          "stops": [
+            {
+              "name": "Gulshan-e-Hadeed",
+              "name_ur": "",
+              "lat": 24.869716,
+              "lon": 67.360165,
+              "coord_source": "osm:way/481044367",
+              "is_station": false
+            },
+            {
+              "name": "Allah Wali Chowrangi",
+              "name_ur": "",
+              "lat": 24.864346,
+              "lon": 67.349908,
+              "coord_source": "osm:way/288879979",
+              "is_station": false
+            },
+            {
+              "name": "Steel Town",
+              "name_ur": "",
+              "lat": 24.86002,
+              "lon": 67.336187,
+              "coord_source": "osm:node/4299888089",
+              "is_station": false
+            },
+            {
+              "name": "Steel Mill Mor",
+              "name_ur": "",
+              "lat": 24.86166,
+              "lon": 67.324723,
+              "coord_source": "osm:way/1430155862",
+              "is_station": false
+            },
+            {
+              "name": "Port Qasim Chowrangi",
+              "name_ur": "",
+              "lat": 24.866274,
+              "lon": 67.300176,
+              "coord_source": "osm:node/4299624393",
+              "is_station": false
+            },
+            {
+              "name": "Razzakabad",
+              "name_ur": "",
+              "lat": 24.864182,
+              "lon": 67.292654,
+              "coord_source": "osm:node/4783144472",
+              "is_station": false
+            },
+            {
+              "name": "Abdullah Goth",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chowkundi Mor",
+              "name_ur": "",
+              "lat": 24.859557,
+              "lon": 67.272819,
+              "coord_source": "osm:node/5217715786",
+              "is_station": false
+            },
+            {
+              "name": "FAST University",
+              "name_ur": "",
+              "lat": 24.856921,
+              "lon": 67.264637,
+              "coord_source": "osm:way/39368356",
+              "is_station": false
+            },
+            {
+              "name": "Bhains Colony Mor",
+              "name_ur": "",
+              "lat": 24.855901,
+              "lon": 67.258487,
+              "coord_source": "osm:node/4783144464",
+              "is_station": false
+            },
+            {
+              "name": "Manzil Pump",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Quaidabad",
+              "name_ur": "",
+              "lat": 24.855128,
+              "lon": 67.211744,
+              "coord_source": "osm:node/5217715771",
+              "is_station": false
+            },
+            {
+              "name": "Murghi Khana",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Prince Aly Boys School",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "NADRA Center Malir",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Malir Session Court",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Malir 15",
+              "name_ur": "",
+              "lat": 24.879024,
+              "lon": 67.188264,
+              "coord_source": "osm:node/4299693694",
+              "is_station": false
+            },
+            {
+              "name": "Kalaboard",
+              "name_ur": "",
+              "lat": 24.882327,
+              "lon": 67.182328,
+              "coord_source": "osm:node/4674618397",
+              "is_station": false
+            },
+            {
+              "name": "Malir Halt",
+              "name_ur": "",
+              "lat": 24.884427,
+              "lon": 67.174553,
+              "coord_source": "osm:node/5226556649",
+              "is_station": false
+            },
+            {
+              "name": "Colony Gate",
+              "name_ur": "",
+              "lat": 24.88711,
+              "lon": 67.150142,
+              "coord_source": "osm:node/5123980564",
+              "is_station": false
+            },
+            {
+              "name": "Natha Khan Bridge",
+              "name_ur": "",
+              "lat": 24.887074,
+              "lon": 67.143363,
+              "coord_source": "osm:node/8428207421",
+              "is_station": false
+            },
+            {
+              "name": "Drigh Road Station",
+              "name_ur": "ڈرگ روڈ",
+              "lat": 24.887237,
+              "lon": 67.127541,
+              "coord_source": "osm:node/5893613282",
+              "is_station": false
+            },
+            {
+              "name": "PAF Base Faisal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Karsaz",
+              "name_ur": "",
+              "lat": 24.87616,
+              "lon": 67.10106,
+              "coord_source": "osm:node/4758254637",
+              "is_station": false
+            },
+            {
+              "name": "Lal Kothi",
+              "name_ur": "",
+              "lat": 24.86215,
+              "lon": 67.069064,
+              "coord_source": "osm:node/8428197373",
+              "is_station": false
+            },
+            {
+              "name": "Nursery",
+              "name_ur": "",
+              "lat": 24.860189,
+              "lon": 67.062246,
+              "coord_source": "osm:way/589611546",
+              "is_station": false
+            },
+            {
+              "name": "FTC",
+              "name_ur": "",
+              "lat": 24.858705,
+              "lon": 67.050093,
+              "coord_source": "osm:way/96587948",
+              "is_station": false
+            },
+            {
+              "name": "Regent Plaza",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Metropole",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Fawwara Chowk",
+              "name_ur": "",
+              "lat": 24.853725,
+              "lon": 67.028432,
+              "coord_source": "osm:way/26182912",
+              "is_station": false
+            },
+            {
+              "name": "Arts Council",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Press Club",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shaheen Complex",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "I.I. Chundrigar Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Tower",
+              "name_ur": "",
+              "lat": 24.847935,
+              "lon": 66.99537,
+              "coord_source": "osm:node/5133250067",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "Karachi Peoples Bus Service Routes & Timings",
+              "url": "https://rehbar.pk/info/karachi-peoples-bus-service-routes-and-timings/"
+            },
+            {
+              "title": "Govt Launches New Routes for Pink Bus Service in Karachi",
+              "url": "https://propakistani.pk/2024/04/15/govt-launches-new-routes-for-pink-bus-service-in-karachi/"
+            },
+            {
+              "title": "Pink Bus Service in Karachi (Zameen, 2023)",
+              "url": "https://www.zameen.com/blog/peoples-pink-bus-service-karachi.html"
+            }
+          ],
+          "notes": "Women-only pink buses on the same alignment as red R9 (SMTA directory classifies R9 under 'Pink Bus'; rehbar.pk: pink buses mirror red routes). Listed as pink by SMTA 2026, rehbar.pk and Bol News (2024). Pink timetable unclear: redbus.shop says peak hours only; Zameen (2023) 07:00-20:00, 20-min peak / hourly off-peak. Stop list copied from red R9; see that route's notes."
+        },
+        {
+          "id": "R10",
+          "name": "Numaish - Ibrahim Hyderi (Pink)",
+          "name_ur": "",
+          "variant": "pink",
+          "color": null,
+          "status": "operational",
+          "launched": "2024-04-19",
+          "length_km": 30,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": true,
+          "stops": [
+            {
+              "name": "Numaish",
+              "name_ur": "",
+              "lat": 24.873017,
+              "lon": 67.036194,
+              "coord_source": "osm:node/1868568300",
+              "is_station": false
+            },
+            {
+              "name": "Taj Complex",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mobile Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Zaibunnisa Street",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Zainab Market",
+              "name_ur": "",
+              "lat": 24.855704,
+              "lon": 67.028272,
+              "coord_source": "osm:node/5119792984",
+              "is_station": false
+            },
+            {
+              "name": "Metropole",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Frere Hall",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Teen Talwar",
+              "name_ur": "3 تلوار",
+              "lat": 24.833818,
+              "lon": 67.033666,
+              "coord_source": "osm:node/3677499728",
+              "is_station": false
+            },
+            {
+              "name": "Do Talwar",
+              "name_ur": "",
+              "lat": 24.821338,
+              "lon": 67.034114,
+              "coord_source": "osm:node/292144327",
+              "is_station": false
+            },
+            {
+              "name": "Pak Tower",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Abdullah Shah Ghazi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dolmen Mall Clifton",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Clock Tower DHA",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "26th Street",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Masjid-e-Ayesha",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khayaban-e-Ittehad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rahat Park",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Akhtar Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "KPT Interchange",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Korangi Crossing",
+              "name_ur": "",
+              "lat": 24.817025,
+              "lon": 67.107953,
+              "coord_source": "osm:node/3418586768",
+              "is_station": false
+            },
+            {
+              "name": "CBM University",
+              "name_ur": "",
+              "lat": 24.812161,
+              "lon": 67.117155,
+              "coord_source": "osm:node/5144939660",
+              "is_station": false
+            },
+            {
+              "name": "PARCO",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ibrahim Hyderi",
+              "name_ur": "",
+              "lat": 24.797538,
+              "lon": 67.135893,
+              "coord_source": "osm:node/5283675745",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Karachi Bus Route Map / Full Provincial Route Directory",
+              "url": "https://smta.gos.pk/route-map"
+            },
+            {
+              "title": "Karachi Peoples Bus Service Routes & Timings",
+              "url": "https://rehbar.pk/info/karachi-peoples-bus-service-routes-and-timings/"
+            },
+            {
+              "title": "Govt Launches New Routes for Pink Bus Service in Karachi",
+              "url": "https://propakistani.pk/2024/04/15/govt-launches-new-routes-for-pink-bus-service-in-karachi/"
+            },
+            {
+              "title": "Pink Bus Service in Karachi (Zameen, 2023)",
+              "url": "https://www.zameen.com/blog/peoples-pink-bus-service-karachi.html"
+            }
+          ],
+          "notes": "Women-only pink buses on the same alignment as red R10 (SMTA directory classifies R10 under 'Pink Bus'; rehbar.pk: pink buses mirror red routes). Pink R10 launched 19 Apr 2024 as Numaish - Sea View Clock Tower; SMTA 2026 lists Numaish - Ibrahim Hyderi. Pink timetable unclear: redbus.shop says peak hours only; Zameen (2023) 07:00-20:00, 20-min peak / hourly off-peak. Stop list copied from red R10; see that route's notes."
+        },
+        {
+          "id": "PINK-ACN",
+          "name": "Abdullah Chowk - Numaish (Pink)",
+          "name_ur": "",
+          "variant": "pink",
+          "color": null,
+          "status": "unverified",
+          "launched": "2025-11-17",
+          "length_km": null,
+          "headway_min": null,
+          "hours": {
+            "start": "08:00",
+            "end": "19:00"
+          },
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 50,
+            "slabs": [],
+            "concessions": "Girls under 5 free",
+            "as_of": "2025-11",
+            "source_url": "https://www.techjuice.pk/karachi-pink-bus-gets-new-route-timings-for-women/"
+          },
+          "women_only": true,
+          "stops": [
+            {
+              "name": "Abdullah Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Numaish",
+              "name_ur": "",
+              "lat": 24.873017,
+              "lon": 67.036194,
+              "coord_source": "osm:node/1868568300",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Karachi Pink Bus service: new route, timings for women from Nov 17",
+              "url": "https://tribune.com.pk/story/2577568/karachi-pink-bus-gets-new-route-timings-for-women"
+            },
+            {
+              "title": "Karachi Pink Bus Gets New Route & Timings for Women",
+              "url": "https://www.techjuice.pk/karachi-pink-bus-gets-new-route-timings-for-women/"
+            },
+            {
+              "title": "Karachi Pink Bus service updates route and timings for women",
+              "url": "https://www.nation.com.pk/16-Nov-2025/karachi-pink-bus-service-updates-route-timings-women"
+            }
+          ],
+          "notes": "Announced by the Sindh Information Dept to start 17 Nov 2025; runs only in three windows: 08:00-09:00, 13:00-14:00 and 17:00-19:00. Fare quoted as Rs 50 although the general PBS fare is Rs 80/120 since Feb 2025 (possibly a stale figure). No code, intermediate stops or length published, and not shown in the SMTA 2026 directory, hence status 'unverified'. 'Abdullah Chowk' is probably the Surjani Town junction at the Green Line northern terminus (unverified); coordinates left null."
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    "No official stop-level ordered lists: SMTA gives abbreviated 'via' lists; order merged with Think Transportation (Feb 2025) and OSM positions on reference polylines. Mid-route orders flagged in notes are unverified.",
+    "R14 (Gulshan-e-Maymar - Tower, EV, from 17 Mar 2026): code 'Route 14' only from the SMTA directory; single-source stop list; no reference geometry.",
+    "R12 northern terminal Memon Goth (SMTA, ProPakistani 2024) vs Naddi Kinara (Think Transportation); reference polyline does not appear to reach Memon Goth.",
+    "R2 terminal Indus Hospital vs Korangi Crossing; R11 terminal Ziauddin Hospital vs Shireen Jinnah Colony; R4 downtown alignment (M.A. Jinnah Road vs Sindh High Court).",
+    "Whether pink buses on R1/R2/R3/R9/R10 run all day or only at peaks; pink fare Rs 50 vs 80/120.",
+    "Abdullah Chowk - Numaish pink route (Nov 2025): Abdullah Chowk location, intermediate stops, and whether it still runs (absent from SMTA directory).",
+    "Operating hours 07:00-22:00 (route-info sites) vs 07:00-20:00 (INCPak); no official 2026 timetable or headways.",
+    "Student/senior concessions contradictory (rehbar.pk: none; INCPak: available).",
+    "SMTA directory lists R5 (Surjani - Masroor), R6 (Gulshan-e-Bihar - Singer Chowrangi) and R7 (Mosamiyat - Gulshan-e-Ghazi) as Inactive; excluded.",
+    "Planned 500 EV buses for new Karachi routes (Ittehad Town, Banaras, Liaquatabad, Orangi etc., 2026 announcements); no launched routes confirmed besides R14.",
+    "Double-decker propulsion, headway and exact first stop ('Model Colony Pathak'); EV-5 current fare."
+  ]
+}

@@ -1,0 +1,21 @@
+name: Stop location · اسٹاپ کی لوکیشن
+description: A stop is in the wrong place on the map
+labels: [data, location]
+body:
+  - type: input
+    id: stop
+    attributes:
+      label: City and stop name
+    validations:
+      required: true
+  - type: input
+    id: correct
+    attributes:
+      label: Correct position
+      description: Coordinates (lat, lon) or an openstreetmap.org / Google Maps link to the exact spot
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes

@@ -1,0 +1,316 @@
+{
+  "id": "hyderabad-pbs",
+  "city": "hyderabad",
+  "name": "Peoples Bus Service Hyderabad",
+  "name_ur": "پیپلز بس سروس",
+  "operator": "Sindh Mass Transit Authority (Transport & Mass Transit Dept, Govt of Sindh)",
+  "mode": "bus",
+  "website": "https://smta.gos.pk",
+  "helpline": "0800-07682",
+  "payment": "cash (ticket on board); card/app not confirmed for this city",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "Not published for non-Karachi routes. Launch-era reports cite PKR 50-100; Sukkur-Shikarpur (2026) passengers pay 50% of fare with Sindh govt subsidising the rest.",
+    "as_of": null,
+    "source_url": "https://en.wikipedia.org/wiki/Peoples_Bus_Service"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "Not published; PBS launched in 2022 with 08:00-20:00 operation (Wikipedia). "
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "SMTA Route Map & Provincial Route Directory",
+      "url": "https://smta.gos.pk/route-map",
+      "publisher": "Sindh Mass Transit Authority",
+      "date": "2026",
+      "official": true
+    },
+    {
+      "title": "Peoples Bus Service",
+      "url": "https://en.wikipedia.org/wiki/Peoples_Bus_Service",
+      "publisher": "Wikipedia",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "HYD-01",
+      "name": "Hyder Chowk - Hatri Police Station",
+      "name_ur": "",
+      "variant": "red",
+      "color": null,
+      "status": "operational",
+      "launched": "2022-11",
+      "length_km": 15,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Hyder Chowk",
+          "name_ur": "",
+          "lat": 25.385903,
+          "lon": 68.367293,
+          "coord_source": "auto:osm:node/1119635453",
+          "is_station": false
+        },
+        {
+          "name": "Fatima Jinnah NBP",
+          "name_ur": "",
+          "lat": 25.390818,
+          "lon": 68.364576,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Civic Center",
+          "name_ur": "",
+          "lat": 25.395733,
+          "lon": 68.361859,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Giddu Chowk",
+          "name_ur": "",
+          "lat": 25.400649,
+          "lon": 68.359141,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Qasim Chowk",
+          "name_ur": "",
+          "lat": 25.405564,
+          "lon": 68.356424,
+          "coord_source": "osm:node/10959283278",
+          "is_station": false
+        },
+        {
+          "name": "Central Jail Hyderabad",
+          "name_ur": "",
+          "lat": 25.411093,
+          "lon": 68.367766,
+          "coord_source": "auto:osm:way/95497289",
+          "is_station": false
+        },
+        {
+          "name": "ISRA Hospital",
+          "name_ur": "",
+          "lat": 25.434852,
+          "lon": 68.382564,
+          "coord_source": "osm:node/10959283291",
+          "is_station": false
+        },
+        {
+          "name": "Hatri Police Station",
+          "name_ur": "",
+          "lat": 25.45518,
+          "lon": 68.387725,
+          "coord_source": "osm:node/10959297433",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "HYD-01",
+          "url": "https://smta.gos.pk/routes/21"
+        },
+        {
+          "title": "First route of Peoples Bus Service in Hyderabad announced",
+          "url": "https://www.thenews.com.pk/print/1006734-first-route-of-peoples-bus-service-in-hyderabad-announced"
+        }
+      ],
+      "notes": "Official SMTA list (9 m buses). Nov 2022 announcement listed Hyder Chowk, Gul Centre, Thandi Sadak, Agriculture Complex, Wahdat Colony, Sindh Museum, Qasim Chowk, Jail Road, Isra Hospital, Hatri PS (15 stops in total). OSM has SMTA-tagged stops (network 'Hatri-Hyder Chowk', refs 5-10: Qasimabad, Qasim Chowk, Pathan Colony, Qasimabad, Hala Naka, Isra Hospital) plus 'Hatri Bypass Bus Stop', used here for the Hatri terminal."
+    },
+    {
+      "id": "HYD-02",
+      "name": "Hala Naka - Tando Allahyar",
+      "name_ur": "",
+      "variant": "red",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-04-22",
+      "length_km": 40,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Hala Naka",
+          "name_ur": "",
+          "lat": 25.418355,
+          "lon": 68.378919,
+          "coord_source": "osm:node/5285951834",
+          "is_station": false
+        },
+        {
+          "name": "New Sabzi Mandi",
+          "name_ur": "",
+          "lat": 25.408839,
+          "lon": 68.395028,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mirrani Goth",
+          "name_ur": "",
+          "lat": 25.399324,
+          "lon": 68.411137,
+          "coord_source": "auto:osm:node/9960537161",
+          "is_station": false
+        },
+        {
+          "name": "Tando Jam Toll",
+          "name_ur": "",
+          "lat": 25.403003,
+          "lon": 68.431467,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Detta Goth",
+          "name_ur": "",
+          "lat": 25.406682,
+          "lon": 68.451796,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Goth Misri Solangi",
+          "name_ur": "",
+          "lat": 25.410361,
+          "lon": 68.472126,
+          "coord_source": "auto:osm:node/9960514114",
+          "is_station": false
+        },
+        {
+          "name": "Tando Jam",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Khesana Mori",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Rashidabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Tando Allahyar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "HYD-02",
+          "url": "https://smta.gos.pk/routes/22"
+        },
+        {
+          "title": "Peoples Bus Service between Tando Allahyar, Hyderabad from tomorrow",
+          "url": "https://www.dawn.com/news/1993595/peoples-bus-service-between-tando-allahyar-hyderabad-from-tomorrow"
+        }
+      ],
+      "notes": "Official SMTA list. A Hyderabad - Tando Jam extension ran from 2023; Tando Allahyar service inaugurated 22 Apr 2026."
+    },
+    {
+      "id": "HYD-03",
+      "name": "Hyder Chowk - Kohsar Colony",
+      "name_ur": "",
+      "variant": "red",
+      "color": null,
+      "status": "suspended",
+      "launched": null,
+      "length_km": 14,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Hyder Chowk",
+          "name_ur": "",
+          "lat": 25.385903,
+          "lon": 68.367293,
+          "coord_source": "auto:osm:node/1119635453",
+          "is_station": false
+        },
+        {
+          "name": "Tandi Sarak",
+          "name_ur": "",
+          "lat": 25.379604,
+          "lon": 68.364254,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Autobahn Road",
+          "name_ur": "",
+          "lat": 25.373306,
+          "lon": 68.361215,
+          "coord_source": "auto:osm:way/490940614",
+          "is_station": false
+        },
+        {
+          "name": "Latifabad",
+          "name_ur": "",
+          "lat": 25.362319,
+          "lon": 68.361803,
+          "coord_source": "auto:osm:node/1094696651",
+          "is_station": false
+        },
+        {
+          "name": "Airport Road",
+          "name_ur": "",
+          "lat": 25.362928,
+          "lon": 68.361547,
+          "coord_source": "auto:osm:way/551929825",
+          "is_station": false
+        },
+        {
+          "name": "Kohsar Colony",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "HYD-03",
+          "url": "https://smta.gos.pk/routes/23"
+        }
+      ],
+      "notes": "Listed as Inactive in SMTA directory (2026). Via items are areas/roads rather than exact stops."
+    }
+  ]
+}

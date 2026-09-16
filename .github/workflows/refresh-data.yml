@@ -1,0 +1,40 @@
+name: Refresh geocoding and shapes
+
+# Manually re-run the network steps (OpenStreetMap, Nominatim, OSRM) and open a pull request with the result.
+on:
+  workflow_dispatch:
+    inputs:
+      systems:
+        description: 'Space-separated system ids (empty = all)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run data:osm -- --refresh
+      - run: npm run data:geocode -- ${{ inputs.systems }}
+      - run: npm run data:shapes -- ${{ inputs.systems }}
+      - run: npm run data:validate
+      - run: npm run data:build
+      - uses: peter-evans/create-pull-request@v6
+        with:
+          branch: data/refresh
+          title: 'data: refresh geocoding and route shapes'
+          body: Automated run of `data:osm`, `data:geocode` and `data:shapes`. Review docs/COVERAGE.md changes before merging.
+          add-paths: |
+            data/systems
+            data/shapes
+            docs/COVERAGE.md

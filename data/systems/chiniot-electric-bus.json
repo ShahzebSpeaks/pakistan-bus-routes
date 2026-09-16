@@ -1,0 +1,458 @@
+{
+  "id": "chiniot-electric-bus",
+  "city": "chiniot",
+  "name": "Green Electric Bus Chiniot",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "CM launches e-bus service in five more districts",
+      "url": "https://www.brecorder.com/news/40430390/cm-launches-e-bus-service-in-five-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-17",
+      "official": false
+    },
+    {
+      "title": "Punjab CM Maryam inaugurates green electric buses in five districts",
+      "url": "https://www.24newshd.tv/16-Jul-2026/punjab-cm-maryam-inaugurates-green-electric-buses-five-districts",
+      "publisher": "24NewsHD",
+      "date": "2026-07-16",
+      "official": false
+    },
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Chiniot Green Electric Bus routes",
+      "url": "https://www.safar.fyi/chiniot/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "tehsil-chowk-to-bhawana",
+      "name": "Tehsil Chowk to Bhawana",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-16",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Tehsil Chowk, Chiniot",
+          "name_ur": "",
+          "lat": 31.720814,
+          "lon": 72.990109,
+          "coord_source": "auto:nominatim:node/253485328",
+          "is_station": false
+        },
+        {
+          "name": "Jhumra Chowk",
+          "name_ur": "",
+          "lat": 31.713943,
+          "lon": 72.988405,
+          "coord_source": "auto:osm:way/235586925",
+          "is_station": false
+        },
+        {
+          "name": "Sabzi Mandi",
+          "name_ur": "",
+          "lat": 31.710513,
+          "lon": 72.979253,
+          "coord_source": "auto:osm:way/927493817",
+          "is_station": false
+        },
+        {
+          "name": "Rajua Chowk",
+          "name_ur": "",
+          "lat": 31.705415,
+          "lon": 72.968426,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "PSO Agency Stop",
+          "name_ur": "",
+          "lat": 31.700317,
+          "lon": 72.957599,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kanju Stop",
+          "name_ur": "",
+          "lat": 31.695219,
+          "lon": 72.946772,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Village Plaat",
+          "name_ur": "",
+          "lat": 31.69012,
+          "lon": 72.935946,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Wansa Wala",
+          "name_ur": "",
+          "lat": 31.685022,
+          "lon": 72.925119,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mouza Abu Saeed, Chah Kangan",
+          "name_ur": "",
+          "lat": 31.679924,
+          "lon": 72.914292,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mathruma",
+          "name_ur": "",
+          "lat": 31.674826,
+          "lon": 72.903465,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rashida Stop",
+          "name_ur": "",
+          "lat": 31.669728,
+          "lon": 72.892638,
+          "coord_source": "auto:osm:node/11204087892",
+          "is_station": false
+        },
+        {
+          "name": "Jasrat Stop",
+          "name_ur": "",
+          "lat": 31.666144,
+          "lon": 72.8767,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pango Morr",
+          "name_ur": "",
+          "lat": 31.66256,
+          "lon": 72.860763,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bukharian",
+          "name_ur": "",
+          "lat": 31.658976,
+          "lon": 72.844825,
+          "coord_source": "auto:osm:node/11204087897",
+          "is_station": false
+        },
+        {
+          "name": "Harsa Bhula",
+          "name_ur": "",
+          "lat": 31.6871,
+          "lon": 72.840592,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jand Wala",
+          "name_ur": "",
+          "lat": 31.715223,
+          "lon": 72.836359,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pathan Kot, Chiniot",
+          "name_ur": "",
+          "lat": 31.743347,
+          "lon": 72.832126,
+          "coord_source": "auto:osm:node/10760312264",
+          "is_station": false
+        },
+        {
+          "name": "Darutta Stop",
+          "name_ur": "",
+          "lat": 31.745912,
+          "lon": 72.852849,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ramzan Shugar Mill",
+          "name_ur": "",
+          "lat": 31.748477,
+          "lon": 72.873572,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Adda Godaam",
+          "name_ur": "",
+          "lat": 31.751043,
+          "lon": 72.894295,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jamia Abad",
+          "name_ur": "",
+          "lat": 31.753608,
+          "lon": 72.915018,
+          "coord_source": "auto:nominatim:way/230446597",
+          "is_station": false
+        },
+        {
+          "name": "Moza Barkhudar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kot Nijabat",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Zero Point Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Arshad Solang Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhawana",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Chiniot route",
+          "url": "https://www.safar.fyi/chiniot/transit-lines/etransit-chiniot%3A308"
+        }
+      ],
+      "notes": "10 buses; Tehsil Chowk-Bhowana and Tehsil Chowk-Lalian. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Tehsil Chowk, Chiniot to Bhawana', 26 stops); safar lists service 6:00 AM - 7:20 PM (unverified)."
+    },
+    {
+      "id": "tehsil-chowk-to-lalian",
+      "name": "Tehsil Chowk to Lalian",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-16",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Tehsil Chowk, Chiniot",
+          "name_ur": "",
+          "lat": 31.720814,
+          "lon": 72.990109,
+          "coord_source": "auto:nominatim:node/253485328",
+          "is_station": false
+        },
+        {
+          "name": "DHQ Chiniot",
+          "name_ur": "",
+          "lat": 31.722007,
+          "lon": 72.987881,
+          "coord_source": "auto:nominatim:way/927497811",
+          "is_station": false
+        },
+        {
+          "name": "GBS Chiniot",
+          "name_ur": "",
+          "lat": 31.726479,
+          "lon": 72.985651,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station Chiniot",
+          "name_ur": "",
+          "lat": 31.730952,
+          "lon": 72.983421,
+          "coord_source": "auto:nominatim:node/1973008303",
+          "is_station": false
+        },
+        {
+          "name": "Mandi Sheikhan",
+          "name_ur": "",
+          "lat": 31.736601,
+          "lon": 72.988238,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bypass Chowk Chiniot",
+          "name_ur": "",
+          "lat": 31.742251,
+          "lon": 72.993056,
+          "coord_source": "auto:osm:way/235925151",
+          "is_station": false
+        },
+        {
+          "name": "Truck Market stop Chiniot",
+          "name_ur": "",
+          "lat": 31.746381,
+          "lon": 72.971755,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Darbar Wadi Aziz Sharif",
+          "name_ur": "",
+          "lat": 31.75051,
+          "lon": 72.950453,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Embassy Morr Chiniot",
+          "name_ur": "",
+          "lat": 31.754639,
+          "lon": 72.929151,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chenab Nagar",
+          "name_ur": "",
+          "lat": 31.758769,
+          "lon": 72.90785,
+          "coord_source": "auto:osm:node/11787335254",
+          "is_station": false
+        },
+        {
+          "name": "Railway Road Stop Chiniot",
+          "name_ur": "",
+          "lat": 31.758974,
+          "lon": 72.906242,
+          "coord_source": "auto:osm:way/229686620",
+          "is_station": false
+        },
+        {
+          "name": "3 No. Chungi",
+          "name_ur": "",
+          "lat": 31.771719,
+          "lon": 72.89075,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ahmad Nagar",
+          "name_ur": "",
+          "lat": 31.784464,
+          "lon": 72.875259,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pilowaal Sadiqa stop",
+          "name_ur": "",
+          "lat": 31.797208,
+          "lon": 72.859768,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kot Ismail",
+          "name_ur": "",
+          "lat": 31.809953,
+          "lon": 72.844276,
+          "coord_source": "auto:osm:node/10760312238",
+          "is_station": false
+        },
+        {
+          "name": "Safina Suger Mill",
+          "name_ur": "",
+          "lat": 31.823241,
+          "lon": 72.846031,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Katchehry stop Chiniot",
+          "name_ur": "",
+          "lat": 31.83653,
+          "lon": 72.847786,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lalian",
+          "name_ur": "",
+          "lat": 31.849818,
+          "lon": 72.849541,
+          "coord_source": "auto:osm:way/1203392386",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Chiniot route",
+          "url": "https://www.safar.fyi/chiniot/transit-lines/etransit-chiniot%3A320"
+        }
+      ],
+      "notes": "10 buses; Tehsil Chowk-Bhowana and Tehsil Chowk-Lalian. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Tehsil Chowk, Chiniot to Lalian', 18 stops); safar lists service 6:00 AM - 8:10 PM (unverified)."
+    }
+  ]
+}

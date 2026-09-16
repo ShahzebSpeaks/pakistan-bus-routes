@@ -1,0 +1,235 @@
+{
+  "id": "karachi-circular-railway",
+  "city": "karachi",
+  "name": "Karachi Circular Railway",
+  "name_ur": "کراچی سرکلر ریلوے",
+  "operator": "Govt of Sindh / Karachi Urban Transport Corporation (revival); Pakistan Railways (legacy track)",
+  "mode": "metro_rail",
+  "website": null,
+  "helpline": null,
+  "payment": "unknown",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "Not operational as a mass-transit system."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Karachi Circular Railway - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Karachi_Circular_Railway",
+      "publisher": "Wikipedia",
+      "date": null,
+      "official": false
+    },
+    {
+      "title": "ADB to provide $1bn for Karachi Circular Railway revival",
+      "url": "https://www.dawn.com/news/1999757",
+      "publisher": "Dawn",
+      "date": "2026-05",
+      "official": false
+    },
+    {
+      "title": "ADB assures $1bn support for Karachi Circular Railway revival",
+      "url": "https://www.pakistantoday.com.pk/2026/05/13/adb-assures-dollar1bn-support-for-karachi-circular-railway-revival",
+      "publisher": "Pakistan Today",
+      "date": "2026-05-13",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "KCR-LOOP",
+      "name": "Karachi City - Drigh Road - Liaquatabad - Orangi - SITE - Karachi City (loop)",
+      "name_ur": "",
+      "variant": "metro",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 43,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Karachi City",
+          "name_ur": "کراچی شہر",
+          "lat": 24.848569,
+          "lon": 67.006238,
+          "coord_source": "osm:way/539432952",
+          "is_station": true
+        },
+        {
+          "name": "Karachi Cantonment",
+          "name_ur": "کراچی چھاؤنی",
+          "lat": 24.843779,
+          "lon": 67.041017,
+          "coord_source": "osm:way/408164895",
+          "is_station": true
+        },
+        {
+          "name": "Chanesar Halt",
+          "name_ur": "",
+          "lat": 24.868069,
+          "lon": 67.061903,
+          "coord_source": "auto:interpolated",
+          "is_station": true
+        },
+        {
+          "name": "Karsaz",
+          "name_ur": "",
+          "lat": 24.892359,
+          "lon": 67.08279,
+          "coord_source": "auto:osm:node/5112921418",
+          "is_station": true
+        },
+        {
+          "name": "Drigh Road",
+          "name_ur": "ڈرگ روڈ",
+          "lat": 24.886315,
+          "lon": 67.126189,
+          "coord_source": "osm:node/3523382867",
+          "is_station": true
+        },
+        {
+          "name": "Depot Hill",
+          "name_ur": "",
+          "lat": 24.911065,
+          "lon": 67.122938,
+          "coord_source": "auto:interpolated",
+          "is_station": true
+        },
+        {
+          "name": "Karachi University",
+          "name_ur": "",
+          "lat": 24.935814,
+          "lon": 67.119687,
+          "coord_source": "auto:osm:node/5330851437",
+          "is_station": true
+        },
+        {
+          "name": "Urdu College",
+          "name_ur": "",
+          "lat": 24.913081,
+          "lon": 67.091268,
+          "coord_source": "auto:nominatim:node/4762522249",
+          "is_station": true
+        },
+        {
+          "name": "Gilani",
+          "name_ur": "گیلانی",
+          "lat": 24.908673,
+          "lon": 67.078479,
+          "coord_source": "osm:way/1550813502",
+          "is_station": true
+        },
+        {
+          "name": "Liaquatabad",
+          "name_ur": "",
+          "lat": 24.904136,
+          "lon": 67.053271,
+          "coord_source": "auto:osm:node/4777293754",
+          "is_station": true
+        },
+        {
+          "name": "Orangi (formerly North Nazimabad)",
+          "name_ur": "اورنگی",
+          "lat": 24.915947,
+          "lon": 67.020397,
+          "coord_source": "osm:node/8294610400",
+          "is_station": true
+        },
+        {
+          "name": "Manghopir",
+          "name_ur": "منگھوپیر",
+          "lat": 24.905219,
+          "lon": 67.001871,
+          "coord_source": "osm:node/8294621168",
+          "is_station": true
+        },
+        {
+          "name": "SITE",
+          "name_ur": "سندھ انڈسٹریل ٹریڈنگ اسٹیٹ",
+          "lat": 24.89508,
+          "lon": 66.98829,
+          "coord_source": "osm:node/5336782581",
+          "is_station": true
+        },
+        {
+          "name": "Shah Abdul Latif",
+          "name_ur": "شاہ عبداللطیف",
+          "lat": 24.882966,
+          "lon": 66.972622,
+          "coord_source": "osm:node/8294625991",
+          "is_station": true
+        },
+        {
+          "name": "Baldia",
+          "name_ur": "بلدیہ",
+          "lat": 24.874449,
+          "lon": 66.968959,
+          "coord_source": "osm:node/8294625990",
+          "is_station": true
+        },
+        {
+          "name": "Lyari",
+          "name_ur": "لیاری",
+          "lat": 24.868036,
+          "lon": 66.980182,
+          "coord_source": "osm:node/8294625989",
+          "is_station": true
+        },
+        {
+          "name": "Wazir Mansion",
+          "name_ur": "وزیر مینشن ریلوے اسٹیشن",
+          "lat": 24.856792,
+          "lon": 66.986772,
+          "coord_source": "osm:node/5232539135",
+          "is_station": true
+        },
+        {
+          "name": "Karachi Port Trust (Tower/KPT)",
+          "name_ur": "",
+          "lat": 24.84769,
+          "lon": 66.990149,
+          "coord_source": "osm:node/8294603458",
+          "is_station": true
+        },
+        {
+          "name": "Karachi City",
+          "name_ur": "کراچی شہر",
+          "lat": 24.848569,
+          "lon": 67.006238,
+          "coord_source": "osm:way/539432952",
+          "is_station": true
+        }
+      ],
+      "sources": [
+        {
+          "title": "Karachi Circular Railway - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Karachi_Circular_Railway"
+        },
+        {
+          "title": "ADB to provide $1bn for KCR revival (Dawn)",
+          "url": "https://www.dawn.com/news/1999757"
+        },
+        {
+          "title": "OpenStreetMap Overpass extract (Karachi bbox), research/cache/osm_stations_stops.json",
+          "url": "https://www.openstreetmap.org"
+        }
+      ],
+      "notes": "Revival (43 km loop, 24-30 stations, electric trains) lost CPEC priority; May 2026 ADB pledged $1bn incl. $10m preparatory work (design review) - no construction. Sept 2021 groundbreaking produced no works. Stop list = legacy loop stations per Wikipedia (revival design may differ). A Pakistan Railways partial commuter train (Orangi/City - Pipri/Dhabeji) ran from Nov 2020; 2026 status unverified and not modelled. Liaquatabad not matched in OSM (nearby 'Sharifabad Railway Station' and a separate 'North Nazimabad' station exist) - left null. Loop closes back at Karachi City (listed twice)."
+    }
+  ]
+}

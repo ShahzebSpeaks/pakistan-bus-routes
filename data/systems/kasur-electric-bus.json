@@ -1,0 +1,380 @@
+{
+  "id": "kasur-electric-bus",
+  "city": "kasur",
+  "name": "Green Electric Bus Kasur",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Kasur Green Electric Bus routes",
+      "url": "https://www.safar.fyi/kasur/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "gbs-kasur-to-gajjumata-stop",
+      "name": "GBS Kasur to Gajjumata Stop",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-31",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS KASUR",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Naqeebabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Wadana Stop",
+          "name_ur": "",
+          "lat": 31.198874,
+          "lon": 74.438455,
+          "coord_source": "auto:osm:node/8660800353",
+          "is_station": false
+        },
+        {
+          "name": "Pakki Haveli",
+          "name_ur": "",
+          "lat": 31.22655,
+          "lon": 74.429294,
+          "coord_source": "auto:osm:node/8660800761",
+          "is_station": false
+        },
+        {
+          "name": "Mustafabad/Lalyani",
+          "name_ur": "",
+          "lat": 31.252172,
+          "lon": 74.42022,
+          "coord_source": "auto:osm:node/8660800791",
+          "is_station": false
+        },
+        {
+          "name": "Rashid Lateef Medical College",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Soey Asal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Cetral Park Gate#1",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jhulkey Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Cetral Park Gate#3",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bilqees Sarwar Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Purana Kahna",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Malik Pura/Sparco",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "5-No. Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Railu Wali Masjid",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kahna Nau",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Aluwala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Gujjumata Sua",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Gujjumata",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Kasur route",
+          "url": "https://www.safar.fyi/kasur/transit-lines/etransit-kasur%3Aetransit-69-430"
+        }
+      ],
+      "notes": "11 buses; GBS-Kacha Paka and GBS-Gajju Matta. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS KASUR to Gujjumata', 19 stops); safar lists service 6:00 AM - 9:30 PM (unverified)."
+    },
+    {
+      "id": "gbs-kasur-to-kacha-paka",
+      "name": "GBS Kasur to Kacha Paka",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-31",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS KASUR",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Steel Bagh Chowk",
+          "name_ur": "",
+          "lat": 31.13668,
+          "lon": 74.459001,
+          "coord_source": "auto:osm:way/288913370",
+          "is_station": false
+        },
+        {
+          "name": "Kashmir Chowk, Kasur",
+          "name_ur": "",
+          "lat": 31.126585,
+          "lon": 74.462663,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kachehri Chowk, Kasur",
+          "name_ur": "",
+          "lat": 31.116491,
+          "lon": 74.466324,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chowk Kamal Chishti",
+          "name_ur": "",
+          "lat": 31.106396,
+          "lon": 74.469986,
+          "coord_source": "auto:osm:way/288913371",
+          "is_station": false
+        },
+        {
+          "name": "Doly Wala",
+          "name_ur": "",
+          "lat": 31.093926,
+          "lon": 74.450183,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Tolu Wala",
+          "name_ur": "",
+          "lat": 31.081456,
+          "lon": 74.430379,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sheikh Ammad Khan",
+          "name_ur": "",
+          "lat": 31.068986,
+          "lon": 74.410576,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bahadurpura Stop",
+          "name_ur": "",
+          "lat": 31.056516,
+          "lon": 74.390772,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kelon Stop",
+          "name_ur": "",
+          "lat": 31.044046,
+          "lon": 74.370969,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Noor Pur Stop",
+          "name_ur": "",
+          "lat": 31.031576,
+          "lon": 74.351165,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Fateh Pur Stop",
+          "name_ur": "",
+          "lat": 31.019106,
+          "lon": 74.331362,
+          "coord_source": "auto:osm:way/321216890",
+          "is_station": false
+        },
+        {
+          "name": "Dost Pura",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mandi Stop Khudian",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Old Adda Khuddian",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "New Adda Khudian",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kacha Pakka",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Kasur route",
+          "url": "https://www.safar.fyi/kasur/transit-lines/etransit-kasur%3Aetransit-69-429"
+        }
+      ],
+      "notes": "11 buses; GBS-Kacha Paka and GBS-Gajju Matta. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS KASUR to Kacha Pakka', 17 stops); safar lists service 6:00 AM - 10:05 PM (unverified)."
+    }
+  ]
+}

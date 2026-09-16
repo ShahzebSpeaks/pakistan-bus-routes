@@ -1,0 +1,554 @@
+{
+  "id": "okara-electric-bus",
+  "city": "okara",
+  "name": "Green Electric Bus Okara",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "CM launches e-bus service in five more districts",
+      "url": "https://www.brecorder.com/news/40430390/cm-launches-e-bus-service-in-five-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-17",
+      "official": false
+    },
+    {
+      "title": "Punjab CM Maryam inaugurates green electric buses in five districts",
+      "url": "https://www.24newshd.tv/16-Jul-2026/punjab-cm-maryam-inaugurates-green-electric-buses-five-districts",
+      "publisher": "24NewsHD",
+      "date": "2026-07-16",
+      "official": false
+    },
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Okara Green Electric Bus routes",
+      "url": "https://www.safar.fyi/okara/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "gbs-okara-to-deepal-pur",
+      "name": "GBS Okara To Deepal Pur",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-16",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS Okara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Deepal Pur Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Passport Office Okara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "54 Chak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "City Hospital Okara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "51 Chak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "49 Chak",
+          "name_ur": "",
+          "lat": 30.760273,
+          "lon": 73.509239,
+          "coord_source": "auto:nominatim:node/9244417092",
+          "is_station": false
+        },
+        {
+          "name": "48 Chak",
+          "name_ur": "",
+          "lat": 30.753798,
+          "lon": 73.526425,
+          "coord_source": "auto:nominatim:node/9244417095",
+          "is_station": false
+        },
+        {
+          "name": "31 Chak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "40 Chak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "39 Chak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Peer d Hatti",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chorasta stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak Sobaram",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Superior College Deepalpur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Katchehry chowk Okara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "GBS Deepalpur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Okara route",
+          "url": "https://www.safar.fyi/okara/transit-lines/etransit-okara%3A318"
+        }
+      ],
+      "notes": "Launch reports: Sahiwal Bypass-KFC Bypass and GBS-Shergarh via Akhtarabad; safar also lists GBS Okara-Depalpur (not in launch reports). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Okara to GBS Deepalpur', 17 stops); safar lists service 6:00 AM - 8:00 PM (unverified)."
+    },
+    {
+      "id": "gbs-okara-to-sher-ghar",
+      "name": "GBS Okara to Sher Ghar",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-16",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS Okara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "1/4 L Phattak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Quaid e Azam Law College Okara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Punjab College Okara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Aspire College Okara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "KFC Bypass Okara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Adda Kissan",
+          "name_ur": "",
+          "lat": 30.844205,
+          "lon": 73.523647,
+          "coord_source": "auto:osm:node/2433508566",
+          "is_station": false
+        },
+        {
+          "name": "University of Okara",
+          "name_ur": "",
+          "lat": 30.856552,
+          "lon": 73.548872,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "THQ Hospital Renala",
+          "name_ur": "",
+          "lat": 30.868898,
+          "lon": 73.574096,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Renala Khurd",
+          "name_ur": "",
+          "lat": 30.881245,
+          "lon": 73.599321,
+          "coord_source": "auto:osm:node/2433508565",
+          "is_station": false
+        },
+        {
+          "name": "Renala Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "12 Chak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "11 Chak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "10 Chak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Akhterabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak No 16/1.A.L",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak No 19/1.A.L",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak No 28/1.A.L",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak No 25/1.A.L",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Daud Bandagi Hospital Okara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sher Garh",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Okara route",
+          "url": "https://www.safar.fyi/okara/transit-lines/etransit-okara%3A323"
+        }
+      ],
+      "notes": "Launch reports: Sahiwal Bypass-KFC Bypass and GBS-Shergarh via Akhtarabad; safar also lists GBS Okara-Depalpur (not in launch reports). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Okara to Sher Garh', 21 stops); safar lists service 6:00 AM - 7:20 PM (unverified)."
+    },
+    {
+      "id": "sahiwal-bypass-to-kfc-bypass",
+      "name": "Sahiwal Bypass to KFC Bypass",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-16",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Sahiwal Bypass Okara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Katchehry Phattak Okara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "DC Office Okara",
+          "name_ur": "",
+          "lat": 30.800597,
+          "lon": 73.425662,
+          "coord_source": "auto:osm:way/1323033345",
+          "is_station": false
+        },
+        {
+          "name": "PTCL Office Okara",
+          "name_ur": "",
+          "lat": 30.804411,
+          "lon": 73.431348,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mehboob Alam Chowk",
+          "name_ur": "",
+          "lat": 30.808224,
+          "lon": 73.437033,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "DHQ Okara",
+          "name_ur": "",
+          "lat": 30.812038,
+          "lon": 73.442719,
+          "coord_source": "auto:osm:node/12242550012",
+          "is_station": false
+        },
+        {
+          "name": "Company Baag",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Thana A-Division",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Tanki Stop Okara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "GBS Okara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "1/4 L Phattak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Quaid e Azam Law College Okara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Punjab College Okara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Aspire College Okara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "KFC Bypass Okara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Okara route",
+          "url": "https://www.safar.fyi/okara/transit-lines/etransit-okara%3A319"
+        }
+      ],
+      "notes": "Launch reports: Sahiwal Bypass-KFC Bypass and GBS-Shergarh via Akhtarabad; safar also lists GBS Okara-Depalpur (not in launch reports). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Sahiwal Bypass Okara to KFC Bypass Okara', 16 stops); safar lists service 6:00 AM - 9:25 PM (unverified)."
+    }
+  ]
+}

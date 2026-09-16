@@ -1,0 +1,1121 @@
+{
+  "assignment": "karachi-brt",
+  "researched_on": "2026-09-16",
+  "systems": [
+    {
+      "id": "karachi-breeze",
+      "city": "karachi",
+      "name": "Karachi Breeze (BRT)",
+      "name_ur": "کراچی بریز",
+      "operator": "Green & Orange lines: Sindh Infrastructure Development Co. Ltd (SIDCL) under Sindh Mass Transit Authority / Transport & Mass Transit Dept, Govt of Sindh (Green Line operations handed over from federal PIDCL in early 2025). Red Line: TransKarachi. Yellow Line: Karachi Mobility Project (World Bank).",
+      "mode": "brt",
+      "website": "https://smta.sindh.gov.pk/",
+      "helpline": "0800-07682",
+      "payment": "Cash single-journey ticket at station; Breeze/Metrobus smart card (Rs100, top-up); Breeze mobile app. Since 2025-12-31 a single ticket covers an Orange+Green journey.",
+      "fare_rules": {
+        "type": "distance_slab",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "Green Line: distance-based, minimum Rs15, maximum Rs55 (full route); exact slab table not published online. Smart card Rs100. Fare kept unchanged via Sindh subsidy (Rs1bn, 2025). Separate women-only buses announced on Green/Orange lines Dec 2025.",
+        "as_of": "2025-02",
+        "source_url": "https://www.dawn.com/news/1896926"
+      },
+      "hours": {
+        "start": "07:00",
+        "end": "22:00",
+        "notes": "Green Line daily 07:00-22:00; Ramadan hours extended in past years (2023: until 23:30 up / 00:30 down)."
+      },
+      "sources": [
+        {
+          "title": "Karachi's Green Line bus project set to start commercial operation tomorrow",
+          "url": "https://www.dawn.com/news/1665428",
+          "publisher": "Dawn",
+          "date": "2021-12-24",
+          "official": false
+        },
+        {
+          "title": "Karachi's BRT Green and Orange lines now go hand in hand",
+          "url": "https://www.dawn.com/news/1833948",
+          "publisher": "Dawn",
+          "date": "2024-05-17",
+          "official": false
+        },
+        {
+          "title": "Sindh allocates Rs1bn to continue subsidy on Green bus fares",
+          "url": "https://www.dawn.com/news/1896926",
+          "publisher": "Dawn",
+          "date": null,
+          "official": false
+        },
+        {
+          "title": "Connection between BRT Orange and Green lines inaugurated in Karachi",
+          "url": "https://www.dawn.com/news/1964159",
+          "publisher": "Dawn",
+          "date": "2025-12-31",
+          "official": false
+        },
+        {
+          "title": "Karachi's Green Line extension back on track after rare political consensus",
+          "url": "https://www.dawn.com/news/1957186",
+          "publisher": "Dawn",
+          "date": "2025-11-25",
+          "official": false
+        },
+        {
+          "title": "FWO resumes construction of BRT Red Line project on University Road",
+          "url": "https://www.dawn.com/news/1995248",
+          "publisher": "Dawn",
+          "date": "2026-04-26",
+          "official": false
+        },
+        {
+          "title": "Sindh Mass Transit Authority",
+          "url": "https://smta.sindh.gov.pk/",
+          "publisher": "SMTA",
+          "date": null,
+          "official": true
+        },
+        {
+          "title": "TransKarachi (Red Line)",
+          "url": "https://transkarachi.pk/",
+          "publisher": "TransKarachi",
+          "date": null,
+          "official": true
+        },
+        {
+          "title": "Karachi Mobility Project - Yellow Line BRT",
+          "url": "https://kmp.gos.pk/",
+          "publisher": "Govt of Sindh",
+          "date": null,
+          "official": true
+        },
+        {
+          "title": "Karachi Breeze - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Karachi_Breeze",
+          "publisher": "Wikipedia",
+          "date": null,
+          "official": false
+        },
+        {
+          "title": "OpenStreetMap contributors (Overpass API extract)",
+          "url": "https://www.openstreetmap.org",
+          "publisher": "OpenStreetMap",
+          "date": "2026-09-16",
+          "official": false
+        }
+      ],
+      "routes": [
+        {
+          "id": "GREEN",
+          "name": "Abdullah Chowk (Surjani Town) - Numaish",
+          "name_ur": "گرین لائن",
+          "variant": "brt",
+          "color": "#00A651",
+          "status": "operational",
+          "launched": "2021-12-25",
+          "length_km": 21,
+          "headway_min": 3,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Abdullah Chowk (Surjani Town)",
+              "name_ur": "عبدﷲ چوک اسٹیشن",
+              "lat": 25.02355,
+              "lon": 67.063646,
+              "coord_source": "osm:node/8637079791",
+              "is_station": true
+            },
+            {
+              "name": "KDA Flats (KDA Chowrangi)",
+              "name_ur": "کے ڈی اے چورنگی اسٹیشن",
+              "lat": 25.017359,
+              "lon": 67.064002,
+              "coord_source": "osm:node/8637079792",
+              "is_station": true
+            },
+            {
+              "name": "Karimi Chowrangi",
+              "name_ur": "کریمی چورنگی اسٹیشن",
+              "lat": 25.011084,
+              "lon": 67.064375,
+              "coord_source": "osm:node/8637079793",
+              "is_station": true
+            },
+            {
+              "name": "Surjani Chowrangi (4K Chowrangi)",
+              "name_ur": "سرجانی چورنگی اسٹیشن",
+              "lat": 25.005032,
+              "lon": 67.064732,
+              "coord_source": "osm:node/8637079794",
+              "is_station": true
+            },
+            {
+              "name": "2 Minute Chowrangi",
+              "name_ur": "منٹ چورنگی اسٹیشن  2",
+              "lat": 24.998514,
+              "lon": 67.065136,
+              "coord_source": "osm:node/8637079795",
+              "is_station": true
+            },
+            {
+              "name": "Road 2400 (Aisha Complex)",
+              "name_ur": "روڈ 2400 اسٹیشن",
+              "lat": 24.991787,
+              "lon": 67.065569,
+              "coord_source": "osm:node/8637079796",
+              "is_station": true
+            },
+            {
+              "name": "Power House Chowrangi",
+              "name_ur": "پاور ہاؤس چورنگی اسٹیشن",
+              "lat": 24.984011,
+              "lon": 67.066074,
+              "coord_source": "osm:node/8637079797",
+              "is_station": true
+            },
+            {
+              "name": "Road 4200 (Saleem Centre)",
+              "name_ur": "روڈ 4200 اسٹیشن",
+              "lat": 24.977929,
+              "lon": 67.066523,
+              "coord_source": "osm:node/8637079798",
+              "is_station": true
+            },
+            {
+              "name": "U.P. More",
+              "name_ur": "یو پی موڑ اسٹیشن",
+              "lat": 24.973482,
+              "lon": 67.066738,
+              "coord_source": "osm:node/8637079799",
+              "is_station": true
+            },
+            {
+              "name": "Nagan Chowrangi",
+              "name_ur": "ناگن چورنگی اسٹیشن",
+              "lat": 24.966413,
+              "lon": 67.066994,
+              "coord_source": "osm:node/8474862599",
+              "is_station": true
+            },
+            {
+              "name": "Erum Shopping Mall (Shadman No. 2)",
+              "name_ur": "ارم شاپنگ ایمپوریم اسٹیشن",
+              "lat": 24.958528,
+              "lon": 67.061544,
+              "coord_source": "osm:node/8474862581",
+              "is_station": true
+            },
+            {
+              "name": "Jummah Bazaar (Bayani Center)",
+              "name_ur": "جمعہ بازار اسٹیشن",
+              "lat": 24.950363,
+              "lon": 67.054377,
+              "coord_source": "osm:node/8474862580",
+              "is_station": true
+            },
+            {
+              "name": "Five Star Chowrangi",
+              "name_ur": "فائیو اسٹار چورنگی اسٹیشن",
+              "lat": 24.945573,
+              "lon": 67.05011,
+              "coord_source": "osm:node/8474862579",
+              "is_station": true
+            },
+            {
+              "name": "Hyderi",
+              "name_ur": "حیدری مارکیٹ اسٹیشن",
+              "lat": 24.937223,
+              "lon": 67.042694,
+              "coord_source": "osm:node/8474862578",
+              "is_station": true
+            },
+            {
+              "name": "Board Office",
+              "name_ur": "بورڈ آفش اسٹیشن",
+              "lat": 24.92662,
+              "lon": 67.033248,
+              "coord_source": "osm:node/8474862577",
+              "is_station": true
+            },
+            {
+              "name": "Annu Bhai Park (Baqai)",
+              "name_ur": "بقائی اسٹیشن",
+              "lat": 24.916922,
+              "lon": 67.031291,
+              "coord_source": "osm:node/8474880964",
+              "is_station": true
+            },
+            {
+              "name": "Enquiry Office (Model Park)",
+              "name_ur": "ماڈل پارک اسٹیشن",
+              "lat": 24.905817,
+              "lon": 67.030942,
+              "coord_source": "osm:node/8474880963",
+              "is_station": true
+            },
+            {
+              "name": "Nazimabad No. 1",
+              "name_ur": "ناظم آباد نمبر ۱ اسٹیشن",
+              "lat": 24.899756,
+              "lon": 67.030409,
+              "coord_source": "osm:node/8474880962",
+              "is_station": true
+            },
+            {
+              "name": "Sanitary Market (Gulbahar)",
+              "name_ur": "سینیٹری مارکیٹ اسٹیشن",
+              "lat": 24.894783,
+              "lon": 67.030704,
+              "coord_source": "osm:node/8474880961",
+              "is_station": true
+            },
+            {
+              "name": "Lasbela Chowk",
+              "name_ur": "لسبیلہ اسٹیشن",
+              "lat": 24.885755,
+              "lon": 67.034534,
+              "coord_source": "osm:node/8474880960",
+              "is_station": true
+            },
+            {
+              "name": "Patel Para (Guru Mandir)",
+              "name_ur": "پٹیل پاڑہ اسٹیشن",
+              "lat": 24.881269,
+              "lon": 67.03812,
+              "coord_source": "osm:node/8474880959",
+              "is_station": true
+            },
+            {
+              "name": "Numaish",
+              "name_ur": "نمائش",
+              "lat": 24.872181,
+              "lon": 67.035523,
+              "coord_source": "osm:node/8637095180",
+              "is_station": true
+            }
+          ],
+          "stops_confidence": "high",
+          "sources": [
+            {
+              "title": "Green Line (Karachi Breeze) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Green_Line_(Karachi_Breeze)"
+            },
+            {
+              "title": "Green Line Bus Karachi: Stations List, Routes, Timing, and Ticket (rehbar.pk)",
+              "url": "https://rehbar.pk/info/green-line-bus-karachi-routes-and-stops-list/"
+            },
+            {
+              "title": "OpenStreetMap Overpass extract (Karachi bbox), research/cache/osm_stations_stops.json",
+              "url": "https://www.openstreetmap.org"
+            },
+            {
+              "title": "With 80 buses, Karachi's Green Line becomes fully operational (Dawn)",
+              "url": "https://www.dawn.com/news/1668824"
+            }
+          ],
+          "notes": "22 stations; limited service from 2021-12-25, full service 2022-01-10. Length 18 km busway (Wikipedia) vs 20.9-21 km route (Dawn 2024). Colour hex approximate. Headway 3 min peak per Wikipedia/rehbar (off-peak 5-7); some 2026 blogs say ~10 min. Name conflicts: OSM 'Baqai' and 'Model Park' stations sit where Wikipedia lists 'Annu Bhai Park' and 'Enquiry Office' (matched by order/position - verify). OSM 'Surjani Chowrangi' = '4K Chowrangi'; 'KDA Chowrangi' = 'KDA Flats'. Ridership ~80,000/day after Sindh takeover (Dawn, Dec 2025). 80 Foton hybrid buses."
+        },
+        {
+          "id": "GREEN-EXT",
+          "name": "Green Line extension: Numaish - Jama Cloth Market (- Merewether Tower)",
+          "name_ur": "",
+          "variant": "brt",
+          "color": "#00A651",
+          "status": "under_construction",
+          "launched": null,
+          "length_km": 1.8,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Numaish",
+              "name_ur": "نمائش",
+              "lat": 24.872181,
+              "lon": 67.035523,
+              "coord_source": "osm:node/8637095180",
+              "is_station": true
+            },
+            {
+              "name": "Sub-Numaish / Sea Breeze (KGA Ground)",
+              "name_ur": "",
+              "lat": 24.870285,
+              "lon": 67.033151,
+              "coord_source": "osm:node/8637095181",
+              "is_station": true
+            },
+            {
+              "name": "Saddar / Municipal Park",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Electronic Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Jama Cloth Market",
+              "name_ur": "جامع کلاتھ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Merewether Tower",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Green Line (Karachi Breeze) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Green_Line_(Karachi_Breeze)"
+            },
+            {
+              "title": "Hopes revive for BRT Green Line extension to Merewether Tower (Dawn, 2024-12-20)",
+              "url": "https://www.dawn.com/news/1879782"
+            },
+            {
+              "title": "Karachi's Green Line extension back on track (Dawn, 2025-11-25)",
+              "url": "https://www.dawn.com/news/1957186"
+            },
+            {
+              "title": "Work on Green Line extension project resumes (Express Tribune)",
+              "url": "https://tribune.com.pk/story/2578912/work-on-green-line-extension-project-resumes-in-karachi"
+            },
+            {
+              "title": "Karachi green line extension to resume with revised plan, new stations (Times of Karachi)",
+              "url": "https://timesofkarachi.pk/85460-karachi-green-line-extension-to-resume-with-revised-plan-new-stations/"
+            }
+          ],
+          "notes": "Federal (PIDCL) 1.8 km segment Numaish - Municipal Park/Jama Cloth along M.A. Jinnah Road, 3 new stations in revised design (names not officially published; press mentions stations near Capri Cinema, Plaza and Jama Cloth). Halted by KMC dispute, resumed 2025-11-25; promised opening by 2026-10-31. Onward Municipal Park - Merewether Tower segment is Sindh-funded common corridor, not yet built. Stop list merges Wikipedia common-corridor names (Sub-Numaish/Sea Breeze, Saddar, Electronic Market, Jama Cloth) and rehbar (Municipal Park, Saddar, Jama Cloth, Merewether Tower) - final names/count unverified. OSM 'KGA Ground BRT Station' mapped to Sub-Numaish by position (uncertain)."
+        },
+        {
+          "id": "ORANGE",
+          "name": "Orangi Town (TMO) - Board Office - Nagan Chowrangi",
+          "name_ur": "عبدالستار ایدھی اورنج لائن",
+          "variant": "brt",
+          "color": "#F7941D",
+          "status": "operational",
+          "launched": "2022-09-10",
+          "length_km": 3.9,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "unknown",
+            "currency": "PKR",
+            "flat": null,
+            "slabs": [],
+            "concessions": "Conflicting historic fares: Wikipedia Rs25 cash / Rs20 Breeze card; Zameen/Hamariweb min Rs10, max Rs20 (2022-23). Since 2025-12-31 one ticket covers Orange + Green journey (Dawn); current amounts not published.",
+            "as_of": "2025-12",
+            "source_url": "https://www.dawn.com/news/1964159"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "TMO Office (Orangi Town)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Pone Panch Chowrangi",
+              "name_ur": "",
+              "lat": 24.937835,
+              "lon": 67.005993,
+              "coord_source": "osm:node/286011486",
+              "is_station": true
+            },
+            {
+              "name": "Abdullah College (Abdullah Chowrangi)",
+              "name_ur": "",
+              "lat": 24.928699,
+              "lon": 67.025396,
+              "coord_source": "osm:way/1424945743",
+              "is_station": true
+            },
+            {
+              "name": "Jinnah University",
+              "name_ur": "",
+              "lat": 24.926898,
+              "lon": 67.030081,
+              "coord_source": "osm:node/12201973186",
+              "is_station": true
+            },
+            {
+              "name": "Board Office (AO Chowk) interchange",
+              "name_ur": "بورڈ آفش اسٹیشن",
+              "lat": 24.92662,
+              "lon": 67.033248,
+              "coord_source": "osm:node/8474862577",
+              "is_station": true
+            },
+            {
+              "name": "Hyderi",
+              "name_ur": "حیدری مارکیٹ اسٹیشن",
+              "lat": 24.937223,
+              "lon": 67.042694,
+              "coord_source": "osm:node/8474862578",
+              "is_station": true
+            },
+            {
+              "name": "Five Star Chowrangi",
+              "name_ur": "فائیو اسٹار چورنگی اسٹیشن",
+              "lat": 24.945573,
+              "lon": 67.05011,
+              "coord_source": "osm:node/8474862579",
+              "is_station": true
+            },
+            {
+              "name": "Jummah Bazaar (Bayani Center)",
+              "name_ur": "جمعہ بازار اسٹیشن",
+              "lat": 24.950363,
+              "lon": 67.054377,
+              "coord_source": "osm:node/8474862580",
+              "is_station": true
+            },
+            {
+              "name": "Erum Shopping Mall (Shadman No. 2)",
+              "name_ur": "ارم شاپنگ ایمپوریم اسٹیشن",
+              "lat": 24.958528,
+              "lon": 67.061544,
+              "coord_source": "osm:node/8474862581",
+              "is_station": true
+            },
+            {
+              "name": "Nagan Chowrangi",
+              "name_ur": "ناگن چورنگی اسٹیشن",
+              "lat": 24.966413,
+              "lon": 67.066994,
+              "coord_source": "osm:node/8474862599",
+              "is_station": true
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Orange Line (Karachi Breeze) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Orange_Line_(Karachi_Breeze)"
+            },
+            {
+              "title": "Karachi Orange Line Bus: Fares, Routes, Stations (Hamariweb, 2023-10-10)",
+              "url": "https://enews.hamariweb.com/pakistan/karachi-orange-line-bus-fares-routes-stations-october-2023/"
+            },
+            {
+              "title": "Connection between BRT Orange and Green lines inaugurated in Karachi (Dawn, 2025-12-31)",
+              "url": "https://www.dawn.com/news/1964159"
+            },
+            {
+              "title": "Edhi Orange Line linked with Green Line (Express Tribune)",
+              "url": "https://tribune.com.pk/story/2584617/karachis-edhi-orange-line-linked-with-green-line"
+            },
+            {
+              "title": "Orange Line-Green Line Integration (Chakor Ventures)",
+              "url": "https://chakorventures.com/orange-line-green-line-integration/"
+            },
+            {
+              "title": "OpenStreetMap Overpass extract (Karachi bbox), research/cache/osm_stations_stops.json",
+              "url": "https://www.openstreetmap.org"
+            }
+          ],
+          "notes": "Abdul Sattar Edhi Line. Own corridor 3.9 km, 4 stations (Town Municipal Administration/TMO, Phone Panch Chowrangi, Abdullah Chowrangi, Jinnah University) ending near Board Office (AO Chowk). May 2024: buses extended to Green Line Board Office station. Dec 2025: Orange buses run on the Green Line track to Nagan Chowrangi (4 -> 10 stops) with single ticket; intermediate Green Line stops assumed to be Board Office..Nagan (count matches 10) - verify. 20 buses. Coordinates: Pone Panch = OSM junction node (not platform); Jinnah University = OSM bus_stop node (may be street stop); TMO station not in OSM (elevated 'Orange Line BRT' guideway near 24.942,66.999). Some sources place the western terminal at Nishan-e-Haider Chowk."
+        },
+        {
+          "id": "GREEN-EXPRESS",
+          "name": "Green Line Express: Abdullah Chowk - Numaish (peak hours, limited stops)",
+          "name_ur": "گرین لائن ایکسپریس",
+          "variant": "brt",
+          "color": "#00A651",
+          "status": "unverified",
+          "launched": "2025-06-17",
+          "length_km": null,
+          "headway_min": null,
+          "hours": {
+            "start": "08:00",
+            "end": "19:30"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Abdullah Chowk (Surjani Town)",
+              "name_ur": "عبدﷲ چوک اسٹیشن",
+              "lat": 25.02355,
+              "lon": 67.063646,
+              "coord_source": "osm:node/8637079791",
+              "is_station": true
+            },
+            {
+              "name": "KDA Flats (KDA Chowrangi)",
+              "name_ur": "کے ڈی اے چورنگی اسٹیشن",
+              "lat": 25.017359,
+              "lon": 67.064002,
+              "coord_source": "osm:node/8637079792",
+              "is_station": true
+            },
+            {
+              "name": "U.P. More",
+              "name_ur": "یو پی موڑ اسٹیشن",
+              "lat": 24.973482,
+              "lon": 67.066738,
+              "coord_source": "osm:node/8637079799",
+              "is_station": true
+            },
+            {
+              "name": "Hyderi",
+              "name_ur": "حیدری مارکیٹ اسٹیشن",
+              "lat": 24.937223,
+              "lon": 67.042694,
+              "coord_source": "osm:node/8474862578",
+              "is_station": true
+            },
+            {
+              "name": "Annu Bhai Park (Baqai)",
+              "name_ur": "بقائی اسٹیشن",
+              "lat": 24.916922,
+              "lon": 67.031291,
+              "coord_source": "osm:node/8474880964",
+              "is_station": true
+            },
+            {
+              "name": "Numaish",
+              "name_ur": "نمائش",
+              "lat": 24.872181,
+              "lon": 67.035523,
+              "coord_source": "osm:node/8637095180",
+              "is_station": true
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Abdullah Chowk to old Numaish Green Line bus service launch (Daily Jasarat, 2025-06-16)",
+              "url": "https://jasarat.com/2025/06/16/green-line-bus-service/"
+            }
+          ],
+          "notes": "Reported limited-stop peak service: 08:00-10:00 Abdullah Chowk -> Numaish, 17:30-19:30 Numaish -> Abdullah Chowk. Stops per Jasarat: KDA Flats, 'Fort Chakri' (unidentified, omitted), U.P. More, Hyderi, Annu Bhai Park, M.A. Jinnah Road/old Numaish. Single Urdu source; not confirmed still running in 2026."
+        },
+        {
+          "id": "RED",
+          "name": "Malir Halt - Model Colony - University Road - Numaish",
+          "name_ur": "ریڈ لائن",
+          "variant": "brt",
+          "color": "#ED1C24",
+          "status": "under_construction",
+          "launched": null,
+          "length_km": 26.5,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Malir Halt",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Model Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Safoora Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "King Cottages",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Met Office",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "NED University",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Safari Park",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Nipa Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Federal Urdu University",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Masjid Baitul Mukarram",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Civic Centre",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Askari Park",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Dawood University",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Society Office",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Numaish",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "TransKarachi",
+              "url": "https://transkarachi.pk/"
+            },
+            {
+              "title": "Red Line BRT, Karachi (Zameen blog, Jan 2023)",
+              "url": "https://www.zameen.com/blog/progress-red-line-brt-karachi.html"
+            },
+            {
+              "title": "Karachi Red Line Bus Routes & Timings (rehbar.pk)",
+              "url": "https://rehbar.pk/info/red-line-bus-karachi-brt-routes-and-timings/"
+            },
+            {
+              "title": "FWO resumes construction of BRT Red Line (Dawn, 2026-04-26)",
+              "url": "https://www.dawn.com/news/1995248"
+            },
+            {
+              "title": "Sindh govt cancels BRT Red Line construction contract (Dawn)",
+              "url": "https://www.dawn.com/news/1994042"
+            }
+          ],
+          "notes": "Not operational as of Sept 2026. TransKarachi (ADB/AIIB/GCF/GoS, ~$503m; 22 stations on 26.5 km dedicated corridor; 200+ bio-hybrid buses). Construction began 2022; contract cancelled April 2026 and re-awarded to FWO, work resumed 2026-04-26 with 90-day target for mixed-traffic lanes; press reports completion pushed to ~June 2027. Stop list from Zameen (2023) with Malir Halt added as terminal; rehbar lists different names (Mosamiyat Chowrangi, Sheikh Zayed Islamic Centre, Karachi University, Metro) and common corridor Numaish - Municipal Park - Saddar - Jama Cloth - Merewether Tower. Official station list not found; order approximate."
+        },
+        {
+          "id": "YELLOW",
+          "name": "Dawood Chowrangi - Korangi - Shahrah-e-Faisal - Numaish",
+          "name_ur": "یلو لائن",
+          "variant": "brt",
+          "color": "#FFD200",
+          "status": "under_construction",
+          "launched": null,
+          "length_km": 21,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Dawood Chowrangi (Landhi/Korangi)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Numaish",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Karachi Mobility Project - Yellow Line BRT",
+              "url": "https://kmp.gos.pk/"
+            },
+            {
+              "title": "256 Electric Buses Planned for Karachi Yellow Line BRT (ProPakistani, 2026-06-11)",
+              "url": "https://propakistani.pk/2026/06/11/256-electric-buses-planned-for-karachi-yellow-line-brt/"
+            },
+            {
+              "title": "Karachi Yellow Line advances as spending, procurement and construction gather pace (INP/WealthPK)",
+              "url": "https://www.inp.net.pk/news-detail/inp-wealthpk/karachi-yellow-line-advances-as-spending-procurement-and-construction-gather-pace"
+            },
+            {
+              "title": "Yellow Line BRT EIA Vol 1 (2024)",
+              "url": "https://urckarachi.org/wp-content/uploads/2024/09/BRT-Yellow-LIne-Volume-1-EIA-19-03-24_compressed.pdf"
+            }
+          ],
+          "notes": "World Bank-funded. Alignment: Dawood Chowrangi, 8000 Road/Singer Chowrangi, Main Korangi Road, Jam Sadiq Bridge, FTC Interchange, Shahrah-e-Faisal, Shahrah-e-Quaideen, Kashmir Road, Numaish; link to Tower via common corridor. Station count conflict: 24 (2024 EIA, kmp.gos.pk) vs 28 (older docs/ProPakistani). As of July 2026 depots and new Jam Sadiq Bridge under construction; main corridor packages under tender/bid evaluation. Planned 256 electric buses, 6 direct + 3 feeder routes. Only terminals listed; station names not found in accessible sources."
+        },
+        {
+          "id": "BROWN",
+          "name": "Singer Chowrangi - Nagan Chowrangi (proposed)",
+          "name_ur": "براؤن لائن",
+          "variant": "brt",
+          "color": "#8B5A2B",
+          "status": "planned",
+          "launched": null,
+          "length_km": 21.8,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Singer Chowrangi (Korangi Industrial Area)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Nagan Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Karachi Breeze - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Karachi_Breeze"
+            },
+            {
+              "title": "BRT Brown Line Pre-Feasibility (Scribd)",
+              "url": "https://www.scribd.com/document/679954497/BRT-Brown-Line-Pre-Feasibility"
+            }
+          ],
+          "notes": "Pre-feasibility only; no construction. Wikipedia: Singer Chowrangi - Shama Centre/Shah Faisal Colony - Drigh Road (KCR) - Nipa (Red Line) - Sohrab Goth (Blue Line) - Nagan Chowrangi (Green Line). Pre-feasibility cites 21.8 km Power House Chowrangi - Singer Chowrangi (northern terminal conflicts). Yellow Line EIA calls Brown an MRT corridor. Blue Line (Merewether Tower - Bahria Town) is also planned only and not included as a route."
+        }
+      ]
+    },
+    {
+      "id": "karachi-circular-railway",
+      "city": "karachi",
+      "name": "Karachi Circular Railway",
+      "name_ur": "کراچی سرکلر ریلوے",
+      "operator": "Govt of Sindh / Karachi Urban Transport Corporation (revival); Pakistan Railways (legacy track)",
+      "mode": "metro_rail",
+      "website": null,
+      "helpline": null,
+      "payment": "unknown",
+      "fare_rules": {
+        "type": "unknown",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "",
+        "as_of": null,
+        "source_url": null
+      },
+      "hours": {
+        "start": null,
+        "end": null,
+        "notes": "Not operational as a mass-transit system."
+      },
+      "sources": [
+        {
+          "title": "Karachi Circular Railway - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Karachi_Circular_Railway",
+          "publisher": "Wikipedia",
+          "date": null,
+          "official": false
+        },
+        {
+          "title": "ADB to provide $1bn for Karachi Circular Railway revival",
+          "url": "https://www.dawn.com/news/1999757",
+          "publisher": "Dawn",
+          "date": "2026-05",
+          "official": false
+        },
+        {
+          "title": "ADB assures $1bn support for Karachi Circular Railway revival",
+          "url": "https://www.pakistantoday.com.pk/2026/05/13/adb-assures-dollar1bn-support-for-karachi-circular-railway-revival",
+          "publisher": "Pakistan Today",
+          "date": "2026-05-13",
+          "official": false
+        }
+      ],
+      "routes": [
+        {
+          "id": "KCR-LOOP",
+          "name": "Karachi City - Drigh Road - Liaquatabad - Orangi - SITE - Karachi City (loop)",
+          "name_ur": "",
+          "variant": "metro",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 43,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Karachi City",
+              "name_ur": "کراچی شہر",
+              "lat": 24.848569,
+              "lon": 67.006238,
+              "coord_source": "osm:way/539432952",
+              "is_station": true
+            },
+            {
+              "name": "Karachi Cantonment",
+              "name_ur": "کراچی چھاؤنی",
+              "lat": 24.843779,
+              "lon": 67.041017,
+              "coord_source": "osm:way/408164895",
+              "is_station": true
+            },
+            {
+              "name": "Chanesar Halt",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Karsaz",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Drigh Road",
+              "name_ur": "ڈرگ روڈ",
+              "lat": 24.886315,
+              "lon": 67.126189,
+              "coord_source": "osm:node/3523382867",
+              "is_station": true
+            },
+            {
+              "name": "Depot Hill",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Karachi University",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Urdu College",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Gilani",
+              "name_ur": "گیلانی",
+              "lat": 24.908673,
+              "lon": 67.078479,
+              "coord_source": "osm:way/1550813502",
+              "is_station": true
+            },
+            {
+              "name": "Liaquatabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": true
+            },
+            {
+              "name": "Orangi (formerly North Nazimabad)",
+              "name_ur": "اورنگی",
+              "lat": 24.915947,
+              "lon": 67.020397,
+              "coord_source": "osm:node/8294610400",
+              "is_station": true
+            },
+            {
+              "name": "Manghopir",
+              "name_ur": "منگھوپیر",
+              "lat": 24.905219,
+              "lon": 67.001871,
+              "coord_source": "osm:node/8294621168",
+              "is_station": true
+            },
+            {
+              "name": "SITE",
+              "name_ur": "سندھ انڈسٹریل ٹریڈنگ اسٹیٹ",
+              "lat": 24.89508,
+              "lon": 66.98829,
+              "coord_source": "osm:node/5336782581",
+              "is_station": true
+            },
+            {
+              "name": "Shah Abdul Latif",
+              "name_ur": "شاہ عبداللطیف",
+              "lat": 24.882966,
+              "lon": 66.972622,
+              "coord_source": "osm:node/8294625991",
+              "is_station": true
+            },
+            {
+              "name": "Baldia",
+              "name_ur": "بلدیہ",
+              "lat": 24.874449,
+              "lon": 66.968959,
+              "coord_source": "osm:node/8294625990",
+              "is_station": true
+            },
+            {
+              "name": "Lyari",
+              "name_ur": "لیاری",
+              "lat": 24.868036,
+              "lon": 66.980182,
+              "coord_source": "osm:node/8294625989",
+              "is_station": true
+            },
+            {
+              "name": "Wazir Mansion",
+              "name_ur": "وزیر مینشن ریلوے اسٹیشن",
+              "lat": 24.856792,
+              "lon": 66.986772,
+              "coord_source": "osm:node/5232539135",
+              "is_station": true
+            },
+            {
+              "name": "Karachi Port Trust (Tower/KPT)",
+              "name_ur": "",
+              "lat": 24.84769,
+              "lon": 66.990149,
+              "coord_source": "osm:node/8294603458",
+              "is_station": true
+            },
+            {
+              "name": "Karachi City",
+              "name_ur": "کراچی شہر",
+              "lat": 24.848569,
+              "lon": 67.006238,
+              "coord_source": "osm:way/539432952",
+              "is_station": true
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Karachi Circular Railway - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Karachi_Circular_Railway"
+            },
+            {
+              "title": "ADB to provide $1bn for KCR revival (Dawn)",
+              "url": "https://www.dawn.com/news/1999757"
+            },
+            {
+              "title": "OpenStreetMap Overpass extract (Karachi bbox), research/cache/osm_stations_stops.json",
+              "url": "https://www.openstreetmap.org"
+            }
+          ],
+          "notes": "Revival (43 km loop, 24-30 stations, electric trains) lost CPEC priority; May 2026 ADB pledged $1bn incl. $10m preparatory work (design review) - no construction. Sept 2021 groundbreaking produced no works. Stop list = legacy loop stations per Wikipedia (revival design may differ). A Pakistan Railways partial commuter train (Orangi/City - Pipri/Dhabeji) ran from Nov 2020; 2026 status unverified and not modelled. Liaquatabad not matched in OSM (nearby 'Sharifabad Railway Station' and a separate 'North Nazimabad' station exist) - left null. Loop closes back at Karachi City (listed twice)."
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    "Green Line official distance-based fare slab table (only min Rs15 / max Rs55 known); whether fares changed after the June 2025 subsidy period.",
+    "Current Orange Line fare and combined Orange+Green single-ticket price after 2025-12-31 integration.",
+    "Whether Orange Line buses stop at every Green Line station between Board Office and Nagan Chowrangi.",
+    "Official names of Green Line stations between Board Office and Nazimabad No. 1 (Annu Bhai Park vs Baqai; Enquiry Office vs Model Park).",
+    "Final station names/count of the Green Line extension (Numaish - Jama Cloth) and whether it opens by 2026-10-31.",
+    "Official Red Line and Yellow Line station lists (TransKarachi/KMP documents not available as text).",
+    "Green Line Express (June 2025): still running? exact stops ('Fort Chakri' unidentified).",
+    "No operational SIDCL/TransKarachi Breeze feeder or EV feeder routes found; 'Electric buses for Green and Orange Line feeder routes' is at feasibility stage (PPP Unit Sindh). Sindh EV/Pink buses belong to Peoples Bus Service.",
+    "2026 status of the Pakistan Railways partial KCR commuter train.",
+    "Official line colour hex codes (values used are approximations)."
+  ]
+}

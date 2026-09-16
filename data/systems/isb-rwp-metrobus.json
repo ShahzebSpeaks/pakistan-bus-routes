@@ -1,0 +1,711 @@
+{
+  "id": "isb-rwp-metrobus",
+  "city": "islamabad-rawalpindi",
+  "name": "Rawalpindi–Islamabad Metrobus",
+  "name_ur": "راولپنڈی اسلام آباد میٹرو بس",
+  "operator": "Punjab Masstransit Authority (Red Line); Capital Development Authority / Capital Mass Transit Authority (Orange, Blue, Green)",
+  "mode": "brt",
+  "website": "https://cmta.com.pk/",
+  "helpline": "051-111-222-627 (PMA Red Line); 051-2258066 (Islamabad Metro/CMTA)",
+  "payment": "Red/Orange: e-ticketing, single-journey token or rechargeable metro card; Blue/Green: CDA ticketing (cash/card)",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 50,
+    "slabs": [],
+    "concessions": "Applies to CDA lines (Orange, Blue, Green). CDA hike to Rs 100 announced 1 Jun 2025 was withdrawn on PM directive (Aaj, 4 Jun 2025), fare back to Rs 50. Red Line has its own fare (see route fare_override).",
+    "as_of": "2025-06-04",
+    "source_url": "https://english.aaj.tv/news/330418359/islamabad-withdraws-metro-bus-fare-hike-after-backlash"
+  },
+  "hours": {
+    "start": "06:00",
+    "end": "22:00",
+    "notes": "Red Line 06:30-22:00 (Safar); Wikipedia/INCPak quote 06:15-22:00; Blue/Green 05:45-22:00 per CDA timetables."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Rawalpindi–Islamabad Metrobus",
+      "url": "https://en.wikipedia.org/wiki/Rawalpindi%E2%80%93Islamabad_Metrobus",
+      "publisher": "Wikipedia",
+      "date": null,
+      "official": false
+    },
+    {
+      "title": "CDA Transit Map - route details",
+      "url": "https://www.cda.gov.pk/cdaTransitMap",
+      "publisher": "Capital Development Authority",
+      "date": null,
+      "official": true
+    },
+    {
+      "title": "Metro Bus fare races up by 33pc across Punjab",
+      "url": "https://www.24newshd.tv/14-Mar-2026/metro-bus-fare-races-33pc-across-punjab",
+      "publisher": "24 News HD",
+      "date": "2026-03-14",
+      "official": false
+    },
+    {
+      "title": "Punjab Metro Bus Fare Hike to Rs. 40 from March 26",
+      "url": "https://www.pakwheels.com/blog/punjab-metro-bus-fare-hike-2026/",
+      "publisher": "PakWheels",
+      "date": "2026-03-17",
+      "official": false
+    },
+    {
+      "title": "Commuters in Islamabad hit hard as fare of CDA buses doubled",
+      "url": "https://www.dawn.com/news/1914820",
+      "publisher": "Dawn",
+      "date": "2025-06-01",
+      "official": false
+    },
+    {
+      "title": "Islamabad withdraws Metro bus fare hike after backlash",
+      "url": "https://english.aaj.tv/news/330418359/islamabad-withdraws-metro-bus-fare-hike-after-backlash",
+      "publisher": "Aaj English",
+      "date": "2025-06-04",
+      "official": false
+    },
+    {
+      "title": "Safar - Islamabad transit lines",
+      "url": "https://www.safar.fyi/map",
+      "publisher": "Safar",
+      "date": null,
+      "official": false
+    },
+    {
+      "title": "OSM Overpass extract (bbox 33.45,72.80,33.85,73.30)",
+      "url": "https://overpass-api.de/api/interpreter",
+      "publisher": "OpenStreetMap contributors",
+      "date": "2026-09-16",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "RED",
+      "name": "Saddar - Pak Secretariat",
+      "name_ur": "ریڈ میٹرو بس",
+      "variant": "metro",
+      "color": null,
+      "status": "operational",
+      "launched": "2015-06-04",
+      "length_km": 22.5,
+      "headway_min": null,
+      "hours": {
+        "start": "06:30",
+        "end": "22:00"
+      },
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 40,
+        "slabs": [],
+        "concessions": "Green Transport Card holders Rs 25 per trip (per news reports)",
+        "as_of": "2026-03-26",
+        "source_url": "https://www.24newshd.tv/14-Mar-2026/metro-bus-fare-races-33pc-across-punjab"
+      },
+      "women_only": false,
+      "stops_confidence": "high",
+      "stops": [
+        {
+          "name": "Saddar",
+          "name_ur": "",
+          "lat": 33.594161,
+          "lon": 73.056508,
+          "coord_source": "osm:node/9160047641",
+          "is_station": true
+        },
+        {
+          "name": "Marrir",
+          "name_ur": "",
+          "lat": 33.599724,
+          "lon": 73.062795,
+          "coord_source": "osm:node/9160047665",
+          "is_station": true
+        },
+        {
+          "name": "Liaquat Bagh",
+          "name_ur": "",
+          "lat": 33.605941,
+          "lon": 73.065774,
+          "coord_source": "osm:node/10827084437",
+          "is_station": true
+        },
+        {
+          "name": "Committee Chowk",
+          "name_ur": "",
+          "lat": 33.613865,
+          "lon": 73.065167,
+          "coord_source": "osm:node/9160047697",
+          "is_station": true
+        },
+        {
+          "name": "Waris Khan",
+          "name_ur": "",
+          "lat": 33.62079,
+          "lon": 73.066204,
+          "coord_source": "osm:node/9160047703",
+          "is_station": true
+        },
+        {
+          "name": "Chandni Chowk",
+          "name_ur": "",
+          "lat": 33.629854,
+          "lon": 73.071963,
+          "coord_source": "osm:node/9160141492",
+          "is_station": true
+        },
+        {
+          "name": "Rehmanabad",
+          "name_ur": "",
+          "lat": 33.636431,
+          "lon": 73.07509,
+          "coord_source": "osm:node/9160141507",
+          "is_station": true
+        },
+        {
+          "name": "6th Road",
+          "name_ur": "",
+          "lat": 33.643575,
+          "lon": 73.077806,
+          "coord_source": "osm:node/9160141512",
+          "is_station": true
+        },
+        {
+          "name": "Shamsabad",
+          "name_ur": "",
+          "lat": 33.650635,
+          "lon": 73.080357,
+          "coord_source": "osm:node/9160142121",
+          "is_station": true
+        },
+        {
+          "name": "Faizabad",
+          "name_ur": "",
+          "lat": 33.661442,
+          "lon": 73.08286,
+          "coord_source": "osm:node/9160142144",
+          "is_station": true
+        },
+        {
+          "name": "IJP Road",
+          "name_ur": "",
+          "lat": 33.656548,
+          "lon": 73.072009,
+          "coord_source": "osm:node/9160142162",
+          "is_station": true
+        },
+        {
+          "name": "Potohar",
+          "name_ur": "",
+          "lat": 33.660792,
+          "lon": 73.065674,
+          "coord_source": "osm:node/9160142177",
+          "is_station": true
+        },
+        {
+          "name": "Khayaban-e-Johar",
+          "name_ur": "",
+          "lat": 33.669059,
+          "lon": 73.059297,
+          "coord_source": "osm:node/9160142184",
+          "is_station": true
+        },
+        {
+          "name": "Faiz Ahmad Faiz",
+          "name_ur": "",
+          "lat": 33.675362,
+          "lon": 73.054531,
+          "coord_source": "osm:node/9160142199",
+          "is_station": true
+        },
+        {
+          "name": "Kashmir Highway (Peshawar Morr)",
+          "name_ur": "",
+          "lat": 33.684608,
+          "lon": 73.047482,
+          "coord_source": "osm:node/10827084449",
+          "is_station": true
+        },
+        {
+          "name": "Chaman",
+          "name_ur": "",
+          "lat": 33.689876,
+          "lon": 73.042906,
+          "coord_source": "osm:node/9182481560",
+          "is_station": true
+        },
+        {
+          "name": "Ibn-e-Sina",
+          "name_ur": "",
+          "lat": 33.695756,
+          "lon": 73.038661,
+          "coord_source": "osm:node/9182481583",
+          "is_station": true
+        },
+        {
+          "name": "Katchery",
+          "name_ur": "",
+          "lat": 33.702306,
+          "lon": 73.041588,
+          "coord_source": "osm:node/9182481596",
+          "is_station": true
+        },
+        {
+          "name": "PIMS",
+          "name_ur": "",
+          "lat": 33.705988,
+          "lon": 73.048356,
+          "coord_source": "osm:node/9182481616",
+          "is_station": true
+        },
+        {
+          "name": "Stock Exchange",
+          "name_ur": "",
+          "lat": 33.711713,
+          "lon": 73.059323,
+          "coord_source": "osm:node/10826298884",
+          "is_station": true
+        },
+        {
+          "name": "7th Avenue",
+          "name_ur": "",
+          "lat": 33.718275,
+          "lon": 73.071825,
+          "coord_source": "osm:node/9182505876",
+          "is_station": true
+        },
+        {
+          "name": "Shaheed-e-Millat",
+          "name_ur": "",
+          "lat": 33.721598,
+          "lon": 73.078201,
+          "coord_source": "osm:node/10827084452",
+          "is_station": true
+        },
+        {
+          "name": "Parade Ground",
+          "name_ur": "",
+          "lat": 33.724801,
+          "lon": 73.084328,
+          "coord_source": "osm:node/9182505890",
+          "is_station": true
+        },
+        {
+          "name": "Pak Secretariat",
+          "name_ur": "",
+          "lat": 33.734623,
+          "lon": 73.092513,
+          "coord_source": "osm:node/10827084455",
+          "is_station": true
+        }
+      ],
+      "sources": [
+        {
+          "title": "Rawalpindi–Islamabad Metrobus (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Rawalpindi%E2%80%93Islamabad_Metrobus"
+        },
+        {
+          "title": "Safar route page",
+          "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Ared"
+        },
+        {
+          "title": "OpenStreetMap relation 13911249",
+          "url": "https://www.openstreetmap.org/relation/13911249"
+        },
+        {
+          "title": "Punjab Masstransit Authority - Rawalpindi",
+          "url": "https://pma.punjab.gov.pk/rawalpindi"
+        }
+      ],
+      "notes": "Operated by Punjab Masstransit Authority. 24 stations (Wikipedia, Safar and OSM agree). Fare raised Rs 30 -> Rs 40 from 26 Mar 2026 (24NewsHD/PakWheels, Mar 2026); Safar still shows Rs 30. Faiz Ahmad Faiz is the interchange with Orange Line. PMA ran limited-stop express trips (Saddar-Faizabad, Faiz Ahmad Faiz-Rehmanabad) from Feb 2023. OSM route colour=red. Wikipedia: headway 3-6 min daytime."
+    },
+    {
+      "id": "ORANGE",
+      "name": "Faiz Ahmad Faiz (Peshawar Morr) - Islamabad International Airport",
+      "name_ur": "اورینج میٹرو بس",
+      "variant": "metro",
+      "color": null,
+      "status": "operational",
+      "launched": "2022-04-18",
+      "length_km": 25.6,
+      "headway_min": 10,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Faiz Ahmad Faiz",
+          "name_ur": "",
+          "lat": 33.675362,
+          "lon": 73.054531,
+          "coord_source": "osm:node/9160142199",
+          "is_station": true
+        },
+        {
+          "name": "NHA",
+          "name_ur": "",
+          "lat": 33.676832,
+          "lon": 73.034001,
+          "coord_source": "osm:node/10826292712",
+          "is_station": true
+        },
+        {
+          "name": "G-10 / High Court",
+          "name_ur": "",
+          "lat": 33.667596,
+          "lon": 73.016289,
+          "coord_source": "osm:node/9182623542",
+          "is_station": true
+        },
+        {
+          "name": "Police Foundation",
+          "name_ur": "",
+          "lat": 33.663361,
+          "lon": 73.008253,
+          "coord_source": "osm:node/9182623554",
+          "is_station": true
+        },
+        {
+          "name": "NUST",
+          "name_ur": "",
+          "lat": 33.65535,
+          "lon": 72.992984,
+          "coord_source": "osm:node/9182623575",
+          "is_station": true
+        },
+        {
+          "name": "G-13",
+          "name_ur": "",
+          "lat": 33.650022,
+          "lon": 72.982486,
+          "coord_source": "osm:node/9182623597",
+          "is_station": true
+        },
+        {
+          "name": "Golra Morr",
+          "name_ur": "",
+          "lat": 33.64043,
+          "lon": 72.961475,
+          "coord_source": "osm:node/9182623635",
+          "is_station": true
+        },
+        {
+          "name": "N-5 (26 Number)",
+          "name_ur": "",
+          "lat": 33.632161,
+          "lon": 72.944123,
+          "coord_source": "osm:node/9182623670",
+          "is_station": true
+        },
+        {
+          "name": "Islamabad International Airport",
+          "name_ur": "",
+          "lat": 33.555987,
+          "lon": 72.837367,
+          "coord_source": "osm:node/9689525842",
+          "is_station": true
+        }
+      ],
+      "sources": [
+        {
+          "title": "Rawalpindi–Islamabad Metrobus (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Rawalpindi%E2%80%93Islamabad_Metrobus"
+        },
+        {
+          "title": "Safar route page",
+          "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Aorange"
+        },
+        {
+          "title": "Safar route page",
+          "url": "https://www.safar.fyi/islamabad/transit-lines/1%3AorangeAirportExpress"
+        },
+        {
+          "title": "OpenStreetMap relation 13911250",
+          "url": "https://www.openstreetmap.org/relation/13911250"
+        }
+      ],
+      "notes": "Opened 18 Apr 2022 (25.6 km). Station list from Safar (FAF Bay 3 -> N-5) plus Airport terminus; coordinates from OSM platform nodes. Name mapping uncertain: OSM \"G10 Metro Station\" = Safar \"High Court Metro Station\"/\"G-10 Metro Station\"; OSM \"G-12 west nust station\" assumed = Safar \"G-13 Metro Station\"; OSM \"G13 Golra Metro Station\" assumed = \"Golra Morr Metro Station\"; OSM \"N5 Metro Station\" = 26 Number Chungi. Safar (2026) shows the BRT service ending at N-5 with a separate \"Orange Line Airport Express\" N-5 <-> Airport (Rs 90); news sites also quote Rs 90 for 26 No Chungi-Airport. Whether through buses still run to the airport is unverified. Wikipedia table lists 7 stations at opening. OSM route colour=orange."
+    },
+    {
+      "id": "BLUE",
+      "name": "PIMS - Gulberg (Koral)",
+      "name_ur": "",
+      "variant": "brt",
+      "color": null,
+      "status": "operational",
+      "launched": "2022-07-07",
+      "length_km": 20,
+      "headway_min": 5,
+      "hours": {
+        "start": "05:45",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "high",
+      "stops": [
+        {
+          "name": "PIMS",
+          "name_ur": "",
+          "lat": 33.705899,
+          "lon": 73.048437,
+          "coord_source": "osm:node/5220455039",
+          "is_station": false
+        },
+        {
+          "name": "Children Hospital",
+          "name_ur": "",
+          "lat": 33.705309,
+          "lon": 73.055524,
+          "coord_source": "osm:node/12731392226",
+          "is_station": false
+        },
+        {
+          "name": "TNT",
+          "name_ur": "",
+          "lat": 33.692808,
+          "lon": 73.058786,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "H-8",
+          "name_ur": "",
+          "lat": 33.680307,
+          "lon": 73.062048,
+          "coord_source": "auto:osm:node/67235921",
+          "is_station": false
+        },
+        {
+          "name": "Kach Naar Park I-8",
+          "name_ur": "",
+          "lat": 33.670209,
+          "lon": 73.079408,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sohan",
+          "name_ur": "",
+          "lat": 33.660112,
+          "lon": 73.096767,
+          "coord_source": "auto:osm:node/6321956647",
+          "is_station": false
+        },
+        {
+          "name": "Dhok Kala Khan",
+          "name_ur": "",
+          "lat": 33.654532,
+          "lon": 73.092324,
+          "coord_source": "auto:osm:node/1942265820",
+          "is_station": false
+        },
+        {
+          "name": "Iqbal Town",
+          "name_ur": "",
+          "lat": 33.645814,
+          "lon": 73.099966,
+          "coord_source": "auto:osm:way/707117820",
+          "is_station": false
+        },
+        {
+          "name": "Kuri Road",
+          "name_ur": "",
+          "lat": 33.642652,
+          "lon": 73.103906,
+          "coord_source": "auto:osm:node/256142965",
+          "is_station": false
+        },
+        {
+          "name": "Zia Masjid",
+          "name_ur": "",
+          "lat": 33.635985,
+          "lon": 73.108776,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Khanna Pul",
+          "name_ur": "",
+          "lat": 33.629318,
+          "lon": 73.113646,
+          "coord_source": "auto:osm:node/4331663491",
+          "is_station": false
+        },
+        {
+          "name": "Fazaia",
+          "name_ur": "",
+          "lat": 33.619375,
+          "lon": 73.116485,
+          "coord_source": "auto:osm:node/13247805855",
+          "is_station": false
+        },
+        {
+          "name": "Gangal",
+          "name_ur": "",
+          "lat": 33.612742,
+          "lon": 73.125535,
+          "coord_source": "auto:osm:node/12361997341",
+          "is_station": false
+        },
+        {
+          "name": "Koral Town",
+          "name_ur": "",
+          "lat": 33.607335,
+          "lon": 73.140968,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gulberg",
+          "name_ur": "",
+          "lat": 33.601927,
+          "lon": 73.156402,
+          "coord_source": "auto:osm:node/4411449996",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Rawalpindi–Islamabad Metrobus (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Rawalpindi%E2%80%93Islamabad_Metrobus"
+        },
+        {
+          "title": "CDA Transit Map of Islamabad - route details & timetables",
+          "url": "https://www.cda.gov.pk/cdaTransitMap"
+        },
+        {
+          "title": "CDA timetable FRB-01 (official)",
+          "url": "https://www.cda.gov.pk/Assets/metro_transit_route/FRB-01_Forward.pdf"
+        },
+        {
+          "title": "Safar route page",
+          "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Ablue"
+        }
+      ],
+      "notes": "CDA code FRB-01. Runs in mixed traffic on Islamabad Expressway (no dedicated stations). Stops from CDA official timetable (PIMS->Gulberg, 15 stops); Safar lists 14-16 with names G-7/G-8, H-8/Shakarparian, I-8/Parade Ground, Koral Chowk. Originally PIMS-Koral Chowk (Jul 2022), later extended to Gulberg. CDA timetable: 05:45-22:00, ~5 min headway (Wikipedia: 6 min)."
+    },
+    {
+      "id": "GREEN",
+      "name": "PIMS - Bhara Kahu",
+      "name_ur": "",
+      "variant": "brt",
+      "color": null,
+      "status": "operational",
+      "launched": "2022-07-07",
+      "length_km": 15.5,
+      "headway_min": 5,
+      "hours": {
+        "start": "05:45",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "high",
+      "stops": [
+        {
+          "name": "PIMS",
+          "name_ur": "",
+          "lat": 33.705899,
+          "lon": 73.048437,
+          "coord_source": "osm:node/5220455039",
+          "is_station": false
+        },
+        {
+          "name": "Children Hospital",
+          "name_ur": "",
+          "lat": 33.705309,
+          "lon": 73.055524,
+          "coord_source": "osm:node/12731392226",
+          "is_station": false
+        },
+        {
+          "name": "TNT",
+          "name_ur": "",
+          "lat": 33.702743,
+          "lon": 73.068723,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "CDA",
+          "name_ur": "",
+          "lat": 33.700176,
+          "lon": 73.081923,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Abpara",
+          "name_ur": "",
+          "lat": 33.69761,
+          "lon": 73.095122,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Foreign Affairs Office",
+          "name_ur": "",
+          "lat": 33.695043,
+          "lon": 73.108322,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lake View Park",
+          "name_ur": "",
+          "lat": 33.692477,
+          "lon": 73.121521,
+          "coord_source": "auto:osm:way/154459273",
+          "is_station": false
+        },
+        {
+          "name": "Malpur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shahdara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Barakahu",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Rawalpindi–Islamabad Metrobus (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Rawalpindi%E2%80%93Islamabad_Metrobus"
+        },
+        {
+          "title": "CDA Transit Map of Islamabad - route details & timetables",
+          "url": "https://www.cda.gov.pk/cdaTransitMap"
+        },
+        {
+          "title": "CDA timetable FRG-1 (official)",
+          "url": "https://www.cda.gov.pk/Assets/metro_transit_route/FRG-1_Forward.pdf"
+        },
+        {
+          "title": "Safar route page",
+          "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Agreen"
+        }
+      ],
+      "notes": "CDA code FRG-1. Mixed traffic along Srinagar Highway/Murree Road. Stops from CDA official timetable (PIMS->Barakahu, 10 stops); Safar adds G-7/G-8, Diplomatic Enclave and Bari Imam Link Road. CDA timetable 05:45-22:00, ~5 min headway."
+    }
+  ]
+}

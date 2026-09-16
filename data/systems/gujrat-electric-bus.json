@@ -1,0 +1,419 @@
+{
+  "id": "gujrat-electric-bus",
+  "city": "gujrat",
+  "name": "Green Electric Bus Gujrat",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "Punjab set to take green electric buses number to 1,500",
+      "url": "https://www.dawn.com/news/2013201/punjab-set-to-take-green-electric-buses-number-to-1500",
+      "publisher": "Dawn",
+      "date": "2026-07-06",
+      "official": false
+    },
+    {
+      "title": "All Gujrat Green Electric Bus routes",
+      "url": "https://www.safar.fyi/gujrat/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "gbs-gujrat-to-daulat-nagar",
+      "name": "GBS Gujrat to Daulat Nagar",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-31",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS Gujrat",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "GTS Chowk, Gujrat",
+          "name_ur": "",
+          "lat": 32.568653,
+          "lon": 74.072961,
+          "coord_source": "auto:nominatim:node/13281426433",
+          "is_station": false
+        },
+        {
+          "name": "Jattuwakal Stop",
+          "name_ur": "",
+          "lat": 32.577694,
+          "lon": 74.058686,
+          "coord_source": "auto:osm:node/2560342575",
+          "is_station": false
+        },
+        {
+          "name": "Service Morr Stop",
+          "name_ur": "",
+          "lat": 32.580752,
+          "lon": 74.058494,
+          "coord_source": "auto:osm:way/234322356",
+          "is_station": false
+        },
+        {
+          "name": "Shadman Colony Stop",
+          "name_ur": "",
+          "lat": 32.589057,
+          "lon": 74.063487,
+          "coord_source": "auto:osm:node/7552171702",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah Chowk, Gujrat",
+          "name_ur": "",
+          "lat": 32.58792,
+          "lon": 74.069543,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nishan e Haider Chowk",
+          "name_ur": "",
+          "lat": 32.586783,
+          "lon": 74.075599,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Katchehry Chowk, Gujrat",
+          "name_ur": "",
+          "lat": 32.585646,
+          "lon": 74.081655,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Govt Women College, Gujrat",
+          "name_ur": "",
+          "lat": 32.584509,
+          "lon": 74.087711,
+          "coord_source": "auto:nominatim:way/810421137",
+          "is_station": false
+        },
+        {
+          "name": "Aziz Bhatti Hospital",
+          "name_ur": "",
+          "lat": 32.598063,
+          "lon": 74.07956,
+          "coord_source": "auto:osm:way/1030669040",
+          "is_station": false
+        },
+        {
+          "name": "Labour Colony Stop",
+          "name_ur": "",
+          "lat": 32.612937,
+          "lon": 74.073319,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Airport Chowk, Gujrat",
+          "name_ur": "",
+          "lat": 32.627811,
+          "lon": 74.067079,
+          "coord_source": "auto:osm:way/236257852",
+          "is_station": false
+        },
+        {
+          "name": "Qadir Colony",
+          "name_ur": "",
+          "lat": 32.628085,
+          "lon": 74.078237,
+          "coord_source": "auto:osm:node/2792597293",
+          "is_station": false
+        },
+        {
+          "name": "Malhu Khokhar",
+          "name_ur": "",
+          "lat": 32.641192,
+          "lon": 74.08245,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bokan Morr",
+          "name_ur": "",
+          "lat": 32.654298,
+          "lon": 74.086663,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Blaisar Morr",
+          "name_ur": "",
+          "lat": 32.667405,
+          "lon": 74.090876,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Uggowal",
+          "name_ur": "",
+          "lat": 32.680511,
+          "lon": 74.095089,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Banth",
+          "name_ur": "",
+          "lat": 32.693618,
+          "lon": 74.099302,
+          "coord_source": "auto:osm:node/4537070614",
+          "is_station": false
+        },
+        {
+          "name": "Banota",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mehsam",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dhumma Malka",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dualat Nagar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Gujrat route",
+          "url": "https://www.safar.fyi/gujrat/transit-lines/etransit-gujrat%3A348"
+        }
+      ],
+      "notes": "11 buses; GBS-Mangowal and GBS-Daulat Nagar. Dawn (Jul 2026) also mentioned routes to Lalamusa and Jalalpur Jattan (not listed as operating). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Gujrat to Dualat Nagar', 22 stops); safar lists service 6:00 AM - 8:30 PM (unverified)."
+    },
+    {
+      "id": "gbs-gujrat-to-mangowal",
+      "name": "GBS, Gujrat to Mangowal",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-31",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS Gujrat",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "GTS Chowk, Gujrat",
+          "name_ur": "",
+          "lat": 32.568653,
+          "lon": 74.072961,
+          "coord_source": "auto:nominatim:node/13281426433",
+          "is_station": false
+        },
+        {
+          "name": "Staff Gala Chowk",
+          "name_ur": "",
+          "lat": 32.565532,
+          "lon": 74.05961,
+          "coord_source": "auto:osm:node/7552171696",
+          "is_station": false
+        },
+        {
+          "name": "Shaheen Chowk",
+          "name_ur": "",
+          "lat": 32.558978,
+          "lon": 74.043378,
+          "coord_source": "auto:osm:node/5121905426",
+          "is_station": false
+        },
+        {
+          "name": "Narowali",
+          "name_ur": "",
+          "lat": 32.549864,
+          "lon": 74.035654,
+          "coord_source": "auto:osm:node/2832198200",
+          "is_station": false
+        },
+        {
+          "name": "Sheikh Sukha",
+          "name_ur": "",
+          "lat": 32.554829,
+          "lon": 74.02456,
+          "coord_source": "auto:osm:node/2832199401",
+          "is_station": false
+        },
+        {
+          "name": "Mand Stop",
+          "name_ur": "",
+          "lat": 32.545297,
+          "lon": 74.014361,
+          "coord_source": "auto:osm:node/2832198160",
+          "is_station": false
+        },
+        {
+          "name": "Saroki Bridge",
+          "name_ur": "",
+          "lat": 32.537506,
+          "lon": 73.994174,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kunjah Chowk",
+          "name_ur": "",
+          "lat": 32.529715,
+          "lon": 73.973987,
+          "coord_source": "auto:osm:node/2500483215",
+          "is_station": false
+        },
+        {
+          "name": "Gondal Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chungi Nagrianwala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shabbir Sharif Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chakori Bakhu Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Khunan gharbi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kot Allah Baksh",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak Jaspal- Kunjahri",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Rehman Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dinga Chowk, Mangowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Gujrat route",
+          "url": "https://www.safar.fyi/gujrat/transit-lines/etransit-gujrat%3A347"
+        }
+      ],
+      "notes": "11 buses; GBS-Mangowal and GBS-Daulat Nagar. Dawn (Jul 2026) also mentioned routes to Lalamusa and Jalalpur Jattan (not listed as operating). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Gujrat to Dinga Chowk, Mangowal', 18 stops); safar lists service 6:00 AM - 9:25 PM (unverified)."
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "id": "nankana-sahib-electric-bus",
+  "city": "nankana-sahib",
+  "name": "Green Electric Bus Nankana Sahib",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Nankana Sahib Green Electric Bus routes",
+      "url": "https://www.safar.fyi/nankana-sahib/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "gbs-nankana-sahab-to-morr-khunda",
+      "name": "GBS Nankana Sahab to Morr Khunda",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-31",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS, Nankana",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Madina Town, Nankana",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kot Lehna Daas",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Punjab College, Nankana",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kot Rai Ameer Ali Khan",
+          "name_ur": "",
+          "lat": 31.432799,
+          "lon": 73.749077,
+          "coord_source": "auto:osm:node/9913876938",
+          "is_station": false
+        },
+        {
+          "name": "Abbian Wala",
+          "name_ur": "",
+          "lat": 31.420621,
+          "lon": 73.746283,
+          "coord_source": "auto:osm:node/9910611456",
+          "is_station": false
+        },
+        {
+          "name": "Kali Bair",
+          "name_ur": "",
+          "lat": 31.411003,
+          "lon": 73.756581,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Khairay Kalan",
+          "name_ur": "",
+          "lat": 31.401385,
+          "lon": 73.766879,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kirch Pur",
+          "name_ur": "",
+          "lat": 31.391768,
+          "lon": 73.777177,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kot Bhattian",
+          "name_ur": "",
+          "lat": 31.38215,
+          "lon": 73.787475,
+          "coord_source": "auto:osm:node/9347931101",
+          "is_station": false
+        },
+        {
+          "name": "Bashir Da Kot",
+          "name_ur": "",
+          "lat": 31.368425,
+          "lon": 73.799021,
+          "coord_source": "auto:osm:node/9347931102",
+          "is_station": false
+        },
+        {
+          "name": "Chokian Wala",
+          "name_ur": "",
+          "lat": 31.362467,
+          "lon": 73.798382,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sheikhupura Morr, Nankana",
+          "name_ur": "",
+          "lat": 31.356509,
+          "lon": 73.797742,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mangtan Wala",
+          "name_ur": "",
+          "lat": 31.350552,
+          "lon": 73.797103,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Noor Mandi",
+          "name_ur": "",
+          "lat": 31.344594,
+          "lon": 73.796464,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jalal Noh",
+          "name_ur": "",
+          "lat": 31.338636,
+          "lon": 73.795825,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Aspire College, Morr Khunda",
+          "name_ur": "",
+          "lat": 31.332679,
+          "lon": 73.795186,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Khaki Shah",
+          "name_ur": "",
+          "lat": 31.326721,
+          "lon": 73.794546,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Morr Khunda",
+          "name_ur": "",
+          "lat": 31.320763,
+          "lon": 73.793907,
+          "coord_source": "auto:osm:node/9917599788",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Nankana Sahib route",
+          "url": "https://www.safar.fyi/nankana-sahib/transit-lines/etransit-nankana-sahib%3Aetransit-67-423"
+        }
+      ],
+      "notes": "11 buses; GBS-Mor Khunda and GBS-Warburton. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS, Nankana to Morr Khunda', 19 stops); safar lists service 6:00 AM - 7:55 PM (unverified)."
+    },
+    {
+      "id": "gbs-nankana-sahab-to-warburtton",
+      "name": "GBS Nankana Sahab to Warburtton",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-31",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS, Nankana",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Madina Town, Nankana",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Yadgaar Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Warburton Chowk",
+          "name_ur": "",
+          "lat": 31.540521,
+          "lon": 73.832778,
+          "coord_source": "auto:osm:node/9395814602",
+          "is_station": false
+        },
+        {
+          "name": "Darya Stop",
+          "name_ur": "",
+          "lat": 31.535084,
+          "lon": 73.833944,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bhatta Stop, Nankana",
+          "name_ur": "",
+          "lat": 31.529647,
+          "lon": 73.83511,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lado",
+          "name_ur": "",
+          "lat": 31.524211,
+          "lon": 73.836276,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Khadan Wala",
+          "name_ur": "",
+          "lat": 31.518774,
+          "lon": 73.837443,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Budha",
+          "name_ur": "",
+          "lat": 31.513337,
+          "lon": 73.838609,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "10 Murabba",
+          "name_ur": "",
+          "lat": 31.5079,
+          "lon": 73.839775,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Peerhi Wala",
+          "name_ur": "",
+          "lat": 31.502464,
+          "lon": 73.840941,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Tibbi Karyali",
+          "name_ur": "",
+          "lat": 31.497027,
+          "lon": 73.842107,
+          "coord_source": "auto:osm:node/12824965662",
+          "is_station": false
+        },
+        {
+          "name": "Jaslani Chowk",
+          "name_ur": "",
+          "lat": 31.513258,
+          "lon": 73.858141,
+          "coord_source": "auto:osm:node/9395814603",
+          "is_station": false
+        },
+        {
+          "name": "Warburton Bypass",
+          "name_ur": "",
+          "lat": 31.522346,
+          "lon": 73.849687,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Tanvir Colony",
+          "name_ur": "",
+          "lat": 31.531433,
+          "lon": 73.841232,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Warburton",
+          "name_ur": "",
+          "lat": 31.540521,
+          "lon": 73.832778,
+          "coord_source": "auto:osm:node/9395814602",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Nankana Sahib route",
+          "url": "https://www.safar.fyi/nankana-sahib/transit-lines/etransit-nankana-sahib%3Aetransit-67-424"
+        }
+      ],
+      "notes": "11 buses; GBS-Mor Khunda and GBS-Warburton. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS, Nankana to Warburton', 16 stops); safar lists service 6:00 AM - 7:55 PM (unverified)."
+    }
+  ]
+}

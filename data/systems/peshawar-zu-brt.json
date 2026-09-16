@@ -1,0 +1,2833 @@
+{
+  "id": "peshawar-zu-brt",
+  "city": "peshawar",
+  "name": "Zu Peshawar (TransPeshawar BRT)",
+  "name_ur": "زو پشاور",
+  "operator": "TransPeshawar (Urban Mobility Company), under KP Urban Mobility Authority",
+  "mode": "brt",
+  "website": "https://transpeshawar.pk",
+  "helpline": "091-111-477-477",
+  "payment": "Zu card (stored value; card price Rs400 from Dec 2024; recharge at stations, Zu mobile app, JazzCash, Easypaisa); single-journey ticket Rs70",
+  "fare_rules": {
+    "type": "distance_slab",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [
+      {
+        "up_to_km": 5,
+        "fare": 30
+      },
+      {
+        "up_to_km": 10,
+        "fare": 35
+      },
+      {
+        "up_to_km": 15,
+        "fare": 45
+      },
+      {
+        "up_to_km": 20,
+        "fare": 50
+      },
+      {
+        "up_to_km": 25,
+        "fare": 55
+      },
+      {
+        "up_to_km": 30,
+        "fare": 60
+      },
+      {
+        "up_to_km": 35,
+        "fare": 65
+      },
+      {
+        "up_to_km": 40,
+        "fare": 70
+      },
+      {
+        "up_to_km": null,
+        "fare": 70
+      }
+    ],
+    "concessions": "Single-journey ticket Rs70. Express buses running on feeder routes: flat Rs55. Senior citizens (60+) 50% with special card; children under 5 free with parents (2024 reports).",
+    "as_of": "2026-04",
+    "source_url": "https://transpeshawar.pk/wp-content/uploads/2026/04/TP-New-Fares.jpeg"
+  },
+  "hours": {
+    "start": "06:00",
+    "end": "22:00",
+    "notes": "Official operation-hours page: ~16 h/day 06:00-22:00; ER-01 last departure 20:30 (from 13 Jul 2026). Corridor headway reported 3 min peak / 5 min off-peak (Wikipedia)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Zu Route Maps",
+      "url": "https://transpeshawar.pk/passenger-services/zu-route-maps/",
+      "publisher": "TransPeshawar",
+      "date": "2025-06-18",
+      "official": true
+    },
+    {
+      "title": "Fares & Recharge (fare table image)",
+      "url": "https://transpeshawar.pk/passenger-services/fares-recharge/",
+      "publisher": "TransPeshawar",
+      "date": "2026-04-28",
+      "official": true
+    },
+    {
+      "title": "Operation Hours",
+      "url": "https://transpeshawar.pk/operation-hours/",
+      "publisher": "TransPeshawar",
+      "date": "2023-07-19",
+      "official": true
+    },
+    {
+      "title": "Peshawar ZU System",
+      "url": "https://transpeshawar.pk/services/peshawar-zu-system/",
+      "publisher": "TransPeshawar",
+      "date": "2023-07-19",
+      "official": true
+    },
+    {
+      "title": "TransPeshawar",
+      "url": "https://en.wikipedia.org/wiki/TransPeshawar",
+      "publisher": "Wikipedia",
+      "date": null,
+      "official": false
+    },
+    {
+      "title": "KP's mobility authority announces increase in Peshawar BRT card price",
+      "url": "https://english.aaj.tv/news/330394292/kps-mobility-authority-announces-increase-in-peshawar-brt-card-price",
+      "publisher": "Aaj News",
+      "date": "2024-12",
+      "official": false
+    },
+    {
+      "title": "Peshawar BRT fares increased by Rs5 per stop",
+      "url": "https://english.aaj.tv/news/330370404/peshawar-brt-fares-increased-by-rs5-per-stop",
+      "publisher": "Aaj News",
+      "date": "2024-07-19",
+      "official": false
+    },
+    {
+      "title": "BRT Peshawar to Start New Feeder Bus Routes",
+      "url": "https://propakistani.pk/2026/05/11/brt-peshawar-to-start-new-feeder-bus-routes/",
+      "publisher": "ProPakistani",
+      "date": "2026-05-11",
+      "official": false
+    },
+    {
+      "title": "52 New Buses for Peshawar BRT Ready for Shipment",
+      "url": "https://dgipr.kp.gov.pk/brt-7-1-26/",
+      "publisher": "DGIPR KP",
+      "date": "2026-07",
+      "official": true
+    }
+  ],
+  "routes": [
+    {
+      "id": "ER01",
+      "name": "Chamkani - Karkhano Market",
+      "name_ur": "",
+      "variant": "brt",
+      "color": "#085808",
+      "status": "operational",
+      "launched": null,
+      "length_km": 27,
+      "headway_min": null,
+      "hours": {
+        "start": "06:00",
+        "end": "20:30"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Chamkani",
+          "name_ur": "",
+          "lat": 34.020546,
+          "lon": 71.642695,
+          "coord_source": "osm:way/851309847",
+          "is_station": true
+        },
+        {
+          "name": "Sardar Garhi",
+          "name_ur": "",
+          "lat": 34.018944,
+          "lon": 71.639764,
+          "coord_source": "osm:way/851314993",
+          "is_station": true
+        },
+        {
+          "name": "Lahore Adda",
+          "name_ur": "",
+          "lat": 34.01598,
+          "lon": 71.600168,
+          "coord_source": "osm:way/906013641",
+          "is_station": true
+        },
+        {
+          "name": "Hashtnagri",
+          "name_ur": "ہشتنگری",
+          "lat": 34.015127,
+          "lon": 71.581355,
+          "coord_source": "osm:way/906013642",
+          "is_station": true
+        },
+        {
+          "name": "Malik Saad Shaheed",
+          "name_ur": "ملک سعد شہید",
+          "lat": 34.014632,
+          "lon": 71.574235,
+          "coord_source": "osm:way/906506548",
+          "is_station": true
+        },
+        {
+          "name": "Khyber Bazar",
+          "name_ur": "خیبر بازار",
+          "lat": 34.010225,
+          "lon": 71.566335,
+          "coord_source": "osm:way/906013643",
+          "is_station": true
+        },
+        {
+          "name": "Dabgari Gardens",
+          "name_ur": "ڈبگری گارڈنز",
+          "lat": 34.005331,
+          "lon": 71.557011,
+          "coord_source": "osm:way/906013661",
+          "is_station": true
+        },
+        {
+          "name": "Saddar Bazar",
+          "name_ur": "صدر بازار",
+          "lat": 33.995076,
+          "lon": 71.538336,
+          "coord_source": "osm:way/906013646",
+          "is_station": true
+        },
+        {
+          "name": "University of Peshawar",
+          "name_ur": "پشاور یونیورسٹی",
+          "lat": 33.997765,
+          "lon": 71.487261,
+          "coord_source": "osm:way/906506542",
+          "is_station": true
+        },
+        {
+          "name": "Mall of Hayatabad",
+          "name_ur": "مال آف حیات آباد",
+          "lat": 33.992025,
+          "lon": 71.461415,
+          "coord_source": "osm:way/906519876",
+          "is_station": true
+        },
+        {
+          "name": "Karkhano Market",
+          "name_ur": "",
+          "lat": 33.998628,
+          "lon": 71.424946,
+          "coord_source": "osm:way/906519844",
+          "is_station": true
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zu Peshawar Network map v46 (updated April 2025)",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2025/06/MAP_001-1-scaled.jpg"
+        },
+        {
+          "title": "BRT Peshawar Announces New Timings for Major Route",
+          "url": "https://bloompakistan.com/brt-peshawar-announces-new-timings-for-major-route/"
+        }
+      ],
+      "notes": "Colour sampled from the legend of the official Zu network map (approximate hex). Express stopping pattern on the corridor was read off the official network map (station circles on the route line) and should be verified. BRT Xpress Route 01 (ZU Xpress). Last departure extended from 20:00 to 20:30 from 13 July 2026. Corridor-express fare not explicit in 2026 fare sheet."
+    },
+    {
+      "id": "SR02",
+      "name": "Chamkani - Karkhano Market (all stops)",
+      "name_ur": "",
+      "variant": "brt",
+      "color": "#E88028",
+      "status": "operational",
+      "launched": "2020-08-13",
+      "length_km": 27,
+      "headway_min": 3,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "high",
+      "stops": [
+        {
+          "name": "Chamkani",
+          "name_ur": "",
+          "lat": 34.020546,
+          "lon": 71.642695,
+          "coord_source": "osm:way/851309847",
+          "is_station": true
+        },
+        {
+          "name": "Sardar Garhi",
+          "name_ur": "",
+          "lat": 34.018944,
+          "lon": 71.639764,
+          "coord_source": "osm:way/851314993",
+          "is_station": true
+        },
+        {
+          "name": "Chughal Pura",
+          "name_ur": "چغل پورہ اسٹیشن",
+          "lat": 34.017513,
+          "lon": 71.629259,
+          "coord_source": "osm:way/851318480",
+          "is_station": true
+        },
+        {
+          "name": "Faisal Colony",
+          "name_ur": "",
+          "lat": 34.016665,
+          "lon": 71.614585,
+          "coord_source": "osm:way/906013639",
+          "is_station": true
+        },
+        {
+          "name": "Old Haji Camp",
+          "name_ur": "",
+          "lat": 34.016318,
+          "lon": 71.607487,
+          "coord_source": "osm:way/906013640",
+          "is_station": true
+        },
+        {
+          "name": "Lahore Adda",
+          "name_ur": "",
+          "lat": 34.01598,
+          "lon": 71.600168,
+          "coord_source": "osm:way/906013641",
+          "is_station": true
+        },
+        {
+          "name": "Gulbahar Chowk",
+          "name_ur": "گلبہار چوک",
+          "lat": 34.015507,
+          "lon": 71.591611,
+          "coord_source": "osm:way/906506545",
+          "is_station": true
+        },
+        {
+          "name": "Hashtnagri",
+          "name_ur": "ہشتنگری",
+          "lat": 34.015127,
+          "lon": 71.581355,
+          "coord_source": "osm:way/906013642",
+          "is_station": true
+        },
+        {
+          "name": "Malik Saad Shaheed",
+          "name_ur": "ملک سعد شہید",
+          "lat": 34.014632,
+          "lon": 71.574235,
+          "coord_source": "osm:way/906506548",
+          "is_station": true
+        },
+        {
+          "name": "Khyber Bazar",
+          "name_ur": "خیبر بازار",
+          "lat": 34.010225,
+          "lon": 71.566335,
+          "coord_source": "osm:way/906013643",
+          "is_station": true
+        },
+        {
+          "name": "Shuba Bazar",
+          "name_ur": "شعبہ بازار",
+          "lat": 34.007946,
+          "lon": 71.56203,
+          "coord_source": "osm:way/906013665",
+          "is_station": true
+        },
+        {
+          "name": "Dabgari Gardens",
+          "name_ur": "ڈبگری گارڈنز",
+          "lat": 34.005331,
+          "lon": 71.557011,
+          "coord_source": "osm:way/906013661",
+          "is_station": true
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "ریلوے اسٹیشن",
+          "lat": 34.002604,
+          "lon": 71.549718,
+          "coord_source": "osm:way/906013644",
+          "is_station": true
+        },
+        {
+          "name": "FC Chowk",
+          "name_ur": "ایف سی چوک",
+          "lat": 33.999115,
+          "lon": 71.544515,
+          "coord_source": "osm:way/906013645",
+          "is_station": true
+        },
+        {
+          "name": "Saddar Bazar",
+          "name_ur": "صدر بازار",
+          "lat": 33.995076,
+          "lon": 71.538336,
+          "coord_source": "osm:way/906013646",
+          "is_station": true
+        },
+        {
+          "name": "Mall Road",
+          "name_ur": "مال روڈ",
+          "lat": 33.998292,
+          "lon": 71.533572,
+          "coord_source": "osm:way/906013647",
+          "is_station": true
+        },
+        {
+          "name": "Tehkal Payyan",
+          "name_ur": "تہکال پایان",
+          "lat": 34.008271,
+          "lon": 71.519351,
+          "coord_source": "osm:way/906391774",
+          "is_station": true
+        },
+        {
+          "name": "Tehkal Bala",
+          "name_ur": "تہکال بالا",
+          "lat": 34.006815,
+          "lon": 71.508891,
+          "coord_source": "osm:relation/13777629",
+          "is_station": true
+        },
+        {
+          "name": "Abdara Road",
+          "name_ur": "ابدرہ روڈ",
+          "lat": 34.003086,
+          "lon": 71.501737,
+          "coord_source": "osm:way/906506540",
+          "is_station": true
+        },
+        {
+          "name": "University Town",
+          "name_ur": "یونیورسٹی ٹاؤن",
+          "lat": 33.99946,
+          "lon": 71.494857,
+          "coord_source": "osm:way/906506541",
+          "is_station": true
+        },
+        {
+          "name": "University of Peshawar",
+          "name_ur": "پشاور یونیورسٹی",
+          "lat": 33.997765,
+          "lon": 71.487261,
+          "coord_source": "osm:way/906506542",
+          "is_station": true
+        },
+        {
+          "name": "Islamia College",
+          "name_ur": "اسلامیہ کالج",
+          "lat": 33.998327,
+          "lon": 71.478423,
+          "coord_source": "osm:way/906506543",
+          "is_station": true
+        },
+        {
+          "name": "Board Bazar",
+          "name_ur": "بورڈ بازار",
+          "lat": 33.998116,
+          "lon": 71.471369,
+          "coord_source": "osm:way/906506544",
+          "is_station": true
+        },
+        {
+          "name": "Mall of Hayatabad",
+          "name_ur": "مال آف حیات آباد",
+          "lat": 33.992025,
+          "lon": 71.461415,
+          "coord_source": "osm:way/906519876",
+          "is_station": true
+        },
+        {
+          "name": "Bab-e-Peshawar",
+          "name_ur": "بابِ پشاور",
+          "lat": 33.990232,
+          "lon": 71.454875,
+          "coord_source": "osm:way/906519873",
+          "is_station": true
+        },
+        {
+          "name": "Hayatabad Phase 3",
+          "name_ur": "حیات آباد فیز ۳",
+          "lat": 33.984808,
+          "lon": 71.449351,
+          "coord_source": "osm:way/906519870",
+          "is_station": true
+        },
+        {
+          "name": "Tatara Park",
+          "name_ur": "",
+          "lat": 33.986025,
+          "lon": 71.442991,
+          "coord_source": "osm:way/906519866",
+          "is_station": true
+        },
+        {
+          "name": "PDA",
+          "name_ur": "",
+          "lat": 33.989529,
+          "lon": 71.443226,
+          "coord_source": "osm:way/906519863",
+          "is_station": true
+        },
+        {
+          "name": "Hospital Chowk",
+          "name_ur": "",
+          "lat": 33.993493,
+          "lon": 71.443485,
+          "coord_source": "osm:way/906519858",
+          "is_station": true
+        },
+        {
+          "name": "Karkhano Market",
+          "name_ur": "",
+          "lat": 33.998628,
+          "lon": 71.424946,
+          "coord_source": "osm:way/906519844",
+          "is_station": true
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zu Peshawar Network map v46 (updated April 2025)",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2025/06/MAP_001-1-scaled.jpg"
+        },
+        {
+          "title": "TransPeshawar (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/TransPeshawar"
+        }
+      ],
+      "notes": "Colour sampled from the legend of the official Zu network map (approximate hex). BRT Stopping Route 02 serving all 30 corridor stations. Map numbers stations 1-31; number 17 (between Mall Road and Tehkal Payyan) is not built/shown, consistent with TransPeshawar's '30 on-corridor stations'. Coordinates from OSM station areas. Corridor opened 13 Aug 2020."
+    },
+    {
+      "id": "DR03A",
+      "name": "Dabgari Gardens - Kohat Adda",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": "#405058",
+      "status": "operational",
+      "launched": null,
+      "length_km": 5,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "high",
+      "stops": [
+        {
+          "name": "Dabgari Gardens",
+          "name_ur": "ڈبگری گارڈنز",
+          "lat": 34.005331,
+          "lon": 71.557011,
+          "coord_source": "osm:way/906013661",
+          "is_station": true
+        },
+        {
+          "name": "Shaheed Saqib Ghani School",
+          "name_ur": "",
+          "lat": 34.002425,
+          "lon": 71.556455,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Civil Quarters",
+          "name_ur": "",
+          "lat": 33.999518,
+          "lon": 71.555898,
+          "coord_source": "auto:osm:way/320946914",
+          "is_station": false
+        },
+        {
+          "name": "Bhana Marri",
+          "name_ur": "",
+          "lat": 34.002156,
+          "lon": 71.55641,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Civil Colony",
+          "name_ur": "",
+          "lat": 34.004793,
+          "lon": 71.556921,
+          "coord_source": "auto:osm:way/907260888",
+          "is_station": false
+        },
+        {
+          "name": "Technical College",
+          "name_ur": "",
+          "lat": 33.995095,
+          "lon": 71.553493,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Landi Arbab",
+          "name_ur": "",
+          "lat": 33.985396,
+          "lon": 71.550064,
+          "coord_source": "auto:osm:way/73514537",
+          "is_station": false
+        },
+        {
+          "name": "Garhi Qamar Din",
+          "name_ur": "",
+          "lat": 33.980753,
+          "lon": 71.55624,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Rehman Colony",
+          "name_ur": "",
+          "lat": 33.976109,
+          "lon": 71.562415,
+          "coord_source": "auto:osm:way/75504399",
+          "is_station": false
+        },
+        {
+          "name": "Kohat Adda",
+          "name_ur": "",
+          "lat": 33.969132,
+          "lon": 71.561479,
+          "coord_source": "osm:node/4854914621",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zu Peshawar Network map v46 (updated April 2025)",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2025/06/MAP_001-1-scaled.jpg"
+        }
+      ],
+      "notes": "Colour sampled from the legend of the official Zu network map (approximate hex). Direct Route 03A along Kohat Road."
+    },
+    {
+      "id": "DR03B",
+      "name": "Malik Saad Shaheed - Shah Alam Pul",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": "#E04890",
+      "status": "operational",
+      "launched": null,
+      "length_km": 9,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Malik Saad Shaheed",
+          "name_ur": "ملک سعد شہید",
+          "lat": 34.014632,
+          "lon": 71.574235,
+          "coord_source": "osm:way/906506548",
+          "is_station": true
+        },
+        {
+          "name": "Bacha Khan Chowk",
+          "name_ur": "",
+          "lat": 34.017236,
+          "lon": 71.574176,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shahi Bagh",
+          "name_ur": "",
+          "lat": 34.019841,
+          "lon": 71.574118,
+          "coord_source": "auto:osm:way/75206644",
+          "is_station": false
+        },
+        {
+          "name": "Eid Gah",
+          "name_ur": "",
+          "lat": 34.024838,
+          "lon": 71.575857,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Charsadda Adda",
+          "name_ur": "",
+          "lat": 34.029835,
+          "lon": 71.577596,
+          "coord_source": "osm:node/9491625911",
+          "is_station": false
+        },
+        {
+          "name": "Shaheed Tehseen Chowk",
+          "name_ur": "",
+          "lat": 34.033628,
+          "lon": 71.579099,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Budhni Pul",
+          "name_ur": "",
+          "lat": 34.03742,
+          "lon": 71.580602,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nishat Mill",
+          "name_ur": "",
+          "lat": 34.041213,
+          "lon": 71.582105,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Landey Sarrak",
+          "name_ur": "",
+          "lat": 34.045006,
+          "lon": 71.583608,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shero Jhangi",
+          "name_ur": "",
+          "lat": 34.048799,
+          "lon": 71.585111,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Habib Abad",
+          "name_ur": "",
+          "lat": 34.052591,
+          "lon": 71.586614,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ibrahim Abad",
+          "name_ur": "",
+          "lat": 34.056384,
+          "lon": 71.588117,
+          "coord_source": "auto:osm:way/75577996",
+          "is_station": false
+        },
+        {
+          "name": "Bakhshu Pul",
+          "name_ur": "",
+          "lat": 34.062633,
+          "lon": 71.58247,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Muslim Abad",
+          "name_ur": "",
+          "lat": 34.068882,
+          "lon": 71.576824,
+          "coord_source": "auto:osm:node/9417558940",
+          "is_station": false
+        },
+        {
+          "name": "Nasapa",
+          "name_ur": "",
+          "lat": 34.07321,
+          "lon": 71.577571,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nasapa Bala",
+          "name_ur": "",
+          "lat": 34.077538,
+          "lon": 71.578317,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sugar Mill",
+          "name_ur": "",
+          "lat": 34.081866,
+          "lon": 71.579063,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sewan",
+          "name_ur": "",
+          "lat": 34.086194,
+          "lon": 71.57981,
+          "coord_source": "auto:osm:node/9417558933",
+          "is_station": false
+        },
+        {
+          "name": "Faqir Abad",
+          "name_ur": "",
+          "lat": 34.08471,
+          "lon": 71.589821,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Khazana",
+          "name_ur": "",
+          "lat": 34.083226,
+          "lon": 71.599832,
+          "coord_source": "auto:osm:node/9417558934",
+          "is_station": false
+        },
+        {
+          "name": "Toda",
+          "name_ur": "",
+          "lat": 34.08321,
+          "lon": 71.608676,
+          "coord_source": "auto:osm:node/9417558936",
+          "is_station": false
+        },
+        {
+          "name": "Wahid Garhi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shah Alam Pul",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zu Peshawar Network map v46 (updated April 2025)",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2025/06/MAP_001-1-scaled.jpg"
+        }
+      ],
+      "notes": "Colour sampled from the legend of the official Zu network map (approximate hex). Direct Route 03B via Charsadda Road. Stops 110-114 shared with DR04B; map box ownership at 110-114 slightly ambiguous. Charsadda Adda coord is OSM bus station node, not a Zu stop."
+    },
+    {
+      "id": "DR04A",
+      "name": "Mall Road - Pishtakhara Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": "#0058F8",
+      "status": "operational",
+      "launched": null,
+      "length_km": 5,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "high",
+      "stops": [
+        {
+          "name": "Mall Road",
+          "name_ur": "مال روڈ",
+          "lat": 33.998292,
+          "lon": 71.533572,
+          "coord_source": "osm:way/906013647",
+          "is_station": true
+        },
+        {
+          "name": "Stadium Chowk",
+          "name_ur": "",
+          "lat": 33.99438,
+          "lon": 71.535159,
+          "coord_source": "auto:osm:way/225787275",
+          "is_station": false
+        },
+        {
+          "name": "Khyber Super Market",
+          "name_ur": "",
+          "lat": 33.990104,
+          "lon": 71.531314,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Swatu Pattak",
+          "name_ur": "",
+          "lat": 33.985827,
+          "lon": 71.527469,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bara Gate",
+          "name_ur": "",
+          "lat": 33.981551,
+          "lon": 71.523625,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rashakai",
+          "name_ur": "",
+          "lat": 33.977274,
+          "lon": 71.51978,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Custom Chowk",
+          "name_ur": "",
+          "lat": 33.972998,
+          "lon": 71.515935,
+          "coord_source": "auto:osm:node/4318912891",
+          "is_station": false
+        },
+        {
+          "name": "Pishtakhara Thana",
+          "name_ur": "",
+          "lat": 33.967042,
+          "lon": 71.510091,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pishtakhara Chowk",
+          "name_ur": "",
+          "lat": 33.961087,
+          "lon": 71.504247,
+          "coord_source": "osm:node/8538797383",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zu Peshawar Network map v46 (updated April 2025)",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2025/06/MAP_001-1-scaled.jpg"
+        }
+      ],
+      "notes": "Colour sampled from the legend of the official Zu network map (approximate hex). Direct Route 04A. No stop 119 shown on map."
+    },
+    {
+      "id": "DR04B",
+      "name": "Chamkani - Malik Saad Shaheed via Ring Road",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": "#C0B830",
+      "status": "operational",
+      "launched": null,
+      "length_km": 10,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Chamkani",
+          "name_ur": "",
+          "lat": 34.020546,
+          "lon": 71.642695,
+          "coord_source": "osm:way/851309847",
+          "is_station": true
+        },
+        {
+          "name": "Sardar Garhi",
+          "name_ur": "",
+          "lat": 34.018944,
+          "lon": 71.639764,
+          "coord_source": "osm:way/851314993",
+          "is_station": true
+        },
+        {
+          "name": "Chughal Pura",
+          "name_ur": "چغل پورہ اسٹیشن",
+          "lat": 34.017513,
+          "lon": 71.629259,
+          "coord_source": "osm:way/851318480",
+          "is_station": true
+        },
+        {
+          "name": "Government Primary School",
+          "name_ur": "",
+          "lat": 34.017296,
+          "lon": 71.625701,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pir Zakori Bridge",
+          "name_ur": "",
+          "lat": 34.017078,
+          "lon": 71.622143,
+          "coord_source": "auto:osm:way/1262382532",
+          "is_station": false
+        },
+        {
+          "name": "Motorway Bridge",
+          "name_ur": "",
+          "lat": 34.020284,
+          "lon": 71.61763,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kambo Adda",
+          "name_ur": "",
+          "lat": 34.02349,
+          "lon": 71.613117,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pahari Pura",
+          "name_ur": "",
+          "lat": 34.026696,
+          "lon": 71.608604,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kabotar Chowk",
+          "name_ur": "",
+          "lat": 34.029902,
+          "lon": 71.604091,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "MMC Hospital",
+          "name_ur": "",
+          "lat": 34.033108,
+          "lon": 71.599578,
+          "coord_source": "auto:nominatim:node/6385698386",
+          "is_station": false
+        },
+        {
+          "name": "Wazir Colony",
+          "name_ur": "",
+          "lat": 34.032366,
+          "lon": 71.593829,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Abasyn University",
+          "name_ur": "",
+          "lat": 34.031624,
+          "lon": 71.58808,
+          "coord_source": "auto:osm:node/10695828007",
+          "is_station": false
+        },
+        {
+          "name": "Patang Chowk",
+          "name_ur": "",
+          "lat": 34.031028,
+          "lon": 71.584585,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shaheed Tehseen Chowk",
+          "name_ur": "",
+          "lat": 34.030431,
+          "lon": 71.581091,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Charsadda Adda",
+          "name_ur": "",
+          "lat": 34.029835,
+          "lon": 71.577596,
+          "coord_source": "osm:node/9491625911",
+          "is_station": false
+        },
+        {
+          "name": "Eid Gah",
+          "name_ur": "",
+          "lat": 34.024838,
+          "lon": 71.575857,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shahi Bagh",
+          "name_ur": "",
+          "lat": 34.019841,
+          "lon": 71.574118,
+          "coord_source": "auto:osm:way/75206644",
+          "is_station": false
+        },
+        {
+          "name": "Bacha Khan Chowk",
+          "name_ur": "",
+          "lat": 34.017236,
+          "lon": 71.574176,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Malik Saad Shaheed",
+          "name_ur": "ملک سعد شہید",
+          "lat": 34.014632,
+          "lon": 71.574235,
+          "coord_source": "osm:way/906506548",
+          "is_station": true
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zu Peshawar Network map v46 (updated April 2025)",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2025/06/MAP_001-1-scaled.jpg"
+        },
+        {
+          "title": "BRT opens new Chamkani to Malik Saad route via Ring Road",
+          "url": "https://leadpakistan.com.pk/news/brt-opens-new-chamkani-to-malik-saad-route-via-ring-road/"
+        }
+      ],
+      "notes": "Colour sampled from the legend of the official Zu network map (approximate hex). Direct Route 04B via Ring Road (Pir Zakori Bridge, Motorway Bridge, Kabotar Chowk, Patang Chowk) and Charsadda Road. Label-to-box matching read from rotated map labels."
+    },
+    {
+      "id": "DR05",
+      "name": "Mall of Hayatabad - Phase 6 Terminal",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": "#788080",
+      "status": "operational",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "high",
+      "stops": [
+        {
+          "name": "Mall of Hayatabad",
+          "name_ur": "مال آف حیات آباد",
+          "lat": 33.992025,
+          "lon": 71.461415,
+          "coord_source": "osm:way/906519876",
+          "is_station": true
+        },
+        {
+          "name": "Bakht Khan Market",
+          "name_ur": "بخت خان مارکیٹ",
+          "lat": 33.987804,
+          "lon": 71.459903,
+          "coord_source": "osm:node/10111425892",
+          "is_station": false
+        },
+        {
+          "name": "Basharat Market",
+          "name_ur": "بشارت مارکیٹ",
+          "lat": 33.982588,
+          "lon": 71.457858,
+          "coord_source": "osm:node/13411078075",
+          "is_station": false
+        },
+        {
+          "name": "Yousafzai Market",
+          "name_ur": "یوسفزئی مارکیٹ",
+          "lat": 33.981691,
+          "lon": 71.457314,
+          "coord_source": "osm:node/13411078080",
+          "is_station": false
+        },
+        {
+          "name": "Ring Road Bridge",
+          "name_ur": "رِنگ روڈ پُل",
+          "lat": 33.9747,
+          "lon": 71.453642,
+          "coord_source": "osm:node/13411078085",
+          "is_station": false
+        },
+        {
+          "name": "Itwar Bazar (Ring Road)",
+          "name_ur": "اتوار بازار",
+          "lat": 33.967996,
+          "lon": 71.450565,
+          "coord_source": "osm:node/13411078086",
+          "is_station": false
+        },
+        {
+          "name": "Achini",
+          "name_ur": "اچینی",
+          "lat": 33.963237,
+          "lon": 71.448462,
+          "coord_source": "osm:node/13411078095",
+          "is_station": false
+        },
+        {
+          "name": "Shalman Park",
+          "name_ur": "شلمان پارک",
+          "lat": 33.958938,
+          "lon": 71.443151,
+          "coord_source": "osm:node/10111582228",
+          "is_station": false
+        },
+        {
+          "name": "Government College",
+          "name_ur": "گورمنٹ کالگ",
+          "lat": 33.95624,
+          "lon": 71.442713,
+          "coord_source": "osm:node/10111583489",
+          "is_station": false
+        },
+        {
+          "name": "CECOS University",
+          "name_ur": "سیکاز یونیورسٹی",
+          "lat": 33.956284,
+          "lon": 71.437759,
+          "coord_source": "osm:node/10111581643",
+          "is_station": false
+        },
+        {
+          "name": "Gol Chowk",
+          "name_ur": "گول چوک",
+          "lat": 33.956283,
+          "lon": 71.43344,
+          "coord_source": "osm:node/13411115112",
+          "is_station": false
+        },
+        {
+          "name": "Nawab Market",
+          "name_ur": "نواب مارکیٹ",
+          "lat": 33.952706,
+          "lon": 71.432727,
+          "coord_source": "osm:node/10111549421",
+          "is_station": false
+        },
+        {
+          "name": "Phase 6 Terminal",
+          "name_ur": "فیز ۶ ٹرمینل",
+          "lat": 33.949677,
+          "lon": 71.439001,
+          "coord_source": "osm:node/13411115113",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zu Peshawar Network map v46 (updated April 2025)",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2025/06/MAP_001-1-scaled.jpg"
+        },
+        {
+          "title": "OSM relation DR 05",
+          "url": "https://www.openstreetmap.org/relation/20012341"
+        }
+      ],
+      "notes": "Colour sampled from the legend of the official Zu network map (approximate hex). Direct Route 05. Sequence agrees with OSM route relation 20012341 (ref 'DR 05'). OSM node 13411078080 has name:en 'Bakht Khan Market' but Urdu name is Yousafzai Market (matches map position 155)."
+    },
+    {
+      "id": "DR06",
+      "name": "Mall of Hayatabad - Phase 7 Terminal",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": "#683098",
+      "status": "operational",
+      "launched": null,
+      "length_km": 8,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Mall of Hayatabad",
+          "name_ur": "مال آف حیات آباد",
+          "lat": 33.992025,
+          "lon": 71.461415,
+          "coord_source": "osm:way/906519876",
+          "is_station": true
+        },
+        {
+          "name": "Bab-e-Peshawar",
+          "name_ur": "بابِ پشاور",
+          "lat": 33.990232,
+          "lon": 71.454875,
+          "coord_source": "osm:way/906519873",
+          "is_station": true
+        },
+        {
+          "name": "Bagh-e-Naran",
+          "name_ur": "",
+          "lat": 33.976906,
+          "lon": 71.444431,
+          "coord_source": "auto:osm:way/106474426",
+          "is_station": false
+        },
+        {
+          "name": "Iqra University",
+          "name_ur": "",
+          "lat": 33.974033,
+          "lon": 71.443893,
+          "coord_source": "osm:node/9108040525",
+          "is_station": false
+        },
+        {
+          "name": "Itwar Bazar (Phase 1)",
+          "name_ur": "",
+          "lat": 33.971115,
+          "lon": 71.441933,
+          "coord_source": "osm:node/9108092517",
+          "is_station": false
+        },
+        {
+          "name": "Zarghuni Masjid",
+          "name_ur": "",
+          "lat": 33.971603,
+          "lon": 71.439781,
+          "coord_source": "osm:node/9108073113",
+          "is_station": false
+        },
+        {
+          "name": "Lalazar",
+          "name_ur": "",
+          "lat": 33.974213,
+          "lon": 71.434975,
+          "coord_source": "osm:node/9108093135",
+          "is_station": false
+        },
+        {
+          "name": "Malik Saad Market",
+          "name_ur": "",
+          "lat": 33.974575,
+          "lon": 71.428352,
+          "coord_source": "osm:node/9108100919",
+          "is_station": false
+        },
+        {
+          "name": "Rehman Baba Market",
+          "name_ur": "",
+          "lat": 33.971481,
+          "lon": 71.425056,
+          "coord_source": "osm:node/9566176744",
+          "is_station": false
+        },
+        {
+          "name": "Judicial Complex",
+          "name_ur": "",
+          "lat": 33.968414,
+          "lon": 71.41922,
+          "coord_source": "osm:node/9566170266",
+          "is_station": false
+        },
+        {
+          "name": "Madrassa",
+          "name_ur": "",
+          "lat": 33.965698,
+          "lon": 71.416184,
+          "coord_source": "osm:node/9566159906",
+          "is_station": false
+        },
+        {
+          "name": "Football Ground",
+          "name_ur": "",
+          "lat": 33.962414,
+          "lon": 71.416786,
+          "coord_source": "osm:node/9111458949",
+          "is_station": false
+        },
+        {
+          "name": "IMSciences",
+          "name_ur": "",
+          "lat": 33.959767,
+          "lon": 71.417043,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Phase 7 Terminal",
+          "name_ur": "",
+          "lat": 33.957119,
+          "lon": 71.4173,
+          "coord_source": "osm:node/4191664989",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zu Peshawar Network map v46 (updated April 2025)",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2025/06/MAP_001-1-scaled.jpg"
+        }
+      ],
+      "notes": "Colour sampled from the legend of the official Zu network map (approximate hex). Direct Route 06. Madrassa, Football Ground and IMSciences are labelled beside the line without numbered boxes on the map (numbers 170/169A from OSM stop names); inclusion and order uncertain. Phase 7 Terminal coord is OSM 'Phase 7 Bus Station' (not Zu-tagged). OSM tags Rehman Baba Market as stop 174 but map position suggests 173."
+    },
+    {
+      "id": "DR07",
+      "name": "Karkhano Market - Phase 7 Terminal",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": "#F02028",
+      "status": "operational",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Karkhano Market",
+          "name_ur": "",
+          "lat": 33.998628,
+          "lon": 71.424946,
+          "coord_source": "osm:way/906519844",
+          "is_station": true
+        },
+        {
+          "name": "Karkhano Chowk",
+          "name_ur": "",
+          "lat": 33.995933,
+          "lon": 71.42305,
+          "coord_source": "osm:node/9108143378",
+          "is_station": false
+        },
+        {
+          "name": "TEVTA",
+          "name_ur": "",
+          "lat": 33.993362,
+          "lon": 71.423943,
+          "coord_source": "osm:node/9108141740",
+          "is_station": false
+        },
+        {
+          "name": "Fort",
+          "name_ur": "",
+          "lat": 33.98893,
+          "lon": 71.425377,
+          "coord_source": "osm:node/9108104410",
+          "is_station": false
+        },
+        {
+          "name": "Industrial Estate",
+          "name_ur": "",
+          "lat": 33.985413,
+          "lon": 71.427223,
+          "coord_source": "osm:node/9108162681",
+          "is_station": false
+        },
+        {
+          "name": "Fast University",
+          "name_ur": "",
+          "lat": 33.980259,
+          "lon": 71.430099,
+          "coord_source": "osm:node/9108114944",
+          "is_station": false
+        },
+        {
+          "name": "Shamali Market",
+          "name_ur": "",
+          "lat": 33.975684,
+          "lon": 71.431155,
+          "coord_source": "osm:node/9104600332",
+          "is_station": false
+        },
+        {
+          "name": "Lalazar",
+          "name_ur": "",
+          "lat": 33.974213,
+          "lon": 71.434975,
+          "coord_source": "osm:node/9108093135",
+          "is_station": false
+        },
+        {
+          "name": "Zarghuni Masjid",
+          "name_ur": "",
+          "lat": 33.971603,
+          "lon": 71.439781,
+          "coord_source": "osm:node/9108073113",
+          "is_station": false
+        },
+        {
+          "name": "Deans Heights",
+          "name_ur": "",
+          "lat": 33.969665,
+          "lon": 71.436508,
+          "coord_source": "osm:node/10111511124",
+          "is_station": false
+        },
+        {
+          "name": "Phase 7 Chowk",
+          "name_ur": "",
+          "lat": 33.964645,
+          "lon": 71.432427,
+          "coord_source": "osm:node/9111473844",
+          "is_station": false
+        },
+        {
+          "name": "Gol Chowk",
+          "name_ur": "گول چوک",
+          "lat": 33.956283,
+          "lon": 71.43344,
+          "coord_source": "osm:node/13411115112",
+          "is_station": false
+        },
+        {
+          "name": "Bangash Market",
+          "name_ur": "",
+          "lat": 33.956371,
+          "lon": 71.425697,
+          "coord_source": "osm:node/10111595712",
+          "is_station": false
+        },
+        {
+          "name": "Sector F10",
+          "name_ur": "",
+          "lat": 33.954268,
+          "lon": 71.421634,
+          "coord_source": "auto:osm:way/1315499451",
+          "is_station": false
+        },
+        {
+          "name": "Phase 7 Terminal",
+          "name_ur": "",
+          "lat": 33.957119,
+          "lon": 71.4173,
+          "coord_source": "osm:node/4191664989",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zu Peshawar Network map v46 (updated April 2025)",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2025/06/MAP_001-1-scaled.jpg"
+        }
+      ],
+      "notes": "Colour sampled from the legend of the official Zu network map (approximate hex). Direct Route 07. Name of stop 158A ('Sector F10') inferred from adjacent map label; verify."
+    },
+    {
+      "id": "SR08",
+      "name": "Gulbahar Chowk - Mall of Hayatabad (all stops)",
+      "name_ur": "",
+      "variant": "brt",
+      "color": "#803A1C",
+      "status": "operational",
+      "launched": null,
+      "length_km": 15,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "high",
+      "stops": [
+        {
+          "name": "Gulbahar Chowk",
+          "name_ur": "گلبہار چوک",
+          "lat": 34.015507,
+          "lon": 71.591611,
+          "coord_source": "osm:way/906506545",
+          "is_station": true
+        },
+        {
+          "name": "Hashtnagri",
+          "name_ur": "ہشتنگری",
+          "lat": 34.015127,
+          "lon": 71.581355,
+          "coord_source": "osm:way/906013642",
+          "is_station": true
+        },
+        {
+          "name": "Malik Saad Shaheed",
+          "name_ur": "ملک سعد شہید",
+          "lat": 34.014632,
+          "lon": 71.574235,
+          "coord_source": "osm:way/906506548",
+          "is_station": true
+        },
+        {
+          "name": "Khyber Bazar",
+          "name_ur": "خیبر بازار",
+          "lat": 34.010225,
+          "lon": 71.566335,
+          "coord_source": "osm:way/906013643",
+          "is_station": true
+        },
+        {
+          "name": "Shuba Bazar",
+          "name_ur": "شعبہ بازار",
+          "lat": 34.007946,
+          "lon": 71.56203,
+          "coord_source": "osm:way/906013665",
+          "is_station": true
+        },
+        {
+          "name": "Dabgari Gardens",
+          "name_ur": "ڈبگری گارڈنز",
+          "lat": 34.005331,
+          "lon": 71.557011,
+          "coord_source": "osm:way/906013661",
+          "is_station": true
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "ریلوے اسٹیشن",
+          "lat": 34.002604,
+          "lon": 71.549718,
+          "coord_source": "osm:way/906013644",
+          "is_station": true
+        },
+        {
+          "name": "FC Chowk",
+          "name_ur": "ایف سی چوک",
+          "lat": 33.999115,
+          "lon": 71.544515,
+          "coord_source": "osm:way/906013645",
+          "is_station": true
+        },
+        {
+          "name": "Saddar Bazar",
+          "name_ur": "صدر بازار",
+          "lat": 33.995076,
+          "lon": 71.538336,
+          "coord_source": "osm:way/906013646",
+          "is_station": true
+        },
+        {
+          "name": "Mall Road",
+          "name_ur": "مال روڈ",
+          "lat": 33.998292,
+          "lon": 71.533572,
+          "coord_source": "osm:way/906013647",
+          "is_station": true
+        },
+        {
+          "name": "Tehkal Payyan",
+          "name_ur": "تہکال پایان",
+          "lat": 34.008271,
+          "lon": 71.519351,
+          "coord_source": "osm:way/906391774",
+          "is_station": true
+        },
+        {
+          "name": "Tehkal Bala",
+          "name_ur": "تہکال بالا",
+          "lat": 34.006815,
+          "lon": 71.508891,
+          "coord_source": "osm:relation/13777629",
+          "is_station": true
+        },
+        {
+          "name": "Abdara Road",
+          "name_ur": "ابدرہ روڈ",
+          "lat": 34.003086,
+          "lon": 71.501737,
+          "coord_source": "osm:way/906506540",
+          "is_station": true
+        },
+        {
+          "name": "University Town",
+          "name_ur": "یونیورسٹی ٹاؤن",
+          "lat": 33.99946,
+          "lon": 71.494857,
+          "coord_source": "osm:way/906506541",
+          "is_station": true
+        },
+        {
+          "name": "University of Peshawar",
+          "name_ur": "پشاور یونیورسٹی",
+          "lat": 33.997765,
+          "lon": 71.487261,
+          "coord_source": "osm:way/906506542",
+          "is_station": true
+        },
+        {
+          "name": "Islamia College",
+          "name_ur": "اسلامیہ کالج",
+          "lat": 33.998327,
+          "lon": 71.478423,
+          "coord_source": "osm:way/906506543",
+          "is_station": true
+        },
+        {
+          "name": "Board Bazar",
+          "name_ur": "بورڈ بازار",
+          "lat": 33.998116,
+          "lon": 71.471369,
+          "coord_source": "osm:way/906506544",
+          "is_station": true
+        },
+        {
+          "name": "Mall of Hayatabad",
+          "name_ur": "مال آف حیات آباد",
+          "lat": 33.992025,
+          "lon": 71.461415,
+          "coord_source": "osm:way/906519876",
+          "is_station": true
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zu Peshawar Network map v46 (updated April 2025)",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2025/06/MAP_001-1-scaled.jpg"
+        },
+        {
+          "title": "OSM relation SR 08",
+          "url": "https://www.openstreetmap.org/relation/20012008"
+        }
+      ],
+      "notes": "BRT Stopping Route 08; colour from OSM relation 20012008 (colour=#803a1c). Stops at all corridor stations between Gulbahar Chowk and Mall of Hayatabad."
+    },
+    {
+      "id": "ER09",
+      "name": "Gulbahar Chowk - Phase 6 Terminal",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": "#88C068",
+      "status": "operational",
+      "launched": null,
+      "length_km": 22,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 55,
+        "slabs": [],
+        "concessions": "Flat fare for express buses running on feeder routes",
+        "as_of": "2026-04",
+        "source_url": "https://transpeshawar.pk/wp-content/uploads/2026/04/TP-New-Fares.jpeg"
+      },
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Gulbahar Chowk",
+          "name_ur": "گلبہار چوک",
+          "lat": 34.015507,
+          "lon": 71.591611,
+          "coord_source": "osm:way/906506545",
+          "is_station": true
+        },
+        {
+          "name": "Malik Saad Shaheed",
+          "name_ur": "ملک سعد شہید",
+          "lat": 34.014632,
+          "lon": 71.574235,
+          "coord_source": "osm:way/906506548",
+          "is_station": true
+        },
+        {
+          "name": "Khyber Bazar",
+          "name_ur": "خیبر بازار",
+          "lat": 34.010225,
+          "lon": 71.566335,
+          "coord_source": "osm:way/906013643",
+          "is_station": true
+        },
+        {
+          "name": "Dabgari Gardens",
+          "name_ur": "ڈبگری گارڈنز",
+          "lat": 34.005331,
+          "lon": 71.557011,
+          "coord_source": "osm:way/906013661",
+          "is_station": true
+        },
+        {
+          "name": "Saddar Bazar",
+          "name_ur": "صدر بازار",
+          "lat": 33.995076,
+          "lon": 71.538336,
+          "coord_source": "osm:way/906013646",
+          "is_station": true
+        },
+        {
+          "name": "Abdara Road",
+          "name_ur": "ابدرہ روڈ",
+          "lat": 34.003086,
+          "lon": 71.501737,
+          "coord_source": "osm:way/906506540",
+          "is_station": true
+        },
+        {
+          "name": "University of Peshawar",
+          "name_ur": "پشاور یونیورسٹی",
+          "lat": 33.997765,
+          "lon": 71.487261,
+          "coord_source": "osm:way/906506542",
+          "is_station": true
+        },
+        {
+          "name": "Board Bazar",
+          "name_ur": "بورڈ بازار",
+          "lat": 33.998116,
+          "lon": 71.471369,
+          "coord_source": "osm:way/906506544",
+          "is_station": true
+        },
+        {
+          "name": "Zarghuni Masjid",
+          "name_ur": "",
+          "lat": 33.971603,
+          "lon": 71.439781,
+          "coord_source": "osm:node/9108073113",
+          "is_station": false
+        },
+        {
+          "name": "Gol Chowk",
+          "name_ur": "گول چوک",
+          "lat": 33.956283,
+          "lon": 71.43344,
+          "coord_source": "osm:node/13411115112",
+          "is_station": false
+        },
+        {
+          "name": "Phase 6 Terminal",
+          "name_ur": "فیز ۶ ٹرمینل",
+          "lat": 33.949677,
+          "lon": 71.439001,
+          "coord_source": "osm:node/13411115113",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zu Peshawar Network map v46 (updated April 2025)",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2025/06/MAP_001-1-scaled.jpg"
+        }
+      ],
+      "notes": "Colour sampled from the legend of the official Zu network map (approximate hex). Express stopping pattern on the corridor was read off the official network map (station circles on the route line) and should be verified. Express Route 09 leaves corridor at Board Bazar and runs via Ring Road/Hayatabad; off-corridor stops (Zarghuni Masjid, Gol Chowk) inferred from map line passing numbered boxes; may also stop at Nawab Market."
+    },
+    {
+      "id": "ER10",
+      "name": "Hospital Chowk - Kohat Adda",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": "#089848",
+      "status": "operational",
+      "launched": null,
+      "length_km": 19,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 55,
+        "slabs": [],
+        "concessions": "Flat fare for express buses running on feeder routes",
+        "as_of": "2026-04",
+        "source_url": "https://transpeshawar.pk/wp-content/uploads/2026/04/TP-New-Fares.jpeg"
+      },
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Hospital Chowk",
+          "name_ur": "",
+          "lat": 33.993493,
+          "lon": 71.443485,
+          "coord_source": "osm:way/906519858",
+          "is_station": true
+        },
+        {
+          "name": "Hayatabad Phase 3",
+          "name_ur": "حیات آباد فیز ۳",
+          "lat": 33.984808,
+          "lon": 71.449351,
+          "coord_source": "osm:way/906519870",
+          "is_station": true
+        },
+        {
+          "name": "Mall of Hayatabad",
+          "name_ur": "مال آف حیات آباد",
+          "lat": 33.992025,
+          "lon": 71.461415,
+          "coord_source": "osm:way/906519876",
+          "is_station": true
+        },
+        {
+          "name": "University of Peshawar",
+          "name_ur": "پشاور یونیورسٹی",
+          "lat": 33.997765,
+          "lon": 71.487261,
+          "coord_source": "osm:way/906506542",
+          "is_station": true
+        },
+        {
+          "name": "Tehkal Payyan",
+          "name_ur": "تہکال پایان",
+          "lat": 34.008271,
+          "lon": 71.519351,
+          "coord_source": "osm:way/906391774",
+          "is_station": true
+        },
+        {
+          "name": "Saddar Bazar",
+          "name_ur": "صدر بازار",
+          "lat": 33.995076,
+          "lon": 71.538336,
+          "coord_source": "osm:way/906013646",
+          "is_station": true
+        },
+        {
+          "name": "Bhana Marri",
+          "name_ur": "",
+          "lat": 33.98859,
+          "lon": 71.544122,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Technical College",
+          "name_ur": "",
+          "lat": 33.982104,
+          "lon": 71.549908,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Garhi Qamar Din",
+          "name_ur": "",
+          "lat": 33.975618,
+          "lon": 71.555693,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kohat Adda",
+          "name_ur": "",
+          "lat": 33.969132,
+          "lon": 71.561479,
+          "coord_source": "osm:node/4854914621",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zu Peshawar Network map v46 (updated April 2025)",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2025/06/MAP_001-1-scaled.jpg"
+        }
+      ],
+      "notes": "Colour sampled from the legend of the official Zu network map (approximate hex). Express stopping pattern on the corridor was read off the official network map (station circles on the route line) and should be verified. Express Route 10 continues from Saddar onto Kohat Road; appears to stop only at alternate Kohat Road stops (131,129,127,125)."
+    },
+    {
+      "id": "DR11",
+      "name": "Phase 6 Terminal - Mall of Hayatabad",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": "#B868A8",
+      "status": "operational",
+      "launched": null,
+      "length_km": 9,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Phase 6 Terminal",
+          "name_ur": "فیز ۶ ٹرمینل",
+          "lat": 33.949677,
+          "lon": 71.439001,
+          "coord_source": "osm:node/13411115113",
+          "is_station": false
+        },
+        {
+          "name": "Sher Shah Market",
+          "name_ur": "",
+          "lat": 33.952959,
+          "lon": 71.440857,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Government College",
+          "name_ur": "گورمنٹ کالگ",
+          "lat": 33.95624,
+          "lon": 71.442713,
+          "coord_source": "osm:node/10111583489",
+          "is_station": false
+        },
+        {
+          "name": "Shalman Park Phase 2",
+          "name_ur": "",
+          "lat": 33.961198,
+          "lon": 71.442453,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Turangzai Market",
+          "name_ur": "",
+          "lat": 33.966157,
+          "lon": 71.442193,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Itwar Bazar (Phase 2)",
+          "name_ur": "",
+          "lat": 33.971115,
+          "lon": 71.441933,
+          "coord_source": "auto:same-name:osm:node/9108092517",
+          "is_station": false
+        },
+        {
+          "name": "Zarghuni Masjid",
+          "name_ur": "",
+          "lat": 33.971603,
+          "lon": 71.439781,
+          "coord_source": "osm:node/9108073113",
+          "is_station": false
+        },
+        {
+          "name": "Lalazar",
+          "name_ur": "",
+          "lat": 33.974213,
+          "lon": 71.434975,
+          "coord_source": "osm:node/9108093135",
+          "is_station": false
+        },
+        {
+          "name": "Phase 1",
+          "name_ur": "",
+          "lat": 33.97657,
+          "lon": 71.432571,
+          "coord_source": "osm:node/11052346306",
+          "is_station": false
+        },
+        {
+          "name": "Shama Market",
+          "name_ur": "",
+          "lat": 33.980728,
+          "lon": 71.432907,
+          "coord_source": "osm:node/11052291695",
+          "is_station": false
+        },
+        {
+          "name": "Khyber Park",
+          "name_ur": "",
+          "lat": 33.982185,
+          "lon": 71.437111,
+          "coord_source": "osm:node/11052336428",
+          "is_station": false
+        },
+        {
+          "name": "Hayatabad Police Station",
+          "name_ur": "",
+          "lat": 33.982463,
+          "lon": 71.443178,
+          "coord_source": "auto:osm:node/1224854852",
+          "is_station": false
+        },
+        {
+          "name": "Qurtaba University",
+          "name_ur": "",
+          "lat": 33.983636,
+          "lon": 71.446264,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hayatabad Phase 3",
+          "name_ur": "حیات آباد فیز ۳",
+          "lat": 33.984808,
+          "lon": 71.449351,
+          "coord_source": "osm:way/906519870",
+          "is_station": true
+        },
+        {
+          "name": "Bab-e-Peshawar",
+          "name_ur": "بابِ پشاور",
+          "lat": 33.990232,
+          "lon": 71.454875,
+          "coord_source": "osm:way/906519873",
+          "is_station": true
+        },
+        {
+          "name": "Mall of Hayatabad",
+          "name_ur": "مال آف حیات آباد",
+          "lat": 33.992025,
+          "lon": 71.461415,
+          "coord_source": "osm:way/906519876",
+          "is_station": true
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zu Peshawar Network map v46 (updated April 2025)",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2025/06/MAP_001-1-scaled.jpg"
+        }
+      ],
+      "notes": "Colour sampled from the legend of the official Zu network map (approximate hex). Direct Route 11. OSM stops Lalazar, Phase 1 and Khyber Park carry route_ref DR 11."
+    },
+    {
+      "id": "ER12",
+      "name": "Mall of Hayatabad - Shah Alam Pul",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": "#70C0A8",
+      "status": "operational",
+      "launched": null,
+      "length_km": 23,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 55,
+        "slabs": [],
+        "concessions": "Flat fare for express buses running on feeder routes",
+        "as_of": "2026-04",
+        "source_url": "https://transpeshawar.pk/wp-content/uploads/2026/04/TP-New-Fares.jpeg"
+      },
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Mall of Hayatabad",
+          "name_ur": "مال آف حیات آباد",
+          "lat": 33.992025,
+          "lon": 71.461415,
+          "coord_source": "osm:way/906519876",
+          "is_station": true
+        },
+        {
+          "name": "University of Peshawar",
+          "name_ur": "پشاور یونیورسٹی",
+          "lat": 33.997765,
+          "lon": 71.487261,
+          "coord_source": "osm:way/906506542",
+          "is_station": true
+        },
+        {
+          "name": "Saddar Bazar",
+          "name_ur": "صدر بازار",
+          "lat": 33.995076,
+          "lon": 71.538336,
+          "coord_source": "osm:way/906013646",
+          "is_station": true
+        },
+        {
+          "name": "Landey Sarrak",
+          "name_ur": "",
+          "lat": 34.025449,
+          "lon": 71.552161,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bakhshu Pul",
+          "name_ur": "",
+          "lat": 34.055821,
+          "lon": 71.565985,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sewan",
+          "name_ur": "",
+          "lat": 34.086194,
+          "lon": 71.57981,
+          "coord_source": "auto:osm:node/9417558933",
+          "is_station": false
+        },
+        {
+          "name": "Shah Alam Pul",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zu Peshawar Network map v46 (updated April 2025)",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2025/06/MAP_001-1-scaled.jpg"
+        }
+      ],
+      "notes": "Colour sampled from the legend of the official Zu network map (approximate hex). Express stopping pattern on the corridor was read off the official network map (station circles on the route line) and should be verified. Express Route 12 runs the corridor then Charsadda Road parallel to DR03B, stopping at teal-marked stops 136/139/142/145; whether it stops at Malik Saad Shaheed (9) or 110-114 is unclear on the map."
+    },
+    {
+      "id": "DR13",
+      "name": "Sardar Garhi - Pabbi",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": "#C88080",
+      "status": "operational",
+      "launched": null,
+      "length_km": 14,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "high",
+      "stops": [
+        {
+          "name": "Sardar Garhi",
+          "name_ur": "",
+          "lat": 34.018944,
+          "lon": 71.639764,
+          "coord_source": "osm:way/851314993",
+          "is_station": true
+        },
+        {
+          "name": "Chamkani Morr",
+          "name_ur": "",
+          "lat": 34.020546,
+          "lon": 71.642695,
+          "coord_source": "auto:same-name:osm:way/851309847",
+          "is_station": false
+        },
+        {
+          "name": "Shahad Market",
+          "name_ur": "",
+          "lat": 34.01525,
+          "lon": 71.658387,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jhagra",
+          "name_ur": "",
+          "lat": 34.009953,
+          "lon": 71.674078,
+          "coord_source": "auto:osm:node/8909408231",
+          "is_station": false
+        },
+        {
+          "name": "Kala Mandi",
+          "name_ur": "",
+          "lat": 34.020319,
+          "lon": 71.687951,
+          "coord_source": "auto:osm:node/8909408233",
+          "is_station": false
+        },
+        {
+          "name": "Tarnab Farm",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Taru Jaba",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Wapda Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Govt. Girls Degree College",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pabbi Railway Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kajor Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pabbi Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pabbi Terminal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zu Peshawar Network map v46 (updated April 2025)",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2025/06/MAP_001-1-scaled.jpg"
+        }
+      ],
+      "notes": "Colour sampled from the legend of the official Zu network map (approximate hex). Direct Route 13 along GT Road to Pabbi Terminal."
+    },
+    {
+      "id": "DR14",
+      "name": "Board Bazar - Regi Model Town",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": "#00A8C8",
+      "status": "operational",
+      "launched": "2024-06",
+      "length_km": 20,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Board Bazar",
+          "name_ur": "بورڈ بازار",
+          "lat": 33.998116,
+          "lon": 71.471369,
+          "coord_source": "osm:way/906506544",
+          "is_station": true
+        },
+        {
+          "name": "PTCL Office",
+          "name_ur": "",
+          "lat": 34.001268,
+          "lon": 71.468388,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Canal Bank Colony",
+          "name_ur": "",
+          "lat": 34.004419,
+          "lon": 71.465407,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Naseer Teaching Hospital",
+          "name_ur": "",
+          "lat": 34.007571,
+          "lon": 71.462426,
+          "coord_source": "auto:osm:way/319975204",
+          "is_station": false
+        },
+        {
+          "name": "PSO Stop",
+          "name_ur": "",
+          "lat": 34.010641,
+          "lon": 71.460646,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Police Colony",
+          "name_ur": "",
+          "lat": 34.013711,
+          "lon": 71.458867,
+          "coord_source": "auto:nominatim:node/4578830889",
+          "is_station": false
+        },
+        {
+          "name": "Askari 6 Phase 2",
+          "name_ur": "",
+          "lat": 34.023715,
+          "lon": 71.454319,
+          "coord_source": "auto:nominatim:way/727710973",
+          "is_station": false
+        },
+        {
+          "name": "Askari 6 Phase 1",
+          "name_ur": "",
+          "lat": 34.024897,
+          "lon": 71.446547,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mian Khan Garhi",
+          "name_ur": "",
+          "lat": 34.026078,
+          "lon": 71.438776,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Badezai",
+          "name_ur": "",
+          "lat": 34.02726,
+          "lon": 71.431005,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Regi Model Town",
+          "name_ur": "",
+          "lat": 34.028442,
+          "lon": 71.423233,
+          "coord_source": "auto:nominatim:way/1262376830",
+          "is_station": false
+        },
+        {
+          "name": "Masjid Abu Huraira",
+          "name_ur": "",
+          "lat": 34.01734,
+          "lon": 71.434367,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Zone 3 Ground",
+          "name_ur": "",
+          "lat": 34.006238,
+          "lon": 71.445501,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Govt. Girls Primary School",
+          "name_ur": "",
+          "lat": 33.995135,
+          "lon": 71.456636,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bangash Park",
+          "name_ur": "",
+          "lat": 33.984033,
+          "lon": 71.46777,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Masjid e Hamza",
+          "name_ur": "",
+          "lat": 33.972931,
+          "lon": 71.478904,
+          "coord_source": "auto:osm:node/4718284189",
+          "is_station": false
+        },
+        {
+          "name": "PDA Office",
+          "name_ur": "",
+          "lat": 33.965237,
+          "lon": 71.487167,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Masjid Umar Farooq",
+          "name_ur": "",
+          "lat": 33.957542,
+          "lon": 71.495429,
+          "coord_source": "auto:osm:node/4355314893",
+          "is_station": false
+        },
+        {
+          "name": "Masjid Khalid bin Waleed",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Masjid Abu Bakr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zu Peshawar Network map v46 (updated April 2025)",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2025/06/MAP_001-1-scaled.jpg"
+        },
+        {
+          "title": "KP CM inaugurates new feeder route DR-14 of BRT service",
+          "url": "https://www.app.com.pk/domestic/kp-cm-inaugurates-new-feeder-route-dr-14-of-brt-service/"
+        }
+      ],
+      "notes": "Colour sampled from the legend of the official Zu network map (approximate hex). Direct Route 14 via Nasir Bagh Road; stops 211-219 form a loop in Regi Model Town, listed in one plausible loop direction. No stop 201 on map. Inaugurated June 2024 (APP)."
+    },
+    {
+      "id": "DR14A",
+      "name": "Board Bazar - Professor Model Town",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": "#304080",
+      "status": "operational",
+      "launched": null,
+      "length_km": 20,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Board Bazar",
+          "name_ur": "بورڈ بازار",
+          "lat": 33.998116,
+          "lon": 71.471369,
+          "coord_source": "osm:way/906506544",
+          "is_station": true
+        },
+        {
+          "name": "PTCL Office",
+          "name_ur": "",
+          "lat": 34.001268,
+          "lon": 71.468388,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Canal Bank Colony",
+          "name_ur": "",
+          "lat": 34.004419,
+          "lon": 71.465407,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Naseer Teaching Hospital",
+          "name_ur": "",
+          "lat": 34.007571,
+          "lon": 71.462426,
+          "coord_source": "auto:osm:way/319975204",
+          "is_station": false
+        },
+        {
+          "name": "PSO Stop",
+          "name_ur": "",
+          "lat": 34.010641,
+          "lon": 71.460646,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Police Colony",
+          "name_ur": "",
+          "lat": 34.013711,
+          "lon": 71.458867,
+          "coord_source": "auto:nominatim:node/4578830889",
+          "is_station": false
+        },
+        {
+          "name": "Askari 6 Phase 2",
+          "name_ur": "",
+          "lat": 34.023715,
+          "lon": 71.454319,
+          "coord_source": "auto:nominatim:way/727710973",
+          "is_station": false
+        },
+        {
+          "name": "Askari 6 Phase 1",
+          "name_ur": "",
+          "lat": 34.024596,
+          "lon": 71.445548,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mian Khan Garhi",
+          "name_ur": "",
+          "lat": 34.025476,
+          "lon": 71.436776,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Badezai",
+          "name_ur": "",
+          "lat": 34.026357,
+          "lon": 71.428005,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Regi Model Town",
+          "name_ur": "",
+          "lat": 34.027238,
+          "lon": 71.419233,
+          "coord_source": "auto:osm:way/1262376830",
+          "is_station": false
+        },
+        {
+          "name": "DHA",
+          "name_ur": "",
+          "lat": 34.055357,
+          "lon": 71.43093,
+          "coord_source": "auto:nominatim:node/10143274117",
+          "is_station": false
+        },
+        {
+          "name": "Professor Model Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zu Peshawar Network map v46 (updated April 2025)",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2025/06/MAP_001-1-scaled.jpg"
+        }
+      ],
+      "notes": "Colour sampled from the legend of the official Zu network map (approximate hex). Direct Route 14A shares DR14 stops to Regi Model Town, then DHA and Professor Model Town; whether it serves every shared stop is not explicit on the map."
+    },
+    {
+      "id": "XER15",
+      "name": "Chamkani - Mall of Hayatabad (Super Express)",
+      "name_ur": "",
+      "variant": "brt",
+      "color": "#A0C040",
+      "status": "operational",
+      "launched": null,
+      "length_km": 20,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Chamkani",
+          "name_ur": "",
+          "lat": 34.020546,
+          "lon": 71.642695,
+          "coord_source": "osm:way/851309847",
+          "is_station": true
+        },
+        {
+          "name": "Sardar Garhi",
+          "name_ur": "",
+          "lat": 34.018944,
+          "lon": 71.639764,
+          "coord_source": "osm:way/851314993",
+          "is_station": true
+        },
+        {
+          "name": "Malik Saad Shaheed",
+          "name_ur": "ملک سعد شہید",
+          "lat": 34.014632,
+          "lon": 71.574235,
+          "coord_source": "osm:way/906506548",
+          "is_station": true
+        },
+        {
+          "name": "Saddar Bazar",
+          "name_ur": "صدر بازار",
+          "lat": 33.995076,
+          "lon": 71.538336,
+          "coord_source": "osm:way/906013646",
+          "is_station": true
+        },
+        {
+          "name": "University of Peshawar",
+          "name_ur": "پشاور یونیورسٹی",
+          "lat": 33.997765,
+          "lon": 71.487261,
+          "coord_source": "osm:way/906506542",
+          "is_station": true
+        },
+        {
+          "name": "Mall of Hayatabad",
+          "name_ur": "مال آف حیات آباد",
+          "lat": 33.992025,
+          "lon": 71.461415,
+          "coord_source": "osm:way/906519876",
+          "is_station": true
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zu Peshawar Network map v46 (updated April 2025)",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2025/06/MAP_001-1-scaled.jpg"
+        }
+      ],
+      "notes": "Colour sampled from the legend of the official Zu network map (approximate hex). Express stopping pattern on the corridor was read off the official network map (station circles on the route line) and should be verified. Super Express Route 15; stop at Malik Saad Shaheed (9) uncertain."
+    },
+    {
+      "id": "ER16",
+      "name": "Gulbahar Chowk - Nawab Market",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": "#50A0A0",
+      "status": "operational",
+      "launched": "2023-12-18",
+      "length_km": 25,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 55,
+        "slabs": [],
+        "concessions": "Flat fare for express buses running on feeder routes",
+        "as_of": "2026-04",
+        "source_url": "https://transpeshawar.pk/wp-content/uploads/2026/04/TP-New-Fares.jpeg"
+      },
+      "women_only": false,
+      "stops_confidence": "high",
+      "stops": [
+        {
+          "name": "Gulbahar Chowk",
+          "name_ur": "گلبہار چوک",
+          "lat": 34.015507,
+          "lon": 71.591611,
+          "coord_source": "osm:way/906506545",
+          "is_station": true
+        },
+        {
+          "name": "Malik Saad Shaheed",
+          "name_ur": "ملک سعد شہید",
+          "lat": 34.014632,
+          "lon": 71.574235,
+          "coord_source": "osm:way/906506548",
+          "is_station": true
+        },
+        {
+          "name": "Saddar Bazar",
+          "name_ur": "صدر بازار",
+          "lat": 33.995076,
+          "lon": 71.538336,
+          "coord_source": "osm:way/906013646",
+          "is_station": true
+        },
+        {
+          "name": "Tehkal Bala",
+          "name_ur": "تہکال بالا",
+          "lat": 34.006815,
+          "lon": 71.508891,
+          "coord_source": "osm:relation/13777629",
+          "is_station": true
+        },
+        {
+          "name": "Abdara Road",
+          "name_ur": "ابدرہ روڈ",
+          "lat": 34.003086,
+          "lon": 71.501737,
+          "coord_source": "osm:way/906506540",
+          "is_station": true
+        },
+        {
+          "name": "University of Peshawar",
+          "name_ur": "پشاور یونیورسٹی",
+          "lat": 33.997765,
+          "lon": 71.487261,
+          "coord_source": "osm:way/906506542",
+          "is_station": true
+        },
+        {
+          "name": "Board Bazar",
+          "name_ur": "بورڈ بازار",
+          "lat": 33.998116,
+          "lon": 71.471369,
+          "coord_source": "osm:way/906506544",
+          "is_station": true
+        },
+        {
+          "name": "Mall of Hayatabad",
+          "name_ur": "مال آف حیات آباد",
+          "lat": 33.992025,
+          "lon": 71.461415,
+          "coord_source": "osm:way/906519876",
+          "is_station": true
+        },
+        {
+          "name": "Zarghuni Masjid",
+          "name_ur": "",
+          "lat": 33.971603,
+          "lon": 71.439781,
+          "coord_source": "osm:node/9108073113",
+          "is_station": false
+        },
+        {
+          "name": "Malik Saad Market",
+          "name_ur": "",
+          "lat": 33.974575,
+          "lon": 71.428352,
+          "coord_source": "osm:node/9108100919",
+          "is_station": false
+        },
+        {
+          "name": "Haji Camp",
+          "name_ur": "",
+          "lat": 33.969219,
+          "lon": 71.424004,
+          "coord_source": "osm:node/9566196523",
+          "is_station": false
+        },
+        {
+          "name": "Madrassa",
+          "name_ur": "",
+          "lat": 33.965698,
+          "lon": 71.416184,
+          "coord_source": "osm:node/9566159906",
+          "is_station": false
+        },
+        {
+          "name": "Phase 7 Terminal",
+          "name_ur": "",
+          "lat": 33.957119,
+          "lon": 71.4173,
+          "coord_source": "osm:node/4191664989",
+          "is_station": false
+        },
+        {
+          "name": "Gol Chowk",
+          "name_ur": "گول چوک",
+          "lat": 33.956283,
+          "lon": 71.43344,
+          "coord_source": "osm:node/13411115112",
+          "is_station": false
+        },
+        {
+          "name": "Nawab Market",
+          "name_ur": "نواب مارکیٹ",
+          "lat": 33.952706,
+          "lon": 71.432727,
+          "coord_source": "osm:node/10111549421",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zu Peshawar Network map v46 (updated April 2025)",
+          "url": "https://transpeshawar.pk/wp-content/uploads/2025/06/MAP_001-1-scaled.jpg"
+        },
+        {
+          "title": "Peshawar BRT Gets New Route From Gulbahar Chowk",
+          "url": "https://propakistani.pk/2023/12/16/peshawar-brt-gets-new-route-from-gulbahar-chowk/"
+        }
+      ],
+      "notes": "Colour sampled from the legend of the official Zu network map (approximate hex). Express Route 16, started 18 Dec 2023 with 16 buses. Stop list matches ProPakistani (Gulbahar Chowk, Malik Saad Shaheed, Saddar, Tehkal Bala, Abdara, UoP, Board Bazar, MoH, Zarghoni Masjid, Malik Saad Market, Haji Camp, Madrassah, Phase 7 Terminal, Gol Chowk, Nawab Market) and the map."
+    }
+  ]
+}

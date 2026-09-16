@@ -1,0 +1,651 @@
+{
+  "id": "jhelum-electric-bus",
+  "city": "jhelum",
+  "name": "Green Electric Bus Jhelum",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Punjab expands electric bus service into ten new cities",
+      "url": "https://minutemirror.com.pk/punjab-expands-electric-bus-service-into-ten-new-cities-463865/",
+      "publisher": "Minute Mirror",
+      "date": "2025-11-18",
+      "official": false
+    },
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Jhelum Green Electric Bus routes",
+      "url": "https://www.safar.fyi/jhelum/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "fauji-foundation-to-mangla",
+      "name": "Fauji Foundation to Mangla",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Jhelum Fauji Foundation Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kala Gujran",
+          "name_ur": "",
+          "lat": 32.962932,
+          "lon": 73.694892,
+          "coord_source": "auto:osm:node/2433202114",
+          "is_station": false
+        },
+        {
+          "name": "Pakistan Tobacco Company",
+          "name_ur": "",
+          "lat": 32.973484,
+          "lon": 73.685719,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kashmir Colony",
+          "name_ur": "",
+          "lat": 32.984037,
+          "lon": 73.676546,
+          "coord_source": "auto:osm:node/8661467083",
+          "is_station": false
+        },
+        {
+          "name": "City Housing Colony",
+          "name_ur": "",
+          "lat": 32.993888,
+          "lon": 73.670464,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Punjab University Jhelum",
+          "name_ur": "",
+          "lat": 33.003739,
+          "lon": 73.664381,
+          "coord_source": "auto:osm:way/1171742064",
+          "is_station": false
+        },
+        {
+          "name": "Caddet College Jhelum",
+          "name_ur": "",
+          "lat": 33.00777,
+          "lon": 73.653831,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak Akah",
+          "name_ur": "",
+          "lat": 33.011801,
+          "lon": 73.643281,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bura Jungle",
+          "name_ur": "",
+          "lat": 33.015832,
+          "lon": 73.632731,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rohtas Fort",
+          "name_ur": "",
+          "lat": 33.019862,
+          "lon": 73.622181,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jhelum Iqbal Town",
+          "name_ur": "",
+          "lat": 33.023893,
+          "lon": 73.611631,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dina- 1",
+          "name_ur": "",
+          "lat": 33.027924,
+          "lon": 73.601081,
+          "coord_source": "auto:nominatim:node/2643906022",
+          "is_station": false
+        },
+        {
+          "name": "Fauji Foundation School- 1",
+          "name_ur": "",
+          "lat": 33.031041,
+          "lon": 73.602924,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "AC Office Dina- 1",
+          "name_ur": "",
+          "lat": 33.034158,
+          "lon": 73.604768,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "AC Office Dina- 2",
+          "name_ur": "",
+          "lat": 33.037275,
+          "lon": 73.606611,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Fauji Foundation School- 2",
+          "name_ur": "",
+          "lat": 33.040392,
+          "lon": 73.608455,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dina- 2",
+          "name_ur": "",
+          "lat": 33.043508,
+          "lon": 73.610298,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jhelum Main Bazar",
+          "name_ur": "",
+          "lat": 33.046625,
+          "lon": 73.612142,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hadali",
+          "name_ur": "",
+          "lat": 33.049742,
+          "lon": 73.613985,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Peer Pachar",
+          "name_ur": "",
+          "lat": 33.052859,
+          "lon": 73.615829,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Madukalis",
+          "name_ur": "",
+          "lat": 33.055976,
+          "lon": 73.617672,
+          "coord_source": "auto:osm:node/9533975649",
+          "is_station": false
+        },
+        {
+          "name": "Nakodar",
+          "name_ur": "",
+          "lat": 33.054938,
+          "lon": 73.62116,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Manara",
+          "name_ur": "",
+          "lat": 33.053901,
+          "lon": 73.624648,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sheikhpur",
+          "name_ur": "",
+          "lat": 33.052863,
+          "lon": 73.628136,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jhelum Pindori",
+          "name_ur": "",
+          "lat": 33.051825,
+          "lon": 73.631624,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Baral",
+          "name_ur": "",
+          "lat": 33.050788,
+          "lon": 73.635112,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mangla",
+          "name_ur": "",
+          "lat": 33.04975,
+          "lon": 73.6386,
+          "coord_source": "auto:osm:way/1049142167",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Jhelum route",
+          "url": "https://www.safar.fyi/jhelum/transit-lines/jlm%3A205"
+        }
+      ],
+      "notes": "Part of ten-city phase (Nov 2025). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Jhelum Fauji Foundation Hospital to Mangla', 28 stops); safar lists service 6:00 AM - 9:36 PM (unverified). Removed consecutive duplicate stop(s): Mangla."
+    },
+    {
+      "id": "fauji-foundation-to-sanghoi",
+      "name": "Fauji Foundation to Sanghoi",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Jhelum Fauji Foundation Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jhelum Govt Graduate College",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jada",
+          "name_ur": "",
+          "lat": 32.949801,
+          "lon": 73.712348,
+          "coord_source": "auto:osm:node/2830638754",
+          "is_station": false
+        },
+        {
+          "name": "Lahore morr",
+          "name_ur": "",
+          "lat": 32.9363,
+          "lon": 73.710238,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jhelum cantt",
+          "name_ur": "",
+          "lat": 32.922799,
+          "lon": 73.708127,
+          "coord_source": "auto:osm:way/793565477",
+          "is_station": false
+        },
+        {
+          "name": "CSD Jhelum",
+          "name_ur": "",
+          "lat": 32.919269,
+          "lon": 73.69995,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Y Cross",
+          "name_ur": "",
+          "lat": 32.915738,
+          "lon": 73.691774,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "CMH Jhelum",
+          "name_ur": "",
+          "lat": 32.912208,
+          "lon": 73.683597,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lota Morr",
+          "name_ur": "",
+          "lat": 32.908677,
+          "lon": 73.67542,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kotla Faqir",
+          "name_ur": "",
+          "lat": 32.905147,
+          "lon": 73.667243,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dera Rajgan",
+          "name_ur": "",
+          "lat": 32.901616,
+          "lon": 73.659067,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nougran",
+          "name_ur": "",
+          "lat": 32.898086,
+          "lon": 73.65089,
+          "coord_source": "auto:osm:node/9413950727",
+          "is_station": false
+        },
+        {
+          "name": "Ranyala",
+          "name_ur": "",
+          "lat": 32.893476,
+          "lon": 73.640758,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kot Basira",
+          "name_ur": "",
+          "lat": 32.888867,
+          "lon": 73.630626,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jango",
+          "name_ur": "",
+          "lat": 32.884257,
+          "lon": 73.620494,
+          "coord_source": "auto:osm:node/9413950730",
+          "is_station": false
+        },
+        {
+          "name": "Gurah Saleem",
+          "name_ur": "",
+          "lat": 32.873931,
+          "lon": 73.612516,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sanghoi",
+          "name_ur": "",
+          "lat": 32.863605,
+          "lon": 73.604539,
+          "coord_source": "auto:osm:node/9413950731",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Jhelum route",
+          "url": "https://www.safar.fyi/jhelum/transit-lines/jlm%3A206"
+        }
+      ],
+      "notes": "Part of ten-city phase (Nov 2025). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Jhelum Fauji Foundation Hospital to Sanghoi', 17 stops); safar lists service 6:00 AM - 10:08 PM (unverified)."
+    },
+    {
+      "id": "fauji-foundation-to-technical-college",
+      "name": "Fauji Foundation to Technical College",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Jhelum Fauji Foundation Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jhelum Govt Graduate College",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jada",
+          "name_ur": "",
+          "lat": 32.949801,
+          "lon": 73.712348,
+          "coord_source": "auto:osm:node/2830638754",
+          "is_station": false
+        },
+        {
+          "name": "Jhelum DHQ",
+          "name_ur": "",
+          "lat": 32.944291,
+          "lon": 73.717167,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jhelum Islampura",
+          "name_ur": "",
+          "lat": 32.938782,
+          "lon": 73.721987,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Machine Mohalla",
+          "name_ur": "",
+          "lat": 32.933272,
+          "lon": 73.726806,
+          "coord_source": "auto:osm:way/1494533670",
+          "is_station": false
+        },
+        {
+          "name": "Machine Mohalla 2",
+          "name_ur": "",
+          "lat": 32.935555,
+          "lon": 73.728611,
+          "coord_source": "auto:nominatim:way/1494535304",
+          "is_station": false
+        },
+        {
+          "name": "Shandar Chowk",
+          "name_ur": "",
+          "lat": 32.928665,
+          "lon": 73.731354,
+          "coord_source": "auto:osm:node/3061964033",
+          "is_station": false
+        },
+        {
+          "name": "Govt. Girls School No. 1",
+          "name_ur": "",
+          "lat": 32.933878,
+          "lon": 73.733796,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jhelum SHADAB COLONY",
+          "name_ur": "",
+          "lat": 32.939092,
+          "lon": 73.736237,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jhelum KITCHERI",
+          "name_ur": "",
+          "lat": 32.944305,
+          "lon": 73.738679,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Aspire College",
+          "name_ur": "",
+          "lat": 32.949519,
+          "lon": 73.74112,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jhelum Bilal Town",
+          "name_ur": "",
+          "lat": 32.954732,
+          "lon": 73.743562,
+          "coord_source": "auto:osm:way/793571875",
+          "is_station": false
+        },
+        {
+          "name": "Tahlianwala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak Khasa",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chontra",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kala Deo",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pind Ratwal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Tawakulpur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pakhwal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Keri Afghan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jhelum Government Technical College",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Jhelum route",
+          "url": "https://www.safar.fyi/jhelum/transit-lines/jlm%3A204"
+        }
+      ],
+      "notes": "Part of ten-city phase (Nov 2025). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Jhelum Fauji Foundation Hospital to Jhelum Government Technical College', 23 stops); safar lists service 6:00 AM - 10:00 PM (unverified). Removed consecutive duplicate stop(s): Jhelum Government Technical College."
+    }
+  ]
+}

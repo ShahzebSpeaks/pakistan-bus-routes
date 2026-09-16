@@ -1,0 +1,1284 @@
+{
+  "id": "narowal-electric-bus",
+  "city": "narowal",
+  "name": "Green Electric Bus Narowal",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Narowal Green Electric Bus routes",
+      "url": "https://www.safar.fyi/narowal/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "gbs-narowal-to-manga-pul",
+      "name": "GBS Narowal to Manga Pul",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-31",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS, Narowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "DHQ, Narowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Zafarwal Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bijli Ghar, Narowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sahara Medical College",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mangian",
+          "name_ur": "",
+          "lat": 32.106037,
+          "lon": 74.837736,
+          "coord_source": "auto:osm:node/8896214383",
+          "is_station": false
+        },
+        {
+          "name": "Manak",
+          "name_ur": "",
+          "lat": 32.095334,
+          "lon": 74.823937,
+          "coord_source": "auto:osm:node/8892142254",
+          "is_station": false
+        },
+        {
+          "name": "Saadokay",
+          "name_ur": "",
+          "lat": 32.096862,
+          "lon": 74.815856,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sarjay Pur",
+          "name_ur": "",
+          "lat": 32.09839,
+          "lon": 74.807774,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dhero Mangrah",
+          "name_ur": "",
+          "lat": 32.099919,
+          "lon": 74.799693,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kot Shailor",
+          "name_ur": "",
+          "lat": 32.101447,
+          "lon": 74.791611,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kot Lakha Singh",
+          "name_ur": "",
+          "lat": 32.102975,
+          "lon": 74.78353,
+          "coord_source": "auto:osm:node/8896214402",
+          "is_station": false
+        },
+        {
+          "name": "Khan Khasa",
+          "name_ur": "",
+          "lat": 32.100202,
+          "lon": 74.778631,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Adda Siraj",
+          "name_ur": "",
+          "lat": 32.097429,
+          "lon": 74.773731,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dhay",
+          "name_ur": "",
+          "lat": 32.094656,
+          "lon": 74.768832,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "UET, Narowal Campus",
+          "name_ur": "",
+          "lat": 32.091883,
+          "lon": 74.763933,
+          "coord_source": "auto:osm:way/1018851892",
+          "is_station": false
+        },
+        {
+          "name": "Eno Bajwa Stop",
+          "name_ur": "",
+          "lat": 32.092638,
+          "lon": 74.755014,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Loban Pulli",
+          "name_ur": "",
+          "lat": 32.093394,
+          "lon": 74.746094,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Budha Dhola",
+          "name_ur": "",
+          "lat": 32.094149,
+          "lon": 74.737175,
+          "coord_source": "auto:osm:node/9396105650",
+          "is_station": false
+        },
+        {
+          "name": "Balay Kay",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ali Akbar Baag",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Govt Girls College, Chehar kay",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bank Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Talwandi Bhindran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Datewal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dhilee Pull",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Iqbal Nagar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhure Kay",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kot Gondal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kotli Tarar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Qila Kalar Wala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Gakharwali",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Malokey",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Manga Pul",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Narowal route",
+          "url": "https://www.safar.fyi/narowal/transit-lines/etransit-narowal%3A369"
+        }
+      ],
+      "notes": "11 buses; GBS to Manga Pul, Shakargarh, Pasrur Chowk, Zafarwal, plus a circular route. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS, Narowal to Manga Pul', 34 stops); safar lists service 6:00 AM - 9:00 PM (unverified)."
+    },
+    {
+      "id": "gbs-narowal-to-pasrur-chowk",
+      "name": "GBS Narowal to Pasrur Chowk",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-31",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS, Narowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "DHQ, Narowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Zafarwal Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bijli Ghar, Narowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dhaab",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dhadiala",
+          "name_ur": "",
+          "lat": 32.125338,
+          "lon": 74.837634,
+          "coord_source": "auto:osm:node/8896214381",
+          "is_station": false
+        },
+        {
+          "name": "Dongian",
+          "name_ur": "",
+          "lat": 32.14579,
+          "lon": 74.839835,
+          "coord_source": "auto:osm:node/8896214211",
+          "is_station": false
+        },
+        {
+          "name": "PTCL exchange Stop, Narowal",
+          "name_ur": "",
+          "lat": 32.152495,
+          "lon": 74.831945,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Akal Gharh",
+          "name_ur": "",
+          "lat": 32.1592,
+          "lon": 74.824054,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Domala",
+          "name_ur": "",
+          "lat": 32.165906,
+          "lon": 74.816164,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chahala",
+          "name_ur": "",
+          "lat": 32.172611,
+          "lon": 74.808274,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Habib chak",
+          "name_ur": "",
+          "lat": 32.179316,
+          "lon": 74.800383,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chando Kay",
+          "name_ur": "",
+          "lat": 32.186021,
+          "lon": 74.792493,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Khangoorah",
+          "name_ur": "",
+          "lat": 32.192727,
+          "lon": 74.784603,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ali Pur Saidan",
+          "name_ur": "",
+          "lat": 32.199432,
+          "lon": 74.776712,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Faleez Pur",
+          "name_ur": "",
+          "lat": 32.206137,
+          "lon": 74.768822,
+          "coord_source": "auto:osm:node/8896127346",
+          "is_station": false
+        },
+        {
+          "name": "Dheeng",
+          "name_ur": "",
+          "lat": 32.21855,
+          "lon": 74.7618,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ahmadabad, Narowal",
+          "name_ur": "",
+          "lat": 32.230964,
+          "lon": 74.754778,
+          "coord_source": "auto:nominatim:node/2491024312",
+          "is_station": false
+        },
+        {
+          "name": "Bagh Pulli",
+          "name_ur": "",
+          "lat": 32.225722,
+          "lon": 74.758299,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Fateh Gujjeran",
+          "name_ur": "",
+          "lat": 32.220481,
+          "lon": 74.76182,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kalo Wali Saidan",
+          "name_ur": "",
+          "lat": 32.215239,
+          "lon": 74.765341,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kala Phaar",
+          "name_ur": "",
+          "lat": 32.209998,
+          "lon": 74.768862,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sodian",
+          "name_ur": "",
+          "lat": 32.204756,
+          "lon": 74.772383,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chand",
+          "name_ur": "",
+          "lat": 32.199514,
+          "lon": 74.775904,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chawinda Phatak",
+          "name_ur": "",
+          "lat": 32.194273,
+          "lon": 74.779425,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station, Pasrur",
+          "name_ur": "",
+          "lat": 32.189031,
+          "lon": 74.782946,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Govt. Graduate College, Pasrur",
+          "name_ur": "",
+          "lat": 32.18379,
+          "lon": 74.786467,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chowk Pasrur",
+          "name_ur": "",
+          "lat": 32.178548,
+          "lon": 74.789988,
+          "coord_source": "auto:osm:way/232466822",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Narowal route",
+          "url": "https://www.safar.fyi/narowal/transit-lines/etransit-narowal%3A371"
+        }
+      ],
+      "notes": "11 buses; GBS to Manga Pul, Shakargarh, Pasrur Chowk, Zafarwal, plus a circular route. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS, Narowal to Chowk Pasrur', 28 stops); safar lists service 6:00 AM - 9:00 PM (unverified)."
+    },
+    {
+      "id": "gbs-narowal-to-shakargarh",
+      "name": "GBS Narowal to Shakargarh",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-31",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS, Narowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "DC Office. Narowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chandowal Stop",
+          "name_ur": "",
+          "lat": 32.098781,
+          "lon": 74.900047,
+          "coord_source": "auto:osm:node/8892142287",
+          "is_station": false
+        },
+        {
+          "name": "Behbalwali",
+          "name_ur": "",
+          "lat": 32.09837,
+          "lon": 74.910879,
+          "coord_source": "auto:osm:node/8892142288",
+          "is_station": false
+        },
+        {
+          "name": "University of Narowal",
+          "name_ur": "",
+          "lat": 32.098466,
+          "lon": 74.916038,
+          "coord_source": "auto:osm:way/1234589311",
+          "is_station": false
+        },
+        {
+          "name": "UVAS University",
+          "name_ur": "",
+          "lat": 32.091466,
+          "lon": 74.933237,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jassar",
+          "name_ur": "",
+          "lat": 32.084467,
+          "lon": 74.950436,
+          "coord_source": "auto:osm:node/7900649505",
+          "is_station": false
+        },
+        {
+          "name": "Aliabad, Narowal",
+          "name_ur": "",
+          "lat": 32.07821,
+          "lon": 74.965914,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kakkeke",
+          "name_ur": "",
+          "lat": 32.071954,
+          "lon": 74.981392,
+          "coord_source": "auto:osm:node/8892142290",
+          "is_station": false
+        },
+        {
+          "name": "Dalhozi Village",
+          "name_ur": "",
+          "lat": 32.089242,
+          "lon": 74.988263,
+          "coord_source": "auto:nominatim:node/7900649503",
+          "is_station": false
+        },
+        {
+          "name": "Kaky Kalan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kartar Pur Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Manzoor Pura Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Malowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kotla Afghana",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mundi Khel",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Langah",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sultan Pur, Narowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bastaan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kutrowal Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dera Afghanan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhajna",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Hussainpur Babrian",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mirpur Gujran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Purana Pugala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Noor Kot",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kotli Saidan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Paghala Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shakargarh Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chungi Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Katchehery Stop, Shakargarh",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "THQ Hospital, Shakargrh",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Wapda Office, Shakargarh",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Lari Adda, Shakargarh",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Narowal route",
+          "url": "https://www.safar.fyi/narowal/transit-lines/etransit-narowal%3A370"
+        }
+      ],
+      "notes": "11 buses; GBS to Manga Pul, Shakargarh, Pasrur Chowk, Zafarwal, plus a circular route. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS, Narowal to Lari Adda, Shakargarh', 34 stops); safar lists service 6:00 AM - 8:20 PM (unverified)."
+    },
+    {
+      "id": "gbs-narowal-to-zafarwal",
+      "name": "GBS Narowal to Zafarwal",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-31",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS, Narowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "DHQ, Narowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Zafarwal Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ghaziwal Colony",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Khayaban-e-Nawab",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sagar Pur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sadu Wala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chachowali",
+          "name_ur": "",
+          "lat": 32.170543,
+          "lon": 74.869516,
+          "coord_source": "auto:osm:node/8896475060",
+          "is_station": false
+        },
+        {
+          "name": "Dhablee Wala",
+          "name_ur": "",
+          "lat": 32.178995,
+          "lon": 74.871959,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bubak",
+          "name_ur": "",
+          "lat": 32.187446,
+          "lon": 74.874401,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sadiq Abad",
+          "name_ur": "",
+          "lat": 32.195898,
+          "lon": 74.876844,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rattian",
+          "name_ur": "",
+          "lat": 32.204349,
+          "lon": 74.879287,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kashmir Nagar",
+          "name_ur": "",
+          "lat": 32.212801,
+          "lon": 74.88173,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Khanpur Bolar",
+          "name_ur": "",
+          "lat": 32.221252,
+          "lon": 74.884172,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Tapiala",
+          "name_ur": "",
+          "lat": 32.229704,
+          "lon": 74.886615,
+          "coord_source": "auto:osm:node/8896127528",
+          "is_station": false
+        },
+        {
+          "name": "Pindi Oulakh",
+          "name_ur": "",
+          "lat": 32.203608,
+          "lon": 74.88676,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dilaykay Ghumman",
+          "name_ur": "",
+          "lat": 32.177512,
+          "lon": 74.886905,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sahadray",
+          "name_ur": "",
+          "lat": 32.151416,
+          "lon": 74.88705,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pindi Kahalwan",
+          "name_ur": "",
+          "lat": 32.12532,
+          "lon": 74.887195,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dham Thal",
+          "name_ur": "",
+          "lat": 32.099224,
+          "lon": 74.88734,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dham Thal Chandni Chowk",
+          "name_ur": "",
+          "lat": 32.073128,
+          "lon": 74.887485,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jahanian",
+          "name_ur": "",
+          "lat": 32.047032,
+          "lon": 74.88763,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ugoo Wala",
+          "name_ur": "",
+          "lat": 32.020936,
+          "lon": 74.887775,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chiragh Shah Bypass",
+          "name_ur": "",
+          "lat": 31.99484,
+          "lon": 74.88792,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pandori Stop",
+          "name_ur": "",
+          "lat": 31.968744,
+          "lon": 74.888065,
+          "coord_source": "auto:osm:way/311235481",
+          "is_station": false
+        },
+        {
+          "name": "Shah Din Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Tehsil Complex, Zaffarwal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nangal sudkan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chowinda Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Lari Adda, Zafarwal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Narowal route",
+          "url": "https://www.safar.fyi/narowal/transit-lines/etransit-narowal%3A373"
+        }
+      ],
+      "notes": "11 buses; GBS to Manga Pul, Shakargarh, Pasrur Chowk, Zafarwal, plus a circular route. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS, Narowal to Lari Adda, Zafarwal', 30 stops); safar lists service 6:00 AM - 9:00 PM (unverified)."
+    },
+    {
+      "id": "narowal-circular-route",
+      "name": "Narowal Circular Route",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-31",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS, Narowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Narowal Medical College",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Raseen Wala Phatak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Old Katcheri Stop, Narowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Railway Station, Narowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sialkot Phatak, Narowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bijli Ghar, Narowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sialkot Phatak 2, Narowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Zafarwal Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chan Peer Darbar Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Meran Shah Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "DHQ, Narowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "University of Narowal",
+          "name_ur": "",
+          "lat": 32.098466,
+          "lon": 74.916038,
+          "coord_source": "auto:osm:way/1234589311",
+          "is_station": false
+        },
+        {
+          "name": "GBS, Narowal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Narowal route",
+          "url": "https://www.safar.fyi/narowal/transit-lines/etransit-narowal%3A372"
+        }
+      ],
+      "notes": "11 buses; GBS to Manga Pul, Shakargarh, Pasrur Chowk, Zafarwal, plus a circular route. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS, Narowal to GBS, Narowal', 14 stops); safar lists service 6:00 AM - 9:10 PM (unverified)."
+    }
+  ]
+}

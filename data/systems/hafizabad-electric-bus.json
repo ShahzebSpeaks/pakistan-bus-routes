@@ -1,0 +1,395 @@
+{
+  "id": "hafizabad-electric-bus",
+  "city": "hafizabad",
+  "name": "Green Electric Bus Hafizabad",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Electric bus service starts on 13 new routes",
+      "url": "https://www.thenews.pk/print/1424248-electric-bus-service-starts-on-13-new-routes",
+      "publisher": "The News",
+      "date": "2026-07-06",
+      "official": false
+    },
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Hafizabad Green Electric Bus routes",
+      "url": "https://www.safar.fyi/hafizabad/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "ghora-chowk-to-jalalpur-bhattian",
+      "name": "Ghora Chowk to Jalalpur Bhattian",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Ghora Chowk hafizabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Rehri Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Solangi Awan",
+          "name_ur": "",
+          "lat": 32.066137,
+          "lon": 73.64652,
+          "coord_source": "auto:osm:node/8737447017",
+          "is_station": false
+        },
+        {
+          "name": "Kot Ibrahim",
+          "name_ur": "",
+          "lat": 32.06428,
+          "lon": 73.630099,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Channi Mitha",
+          "name_ur": "",
+          "lat": 32.062424,
+          "lon": 73.613679,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kot Mubarak",
+          "name_ur": "",
+          "lat": 32.060567,
+          "lon": 73.597258,
+          "coord_source": "auto:osm:way/1239899246",
+          "is_station": false
+        },
+        {
+          "name": "Kolu Morr",
+          "name_ur": "",
+          "lat": 32.060831,
+          "lon": 73.576639,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Peelo",
+          "name_ur": "",
+          "lat": 32.061096,
+          "lon": 73.55602,
+          "coord_source": "auto:osm:node/11508222117",
+          "is_station": false
+        },
+        {
+          "name": "Sandhowan Tarar",
+          "name_ur": "",
+          "lat": 32.061469,
+          "lon": 73.55832,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Fatehpur Stop Hafizabad",
+          "name_ur": "",
+          "lat": 32.061843,
+          "lon": 73.560621,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Naroz Pur",
+          "name_ur": "",
+          "lat": 32.062216,
+          "lon": 73.562921,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rasool Pur",
+          "name_ur": "",
+          "lat": 32.062589,
+          "lon": 73.565222,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Qilay Wali Pulli",
+          "name_ur": "",
+          "lat": 32.062963,
+          "lon": 73.567522,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Solangi Hafizabad",
+          "name_ur": "",
+          "lat": 32.063336,
+          "lon": 73.569823,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mazko Chowk",
+          "name_ur": "",
+          "lat": 32.063709,
+          "lon": 73.572123,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kassesa Chowk",
+          "name_ur": "",
+          "lat": 32.064083,
+          "lon": 73.574424,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jalalpur Bhattian",
+          "name_ur": "",
+          "lat": 32.064456,
+          "lon": 73.576724,
+          "coord_source": "auto:osm:way/202595845",
+          "is_station": false
+        },
+        {
+          "name": "Dahi Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Hafizabad route",
+          "url": "https://www.safar.fyi/hafizabad/transit-lines/etransit-hafizabad%3A307"
+        }
+      ],
+      "notes": "9 buses; Jinnah Chowk inter-city loop and Ghora Chowk-Jalalpur Bhattian, started ~6 Jul 2026. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Ghora Chowk hafizabad to Dahi Hospital', 18 stops); safar lists service 6:00 AM - 9:10 PM (unverified)."
+    },
+    {
+      "id": "jinnah-chowk-jinnah-chowk",
+      "name": "Jinnah Chowk - Jinnah Chowk",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Jinnah Chowk hafizabad",
+          "name_ur": "",
+          "lat": 32.073904,
+          "lon": 73.716466,
+          "coord_source": "auto:osm:node/11745533632",
+          "is_station": false
+        },
+        {
+          "name": "Punjab College, Hafizabad",
+          "name_ur": "",
+          "lat": 32.073705,
+          "lon": 73.716369,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hafizabad College",
+          "name_ur": "",
+          "lat": 32.073506,
+          "lon": 73.716272,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "GBS, Hafizabad",
+          "name_ur": "",
+          "lat": 32.073308,
+          "lon": 73.716175,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Fawara Chowk",
+          "name_ur": "",
+          "lat": 32.073109,
+          "lon": 73.716078,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Masjid Shabbir Shah",
+          "name_ur": "",
+          "lat": 32.07291,
+          "lon": 73.715981,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk Hafizabad",
+          "name_ur": "",
+          "lat": 32.072711,
+          "lon": 73.715884,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mughalpura Hafizabad",
+          "name_ur": "",
+          "lat": 32.072512,
+          "lon": 73.715787,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rasheed Pura",
+          "name_ur": "",
+          "lat": 32.072313,
+          "lon": 73.71569,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ghora Chowk hafizabad",
+          "name_ur": "",
+          "lat": 32.072115,
+          "lon": 73.715592,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Vital College, Hafizabad",
+          "name_ur": "",
+          "lat": 32.071916,
+          "lon": 73.715495,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Madharian Wala Chowk",
+          "name_ur": "",
+          "lat": 32.071717,
+          "lon": 73.715398,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Iqbal Garden",
+          "name_ur": "",
+          "lat": 32.071518,
+          "lon": 73.715301,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Aspire College, Hafizabad",
+          "name_ur": "",
+          "lat": 32.071319,
+          "lon": 73.715204,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kassoki Bypass",
+          "name_ur": "",
+          "lat": 32.07112,
+          "lon": 73.715107,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Zamzam Hospital",
+          "name_ur": "",
+          "lat": 32.070922,
+          "lon": 73.71501,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "KIPS College",
+          "name_ur": "",
+          "lat": 32.070723,
+          "lon": 73.714913,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "DC Office Hafizabad",
+          "name_ur": "",
+          "lat": 32.070524,
+          "lon": 73.714816,
+          "coord_source": "auto:osm:way/1064192670",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah Chowk hafizabad",
+          "name_ur": "",
+          "lat": 32.073904,
+          "lon": 73.716466,
+          "coord_source": "auto:osm:node/11745533632",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Hafizabad route",
+          "url": "https://www.safar.fyi/hafizabad/transit-lines/etransit-hafizabad%3A306"
+        }
+      ],
+      "notes": "9 buses; Jinnah Chowk inter-city loop and Ghora Chowk-Jalalpur Bhattian, started ~6 Jul 2026. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Jinnah Chowk hafizabad to Jinnah Chowk hafizabad', 20 stops); safar lists service 6:00 AM - 9:30 PM (unverified)."
+    }
+  ]
+}

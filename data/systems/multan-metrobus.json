@@ -1,0 +1,272 @@
+{
+  "id": "multan-metrobus",
+  "city": "multan",
+  "name": "Multan Metrobus",
+  "name_ur": "ملتان میٹرو بس",
+  "operator": "Punjab Masstransit Authority (PMA)",
+  "mode": "brt",
+  "website": "https://pma.punjab.gov.pk/multan-metrobus-system",
+  "helpline": "061-111-222-627",
+  "payment": "Metrobus / Green Transport Card (smart card), off-board automated fare collection",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 40,
+    "slabs": [],
+    "concessions": "From 26 Mar 2026: Rs 40 per trip, Rs 25 per trip with Green Transport Card. Previously Rs 25 flat (PMA fare-policy page and safar.fyi still show Rs 25). Must exit within 1h15m of entry.",
+    "as_of": "2026-03",
+    "source_url": "https://propakistani.pk/2026/03/14/punjab-increases-metro-bus-fare/"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi timetable: first departure 06:15, last ~22:00 from terminals (service to ~22:51), 5-10 min headways; not confirmed by PMA."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Multan Metrobus System",
+      "url": "https://pma.punjab.gov.pk/multan-metrobus-system",
+      "publisher": "Punjab Masstransit Authority",
+      "date": null,
+      "official": true
+    },
+    {
+      "title": "Fare Policy",
+      "url": "https://pma.punjab.gov.pk/fare-policy",
+      "publisher": "Punjab Masstransit Authority",
+      "date": null,
+      "official": true
+    },
+    {
+      "title": "Multan Metrobus",
+      "url": "https://en.wikipedia.org/wiki/Multan_Metrobus",
+      "publisher": "Wikipedia",
+      "date": null,
+      "official": false
+    },
+    {
+      "title": "Punjab Increases Metro Bus Fare",
+      "url": "https://propakistani.pk/2026/03/14/punjab-increases-metro-bus-fare/",
+      "publisher": "ProPakistani",
+      "date": "2026-03-14",
+      "official": false
+    },
+    {
+      "title": "Metro Bus Multan route (station order)",
+      "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A37",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    },
+    {
+      "title": "OpenStreetMap Metrobus station nodes (Overpass)",
+      "url": "https://www.openstreetmap.org/relation/10995086",
+      "publisher": "OpenStreetMap",
+      "date": "2026-07-24",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "Red Line",
+      "name": "Bahauddin Zakariya University - Kumharanwala Chowk",
+      "name_ur": "",
+      "variant": "brt",
+      "color": null,
+      "status": "operational",
+      "launched": "2017-01-24",
+      "length_km": 18.5,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "high",
+      "stops": [
+        {
+          "name": "Bahauddin Zakariya University (BZU)",
+          "name_ur": "",
+          "lat": 30.2693967,
+          "lon": 71.4942387,
+          "coord_source": "osm:node/8365794881",
+          "is_station": true
+        },
+        {
+          "name": "Bahadur Pur",
+          "name_ur": "",
+          "lat": 30.2620999,
+          "lon": 71.4926011,
+          "coord_source": "osm:node/8365794880",
+          "is_station": true
+        },
+        {
+          "name": "Mehmood Kot",
+          "name_ur": "",
+          "lat": 30.2555874,
+          "lon": 71.488768,
+          "coord_source": "osm:node/8365794879",
+          "is_station": true
+        },
+        {
+          "name": "Northern Bypass",
+          "name_ur": "",
+          "lat": 30.2464502,
+          "lon": 71.485275,
+          "coord_source": "osm:node/8365794878",
+          "is_station": true
+        },
+        {
+          "name": "Shalimar Colony",
+          "name_ur": "",
+          "lat": 30.2403796,
+          "lon": 71.4829805,
+          "coord_source": "osm:node/8365794877",
+          "is_station": true
+        },
+        {
+          "name": "Sabzazar",
+          "name_ur": "",
+          "lat": 30.234809,
+          "lon": 71.4815734,
+          "coord_source": "osm:node/8365794876",
+          "is_station": true
+        },
+        {
+          "name": "Chungi No. 6",
+          "name_ur": "",
+          "lat": 30.2277213,
+          "lon": 71.478593,
+          "coord_source": "osm:node/8365794875",
+          "is_station": true
+        },
+        {
+          "name": "Gulgasht",
+          "name_ur": "",
+          "lat": 30.217112,
+          "lon": 71.473966,
+          "coord_source": "osm:node/8365794874",
+          "is_station": true
+        },
+        {
+          "name": "Chungi No. 9",
+          "name_ur": "",
+          "lat": 30.2087545,
+          "lon": 71.4730731,
+          "coord_source": "osm:node/8365794873",
+          "is_station": true
+        },
+        {
+          "name": "Fort Qasim",
+          "name_ur": "",
+          "lat": 30.2034588,
+          "lon": 71.473698,
+          "coord_source": "osm:node/8362722933",
+          "is_station": true
+        },
+        {
+          "name": "Daulat Gate",
+          "name_ur": "",
+          "lat": 30.1988003,
+          "lon": 71.4792101,
+          "coord_source": "osm:node/8362709160",
+          "is_station": true
+        },
+        {
+          "name": "Hafiz Jamal",
+          "name_ur": "",
+          "lat": 30.1947615,
+          "lon": 71.4840922,
+          "coord_source": "osm:node/8362709163",
+          "is_station": true
+        },
+        {
+          "name": "Manzoorabad",
+          "name_ur": "",
+          "lat": 30.1899007,
+          "lon": 71.4869055,
+          "coord_source": "osm:node/8362709166",
+          "is_station": true
+        },
+        {
+          "name": "Ahmadabad",
+          "name_ur": "",
+          "lat": 30.1837015,
+          "lon": 71.4897561,
+          "coord_source": "osm:node/8365794865",
+          "is_station": true
+        },
+        {
+          "name": "BCG Chowk",
+          "name_ur": "",
+          "lat": 30.1729533,
+          "lon": 71.4914236,
+          "coord_source": "osm:node/8365794866",
+          "is_station": true
+        },
+        {
+          "name": "Peoples Colony",
+          "name_ur": "",
+          "lat": 30.1727309,
+          "lon": 71.5014454,
+          "coord_source": "osm:node/8365794867",
+          "is_station": true
+        },
+        {
+          "name": "Vehari Chowk",
+          "name_ur": "",
+          "lat": 30.1751322,
+          "lon": 71.5093766,
+          "coord_source": "osm:node/8365794868",
+          "is_station": true
+        },
+        {
+          "name": "General Bus Stand",
+          "name_ur": "",
+          "lat": 30.1810917,
+          "lon": 71.5108689,
+          "coord_source": "osm:node/8365794869",
+          "is_station": true
+        },
+        {
+          "name": "Jinnah Park",
+          "name_ur": "",
+          "lat": 30.1903553,
+          "lon": 71.5131795,
+          "coord_source": "osm:node/8365794870",
+          "is_station": true
+        },
+        {
+          "name": "Shah Rukn-e-Alam",
+          "name_ur": "",
+          "lat": 30.1968224,
+          "lon": 71.5160608,
+          "coord_source": "osm:node/8365794871",
+          "is_station": true
+        },
+        {
+          "name": "Kumharanwala Chowk",
+          "name_ur": "",
+          "lat": 30.208501,
+          "lon": 71.5156209,
+          "coord_source": "osm:node/8365794872",
+          "is_station": true
+        }
+      ],
+      "sources": [
+        {
+          "title": "PMA Multan Metrobus System",
+          "url": "https://pma.punjab.gov.pk/multan-metrobus-system"
+        },
+        {
+          "title": "Wikipedia Multan Metrobus",
+          "url": "https://en.wikipedia.org/wiki/Multan_Metrobus"
+        },
+        {
+          "title": "safar.fyi Metro Bus Multan",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A37"
+        }
+      ],
+      "notes": "Single corridor, 21 stations (14 elevated, 7 at-grade), 35 articulated buses, 12.5 km elevated. 'Red Line' label comes from PMA's Integrated Public Transport Network Multan plan (which also proposes unbuilt Orange/Purple/Blue MBS lines); buses are not route-coded. Station names per PMA/Wikipedia; safar spells Bahadarpur, Nothern Bypass, Qasim Fort, Dolat Gate, Ahmedabad. OSM tags Hafiz Jamal station as 'Shah Jamal Metrobus' and Fort Qasim as 'Qasim Bagh Metrobus' (matched by sequence). Feeder transfers per safar: Mehmood Kot-MFR39; Fort Qasim-MFR02/03/03B; BCG Chowk & Peoples Colony-MFR11/08B; Vehari Chowk-MFR11/08B/04/07B; Kumharanwala-MFR03B."
+    }
+  ]
+}

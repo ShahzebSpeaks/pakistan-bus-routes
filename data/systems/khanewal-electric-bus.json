@@ -1,0 +1,467 @@
+{
+  "id": "khanewal-electric-bus",
+  "city": "khanewal",
+  "name": "Green Electric Bus Khanewal",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Electric bus service starts on 13 new routes",
+      "url": "https://www.thenews.pk/print/1424248-electric-bus-service-starts-on-13-new-routes",
+      "publisher": "The News",
+      "date": "2026-07-06",
+      "official": false
+    },
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Khanewal Green Electric Bus routes",
+      "url": "https://www.safar.fyi/khanewal/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "khanewal-to-jahaniya",
+      "name": "Khanewal to Jahaniya",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Bismillah Chowk Khanwal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "RCA Chowk, Khanewal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "T-Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "DC Office khanewal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "District Council khanewal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nirala Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Awan Chowk khanewal",
+          "name_ur": "",
+          "lat": 30.28631,
+          "lon": 71.932059,
+          "coord_source": "auto:osm:node/4368513189",
+          "is_station": false
+        },
+        {
+          "name": "68 Morr",
+          "name_ur": "",
+          "lat": 30.284092,
+          "lon": 71.923302,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "DHQ, Khanewal",
+          "name_ur": "",
+          "lat": 30.281874,
+          "lon": 71.914544,
+          "coord_source": "auto:osm:node/5424316021",
+          "is_station": false
+        },
+        {
+          "name": "Bypass khanewal",
+          "name_ur": "",
+          "lat": 30.281748,
+          "lon": 71.903349,
+          "coord_source": "auto:osm:way/307508429",
+          "is_station": false
+        },
+        {
+          "name": "Khokhay Wala Hospital",
+          "name_ur": "",
+          "lat": 30.283476,
+          "lon": 71.904847,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sabir Poultry Stop",
+          "name_ur": "",
+          "lat": 30.285203,
+          "lon": 71.906345,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mehar Shah Adda",
+          "name_ur": "",
+          "lat": 30.286931,
+          "lon": 71.907842,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rehman Abad",
+          "name_ur": "",
+          "lat": 30.288658,
+          "lon": 71.90934,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 163",
+          "name_ur": "",
+          "lat": 30.290386,
+          "lon": 71.910838,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jangal Mariala",
+          "name_ur": "",
+          "lat": 30.292114,
+          "lon": 71.912336,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 160",
+          "name_ur": "",
+          "lat": 30.293841,
+          "lon": 71.913833,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Parvaiz Wala",
+          "name_ur": "",
+          "lat": 30.295569,
+          "lon": 71.915331,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 105/10 R",
+          "name_ur": "",
+          "lat": 30.297297,
+          "lon": 71.916829,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 106",
+          "name_ur": "",
+          "lat": 30.299024,
+          "lon": 71.918327,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Tariq Abad",
+          "name_ur": "",
+          "lat": 30.300752,
+          "lon": 71.919824,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jahanian Bypass",
+          "name_ur": "",
+          "lat": 30.302479,
+          "lon": 71.921322,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station Road",
+          "name_ur": "",
+          "lat": 30.304207,
+          "lon": 71.92282,
+          "coord_source": "auto:osm:way/540089569",
+          "is_station": false
+        },
+        {
+          "name": "GBS, Jahanian",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "THQ, Jahanian",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Khanewal route",
+          "url": "https://www.safar.fyi/khanewal/transit-lines/etransit-khanewal%3A305"
+        }
+      ],
+      "notes": "9 buses; Khanewal-Jahanian and Khanewal-Kabirwala, started ~6 Jul 2026. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Bismillah Chowk Khanwal to THQ, Jahanian', 25 stops); safar lists service 6:00 AM - 9:10 PM (unverified)."
+    },
+    {
+      "id": "khanewal-to-kabirwala",
+      "name": "Khanewal to Kabirwala",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Khanewal Depot",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bypass Stop khanewal",
+          "name_ur": "",
+          "lat": 30.281748,
+          "lon": 71.903349,
+          "coord_source": "auto:osm:way/307508429",
+          "is_station": false
+        },
+        {
+          "name": "DHQ, Khanewal",
+          "name_ur": "",
+          "lat": 30.281874,
+          "lon": 71.914544,
+          "coord_source": "auto:osm:node/5424316021",
+          "is_station": false
+        },
+        {
+          "name": "68 Morr",
+          "name_ur": "",
+          "lat": 30.284092,
+          "lon": 71.923302,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Awan Chowk khanewal",
+          "name_ur": "",
+          "lat": 30.28631,
+          "lon": 71.932059,
+          "coord_source": "auto:osm:node/4368513189",
+          "is_station": false
+        },
+        {
+          "name": "Khokhar Abad",
+          "name_ur": "",
+          "lat": 30.292575,
+          "lon": 71.937772,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hamaiyat Abad",
+          "name_ur": "",
+          "lat": 30.298839,
+          "lon": 71.943485,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Zahoorabad Pulli",
+          "name_ur": "",
+          "lat": 30.305104,
+          "lon": 71.949199,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Niazi Chowk",
+          "name_ur": "",
+          "lat": 30.311368,
+          "lon": 71.954912,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "City Gate",
+          "name_ur": "",
+          "lat": 30.317633,
+          "lon": 71.960625,
+          "coord_source": "auto:osm:node/5478776321",
+          "is_station": false
+        },
+        {
+          "name": "COD Chowk",
+          "name_ur": "",
+          "lat": 30.318068,
+          "lon": 71.946676,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "DPS, Khanewal",
+          "name_ur": "",
+          "lat": 30.318503,
+          "lon": 71.932727,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lahore Morr, khanewal",
+          "name_ur": "",
+          "lat": 30.318938,
+          "lon": 71.918778,
+          "coord_source": "auto:osm:node/4483783095",
+          "is_station": false
+        },
+        {
+          "name": "UCMS University",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dingiyaan Pullan Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Aadi Wala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jadeed Feed Factory",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nestle Factory",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Moza Allahabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Allied School, Kabirwala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "GBS, Kabirwala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Khanewal route",
+          "url": "https://www.safar.fyi/khanewal/transit-lines/etransit-khanewal%3A304"
+        }
+      ],
+      "notes": "9 buses; Khanewal-Jahanian and Khanewal-Kabirwala, started ~6 Jul 2026. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Khanewal Depot to GBS, Kabirwala', 21 stops); safar lists service 6:00 AM - 9:35 PM (unverified)."
+    }
+  ]
+}

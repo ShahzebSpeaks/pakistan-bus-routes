@@ -1,0 +1,620 @@
+{
+  "id": "sheikhupura-electric-bus",
+  "city": "sheikhupura",
+  "name": "Green Electric Bus Sheikhupura",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Sheikhupura Green Electric Bus routes",
+      "url": "https://www.safar.fyi/sheikhupura/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "e-bus-depot-govt-college-to-shahdara-metro-stop",
+      "name": "E Bus Depot Govt. College to Shahdara Metro Stop",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-31",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Bus Depot, Govt College",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Govt Degree College, SKP",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "SP Chowk, Sheikhupura",
+          "name_ur": "",
+          "lat": 31.714186,
+          "lon": 73.9665,
+          "coord_source": "auto:nominatim:node/4910707115",
+          "is_station": false
+        },
+        {
+          "name": "Katchery Chowk, Sheikhupura",
+          "name_ur": "",
+          "lat": 31.713807,
+          "lon": 73.971645,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Trauma Center",
+          "name_ur": "",
+          "lat": 31.713428,
+          "lon": 73.97679,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "DHQ, Shiekhupura",
+          "name_ur": "",
+          "lat": 31.71305,
+          "lon": 73.981935,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Landa Bazar, Sheikhupura",
+          "name_ur": "",
+          "lat": 31.712671,
+          "lon": 73.98708,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Saddar Chowk, Sheikhupura",
+          "name_ur": "",
+          "lat": 31.712292,
+          "lon": 73.992225,
+          "coord_source": "auto:nominatim:node/4910707065",
+          "is_station": false
+        },
+        {
+          "name": "Batti Chowk",
+          "name_ur": "",
+          "lat": 31.711378,
+          "lon": 73.995809,
+          "coord_source": "auto:osm:node/4910585814",
+          "is_station": false
+        },
+        {
+          "name": "Saim Nala, Sheikhupura",
+          "name_ur": "",
+          "lat": 31.708803,
+          "lon": 74.00472,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ideal College, SKP",
+          "name_ur": "",
+          "lat": 31.706228,
+          "lon": 74.013631,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lahore Bypass",
+          "name_ur": "",
+          "lat": 31.703653,
+          "lon": 74.022542,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Housing Colony",
+          "name_ur": "",
+          "lat": 31.701078,
+          "lon": 74.031453,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Salim Kot",
+          "name_ur": "",
+          "lat": 31.698503,
+          "lon": 74.040364,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Asia Mill",
+          "name_ur": "",
+          "lat": 31.695928,
+          "lon": 74.049275,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "E-Community Society",
+          "name_ur": "",
+          "lat": 31.693354,
+          "lon": 74.058185,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Harriya Stop",
+          "name_ur": "",
+          "lat": 31.690779,
+          "lon": 74.067096,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Joiyan Wala Morr",
+          "name_ur": "",
+          "lat": 31.688204,
+          "lon": 74.076007,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nestle Factory, Sheikhupura",
+          "name_ur": "",
+          "lat": 31.685629,
+          "lon": 74.084918,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Baway Di Kuttya",
+          "name_ur": "",
+          "lat": 31.683054,
+          "lon": 74.093829,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Khanpur Stop",
+          "name_ur": "",
+          "lat": 31.680479,
+          "lon": 74.10274,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nabipur Stop",
+          "name_ur": "",
+          "lat": 31.677904,
+          "lon": 74.111651,
+          "coord_source": "auto:osm:node/8851614869",
+          "is_station": false
+        },
+        {
+          "name": "Kot Pindi Das",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sarai Feroz Wala (EMKO Stop)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mandiali",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mominpura",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Javed Nagar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Millat Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Gulfishan Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kot Abdul Malik",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Baddo Pulli",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Begum Kot",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Yousaf Park",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "25 No. Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jia Musa",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shahdarah",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shahdarah Metro St.",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Sheikhupura route",
+          "url": "https://www.safar.fyi/sheikhupura/transit-lines/etransit-sheikhupura%3Aetransit-70-435"
+        }
+      ],
+      "notes": "11 buses; E-bus depot (Govt College)-Shahdara Metro Station and depot-Khanqah Dogran. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Bus Depot, Govt College to Shahdarah Metro St.', 38 stops); safar lists service 6:00 AM - 9:45 PM (unverified)."
+    },
+    {
+      "id": "e-bus-depot-to-khanqah-dogran",
+      "name": "E-Bus Depot to Khanqah Dogran",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-31",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Bus Depot, Govt College",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nabi Pura, Sheikhupura",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Children Hospital, Sheikhupura",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Punjab College, Sheikhupura",
+          "name_ur": "",
+          "lat": 31.72198,
+          "lon": 73.940444,
+          "coord_source": "auto:osm:node/4910709731",
+          "is_station": false
+        },
+        {
+          "name": "Ghazi Minara",
+          "name_ur": "",
+          "lat": 31.725214,
+          "lon": 73.93301,
+          "coord_source": "auto:osm:node/2421543675",
+          "is_station": false
+        },
+        {
+          "name": "Bypass Chowk, Sheikhupura",
+          "name_ur": "",
+          "lat": 31.724818,
+          "lon": 73.927442,
+          "coord_source": "auto:osm:way/845832469",
+          "is_station": false
+        },
+        {
+          "name": "Bohlianwala",
+          "name_ur": "",
+          "lat": 31.727131,
+          "lon": 73.917855,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Machikay",
+          "name_ur": "",
+          "lat": 31.729444,
+          "lon": 73.908267,
+          "coord_source": "auto:osm:node/9331240406",
+          "is_station": false
+        },
+        {
+          "name": "PSO Pump, Sheikhupura",
+          "name_ur": "",
+          "lat": 31.733083,
+          "lon": 73.904028,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rakh Machikay",
+          "name_ur": "",
+          "lat": 31.736722,
+          "lon": 73.899789,
+          "coord_source": "auto:osm:node/9331240408",
+          "is_station": false
+        },
+        {
+          "name": "Dhantpura",
+          "name_ur": "",
+          "lat": 31.735835,
+          "lon": 73.888609,
+          "coord_source": "auto:osm:node/9331240412",
+          "is_station": false
+        },
+        {
+          "name": "Jhaamkay",
+          "name_ur": "",
+          "lat": 31.737134,
+          "lon": 73.880769,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Farooqabad Bypass",
+          "name_ur": "",
+          "lat": 31.738432,
+          "lon": 73.872929,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chunggi No. 03",
+          "name_ur": "",
+          "lat": 31.739731,
+          "lon": 73.865088,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Guru Nanak Stop",
+          "name_ur": "",
+          "lat": 31.74103,
+          "lon": 73.857248,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "PC Stop",
+          "name_ur": "",
+          "lat": 31.742328,
+          "lon": 73.849408,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Farooqabad Stop",
+          "name_ur": "",
+          "lat": 31.743627,
+          "lon": 73.841568,
+          "coord_source": "auto:osm:way/902641309",
+          "is_station": false
+        },
+        {
+          "name": "Sucha Sauda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chauki Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kot Sandha Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dera Mallah Singh",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chota Sarkari",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Rodawali Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Rasool Nagar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Barha Sarkari",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sheroke Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Salar Sayyedan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Salar Bhattian",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Khanqah Dogaran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Sheikhupura route",
+          "url": "https://www.safar.fyi/sheikhupura/transit-lines/etransit-sheikhupura%3Aetransit-70-436"
+        }
+      ],
+      "notes": "11 buses; E-bus depot (Govt College)-Shahdara Metro Station and depot-Khanqah Dogran. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Bus Depot, Govt College to Khanqah Dogaran', 29 stops); safar lists service 6:00 AM - 9:45 PM (unverified)."
+    }
+  ]
+}

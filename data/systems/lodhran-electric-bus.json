@@ -1,0 +1,628 @@
+{
+  "id": "lodhran-electric-bus",
+  "city": "lodhran",
+  "name": "Green Electric Bus Lodhran",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Lodhran Green Electric Bus routes",
+      "url": "https://www.safar.fyi/lodhran/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "shahida-islam-hospital-to-duniyapur",
+      "name": "Shahida Islam Hospital to Duniyapur",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-31",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Shahida Islam Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "New GBS, Lodhran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "DHQ Lodhran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Govt College, Lodhran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Katchery Chowk, Lodhran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Millad Chowk, Lodhran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jalalpur Morr",
+          "name_ur": "",
+          "lat": 29.591426,
+          "lon": 71.613492,
+          "coord_source": "auto:osm:node/6209453685",
+          "is_station": false
+        },
+        {
+          "name": "Family Hospital",
+          "name_ur": "",
+          "lat": 29.592193,
+          "lon": 71.620074,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Model Bazar Lodhran",
+          "name_ur": "",
+          "lat": 29.592959,
+          "lon": 71.626657,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "GBS Lodhran",
+          "name_ur": "",
+          "lat": 29.593726,
+          "lon": 71.63324,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Post Office Lodhran",
+          "name_ur": "",
+          "lat": 29.594493,
+          "lon": 71.639822,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "National Hospital",
+          "name_ur": "",
+          "lat": 29.595259,
+          "lon": 71.646404,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kahror Pakka Chowk",
+          "name_ur": "",
+          "lat": 29.596026,
+          "lon": 71.652987,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Khanewal Bypass",
+          "name_ur": "",
+          "lat": 29.596792,
+          "lon": 71.65957,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bhatti Hotel",
+          "name_ur": "",
+          "lat": 29.597559,
+          "lon": 71.666152,
+          "coord_source": "auto:osm:node/6446665232",
+          "is_station": false
+        },
+        {
+          "name": "Adda Nizamabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pull Gupal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Rukan Pur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dera Gujraan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Basant Pura Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "29 Chak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jinnah Colony",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak 35 M",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pull Bazaari",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "26 Chak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "25 Chak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pull Mehmood",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mewati Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kahror Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dhakota Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kazmi Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Station Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Katchery Chowk Duniyapur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Duniyapur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Lodhran route",
+          "url": "https://www.safar.fyi/lodhran/transit-lines/etransit-lodhran%3A351"
+        }
+      ],
+      "notes": "11 buses; Shahida Islam Hospital-Kahror Pakka and Shahida Islam Hospital-Dunyapur. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Shahida Islam Hospital to Duniyapur', 34 stops); safar lists service 6:00 AM - 8:10 PM (unverified)."
+    },
+    {
+      "id": "shahida-islam-hospital-to-kahror-pakka",
+      "name": "Shahida Islam Hospital to Kahror Pakka",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-31",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Shahida Islam Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "New GBS, Lodhran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "DHQ Lodhran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Govt College, Lodhran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Katchery Chowk, Lodhran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Millad Chowk, Lodhran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jalalpur Morr",
+          "name_ur": "",
+          "lat": 29.591426,
+          "lon": 71.613492,
+          "coord_source": "auto:osm:node/6209453685",
+          "is_station": false
+        },
+        {
+          "name": "Family Hospital",
+          "name_ur": "",
+          "lat": 29.575904,
+          "lon": 71.618169,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Model Bazar Lodhran",
+          "name_ur": "",
+          "lat": 29.560382,
+          "lon": 71.622845,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "GBS Lodhran",
+          "name_ur": "",
+          "lat": 29.544861,
+          "lon": 71.627522,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Post Office Lodhran",
+          "name_ur": "",
+          "lat": 29.529339,
+          "lon": 71.632199,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "National Hospital",
+          "name_ur": "",
+          "lat": 29.513817,
+          "lon": 71.636875,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kahror Pakka Chowk",
+          "name_ur": "",
+          "lat": 29.498295,
+          "lon": 71.641552,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Basti Adda Daftar",
+          "name_ur": "",
+          "lat": 29.482774,
+          "lon": 71.646229,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Adda Mujaldi Wala",
+          "name_ur": "",
+          "lat": 29.467252,
+          "lon": 71.650905,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shah Da Dera",
+          "name_ur": "",
+          "lat": 29.45173,
+          "lon": 71.655582,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hafzabad",
+          "name_ur": "",
+          "lat": 29.436208,
+          "lon": 71.660259,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Saeed Chowk Dhannote",
+          "name_ur": "",
+          "lat": 29.420687,
+          "lon": 71.664935,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Govt. High School Dhanote",
+          "name_ur": "",
+          "lat": 29.405165,
+          "lon": 71.669612,
+          "coord_source": "auto:osm:way/182208487",
+          "is_station": false
+        },
+        {
+          "name": "Dolat Shah Dhanote",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nalay wala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Basti Lailpur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Peer Jevan Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Rang Wala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Peer Jevan Darbar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Naranjan Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pull 60 Hazari",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Wapda Grid Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bakhsu Wala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Railway Station Chowk Kahror Pakka",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Govt. MC Social High School-Boys",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Rescue 1122 Kahror Pakka",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mailsi Chowk Kahror Pakka",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Lodhran route",
+          "url": "https://www.safar.fyi/lodhran/transit-lines/etransit-lodhran%3A350"
+        }
+      ],
+      "notes": "11 buses; Shahida Islam Hospital-Kahror Pakka and Shahida Islam Hospital-Dunyapur. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Shahida Islam Hospital to Mailsi Chowk Kahror Pakka', 33 stops); safar lists service 6:00 AM - 8:20 PM (unverified)."
+    }
+  ]
+}

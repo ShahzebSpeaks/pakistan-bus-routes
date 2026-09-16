@@ -1,0 +1,4651 @@
+{
+  "id": "multan-feeder",
+  "city": "multan",
+  "name": "Multan Metrobus Feeder Routes",
+  "name_ur": "ملتان فیڈر بس",
+  "operator": "Punjab Masstransit Authority (PMA) Multan",
+  "mode": "feeder",
+  "website": "https://pma.punjab.gov.pk/multan-feeder-routes-phase-1",
+  "helpline": "061-111-222-627",
+  "payment": "Cash / Metrobus card",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "PMA fare policy (Metrobus card): Rs 20 single journey; Rs 25 for two journeys and Rs 30 for three (Rs 5 per integrated transfer). safar.fyi shows Rs 25. Effect of the Mar-2026 BRT fare increase on feeders unverified.",
+    "as_of": null,
+    "source_url": "https://pma.punjab.gov.pk/fare-policy"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "Varies by route; safar.fyi lists most routes starting 05:00-06:30 and ending 21:00-22:00."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Fare Policy",
+      "url": "https://pma.punjab.gov.pk/fare-policy",
+      "publisher": "Punjab Masstransit Authority",
+      "date": null,
+      "official": true
+    },
+    {
+      "title": "Integrated Public Transport Network Multan - Summary of Routes (planning document)",
+      "url": "https://pma.punjab.gov.pk/system/files/Multan%20-%20Public%20Transport%20Routes.pdf",
+      "publisher": "Punjab Masstransit Authority",
+      "date": null,
+      "official": true
+    },
+    {
+      "title": "All Multan Metrobus & Feeder Routes",
+      "url": "https://www.safar.fyi/multan/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "MFR01",
+      "name": "Dera Adda to Dehhr Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": 30.188949,
+          "lon": 71.451237,
+          "coord_source": "osm:node/1921952798",
+          "is_station": false
+        },
+        {
+          "name": "Nawa Shehar",
+          "name_ur": "",
+          "lat": 30.191188,
+          "lon": 71.462055,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Vocational Training School",
+          "name_ur": "",
+          "lat": 30.193427,
+          "lon": 71.472874,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Children Complex",
+          "name_ur": "",
+          "lat": 30.195666,
+          "lon": 71.483692,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Indus Tower",
+          "name_ur": "",
+          "lat": 30.197904,
+          "lon": 71.49451,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ghanta Ghar",
+          "name_ur": "",
+          "lat": 30.200143,
+          "lon": 71.505329,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Madni Chowk",
+          "name_ur": "",
+          "lat": 30.202382,
+          "lon": 71.516147,
+          "coord_source": "osm:node/1921953878",
+          "is_station": false
+        },
+        {
+          "name": "Ahmad Center",
+          "name_ur": "",
+          "lat": 30.205369,
+          "lon": 71.493848,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No 9 (LMQ Road)",
+          "name_ur": "",
+          "lat": 30.208356,
+          "lon": 71.471549,
+          "coord_source": "auto:osm:node/4595570001",
+          "is_station": false
+        },
+        {
+          "name": "Eid gah",
+          "name_ur": "",
+          "lat": 30.210794,
+          "lon": 71.478939,
+          "coord_source": "auto:osm:node/444356918",
+          "is_station": false
+        },
+        {
+          "name": "Science School",
+          "name_ur": "",
+          "lat": 30.2103,
+          "lon": 71.484014,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rasheed Abad",
+          "name_ur": "",
+          "lat": 30.209806,
+          "lon": 71.489089,
+          "coord_source": "auto:osm:node/1921952575",
+          "is_station": false
+        },
+        {
+          "name": "Khushhal Colony",
+          "name_ur": "",
+          "lat": 30.209119,
+          "lon": 71.49529,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "MEPCO",
+          "name_ur": "",
+          "lat": 30.208433,
+          "lon": 71.501491,
+          "coord_source": "auto:osm:way/182024744",
+          "is_station": false
+        },
+        {
+          "name": "City Admire college",
+          "name_ur": "",
+          "lat": 30.209216,
+          "lon": 71.507864,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kumharanwala Chowk",
+          "name_ur": "",
+          "lat": 30.209999,
+          "lon": 71.514237,
+          "coord_source": "auto:osm:node/1921952554",
+          "is_station": false
+        },
+        {
+          "name": "Manzoor Colony",
+          "name_ur": "",
+          "lat": 30.207583,
+          "lon": 71.515841,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hassan Abad Gate # 1",
+          "name_ur": "",
+          "lat": 30.205168,
+          "lon": 71.517446,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hassan Abad Gate # 2",
+          "name_ur": "",
+          "lat": 30.202753,
+          "lon": 71.519051,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Usman Ghani Chowk",
+          "name_ur": "",
+          "lat": 30.200337,
+          "lon": 71.520655,
+          "coord_source": "auto:osm:way/252436072",
+          "is_station": false
+        },
+        {
+          "name": "Khad factory",
+          "name_ur": "",
+          "lat": 30.208565,
+          "lon": 71.529462,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Basti Khaliq Pura",
+          "name_ur": "",
+          "lat": 30.216794,
+          "lon": 71.53827,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Edify high school",
+          "name_ur": "",
+          "lat": 30.225023,
+          "lon": 71.547077,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Farrukh Town",
+          "name_ur": "",
+          "lat": 30.233251,
+          "lon": 71.555884,
+          "coord_source": "auto:osm:node/4755921477",
+          "is_station": false
+        },
+        {
+          "name": "Fareed Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mohallah Qadirabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "New Katchery",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dehhr Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A38"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Dera Adda to Dehhr Chowk'); safar lists 29 stops, fare Rs. 25, service 5:00 AM - 10:00 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence)."
+    },
+    {
+      "id": "MFR01B",
+      "name": "Dera Adda to E-Khidmat Center via Women University",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": 30.188949,
+          "lon": 71.451237,
+          "coord_source": "osm:node/1921952798",
+          "is_station": false
+        },
+        {
+          "name": "Nawa Shehar",
+          "name_ur": "",
+          "lat": 30.191188,
+          "lon": 71.462055,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Vocational Training School",
+          "name_ur": "",
+          "lat": 30.193427,
+          "lon": 71.472874,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Children Complex",
+          "name_ur": "",
+          "lat": 30.195666,
+          "lon": 71.483692,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Indus Tower",
+          "name_ur": "",
+          "lat": 30.197904,
+          "lon": 71.49451,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ghanta Ghar",
+          "name_ur": "",
+          "lat": 30.200143,
+          "lon": 71.505329,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Madni Chowk",
+          "name_ur": "",
+          "lat": 30.202382,
+          "lon": 71.516147,
+          "coord_source": "osm:node/1921953878",
+          "is_station": false
+        },
+        {
+          "name": "Ahmad Center",
+          "name_ur": "",
+          "lat": 30.205369,
+          "lon": 71.493848,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No 9 (LMQ Road)",
+          "name_ur": "",
+          "lat": 30.208356,
+          "lon": 71.471549,
+          "coord_source": "auto:osm:node/4595570001",
+          "is_station": false
+        },
+        {
+          "name": "Eid gah",
+          "name_ur": "",
+          "lat": 30.210794,
+          "lon": 71.478939,
+          "coord_source": "auto:osm:node/444356918",
+          "is_station": false
+        },
+        {
+          "name": "Science School",
+          "name_ur": "",
+          "lat": 30.2103,
+          "lon": 71.484014,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rasheed Abad",
+          "name_ur": "",
+          "lat": 30.209806,
+          "lon": 71.489089,
+          "coord_source": "auto:osm:node/1921952575",
+          "is_station": false
+        },
+        {
+          "name": "Khushhal Colony",
+          "name_ur": "",
+          "lat": 30.209119,
+          "lon": 71.49529,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "MEPCO",
+          "name_ur": "",
+          "lat": 30.208433,
+          "lon": 71.501491,
+          "coord_source": "auto:osm:way/182024744",
+          "is_station": false
+        },
+        {
+          "name": "City Admire college",
+          "name_ur": "",
+          "lat": 30.209216,
+          "lon": 71.507864,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kumharanwala Chowk",
+          "name_ur": "",
+          "lat": 30.209999,
+          "lon": 71.514237,
+          "coord_source": "auto:osm:node/1921952554",
+          "is_station": false
+        },
+        {
+          "name": "Manzoor Colony",
+          "name_ur": "",
+          "lat": 30.207583,
+          "lon": 71.515841,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hassan Abad Gate # 1",
+          "name_ur": "",
+          "lat": 30.205168,
+          "lon": 71.517446,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hassan Abad Gate # 2",
+          "name_ur": "",
+          "lat": 30.202753,
+          "lon": 71.519051,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Usman Ghani Chowk",
+          "name_ur": "",
+          "lat": 30.200337,
+          "lon": 71.520655,
+          "coord_source": "auto:osm:way/252436072",
+          "is_station": false
+        },
+        {
+          "name": "Khad factory",
+          "name_ur": "",
+          "lat": 30.208565,
+          "lon": 71.529462,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Basti Khaliq Pura",
+          "name_ur": "",
+          "lat": 30.216794,
+          "lon": 71.53827,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Edify high school",
+          "name_ur": "",
+          "lat": 30.225023,
+          "lon": 71.547077,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Farrukh Town",
+          "name_ur": "",
+          "lat": 30.233251,
+          "lon": 71.555884,
+          "coord_source": "auto:osm:node/4755921477",
+          "is_station": false
+        },
+        {
+          "name": "Fareed Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mohallah Qadirabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "New Katchery",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dehhr Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bakhtawar Ameen Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Five Marla Scheme",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Women University Mattital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "E-Khidmat Center",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A39"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Dera Adda to E-Khidmat Center'); safar lists 33 stops, fare Rs. 25, service 6:00 AM - 5:15 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence)."
+    },
+    {
+      "id": "MFR01C",
+      "name": "Dera Adda to E-Khidmat Center via Dehhr Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": 30.188949,
+          "lon": 71.451237,
+          "coord_source": "osm:node/1921952798",
+          "is_station": false
+        },
+        {
+          "name": "Nawa Shehar",
+          "name_ur": "",
+          "lat": 30.191188,
+          "lon": 71.462055,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Vocational Training School",
+          "name_ur": "",
+          "lat": 30.193427,
+          "lon": 71.472874,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Children Complex",
+          "name_ur": "",
+          "lat": 30.195666,
+          "lon": 71.483692,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Indus Tower",
+          "name_ur": "",
+          "lat": 30.197904,
+          "lon": 71.49451,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ghanta Ghar",
+          "name_ur": "",
+          "lat": 30.200143,
+          "lon": 71.505329,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Madni Chowk",
+          "name_ur": "",
+          "lat": 30.202382,
+          "lon": 71.516147,
+          "coord_source": "osm:node/1921953878",
+          "is_station": false
+        },
+        {
+          "name": "Ahmad Center",
+          "name_ur": "",
+          "lat": 30.205369,
+          "lon": 71.493848,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No 9 (LMQ Road)",
+          "name_ur": "",
+          "lat": 30.208356,
+          "lon": 71.471549,
+          "coord_source": "auto:osm:node/4595570001",
+          "is_station": false
+        },
+        {
+          "name": "Eid gah",
+          "name_ur": "",
+          "lat": 30.210794,
+          "lon": 71.478939,
+          "coord_source": "auto:osm:node/444356918",
+          "is_station": false
+        },
+        {
+          "name": "Science School",
+          "name_ur": "",
+          "lat": 30.2103,
+          "lon": 71.484014,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rasheed Abad",
+          "name_ur": "",
+          "lat": 30.209806,
+          "lon": 71.489089,
+          "coord_source": "auto:osm:node/1921952575",
+          "is_station": false
+        },
+        {
+          "name": "Khushhal Colony",
+          "name_ur": "",
+          "lat": 30.209119,
+          "lon": 71.49529,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "MEPCO",
+          "name_ur": "",
+          "lat": 30.208433,
+          "lon": 71.501491,
+          "coord_source": "auto:osm:way/182024744",
+          "is_station": false
+        },
+        {
+          "name": "City Admire college",
+          "name_ur": "",
+          "lat": 30.209216,
+          "lon": 71.507864,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kumharanwala Chowk",
+          "name_ur": "",
+          "lat": 30.209999,
+          "lon": 71.514237,
+          "coord_source": "auto:osm:node/1921952554",
+          "is_station": false
+        },
+        {
+          "name": "Manzoor Colony",
+          "name_ur": "",
+          "lat": 30.207583,
+          "lon": 71.515841,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hassan Abad Gate # 1",
+          "name_ur": "",
+          "lat": 30.205168,
+          "lon": 71.517446,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hassan Abad Gate # 2",
+          "name_ur": "",
+          "lat": 30.202753,
+          "lon": 71.519051,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Usman Ghani Chowk",
+          "name_ur": "",
+          "lat": 30.200337,
+          "lon": 71.520655,
+          "coord_source": "auto:osm:way/252436072",
+          "is_station": false
+        },
+        {
+          "name": "Khad factory",
+          "name_ur": "",
+          "lat": 30.208565,
+          "lon": 71.529462,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Basti Khaliq Pura",
+          "name_ur": "",
+          "lat": 30.216794,
+          "lon": 71.53827,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Edify high school",
+          "name_ur": "",
+          "lat": 30.225023,
+          "lon": 71.547077,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Farrukh Town",
+          "name_ur": "",
+          "lat": 30.233251,
+          "lon": 71.555884,
+          "coord_source": "auto:osm:node/4755921477",
+          "is_station": false
+        },
+        {
+          "name": "Fareed Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mohallah Qadirabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "New Katchery",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dehhr Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "E-Khidmat Center",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A40"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Dera Adda to E-Khidmat Center'); safar lists 30 stops, fare Rs. 25, service 8:30 AM - 1:00 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence)."
+    },
+    {
+      "id": "MFR02",
+      "name": "Qasim Fort to Suraj Miani",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Qasim Fort",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ghanta Ghar",
+          "name_ur": "",
+          "lat": 30.198412,
+          "lon": 71.468719,
+          "coord_source": "auto:osm:way/42941717",
+          "is_station": false
+        },
+        {
+          "name": "Center Orchard",
+          "name_ur": "",
+          "lat": 30.201371,
+          "lon": 71.463925,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Katchery Chowk",
+          "name_ur": "",
+          "lat": 30.20433,
+          "lon": 71.459132,
+          "coord_source": "auto:osm:way/1174102624",
+          "is_station": false
+        },
+        {
+          "name": "State Bank",
+          "name_ur": "",
+          "lat": 30.202167,
+          "lon": 71.454263,
+          "coord_source": "auto:osm:node/1921954044",
+          "is_station": false
+        },
+        {
+          "name": "Nishter Hospital",
+          "name_ur": "",
+          "lat": 30.202422,
+          "lon": 71.444671,
+          "coord_source": "auto:osm:way/182024760",
+          "is_station": false
+        },
+        {
+          "name": "Nishter Chowk",
+          "name_ur": "",
+          "lat": 30.202376,
+          "lon": 71.442978,
+          "coord_source": "auto:osm:way/901143192",
+          "is_station": false
+        },
+        {
+          "name": "District Jail",
+          "name_ur": "",
+          "lat": 30.206236,
+          "lon": 71.439277,
+          "coord_source": "auto:osm:way/73898354",
+          "is_station": false
+        },
+        {
+          "name": "Dental College",
+          "name_ur": "",
+          "lat": 30.206308,
+          "lon": 71.44289,
+          "coord_source": "auto:osm:node/1921952764",
+          "is_station": false
+        },
+        {
+          "name": "Pepsi Factory",
+          "name_ur": "",
+          "lat": 30.207949,
+          "lon": 71.446409,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "MDA Chowk",
+          "name_ur": "",
+          "lat": 30.209591,
+          "lon": 71.449928,
+          "coord_source": "osm:node/1921953844",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah Town",
+          "name_ur": "",
+          "lat": 30.210677,
+          "lon": 71.443899,
+          "coord_source": "auto:osm:node/8365864118",
+          "is_station": false
+        },
+        {
+          "name": "Razabad Chowk",
+          "name_ur": "",
+          "lat": 30.213343,
+          "lon": 71.439927,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pepsi Factory",
+          "name_ur": "",
+          "lat": 30.216009,
+          "lon": 71.435954,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Muhammadi Bazar",
+          "name_ur": "",
+          "lat": 30.218674,
+          "lon": 71.431982,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Aray Wala Chowk / Usmania Bazar",
+          "name_ur": "",
+          "lat": 30.22134,
+          "lon": 71.428009,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Afzal City",
+          "name_ur": "",
+          "lat": 30.224006,
+          "lon": 71.424037,
+          "coord_source": "auto:osm:node/4762406380",
+          "is_station": false
+        },
+        {
+          "name": "Purani Pull",
+          "name_ur": "",
+          "lat": 30.22226,
+          "lon": 71.427772,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Suraj Miani",
+          "name_ur": "",
+          "lat": 30.220515,
+          "lon": 71.431506,
+          "coord_source": "auto:osm:node/1921954336",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A41"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Qasim Fort to Suraj Miani'); safar lists 20 stops, fare Rs. 25, service 5:45 AM - 9:05 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence). 'Pepsi Factory' appears twice in safar's list (non-consecutive), kept as published."
+    },
+    {
+      "id": "MFR03",
+      "name": "Ghanta Ghar to Ibn-e-Sina Hospital",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Ghanta Ghar",
+          "name_ur": "",
+          "lat": 30.198412,
+          "lon": 71.468719,
+          "coord_source": "auto:osm:way/42941717",
+          "is_station": false
+        },
+        {
+          "name": "Qasim Fort",
+          "name_ur": "",
+          "lat": 30.198416,
+          "lon": 71.475333,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ali Chowk",
+          "name_ur": "",
+          "lat": 30.198419,
+          "lon": 71.481947,
+          "coord_source": "auto:osm:node/307676760",
+          "is_station": false
+        },
+        {
+          "name": "Willayet Hussain Chowk",
+          "name_ur": "",
+          "lat": 30.199875,
+          "lon": 71.48095,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Silver ka Karkhana",
+          "name_ur": "",
+          "lat": 30.201331,
+          "lon": 71.479953,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jan Muhammad Chowk",
+          "name_ur": "",
+          "lat": 30.202788,
+          "lon": 71.478955,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gulistan Chowk",
+          "name_ur": "",
+          "lat": 30.204244,
+          "lon": 71.477958,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bismillah Chowk",
+          "name_ur": "",
+          "lat": 30.2057,
+          "lon": 71.476961,
+          "coord_source": "auto:osm:way/441351848",
+          "is_station": false
+        },
+        {
+          "name": "Rahim Chowk",
+          "name_ur": "",
+          "lat": 30.207133,
+          "lon": 71.489386,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shah Rukhne Alam Town",
+          "name_ur": "",
+          "lat": 30.208566,
+          "lon": 71.501812,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kumharanwala Chowk",
+          "name_ur": "",
+          "lat": 30.209999,
+          "lon": 71.514237,
+          "coord_source": "auto:osm:node/1921952554",
+          "is_station": false
+        },
+        {
+          "name": "Manzoor Colony",
+          "name_ur": "",
+          "lat": 30.207583,
+          "lon": 71.515841,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hassan Abad Gate # 1",
+          "name_ur": "",
+          "lat": 30.205168,
+          "lon": 71.517446,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hassan Abad Gate # 2",
+          "name_ur": "",
+          "lat": 30.202753,
+          "lon": 71.519051,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Usman Ghani Chowk",
+          "name_ur": "",
+          "lat": 30.200337,
+          "lon": 71.520655,
+          "coord_source": "auto:osm:way/252436072",
+          "is_station": false
+        },
+        {
+          "name": "Khad factory",
+          "name_ur": "",
+          "lat": 30.211308,
+          "lon": 71.532398,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mukhtiar A Sheikh Hospital",
+          "name_ur": "",
+          "lat": 30.22228,
+          "lon": 71.544141,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Farrukh Town",
+          "name_ur": "",
+          "lat": 30.233251,
+          "lon": 71.555884,
+          "coord_source": "auto:osm:node/4755921477",
+          "is_station": false
+        },
+        {
+          "name": "Bukhari Material",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Raja Pur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "NLC Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ibn-e-Sina Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A42"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Ghanta Ghar to Ibn-e-Sina Hospital'); safar lists 22 stops, fare Rs. 25, service 6:30 AM - 9:30 PM (unverified)."
+    },
+    {
+      "id": "MFR03B",
+      "name": "Ghanta Ghar to Qadir Pur Raan",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Ghanta Ghar",
+          "name_ur": "",
+          "lat": 30.198412,
+          "lon": 71.468719,
+          "coord_source": "auto:osm:way/42941717",
+          "is_station": false
+        },
+        {
+          "name": "Qasim Fort",
+          "name_ur": "",
+          "lat": 30.198416,
+          "lon": 71.475333,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ali Chowk",
+          "name_ur": "",
+          "lat": 30.198419,
+          "lon": 71.481947,
+          "coord_source": "auto:osm:node/307676760",
+          "is_station": false
+        },
+        {
+          "name": "Willayet Hussain Chowk",
+          "name_ur": "",
+          "lat": 30.199875,
+          "lon": 71.48095,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Silver ka Karkhana",
+          "name_ur": "",
+          "lat": 30.201331,
+          "lon": 71.479953,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jan Muhammad Chowk",
+          "name_ur": "",
+          "lat": 30.202788,
+          "lon": 71.478955,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gulistan Chowk",
+          "name_ur": "",
+          "lat": 30.204244,
+          "lon": 71.477958,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bismillah Chowk",
+          "name_ur": "",
+          "lat": 30.2057,
+          "lon": 71.476961,
+          "coord_source": "auto:osm:way/441351848",
+          "is_station": false
+        },
+        {
+          "name": "Rahim Chowk",
+          "name_ur": "",
+          "lat": 30.204934,
+          "lon": 71.483203,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shah Rukhne Alam Town",
+          "name_ur": "",
+          "lat": 30.204168,
+          "lon": 71.489445,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kumharan Wala Chowk",
+          "name_ur": "",
+          "lat": 30.203402,
+          "lon": 71.495687,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Manzoor Colony",
+          "name_ur": "",
+          "lat": 30.202635,
+          "lon": 71.501929,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hassan Abad Gate # 1",
+          "name_ur": "",
+          "lat": 30.201869,
+          "lon": 71.508171,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hassan Abad Gate # 2",
+          "name_ur": "",
+          "lat": 30.201103,
+          "lon": 71.514413,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Usman Ghani Chowk",
+          "name_ur": "",
+          "lat": 30.200337,
+          "lon": 71.520655,
+          "coord_source": "auto:osm:way/252436072",
+          "is_station": false
+        },
+        {
+          "name": "Khad factory",
+          "name_ur": "",
+          "lat": 30.211308,
+          "lon": 71.532398,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mukhtiar A Sheikh Hospital",
+          "name_ur": "",
+          "lat": 30.22228,
+          "lon": 71.544141,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Farrukh Town",
+          "name_ur": "",
+          "lat": 30.233251,
+          "lon": 71.555884,
+          "coord_source": "auto:osm:node/4755921477",
+          "is_station": false
+        },
+        {
+          "name": "Bukhari Material",
+          "name_ur": "",
+          "lat": 30.233466,
+          "lon": 71.553188,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Raja Pur",
+          "name_ur": "",
+          "lat": 30.233682,
+          "lon": 71.550492,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "NLC Bypass",
+          "name_ur": "",
+          "lat": 30.233897,
+          "lon": 71.547797,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sujan Pur",
+          "name_ur": "",
+          "lat": 30.234112,
+          "lon": 71.545101,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "The Multan Alma",
+          "name_ur": "",
+          "lat": 30.234328,
+          "lon": 71.542405,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sahu Chowk",
+          "name_ur": "",
+          "lat": 30.234543,
+          "lon": 71.539709,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bilal Pur",
+          "name_ur": "",
+          "lat": 30.234759,
+          "lon": 71.537013,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "China Town",
+          "name_ur": "",
+          "lat": 30.234974,
+          "lon": 71.534317,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bakhsh Waala",
+          "name_ur": "",
+          "lat": 30.235189,
+          "lon": 71.531622,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mill Sadiqabad",
+          "name_ur": "",
+          "lat": 30.235405,
+          "lon": 71.528926,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "WAPDA Chowk",
+          "name_ur": "",
+          "lat": 30.23562,
+          "lon": 71.52623,
+          "coord_source": "auto:osm:node/1925249428",
+          "is_station": false
+        },
+        {
+          "name": "Qadir Pur Rawan Bypass 2",
+          "name_ur": "",
+          "lat": 30.244031,
+          "lon": 71.525221,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Qadir Pur Rawan Bypass 1",
+          "name_ur": "",
+          "lat": 30.252442,
+          "lon": 71.524212,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Peeray Waala Morr",
+          "name_ur": "",
+          "lat": 30.260854,
+          "lon": 71.523204,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Fazal Cloth Mill",
+          "name_ur": "",
+          "lat": 30.269265,
+          "lon": 71.522195,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shakhe Madina Chowk",
+          "name_ur": "",
+          "lat": 30.277676,
+          "lon": 71.521186,
+          "coord_source": "auto:osm:way/1467388177",
+          "is_station": false
+        },
+        {
+          "name": "Masood Fabrics",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sajjad Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Qadir Pur Rawan 2",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Qadir Pur Rawan 1",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A43"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Ghanta Ghar to Qadir Pur Rawan 1'); safar lists 39 stops, fare Rs. 25, service 5:50 AM - 9:15 PM (unverified). Removed consecutive duplicate stop(s): Qadir Pur Rawan 1."
+    },
+    {
+      "id": "MFR04",
+      "name": "Vehari Chowk to Nag Shah",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Vehari Chowk",
+          "name_ur": "",
+          "lat": 30.173723,
+          "lon": 71.50879,
+          "coord_source": "auto:osm:way/28292761",
+          "is_station": false
+        },
+        {
+          "name": "Jamia Anwar-Ul-Islam",
+          "name_ur": "",
+          "lat": 30.169329,
+          "lon": 71.50475,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Head Nou Bahar",
+          "name_ur": "",
+          "lat": 30.164934,
+          "lon": 71.50071,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Canal Nou Bahar",
+          "name_ur": "",
+          "lat": 30.16054,
+          "lon": 71.49667,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Faiz Morr",
+          "name_ur": "",
+          "lat": 30.156146,
+          "lon": 71.49263,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bahawalpur Bypass",
+          "name_ur": "",
+          "lat": 30.151751,
+          "lon": 71.48859,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Basti Dera Muhammadi",
+          "name_ur": "",
+          "lat": 30.147357,
+          "lon": 71.48455,
+          "coord_source": "auto:osm:node/4936416293",
+          "is_station": false
+        },
+        {
+          "name": "Civil Hospital",
+          "name_ur": "",
+          "lat": 30.139765,
+          "lon": 71.475235,
+          "coord_source": "auto:osm:node/4319151471",
+          "is_station": false
+        },
+        {
+          "name": "Khawaja Pump",
+          "name_ur": "",
+          "lat": 30.150198,
+          "lon": 71.474571,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Basti Baghwala",
+          "name_ur": "",
+          "lat": 30.160631,
+          "lon": 71.473908,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Admore Pumpp",
+          "name_ur": "",
+          "lat": 30.171065,
+          "lon": 71.473244,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Askari Bypass",
+          "name_ur": "",
+          "lat": 30.181498,
+          "lon": 71.472581,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Wali Muhammad City",
+          "name_ur": "",
+          "lat": 30.191931,
+          "lon": 71.471917,
+          "coord_source": "auto:osm:node/8362709141",
+          "is_station": false
+        },
+        {
+          "name": "Nag Shah",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A44"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Vehari Chowk to Nag Shah'); safar lists 14 stops, fare Rs. 25, service 6:30 AM - 9:40 PM (unverified)."
+    },
+    {
+      "id": "MFR04B",
+      "name": "Nishter Hospital to Shujabad",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Nishter Hospital",
+          "name_ur": "",
+          "lat": 30.202422,
+          "lon": 71.444671,
+          "coord_source": "auto:osm:way/182024760",
+          "is_station": false
+        },
+        {
+          "name": "Nishtar Hospital",
+          "name_ur": "",
+          "lat": 30.202639,
+          "lon": 71.443491,
+          "coord_source": "auto:osm:node/1921954058",
+          "is_station": false
+        },
+        {
+          "name": "Arts Council",
+          "name_ur": "",
+          "lat": 30.203255,
+          "lon": 71.452609,
+          "coord_source": "auto:osm:node/4162045584",
+          "is_station": false
+        },
+        {
+          "name": "Income Tax office",
+          "name_ur": "",
+          "lat": 30.198905,
+          "lon": 71.454241,
+          "coord_source": "auto:osm:node/1921953605",
+          "is_station": false
+        },
+        {
+          "name": "Nawa Shehar",
+          "name_ur": "",
+          "lat": 30.193927,
+          "lon": 71.452739,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": 30.188949,
+          "lon": 71.451237,
+          "coord_source": "osm:node/1921952798",
+          "is_station": false
+        },
+        {
+          "name": "Sadu Sam Chowk",
+          "name_ur": "",
+          "lat": 30.185474,
+          "lon": 71.447951,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": 30.182,
+          "lon": 71.444664,
+          "coord_source": "auto:osm:node/4354708967",
+          "is_station": false
+        },
+        {
+          "name": "Aziz Hotel",
+          "name_ur": "",
+          "lat": 30.183327,
+          "lon": 71.441109,
+          "coord_source": "auto:osm:node/1921954651",
+          "is_station": false
+        },
+        {
+          "name": "Liaqat Abad",
+          "name_ur": "",
+          "lat": 30.1738,
+          "lon": 71.439328,
+          "coord_source": "auto:osm:node/1921953778",
+          "is_station": false
+        },
+        {
+          "name": "Educator/ HN science school",
+          "name_ur": "",
+          "lat": 30.169819,
+          "lon": 71.44038,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Farooq Pura",
+          "name_ur": "",
+          "lat": 30.165839,
+          "lon": 71.441431,
+          "coord_source": "osm:node/1921952890",
+          "is_station": false
+        },
+        {
+          "name": "Bilal Chowk",
+          "name_ur": "",
+          "lat": 30.171783,
+          "lon": 71.446838,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chungi no 21",
+          "name_ur": "",
+          "lat": 30.177727,
+          "lon": 71.452246,
+          "coord_source": "auto:nominatim:node/1921952557",
+          "is_station": false
+        },
+        {
+          "name": "Nawaz Sharif Agriculture University",
+          "name_ur": "",
+          "lat": 30.156767,
+          "lon": 71.445166,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Tawakal Town",
+          "name_ur": "",
+          "lat": 30.135807,
+          "lon": 71.438086,
+          "coord_source": "auto:osm:node/4319164608",
+          "is_station": false
+        },
+        {
+          "name": "Askari Bypass",
+          "name_ur": "",
+          "lat": 30.156129,
+          "lon": 71.447609,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Wagon Stand",
+          "name_ur": "",
+          "lat": 30.176451,
+          "lon": 71.457133,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Model Filling station",
+          "name_ur": "",
+          "lat": 30.196773,
+          "lon": 71.466656,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nag Shah",
+          "name_ur": "",
+          "lat": 30.217095,
+          "lon": 71.47618,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mahy Wala",
+          "name_ur": "",
+          "lat": 30.237417,
+          "lon": 71.485703,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Labor Morr",
+          "name_ur": "",
+          "lat": 30.257739,
+          "lon": 71.495227,
+          "coord_source": "auto:osm:way/27946344",
+          "is_station": false
+        },
+        {
+          "name": "Nishtar Hospital 2",
+          "name_ur": "",
+          "lat": 30.252691,
+          "lon": 71.492469,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pul Blail",
+          "name_ur": "",
+          "lat": 30.247644,
+          "lon": 71.489711,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Basti Khokhran",
+          "name_ur": "",
+          "lat": 30.242596,
+          "lon": 71.486953,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Basti Fareedabad",
+          "name_ur": "",
+          "lat": 30.237548,
+          "lon": 71.484196,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ghazi Wala",
+          "name_ur": "",
+          "lat": 30.232501,
+          "lon": 71.481438,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Agency Morr",
+          "name_ur": "",
+          "lat": 30.227453,
+          "lon": 71.47868,
+          "coord_source": "auto:osm:node/12558456455",
+          "is_station": false
+        },
+        {
+          "name": "Basti Dairapur",
+          "name_ur": "",
+          "lat": 30.224421,
+          "lon": 71.479163,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sikandar Abad",
+          "name_ur": "",
+          "lat": 30.221389,
+          "lon": 71.479645,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pul Guchar Wali",
+          "name_ur": "",
+          "lat": 30.218357,
+          "lon": 71.480127,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak RS 1",
+          "name_ur": "",
+          "lat": 30.215325,
+          "lon": 71.48061,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak RS 2",
+          "name_ur": "",
+          "lat": 30.212293,
+          "lon": 71.481092,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak RS Phatak",
+          "name_ur": "",
+          "lat": 30.209261,
+          "lon": 71.481575,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pul Syed Wali",
+          "name_ur": "",
+          "lat": 30.206229,
+          "lon": 71.482057,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hatti Siyal",
+          "name_ur": "",
+          "lat": 30.203197,
+          "lon": 71.48254,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Tehsil Complex",
+          "name_ur": "",
+          "lat": 30.200165,
+          "lon": 71.483022,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Govt. Degree College",
+          "name_ur": "",
+          "lat": 30.197133,
+          "lon": 71.483505,
+          "coord_source": "auto:nominatim:way/900328937",
+          "is_station": false
+        },
+        {
+          "name": "Kala Pull",
+          "name_ur": "",
+          "lat": 30.182173,
+          "lon": 71.462307,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Adda Shujaabad",
+          "name_ur": "",
+          "lat": 30.167212,
+          "lon": 71.441109,
+          "coord_source": "auto:osm:node/1921953084",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A45"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Nishter Hospital to Adda Shujaabad'); safar lists 40 stops, fare Rs. 25, service 5:00 AM - 9:40 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence). 'Nishter Hospital' and 'Nishtar Hospital' listed as first two stops (probably two stop points)."
+    },
+    {
+      "id": "MFR07B",
+      "name": "Vehari Chowk to 32 Pull",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Vehari Chowk",
+          "name_ur": "",
+          "lat": 30.173723,
+          "lon": 71.50879,
+          "coord_source": "auto:osm:way/28292761",
+          "is_station": false
+        },
+        {
+          "name": "Jamia Anwar-Ul-Islam",
+          "name_ur": "",
+          "lat": 30.18153,
+          "lon": 71.512146,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Head Nou Bahar",
+          "name_ur": "",
+          "lat": 30.189338,
+          "lon": 71.515502,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Basti Ehalpur",
+          "name_ur": "",
+          "lat": 30.197145,
+          "lon": 71.518858,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Govt. Elementary School",
+          "name_ur": "",
+          "lat": 30.204952,
+          "lon": 71.522214,
+          "coord_source": "auto:nominatim:way/1193203048",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah Garden",
+          "name_ur": "",
+          "lat": 30.208336,
+          "lon": 71.523754,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dunnya Pur Bypass 2",
+          "name_ur": "",
+          "lat": 30.21172,
+          "lon": 71.525293,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dunnya Pur Bypass 1",
+          "name_ur": "",
+          "lat": 30.215103,
+          "lon": 71.526833,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hafiz Waala",
+          "name_ur": "",
+          "lat": 30.218487,
+          "lon": 71.528373,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nirali Waala",
+          "name_ur": "",
+          "lat": 30.221871,
+          "lon": 71.529913,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bakhal Bher",
+          "name_ur": "",
+          "lat": 30.225255,
+          "lon": 71.531452,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jumma Waala",
+          "name_ur": "",
+          "lat": 30.228638,
+          "lon": 71.532992,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gulzar Pur 1",
+          "name_ur": "",
+          "lat": 30.232022,
+          "lon": 71.534532,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gulzar Pur 2",
+          "name_ur": "",
+          "lat": 30.235406,
+          "lon": 71.536071,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chawna Waala",
+          "name_ur": "",
+          "lat": 30.23879,
+          "lon": 71.537611,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shomi Waala",
+          "name_ur": "",
+          "lat": 30.242174,
+          "lon": 71.539151,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pul Maanga",
+          "name_ur": "",
+          "lat": 30.245557,
+          "lon": 71.540691,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sheray Waala",
+          "name_ur": "",
+          "lat": 30.248941,
+          "lon": 71.54223,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sukhera Chowk",
+          "name_ur": "",
+          "lat": 30.252325,
+          "lon": 71.54377,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Moti Waala",
+          "name_ur": "",
+          "lat": 30.255709,
+          "lon": 71.54531,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Wahla Morr",
+          "name_ur": "",
+          "lat": 30.259093,
+          "lon": 71.546849,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Islam Purr",
+          "name_ur": "",
+          "lat": 30.262476,
+          "lon": 71.548389,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Fareed Purr",
+          "name_ur": "",
+          "lat": 30.26586,
+          "lon": 71.549929,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Habib Nagar",
+          "name_ur": "",
+          "lat": 30.269244,
+          "lon": 71.551469,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gyaran MR",
+          "name_ur": "",
+          "lat": 30.272628,
+          "lon": 71.553008,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "18 Pul",
+          "name_ur": "",
+          "lat": 30.276011,
+          "lon": 71.554548,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Adda 12 School",
+          "name_ur": "",
+          "lat": 30.279395,
+          "lon": 71.556088,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gujjar Chowk",
+          "name_ur": "",
+          "lat": 30.282779,
+          "lon": 71.557627,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Haseena Chowk",
+          "name_ur": "",
+          "lat": 30.286163,
+          "lon": 71.559167,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "16 Pul",
+          "name_ur": "",
+          "lat": 30.289547,
+          "lon": 71.560707,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kachi Kothi",
+          "name_ur": "",
+          "lat": 30.29293,
+          "lon": 71.562247,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Babay Da Dera",
+          "name_ur": "",
+          "lat": 30.296314,
+          "lon": 71.563786,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "35 Morr",
+          "name_ur": "",
+          "lat": 30.299698,
+          "lon": 71.565326,
+          "coord_source": "auto:osm:way/1289081741",
+          "is_station": false
+        },
+        {
+          "name": "Raheema Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak 133 10 R",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "32 Pul",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A47"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Vehari Chowk 7B to 32 Pul'); safar lists 36 stops, fare Rs. 25, service 5:00 AM - 9:00 PM (unverified)."
+    },
+    {
+      "id": "MFR08B",
+      "name": "Vehari Chowk to Basti Malook",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Vehari Chowk",
+          "name_ur": "",
+          "lat": 30.173723,
+          "lon": 71.50879,
+          "coord_source": "auto:osm:way/28292761",
+          "is_station": false
+        },
+        {
+          "name": "Peoples colony",
+          "name_ur": "",
+          "lat": 30.174766,
+          "lon": 71.498423,
+          "coord_source": "auto:osm:node/1921954099",
+          "is_station": false
+        },
+        {
+          "name": "Bcg chowk",
+          "name_ur": "",
+          "lat": 30.17204,
+          "lon": 71.490934,
+          "coord_source": "auto:osm:node/1921952452",
+          "is_station": false
+        },
+        {
+          "name": "Qasimpur Colony",
+          "name_ur": "",
+          "lat": 30.166252,
+          "lon": 71.491063,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Govt. Girls College",
+          "name_ur": "",
+          "lat": 30.160464,
+          "lon": 71.491191,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Canal Nou Bahar",
+          "name_ur": "",
+          "lat": 30.154676,
+          "lon": 71.49132,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Madina Town (Multan)",
+          "name_ur": "",
+          "lat": 30.148888,
+          "lon": 71.491449,
+          "coord_source": "auto:osm:node/1921954021",
+          "is_station": false
+        },
+        {
+          "name": "Bahawalpur Chowk",
+          "name_ur": "",
+          "lat": 30.145343,
+          "lon": 71.492505,
+          "coord_source": "auto:osm:way/302577472",
+          "is_station": false
+        },
+        {
+          "name": "Bahawalpur Bypass",
+          "name_ur": "",
+          "lat": 30.14273,
+          "lon": 71.492877,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shama Ghee Mill",
+          "name_ur": "",
+          "lat": 30.140116,
+          "lon": 71.493248,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Basti Shorkot",
+          "name_ur": "",
+          "lat": 30.137503,
+          "lon": 71.49362,
+          "coord_source": "auto:osm:node/4936416294",
+          "is_station": false
+        },
+        {
+          "name": "Purani chungi # 14",
+          "name_ur": "",
+          "lat": 30.137062,
+          "lon": 71.493501,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mohalla WazirAbad",
+          "name_ur": "",
+          "lat": 30.136621,
+          "lon": 71.493382,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Volka Foods",
+          "name_ur": "",
+          "lat": 30.13618,
+          "lon": 71.493262,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sohailabad",
+          "name_ur": "",
+          "lat": 30.135739,
+          "lon": 71.493143,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Munirabad",
+          "name_ur": "",
+          "lat": 30.135298,
+          "lon": 71.493024,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shah Shamas Tabraiz Interchange",
+          "name_ur": "",
+          "lat": 30.134857,
+          "lon": 71.492905,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Araien Cotton Factory",
+          "name_ur": "",
+          "lat": 30.134415,
+          "lon": 71.492785,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Radio Station",
+          "name_ur": "",
+          "lat": 30.133974,
+          "lon": 71.492666,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Billi Wala",
+          "name_ur": "",
+          "lat": 30.133533,
+          "lon": 71.492547,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Darbar Pir Ismail Shah",
+          "name_ur": "",
+          "lat": 30.133092,
+          "lon": 71.492428,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gopal Pur",
+          "name_ur": "",
+          "lat": 30.132651,
+          "lon": 71.492309,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gardezi Mor",
+          "name_ur": "",
+          "lat": 30.13221,
+          "lon": 71.492189,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ilahabad",
+          "name_ur": "",
+          "lat": 30.131769,
+          "lon": 71.49207,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Wazirabad",
+          "name_ur": "",
+          "lat": 30.131328,
+          "lon": 71.491951,
+          "coord_source": "auto:osm:node/4936416292",
+          "is_station": false
+        },
+        {
+          "name": "Laeeq Rafiq Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sadiq Wali Pul",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "MEPCO Office/ Niazi Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Larr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pull Mattay Wala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Basti Aastana Haidri",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Raggar Pull",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak 5 Faiz",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Aara Pulli",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bakht Ali Wala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Baseera Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Adda Muhammad Pur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shaukat Shaheed Colony",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sadiq Wala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pull Dawwa",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Basti Malook",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A48"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Vehari Chowk 8B to Basti Malook'); safar lists 41 stops, fare Rs. 25, service 5:10 AM - 9:00 PM (unverified)."
+    },
+    {
+      "id": "MFR09",
+      "name": "Chungi no 9 to Nag Shah",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Chungi No 9",
+          "name_ur": "",
+          "lat": 30.208356,
+          "lon": 71.471549,
+          "coord_source": "auto:osm:node/4595570001",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No 8",
+          "name_ur": "",
+          "lat": 30.209441,
+          "lon": 71.465571,
+          "coord_source": "osm:node/1921952559",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No 7",
+          "name_ur": "",
+          "lat": 30.205804,
+          "lon": 71.459917,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "State Bank",
+          "name_ur": "",
+          "lat": 30.202167,
+          "lon": 71.454263,
+          "coord_source": "auto:osm:node/1921954044",
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk",
+          "name_ur": "",
+          "lat": 30.2010652,
+          "lon": 71.4543044,
+          "coord_source": "osm:node/4729230492",
+          "is_station": false
+        },
+        {
+          "name": "Azzeem Hospital",
+          "name_ur": "",
+          "lat": 30.198026,
+          "lon": 71.450068,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Cardiology Hospital",
+          "name_ur": "",
+          "lat": 30.194988,
+          "lon": 71.445832,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "SP Chowk",
+          "name_ur": "",
+          "lat": 30.191949,
+          "lon": 71.441596,
+          "coord_source": "auto:osm:node/534943715",
+          "is_station": false
+        },
+        {
+          "name": "Bomanji Square",
+          "name_ur": "",
+          "lat": 30.187638,
+          "lon": 71.441352,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Al-Aziz Hotel",
+          "name_ur": "",
+          "lat": 30.183327,
+          "lon": 71.441109,
+          "coord_source": "auto:osm:node/1921954651",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": 30.182,
+          "lon": 71.444664,
+          "coord_source": "auto:osm:node/4354708967",
+          "is_station": false
+        },
+        {
+          "name": "Liaquat Abad",
+          "name_ur": "",
+          "lat": 30.173919,
+          "lon": 71.443048,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Farooq Pura",
+          "name_ur": "",
+          "lat": 30.165839,
+          "lon": 71.441431,
+          "coord_source": "osm:node/1921952890",
+          "is_station": false
+        },
+        {
+          "name": "Bilal Chowk",
+          "name_ur": "",
+          "lat": 30.171783,
+          "lon": 71.446838,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chungi no 21",
+          "name_ur": "",
+          "lat": 30.177727,
+          "lon": 71.452246,
+          "coord_source": "auto:nominatim:node/1921952557",
+          "is_station": false
+        },
+        {
+          "name": "Nawaz Sharif Agriculture University",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Tawakkul Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Askari Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Wagon Stand",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Model Filling station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nag Shah",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A49"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Chungi No 9 to Nag Shah'); safar lists 22 stops, fare Rs. 25, service 7:40 PM - 9:50 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence). safar service span (7:40 PM-9:50 PM) looks like a data error."
+    },
+    {
+      "id": "MFR09B",
+      "name": "Chungi No 9 to Nadirabad Phatak",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Chungi No 9",
+          "name_ur": "",
+          "lat": 30.208356,
+          "lon": 71.471549,
+          "coord_source": "auto:osm:node/4595570001",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No 8",
+          "name_ur": "",
+          "lat": 30.209441,
+          "lon": 71.465571,
+          "coord_source": "osm:node/1921952559",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No 7",
+          "name_ur": "",
+          "lat": 30.205804,
+          "lon": 71.459917,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "State Bank",
+          "name_ur": "",
+          "lat": 30.202167,
+          "lon": 71.454263,
+          "coord_source": "auto:osm:node/1921954044",
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk",
+          "name_ur": "",
+          "lat": 30.2010652,
+          "lon": 71.4543044,
+          "coord_source": "osm:node/4729230492",
+          "is_station": false
+        },
+        {
+          "name": "Azzeem Hospital",
+          "name_ur": "",
+          "lat": 30.198026,
+          "lon": 71.450068,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Cardiology Hospital",
+          "name_ur": "",
+          "lat": 30.194988,
+          "lon": 71.445832,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "SP Chowk",
+          "name_ur": "",
+          "lat": 30.191949,
+          "lon": 71.441596,
+          "coord_source": "auto:osm:node/534943715",
+          "is_station": false
+        },
+        {
+          "name": "Bomanji Square",
+          "name_ur": "",
+          "lat": 30.187638,
+          "lon": 71.441352,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Al-Aziz Hotel",
+          "name_ur": "",
+          "lat": 30.183327,
+          "lon": 71.441109,
+          "coord_source": "auto:osm:node/1921954651",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": 30.182,
+          "lon": 71.444664,
+          "coord_source": "auto:osm:node/4354708967",
+          "is_station": false
+        },
+        {
+          "name": "Liaquat Abad",
+          "name_ur": "",
+          "lat": 30.176613,
+          "lon": 71.443586,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Educator/ HN science school",
+          "name_ur": "",
+          "lat": 30.171226,
+          "lon": 71.442509,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Farooq Pura",
+          "name_ur": "",
+          "lat": 30.165839,
+          "lon": 71.441431,
+          "coord_source": "osm:node/1921952890",
+          "is_station": false
+        },
+        {
+          "name": "Bilal Chowk",
+          "name_ur": "",
+          "lat": 30.171783,
+          "lon": 71.446838,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chungi no 21",
+          "name_ur": "",
+          "lat": 30.177727,
+          "lon": 71.452246,
+          "coord_source": "auto:nominatim:node/1921952557",
+          "is_station": false
+        },
+        {
+          "name": "Nawaz Sharif Agriculture University",
+          "name_ur": "",
+          "lat": 30.169507,
+          "lon": 71.44474,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Tawakkul Town",
+          "name_ur": "",
+          "lat": 30.161288,
+          "lon": 71.437234,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Askari Bypass",
+          "name_ur": "",
+          "lat": 30.153068,
+          "lon": 71.429727,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Wagon Stand",
+          "name_ur": "",
+          "lat": 30.144849,
+          "lon": 71.422221,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Model Filling station",
+          "name_ur": "",
+          "lat": 30.136629,
+          "lon": 71.414715,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nag Shah",
+          "name_ur": "",
+          "lat": 30.12841,
+          "lon": 71.407209,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Al Khidmat Hospital",
+          "name_ur": "",
+          "lat": 30.12019,
+          "lon": 71.399702,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hamid Pur Chowk",
+          "name_ur": "",
+          "lat": 30.111971,
+          "lon": 71.392196,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "China Chowk",
+          "name_ur": "",
+          "lat": 30.103751,
+          "lon": 71.38469,
+          "coord_source": "auto:osm:node/11936038472",
+          "is_station": false
+        },
+        {
+          "name": "Labour Complex",
+          "name_ur": "",
+          "lat": 30.121797,
+          "lon": 71.370059,
+          "coord_source": "auto:nominatim:way/1203330073",
+          "is_station": false
+        },
+        {
+          "name": "Ali Wala Mor",
+          "name_ur": "",
+          "lat": 30.088431,
+          "lon": 71.3652,
+          "coord_source": "auto:osm:node/4319174551",
+          "is_station": false
+        },
+        {
+          "name": "Ali Akbar Chowk",
+          "name_ur": "",
+          "lat": 30.105256,
+          "lon": 71.388102,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "C.C Godam",
+          "name_ur": "",
+          "lat": 30.122081,
+          "lon": 71.411005,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "AL Ghazi Tractor",
+          "name_ur": "",
+          "lat": 30.138905,
+          "lon": 71.433907,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Crystal Feeds",
+          "name_ur": "",
+          "lat": 30.15573,
+          "lon": 71.45681,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "PTCL",
+          "name_ur": "",
+          "lat": 30.172555,
+          "lon": 71.479712,
+          "coord_source": "auto:nominatim:node/1921954085",
+          "is_station": false
+        },
+        {
+          "name": "UBL",
+          "name_ur": "",
+          "lat": 30.16342,
+          "lon": 71.45621,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sui Gas Road",
+          "name_ur": "",
+          "lat": 30.154285,
+          "lon": 71.432709,
+          "coord_source": "auto:osm:way/432990293",
+          "is_station": false
+        },
+        {
+          "name": "Arrahma Hospital",
+          "name_ur": "",
+          "lat": 30.155828,
+          "lon": 71.416605,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nadirabad Phatak",
+          "name_ur": "",
+          "lat": 30.15737,
+          "lon": 71.4005,
+          "coord_source": "auto:osm:node/4934098521",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A50"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Chungi No 9 to Nadirabad Phatak'); safar lists 39 stops, fare Rs. 25, service 5:00 AM - 8:45 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence)."
+    },
+    {
+      "id": "MFR09C",
+      "name": "Chungi No 9 to Nadirabad Phatak via Ali Wala",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Chungi. No.9 Multan",
+          "name_ur": "",
+          "lat": 30.208356,
+          "lon": 71.471549,
+          "coord_source": "auto:osm:node/4595570001",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No 8",
+          "name_ur": "",
+          "lat": 30.209441,
+          "lon": 71.465571,
+          "coord_source": "osm:node/1921952559",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No 7",
+          "name_ur": "",
+          "lat": 30.206885,
+          "lon": 71.462351,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Katchery Chowk",
+          "name_ur": "",
+          "lat": 30.20433,
+          "lon": 71.459132,
+          "coord_source": "auto:osm:way/1174102624",
+          "is_station": false
+        },
+        {
+          "name": "State Bank",
+          "name_ur": "",
+          "lat": 30.202167,
+          "lon": 71.454263,
+          "coord_source": "auto:osm:node/1921954044",
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk",
+          "name_ur": "",
+          "lat": 30.2010652,
+          "lon": 71.4543044,
+          "coord_source": "osm:node/4729230492",
+          "is_station": false
+        },
+        {
+          "name": "Azzeem Hospital",
+          "name_ur": "",
+          "lat": 30.198026,
+          "lon": 71.450068,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Cardiology Hospital",
+          "name_ur": "",
+          "lat": 30.194988,
+          "lon": 71.445832,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "SP Chowk",
+          "name_ur": "",
+          "lat": 30.191949,
+          "lon": 71.441596,
+          "coord_source": "auto:osm:node/534943715",
+          "is_station": false
+        },
+        {
+          "name": "Bomanji Square",
+          "name_ur": "",
+          "lat": 30.187638,
+          "lon": 71.441352,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Al-Aziz Hotel",
+          "name_ur": "",
+          "lat": 30.183327,
+          "lon": 71.441109,
+          "coord_source": "auto:osm:node/1921954651",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": 30.182,
+          "lon": 71.444664,
+          "coord_source": "auto:osm:node/4354708967",
+          "is_station": false
+        },
+        {
+          "name": "Liaqat Abad",
+          "name_ur": "",
+          "lat": 30.1738,
+          "lon": 71.439328,
+          "coord_source": "auto:osm:node/1921953778",
+          "is_station": false
+        },
+        {
+          "name": "Educator/ HN science school",
+          "name_ur": "",
+          "lat": 30.169819,
+          "lon": 71.44038,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Farooq Pura",
+          "name_ur": "",
+          "lat": 30.165839,
+          "lon": 71.441431,
+          "coord_source": "osm:node/1921952890",
+          "is_station": false
+        },
+        {
+          "name": "Bilal Chowk",
+          "name_ur": "",
+          "lat": 30.171783,
+          "lon": 71.446838,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chungi no 21",
+          "name_ur": "",
+          "lat": 30.177727,
+          "lon": 71.452246,
+          "coord_source": "auto:nominatim:node/1921952557",
+          "is_station": false
+        },
+        {
+          "name": "Nawaz Sharif Agriculture University",
+          "name_ur": "",
+          "lat": 30.156767,
+          "lon": 71.445166,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Tawakal Town",
+          "name_ur": "",
+          "lat": 30.135807,
+          "lon": 71.438086,
+          "coord_source": "auto:osm:node/4319164608",
+          "is_station": false
+        },
+        {
+          "name": "Askari Bypass",
+          "name_ur": "",
+          "lat": 30.131228,
+          "lon": 71.430458,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Wagon Stand",
+          "name_ur": "",
+          "lat": 30.126648,
+          "lon": 71.42283,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Model Filling station",
+          "name_ur": "",
+          "lat": 30.122069,
+          "lon": 71.415202,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nag Shah",
+          "name_ur": "",
+          "lat": 30.117489,
+          "lon": 71.407574,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Al Khidmat Hospital",
+          "name_ur": "",
+          "lat": 30.11291,
+          "lon": 71.399946,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hamid Pur Chowk",
+          "name_ur": "",
+          "lat": 30.10833,
+          "lon": 71.392318,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "China Chowk",
+          "name_ur": "",
+          "lat": 30.103751,
+          "lon": 71.38469,
+          "coord_source": "auto:osm:node/11936038472",
+          "is_station": false
+        },
+        {
+          "name": "Agro Foods",
+          "name_ur": "",
+          "lat": 30.112774,
+          "lon": 71.377375,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Labour Complex",
+          "name_ur": "",
+          "lat": 30.121797,
+          "lon": 71.370059,
+          "coord_source": "auto:nominatim:way/1203330073",
+          "is_station": false
+        },
+        {
+          "name": "Ali Wala Mor",
+          "name_ur": "",
+          "lat": 30.088431,
+          "lon": 71.3652,
+          "coord_source": "auto:osm:node/4319174551",
+          "is_station": false
+        },
+        {
+          "name": "Ali Akbar Chowk",
+          "name_ur": "",
+          "lat": 30.105256,
+          "lon": 71.388102,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "C.C Godam",
+          "name_ur": "",
+          "lat": 30.122081,
+          "lon": 71.411005,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "AL Ghazi Tractor",
+          "name_ur": "",
+          "lat": 30.138905,
+          "lon": 71.433907,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Crystal Feeds",
+          "name_ur": "",
+          "lat": 30.15573,
+          "lon": 71.45681,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "PTCL",
+          "name_ur": "",
+          "lat": 30.172555,
+          "lon": 71.479712,
+          "coord_source": "auto:nominatim:node/1921954085",
+          "is_station": false
+        },
+        {
+          "name": "UBL",
+          "name_ur": "",
+          "lat": 30.16342,
+          "lon": 71.45621,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sui Gas Road",
+          "name_ur": "",
+          "lat": 30.154285,
+          "lon": 71.432709,
+          "coord_source": "auto:osm:way/432990293",
+          "is_station": false
+        },
+        {
+          "name": "Arrahma Hospital",
+          "name_ur": "",
+          "lat": 30.155828,
+          "lon": 71.416605,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nadirabad Phatak",
+          "name_ur": "",
+          "lat": 30.15737,
+          "lon": 71.4005,
+          "coord_source": "auto:osm:node/4934098521",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A51"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Chungi. No.9 Multan to Nadirabad Phatak'); safar lists 39 stops, fare Rs. 25, service 6:00 AM - 10:00 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence)."
+    },
+    {
+      "id": "MFR10",
+      "name": "Chungi no 9 to Nawabpur",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Chungi No 9",
+          "name_ur": "",
+          "lat": 30.208356,
+          "lon": 71.471549,
+          "coord_source": "auto:osm:node/4595570001",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No 8",
+          "name_ur": "",
+          "lat": 30.209441,
+          "lon": 71.465571,
+          "coord_source": "osm:node/1921952559",
+          "is_station": false
+        },
+        {
+          "name": "Pul Munday Wali",
+          "name_ur": "",
+          "lat": 30.210522,
+          "lon": 71.461406,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Muhalla Usmania",
+          "name_ur": "",
+          "lat": 30.211604,
+          "lon": 71.45724,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lodhi Colony",
+          "name_ur": "",
+          "lat": 30.212685,
+          "lon": 71.453075,
+          "coord_source": "auto:osm:way/900159846",
+          "is_station": false
+        },
+        {
+          "name": "Dewan Ka Bagh",
+          "name_ur": "",
+          "lat": 30.21325,
+          "lon": 71.453842,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No 5",
+          "name_ur": "",
+          "lat": 30.213816,
+          "lon": 71.454608,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Khan Street",
+          "name_ur": "",
+          "lat": 30.214381,
+          "lon": 71.455375,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nawa Bhatta",
+          "name_ur": "",
+          "lat": 30.214947,
+          "lon": 71.456141,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Faiz-e-Aam Chowk-2",
+          "name_ur": "",
+          "lat": 30.215512,
+          "lon": 71.456908,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Faiz-e-Aam Chowk",
+          "name_ur": "",
+          "lat": 30.216077,
+          "lon": 71.457675,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chah Nizam Wala",
+          "name_ur": "",
+          "lat": 30.216643,
+          "lon": 71.458441,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Saidan Wali Khoi",
+          "name_ur": "",
+          "lat": 30.217208,
+          "lon": 71.459208,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Basti Nau",
+          "name_ur": "",
+          "lat": 30.217774,
+          "lon": 71.459974,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "31 Number Tube Well",
+          "name_ur": "",
+          "lat": 30.218339,
+          "lon": 71.460741,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Basti Saleh Mahay",
+          "name_ur": "",
+          "lat": 30.218904,
+          "lon": 71.461508,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Basti Kot Mehra",
+          "name_ur": "",
+          "lat": 30.21947,
+          "lon": 71.462274,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Mehar Colony",
+          "name_ur": "",
+          "lat": 30.220035,
+          "lon": 71.463041,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Basti Bhona Wala",
+          "name_ur": "",
+          "lat": 30.220601,
+          "lon": 71.463807,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nawabpur",
+          "name_ur": "",
+          "lat": 30.221166,
+          "lon": 71.464574,
+          "coord_source": "auto:osm:way/51519706",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A52"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Chungi No 9 to Nawabpur'); safar lists 21 stops, fare Rs. 25, service 6:30 AM - 9:35 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence)."
+    },
+    {
+      "id": "MFR11",
+      "name": "Vehari Chowk to CMH",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Vehari Chowk",
+          "name_ur": "",
+          "lat": 30.173723,
+          "lon": 71.50879,
+          "coord_source": "auto:osm:way/28292761",
+          "is_station": false
+        },
+        {
+          "name": "Peoples colony",
+          "name_ur": "",
+          "lat": 30.174766,
+          "lon": 71.498423,
+          "coord_source": "auto:osm:node/1921954099",
+          "is_station": false
+        },
+        {
+          "name": "Bcg chowk",
+          "name_ur": "",
+          "lat": 30.17204,
+          "lon": 71.490934,
+          "coord_source": "auto:osm:node/1921952452",
+          "is_station": false
+        },
+        {
+          "name": "Garrison College",
+          "name_ur": "",
+          "lat": 30.17248,
+          "lon": 71.485648,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "PTCL Exchange",
+          "name_ur": "",
+          "lat": 30.172921,
+          "lon": 71.480363,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ayub Center",
+          "name_ur": "",
+          "lat": 30.173361,
+          "lon": 71.475077,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ghalla Maandi",
+          "name_ur": "",
+          "lat": 30.173802,
+          "lon": 71.469792,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shah Abbas Chowk",
+          "name_ur": "",
+          "lat": 30.174243,
+          "lon": 71.464506,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jammu Wala Stop",
+          "name_ur": "",
+          "lat": 30.174683,
+          "lon": 71.459221,
+          "coord_source": "auto:osm:node/3882325068",
+          "is_station": false
+        },
+        {
+          "name": "Hussain Mill Morr",
+          "name_ur": "",
+          "lat": 30.176076,
+          "lon": 71.457224,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Timber Market",
+          "name_ur": "",
+          "lat": 30.177469,
+          "lon": 71.455228,
+          "coord_source": "auto:osm:node/1921954382",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No 22",
+          "name_ur": "",
+          "lat": 30.177727,
+          "lon": 71.452246,
+          "coord_source": "auto:osm:node/1921952557",
+          "is_station": false
+        },
+        {
+          "name": "Galla Godam",
+          "name_ur": "",
+          "lat": 30.177899,
+          "lon": 71.449038,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Naz Cinema",
+          "name_ur": "",
+          "lat": 30.17807,
+          "lon": 71.44583,
+          "coord_source": "auto:osm:node/1921954052",
+          "is_station": false
+        },
+        {
+          "name": "Double Phatak",
+          "name_ur": "",
+          "lat": 30.177587,
+          "lon": 71.441379,
+          "coord_source": "auto:osm:node/4354700748",
+          "is_station": false
+        },
+        {
+          "name": "Aziz Hotel",
+          "name_ur": "",
+          "lat": 30.183327,
+          "lon": 71.441109,
+          "coord_source": "auto:osm:node/1921954651",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": 30.182,
+          "lon": 71.444664,
+          "coord_source": "auto:osm:node/4354708967",
+          "is_station": false
+        },
+        {
+          "name": "Chowk Saduhusaam",
+          "name_ur": "",
+          "lat": 30.185474,
+          "lon": 71.447951,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": 30.188949,
+          "lon": 71.451237,
+          "coord_source": "osm:node/1921952798",
+          "is_station": false
+        },
+        {
+          "name": "Nawa Shar",
+          "name_ur": "",
+          "lat": 30.189949,
+          "lon": 71.448023,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Cardiology Hospital",
+          "name_ur": "",
+          "lat": 30.190949,
+          "lon": 71.44481,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "SP Chowk",
+          "name_ur": "",
+          "lat": 30.191949,
+          "lon": 71.441596,
+          "coord_source": "auto:osm:node/534943715",
+          "is_station": false
+        },
+        {
+          "name": "CMH chowk",
+          "name_ur": "",
+          "lat": 30.192445,
+          "lon": 71.43956,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "CMH",
+          "name_ur": "",
+          "lat": 30.19294,
+          "lon": 71.437525,
+          "coord_source": "auto:nominatim:node/13540608227",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A53"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Vehari Chowk to CMH'); safar lists 24 stops, fare Rs. 25, service 5:50 AM - 9:25 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence)."
+    },
+    {
+      "id": "MFR12A",
+      "name": "Aziz Hotel to Airport",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Aziz Hotel",
+          "name_ur": "",
+          "lat": 30.183327,
+          "lon": 71.441109,
+          "coord_source": "auto:osm:node/1921954651",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": 30.182,
+          "lon": 71.444664,
+          "coord_source": "auto:osm:node/4354708967",
+          "is_station": false
+        },
+        {
+          "name": "Sadu Sam Chowk",
+          "name_ur": "",
+          "lat": 30.185474,
+          "lon": 71.447951,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": 30.188949,
+          "lon": 71.451237,
+          "coord_source": "osm:node/1921952798",
+          "is_station": false
+        },
+        {
+          "name": "Nawan sher",
+          "name_ur": "",
+          "lat": 30.193927,
+          "lon": 71.452739,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Income Tax office",
+          "name_ur": "",
+          "lat": 30.198905,
+          "lon": 71.454241,
+          "coord_source": "auto:osm:node/1921953605",
+          "is_station": false
+        },
+        {
+          "name": "Arts Council",
+          "name_ur": "",
+          "lat": 30.203255,
+          "lon": 71.452609,
+          "coord_source": "auto:osm:node/4162045584",
+          "is_station": false
+        },
+        {
+          "name": "Nishtar Hospital",
+          "name_ur": "",
+          "lat": 30.202639,
+          "lon": 71.443491,
+          "coord_source": "auto:osm:node/1921954058",
+          "is_station": false
+        },
+        {
+          "name": "Nishter Chowk",
+          "name_ur": "",
+          "lat": 30.202376,
+          "lon": 71.442978,
+          "coord_source": "auto:osm:way/901143192",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No. 1",
+          "name_ur": "",
+          "lat": 30.20095,
+          "lon": 71.439838,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Punjab Hospital",
+          "name_ur": "",
+          "lat": 30.199524,
+          "lon": 71.436697,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pul Wasil",
+          "name_ur": "",
+          "lat": 30.198098,
+          "lon": 71.433557,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Thokar",
+          "name_ur": "",
+          "lat": 30.196672,
+          "lon": 71.430417,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jameel Abad",
+          "name_ur": "",
+          "lat": 30.195246,
+          "lon": 71.427276,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Airport",
+          "name_ur": "",
+          "lat": 30.19382,
+          "lon": 71.424136,
+          "coord_source": "auto:osm:node/1921954022",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A238"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Aziz Hotel RT 12A to Airport'); safar lists 16 stops, fare Rs. 25, service 6:20 AM - 9:00 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence)."
+    },
+    {
+      "id": "MFR12B",
+      "name": "Aziz Hotel to Nishtar Hospital",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Aziz Hotel",
+          "name_ur": "",
+          "lat": 30.183327,
+          "lon": 71.441109,
+          "coord_source": "auto:osm:node/1921954651",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": 30.182,
+          "lon": 71.444664,
+          "coord_source": "auto:osm:node/4354708967",
+          "is_station": false
+        },
+        {
+          "name": "Sadu Sam Chowk",
+          "name_ur": "",
+          "lat": 30.185474,
+          "lon": 71.447951,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": 30.188949,
+          "lon": 71.451237,
+          "coord_source": "osm:node/1921952798",
+          "is_station": false
+        },
+        {
+          "name": "Nawan Shehar",
+          "name_ur": "",
+          "lat": 30.193927,
+          "lon": 71.452739,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Income Tax office",
+          "name_ur": "",
+          "lat": 30.198905,
+          "lon": 71.454241,
+          "coord_source": "auto:osm:node/1921953605",
+          "is_station": false
+        },
+        {
+          "name": "Arts Council",
+          "name_ur": "",
+          "lat": 30.203255,
+          "lon": 71.452609,
+          "coord_source": "auto:osm:node/4162045584",
+          "is_station": false
+        },
+        {
+          "name": "Nishtar Hospital",
+          "name_ur": "",
+          "lat": 30.202639,
+          "lon": 71.443491,
+          "coord_source": "auto:osm:node/1921954058",
+          "is_station": false
+        },
+        {
+          "name": "Nishter Chowk",
+          "name_ur": "",
+          "lat": 30.202376,
+          "lon": 71.442978,
+          "coord_source": "auto:osm:way/901143192",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A54"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Aziz Hotel to Nishter Chowk'); safar lists 9 stops, fare Rs. 25, service 6:00 AM - 9:20 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence)."
+    },
+    {
+      "id": "MFR30",
+      "name": "Dera Adda to Sher Shah Bypass",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": 30.188949,
+          "lon": 71.451237,
+          "coord_source": "osm:node/1921952798",
+          "is_station": false
+        },
+        {
+          "name": "Mehran Hotel",
+          "name_ur": "",
+          "lat": 30.185253,
+          "lon": 71.443994,
+          "coord_source": "auto:osm:node/5124464022",
+          "is_station": false
+        },
+        {
+          "name": "Aziz Hotel",
+          "name_ur": "",
+          "lat": 30.183327,
+          "lon": 71.441109,
+          "coord_source": "auto:osm:node/1921954651",
+          "is_station": false
+        },
+        {
+          "name": "Bijli Ghar/F.G Degree College For Women",
+          "name_ur": "",
+          "lat": 30.178349,
+          "lon": 71.436538,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Grass Mandi Mor",
+          "name_ur": "",
+          "lat": 30.173371,
+          "lon": 71.431968,
+          "coord_source": "auto:osm:node/1921953302",
+          "is_station": false
+        },
+        {
+          "name": "Baba Ghareeb Shah",
+          "name_ur": "",
+          "lat": 30.177854,
+          "lon": 71.427108,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Multan Public School/Company Bagh",
+          "name_ur": "",
+          "lat": 30.182337,
+          "lon": 71.422247,
+          "coord_source": "auto:osm:way/182024682",
+          "is_station": false
+        },
+        {
+          "name": "Askari Jheel",
+          "name_ur": "",
+          "lat": 30.178176,
+          "lon": 71.418622,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Garrison Public Library Multan",
+          "name_ur": "",
+          "lat": 30.174015,
+          "lon": 71.414998,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No. 23/Askari Bypass",
+          "name_ur": "",
+          "lat": 30.169854,
+          "lon": 71.411373,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Tehsil Dar Mor",
+          "name_ur": "",
+          "lat": 30.165692,
+          "lon": 71.407749,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kacha Phatak",
+          "name_ur": "",
+          "lat": 30.161531,
+          "lon": 71.404124,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nadirabad Phatak",
+          "name_ur": "",
+          "lat": 30.15737,
+          "lon": 71.4005,
+          "coord_source": "auto:osm:node/4934098521",
+          "is_station": false
+        },
+        {
+          "name": "Defense View Housing Scheme",
+          "name_ur": "",
+          "lat": 30.153174,
+          "lon": 71.396028,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Aadi Wala Bagh",
+          "name_ur": "",
+          "lat": 30.148978,
+          "lon": 71.391556,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Al-Quresh Chowk",
+          "name_ur": "",
+          "lat": 30.144782,
+          "lon": 71.387084,
+          "coord_source": "auto:osm:node/4319158600",
+          "is_station": false
+        },
+        {
+          "name": "Satwan Meel",
+          "name_ur": "",
+          "lat": 30.13539,
+          "lon": 71.383437,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mill Phatak",
+          "name_ur": "",
+          "lat": 30.125998,
+          "lon": 71.379789,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Anarkali",
+          "name_ur": "",
+          "lat": 30.116606,
+          "lon": 71.376142,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Karachi Hotel",
+          "name_ur": "",
+          "lat": 30.107215,
+          "lon": 71.372495,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Purani Chowki",
+          "name_ur": "",
+          "lat": 30.097823,
+          "lon": 71.368847,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ali Wala Mor",
+          "name_ur": "",
+          "lat": 30.088431,
+          "lon": 71.3652,
+          "coord_source": "auto:osm:node/4319174551",
+          "is_station": false
+        },
+        {
+          "name": "Pul Muzaffarabad",
+          "name_ur": "",
+          "lat": 30.096346,
+          "lon": 71.357776,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Walwat Mor",
+          "name_ur": "",
+          "lat": 30.10426,
+          "lon": 71.350351,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kot Qasim",
+          "name_ur": "",
+          "lat": 30.112175,
+          "lon": 71.342927,
+          "coord_source": "auto:osm:way/72836960",
+          "is_station": false
+        },
+        {
+          "name": "PSO Depot",
+          "name_ur": "",
+          "lat": 30.102024,
+          "lon": 71.342786,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sher Shah Darbar",
+          "name_ur": "",
+          "lat": 30.091872,
+          "lon": 71.342644,
+          "coord_source": "auto:osm:node/4319158595",
+          "is_station": false
+        },
+        {
+          "name": "Sher Shah Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A55"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Dera Adda to Sher Shah Bypass'); safar lists 29 stops, fare Rs. 25, service 5:40 AM - 9:10 PM (unverified). Removed consecutive duplicate stop(s): Sher Shah Bypass. Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence)."
+    },
+    {
+      "id": "MFR39",
+      "name": "Northern Bypass to Dars Chawan",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Northern Bypass",
+          "name_ur": "",
+          "lat": 30.248531,
+          "lon": 71.484735,
+          "coord_source": "auto:osm:node/1474088238",
+          "is_station": false
+        },
+        {
+          "name": "Mehmood Kot",
+          "name_ur": "",
+          "lat": 30.255587,
+          "lon": 71.488768,
+          "coord_source": "auto:osm:node/8365794879",
+          "is_station": false
+        },
+        {
+          "name": "Bahadar Pur",
+          "name_ur": "",
+          "lat": 30.2621,
+          "lon": 71.492601,
+          "coord_source": "auto:osm:node/8365794880",
+          "is_station": false
+        },
+        {
+          "name": "BZU Metro Station",
+          "name_ur": "",
+          "lat": 30.267605,
+          "lon": 71.4951,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bahauddin Zahariya University",
+          "name_ur": "",
+          "lat": 30.27311,
+          "lon": 71.4976,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hamid Nagar",
+          "name_ur": "",
+          "lat": 30.278615,
+          "lon": 71.500099,
+          "coord_source": "auto:osm:node/4755933258",
+          "is_station": false
+        },
+        {
+          "name": "Buch Villas",
+          "name_ur": "",
+          "lat": 30.282125,
+          "lon": 71.509383,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "ISP",
+          "name_ur": "",
+          "lat": 30.285634,
+          "lon": 71.518666,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "DHA Multan",
+          "name_ur": "",
+          "lat": 30.289144,
+          "lon": 71.52795,
+          "coord_source": "auto:osm:node/4755920502",
+          "is_station": false
+        },
+        {
+          "name": "Siddiqua Abad",
+          "name_ur": "",
+          "lat": 30.269557,
+          "lon": 71.515697,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shah Pur",
+          "name_ur": "",
+          "lat": 30.249969,
+          "lon": 71.503445,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "The Country School",
+          "name_ur": "",
+          "lat": 30.230382,
+          "lon": 71.491192,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Eid gah ( Lutfabad )",
+          "name_ur": "",
+          "lat": 30.210794,
+          "lon": 71.478939,
+          "coord_source": "auto:osm:node/444356918",
+          "is_station": false
+        },
+        {
+          "name": "Cycle Mor",
+          "name_ur": "",
+          "lat": 30.199109,
+          "lon": 71.516238,
+          "coord_source": "auto:osm:node/1921952601",
+          "is_station": false
+        },
+        {
+          "name": "Union Council 93",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pakki Pul",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Barsaati",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Zarai Taraqiati Bank",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Adda Band Bosan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Alam Pur Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "New Abadi Bhatta",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Adda Choti Jhok",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Khagi Wala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Barri Jhok",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pull Khadal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Khadal Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kumhari Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dars Chawan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Multan transit lines",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A56"
+        }
+      ],
+      "notes": "Route code, stops and order from safar.fyi (direction 'Northern Bypass 39 to Dars Chawan'); safar lists 28 stops, fare Rs. 25, service 6:00 AM - 9:20 PM (unverified)."
+    }
+  ]
+}

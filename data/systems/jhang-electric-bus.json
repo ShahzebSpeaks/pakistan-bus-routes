@@ -1,0 +1,523 @@
+{
+  "id": "jhang-electric-bus",
+  "city": "jhang",
+  "name": "Green Electric Bus Jhang",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Punjab expands electric bus service into ten new cities",
+      "url": "https://minutemirror.com.pk/punjab-expands-electric-bus-service-into-ten-new-cities-463865/",
+      "publisher": "Minute Mirror",
+      "date": "2025-11-18",
+      "official": false
+    },
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Jhang Green Electric Bus routes",
+      "url": "https://www.safar.fyi/jhang/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "gbs-jhang-to-aliabad",
+      "name": "GBS Jhang to Aliabad",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Jhang GBS",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Adhiwal Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jhang Sabzi Mandi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Farooq Azam Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Talaab Committee",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jhang Fawara Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Session Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Khatam E Nabuwat Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Abot Pur Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Madina Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jhang Daewoo Terminal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Aliabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Jhang route",
+          "url": "https://www.safar.fyi/jhang/transit-lines/jhg%3A198"
+        }
+      ],
+      "notes": "Part of ten-city phase (Nov 2025). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Jhang GBS to Aliabad', 12 stops); safar lists service 6:00 AM - 10:30 PM (unverified)."
+    },
+    {
+      "id": "gbs-jhang-to-gojra-bypass",
+      "name": "GBS Jhang to Gojra Bypass",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Jhang GBS",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Adhiwal Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bab e Ali",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chaye Khana",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "22 No Chunggi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Govt High School for Boys",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Marzi Pura Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ayub Chowk",
+          "name_ur": "",
+          "lat": 31.27632,
+          "lon": 72.320178,
+          "coord_source": "auto:nominatim:node/6182717592",
+          "is_station": false
+        },
+        {
+          "name": "Library Chowk",
+          "name_ur": "",
+          "lat": 31.274063,
+          "lon": 72.320335,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Session Chowk",
+          "name_ur": "",
+          "lat": 31.271806,
+          "lon": 72.320493,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Thana Sadar Chowk",
+          "name_ur": "",
+          "lat": 31.26955,
+          "lon": 72.32065,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Girls College Chowk",
+          "name_ur": "",
+          "lat": 31.267293,
+          "lon": 72.320807,
+          "coord_source": "auto:osm:node/6182717596",
+          "is_station": false
+        },
+        {
+          "name": "Nawaz Chowk",
+          "name_ur": "",
+          "lat": 31.266208,
+          "lon": 72.324888,
+          "coord_source": "auto:osm:node/6182717589",
+          "is_station": false
+        },
+        {
+          "name": "Jhang DHQ",
+          "name_ur": "",
+          "lat": 31.26326,
+          "lon": 72.333245,
+          "coord_source": "auto:nominatim:node/6155086487",
+          "is_station": false
+        },
+        {
+          "name": "Chaudhary ColonyUp",
+          "name_ur": "",
+          "lat": 31.261397,
+          "lon": 72.338834,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gate Chowk",
+          "name_ur": "",
+          "lat": 31.259533,
+          "lon": 72.344424,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jhang Kalma Chowk",
+          "name_ur": "",
+          "lat": 31.257669,
+          "lon": 72.350013,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jamia Chowk",
+          "name_ur": "",
+          "lat": 31.255806,
+          "lon": 72.355602,
+          "coord_source": "auto:osm:node/6698434485",
+          "is_station": false
+        },
+        {
+          "name": "Gazali College",
+          "name_ur": "",
+          "lat": 31.255601,
+          "lon": 72.36495,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Baig Colony",
+          "name_ur": "",
+          "lat": 31.255396,
+          "lon": 72.374297,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jhang Gojra Bypass",
+          "name_ur": "",
+          "lat": 31.255191,
+          "lon": 72.383645,
+          "coord_source": "auto:osm:way/275774459",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Jhang route",
+          "url": "https://www.safar.fyi/jhang/transit-lines/jhg%3A197"
+        }
+      ],
+      "notes": "Part of ten-city phase (Nov 2025). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Jhang GBS to Jhang Gojra Bypass', 21 stops); safar lists service 6:00 AM - 10:06 PM (unverified)."
+    },
+    {
+      "id": "gbs-jhang-to-uvas",
+      "name": "GBS Jhang to UVAS",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Jhang GBS",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Govt High School for Boys",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Marzi Pura Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ayub Chowk",
+          "name_ur": "",
+          "lat": 31.27632,
+          "lon": 72.320178,
+          "coord_source": "auto:nominatim:node/6182717592",
+          "is_station": false
+        },
+        {
+          "name": "Jhang Rescue Office",
+          "name_ur": "",
+          "lat": 31.277118,
+          "lon": 72.329435,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jhang NADRA Office",
+          "name_ur": "",
+          "lat": 31.277916,
+          "lon": 72.338692,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sadeeq Abad",
+          "name_ur": "",
+          "lat": 31.278713,
+          "lon": 72.347948,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kot Sai Singh",
+          "name_ur": "",
+          "lat": 31.279511,
+          "lon": 72.357205,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chiniot Morr",
+          "name_ur": "",
+          "lat": 31.280309,
+          "lon": 72.366462,
+          "coord_source": "auto:osm:node/6155004285",
+          "is_station": false
+        },
+        {
+          "name": "Aslam Marque",
+          "name_ur": "",
+          "lat": 31.292145,
+          "lon": 72.365732,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jhang WAPDA Colony",
+          "name_ur": "",
+          "lat": 31.303981,
+          "lon": 72.365001,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sufi Morr",
+          "name_ur": "",
+          "lat": 31.315817,
+          "lon": 72.364271,
+          "coord_source": "auto:osm:node/6155341990",
+          "is_station": false
+        },
+        {
+          "name": "9 Meel Stop",
+          "name_ur": "",
+          "lat": 31.327,
+          "lon": 72.36794,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jhang Chenab College",
+          "name_ur": "",
+          "lat": 31.338184,
+          "lon": 72.371609,
+          "coord_source": "auto:osm:way/1085243604",
+          "is_station": false
+        },
+        {
+          "name": "University of Jhang",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jhang TEVTA",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jhang UVAS",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Jhang route",
+          "url": "https://www.safar.fyi/jhang/transit-lines/jhg%3A199"
+        }
+      ],
+      "notes": "Part of ten-city phase (Nov 2025). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Jhang GBS to Jhang UVAS', 18 stops); safar lists service 6:00 AM - 10:00 PM (unverified). Removed consecutive duplicate stop(s): Jhang UVAS."
+    }
+  ]
+}

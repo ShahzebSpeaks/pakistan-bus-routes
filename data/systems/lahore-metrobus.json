@@ -1,0 +1,320 @@
+{
+  "id": "lahore-metrobus",
+  "city": "lahore",
+  "name": "Lahore Metrobus (Green Line)",
+  "name_ur": "لاہور میٹرو بس",
+  "operator": "Punjab Masstransit Authority (PMA)",
+  "mode": "brt",
+  "website": "https://pma.punjab.gov.pk/lahore_metrobus_system",
+  "helpline": "042-111-222-627",
+  "payment": "Token / PMA contactless card (Green Transport Card discount reported 2026)",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 40,
+    "slabs": [],
+    "concessions": "Rs40 flat from 2026-03-26 (was Rs30 since 2018). Green Transport Card holders reportedly pay Rs25. Service was temporarily free (fuel-price relief) until 2026-06-12; previous fares restored 2026-06-13.",
+    "as_of": "2026-03",
+    "source_url": "https://www.24newshd.tv/14-Mar-2026/metro-bus-fare-races-33pc-across-punjab"
+  },
+  "hours": {
+    "start": "06:00",
+    "end": "22:00",
+    "notes": "Wikipedia; Safar corridor timetable also 06:00-22:00."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Lahore Metrobus System",
+      "url": "https://pma.punjab.gov.pk/lahore_metrobus_system",
+      "publisher": "PMA",
+      "date": null,
+      "official": true
+    },
+    {
+      "title": "Lahore Metrobus",
+      "url": "https://en.wikipedia.org/wiki/Lahore_Metrobus",
+      "publisher": "Wikipedia",
+      "date": null,
+      "official": false
+    },
+    {
+      "title": "Metro Bus fare races up by 33pc across Punjab",
+      "url": "https://www.24newshd.tv/14-Mar-2026/metro-bus-fare-races-33pc-across-punjab",
+      "publisher": "24NewsHD",
+      "date": "2026-03-14",
+      "official": false
+    },
+    {
+      "title": "Punjab Metro Bus Fare Hike to Rs. 40 from March 26",
+      "url": "https://www.pakwheels.com/blog/punjab-metro-bus-fare-hike-2026/",
+      "publisher": "PakWheels",
+      "date": "2026-03",
+      "official": false
+    },
+    {
+      "title": "Govt mulls raise in fares of mass transit system in Lahore",
+      "url": "https://www.dawn.com/news/1954150",
+      "publisher": "Dawn",
+      "date": "2025-11-10",
+      "official": false
+    },
+    {
+      "title": "Punjab Ends Free Transport Facility for Public",
+      "url": "https://propakistani.pk/2026/06/12/punjab-ends-free-transport-facility-for-public/",
+      "publisher": "ProPakistani",
+      "date": "2026-06-12",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "METRO",
+      "name": "Shahdara - Gajju Matah",
+      "name_ur": "شاہدرہ - گجو متہ",
+      "variant": "brt",
+      "color": null,
+      "status": "operational",
+      "launched": "2013-02-11",
+      "length_km": 27,
+      "headway_min": 3,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "high",
+      "stops": [
+        {
+          "name": "Shahdara",
+          "name_ur": "شاہدرہ",
+          "lat": 31.616508,
+          "lon": 74.290818,
+          "coord_source": "osm:node/3093598533",
+          "is_station": true
+        },
+        {
+          "name": "Niazi Chowk",
+          "name_ur": "نیازی چوک",
+          "lat": 31.600983,
+          "lon": 74.299229,
+          "coord_source": "osm:node/2405226777",
+          "is_station": true
+        },
+        {
+          "name": "Timber Market",
+          "name_ur": "ٹمبر مارکیٹ",
+          "lat": 31.594494,
+          "lon": 74.302139,
+          "coord_source": "osm:node/2405226778",
+          "is_station": true
+        },
+        {
+          "name": "Azadi Chowk",
+          "name_ur": "آزادی چوک",
+          "lat": 31.590712,
+          "lon": 74.306381,
+          "coord_source": "osm:node/2401335839",
+          "is_station": true
+        },
+        {
+          "name": "Bhatti Chowk",
+          "name_ur": "بھاٹی چوک",
+          "lat": 31.580525,
+          "lon": 74.306182,
+          "coord_source": "osm:way/607182577",
+          "is_station": true
+        },
+        {
+          "name": "Katchehry",
+          "name_ur": "کچہری",
+          "lat": 31.574684,
+          "lon": 74.306507,
+          "coord_source": "osm:way/607183032",
+          "is_station": true
+        },
+        {
+          "name": "Civil Secretariat",
+          "name_ur": "سول سیکریٹیریٹ",
+          "lat": 31.568746,
+          "lon": 74.304265,
+          "coord_source": "osm:way/607183035",
+          "is_station": true
+        },
+        {
+          "name": "MAO College",
+          "name_ur": "ایم اے او کالج",
+          "lat": 31.561713,
+          "lon": 74.306667,
+          "coord_source": "osm:way/607183154",
+          "is_station": true
+        },
+        {
+          "name": "Janazgah",
+          "name_ur": "جناز گاہ",
+          "lat": 31.553895,
+          "lon": 74.311432,
+          "coord_source": "osm:way/607183350",
+          "is_station": true
+        },
+        {
+          "name": "Qartaba Chowk",
+          "name_ur": "قرطبہ چوک",
+          "lat": 31.5487,
+          "lon": 74.315106,
+          "coord_source": "osm:way/607183579",
+          "is_station": true
+        },
+        {
+          "name": "Shama",
+          "name_ur": "شمع",
+          "lat": 31.539077,
+          "lon": 74.319069,
+          "coord_source": "osm:way/607183580",
+          "is_station": true
+        },
+        {
+          "name": "Ichhra",
+          "name_ur": "اچھرا",
+          "lat": 31.531509,
+          "lon": 74.321417,
+          "coord_source": "osm:way/1460187687",
+          "is_station": true
+        },
+        {
+          "name": "Canal",
+          "name_ur": "کینال",
+          "lat": 31.519329,
+          "lon": 74.326938,
+          "coord_source": "osm:way/1460187686",
+          "is_station": true
+        },
+        {
+          "name": "Qaddafi Stadium",
+          "name_ur": "قذافی سٹیڈیم",
+          "lat": 31.512022,
+          "lon": 74.328812,
+          "coord_source": "osm:node/13392211430",
+          "is_station": true
+        },
+        {
+          "name": "Kalma Chowk",
+          "name_ur": "کلمہ چوک",
+          "lat": 31.503496,
+          "lon": 74.331848,
+          "coord_source": "osm:node/13392211429",
+          "is_station": true
+        },
+        {
+          "name": "Model Town",
+          "name_ur": "ماڈل ٹاؤن",
+          "lat": 31.4975,
+          "lon": 74.334397,
+          "coord_source": "osm:node/13392211420",
+          "is_station": true
+        },
+        {
+          "name": "Naseerabad",
+          "name_ur": "نصیر آباد",
+          "lat": 31.487064,
+          "lon": 74.338735,
+          "coord_source": "osm:node/13392211417",
+          "is_station": true
+        },
+        {
+          "name": "Ittefaq Hospital",
+          "name_ur": "اتفاق ہسپتال",
+          "lat": 31.479278,
+          "lon": 74.342,
+          "coord_source": "osm:node/2401358351",
+          "is_station": true
+        },
+        {
+          "name": "Qainchi",
+          "name_ur": "قینچی",
+          "lat": 31.464367,
+          "lon": 74.348214,
+          "coord_source": "osm:node/2401358346",
+          "is_station": true
+        },
+        {
+          "name": "Ghazi Chowk",
+          "name_ur": "غازی چوک",
+          "lat": 31.457051,
+          "lon": 74.351205,
+          "coord_source": "osm:node/2401358343",
+          "is_station": true
+        },
+        {
+          "name": "Chungi Amar Sidhu",
+          "name_ur": "چونگی امر سدھو",
+          "lat": 31.450361,
+          "lon": 74.353336,
+          "coord_source": "osm:node/8389210063",
+          "is_station": true
+        },
+        {
+          "name": "Kamahan",
+          "name_ur": "کماہاں",
+          "lat": 31.440913,
+          "lon": 74.355274,
+          "coord_source": "osm:node/2401358332",
+          "is_station": true
+        },
+        {
+          "name": "Atari Saroba",
+          "name_ur": "اٹاری سروبا",
+          "lat": 31.431058,
+          "lon": 74.356728,
+          "coord_source": "osm:node/2401358329",
+          "is_station": true
+        },
+        {
+          "name": "Nishtar Colony",
+          "name_ur": "نشتر کالونی",
+          "lat": 31.419825,
+          "lon": 74.358384,
+          "coord_source": "osm:node/2401358326",
+          "is_station": true
+        },
+        {
+          "name": "Youhanabad",
+          "name_ur": "یوحنا آباد",
+          "lat": 31.412916,
+          "lon": 74.3594,
+          "coord_source": "osm:node/2401358322",
+          "is_station": true
+        },
+        {
+          "name": "Dulu Khurd",
+          "name_ur": "ڈلو خورد",
+          "lat": 31.405577,
+          "lon": 74.360481,
+          "coord_source": "osm:node/2401358319",
+          "is_station": true
+        },
+        {
+          "name": "Gajju Matah",
+          "name_ur": "گجو متہ",
+          "lat": 31.397981,
+          "lon": 74.361641,
+          "coord_source": "osm:way/231802913",
+          "is_station": true
+        }
+      ],
+      "sources": [
+        {
+          "title": "PMA - Lahore Metrobus System stations",
+          "url": "https://pma.punjab.gov.pk/lahore_metrobus_system"
+        },
+        {
+          "title": "Wikipedia - Lahore Metrobus",
+          "url": "https://en.wikipedia.org/wiki/Lahore_Metrobus"
+        },
+        {
+          "title": "Safar - Metro Bus",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-2"
+        }
+      ],
+      "notes": "27 stations; order agrees across PMA, Wikipedia and Safar. Called 'Green Line' in Dawn/ProPakistani; no official hex colour. Wikipedia: peak headway under 2 min (headway_min=3 is an approximation); Safar corridor timetable shows ~10 min off-peak. Coordinates: station ways (Bhatti Chowk to Canal) or PMA-tagged OSM bus_stop nodes for the at-grade/other stations, not platform centroids."
+    }
+  ]
+}

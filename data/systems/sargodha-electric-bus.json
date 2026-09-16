@@ -1,0 +1,1345 @@
+{
+  "id": "sargodha-electric-bus",
+  "city": "sargodha",
+  "name": "Green Electric Bus Sargodha",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "CM Maryam inaugurates e-buses project in Sargodha",
+      "url": "https://dunyanews.tv/en/Pakistan/907293-cm-maryam-inaugurates-e-buses-project-in-sargodha-",
+      "publisher": "Dunya News",
+      "date": "2025-09-19",
+      "official": false
+    },
+    {
+      "title": "Sargodha welcomes green transit with CM's electric bus initiative",
+      "url": "https://tribune.com.pk/story/2567933/sargodha-welcomes-green-transit-with-cms-electric-bus-initiative",
+      "publisher": "The Express Tribune",
+      "date": null,
+      "official": false
+    },
+    {
+      "title": "Punjab Expands Electric Bus Service to Tehsil Level",
+      "url": "https://propakistani.pk/2026/09/09/punjab-expands-electric-bus-service-to-tehsil-level/",
+      "publisher": "ProPakistani",
+      "date": "2026-09-09",
+      "official": false
+    },
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Sargodha Green Electric Bus routes",
+      "url": "https://www.safar.fyi/sargodha/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "gbs-sargodha-to-chota-sahiwal",
+      "name": "GBS Sargodha to Chota Sahiwal",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2025-09-19",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS Sargodha",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chungi No. 9",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Satellite Town",
+          "name_ur": "",
+          "lat": 32.082794,
+          "lon": 72.691583,
+          "coord_source": "auto:osm:node/3398999765",
+          "is_station": false
+        },
+        {
+          "name": "Islampura",
+          "name_ur": "",
+          "lat": 32.093163,
+          "lon": 72.684345,
+          "coord_source": "auto:osm:node/3398999764",
+          "is_station": false
+        },
+        {
+          "name": "DHQ",
+          "name_ur": "",
+          "lat": 32.081788,
+          "lon": 72.662912,
+          "coord_source": "auto:nominatim:node/6872788686",
+          "is_station": false
+        },
+        {
+          "name": "Noori Gate Hussani Chowk",
+          "name_ur": "",
+          "lat": 32.084332,
+          "lon": 72.660434,
+          "coord_source": "auto:osm:node/6872846285",
+          "is_station": false
+        },
+        {
+          "name": "Jhang Morr",
+          "name_ur": "",
+          "lat": 32.08375,
+          "lon": 72.63735,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "78 Pull",
+          "name_ur": "",
+          "lat": 32.083168,
+          "lon": 72.614265,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "85 Jhal",
+          "name_ur": "",
+          "lat": 32.082585,
+          "lon": 72.591181,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 84",
+          "name_ur": "",
+          "lat": 32.082003,
+          "lon": 72.568097,
+          "coord_source": "auto:osm:node/12832732405",
+          "is_station": false
+        },
+        {
+          "name": "Chak 92",
+          "name_ur": "",
+          "lat": 32.069588,
+          "lon": 72.535299,
+          "coord_source": "auto:osm:node/12832732407",
+          "is_station": false
+        },
+        {
+          "name": "Adda Faiz Colony",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "92 Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak 93",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ahmed Pur Colony",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pumpan wali Pull",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Colony Mirabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kot Ahmad Khan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chawaywala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Langarwala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kud Lathi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pathan Kot",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Al Baqa Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "GBS Chota Sahiwal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Sargodha route",
+          "url": "https://www.safar.fyi/sargodha/transit-lines/srg%3A142"
+        }
+      ],
+      "notes": "60 buses in Sargodha city (105 for the division). Bhera-Sargodha fare reported cut from Rs 200 to Rs 20. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Sargodha to GBS Chota Sahiwal', 24 stops); safar lists service 6:00 AM - 9:50 PM (unverified)."
+    },
+    {
+      "id": "gbs-sargodha-to-gbs-bhera",
+      "name": "GBS Sargodha to GBS Bhera",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2025-09-19",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS Sargodha",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chungi No. 9",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Aziz Colony",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Qartaba Town",
+          "name_ur": "",
+          "lat": 32.102035,
+          "lon": 72.70945,
+          "coord_source": "auto:osm:way/239283793",
+          "is_station": false
+        },
+        {
+          "name": "Chadhar Chowk",
+          "name_ur": "",
+          "lat": 32.107455,
+          "lon": 72.719592,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "40 Phatak",
+          "name_ur": "",
+          "lat": 32.112876,
+          "lon": 72.729733,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "33 Phatak",
+          "name_ur": "",
+          "lat": 32.118296,
+          "lon": 72.739874,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 33",
+          "name_ur": "",
+          "lat": 32.123716,
+          "lon": 72.750016,
+          "coord_source": "auto:osm:node/8598451210",
+          "is_station": false
+        },
+        {
+          "name": "Risalawala",
+          "name_ur": "",
+          "lat": 32.134457,
+          "lon": 72.768547,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 30",
+          "name_ur": "",
+          "lat": 32.145199,
+          "lon": 72.787078,
+          "coord_source": "auto:osm:node/13409814562",
+          "is_station": false
+        },
+        {
+          "name": "Anjala Loak Stop",
+          "name_ur": "",
+          "lat": 32.148492,
+          "lon": 72.790784,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 27",
+          "name_ur": "",
+          "lat": 32.151785,
+          "lon": 72.79449,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 26",
+          "name_ur": "",
+          "lat": 32.155078,
+          "lon": 72.798197,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ajnala Station",
+          "name_ur": "",
+          "lat": 32.158371,
+          "lon": 72.801903,
+          "coord_source": "auto:osm:node/13409814563",
+          "is_station": false
+        },
+        {
+          "name": "Chak 23",
+          "name_ur": "",
+          "lat": 32.15149,
+          "lon": 72.798684,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 22",
+          "name_ur": "",
+          "lat": 32.14461,
+          "lon": 72.795466,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Cadet college Sargodha",
+          "name_ur": "",
+          "lat": 32.137729,
+          "lon": 72.792247,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 10",
+          "name_ur": "",
+          "lat": 32.130848,
+          "lon": 72.789029,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Muhammad Hospital Bhalwal",
+          "name_ur": "",
+          "lat": 32.123967,
+          "lon": 72.78581,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Purana Bhalwal",
+          "name_ur": "",
+          "lat": 32.117087,
+          "lon": 72.782592,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Manzoor Hayat Colony",
+          "name_ur": "",
+          "lat": 32.110206,
+          "lon": 72.779373,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "GBS Bhalwal",
+          "name_ur": "",
+          "lat": 32.103325,
+          "lon": 72.776155,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "7 chak",
+          "name_ur": "",
+          "lat": 32.096444,
+          "lon": 72.772936,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Grid Station SDG",
+          "name_ur": "",
+          "lat": 32.089564,
+          "lon": 72.769718,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 13",
+          "name_ur": "",
+          "lat": 32.082683,
+          "lon": 72.766499,
+          "coord_source": "auto:nominatim:node/8598468013",
+          "is_station": false
+        },
+        {
+          "name": "Industrial Area",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak 11",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak 3",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ghukhiani",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Hathiwind Main Adda St No. 4",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Hayatabad Colony",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Khan Muhammad Wala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Imam Bari Petroleum",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sheikh Pur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk Bhera",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "GBS Bhera",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Sargodha route",
+          "url": "https://www.safar.fyi/sargodha/transit-lines/srg%3A138"
+        }
+      ],
+      "notes": "60 buses in Sargodha city (105 for the division). Bhera-Sargodha fare reported cut from Rs 200 to Rs 20. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Sargodha to GBS Bhera', 36 stops); safar lists service 6:00 AM - 10:00 PM (unverified)."
+    },
+    {
+      "id": "gbs-sargodha-to-kot-momin",
+      "name": "GBS Sargodha to Kot Momin",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2025-09-19",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS Sargodha",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chungi No. 9",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Aziz Colony",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Qartaba Town",
+          "name_ur": "",
+          "lat": 32.102035,
+          "lon": 72.70945,
+          "coord_source": "auto:osm:way/239283793",
+          "is_station": false
+        },
+        {
+          "name": "Jumeirah City",
+          "name_ur": "",
+          "lat": 32.110399,
+          "lon": 72.726382,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "40 Phatak",
+          "name_ur": "",
+          "lat": 32.118763,
+          "lon": 72.743315,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rai Medical College",
+          "name_ur": "",
+          "lat": 32.127127,
+          "lon": 72.760248,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mitha Lak",
+          "name_ur": "",
+          "lat": 32.135491,
+          "lon": 72.77718,
+          "coord_source": "auto:osm:node/2447848975",
+          "is_station": false
+        },
+        {
+          "name": "Chak 75 Alif",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mankumeel Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Tangowali",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sultan Colony",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mozamabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Hospital 12",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Laliani Mateela Link",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Thahmeenabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Sargodha route",
+          "url": "https://www.safar.fyi/sargodha/transit-lines/srg%3A141"
+        }
+      ],
+      "notes": "60 buses in Sargodha city (105 for the division). Bhera-Sargodha fare reported cut from Rs 200 to Rs 20. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Sargodha to Thahmeenabad', 16 stops); safar lists service 6:00 AM - 9:20 PM (unverified)."
+    },
+    {
+      "id": "gbs-sargodha-to-mid-ranjha",
+      "name": "GBS Sargodha TO Mid Ranjha",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2025-09-19",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS Sargodha",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nalka Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Qanchi Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Qaide Azam Law College",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Main Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak 91",
+          "name_ur": "",
+          "lat": 32.082683,
+          "lon": 72.766499,
+          "coord_source": "auto:osm:node/8598468013",
+          "is_station": false
+        },
+        {
+          "name": "Niazi Hospital",
+          "name_ur": "",
+          "lat": 32.068937,
+          "lon": 72.776821,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shalimar Hospital",
+          "name_ur": "",
+          "lat": 32.055192,
+          "lon": 72.787142,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 88",
+          "name_ur": "",
+          "lat": 32.041446,
+          "lon": 72.797464,
+          "coord_source": "auto:osm:node/8598639598",
+          "is_station": false
+        },
+        {
+          "name": "Chak 87",
+          "name_ur": "",
+          "lat": 32.040813,
+          "lon": 72.814606,
+          "coord_source": "auto:osm:node/4573359589",
+          "is_station": false
+        },
+        {
+          "name": "Chak 83 Daswan Meel",
+          "name_ur": "",
+          "lat": 32.040546,
+          "lon": 72.821361,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Superior University",
+          "name_ur": "",
+          "lat": 32.040278,
+          "lon": 72.828115,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lahore University",
+          "name_ur": "",
+          "lat": 32.040011,
+          "lon": 72.83487,
+          "coord_source": "auto:osm:node/5554102522",
+          "is_station": false
+        },
+        {
+          "name": "Chak 82",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak 81 / 77",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "80 Wali Nehar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Wapda Town GT Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Schoolwat Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Choki Bhaghtanwala 23 Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak 25",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak 24",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mangni Pull",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kharko Nala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sialabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nalka Masjid",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dodha",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ahamadwala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhukhiwali",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Laksian Pull",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Laksian Colony",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jan Muhammadwala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sial Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak Khana Colony",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sayed Nou",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Badeen",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Miana Kot",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mid Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Sargodha route",
+          "url": "https://www.safar.fyi/sargodha/transit-lines/srg%3A163"
+        }
+      ],
+      "notes": "60 buses in Sargodha city (105 for the division). Bhera-Sargodha fare reported cut from Rs 200 to Rs 20. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Sargodha to Mid Chowk', 37 stops); safar lists service 4:00 AM - 4:00 AM (unverified). safar service span '4:00 AM - 4:00 AM' is a data error."
+    },
+    {
+      "id": "gbs-sargodha-to-sillanwali",
+      "name": "GBS Sargodha to Sillanwali",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2025-09-19",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS Sargodha",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nalka Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Qanchi Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "47 Pull",
+          "name_ur": "",
+          "lat": 32.061299,
+          "lon": 72.699757,
+          "coord_source": "auto:osm:node/4316539589",
+          "is_station": false
+        },
+        {
+          "name": "Fatima Jinnah Hospital",
+          "name_ur": "",
+          "lat": 32.067299,
+          "lon": 72.691281,
+          "coord_source": "auto:osm:way/353538462",
+          "is_station": false
+        },
+        {
+          "name": "University of Sargodha",
+          "name_ur": "",
+          "lat": 32.073733,
+          "lon": 72.683707,
+          "coord_source": "auto:osm:way/229730344",
+          "is_station": false
+        },
+        {
+          "name": "Khayam Chowk",
+          "name_ur": "",
+          "lat": 32.079382,
+          "lon": 72.670909,
+          "coord_source": "auto:osm:node/4100397994",
+          "is_station": false
+        },
+        {
+          "name": "DHQ",
+          "name_ur": "",
+          "lat": 32.081788,
+          "lon": 72.662912,
+          "coord_source": "auto:nominatim:node/6872788686",
+          "is_station": false
+        },
+        {
+          "name": "Noori Gate",
+          "name_ur": "",
+          "lat": 32.084332,
+          "lon": 72.660434,
+          "coord_source": "auto:osm:node/6872846285",
+          "is_station": false
+        },
+        {
+          "name": "Jhang Morr",
+          "name_ur": "",
+          "lat": 32.075326,
+          "lon": 72.645985,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "78 Pull",
+          "name_ur": "",
+          "lat": 32.06632,
+          "lon": 72.631535,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "85 Jhal",
+          "name_ur": "",
+          "lat": 32.057313,
+          "lon": 72.617086,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 85 NB",
+          "name_ur": "",
+          "lat": 32.048307,
+          "lon": 72.602637,
+          "coord_source": "auto:osm:node/13746918914",
+          "is_station": false
+        },
+        {
+          "name": "Chak 91 N.B",
+          "name_ur": "",
+          "lat": 32.042692,
+          "lon": 72.598908,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 90",
+          "name_ur": "",
+          "lat": 32.037077,
+          "lon": 72.595179,
+          "coord_source": "auto:osm:node/13746918915",
+          "is_station": false
+        },
+        {
+          "name": "Chak 95",
+          "name_ur": "",
+          "lat": 32.022972,
+          "lon": 72.588595,
+          "coord_source": "auto:osm:node/13746918916",
+          "is_station": false
+        },
+        {
+          "name": "Chak 102",
+          "name_ur": "",
+          "lat": 32.009054,
+          "lon": 72.5861,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 104",
+          "name_ur": "",
+          "lat": 31.995137,
+          "lon": 72.583606,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 106",
+          "name_ur": "",
+          "lat": 31.981219,
+          "lon": 72.581111,
+          "coord_source": "auto:osm:node/13746918945",
+          "is_station": false
+        },
+        {
+          "name": "Chak 108",
+          "name_ur": "",
+          "lat": 31.973085,
+          "lon": 72.57659,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 107",
+          "name_ur": "",
+          "lat": 31.964951,
+          "lon": 72.572068,
+          "coord_source": "auto:osm:node/13746918946",
+          "is_station": false
+        },
+        {
+          "name": "Chak 112",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "116 Jahll / Chak 117",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak 116 Moghian",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak 113",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak 118",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak 119",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mangoana",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak 125",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak 129",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Farooqabad Phatak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk Sillanwali",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Sargodha route",
+          "url": "https://www.safar.fyi/sargodha/transit-lines/srg%3A140"
+        }
+      ],
+      "notes": "60 buses in Sargodha city (105 for the division). Bhera-Sargodha fare reported cut from Rs 200 to Rs 20. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Sargodha to Kalma Chowk Sillanwali', 32 stops); safar lists service 6:00 AM - 9:50 PM (unverified)."
+    }
+  ]
+}

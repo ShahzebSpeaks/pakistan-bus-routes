@@ -1,0 +1,67 @@
+{
+  "id": "turbat-green-bus",
+  "city": "turbat",
+  "name": "Green Peoples Bus Service Turbat",
+  "name_ur": "",
+  "operator": "Transport Department, Government of Balochistan",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "unknown",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "Proposal under consideration for free travel for the first two years.",
+    "as_of": "2026-03",
+    "source_url": "https://www.dawn.com/news/1979995"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Green bus service launched for Turbat",
+      "url": "https://www.dawn.com/news/1979995",
+      "publisher": "Dawn",
+      "date": "2026-03",
+      "official": false
+    },
+    {
+      "title": "Balochistan launches Green Peoples Bus Service in Turbat",
+      "url": "https://www.nation.com.pk/10-Mar-2026/balochistan-launches-green-peoples-bus-service-turbat",
+      "publisher": "The Nation",
+      "date": "2026-03-10",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "TBT-1",
+      "name": "Turbat town route",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-03-10",
+      "length_km": 18.4,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [],
+      "sources": [
+        {
+          "title": "Green bus service launched for Turbat",
+          "url": "https://www.dawn.com/news/1979995"
+        }
+      ],
+      "notes": "4 buses, 18 stops; stop names and terminals not published. TBT-1 is a placeholder id."
+    }
+  ]
+}

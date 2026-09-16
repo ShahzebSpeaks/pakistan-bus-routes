@@ -1,0 +1,31 @@
+name: Route correction · روٹ کی تصحیح
+description: A stop, stop order, fare, timing or status is wrong
+labels: [data]
+body:
+  - type: input
+    id: route
+    attributes:
+      label: City and route
+      description: For example "Karachi R1" or copy the link from the app
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong? · کیا غلط ہے؟
+    validations:
+      required: true
+  - type: textarea
+    id: correct
+    attributes:
+      label: Correct information · درست معلومات
+      description: Stop names in order, new fare, timings…
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source · ذریعہ
+      description: Link to an official notice or news report, a photo of the route board, or "I ride this route" with the date.
+    validations:
+      required: true

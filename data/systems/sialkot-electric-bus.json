@@ -1,0 +1,426 @@
+{
+  "id": "sialkot-electric-bus",
+  "city": "sialkot",
+  "name": "Green Electric Bus Sialkot",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "CM launches e-bus service in five more districts",
+      "url": "https://www.brecorder.com/news/40430390/cm-launches-e-bus-service-in-five-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-17",
+      "official": false
+    },
+    {
+      "title": "Punjab CM Maryam inaugurates green electric buses in five districts",
+      "url": "https://www.24newshd.tv/16-Jul-2026/punjab-cm-maryam-inaugurates-green-electric-buses-five-districts",
+      "publisher": "24NewsHD",
+      "date": "2026-07-16",
+      "official": false
+    },
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Sialkot Green Electric Bus routes",
+      "url": "https://www.safar.fyi/sialkot/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "gbs-sialkot-to-daska",
+      "name": "GBS Sialkot to Daska",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-16",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS, Sialkot",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "12 Pathar Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kotli Behram",
+          "name_ur": "",
+          "lat": 32.510285,
+          "lon": 74.518694,
+          "coord_source": "auto:osm:node/3683318904",
+          "is_station": false
+        },
+        {
+          "name": "Pakka Garha",
+          "name_ur": "",
+          "lat": 32.505244,
+          "lon": 74.509636,
+          "coord_source": "auto:osm:node/3702253454",
+          "is_station": false
+        },
+        {
+          "name": "Touheed Town",
+          "name_ur": "",
+          "lat": 32.501802,
+          "lon": 74.518366,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mustafa Town",
+          "name_ur": "",
+          "lat": 32.49836,
+          "lon": 74.527097,
+          "coord_source": "auto:nominatim:node/4901925841",
+          "is_station": false
+        },
+        {
+          "name": "Daburji Stop",
+          "name_ur": "",
+          "lat": 32.478156,
+          "lon": 74.516457,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "University of Sialkot",
+          "name_ur": "",
+          "lat": 32.457953,
+          "lon": 74.505816,
+          "coord_source": "auto:osm:way/959575296",
+          "is_station": false
+        },
+        {
+          "name": "Pharmacy College",
+          "name_ur": "",
+          "lat": 32.444557,
+          "lon": 74.49168,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Adda Ghumman",
+          "name_ur": "",
+          "lat": 32.431161,
+          "lon": 74.477544,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ghuinke",
+          "name_ur": "",
+          "lat": 32.417766,
+          "lon": 74.463409,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Baab-e-Sialkot",
+          "name_ur": "",
+          "lat": 32.40437,
+          "lon": 74.449273,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bhilo Mahar",
+          "name_ur": "",
+          "lat": 32.390974,
+          "lon": 74.435137,
+          "coord_source": "auto:osm:node/3500969941",
+          "is_station": false
+        },
+        {
+          "name": "Motra Ghumman",
+          "name_ur": "",
+          "lat": 32.37358,
+          "lon": 74.420532,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rajoke",
+          "name_ur": "",
+          "lat": 32.356185,
+          "lon": 74.405927,
+          "coord_source": "auto:osm:node/3501617967",
+          "is_station": false
+        },
+        {
+          "name": "Jasarwala",
+          "name_ur": "",
+          "lat": 32.357059,
+          "lon": 74.405364,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pasrur Bypass",
+          "name_ur": "",
+          "lat": 32.357932,
+          "lon": 74.4048,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Daska",
+          "name_ur": "",
+          "lat": 32.358806,
+          "lon": 74.404237,
+          "coord_source": "auto:osm:node/7210845207",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Sialkot route",
+          "url": "https://www.safar.fyi/sialkot/transit-lines/etransit-sialkot%3A322"
+        }
+      ],
+      "notes": "GBS-Daska and GBS-Pasrur. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS, Sialkot to Daska', 18 stops); safar lists service 6:00 AM - 8:05 PM (unverified)."
+    },
+    {
+      "id": "gbs-sialkot-to-pasrur",
+      "name": "GBS Sialkot to Pasrur",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-16",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "GBS, Sialkot",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Paris Road",
+          "name_ur": "",
+          "lat": 32.498148,
+          "lon": 74.53785,
+          "coord_source": "auto:osm:way/1030595515",
+          "is_station": false
+        },
+        {
+          "name": "State Bank Sialkot",
+          "name_ur": "",
+          "lat": 32.492119,
+          "lon": 74.541463,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sheikh Maula Tala Shop",
+          "name_ur": "",
+          "lat": 32.486091,
+          "lon": 74.545076,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Naika Pura Pullak",
+          "name_ur": "",
+          "lat": 32.480062,
+          "lon": 74.548689,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan-e-Iqbal Park",
+          "name_ur": "",
+          "lat": 32.474034,
+          "lon": 74.552302,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bismillah Chowk sialkot",
+          "name_ur": "",
+          "lat": 32.468005,
+          "lon": 74.555915,
+          "coord_source": "auto:nominatim:node/10726578636",
+          "is_station": false
+        },
+        {
+          "name": "Dheera Sandha",
+          "name_ur": "",
+          "lat": 32.452279,
+          "lon": 74.575439,
+          "coord_source": "auto:nominatim:node/3709090223",
+          "is_station": false
+        },
+        {
+          "name": "Islam Medical College",
+          "name_ur": "",
+          "lat": 32.436591,
+          "lon": 74.578175,
+          "coord_source": "auto:nominatim:way/959575300",
+          "is_station": false
+        },
+        {
+          "name": "Gunnah Kalan",
+          "name_ur": "",
+          "lat": 32.423439,
+          "lon": 74.583661,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Wario",
+          "name_ur": "",
+          "lat": 32.410286,
+          "lon": 74.589147,
+          "coord_source": "auto:nominatim:node/3742358254",
+          "is_station": false
+        },
+        {
+          "name": "Badiana",
+          "name_ur": "",
+          "lat": 32.421692,
+          "lon": 74.578468,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Purab",
+          "name_ur": "",
+          "lat": 32.433098,
+          "lon": 74.567788,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Khui Stop",
+          "name_ur": "",
+          "lat": 32.444504,
+          "lon": 74.557109,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Langay",
+          "name_ur": "",
+          "lat": 32.45591,
+          "lon": 74.54643,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ramkey",
+          "name_ur": "",
+          "lat": 32.467316,
+          "lon": 74.53575,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Punjab College, Pasrur",
+          "name_ur": "",
+          "lat": 32.478722,
+          "lon": 74.525071,
+          "coord_source": "auto:osm:way/366930338",
+          "is_station": false
+        },
+        {
+          "name": "Malopatyal",
+          "name_ur": "",
+          "lat": 32.476212,
+          "lon": 74.526975,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Narowal Bypass",
+          "name_ur": "",
+          "lat": 32.473702,
+          "lon": 74.528879,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Larri Adda, Pasrur",
+          "name_ur": "",
+          "lat": 32.471193,
+          "lon": 74.530784,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "THQ Hospital Pasrur",
+          "name_ur": "",
+          "lat": 32.468683,
+          "lon": 74.532688,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pasrur",
+          "name_ur": "",
+          "lat": 32.466173,
+          "lon": 74.534592,
+          "coord_source": "auto:osm:way/166350123",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Sialkot route",
+          "url": "https://www.safar.fyi/sialkot/transit-lines/etransit-sialkot%3A321"
+        }
+      ],
+      "notes": "GBS-Daska and GBS-Pasrur. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS, Sialkot to Pasrur', 22 stops); safar lists service 6:00 AM - 7:00 PM (unverified)."
+    }
+  ]
+}

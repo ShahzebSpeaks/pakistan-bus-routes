@@ -1,0 +1,1154 @@
+{
+  "id": "bahawalpur-electric-bus",
+  "city": "bahawalpur",
+  "name": "Green Electric Bus Bahawalpur",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Punjab expands electric bus service into ten new cities",
+      "url": "https://minutemirror.com.pk/punjab-expands-electric-bus-service-into-ten-new-cities-463865/",
+      "publisher": "Minute Mirror",
+      "date": "2025-11-18",
+      "official": false
+    },
+    {
+      "title": "Punjab Expands Electric Bus Service to Tehsil Level",
+      "url": "https://propakistani.pk/2026/09/09/punjab-expands-electric-bus-service-to-tehsil-level/",
+      "publisher": "ProPakistani",
+      "date": "2026-09-09",
+      "official": false
+    },
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Bahawalpur Green Electric Bus routes",
+      "url": "https://www.safar.fyi/bahawalpur/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "13-solang-to-cattle-market",
+      "name": "13 solang to Cattle market",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "DHA Main Office",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Quilz of Wisdom Chowk DHA/Central Park",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Yazman Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Yazman Road DHA Gate (Sir Sadiq Abbasi Gate)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jinnah College",
+          "name_ur": "",
+          "lat": 29.405943,
+          "lon": 71.668024,
+          "coord_source": "auto:osm:node/4923821629",
+          "is_station": false
+        },
+        {
+          "name": "13 Solang",
+          "name_ur": "",
+          "lat": 29.405943,
+          "lon": 71.668024,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah College",
+          "name_ur": "",
+          "lat": 29.405943,
+          "lon": 71.668024,
+          "coord_source": "auto:osm:node/4923821629",
+          "is_station": false
+        },
+        {
+          "name": "Jamia Masjid Almaghfirah",
+          "name_ur": "",
+          "lat": 29.403964,
+          "lon": 71.666568,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "New Cantt",
+          "name_ur": "",
+          "lat": 29.401986,
+          "lon": 71.665113,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Food Godowns",
+          "name_ur": "",
+          "lat": 29.400007,
+          "lon": 71.663657,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gulberg Avenue",
+          "name_ur": "",
+          "lat": 29.398028,
+          "lon": 71.662201,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Garden Town",
+          "name_ur": "",
+          "lat": 29.39605,
+          "lon": 71.660746,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "City School BWP/Beacon House Bwp/ Punjab College",
+          "name_ur": "",
+          "lat": 29.394071,
+          "lon": 71.65929,
+          "coord_source": "auto:osm:way/182208573",
+          "is_station": false
+        },
+        {
+          "name": "Mustafa Town",
+          "name_ur": "",
+          "lat": 29.384388,
+          "lon": 71.677841,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Islamia Colony",
+          "name_ur": "",
+          "lat": 29.374705,
+          "lon": 71.696392,
+          "coord_source": "auto:osm:node/8600442784",
+          "is_station": false
+        },
+        {
+          "name": "Rohi Plaza/Islamia Checkpost",
+          "name_ur": "",
+          "lat": 29.377705,
+          "lon": 71.694525,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dilawar Colony",
+          "name_ur": "",
+          "lat": 29.380705,
+          "lon": 71.692657,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Anwarabad Colony",
+          "name_ur": "",
+          "lat": 29.383705,
+          "lon": 71.69079,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kali Pulli Darbar Road",
+          "name_ur": "",
+          "lat": 29.386705,
+          "lon": 71.688922,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "DC Chowk",
+          "name_ur": "",
+          "lat": 29.389705,
+          "lon": 71.687055,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "RPO House",
+          "name_ur": "",
+          "lat": 29.392705,
+          "lon": 71.685187,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Farid Gate Chowk",
+          "name_ur": "",
+          "lat": 29.395705,
+          "lon": 71.68332,
+          "coord_source": "auto:osm:node/3945880651",
+          "is_station": false
+        },
+        {
+          "name": "Model Bazar",
+          "name_ur": "",
+          "lat": 29.39907,
+          "lon": 71.682497,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bahawalpur Zoo",
+          "name_ur": "",
+          "lat": 29.402435,
+          "lon": 71.681675,
+          "coord_source": "auto:osm:way/756188959",
+          "is_station": false
+        },
+        {
+          "name": "Larri Adda",
+          "name_ur": "",
+          "lat": 29.399685,
+          "lon": 71.678635,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Multani Gate",
+          "name_ur": "",
+          "lat": 29.396934,
+          "lon": 71.675594,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chikaan Wala Chowk",
+          "name_ur": "",
+          "lat": 29.394184,
+          "lon": 71.672553,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mohallah Islampura",
+          "name_ur": "",
+          "lat": 29.391434,
+          "lon": 71.669513,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Fawara Chowk High Court",
+          "name_ur": "",
+          "lat": 29.388683,
+          "lon": 71.666472,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dubai Chowk",
+          "name_ur": "",
+          "lat": 29.385933,
+          "lon": 71.663432,
+          "coord_source": "auto:osm:way/1299344170",
+          "is_station": false
+        },
+        {
+          "name": "State Life Zonal Office",
+          "name_ur": "",
+          "lat": 29.382988,
+          "lon": 71.658411,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nawab Colony",
+          "name_ur": "",
+          "lat": 29.380043,
+          "lon": 71.65339,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Daewoo Bus Terminal",
+          "name_ur": "",
+          "lat": 29.377098,
+          "lon": 71.648369,
+          "coord_source": "auto:osm:node/1925507834",
+          "is_station": false
+        },
+        {
+          "name": "Agricultural Engineering Department",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "New Sabzi Mandi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Cattle Market",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Bahawalpur route",
+          "url": "https://www.safar.fyi/bahawalpur/transit-lines/bwp%3A227"
+        }
+      ],
+      "notes": "Part of ten-city phase (Nov 2025). Tehsil-level expansion (215 buses, 11 tehsils) planned from Jan 2027. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'DHA Main Office to Cattle Market', 36 stops); safar lists service 6:00 AM - 10:00 PM (unverified)."
+    },
+    {
+      "id": "bhatta-1-to-goth-lashkar",
+      "name": "Bhatta 1 to Goth Lashkar",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Bhatta No 1",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Tax Office",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Model Town A",
+          "name_ur": "",
+          "lat": 29.385614,
+          "lon": 71.657318,
+          "coord_source": "auto:osm:way/25530638",
+          "is_station": false
+        },
+        {
+          "name": "Chase Value",
+          "name_ur": "",
+          "lat": 29.389647,
+          "lon": 71.658881,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Live Stock",
+          "name_ur": "",
+          "lat": 29.39368,
+          "lon": 71.660445,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "National Hospital",
+          "name_ur": "",
+          "lat": 29.397714,
+          "lon": 71.662008,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Medina Masjid",
+          "name_ur": "",
+          "lat": 29.401747,
+          "lon": 71.663572,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Samiullah Chowk",
+          "name_ur": "",
+          "lat": 29.40578,
+          "lon": 71.665135,
+          "coord_source": "auto:osm:node/12465194874",
+          "is_station": false
+        },
+        {
+          "name": "Bhopal Wala Chowk",
+          "name_ur": "",
+          "lat": 29.406918,
+          "lon": 71.669248,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Green Palace",
+          "name_ur": "",
+          "lat": 29.408057,
+          "lon": 71.67336,
+          "coord_source": "auto:osm:node/4923820114",
+          "is_station": false
+        },
+        {
+          "name": "Larri Adda",
+          "name_ur": "",
+          "lat": 29.408209,
+          "lon": 71.681958,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Central Jail",
+          "name_ur": "",
+          "lat": 29.408362,
+          "lon": 71.690555,
+          "coord_source": "auto:osm:way/182208420",
+          "is_station": false
+        },
+        {
+          "name": "Radio Station",
+          "name_ur": "",
+          "lat": 29.406667,
+          "lon": 71.682315,
+          "coord_source": "auto:osm:node/1925508115",
+          "is_station": false
+        },
+        {
+          "name": "Faisal Colony",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pul Dewanwah",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jannat Housing Scheme",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Govt Degree College",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Civil Hospital Mosque",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Consumer Court",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Goth Lashkar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Bahawalpur route",
+          "url": "https://www.safar.fyi/bahawalpur/transit-lines/bwp%3A229"
+        }
+      ],
+      "notes": "Part of ten-city phase (Nov 2025). Tehsil-level expansion (215 buses, 11 tehsils) planned from Jan 2027. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Bhatta No 1 to Goth Lashkar', 21 stops); safar lists service 6:00 AM - 8:56 PM (unverified)."
+    },
+    {
+      "id": "dera-bakha-to-lodhran-entrance-gate",
+      "name": "Dera Bakha to Lodhran entrance gate",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Dera Bakha",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Basti bhiyyan wala phattak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chak 5/BC",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Basti Kacholian",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Hasilpur Bypass/Solar Park",
+          "name_ur": "",
+          "lat": 29.387169,
+          "lon": 71.799493,
+          "coord_source": "auto:osm:way/1156459935",
+          "is_station": false
+        },
+        {
+          "name": "Chak 7/6 BC (Basti Kharik)",
+          "name_ur": "",
+          "lat": 29.384953,
+          "lon": 71.790796,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "GECHS Gate no. 2",
+          "name_ur": "",
+          "lat": 29.382737,
+          "lon": 71.7821,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "GECHS Gate no. 1",
+          "name_ur": "",
+          "lat": 29.38052,
+          "lon": 71.773403,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Islamia University",
+          "name_ur": "",
+          "lat": 29.378304,
+          "lon": 71.764706,
+          "coord_source": "auto:osm:way/863319272",
+          "is_station": false
+        },
+        {
+          "name": "Musa Colony Rangers HQ",
+          "name_ur": "",
+          "lat": 29.381765,
+          "lon": 71.75307,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Japan Town",
+          "name_ur": "",
+          "lat": 29.385226,
+          "lon": 71.741434,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chak 10 BC",
+          "name_ur": "",
+          "lat": 29.388687,
+          "lon": 71.729798,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Royal College",
+          "name_ur": "",
+          "lat": 29.392149,
+          "lon": 71.718161,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Baghdad ul Jadeed Railway Station",
+          "name_ur": "",
+          "lat": 29.39561,
+          "lon": 71.706525,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Govt Graduate Girls College",
+          "name_ur": "",
+          "lat": 29.399071,
+          "lon": 71.694889,
+          "coord_source": "auto:osm:node/1925507956",
+          "is_station": false
+        },
+        {
+          "name": "Hussaini Chowk",
+          "name_ur": "",
+          "lat": 29.39865,
+          "lon": 71.693443,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Technical College",
+          "name_ur": "",
+          "lat": 29.398229,
+          "lon": 71.691997,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "One Unit Chowk",
+          "name_ur": "",
+          "lat": 29.397809,
+          "lon": 71.690551,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sadar Pully",
+          "name_ur": "",
+          "lat": 29.397388,
+          "lon": 71.689104,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kali Pulli Road",
+          "name_ur": "",
+          "lat": 29.396967,
+          "lon": 71.687658,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Technology Park",
+          "name_ur": "",
+          "lat": 29.396546,
+          "lon": 71.686212,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Central Library",
+          "name_ur": "",
+          "lat": 29.396126,
+          "lon": 71.684766,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Farid Gate",
+          "name_ur": "",
+          "lat": 29.395705,
+          "lon": 71.68332,
+          "coord_source": "auto:osm:node/3945880651",
+          "is_station": false
+        },
+        {
+          "name": "Bahawalpur Zoo",
+          "name_ur": "",
+          "lat": 29.402435,
+          "lon": 71.681675,
+          "coord_source": "auto:osm:way/756188959",
+          "is_station": false
+        },
+        {
+          "name": "Larri Adda",
+          "name_ur": "",
+          "lat": 29.407199,
+          "lon": 71.678044,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Aliza Hospital",
+          "name_ur": "",
+          "lat": 29.411964,
+          "lon": 71.674413,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bindra Pulli",
+          "name_ur": "",
+          "lat": 29.416728,
+          "lon": 71.670783,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Abbasia Town",
+          "name_ur": "",
+          "lat": 29.421493,
+          "lon": 71.667152,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Small Industrial Estate, Bahawalpur",
+          "name_ur": "",
+          "lat": 29.426257,
+          "lon": 71.663521,
+          "coord_source": "auto:osm:node/4923820084",
+          "is_station": false
+        },
+        {
+          "name": "Karachi Morr",
+          "name_ur": "",
+          "lat": 29.428379,
+          "lon": 71.657254,
+          "coord_source": "auto:osm:way/391367297",
+          "is_station": false
+        },
+        {
+          "name": "Khokha Bus Stop",
+          "name_ur": "",
+          "lat": 29.437198,
+          "lon": 71.654803,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chamb Morr",
+          "name_ur": "",
+          "lat": 29.446017,
+          "lon": 71.652351,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Adda Adamwahan",
+          "name_ur": "",
+          "lat": 29.454836,
+          "lon": 71.6499,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Taj Hotel",
+          "name_ur": "",
+          "lat": 29.463655,
+          "lon": 71.647449,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Malingi Hotel",
+          "name_ur": "",
+          "lat": 29.472474,
+          "lon": 71.644997,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shahida Islamic Medical College",
+          "name_ur": "",
+          "lat": 29.481293,
+          "lon": 71.642546,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "District Hospital Lodhran",
+          "name_ur": "",
+          "lat": 29.490112,
+          "lon": 71.640094,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bahauddin Zakaria University",
+          "name_ur": "",
+          "lat": 29.498931,
+          "lon": 71.637643,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Umar Garden",
+          "name_ur": "",
+          "lat": 29.50775,
+          "lon": 71.635192,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Melad Chowk",
+          "name_ur": "",
+          "lat": 29.516569,
+          "lon": 71.63274,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Aziz Town",
+          "name_ur": "",
+          "lat": 29.525388,
+          "lon": 71.630289,
+          "coord_source": "auto:osm:way/792221834",
+          "is_station": false
+        },
+        {
+          "name": "City Bus Stand",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Multan Bus Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Liaquatabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sabzi Mandi Lodhran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Hassan Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Lodhra Entrance Gate",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Bahawalpur route",
+          "url": "https://www.safar.fyi/bahawalpur/transit-lines/bwp%3A226"
+        }
+      ],
+      "notes": "Part of ten-city phase (Nov 2025). Tehsil-level expansion (215 buses, 11 tehsils) planned from Jan 2027. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Dera Bakha to Lodhra Entrance Gate', 47 stops); safar lists service 6:00 AM - 8:40 PM (unverified)."
+    },
+    {
+      "id": "talha-town-to-al-raheem-town",
+      "name": "Talha Town to Al Raheem Town",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Talha Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Arshad Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Saeedabad Colony",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nadra E Sahulat",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": 29.407536,
+          "lon": 71.654785,
+          "coord_source": "auto:osm:way/391367311",
+          "is_station": false
+        },
+        {
+          "name": "Islamia Mission Market",
+          "name_ur": "",
+          "lat": 29.403224,
+          "lon": 71.658186,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Islamia University Railaway Campus",
+          "name_ur": "",
+          "lat": 29.398911,
+          "lon": 71.661588,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Saraiki Chowk",
+          "name_ur": "",
+          "lat": 29.394599,
+          "lon": 71.664989,
+          "coord_source": "auto:osm:way/410667457",
+          "is_station": false
+        },
+        {
+          "name": "Fawara Chowk",
+          "name_ur": "",
+          "lat": 29.390929,
+          "lon": 71.671647,
+          "coord_source": "auto:osm:way/74297910",
+          "is_station": false
+        },
+        {
+          "name": "Quaid e Azam Medical College",
+          "name_ur": "",
+          "lat": 29.388707,
+          "lon": 71.67753,
+          "coord_source": "auto:osm:way/182208578",
+          "is_station": false
+        },
+        {
+          "name": "Victoria Park",
+          "name_ur": "",
+          "lat": 29.392206,
+          "lon": 71.680425,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Farid Gate Chowk",
+          "name_ur": "",
+          "lat": 29.395705,
+          "lon": 71.68332,
+          "coord_source": "auto:osm:node/3945880651",
+          "is_station": false
+        },
+        {
+          "name": "Model Bazar",
+          "name_ur": "",
+          "lat": 29.395601,
+          "lon": 71.686755,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Engerton College/Islamic University/University Chowk",
+          "name_ur": "",
+          "lat": 29.395496,
+          "lon": 71.69019,
+          "coord_source": "auto:osm:way/182208592",
+          "is_station": false
+        },
+        {
+          "name": "DC Chowk",
+          "name_ur": "",
+          "lat": 29.394392,
+          "lon": 71.693323,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "One Unit Chowk",
+          "name_ur": "",
+          "lat": 29.393288,
+          "lon": 71.696456,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Al Shams Park",
+          "name_ur": "",
+          "lat": 29.392184,
+          "lon": 71.699589,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Central School",
+          "name_ur": "",
+          "lat": 29.391079,
+          "lon": 71.702721,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kanju Basti",
+          "name_ur": "",
+          "lat": 29.389975,
+          "lon": 71.705854,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Satellite Town",
+          "name_ur": "",
+          "lat": 29.388871,
+          "lon": 71.708987,
+          "coord_source": "auto:osm:way/658935650",
+          "is_station": false
+        },
+        {
+          "name": "Al Raheem Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Al Raheem Town Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Bahawalpur route",
+          "url": "https://www.safar.fyi/bahawalpur/transit-lines/bwp%3A228"
+        }
+      ],
+      "notes": "Part of ten-city phase (Nov 2025). Tehsil-level expansion (215 buses, 11 tehsils) planned from Jan 2027. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Talha Town to Al Raheem Town Road', 22 stops); safar lists service 6:00 AM - 10:12 PM (unverified)."
+    }
+  ]
+}

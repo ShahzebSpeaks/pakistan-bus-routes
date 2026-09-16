@@ -1,0 +1,436 @@
+{
+  "id": "muzaffargarh-electric-bus",
+  "city": "muzaffargarh",
+  "name": "Green Electric Bus Muzaffargarh",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Muzaffargarh Green Electric Bus routes",
+      "url": "https://www.safar.fyi/muzaffargarh/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "fazal-mill-to-khanpur-bagga-sher",
+      "name": "Fazal Mill to Khanpur Bagga Sher",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Fazal Mill",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Hashir Mill",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhutta Pur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jasalwain Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Admore Pump",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Khanpur Bagga Sher Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Khanpur Bagga Sher",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Indus Mill",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Muzaffargarh route",
+          "url": "https://www.safar.fyi/muzaffargarh/transit-lines/mzg%3A146"
+        }
+      ],
+      "notes": "No dated launch report found; routes from safar.fyi only (short routes, 5-16 stops). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Fazal Mill to Indus Mill', 9 stops); safar lists service 6:00 AM - 8:00 PM (unverified)."
+    },
+    {
+      "id": "jhang-mor-to-turkey-hospital",
+      "name": "Jhang Mor to Turkey Hospital",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Jhang Morr",
+          "name_ur": "",
+          "lat": 30.072935,
+          "lon": 71.184489,
+          "coord_source": "auto:osm:node/4642123817",
+          "is_station": false
+        },
+        {
+          "name": "Daewoo Stop",
+          "name_ur": "",
+          "lat": 30.071097,
+          "lon": 71.170365,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Labour Colony",
+          "name_ur": "",
+          "lat": 30.069259,
+          "lon": 71.15624,
+          "coord_source": "auto:osm:node/4395758497",
+          "is_station": false
+        },
+        {
+          "name": "Turkey Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Muzaffargarh route",
+          "url": "https://www.safar.fyi/muzaffargarh/transit-lines/mzg%3A151"
+        }
+      ],
+      "notes": "No dated launch report found; routes from safar.fyi only (short routes, 5-16 stops). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Jhang Morr to Turkey Hospital', 5 stops); safar lists service 6:00 AM - 8:10 PM (unverified). Removed consecutive duplicate stop(s): Turkey Hospital."
+    },
+    {
+      "id": "railway-phattak-to-mehmood-mills",
+      "name": "Railway Phattak to Mehmood Mills",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Railway Phattak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Purani Chungi No 2",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jhang Morr",
+          "name_ur": "",
+          "lat": 30.072935,
+          "lon": 71.184489,
+          "coord_source": "auto:osm:node/4642123817",
+          "is_station": false
+        },
+        {
+          "name": "Katcheri Chowk",
+          "name_ur": "",
+          "lat": 30.07206,
+          "lon": 71.181869,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Qinwan Chowk",
+          "name_ur": "",
+          "lat": 30.071184,
+          "lon": 71.17925,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Boys Degree College",
+          "name_ur": "",
+          "lat": 30.070309,
+          "lon": 71.17663,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Taliri Bypass",
+          "name_ur": "",
+          "lat": 30.069434,
+          "lon": 71.17401,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Basti Cheena",
+          "name_ur": "",
+          "lat": 30.068558,
+          "lon": 71.171391,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mehmood Textile Mills",
+          "name_ur": "",
+          "lat": 30.067683,
+          "lon": 71.168771,
+          "coord_source": "auto:osm:way/803000075",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Muzaffargarh route",
+          "url": "https://www.safar.fyi/muzaffargarh/transit-lines/mzg%3A149"
+        }
+      ],
+      "notes": "No dated launch report found; routes from safar.fyi only (short routes, 5-16 stops). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Railway Phattak to Mehmood Textile Mills -', 9 stops); safar lists service 6:00 AM - 8:00 PM (unverified)."
+    },
+    {
+      "id": "railway-phattak-to-railway-phattak",
+      "name": "Railway Phattak to Railway Phattak",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "PTC Muzaffargarh Depot",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Railway Phattak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Purani Chungi No 2",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jhang Morr",
+          "name_ur": "",
+          "lat": 30.072935,
+          "lon": 71.184489,
+          "coord_source": "auto:osm:node/4642123817",
+          "is_station": false
+        },
+        {
+          "name": "Katcheri Chowk",
+          "name_ur": "",
+          "lat": 30.070208,
+          "lon": 71.187049,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Yadgar Chowk",
+          "name_ur": "",
+          "lat": 30.06748,
+          "lon": 71.189608,
+          "coord_source": "auto:osm:node/4395712262",
+          "is_station": false
+        },
+        {
+          "name": "DHQ",
+          "name_ur": "",
+          "lat": 30.068796,
+          "lon": 71.189702,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Alipur Bypass",
+          "name_ur": "",
+          "lat": 30.070113,
+          "lon": 71.189796,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Tibbi Chowk",
+          "name_ur": "",
+          "lat": 30.071429,
+          "lon": 71.189891,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sabzi Mandi",
+          "name_ur": "",
+          "lat": 30.072745,
+          "lon": 71.189985,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Taliri Bypass",
+          "name_ur": "",
+          "lat": 30.074062,
+          "lon": 71.190079,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Boys Degree College",
+          "name_ur": "",
+          "lat": 30.075378,
+          "lon": 71.190174,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Qinwan Chowk",
+          "name_ur": "",
+          "lat": 30.076695,
+          "lon": 71.190268,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Railway Road",
+          "name_ur": "",
+          "lat": 30.078011,
+          "lon": 71.190362,
+          "coord_source": "auto:osm:way/71433521",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": 30.083312,
+          "lon": 71.193976,
+          "coord_source": "auto:osm:way/859400184",
+          "is_station": false
+        },
+        {
+          "name": "Railway Phattak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Muzaffargarh route",
+          "url": "https://www.safar.fyi/muzaffargarh/transit-lines/mzg%3A154"
+        }
+      ],
+      "notes": "No dated launch report found; routes from safar.fyi only (short routes, 5-16 stops). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'PTC Muzaffargarh Depot to Railway Phattak', 16 stops); safar lists service 6:00 AM - 8:00 PM (unverified)."
+    }
+  ]
+}

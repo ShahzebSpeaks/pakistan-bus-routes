@@ -1,0 +1,361 @@
+{
+  "id": "murree-electric-bus",
+  "city": "murree",
+  "name": "Green Electric Bus Murree",
+  "name_ur": "گرین الیکٹرک بس",
+  "operator": "Government of Punjab - Transport & Mass Transit Department (CM Punjab Green Electric Bus programme)",
+  "mode": "electric_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "flat",
+    "currency": "PKR",
+    "flat": 20,
+    "slabs": [],
+    "concessions": "Free for women, students, senior citizens and persons with disabilities (Punjab e-bus policy).",
+    "as_of": "2026-07",
+    "source_url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "safar.fyi: routes start 06:00, last trips ~19:00-22:30 depending on route (unverified)."
+  },
+  "last_verified": "2026-09-16",
+  "sources": [
+    {
+      "title": "CM launches e-bus service in five more districts",
+      "url": "https://www.brecorder.com/news/40430390/cm-launches-e-bus-service-in-five-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-17",
+      "official": false
+    },
+    {
+      "title": "Punjab CM Maryam inaugurates green electric buses in five districts",
+      "url": "https://www.24newshd.tv/16-Jul-2026/punjab-cm-maryam-inaugurates-green-electric-buses-five-districts",
+      "publisher": "24NewsHD",
+      "date": "2026-07-16",
+      "official": false
+    },
+    {
+      "title": "Murree receives fleet of 15 electric buses",
+      "url": "https://www.dawn.com/news/2012001",
+      "publisher": "Dawn",
+      "date": null,
+      "official": false
+    },
+    {
+      "title": "Punjab launches 77 electric buses on 17 routes across seven more districts",
+      "url": "https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts",
+      "publisher": "Business Recorder",
+      "date": "2026-07-31",
+      "official": false
+    },
+    {
+      "title": "All Murree Green Electric Bus routes",
+      "url": "https://www.safar.fyi/murree/transit-lines",
+      "publisher": "safar.fyi",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "EVM01",
+      "name": "GBS Murree to Barrian",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-16",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "General Bus Stand Murree",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sunny Bank Stop",
+          "name_ur": "",
+          "lat": 33.917277,
+          "lon": 73.393209,
+          "coord_source": "auto:osm:node/366078306",
+          "is_station": false
+        },
+        {
+          "name": "Kuldana Stop",
+          "name_ur": "",
+          "lat": 33.920844,
+          "lon": 73.399601,
+          "coord_source": "auto:osm:node/4085572374",
+          "is_station": false
+        },
+        {
+          "name": "Sandhian Stop",
+          "name_ur": "",
+          "lat": 33.929671,
+          "lon": 73.398548,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ratti Galli Stop",
+          "name_ur": "",
+          "lat": 33.938498,
+          "lon": 73.397495,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Darya Galli",
+          "name_ur": "",
+          "lat": 33.947325,
+          "lon": 73.396442,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kali Mitti Stop",
+          "name_ur": "",
+          "lat": 33.956152,
+          "lon": 73.395388,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ratti Galli chowk",
+          "name_ur": "",
+          "lat": 33.964979,
+          "lon": 73.394335,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Barrian Stop",
+          "name_ur": "",
+          "lat": 33.973806,
+          "lon": 73.393282,
+          "coord_source": "auto:osm:node/2468640258",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Murree route",
+          "url": "https://www.safar.fyi/murree/transit-lines/etransit-murree%3A313"
+        }
+      ],
+      "notes": "CONFLICT: Jul-2026 news describes GBS Murree to Kotli Sattian / 17 Mile; safar.fyi lists EVM01 Barrian, EVM02 Rawat, EVM03 New Murree. Dawn reports a 15-bus fleet. Stops/order from safar.fyi (direction 'General Bus Stand Murree to Barrian Stop', 9 stops); safar lists service 6:15 AM - 10:15 PM (unverified)."
+    },
+    {
+      "id": "EVM02",
+      "name": "GBS Murree to Rawat",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-16",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "General Bus Stand Murree",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sunny Bank Stop",
+          "name_ur": "",
+          "lat": 33.917277,
+          "lon": 73.393209,
+          "coord_source": "auto:osm:node/366078306",
+          "is_station": false
+        },
+        {
+          "name": "Kuldana Stop",
+          "name_ur": "",
+          "lat": 33.920844,
+          "lon": 73.399601,
+          "coord_source": "auto:osm:node/4085572374",
+          "is_station": false
+        },
+        {
+          "name": "Dairy Farm Stop",
+          "name_ur": "",
+          "lat": 33.926827,
+          "lon": 73.410089,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jhika Galli Chowk",
+          "name_ur": "",
+          "lat": 33.93281,
+          "lon": 73.420577,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gharial Stop",
+          "name_ur": "",
+          "lat": 33.938793,
+          "lon": 73.431065,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kashmiri Bazar",
+          "name_ur": "",
+          "lat": 33.944776,
+          "lon": 73.441553,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bhurban Stop",
+          "name_ur": "",
+          "lat": 33.950759,
+          "lon": 73.452041,
+          "coord_source": "auto:osm:node/6577096685",
+          "is_station": false
+        },
+        {
+          "name": "Rawat Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Murree route",
+          "url": "https://www.safar.fyi/murree/transit-lines/etransit-murree%3A315"
+        }
+      ],
+      "notes": "CONFLICT: Jul-2026 news describes GBS Murree to Kotli Sattian / 17 Mile; safar.fyi lists EVM01 Barrian, EVM02 Rawat, EVM03 New Murree. Dawn reports a 15-bus fleet. Stops/order from safar.fyi (direction 'General Bus Stand Murree to Rawat Stop', 9 stops); safar lists service 6:15 AM - 10:15 PM (unverified)."
+    },
+    {
+      "id": "EVM03",
+      "name": "GBS Murree to New Murree",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-07-16",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "General Bus Stand Murree",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sunny Bank Stop",
+          "name_ur": "",
+          "lat": 33.917277,
+          "lon": 73.393209,
+          "coord_source": "auto:osm:node/366078306",
+          "is_station": false
+        },
+        {
+          "name": "Kuldana Stop",
+          "name_ur": "",
+          "lat": 33.920844,
+          "lon": 73.399601,
+          "coord_source": "auto:osm:node/4085572374",
+          "is_station": false
+        },
+        {
+          "name": "Dairy Farm Stop",
+          "name_ur": "",
+          "lat": 33.913096,
+          "lon": 73.410312,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jhika Galli Chowk",
+          "name_ur": "",
+          "lat": 33.905348,
+          "lon": 73.421023,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lower Topa Stop",
+          "name_ur": "",
+          "lat": 33.8976,
+          "lon": 73.431734,
+          "coord_source": "auto:osm:node/2466324565",
+          "is_station": false
+        },
+        {
+          "name": "Dhanna Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Numb Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nurang",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "New Murree Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "safar.fyi Murree route",
+          "url": "https://www.safar.fyi/murree/transit-lines/etransit-murree%3A314"
+        }
+      ],
+      "notes": "CONFLICT: Jul-2026 news describes GBS Murree to Kotli Sattian / 17 Mile; safar.fyi lists EVM01 Barrian, EVM02 Rawat, EVM03 New Murree. Dawn reports a 15-bus fleet. Stops/order from safar.fyi (direction 'General Bus Stand Murree to New Murree Stop', 10 stops); safar lists service 5:45 AM - 10:15 PM (unverified)."
+    }
+  ]
+}
