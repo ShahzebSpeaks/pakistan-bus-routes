@@ -105,7 +105,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Rawalpindi–Islamabad Metrobus | GREEN | PIMS - Bhara Kahu | operational | 10 | 20% | 10% | 0% | 40% | 3 | high |
 | Islamabad Electric Feeder Buses (CDA) | FR-01 | Khanna Pul - NUST Metro Station (via I-8, I-9, I-10, I-11) | operational | 26 | 35% | 27% | 0% | 38% | 0 | high |
 | Islamabad Electric Feeder Buses (CDA) | FR-03A | PIMS Hospital - Saidpur Village (via F-8, Faisal Masjid, F-7) | operational | 15 | 20% | 40% | 0% | 27% | 2 | medium |
-| Islamabad Electric Feeder Buses (CDA) | FR-04 | PIMS Hospital - Bari Imam (via Aabpara, Diplomatic Enclave) | operational | 25 | 72% | 4% | 0% | 20% | 1 | high |
+| Islamabad Electric Feeder Buses (CDA) | FR-04 | PIMS Hospital - Bari Imam (via Aabpara, Diplomatic Enclave) | operational | 25 | 76% | 0% | 0% | 20% | 1 | high |
 | Islamabad Electric Feeder Buses (CDA) | FR-04A | Bari Imam - Quaid-i-Azam University | operational | 7 | 14% | 29% | 0% | 57% | 0 | high |
 | Islamabad Electric Feeder Buses (CDA) | FR-04B | Diplomatic Enclave Shuttle Service (loop) | operational | 20 | 0% | 20% | 0% | 80% | 0 | medium |
 | Islamabad Electric Feeder Buses (CDA) | FR-05 | NUST Metro Station - D-12 (via G-10, E-11) | unverified | 14 | 21% | 43% | 0% | 29% | 1 | low |
