@@ -1,0 +1,5256 @@
+{
+  "id": "lahore-iptn-planned",
+  "city": "lahore",
+  "name": "Planned feeder network (PMA IPTN)",
+  "name_ur": "",
+  "operator": "Punjab Masstransit Authority (planning proposal)",
+  "mode": "feeder",
+  "website": "https://pma.punjab.gov.pk",
+  "helpline": null,
+  "payment": null,
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "last_verified": "2026-09-19",
+  "sources": [
+    {
+      "title": "Integrated Public Transport Network Lahore",
+      "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf",
+      "publisher": "Punjab Masstransit Authority",
+      "date": null,
+      "official": true
+    }
+  ],
+  "routes": [
+    {
+      "id": "IPTN-2",
+      "name": "Samanabad Morr - Bhatti Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 10,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Samanabad Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Corporation Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Taj Company",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sanda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Double Sarkan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Moon Market",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ganda Nala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhatti Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 2: Feeder Route, Phase-I, Standard Bus, 10 km, commercial speed 18 km/h, round trip 77 min, headway 5 min, 15 buses. Alignment as printed: \"Samanabad Morr to Bhatti Chowk via Corporation Chowk, Taj Company, Sanda, Double Sarkan, Moon Market, Ganda Nala\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Phase-I route (Phase-I was launched as Speedo feeder service c. 2017). Not in today's lahore-feeder by terminals; RT-28 Samanabad - Gulshan-e-Ravi Double Sarka covers part of this alignment, so this route was probably cut back or renumbered. Status unverified."
+    },
+    {
+      "id": "IPTN-6",
+      "name": "Babu Sabu - Raj Garh Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Babu Sabu",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Niazi Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "City Bus Stand",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chowk Yateem Khana",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhala Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Samanabad Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chauburji",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Riwaz Garden",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "M.A.O College",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Firdous Cinema",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Raj Garh Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 6: Feeder Route, Phase-I, Mini Bus, 7 km, commercial speed 18 km/h, round trip 55 min, headway 5 min, 10 buses. Alignment as printed: \"Babu Sabu to Raj Garh Chowk via Niazi Adda, City Bus Stand, Chowk Yateem Khana, Bhala Stop, Samanabad Morr, Chauburji, Riwaz Garden, M.A.O College, Firdous Cinema\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Phase-I route (Phase-I was launched as Speedo feeder service c. 2017). No current lahore-feeder route has these terminals; status unverified (may have run earlier and been withdrawn)."
+    },
+    {
+      "id": "IPTN-15",
+      "name": "Qartaba Chowk - Babu Sabu",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Qartaba Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Babu Sabu",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 15: Feeder Route, Phase-II, Mini Bus, 7 km, commercial speed 18 km/h, round trip 58 min, headway 5 min, 12 buses. Alignment as printed: \"Qartba Chowk to Babu Sabu via Hakeem M. Ajmal Khan Road, Gulshan Ravi Road, Kacha Ferozepur Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Hakeem M. Ajmal Khan Road, Gulshan Ravi Road, Kacha Ferozepur Road."
+    },
+    {
+      "id": "IPTN-16",
+      "name": "Railway Station - Bhatti Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 4,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ek Moriya",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhatti Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 16: Feeder Route, Phase-II, Mini Bus, 4 km, commercial speed 18 km/h, round trip 35 min, headway 5 min, 7 buses. Alignment as printed: \"Railway Station to Bhatti Chowk Via Circular Road, Ek Moriya\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Circular Road."
+    },
+    {
+      "id": "IPTN-17",
+      "name": "Canal - Railway Station",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 8,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Canal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shimla Pahari",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Haji Camp",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 17: Feeder Route, Phase-II, Standard Bus, 8 km, commercial speed 18 km/h, round trip 66 min, headway 5 min, 13 buses. Alignment as printed: \"Canal to Railway Station Via Main Boulevard Shadman, Davis Road, Shimla Pahari, Haji Camp\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Main Boulevard Shadman, Davis Road."
+    },
+    {
+      "id": "IPTN-18",
+      "name": "Bhatti Chowk - Shimla Pahari",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 4,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Bhatti Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shimla Pahari",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 18: Feeder Route, Phase-II, Mini Bus, 4 km, commercial speed 18 km/h, round trip 33 min, headway 5 min, 7 buses. Alignment as printed: \"Bhatti Chowk to Shimla Pahari via Circular Road, Nisabt Road, Abbot Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Circular Road, Nisabt Road, Abbot Road."
+    },
+    {
+      "id": "IPTN-19",
+      "name": "Main Market - Bhatti Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 9,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Main Market",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhatti Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 19: Feeder Route, Phase-II, Mini Bus, 9 km, commercial speed 18 km/h, round trip 72 min, headway 5 min, 14 buses. Alignment as printed: \"Main Market to Bhatti Chowk via Jail Road, Lyton Road, Crust Road, Lower Mall road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Jail Road, Lyton Road, Crust Road, Lower Mall road. Overlaps current RT-15 (Bhatti Chowk - Main Market section)."
+    },
+    {
+      "id": "IPTN-20",
+      "name": "Jain Mandar - Chowk Yateem Khana",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 5,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Jain Mandar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chowk Yateem Khana",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 20: Feeder Route, Phase-II, Mini Bus, 5 km, commercial speed 18 km/h, round trip 40 min, headway 5 min, 8 buses. Alignment as printed: \"Jain Mandar to Chowk Yateem Khana via Al-Mumtaz Road, Poonch Road, Lake Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Al-Mumtaz Road, Poonch Road, Lake Road."
+    },
+    {
+      "id": "IPTN-21",
+      "name": "Depot Chowk - Thokar Niaz Baig",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 12,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Depot Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Thokar Niaz Baig",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 21: Feeder Route, Phase-II, Standard Bus, 12 km, commercial speed 18 km/h, round trip 91 min, headway 5 min, 18 buses. Alignment as printed: \"Depot Chowk to Thokar Niaz Baig via Madar-e-Millat Road, Ali Road, Baig Road, Canal Bank Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Madar-e-Millat Road, Ali Road, Baig Road, Canal Bank Road."
+    },
+    {
+      "id": "IPTN-22",
+      "name": "Depot Chowk - Thokar Niaz Baig",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 8,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Depot Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Thokar Niaz Baig",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 22: Feeder Route, Phase-II, Standard Bus, 8 km, commercial speed 18 km/h, round trip 66 min, headway 5 min, 13 buses. Alignment as printed: \"Depot Chowk to Thokar Niaz Baig via Madar-e-Millat Road, Sutlej Avenue, Shahrah Nazaria-e- Pakistan Avenue\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Madar-e-Millat Road, Sutlej Avenue, Shahrah Nazaria-e- Pakistan Avenue."
+    },
+    {
+      "id": "IPTN-23",
+      "name": "Valencia - Thokar Niaz Baig",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 11,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Valencia",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Thokar Niaz Baig",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 23: Feeder Route, Phase-II, Mini Bus, 11 km, commercial speed 18 km/h, round trip 85 min, headway 5 min, 17 buses. Alignment as printed: \"Valencia to Thokar Niaz Baig via Valencia Main Boulevard, Khayaban- e-Jinnah, Raiwind Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Valencia Main Boulevard, Khayaban- e-Jinnah, Raiwind Road."
+    },
+    {
+      "id": "IPTN-24",
+      "name": "Multan Chungi - Ghazi Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 10,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Multan Chungi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ghazi Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 24: Feeder Route, Phase-II, Standard Bus, 10 km, commercial speed 18 km/h, round trip 78 min, headway 5 min, 16 buses. Alignment as printed: \"Multan Chungi to Ghazi Chowk via College Road, Maulana Shaukat ALi Road, Wahdat Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: College Road, Maulana Shaukat ALi Road, Wahdat Road."
+    },
+    {
+      "id": "IPTN-25",
+      "name": "R.A Bazar - Railway Station",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 11,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "R.A Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 25: Feeder Route, Phase-II, Standard Bus, 11 km, commercial speed 18 km/h, round trip 83 min, headway 5 min, 18 buses. Alignment as printed: \"R.A Bazar to Railway Station Via Lahore-Bedian Road, Allama Iqbal Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Lahore-Bedian Road, Allama Iqbal Road. Overlaps current RT-19 (R.A. Bazar - Railway Station section)."
+    },
+    {
+      "id": "IPTN-26",
+      "name": "R.A Bazar - Daroghawala",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 11,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "R.A Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Daroghawala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 26: Feeder Route, Phase-II, Standard Bus, 11 km, commercial speed 18 km/h, round trip 85 min, headway 5 min, 18 buses. Alignment as printed: \"R.A Bazar to Daroghawala via G.T Road, Shalimar Link Road, Tufail Road, Sarfraz Rafique Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: G.T Road, Shalimar Link Road, Tufail Road, Sarfraz Rafique Road."
+    },
+    {
+      "id": "IPTN-27",
+      "name": "Bata Pur - Daroghawala",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 10,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Bata Pur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Daroghawala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 27: Feeder Route, Phase-II, Mini Bus, 10 km, commercial speed 18 km/h, round trip 77 min, headway 5 min, 15 buses. Alignment as printed: \"Bata Pur to Daroghawala via GT Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: GT Road."
+    },
+    {
+      "id": "IPTN-28",
+      "name": "Quaid e Azam Interchange - Airport",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 12,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Quaid e Azam Interchange",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Airport",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 28: Feeder Route, Phase-II, Mini Bus, 12 km, commercial speed 18 km/h, round trip 87 min, headway 5 min, 17 buses. Alignment as printed: \"Quaid e Azam Interchange to Airport via Harbanspura Road, Zarar Shaeed Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Harbanspura Road, Zarar Shaeed Road."
+    },
+    {
+      "id": "IPTN-29",
+      "name": "Niazi Interchange - Salamat Pura",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 13,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Niazi Interchange",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Salamat Pura",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 29: Feeder Route, Phase-II, Standard Bus, 13 km, commercial speed 18 km/h, round trip 97 min, headway 5 min, 19 buses. Alignment as printed: \"Niazi Interchange to Salamat Pura Via lahore Ring Road, Band Road, Sue Wala Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: lahore Ring Road, Band Road, Sue Wala Road."
+    },
+    {
+      "id": "IPTN-30",
+      "name": "Daroghawala - Airport",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 13,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Daroghawala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Airport",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 30: Feeder Route, Phase-II, Standard Bus, 13 km, commercial speed 18 km/h, round trip 97 min, headway 5 min, 19 buses. Alignment as printed: \"Daroghwala to Airport via G.T Road, Shalimar Link Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: G.T Road, Shalimar Link Road."
+    },
+    {
+      "id": "IPTN-31",
+      "name": "Daroghawala - Lari Adda",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 9,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Daroghawala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chamra Mandi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Cooper Store",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "UET",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shalimar Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Lari Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 31: Feeder Route, Phase-II, Mini Bus, 9 km, commercial speed 18 km/h, round trip 70 min, headway 5 min, 14 buses. Alignment as printed: \"Daroghawala to Lari Adda via Chamra Mandi, Cooper Store, UET, Shalimar Chowk\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops."
+    },
+    {
+      "id": "IPTN-32",
+      "name": "Shimla Pahari - Ek Moriya",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 6,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Shimla Pahari",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Cooper Store",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chamra Mandi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ek Moriya",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 32: Feeder Route, Phase-II, Mini Bus, 6 km, commercial speed 18 km/h, round trip 50 min, headway 5 min, 10 buses. Alignment as printed: \"Shimla Pahari to Ek Moriya via Durand Road, Queen Mary Road, Garhi Shahu Bridge, Cooper Store, Chamra Mandi, Ek Moriya\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Durand Road, Queen Mary Road, Garhi Shahu Bridge."
+    },
+    {
+      "id": "IPTN-33",
+      "name": "Cooper Store - Mughalpura",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 4,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Cooper Store",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mughalpura",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 33: Feeder Route, Phase-II, Mini Bus, 4 km, commercial speed 18 km/h, round trip 34 min, headway 5 min, 7 buses. Alignment as printed: \"Cooper Store to Mughalpura Via Workshop Rd, Mughalpura Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Workshop Rd, Mughalpura Road."
+    },
+    {
+      "id": "IPTN-34",
+      "name": "Singhpura - Mughalpura",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 3,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Singhpura",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mughalpura",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 34: Feeder Route, Phase-II, Mini Bus, 3 km, commercial speed 18 km/h, round trip 31 min, headway 5 min, 6 buses. Alignment as printed: \"Singhpura to Mughalpura Via Wheatman Road Griffin Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Wheatman Road Griffin Road."
+    },
+    {
+      "id": "IPTN-35",
+      "name": "R.A Bazar - Shalimar Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "R.A Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shalimar Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 35: Feeder Route, Phase-III, Standard Bus, 7 km, commercial speed 18 km/h, round trip 59 min, headway 5 min, 12 buses. Alignment as printed: \"R.A Bazar to Shalimar Chowk Via Sarfraz Rafique Road, Shalimar Flyover, Shalimar Link Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Sarfraz Rafique Road, Shalimar Flyover, Shalimar Link Road."
+    },
+    {
+      "id": "IPTN-36",
+      "name": "Mughalpura - Railway Station",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Mughalpura",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 36: Feeder Route, Phase-III, Standard Bus, 7 km, commercial speed 18 km/h, round trip 55 min, headway 5 min, 11 buses. Alignment as printed: \"Mughalpura to Railway Sation via Canal Bank Road, Sunderdas Road, Davis Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Canal Bank Road, Sunderdas Road, Davis Road."
+    },
+    {
+      "id": "IPTN-37",
+      "name": "Babu Sabu - Multan Chungi",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 8,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Babu Sabu",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Liaqat Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Multan Chungi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 37: Feeder Route, Phase-III, Standard Bus, 8 km, commercial speed 18 km/h, round trip 62 min, headway 5 min, 12 buses. Alignment as printed: \"Babu Sabu to Multan Chungi Via Liaqat Chowk, Mulana Hasrat Mohani Rd, Wahdat Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Mulana Hasrat Mohani Rd, Wahdat Road."
+    },
+    {
+      "id": "IPTN-38",
+      "name": "Karim Block - Matam Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Karim Block",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Matam Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 38: Feeder Route, Phase-III, Mini Bus, 7 km, commercial speed 18 km/h, round trip 56 min, headway 5 min, 11 buses. Alignment as printed: \"Karim Block to Matam Chowk Via Noor-ul-Amin Road, Fazal-e-Haq Road, Marghazar Road, Pico Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Noor-ul-Amin Road, Fazal-e-Haq Road, Marghazar Road, Pico Road."
+    },
+    {
+      "id": "IPTN-39",
+      "name": "Qayyum Park - Thokar Niaz Baig",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Qayyum Park",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Thokar Niaz Baig",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 39: Feeder Route, Phase-III, Mini Bus, 7 km, commercial speed 18 km/h, round trip 58 min, headway 5 min, 12 buses. Alignment as printed: \"Qayyum Park to Thokar Niaz Baig via Wahdat Road, Mazar Bholay Shaheed Road, Niaz Baig Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Wahdat Road, Mazar Bholay Shaheed Road, Niaz Baig Road."
+    },
+    {
+      "id": "IPTN-40",
+      "name": "Niazi Hospital - Multan Chungi",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 6,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Niazi Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Multan Chungi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 40: Feeder Route, Phase-III, Standard Bus, 6 km, commercial speed 18 km/h, round trip 51 min, headway 5 min, 10 buses. Alignment as printed: \"Niazi Hospital to Multan Chungi via Nadeem Shaheed Road, Fazal-e- Haque Road, Multan Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Nadeem Shaheed Road, Fazal-e- Haque Road, Multan Road."
+    },
+    {
+      "id": "IPTN-41",
+      "name": "Chamra Mandi - Sabzi Mandi Singhpura",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 4,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Chamra Mandi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sabzi Mandi Singhpura",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 41: Feeder Route, Phase-III, Mini Bus, 4 km, commercial speed 18 km/h, round trip 36 min, headway 5 min, 7 buses. Alignment as printed: \"Chamra Mindi to Sabzi Mandi Singhpura Via Sultan Pura Road, Ghoray Shah Road, Bhogiwal Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Sultan Pura Road, Ghoray Shah Road, Bhogiwal Road."
+    },
+    {
+      "id": "IPTN-42",
+      "name": "Mehmood Booti Interchange - Sukh Nehar GT Road",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 3,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Mehmood Booti Interchange",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sukh Nehar GT Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 42: Feeder Route, Phase-III, Mini Bus, 3 km, commercial speed 18 km/h, round trip 30 min, headway 5 min, 6 buses. Alignment as printed: \"Mehmood Booti Interchange to Sukh Nehar GT Road Via Sultan Mehmood Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Sultan Mehmood Road."
+    },
+    {
+      "id": "IPTN-43",
+      "name": "Bhogiwal Interchange - Shalimar Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 5,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Bhogiwal Interchange",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Singhpura",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Crown Marriage Hall",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ghass Mandi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shalimar Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 43: Feeder Route, Phase-III, Standard Bus, 5 km, commercial speed 18 km/h, round trip 42 min, headway 5 min, 9 buses. Alignment as printed: \"Boghiwall Interchange to Shalimar Chowk Via Boghiwal Road, Singhpura, Crown Marriage Hall, Ghass Mandi\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Boghiwal Road."
+    },
+    {
+      "id": "IPTN-44",
+      "name": "Shadbagh Underpass - Chamra Mandi",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 4,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Shadbagh Underpass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chamra Mandi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 44: Feeder Route, Phase-III, Mini Bus, 4 km, commercial speed 18 km/h, round trip 39 min, headway 5 min, 8 buses. Alignment as printed: \"Shadbagh Underpass to Chamra Mandi via Abu Bakar Road, Shadbagh Road, Umer Din Road, Akbar Road, Sultan Pura Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Abu Bakar Road, Shadbagh Road, Umer Din Road, Akbar Road, Sultan Pura Road."
+    },
+    {
+      "id": "IPTN-45",
+      "name": "Shalimar Chowk - Taj Bagh Pull-Canal Road",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 6,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Shalimar Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Taj Bagh Pull-Canal Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 45: Feeder Route, Phase-III, Standard Bus, 6 km, commercial speed 18 km/h, round trip 47 min, headway 5 min, 9 buses. Alignment as printed: \"Shalimar Chowk to Taj Bagh Pull-Canal Road via Sue Wala Road, Rasheedpura Road, Canal Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Sue Wala Road, Rasheedpura Road, Canal Road."
+    },
+    {
+      "id": "IPTN-46",
+      "name": "Ring Road - Shalimar Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 3,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Ring Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shalimar Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 46: Feeder Route, Phase-III, Mini Bus, 3 km, commercial speed 18 km/h, round trip 33 min, headway 5 min, 7 buses. Alignment as printed: \"Ring Road to Shalimar Chowk Via College Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: College Road."
+    },
+    {
+      "id": "IPTN-47",
+      "name": "Faiz Ahmad Faiz Road - Kalma Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 11,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Faiz Ahmad Faiz Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 47: Feeder Route, Phase-III, Standard Bus, 11 km, commercial speed 18 km/h, round trip 83 min, headway 5 min, 17 buses. Alignment as printed: \"Faiz Ahmad Faiz Road to Kalma Chowk via Depot Road, Madre-e- Millat Road, Maulana Shaukat Ali Road, Model Town Link Road, Model Town Outer Circle Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Depot Road, Madre-e- Millat Road, Maulana Shaukat Ali Road, Model Town Link Road, Model Town Outer Circle Road."
+    },
+    {
+      "id": "IPTN-48",
+      "name": "Shaukat Khanum Hospital - Phatak Mandi",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 11,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Shaukat Khanum Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Phatak Mandi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 48: Feeder Route, Phase-III, Mini Bus, 11 km, commercial speed 18 km/h, round trip 82 min, headway 5 min, 16 buses. Alignment as printed: \"Shaukat Khanum Hospital to Phattak Mandi via PIA Main Boulevard, Ali Road, Madar-e-Millat Road, Maulana Shaukat Ali Road, Peco Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: PIA Main Boulevard, Ali Road, Madar-e-Millat Road, Maulana Shaukat Ali Road, Peco Road."
+    },
+    {
+      "id": "IPTN-49",
+      "name": "Kalma Chowk - Khayaban-e-Jinnah Chowk Raiwind Road",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 16,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Kalma Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Barkat Market",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Campus Pull",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Khayaban-e-Jinnah Chowk Raiwind Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 49: Feeder Route, Phase-III, Standard Bus, 16 km, commercial speed 18 km/h, round trip 114 min, headway 5 min, 23 buses. Alignment as printed: \"Kalma Chowk to Khayaban-e-Jinnah Chowk Raiwind Road Via Barkat Market, Campus Pull, Canal Bank Road, Maulana Shaukat Ali Road, Khayban-e-Firdousiya, Khayban e Jinnah\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Canal Bank Road, Maulana Shaukat Ali Road, Khayban-e-Firdousiya, Khayban e Jinnah."
+    },
+    {
+      "id": "IPTN-50",
+      "name": "R.A Bazar - Main Market",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 8,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "R.A Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Liberty Market",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Hafeez Center",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mini Market",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Main Market",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 50: Feeder Route, Phase-III, Standard Bus, 8 km, commercial speed 18 km/h, round trip 65 min, headway 5 min, 13 buses. Alignment as printed: \"R.A Bazar to Main Market Via Jinnah Flyover, Ali Zaib Road, Kalma Chowk, Liberty Market, Hafeez Center, Mini Market\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Jinnah Flyover, Ali Zaib Road."
+    },
+    {
+      "id": "IPTN-51",
+      "name": "Chungi Amar Sidhu - Bhatta Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 13,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Chungi Amar Sidhu",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Wateen Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhatta Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 51: Feeder Route, Phase-III, Mini Bus, 13 km, commercial speed 18 km/h, round trip 94 min, headway 5 min, 19 buses. Alignment as printed: \"Chungi Amar Sidhu to Bhatta Chowk Via Kamahan Road, Wateen Chowk, Main Boulevard Phase-V, Lahore-Bediyan Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Kamahan Road, Main Boulevard Phase-V, Lahore-Bediyan Road."
+    },
+    {
+      "id": "IPTN-52",
+      "name": "Chungi Amar Sidhu - Kahna Kacha-Defence Road Intersection",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 8,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Chungi Amar Sidhu",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kahna Kacha-Defence Road Intersection",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 52: Feeder Route, Phase-III, Mini Bus, 8 km, commercial speed 18 km/h, round trip 62 min, headway 5 min, 13 buses. Alignment as printed: \"Chungi Amar Sidhu to Kahna Kacha-Defence Road Intersection via Defence Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Defence Road."
+    },
+    {
+      "id": "IPTN-53",
+      "name": "Babu Sabu - MAO College",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 6,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Babu Sabu",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "MAO College",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 53: Feeder Route, Phase-IV, Mini Bus, 6 km, commercial speed 18 km/h, round trip 48 min, headway 5 min, 10 buses. Alignment as printed: \"Babu Sabu to MAO College Via Hakeem M. Ajmal Khan Road, Sanda Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Hakeem M. Ajmal Khan Road, Sanda Road."
+    },
+    {
+      "id": "IPTN-54",
+      "name": "Bobatian Chowk - Gajjumata",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 13,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Bobatian Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Gajjumata",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 54: Feeder Route, Phase-IV, Standard Bus, 13 km, commercial speed 18 km/h, round trip 99 min, headway 5 min, 21 buses. Alignment as printed: \"Bobatian Chowk to Gajjumata via Ali Akbar Road, Kahna Kacha Road, Rohi Nala Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Ali Akbar Road, Kahna Kacha Road, Rohi Nala Road."
+    },
+    {
+      "id": "IPTN-55",
+      "name": "Dar-ul-Shifa Chowk - Khokhar Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 11,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Dar-ul-Shifa Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Akbar Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Khokhar Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 55: Feeder Route, Phase-IV, Mini Bus, 11 km, commercial speed 18 km/h, round trip 81 min, headway 5 min, 16 buses. Alignment as printed: \"Dar-ul-Shifa Chowk to Khokhar Chowk Via Shah Jamal Road, Canal Bank Road, Usmani Road, Abul Hassan Asfahani Road, Akbar Chowk, College Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Shah Jamal Road, Canal Bank Road, Usmani Road, Abul Hassan Asfahani Road, College Road."
+    },
+    {
+      "id": "IPTN-56",
+      "name": "Marian Stop - Ittefaq Hospital",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 5,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Marian Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ittefaq Hospital Park",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ittefaq Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 56: Feeder Route, Phase-IV, Mini Bus, 5 km, commercial speed 18 km/h, round trip 42 min, headway 5 min, 9 buses. Alignment as printed: \"Marian Stop to Ittefaq Hospital via Major Shoaib Shaheed Road, Canal Diognal Road, Model Town Circular Road, Ittefaq Hospital Park\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Major Shoaib Shaheed Road, Canal Diognal Road, Model Town Circular Road."
+    },
+    {
+      "id": "IPTN-57",
+      "name": "Bagrian - Arfa karim Tower",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 9,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Bagrian",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Arfa karim Tower",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 57: Feeder Route, Phase-IV, Standard Bus, 9 km, commercial speed 18 km/h, round trip 68 min, headway 5 min, 14 buses. Alignment as printed: \"Bagrian to Arfa karim Tower Via Civil Defence road, Abu bakar Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Civil Defence road, Abu bakar Road."
+    },
+    {
+      "id": "IPTN-58",
+      "name": "General Hospital - Ghazi Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 5,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "General Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Naqa Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ghazi Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 58: Feeder Route, Phase-IV, Mini Bus, 5 km, commercial speed 18 km/h, round trip 43 min, headway 5 min, 9 buses. Alignment as printed: \"General Hospital to Ghazi Chowk via Defence Road, Naqa Stop\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Defence Road."
+    },
+    {
+      "id": "IPTN-59",
+      "name": "Kacha Jail Road Phatak - Aashiana Housing Scheme",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Kacha Jail Road Phatak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chungi Amar Sidhu",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Azam Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Aashiana Housing Scheme",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 59: Feeder Route, Phase-IV, Standard Bus, 7 km, commercial speed 18 km/h, round trip 56 min, headway 5 min, 11 buses. Alignment as printed: \"Kacha Jail Road Phatak to Aashiana Housing Scheme via Kacha Jail Road, Chungi Amar Sidhu, Kamahan-Lidher Road, Azam Chowk, Aashiana Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Kacha Jail Road, Kamahan-Lidher Road, Aashiana Road."
+    },
+    {
+      "id": "IPTN-60",
+      "name": "Qaddafi Stadium Metro Station - Chenab Block Park Nadeem Shaheed Road",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 4,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Qaddafi Stadium Metro Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chenab Block Park Nadeem Shaheed Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 60: Feeder Route, Phase-IV, Mini Bus, 4 km, commercial speed 18 km/h, round trip 38 min, headway 5 min, 8 buses. Alignment as printed: \"Qadaffi Statdium Metro Station to Chenab Block Park Nadeem Shaheed Road via Masood Farooqi Road, Noon Aveneue, Whadat Road, Link Wahdat Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Masood Farooqi Road, Noon Aveneue, Whadat Road, Link Wahdat Road."
+    },
+    {
+      "id": "IPTN-61",
+      "name": "Pak Arab Housing Scheme - Chungi Amar Sidhu",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 3,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Pak Arab Housing Scheme",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chungi Amar Sidhu",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 61: Feeder Route, Phase-IV, Standard Bus, 3 km, commercial speed 18 km/h, round trip 33 min, headway 5 min, 7 buses. Alignment as printed: \"Pak Arab Housing Scheme to Chungi Amar sidhu Via Ferozpur Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Ferozpur Road."
+    },
+    {
+      "id": "IPTN-62",
+      "name": "Ring Road - Bhatti Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 3,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Ring Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhatti Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 62: Feeder Route, Phase-IV, Mini Bus, 3 km, commercial speed 18 km/h, round trip 27 min, headway 5 min, 7 buses. Alignment as printed: \"Ring Road to Bhatti Chowk Via Makkah Road, Mohni Road, Shish Mahal Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Makkah Road, Mohni Road, Shish Mahal Road."
+    },
+    {
+      "id": "IPTN-63",
+      "name": "Sharif Park near Ichra Metro Station - Bhatti Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Sharif Park near Ichra Metro Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "China Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhatti Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 63: Feeder Route, Phase-IV, Mini Bus, 7 km, commercial speed 18 km/h, round trip 59 min, headway 5 min, 12 buses. Alignment as printed: \"Sharif Park near Ichra Metro Station To Bhatti Chowk via Shah Jamal Road, Shadman Road, China Chowk, Lawrance Road, Mazang Road, Maclagan Road, Katchery Road, Lower Mall Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Shah Jamal Road, Shadman Road, Lawrance Road, Mazang Road, Maclagan Road, Katchery Road, Lower Mall Road."
+    },
+    {
+      "id": "IPTN-64",
+      "name": "Dharampura - Bhatti Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Dharampura",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shimla Pahari",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhatti Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 64: Feeder Route, Phase-IV, Mini Bus, 7 km, commercial speed 18 km/h, round trip 54 min, headway 5 min, 12 buses. Alignment as printed: \"Dharampura to Bhatti Chowk via Allama Iqbal Road, Durand Road, Shimla Pahari, Abbott Road, Abdul kareem Road, Flemming Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Allama Iqbal Road, Durand Road, Abbott Road, Abdul kareem Road, Flemming Road."
+    },
+    {
+      "id": "IPTN-65",
+      "name": "Saddar Bazar - Sherpao Bridge",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 9,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Saddar Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sherpao Bridge",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 65: Feeder Route, Phase-IV, Mini Bus, 9 km, commercial speed 18 km/h, round trip 71 min, headway 5 min, 14 buses. Alignment as printed: \"Saddar Bazar to Sherpao Bridge via Lahore Road, Allama Iqbal Road, Canal Bank Road, Zahoor Elahi Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Lahore Road, Allama Iqbal Road, Canal Bank Road, Zahoor Elahi Road."
+    },
+    {
+      "id": "IPTN-66",
+      "name": "R.A Bazar - Dharampura",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 8,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "R.A Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dharampura",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 66: Feeder Route, Phase-IV, Standard Bus, 8 km, commercial speed 18 km/h, round trip 63 min, headway 5 min, 13 buses. Alignment as printed: \"R.A Bazar to Dharampura via Tufail Road, Sarwar Road, Allama Iqbal Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Tufail Road, Sarwar Road, Allama Iqbal Road."
+    },
+    {
+      "id": "IPTN-67",
+      "name": "Valencia - Depot Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Valencia",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ghazi Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Depot Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 67: Feeder Route, Phase-IV, Mini Bus, 7 km, commercial speed 18 km/h, round trip 54 min, headway 5 min, 12 buses. Alignment as printed: \"Valencia to Depot Chowk via College Road, Ghazi Chowk, Madar-e- Millat Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: College Road, Madar-e- Millat Road."
+    },
+    {
+      "id": "IPTN-68",
+      "name": "Model Town Outer Circle Road",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 8,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 68: Feeder Route, Phase-IV, Mini Bus, 8 km, commercial speed 18 km/h, round trip 63 min, headway 5 min, 13 buses. Alignment as printed: \"Model Town Outer Circle Road\". Loop route with no terminals given; no stops listed."
+    },
+    {
+      "id": "IPTN-69",
+      "name": "7-Up Stop - Faisal Ghuman Shaheed Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 5,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "7-Up Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Faisal Ghuman Shaheed Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 69: Feeder Route, Phase-IV, Standard Bus, 5 km, commercial speed 18 km/h, round trip 45 min, headway 5 min, 9 buses. Alignment as printed: \"7-Up Stop to Faisal Ghuman Shaheed Chowk via Gurumangat Road, Academy Road, Walton Road, Khayaban-e-Iqbal\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Gurumangat Road, Academy Road, Walton Road, Khayaban-e-Iqbal."
+    },
+    {
+      "id": "IPTN-70",
+      "name": "Girja Chowk - Defence Mor",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 5,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Girja Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Defence Mor",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 70: Feeder Route, Phase-IV, Mini Bus, 5 km, commercial speed 18 km/h, round trip 42 min, headway 5 min, 9 buses. Alignment as printed: \"Girja Chowk to Defence Mor Via Abid Majeed Road, Shami Road, Walton Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Abid Majeed Road, Shami Road, Walton Road."
+    },
+    {
+      "id": "IPTN-71",
+      "name": "Doctor Hospital - Expo Center",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 5,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Doctor Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Expo Center",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 71: Feeder Route, Phase-V, Mini Bus, 5 km, commercial speed 18 km/h, round trip 42 min, headway 5 min, 9 buses. Alignment as printed: \"Doctor Hospital to Expo Center via Abdul Haque Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Abdul Haque Road."
+    },
+    {
+      "id": "IPTN-72",
+      "name": "Depot Chowk - Rehmat Chowk-Abaseen Avenue",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Depot Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Abu bakar Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Rehmat Chowk-Abaseen Avenue",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 72: Feeder Route, Phase-V, Standard Bus, 7 km, commercial speed 18 km/h, round trip 55 min, headway 5 min, 11 buses. Alignment as printed: \"Depot Chowk to Rehmat Chowk-Abaseen Avenue via Madar-e-Millat Road, Sutlej Avenue, Wapda Avenue, Abu bakar Chowk, Abbaseen Avenue\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Madar-e-Millat Road, Sutlej Avenue, Wapda Avenue, Abbaseen Avenue."
+    },
+    {
+      "id": "IPTN-73",
+      "name": "R.A Bazar - Main Market",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 6,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "R.A Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Main Market",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 73: Feeder Route, Phase-V, Mini Bus, 6 km, commercial speed 18 km/h, round trip 53 min, headway 5 min, 11 buses. Alignment as printed: \"R.A Bazar to Main Market via Shami Road, Sher Pao Bridge, Jail Road, Main Boulevard Gulberg\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Shami Road, Sher Pao Bridge, Jail Road, Main Boulevard Gulberg."
+    },
+    {
+      "id": "IPTN-74",
+      "name": "R.A Bazar - Main Market",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "R.A Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nadeem Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Firdous Market",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Hussain Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Main Market",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 74: Feeder Route, Phase-V, Standard Bus, 7 km, commercial speed 18 km/h, round trip 54 min, headway 5 min, 11 buses. Alignment as printed: \"R.A Bazar to Main Market via Nadeem Chowk, Masood Anwari Road, Jinah Flyover, Ali Zaib Road, Firdous Market, Hussain Chowk, MM Alam Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Masood Anwari Road, Jinah Flyover, Ali Zaib Road, MM Alam Road."
+    },
+    {
+      "id": "IPTN-75",
+      "name": "7-Up Stop - Mall Canal Road Underpass",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 6,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "7-Up Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mall Canal Road Underpass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 75: Feeder Route, Phase-V, Mini Bus, 6 km, commercial speed 18 km/h, round trip 50 min, headway 5 min, 10 buses. Alignment as printed: \"7-Up Stop to Mall Canal Road Underpass via Gurumangat Road, Jail Road, Zafar Ali Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Gurumangat Road, Jail Road, Zafar Ali Road."
+    },
+    {
+      "id": "IPTN-76",
+      "name": "R.A Bazar - Airport",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "R.A Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhatta Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Airport",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 76: Feeder Route, Phase-V, Standard Bus, 7 km, commercial speed 18 km/h, round trip 59 min, headway 5 min, 12 buses. Alignment as printed: \"R.A Bazar to Airport via Bedian Road, Bhatta Chowk, Defence Road, Ring Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Bedian Road, Defence Road, Ring Road."
+    },
+    {
+      "id": "IPTN-77",
+      "name": "R.A Bazar - Bedian Interchange",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 10,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "R.A Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nadeem Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Defence Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ghazi Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Masjid Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "LUMS Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Wateen Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bedian Interchange",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 77: Feeder Route, Phase-V, Standard Bus, 10 km, commercial speed 18 km/h, round trip 78 min, headway 5 min, 16 buses. Alignment as printed: \"R.A Bazar to Bedian Interchange via Nadeem Chowk, Walton Road, Defence Morr, Khayaban-e-Jinnah, Ghazi Chowk, Masjid Chowk, LUMS Chowk, Wateen Chowk\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Walton Road, Khayaban-e-Jinnah."
+    },
+    {
+      "id": "IPTN-78",
+      "name": "Jail-Canal Road Underpass - Airport",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 12,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Jail-Canal Road Underpass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Airport",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 78: Feeder Route, Phase-V, Mini Bus, 12 km, commercial speed 18 km/h, round trip 91 min, headway 5 min, 18 buses. Alignment as printed: \"Jail-Canal Road Underpass to Airport via Zafar Ali Road, Mian Mir Bridge, Aziz Bahti Road, Amjad Chudahary Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Zafar Ali Road, Mian Mir Bridge, Aziz Bahti Road, Amjad Chudahary Road."
+    },
+    {
+      "id": "IPTN-79",
+      "name": "Kacha Ferozpur Road - Bhekewal Morr",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 5,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Kacha Ferozpur Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhekewal Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 79: Feeder Route, Phase-V, Mini Bus, 5 km, commercial speed 18 km/h, round trip 42 min, headway 5 min, 8 buses. Alignment as printed: \"Kacha Ferozpur Road to Bhekewal Morr Via Fateh Sher Road, Ghazali Road, Nadeem Shaheed Road, Main Boulevard Iqbal Town\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Fateh Sher Road, Ghazali Road, Nadeem Shaheed Road, Main Boulevard Iqbal Town."
+    },
+    {
+      "id": "IPTN-80",
+      "name": "BRB Canal - Mughalpura",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 12,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "BRB Canal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mughalpura",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 80: Feeder Route, Phase-V, Standard Bus, 12 km, commercial speed 18 km/h, round trip 87 min, headway 5 min, 18 buses. Alignment as printed: \"BRB Canal to Mughalpura Via Canal Bank Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Canal Bank Road."
+    },
+    {
+      "id": "IPTN-81",
+      "name": "Rehmat Chowk - ALi Akbar Road",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 5,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Rehmat Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "ALi Akbar Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 81: Feeder Route, Phase-V, Standard Bus, 5 km, commercial speed 18 km/h, round trip 41 min, headway 5 min, 8 buses. Alignment as printed: \"Rehmat Chowk to ALi Akbar Road via Chashma Road, NFC Main Boulevard, Sunrise Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Chashma Road, NFC Main Boulevard, Sunrise Road."
+    },
+    {
+      "id": "IPTN-82",
+      "name": "Gol Bagh - Lari Adda",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 3,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Gol Bagh",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Badami Bagh",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Lari Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 82: Feeder Route, Phase-V, Mini Bus, 3 km, commercial speed 18 km/h, round trip 32 min, headway 5 min, 6 buses. Alignment as printed: \"Gol Bagh to Lari Adda via Khokhar Road, Shershah Road, Badami Bagh\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Khokhar Road, Shershah Road."
+    },
+    {
+      "id": "IPTN-83",
+      "name": "Band Road Shahdara Town - Lari Adda",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 6,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Band Road Shahdara Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Badami Bagh",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Lari Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 83: Feeder Route, Phase-V, Mini Bus, 6 km, commercial speed 18 km/h, round trip 48 min, headway 5 min, 10 buses. Alignment as printed: \"Band Road Shahdara Town to Lari Adda via Band Road Shahdara Town, Jahangir Tomb Road, G.T Road, Badami Bagh\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Band Road Shahdara Town, Jahangir Tomb Road, G.T Road."
+    },
+    {
+      "id": "IPTN-84",
+      "name": "Bagrian Pind - Model Town Link Road",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 8,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Bagrian Pind",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nawaz Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Model Town Link Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 84: Feeder Route, Phase-V, Mini Bus, 8 km, commercial speed 18 km/h, round trip 63 min, headway 5 min, 14 buses. Alignment as printed: \"Bagrian Pind to Model Town Link Road via Nawaz Morr, Bagrian Road, Civil Defence Road, Al-Madina Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Bagrian Road, Civil Defence Road, Al-Madina Road."
+    },
+    {
+      "id": "IPTN-85",
+      "name": "GPO - Lari Adda",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 4,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "GPO",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Baans Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Lari Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 85: Feeder Route, Phase-V, Mini Bus, 4 km, commercial speed 18 km/h, round trip 38 min, headway 5 min, 8 buses. Alignment as printed: \"GPO to Lari Adda via Fort Road, Shah Alami Road, Baans Bazar, Link Mcload Road, Mcleod Road, Nepier Road, Shah Alam Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Fort Road, Shah Alami Road, Link Mcload Road, Mcleod Road, Nepier Road, Shah Alam Road."
+    },
+    {
+      "id": "IPTN-86",
+      "name": "7-Up Stop - Main Market",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 4,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "7-Up Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Hussain Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Liberty Market",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Main Market",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 86: Feeder Route, Phase-V, Standard Bus, 4 km, commercial speed 18 km/h, round trip 37 min, headway 5 min, 7 buses. Alignment as printed: \"7-Up Stop to Main Market via Gurumangat Road, Hussain Chowk, Noor Jehan Road, Liberty Market, Hali Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Gurumangat Road, Noor Jehan Road, Hali Road."
+    },
+    {
+      "id": "IPTN-87",
+      "name": "Shadbagh Underpass - Boghiwal Road",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 4,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Shadbagh Underpass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Boghiwal Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 87: Feeder Route, Phase-V, Standard Bus, 4 km, commercial speed 18 km/h, round trip 36 min, headway 5 min, 7 buses. Alignment as printed: \"Shadbagh Underpass to Boghiwal Road Via Tariq Shaheed Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Tariq Shaheed Road."
+    },
+    {
+      "id": "IPTN-88",
+      "name": "Lalpull - Zarar Shaheed Road",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 5,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Lalpull",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ghaziabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Zarar Shaheed Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 88: Feeder Route, Phase-V, Standard Bus, 5 km, commercial speed 18 km/h, round trip 41 min, headway 5 min, 9 buses. Alignment as printed: \"Lalpull to Zarar Shaheed Road via Ghaziabad, Soleng Road, Ahmad Hassan Road, Fauji Foundation Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Soleng Road, Ahmad Hassan Road, Fauji Foundation Road."
+    },
+    {
+      "id": "IPTN-89",
+      "name": "Al-Hamra Art Council - Railway Station",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 4,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Al-Hamra Art Council",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Baans Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shah Alam Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 89: Feeder Route, Phase-V, Standard Bus, 4 km, commercial speed 18 km/h, round trip 39 min, headway 5 min, 8 buses. Alignment as printed: \"Al-Hamra Art Council to Railway Station via Khayaban-e-Iqbal, Cooper Road, Mission Road, Nisbat Road, Baans Bazar, Shah Alam Chowk, Circular Road, Branderth Road, Mcleod Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Khayaban-e-Iqbal, Cooper Road, Mission Road, Nisbat Road, Circular Road, Branderth Road, Mcleod Road."
+    },
+    {
+      "id": "IPTN-90",
+      "name": "Ghazi Chowk - Fortress Stadium",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Ghazi Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Defence Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Fortress Stadium",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 90: Feeder Route, Phase-V, Mini Bus, 7 km, commercial speed 18 km/h, round trip 54 min, headway 5 min, 11 buses. Alignment as printed: \"Ghazi Chowk To Fotress Stadium via Khayaban-e-Jinnah, Defence Morr, Shami Road, Abid Majeed Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Khayaban-e-Jinnah, Shami Road, Abid Majeed Road."
+    },
+    {
+      "id": "IPTN-91",
+      "name": "Doctor Hospital - Ameer Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 8,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Doctor Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shadiwal Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ameer Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 91: Feeder Route, Phase-V, Standard Bus, 8 km, commercial speed 18 km/h, round trip 64 min, headway 5 min, 14 buses. Alignment as printed: \"Doctor Hospital to Ameer Chowk via Canal Road, Yaseen Khan Watoo Road, Samsani Road, Shadiwal Chowk, Sardaiyaab Road, Beas Avenue, Ravi Avenue, Sutlej Avenue, Shahrah Nazaria-e-Pakistan\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Canal Road, Yaseen Khan Watoo Road, Samsani Road, Sardaiyaab Road, Beas Avenue, Ravi Avenue, Sutlej Avenue, Shahrah Nazaria-e-Pakistan."
+    },
+    {
+      "id": "IPTN-92",
+      "name": "R.A Bazar - Thokar Niaz Baig",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 20,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "R.A Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Qainchi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Thokar Niaz Baig",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 92: Express Route, Phase-VI, Standard Bus, 20 km, commercial speed 25 km/h, round trip 107 min, headway 5 min, 21 buses. Alignment as printed: \"R.A Bazar to Thokar Niaz Baig via Walton Road, Qainchi, Peco Road, Maulana Shaukat Ali Road, Canal Bank Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Walton Road, Peco Road, Maulana Shaukat Ali Road, Canal Bank Road."
+    },
+    {
+      "id": "IPTN-93",
+      "name": "Lari Adda - Thokar Niaz Baig",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 22,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Lari Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Azadi Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Niazi Interchange",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chowk Yateem Khana",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Thokar Niaz Baig",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 93: Express Route, Phase-VI, Standard Bus, 22 km, commercial speed 25 km/h, round trip 114 min, headway 5 min, 23 buses. Alignment as printed: \"Lari Adda to Thokar Niaz Baig via Azadi Chowk, Niazi Interchange, Lahore Ring Road, Band Road, Chowk Yateem Khana, Multan Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Lahore Ring Road, Band Road, Multan Road."
+    },
+    {
+      "id": "IPTN-94",
+      "name": "Thokar Niaz Baig - Lari Adda",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 24,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Thokar Niaz Baig",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Babu Sabu Interchange",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Niazi Interchange",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Azadi Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Lari Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 94: Express Route, Phase-VI, Standard Bus, 24 km, commercial speed 25 km/h, round trip 126 min, headway 5 min, 25 buses. Alignment as printed: \"Thokar Niaz Baig to Lari Adda via Multan Road, Lahore-Islamabad Motorway, Babu Sabu Interchange, Lahore Ring Road, Niazi Interchange, Azadi Chowk\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Multan Road, Lahore-Islamabad Motorway, Lahore Ring Road."
+    },
+    {
+      "id": "IPTN-95",
+      "name": "R.A Bazar - Bhatti Chowk",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 15,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "R.A Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Girja Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Saddar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhatti Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 95: Express Route, Phase-VI, Standard Bus, 15 km, commercial speed 25 km/h, round trip 84 min, headway 5 min, 17 buses. Alignment as printed: \"R.A Bazar to Bhatti Chowk via Srafraz Rafique Road, Girja Chowk, Tufail Road, Saddar, Allama Iqbal Road, Dharampura Underpass, Canal Bank Road, Mall Road, Lower Mall Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Sarfraz Rafique Road, Tufail Road, Allama Iqbal Road, Dharampura Underpass, Canal Bank Road, Mall Road, Lower Mall Road."
+    },
+    {
+      "id": "IPTN-96",
+      "name": "R.A Bazar - Bhatti Chowk",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 13,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "R.A Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhatti Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 96: Express Route, Phase-VI, Standard Bus, 13 km, commercial speed 25 km/h, round trip 74 min, headway 5 min, 15 buses. Alignment as printed: \"R.A Bazar to Bhatti Chowk via Shami Road, Mian Mir Bridge, Mall Road, Lower Mall Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Shami Road, Mian Mir Bridge, Mall Road, Lower Mall Road."
+    },
+    {
+      "id": "IPTN-97",
+      "name": "Thokar Niaz Baig - G.T Road-Lahore Ring Road Intersection",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 27,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Thokar Niaz Baig",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chauburji",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shalimar Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "G.T Road-Lahore Ring Road Intersection",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 97: Express Route, Phase-VI, Standard Bus, 27 km, commercial speed 25 km/h, round trip 138 min, headway 5 min, 28 buses. Alignment as printed: \"Thokar Niaz Baig to G.T Road-Lahore Ring Road Intersection via Multan Road, Chauburji, Lake Road, Syed Mauj Darya Road, Mcleod Road, G.T Road, Shalimar Chowk\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Multan Road, Lake Road, Syed Mauj Darya Road, Mcleod Road, G.T Road."
+    },
+    {
+      "id": "IPTN-98",
+      "name": "Lari Adda - Airport",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 26,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Lari Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Azadi Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Niazi Interchange",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mehmood Booti Interchange",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Airport",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 98: Express Route, Phase-VI, Standard Bus, 26 km, commercial speed 25 km/h, round trip 137 min, headway 5 min, 27 buses. Alignment as printed: \"Lari Adda to Airport via Azadi Chowk, Niazi Interchange, Mehmood Booti Interchange, Lahore Ring Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Lahore Ring Road."
+    },
+    {
+      "id": "IPTN-99",
+      "name": "Civil Secretariat - Valencia",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 24,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Civil Secretariat",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Akbar Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Barkat Market",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Liberty Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Valencia",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 99: Express Route, Phase-VI, Standard Bus, 24 km, commercial speed 25 km/h, round trip 127 min, headway 5 min, 25 buses. Alignment as printed: \"Civil Secertriat to Valencia via College Road, Akbar Chowk, Abul Hassan Isfahani Road, Usmani Road, Barkat Market, Kalma Chowk, Liberty Chowk, Jail Road, Lytton Road, Lower Mall Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: College Road, Abul Hassan Isfahani Road, Usmani Road, Jail Road, Lytton Road, Lower Mall Road."
+    },
+    {
+      "id": "IPTN-100",
+      "name": "BRB Canal - Thokar Niaz Baig",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 29,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "BRB Canal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Thokar Niaz Baig",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 100: Express Route, Phase-VI, Standard Bus, 29 km, commercial speed 25 km/h, round trip 149 min, headway 5 min, 30 buses. Alignment as printed: \"BRB Canal to Thokar Niaz Baig via Canal Bank Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Canal Bank Road."
+    },
+    {
+      "id": "IPTN-101",
+      "name": "R.A Bazar - Thokar Niaz Baig",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 18,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "R.A Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Thokar Niaz Baig",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 101: Express Route, Phase-VI, Standard Bus, 18 km, commercial speed 25 km/h, round trip 94 min, headway 5 min, 19 buses. Alignment as printed: \"R.A Bazar to Thoka Niaz Baig via Masood Anwari Road, Jinnah Flyover, Ali Zaib Road, Kalma Chowk, Canal Bank Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Masood Anwari Road, Jinnah Flyover, Ali Zaib Road, Canal Bank Road."
+    },
+    {
+      "id": "IPTN-102",
+      "name": "Lari Adda - Airport",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 16,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Lari Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Airport",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 102: Express Route, Phase-VI, Standard Bus, 16 km, commercial speed 25 km/h, round trip 85 min, headway 5 min, 17 buses. Alignment as printed: \"Lari Adda to Airport via Circular Road, Railway Station, Allama Iqbal Road, Zarrar Shaheed Road, Lahore Ring Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Circular Road, Allama Iqbal Road, Zarrar Shaheed Road, Lahore Ring Road."
+    },
+    {
+      "id": "IPTN-103",
+      "name": "R.A Bazar - Scheme Morr",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 11,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "R.A Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Barkat Market",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Scheme Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 103: Express Route, Phase-VI, Standard Bus, 11 km, commercial speed 25 km/h, round trip 64 min, headway 5 min, 13 buses. Alignment as printed: \"R.A Bazar to Scheme Morr via Shami Road, Jinnah Flyover, Ali Zaib Road, Kalma Chowk, Barkat Market, Khayaban-e-Jamia Punjab, Main Boulevard Allama Iqbal Town\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Shami Road, Jinnah Flyover, Ali Zaib Road, Khayaban-e-Jamia Punjab, Main Boulevard Allama Iqbal Town."
+    },
+    {
+      "id": "IPTN-104",
+      "name": "R.A Bazar - Depot Chowk",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 13,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "R.A Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Qainchi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Depot Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 104: Express Route, Phase-VI, Standard Bus, 13 km, commercial speed 25 km/h, round trip 73 min, headway 5 min, 15 buses. Alignment as printed: \"R.A Bazar to Depot Chowk via Walton Road, Qainchi, Peco Road, Madar-e-Millat Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Walton Road, Peco Road, Madar-e-Millat Road."
+    },
+    {
+      "id": "IPTN-105",
+      "name": "Mohlanwal - Thokar Niaz Baig",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 11,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Mohlanwal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Thokar Niaz Baig",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 105: Periphery Route, Phase-VII, Standard Bus, 11 km, commercial speed 25 km/h, round trip 64 min, headway 5 min, 13 buses. Alignment as printed: \"Mohlanwal to Thokar Niaz Baig via Multan Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Multan Road."
+    },
+    {
+      "id": "IPTN-106",
+      "name": "Kala Shah Kaku - Shahdara Lari Adda",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 10,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Kala Shah Kaku",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shahdara Lari Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 106: Periphery Route, Phase-VII, Standard Bus, 10 km, commercial speed 25 km/h, round trip 58 min, headway 5 min, 12 buses. Alignment as printed: \"Kala Shah Kaku to Shahdara Lari Adda via G.T Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: G.T Road. Overlaps current RT-24, which runs Kala Shah Kaku - Shahdara Lari Adda and on to Railway Station."
+    },
+    {
+      "id": "IPTN-107",
+      "name": "Kahna Purana - Gajjumata",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 5,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Kahna Purana",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Gajjumata",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 107: Periphery Route, Phase-VII, Standard Bus, 5 km, commercial speed 25 km/h, round trip 34 min, headway 5 min, 7 buses. Alignment as printed: \"Kahna Purana to Gajjumata via Ferozepur Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Ferozepur Road. Overlaps current RT-14, which runs through Kahna and Gajjumata on Ferozepur Road."
+    },
+    {
+      "id": "IPTN-108",
+      "name": "M2 Interchange - Shahdara",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 8,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "M2 Interchange",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shahdara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 108: Periphery Route, Phase-VII, Standard Bus, 8 km, commercial speed 25 km/h, round trip 49 min, headway 5 min, 10 buses. Alignment as printed: \"M2 Interchange to Shahdara via Jaranwala Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Jaranwala Road."
+    },
+    {
+      "id": "IPTN-109",
+      "name": "Goal - Shahdara",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 15,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Goal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shahdara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 109: Periphery Route, Phase-VII, Standard Bus, 15 km, commercial speed 25 km/h, round trip 81 min, headway 5 min, 16 buses. Alignment as printed: \"Goal to Shahdara via Kala Khatie Narang Mandi Road, G.T Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Kala Khatie Narang Mandi Road, G.T Road."
+    },
+    {
+      "id": "IPTN-110",
+      "name": "Wagha - Ring Road-G.T Road Interchange",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 12,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Wagha",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ring Road-G.T Road Interchange",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 110: Periphery Route, Phase-VII, Standard Bus, 12 km, commercial speed 25 km/h, round trip 69 min, headway 5 min, 14 buses. Alignment as printed: \"Wagha to Ring Rd-G.T Road Interchange via G.T Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: G.T Road."
+    },
+    {
+      "id": "IPTN-111",
+      "name": "Airport - Barki",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 14,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Airport",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Barki",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 111: Periphery Route, Phase-VII, Standard Bus, 14 km, commercial speed 25 km/h, round trip 79 min, headway 5 min, 16 buses. Alignment as printed: \"Air Port to Barki via Barki Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Barki Road."
+    },
+    {
+      "id": "IPTN-112",
+      "name": "Ring Rd-Bedian Road Interchange - Ahmad Colony",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 8,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Ring Rd-Bedian Road Interchange",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ahmad Colony",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 112: Periphery Route, Phase-VII, Standard Bus, 8 km, commercial speed 25 km/h, round trip 48 min, headway 5 min, 10 buses. Alignment as printed: \"Ring Rd-Bedian Road Interchange to Ahmad Colony via lahore-Bedian Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: lahore-Bedian Road."
+    },
+    {
+      "id": "IPTN-113",
+      "name": "Fazal Town - Shahdara",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 10,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Fazal Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Baigum Kot",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shahdara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 113: Periphery Route, Phase-VII, Standard Bus, 10 km, commercial speed 25 km/h, round trip 59 min, headway 5 min, 12 buses. Alignment as printed: \"Fazal Town to Shahdara via Lahore-Sargodha Road, Baigum Kot, Jaranwala Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Lahore-Sargodha Road, Jaranwala Road. Current RT-18 passes Fazal Town."
+    },
+    {
+      "id": "IPTN-114",
+      "name": "Khayaban-e-Jinnah - Lake City",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Khayaban-e-Jinnah",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Lake City",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 114: Periphery Route, Phase-VII, Standard Bus, 7 km, commercial speed 25 km/h, round trip 44 min, headway 5 min, 9 buses. Alignment as printed: \"Khayaban-e-Jinnah to Lake City via Raiwind Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Raiwind Road. Current RT-20 passes Lake City."
+    },
+    {
+      "id": "IPTN-115",
+      "name": "Kot Abdul Malik - Bhatti Chowk",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 11,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Kot Abdul Malik",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhatti Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 115: Periphery Route, Phase-VII, Standard Bus, 11 km, commercial speed 25 km/h, round trip 63 min, headway 5 min, 13 buses. Alignment as printed: \"Kot Abdul Malik to Bhatti Chowk via Sagian wala Bypass Road, Shaikh Abdul Qadir Jillani Road, Lower Mall Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Sagian wala Bypass Road, Shaikh Abdul Qadir Jillani Road, Lower Mall Road. Overlaps current RT-18 (Bhatti Chowk - Kot Abdul Malik section)."
+    },
+    {
+      "id": "IPTN-116",
+      "name": "Lari Adda - Jamal Pur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 28,
+      "headway_min": 15,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Lari Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Azadi Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Niazi Interchange",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jamal Pur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 116: Suburban Route, Phase-VIII, Standard Bus, 28 km, commercial speed 40 km/h, round trip 94 min, headway 15 min, 6 buses. Alignment as printed: \"Lari Adda to Jamal Pur via Azadi Chowk, Niazi Interchange, G.T Road, Kala Khatie Narang Mandi Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: G.T Road, Kala Khatie Narang Mandi Road."
+    },
+    {
+      "id": "IPTN-117",
+      "name": "Lari Adda - Kasur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 56,
+      "headway_min": 15,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Lari Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Azadi Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chauburji",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kasur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 117: Suburban Route, Phase-VIII, Standard Bus, 56 km, commercial speed 40 km/h, round trip 179 min, headway 15 min, 12 buses. Alignment as printed: \"Lari Adda to Kasur via Azadi Chowk, Lower Mall Road, Choburji, Bahawalpur Road, Ferozepur Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Lower Mall Road, Bahawalpur Road, Ferozepur Road."
+    },
+    {
+      "id": "IPTN-118",
+      "name": "Lari Adda - Sharaqpur Shareef",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 32,
+      "headway_min": 15,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Lari Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Azadi Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhatti Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sharaqpur Shareef",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 118: Suburban Route, Phase-VIII, Standard Bus, 32 km, commercial speed 40 km/h, round trip 107 min, headway 15 min, 7 buses. Alignment as printed: \"Lari Adda to Sharaqpur Shareef via Azadi Chowk, Bhatti Chowk, Lower Mall Road, Shaikh Abdul Qadir Jillani Road, Sagian wala Bypass Road, Jaranwala Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Lower Mall Road, Shaikh Abdul Qadir Jillani Road, Sagian wala Bypass Road, Jaranwala Road."
+    },
+    {
+      "id": "IPTN-119",
+      "name": "Lari Adda - Sheikhupura",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 35,
+      "headway_min": 15,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Lari Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Azadi Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Niazi Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shahdara",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sheikhupura",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 119: Suburban Route, Phase-VIII, Standard Bus, 35 km, commercial speed 40 km/h, round trip 116 min, headway 15 min, 8 buses. Alignment as printed: \"Lari Adda to Sheikhupura via Azadi Chowk, Niazi Chowk, Shahdara, Jaranwala Road, Lahore-Sardodha Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Jaranwala Road, Lahore-Sardodha Road."
+    },
+    {
+      "id": "IPTN-120",
+      "name": "Railway Station - Raiwind",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 43,
+      "headway_min": 15,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "MAO College",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chauburji",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Raiwind",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 120: Suburban Route, Phase-VIII, Standard Bus, 43 km, commercial speed 40 km/h, round trip 138 min, headway 15 min, 9 buses. Alignment as printed: \"Railway Station to Raiwind via Branderth Road, Mcleod Road, Old Anarkali Road, MAO College, Lower Mall Road, Choburji, Multan Road, Raiwind Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Branderth Road, Mcleod Road, Old Anarkali Road, Lower Mall Road, Multan Road, Raiwind Road."
+    },
+    {
+      "id": "IPTN-121",
+      "name": "Lari Adda - Maraka",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 30,
+      "headway_min": 15,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Lari Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Azadi Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhatti Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chauburji",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Maraka",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 121: Suburban Route, Phase-VIII, Standard Bus, 30 km, commercial speed 40 km/h, round trip 101 min, headway 15 min, 7 buses. Alignment as printed: \"Lari Adda to Maraka via Azadi Chowk, Bhatti Chowk, Lower Mall Road, Choburji, Multan Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: Lower Mall Road, Multan Road."
+    },
+    {
+      "id": "IPTN-122",
+      "name": "Lari Adda - Muridke",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 35,
+      "headway_min": 15,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Lari Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Azadi Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Niazi Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Muridke",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Lahore (route table)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Lahore table, route 122: Suburban Route, Phase-VIII, Standard Bus, 35 km, commercial speed 40 km/h, round trip 114 min, headway 15 min, 8 buses. Alignment as printed: \"Lari Adda to Muridke via Azadi Chowk, Niazi Chowk, G.T Road\". Stops = terminals plus the non-road via-points in the order the table lists them; road names are in the alignment text only. These are planning via-points, not confirmed bus stops. Roads: G.T Road."
+    }
+  ]
+}

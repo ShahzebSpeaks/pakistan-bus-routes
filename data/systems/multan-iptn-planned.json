@@ -1,0 +1,1929 @@
+{
+  "id": "multan-iptn-planned",
+  "city": "multan",
+  "name": "Planned feeder network (PMA IPTN)",
+  "name_ur": "",
+  "operator": "Punjab Masstransit Authority (planning proposal)",
+  "mode": "feeder",
+  "website": "https://pma.punjab.gov.pk",
+  "helpline": null,
+  "payment": null,
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "last_verified": "2026-09-19",
+  "sources": [
+    {
+      "title": "Integrated Public Transport Network Multan",
+      "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf",
+      "publisher": "Punjab Masstransit Authority",
+      "date": null,
+      "official": true
+    }
+  ],
+  "routes": [
+    {
+      "id": "IPTN-1",
+      "name": "Chowk Kumharan - Dera Adda",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 7.78,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Chowk Kumharan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chungi No. 9",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ghanta Ghar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 1: Feeder route, Phase-I, Mini Bus, MBS station served: Chowk Kumharan, Chungi no. 9, 7.78 km, commercial speed 18 km/h, round trip 62 min, headway 5 min, 12 buses. Alignment as printed: \"Chowk Kumharan to Dera Adda via Chungi No 9, Ghanta Ghar\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops."
+    },
+    {
+      "id": "IPTN-3",
+      "name": "NFC / Khaad Factory - Ghanta Ghar",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 7.72,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "NFC / Khaad Factory",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chowk Kumharan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ghanta Ghar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 3: Feeder route, Phase-I, Mini Bus, MBS station served: Chowk Kumharan, Qasim Fort, 7.72 km, commercial speed 18 km/h, round trip 61 min, headway 5 min, 12 buses. Alignment as printed: \"NFC/ Khaad Factory to Ghanta Ghar via Chowk Kumharan\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops."
+    },
+    {
+      "id": "IPTN-5",
+      "name": "Canal Bridge - Chowk Kumharan",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 3.93,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Canal Bridge",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chowk Kumharan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 5: Feeder route, Phase-I, Mini Bus, MBS station served: Chowk kumharan, 3.93 km, commercial speed 18 km/h, round trip 36 min, headway 5 min, 7 buses. Alignment as printed: \"Canal Bridge to Chowk Kumharan via Piran Ghaib Road\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Roads: Piran Ghaib Road."
+    },
+    {
+      "id": "IPTN-6",
+      "name": "Khooni Burj - Fatima Jinnah Town",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 4.13,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Khooni Burj",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Vehari Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chungi No. 14",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Fatima Jinnah Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 6: Feeder route, Phase-I, Mini Bus, MBS station served: Vehari Chowk, Chungi No. 14, 4.13 km, commercial speed 18 km/h, round trip 38 min, headway 5 min, 8 buses. Alignment as printed: \"Khooni Burj to Fatima Jinnah Town via Vehri Chowk and Chungi no. 14\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops."
+    },
+    {
+      "id": "IPTN-7",
+      "name": "Dunyapur - Mamtazabad",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 4.52,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Dunyapur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Allah Wasaya Stop (Peoples Colony)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mamtazabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 7: Feeder route, Phase-I, Mini Bus, MBS station served: People's Colony, 4.52 km, commercial speed 18 km/h, round trip 40 min, headway 5 min, 8 buses. Alignment as printed: \"Dunyapur to Mamtazabad via Allah Wasaya Stop ( Peoples Colony)\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops."
+    },
+    {
+      "id": "IPTN-8",
+      "name": "Mohalla Wazirabad / Basti Shorkot - BCG Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 4.57,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Mohalla Wazirabad / Basti Shorkot",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "BCG Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 8: Feeder route, Phase-I, Mini Bus, MBS station served: BCG Chowk, 4.57 km, commercial speed 18 km/h, round trip 40 min, headway 5 min, 8 buses. Alignment as printed: \"Mohalla Wazira abad/ basti Shorkot to BCG Chowk via Southern Bypass\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Roads: Southern Bypass."
+    },
+    {
+      "id": "IPTN-9",
+      "name": "Railway Station - Chungi No. 9",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 5.72,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "SP Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chungi No. 8",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chungi No. 9",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 9: Feeder route, Phase-I, Mini Bus, MBS station served: Chungi No. 9, 5.72 km, commercial speed 18 km/h, round trip 48 min, headway 5 min, 10 buses. Alignment as printed: \"Railway Station to Chungi No. 9 via SP Chowk, Chungi No.8\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops. Both terminals appear on current multan-feeder route(s) MFR09/MFR09B, so the corridor is at least partly served today."
+    },
+    {
+      "id": "IPTN-10",
+      "name": "Faiz-e-Aam Chowk - Qasim Fort",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 6.34,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Faiz-e-Aam Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chungi No. 8",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chungi No. 7",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Qasim Fort",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 10: Feeder route, Phase-I, Mini Bus, MBS station served: Northern bypass, Qasim Fort, 6.34 km, commercial speed 18 km/h, round trip 52 min, headway 5 min, 10 buses. Alignment as printed: \"Faiz-e-Aam Chowk to Qasim Fort via Nawabpur road, Chungi no 8, Chungi no 7\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops. Roads: Nawabpur road."
+    },
+    {
+      "id": "IPTN-11",
+      "name": "BCG Chowk - Dera Adda",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 6,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "BCG Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shah Abbas Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Double Phatak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 11: Feeder route, Phase-I, Mini Bus, MBS station served: BCG Chowk, 6 km, commercial speed 18 km/h, round trip 50 min, headway 5 min, 10 buses. Alignment as printed: \"BCG Chowk to Dera Adda via Shah Abbas Chowk, Double Phatak\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops. Both terminals appear on current multan-feeder route(s) MFR11, so the corridor is at least partly served today."
+    },
+    {
+      "id": "IPTN-12",
+      "name": "Nawab Pur - Airport Road",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 8.688,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Nawab Pur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "MDA Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nawa Shehr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Airport Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 12: Feeder route, Phase-II, Mini Bus, 8.688 km, commercial speed 18 km/h, round trip 68 min, headway 5 min, 14 buses. Alignment as printed: \"Nawab Pur to Airport road Via MDA chowk, Nawa shehr, Qasim road\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops. Roads: Qasim road."
+    },
+    {
+      "id": "IPTN-13",
+      "name": "Dera Adda - Airport",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 5.14,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nishter Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Airport",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 13: Feeder route, Phase-II, Mini Bus, 5.14 km, commercial speed 18 km/h, round trip 44 min, headway 5 min, 9 buses. Alignment as printed: \"Dera Adda to Airport Via Nishter Hospital\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops. Both terminals appear on current multan-feeder route(s) MFR12A, so the corridor is at least partly served today."
+    },
+    {
+      "id": "IPTN-14",
+      "name": "Railway Station - Suraj Miani",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 5.54,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Suraj Miani",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 14: Feeder route, Phase-II, Mini Bus, 5.54 km, commercial speed 18 km/h, round trip 47 min, headway 5 min, 9 buses. Alignment as printed: \"Railway Station to Suraj Miani via Shaukat Hydari Road\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Roads: Shaukat Hydari Road."
+    },
+    {
+      "id": "IPTN-15",
+      "name": "Multan Bypass - Vehari Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 5.69,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Multan Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Vehari Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 15: Feeder route, Phase-II, Mini Bus, 5.69 km, commercial speed 18 km/h, round trip 48 min, headway 5 min, 10 buses. Alignment as printed: \"Multan Bypass to Vehri Chowk Via Budhala Road\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Roads: Budhala Road."
+    },
+    {
+      "id": "IPTN-16",
+      "name": "Sohni Dharti Housing Scheme - Vehari Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 6.96,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Sohni Dharti Housing Scheme",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nehar Nau Bahar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Vehari Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 16: Feeder route, Phase-II, Mini Bus, 6.96 km, commercial speed 18 km/h, round trip 56 min, headway 5 min, 11 buses. Alignment as printed: \"Sohni Dharti Housing Scheme to Vehari Chowk Via Nehar Nau Bahar\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops."
+    },
+    {
+      "id": "IPTN-17",
+      "name": "Eid Gah - Dera Adda",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 5.11,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Eid Gah",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Khooni Burj",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 17: Feeder route, Phase-II, Mini Bus, 5.11 km, commercial speed 18 km/h, round trip 44 min, headway 5 min, 9 buses. Alignment as printed: \"Eid Gah to Dera Adda via Eid gah road Multan Express road, Khooni Burj\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops. Roads: Eid gah road Multan Express road. Both terminals appear on current multan-feeder route(s) MFR01/MFR01B/MFR01C, so the corridor is at least partly served today."
+    },
+    {
+      "id": "IPTN-18",
+      "name": "Railway Station - Pul Sheedi Lal",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 5.56,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pul Sheedi Lal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 18: Feeder route, Phase-II, Mini Bus, 5.56 km, commercial speed 18 km/h, round trip 47 min, headway 5 min, 9 buses. Alignment as printed: \"Railway Station to Pull Sheedi lal\". Transcribed from a rendered image of the PDF because its text layer is misaligned."
+    },
+    {
+      "id": "IPTN-19",
+      "name": "Dera Adda - Jheel Stop",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 3.65,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jheel Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 19: Feeder route, Phase-II, Mini Bus, 3.65 km, commercial speed 18 km/h, round trip 34 min, headway 5 min, 7 buses. Alignment as printed: \"Dera Adda to Jheel Stop via Sher Shah Road\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Roads: Sher Shah Road."
+    },
+    {
+      "id": "IPTN-20",
+      "name": "Dera Adda - CSD Garden",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 3.12,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "CSD Garden",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 20: Feeder route, Phase-III, Standard Bus, 3.12 km, commercial speed 18 km/h, round trip 31 min, headway 5 min, 6 buses. Alignment as printed: \"Dera Adda to CSD Garden via Quaid e Azam Road\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Roads: Quaid e Azam Road."
+    },
+    {
+      "id": "IPTN-21",
+      "name": "Nag Shah - Railway Station",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 8.17,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Nag Shah",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 21: Feeder route, Phase-III, Standard Bus, 8.17 km, commercial speed 18 km/h, round trip 64 min, headway 5 min, 13 buses. Alignment as printed: \"Nag Shah to Railway Station\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Both terminals appear on current multan-feeder route(s) MFR04B/MFR09/MFR09B/MFR09C, so the corridor is at least partly served today."
+    },
+    {
+      "id": "IPTN-22",
+      "name": "Basti Kapper - Chowk Kumharan",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 6.42,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Basti Kapper",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chowk Kumharan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 22: Feeder route, Phase-III, Standard Bus, 6.42 km, commercial speed 18 km/h, round trip 53 min, headway 5 min, 11 buses. Alignment as printed: \"Basti Kapper to Chowk Kumharan via Mattital Road\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Roads: Mattital Road."
+    },
+    {
+      "id": "IPTN-23",
+      "name": "Basti Bhir - Vehari Chowk",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 10.4,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Basti Bhir",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Vehari Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 23: Feeder route, Phase-III, Standard Bus, 10.4 km, commercial speed 18 km/h, round trip 79 min, headway 5 min, 16 buses. Alignment as printed: \"Basti Bhir to Vehari Chowk via Link Road 2\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Roads: Link Road 2."
+    },
+    {
+      "id": "IPTN-24",
+      "name": "Bosan Road - Chowk Kumharan",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 6.98,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Bosan Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bodla Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chowk Kumharan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 24: Feeder route, Phase-III, Standard Bus, 6.98 km, commercial speed 18 km/h, round trip 57 min, headway 5 min, 11 buses. Alignment as printed: \"Bosan Road to Chowk Kumharan Via School Road, M.A Jinnah Road, Bodla Town\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops. Roads: School Road, M.A Jinnah Road."
+    },
+    {
+      "id": "IPTN-25",
+      "name": "Chowk Kumharan - Chungi No. 14",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 5.52,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Chowk Kumharan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chungi No. 14",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 25: Feeder route, Phase-III, Standard Bus, 5.52 km, commercial speed 18 km/h, round trip 47 min, headway 5 min, 9 buses. Alignment as printed: \"Chowk Kumharan to Chungi no 14 via 100 feet road\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Roads: 100 feet road."
+    },
+    {
+      "id": "IPTN-26",
+      "name": "Chowk Kumharan - Railway Station",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 9.64,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Chowk Kumharan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 26: Express route, Phase-IV, Standard Bus, 9.64 km, commercial speed 25 km/h, round trip 56 min, headway 5 min, 11 buses. Alignment as printed: \"Chowk Kumharan to Railway Station\". Transcribed from a rendered image of the PDF because its text layer is misaligned."
+    },
+    {
+      "id": "IPTN-27",
+      "name": "Chowk Kumharan - Railway Station",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 13,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Chowk Kumharan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Vehari Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "BCG Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Double Phatak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 27: Express route, Phase-IV, Standard Bus, 13.0 km, commercial speed 25 km/h, round trip 72 min, headway 5 min, 14 buses. Alignment as printed: \"Chowk Kumharan to Railway Station via Vehari Chowk, BCG chowk, Double Phatak\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops."
+    },
+    {
+      "id": "IPTN-28",
+      "name": "Vehari Road bypass - Airport",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 14,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Vehari Road bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Airport",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 28: Express route, Phase-IV, Mini Bus, 14.0 km, commercial speed 25 km/h, round trip 77 min, headway 5 min, 15 buses. Alignment as printed: \"Vehari Road bypass to Airport\". Transcribed from a rendered image of the PDF because its text layer is misaligned."
+    },
+    {
+      "id": "IPTN-29",
+      "name": "Bahawalpur Bypass - Railway Station",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 10,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Bahawalpur Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 29: Express route, Phase-IV, Standard Bus, 10.0 km, commercial speed 25 km/h, round trip 58 min, headway 5 min, 12 buses. Alignment as printed: \"Bhawalpur Bypass to Railway Station\". Transcribed from a rendered image of the PDF because its text layer is misaligned."
+    },
+    {
+      "id": "IPTN-30",
+      "name": "Shershah Bypass - Railway Station",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 17.6,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Shershah Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 30: Express route, Phase-IV, Standard Bus, 17.6 km, commercial speed 25 km/h, round trip 94 min, headway 5 min, 19 buses. Alignment as printed: \"Shershah Bypass to Railway Station\". Transcribed from a rendered image of the PDF because its text layer is misaligned."
+    },
+    {
+      "id": "IPTN-31",
+      "name": "Khanewal Bypass - Railway Station",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 13.8,
+      "headway_min": 5,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Khanewal Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 31: Express route, Phase-IV, Standard Bus, 13.8 km, commercial speed 25 km/h, round trip 76 min, headway 5 min, 15 buses. Alignment as printed: \"Khanawal Bypass to Railway Station\". Transcribed from a rendered image of the PDF because its text layer is misaligned."
+    },
+    {
+      "id": "IPTN-32",
+      "name": "Khanewal - Vehari Chowk",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 49,
+      "headway_min": 15,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Khanewal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Vehari Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 32: Sub Urban route, Phase-V, Standard Bus, 49 km, commercial speed 40 km/h, round trip 157 min, headway 15 min, 10 buses. Alignment as printed: \"Khanewal to Vehari Chowk\". Transcribed from a rendered image of the PDF because its text layer is misaligned."
+    },
+    {
+      "id": "IPTN-33",
+      "name": "Makhdoom Rasheed - GBS",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 43,
+      "headway_min": 15,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Makhdoom Rasheed",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "GBS",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 33: Sub Urban route, Phase-V, Standard Bus, 43 km, commercial speed 40 km/h, round trip 139 min, headway 15 min, 9 buses. Alignment as printed: \"Makhdoom Rasheed to GBS\". Transcribed from a rendered image of the PDF because its text layer is misaligned. GBS is presumably the General Bus Stand."
+    },
+    {
+      "id": "IPTN-34",
+      "name": "Dunya Pur - GBS",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 48,
+      "headway_min": 15,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Dunya Pur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "GBS",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 34: Sub Urban route, Phase-V, Standard Bus, 48 km, commercial speed 40 km/h, round trip 154 min, headway 15 min, 10 buses. Alignment as printed: \"Dunya Pur to GBS\". Transcribed from a rendered image of the PDF because its text layer is misaligned. GBS is presumably the General Bus Stand."
+    },
+    {
+      "id": "IPTN-35",
+      "name": "Shujabad - GBS",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 38,
+      "headway_min": 15,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Shujabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "GBS",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 35: Sub Urban route, Phase-V, Standard Bus, 38 km, commercial speed 40 km/h, round trip 124 min, headway 15 min, 8 buses. Alignment as printed: \"Shujabad to GBS\". Transcribed from a rendered image of the PDF because its text layer is misaligned. GBS is presumably the General Bus Stand."
+    },
+    {
+      "id": "IPTN-36",
+      "name": "Muzaffargarh - Dera Adda",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 34,
+      "headway_min": 15,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Muzaffargarh",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 36: Sub Urban route, Phase-V, Standard Bus, 34 km, commercial speed 40 km/h, round trip 112 min, headway 15 min, 7 buses. Alignment as printed: \"Muzaffargarh to Dera Adda\". Transcribed from a rendered image of the PDF because its text layer is misaligned."
+    },
+    {
+      "id": "IPTN-37",
+      "name": "Larr - GBS",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 18,
+      "headway_min": 15,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Larr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "GBS",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 37: Sub Urban route, Phase-V, Standard Bus, 18 km, commercial speed 40 km/h, round trip 64 min, headway 15 min, 4 buses. Alignment as printed: \"Larr to GBS\". Transcribed from a rendered image of the PDF because its text layer is misaligned. GBS is presumably the General Bus Stand."
+    },
+    {
+      "id": "IPTN-38",
+      "name": "Head Muhammad Wala - GBS",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 18,
+      "headway_min": 15,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Head Muhammad Wala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "GBS",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 38: Sub Urban route, Phase-V, Standard Bus, 18 km, commercial speed 40 km/h, round trip 64 min, headway 15 min, 4 buses. Alignment as printed: \"Head Muhammad Wala to GBS\". Transcribed from a rendered image of the PDF because its text layer is misaligned. GBS is presumably the General Bus Stand."
+    },
+    {
+      "id": "IPTN-39",
+      "name": "Basti Band Boson - Northern Bypass",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 15,
+      "headway_min": 15,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Basti Band Boson",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Northern Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 39: Sub Urban route, Phase-V, Standard Bus, 15 km, commercial speed 40 km/h, round trip 55 min, headway 15 min, 4 buses. Alignment as printed: \"Basti Band Boson to Northern Bypass\". Transcribed from a rendered image of the PDF because its text layer is misaligned."
+    },
+    {
+      "id": "IPTN-40",
+      "name": "Tataaypur - GBS",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 16,
+      "headway_min": 15,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Tataaypur",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "GBS",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, route 40: Sub Urban route, Phase-V, Standard Bus, 16 km, commercial speed 40 km/h, round trip 58 min, headway 15 min, 4 buses. Alignment as printed: \"Tataaypur to GBS\". Transcribed from a rendered image of the PDF because its text layer is misaligned. GBS is presumably the General Bus Stand."
+    },
+    {
+      "id": "MBS-ORANGE",
+      "name": "Chowk Kumharan - BCG Chowk",
+      "name_ur": "",
+      "variant": "brt",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 14.94,
+      "headway_min": 3,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Chowk Kumharan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chungi No. 9",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "SP Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Double Phatak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shah Abbas Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "BCG Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, line Orange Line: Metro Bus System line, MBS, Articulated, 14.94 km, commercial speed 27 km/h, round trip 76 min, headway 3 min, 29 buses. Alignment as printed: \"Chowk Kumharan to BCG Chowk via Chungi no. 9, SP Chowk, Double Phatak, Shah Abbas Chowk\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops. Route-info blogs (e.g. graana.com) describe an Orange Line running Chowk Kumharan - BCG Chowk, and a Feb 2024 Punjab fare notification mentions an 'Orange Line Multan Metro Bus'; whether it runs today, and on which alignment, is unverified."
+    },
+    {
+      "id": "MBS-PURPLE",
+      "name": "Nag Shah - Pak Arab Fertilizer Factory",
+      "name_ur": "",
+      "variant": "brt",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 19.04,
+      "headway_min": 3,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Nag Shah",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Double Phatak",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Aam Khas Bagh",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chowk Kumharan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Pak Arab Fertilizer Factory",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, line Purple Line: Metro Bus System line, MBS, Articulated, 19.04 km, commercial speed 27 km/h, round trip 95 min, headway 3 min, 36 buses. Alignment as printed: \"Nag Shah to Pak Arab Fertilizer Factory via Double Phatak, Aam Khas Bagh, Chowk Kumharan\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops. Planned metrobus line; no evidence found that it was built."
+    },
+    {
+      "id": "MBS-BLUE",
+      "name": "Multan Airport - Kot Rabnawaz",
+      "name_ur": "",
+      "variant": "brt",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 16.34,
+      "headway_min": 3,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Multan Airport",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chungi No. 1",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Khooni Burj Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Vehari Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kot Rabnawaz",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        }
+      ],
+      "notes": "PMA IPTN Multan table, line Blue Line: Metro Bus System line, MBS, Articulated, 16.34 km, commercial speed 27 km/h, round trip 83 min, headway 3 min, 32 buses. Alignment as printed: \"Multan Airport to Kot Rabnawaz via Chungi no. 1, Kalma Chowk, Khooni Burj Chowk, Vehari Chowk\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops. Planned metrobus line; no evidence found that it was built."
+    }
+  ]
+}

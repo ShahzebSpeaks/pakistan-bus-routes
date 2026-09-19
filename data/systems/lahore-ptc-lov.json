@@ -3369,9 +3369,9 @@
         {
           "name": "Railway Station",
           "name_ur": "ریلوے اسٹیشن",
-          "lat": 31.572298,
-          "lon": 74.336153,
-          "coord_source": "auto:same-name:osm:node/8058806356",
+          "lat": 31.575274,
+          "lon": 74.33544,
+          "coord_source": "ext:safar.fyi:lhr:pma-lahore-258",
           "is_station": false
         },
         {
@@ -3393,17 +3393,17 @@
         {
           "name": "Sheranwala Gate",
           "name_ur": "شیرانوالا گیٹ",
-          "lat": 31.585517,
-          "lon": 74.324054,
-          "coord_source": "auto:osm:way/468965903",
+          "lat": 31.587297,
+          "lon": 74.32389,
+          "coord_source": "ext:safar.fyi:lhr:pma-lahore-258",
           "is_station": false
         },
         {
           "name": "Kashmiri Gate",
           "name_ur": "کشمیری گیٹ",
-          "lat": 31.586842,
-          "lon": 74.321044,
-          "coord_source": "auto:osm:node/8389022126",
+          "lat": 31.587819,
+          "lon": 74.321152,
+          "coord_source": "ext:safar.fyi:lhr:pma-lahore-258",
           "is_station": false
         },
         {
@@ -3417,9 +3417,9 @@
         {
           "name": "Lari Adda",
           "name_ur": "لاری اڈا",
-          "lat": 31.591264,
-          "lon": 74.318877,
-          "coord_source": "auto:nominatim:node/2952892667",
+          "lat": 31.592788,
+          "lon": 74.316926,
+          "coord_source": "ext:safar.fyi:lhr:pma-lahore-258",
           "is_station": false
         },
         {
@@ -3433,17 +3433,17 @@
         {
           "name": "Niazi Chowk",
           "name_ur": "نیازی چوک",
-          "lat": 31.600983,
-          "lon": 74.299229,
-          "coord_source": "auto:same-name:osm:node/2405226777",
+          "lat": 31.601538,
+          "lon": 74.29953,
+          "coord_source": "ext:safar.fyi:lhr:pma-lahore-258",
           "is_station": false
         },
         {
           "name": "Shahdara Mor",
           "name_ur": "شاہدرہ موڑ",
-          "lat": 31.616508,
-          "lon": 74.290818,
-          "coord_source": "auto:same-name:osm:node/3093598533",
+          "lat": 31.615577,
+          "lon": 74.291228,
+          "coord_source": "ext:safar.fyi:lhr:pma-lahore-258",
           "is_station": false
         },
         {
@@ -3503,6 +3503,10 @@
         {
           "title": "Urban (LOV) Wagon / Mini Bus - Routes & Fares",
           "url": "https://ptc.punjab.gov.pk/lov-route-fare"
+        },
+        {
+          "title": "safar.fyi: Speedo RT-24",
+          "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-258"
         }
       ],
       "notes": "Stops transcribed from the Urdu fare table (16 stops). Urdu names are verbatim; Roman spellings are transliterations and need a local check. Cumulative km: 0.0, 0.9, 1.3, 1.9, 2.3, 2.5, 2.8, 4.0, 5.7, 7.7, 9.8, 12.3, 13.6, 14.3, 15.9, 16.6. Via (per table header): Do Moria Pul, General Bus Stand, Sabzi Mandi, Niazi Chowk, Shahdara, Begum Kot, Faizpur. The listing calls the terminus Attari Mor; the table's last stop is Burj Attari. All digits and names were clearly readable. The fare matrix runs from Rs 14 to Rs 23 (full 16.6 km) under the 17-05-2020 notification, so it is probably out of date.\n\nRoute and stops from the Punjab Transport Company fare table (2020). Please confirm the route still runs."

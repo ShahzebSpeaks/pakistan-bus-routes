@@ -1,0 +1,139 @@
+{
+  "assignment": "islamabad-cda-extra",
+  "researched_on": "2026-09-19",
+  "systems": [
+    {
+      "id": "islamabad-electric-feeder",
+      "city": "islamabad-rawalpindi",
+      "name": "CDA Electric Feeder Buses",
+      "name_ur": "",
+      "operator": "Capital Development Authority",
+      "mode": "electric_bus",
+      "website": "https://www.cda.gov.pk",
+      "helpline": null,
+      "payment": "",
+      "fare_rules": {
+        "type": "unknown",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "",
+        "as_of": null,
+        "source_url": null
+      },
+      "hours": null,
+      "sources": [
+        {
+          "title": "Transit Map of Islamabad V-08",
+          "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-08.pdf",
+          "publisher": "CDA",
+          "date": "2025-10",
+          "official": true
+        },
+        {
+          "title": "CDA transit route table",
+          "url": "https://www.cda.gov.pk/cdaTransitMap",
+          "publisher": "CDA",
+          "date": null,
+          "official": true
+        }
+      ],
+      "routes": [
+        {
+          "id": "FR-02",
+          "name": "Sohan - AOU",
+          "name_ur": "",
+          "variant": "electric",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Sohan",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "AOU (Allama Iqbal Open University)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA), legend",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            },
+            {
+              "title": "Transit Map of Islamabad V-08 (CDA, Oct 2025), legend",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-08.pdf"
+            }
+          ],
+          "notes": "Legend text: 'Sohan to AOU via I8'. This route appears only in the legend of CDA transit maps V-07 and V-08. It is not in CDA's route table (cdaTransitMap, checked 2026-09-19), and there is no timetable PDF for it: FR-02_Forward.pdf and FR-02_Backward.pdf return 404. It may never have launched, or it may be planned. Stops are the two terminals as named in the legend; no stop list was found. Metrobus BLUE (PIMS - Gulberg) already serves Sohan and Kachnar Park I-8."
+        },
+        {
+          "id": "FR-03B",
+          "name": "PIMS Hospital - NL",
+          "name_ur": "",
+          "variant": "electric",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "PIMS Hospital",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "NL",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Transit Map of Islamabad V-07 (CDA), legend",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf"
+            },
+            {
+              "title": "Transit Map of Islamabad V-08 (CDA, Oct 2025), legend",
+              "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-08.pdf"
+            }
+          ],
+          "notes": "Legend text: 'PIMS Hospital to NL via Margalla Road & Pak Sec.'. 'NL' is not expanded on the map (it may be the National Library near Pak Secretariat, but this is unconfirmed). This route appears only in the legend of CDA transit maps V-07 and V-08. It is not in CDA's route table (cdaTransitMap, checked 2026-09-19), and there is no timetable PDF for it: FR-03B_Forward.pdf and FR-03B_Backward.pdf return 404. It may never have launched, or it may be planned. Stops are the two terminals as named in the legend; no stop list was found."
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    "Did FR-02 (Sohan - AOU) and FR-03B (PIMS - NL) ever launch? What does 'NL' stand for?",
+    "CDA's route table also lists FRB-01 (PIMS - Gulberg) and FRG-1 (PIMS - Barakahu), which are missing from islamabad-electric-feeder. Their timetable stop lists match metrobus BLUE and GREEN in data/systems/isb-rwp-metrobus.json, so they were not added here. The only difference is that the PIMS-bound direction adds PIMS Metro Station and Tipu Market G-8. Decide which system should own them.",
+    "The CDA table and maps label FR-05 'Golra Morh - Taxila', but the FR-05 timetable PDF runs NUST Metro Station - D-12, which matches our data. The map legend's FR-11 terminus is 'Foreign Office Society'; the table says I-16.",
+    "The CDA table gives FRB-01/FRG-1 hours as 08:00-19:00, but their PDFs start trips at 05:45."
+  ]
+}

@@ -5,6 +5,2975 @@
   "fetched_at": "2026-09-19",
   "lines": [
     {
+      "id": "1:blue",
+      "code": "Blue Line",
+      "name": "Blue Line",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Ablue",
+      "color": "#3182CE",
+      "mode": "BusRoute",
+      "headsign": "Gulberg",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "PIMS Hospital",
+          "name_ur": "",
+          "lat": 33.7054708,
+          "lon": 73.0507351,
+          "safar_stop_id": "1:sta_pims_hospital_gb_up"
+        },
+        {
+          "name": "Children Hospital",
+          "name_ur": "",
+          "lat": 33.7053652,
+          "lon": 73.0555847,
+          "safar_stop_id": "1:sta_children_hospital_down"
+        },
+        {
+          "name": "G-7 / G-8",
+          "name_ur": "",
+          "lat": 33.6965625,
+          "lon": 73.0623228,
+          "safar_stop_id": "1:g7g8_up"
+        },
+        {
+          "name": "H-8 / Shakarparia",
+          "name_ur": "",
+          "lat": 33.6840999,
+          "lon": 73.0727329,
+          "safar_stop_id": "1:shakarparia_up"
+        },
+        {
+          "name": "I-8 / Parade Ground",
+          "name_ur": "",
+          "lat": 33.6734678,
+          "lon": 73.080716,
+          "safar_stop_id": "1:parade_ground_up"
+        },
+        {
+          "name": "Sohan",
+          "name_ur": "",
+          "lat": 33.6596024,
+          "lon": 73.0911138,
+          "safar_stop_id": "1:sohan_down"
+        },
+        {
+          "name": "Dhoke Kala Khan",
+          "name_ur": "",
+          "lat": 33.650079,
+          "lon": 73.0983183,
+          "safar_stop_id": "1:dhok_kala_down"
+        },
+        {
+          "name": "Iqbal Town",
+          "name_ur": "",
+          "lat": 33.6458418,
+          "lon": 73.1015689,
+          "safar_stop_id": "1:iqbal_town_down"
+        },
+        {
+          "name": "Kuri Road",
+          "name_ur": "",
+          "lat": 33.6425412,
+          "lon": 73.1038787,
+          "safar_stop_id": "1:kuri_road_down"
+        },
+        {
+          "name": "Zia Masjid",
+          "name_ur": "",
+          "lat": 33.6372557,
+          "lon": 73.1078425,
+          "safar_stop_id": "1:zia_masjid_down"
+        },
+        {
+          "name": "Fazaia Colony",
+          "name_ur": "",
+          "lat": 33.6206081,
+          "lon": 73.1203296,
+          "safar_stop_id": "1:fazaia_colony_up"
+        },
+        {
+          "name": "Gangal",
+          "name_ur": "",
+          "lat": 33.612885,
+          "lon": 73.1261909,
+          "safar_stop_id": "1:gangal_up"
+        },
+        {
+          "name": "Koral Town",
+          "name_ur": "",
+          "lat": 33.604061,
+          "lon": 73.132689,
+          "safar_stop_id": "1:cda-128-10168"
+        },
+        {
+          "name": "Gulberg",
+          "name_ur": "",
+          "lat": 33.598468,
+          "lon": 73.138084,
+          "safar_stop_id": "1:cda-128-10169"
+        }
+      ]
+    },
+    {
+      "id": "1:ex_16",
+      "code": "EX-16",
+      "name": "Express Route - 16 (EX-16)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Aex_16",
+      "color": "#264653",
+      "mode": "BusRoute",
+      "headsign": "Media Chowk",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "PIMS Hospital",
+          "name_ur": "",
+          "lat": 33.7061484,
+          "lon": 73.0521991,
+          "safar_stop_id": "1:sta_pims_hospital_fr_down"
+        },
+        {
+          "name": "TNT",
+          "name_ur": "",
+          "lat": 33.697471,
+          "lon": 73.062623,
+          "safar_stop_id": "1:cda-128-11618"
+        },
+        {
+          "name": "H-8",
+          "name_ur": "",
+          "lat": 33.68396,
+          "lon": 73.072907,
+          "safar_stop_id": "1:cda-128-10862"
+        },
+        {
+          "name": "Sohan",
+          "name_ur": "",
+          "lat": 33.6596024,
+          "lon": 73.0911138,
+          "safar_stop_id": "1:sohan_down"
+        },
+        {
+          "name": "Zia Masjid",
+          "name_ur": "",
+          "lat": 33.637173,
+          "lon": 73.107961,
+          "safar_stop_id": "1:cda-128-11620"
+        },
+        {
+          "name": "Khanna Pul",
+          "name_ur": "",
+          "lat": 33.627469,
+          "lon": 73.115201,
+          "safar_stop_id": "1:cda-128-11603"
+        },
+        {
+          "name": "Gangal",
+          "name_ur": "",
+          "lat": 33.612935,
+          "lon": 73.126095,
+          "safar_stop_id": "1:cda-128-11619"
+        },
+        {
+          "name": "Koral Town",
+          "name_ur": "",
+          "lat": 33.604061,
+          "lon": 73.132689,
+          "safar_stop_id": "1:cda-128-10168"
+        },
+        {
+          "name": "Gulberg Greens",
+          "name_ur": "",
+          "lat": 33.595989,
+          "lon": 73.138607,
+          "safar_stop_id": "1:cda-128-11604"
+        },
+        {
+          "name": "Tuth Stop",
+          "name_ur": "",
+          "lat": 33.5856446,
+          "lon": 73.1464227,
+          "safar_stop_id": "1:tuth_stop_up"
+        },
+        {
+          "name": "PWD Housing society",
+          "name_ur": "",
+          "lat": 33.5763915,
+          "lon": 73.1533772,
+          "safar_stop_id": "1:pwd_up"
+        },
+        {
+          "name": "PWD Interchange",
+          "name_ur": "",
+          "lat": 33.572956,
+          "lon": 73.15411,
+          "safar_stop_id": "1:cda-128-11621"
+        },
+        {
+          "name": "Korang Town",
+          "name_ur": "",
+          "lat": 33.581023,
+          "lon": 73.146315,
+          "safar_stop_id": "1:cda-128-11616"
+        },
+        {
+          "name": "Pakistan Town Phase 01",
+          "name_ur": "",
+          "lat": 33.578304,
+          "lon": 73.149687,
+          "safar_stop_id": "1:cda-128-11617"
+        },
+        {
+          "name": "PWD Barrier",
+          "name_ur": "",
+          "lat": 33.5746971,
+          "lon": 73.1521639,
+          "safar_stop_id": "1:pwd_barrier_up"
+        },
+        {
+          "name": "DD Block",
+          "name_ur": "",
+          "lat": 33.5731671,
+          "lon": 73.1483429,
+          "safar_stop_id": "1:sta_dd_up"
+        },
+        {
+          "name": "London Bakers",
+          "name_ur": "",
+          "lat": 33.571263,
+          "lon": 73.1446825,
+          "safar_stop_id": "1:sta_london_up"
+        },
+        {
+          "name": "Sector C",
+          "name_ur": "",
+          "lat": 33.568878,
+          "lon": 73.140293,
+          "safar_stop_id": "1:cda-128-11610"
+        },
+        {
+          "name": "Pakistan Town",
+          "name_ur": "",
+          "lat": 33.567842,
+          "lon": 73.137784,
+          "safar_stop_id": "1:cda-128-11611"
+        },
+        {
+          "name": "Police Foundation",
+          "name_ur": "",
+          "lat": 33.566591,
+          "lon": 73.133054,
+          "safar_stop_id": "1:cda-128-11612"
+        },
+        {
+          "name": "Doctor Town",
+          "name_ur": "",
+          "lat": 33.5661085,
+          "lon": 73.1310747,
+          "safar_stop_id": "1:doctor_up"
+        },
+        {
+          "name": "Block F",
+          "name_ur": "",
+          "lat": 33.565235,
+          "lon": 73.127973,
+          "safar_stop_id": "1:cda-128-11622"
+        },
+        {
+          "name": "Media Town",
+          "name_ur": "",
+          "lat": 33.5643032,
+          "lon": 73.1243715,
+          "safar_stop_id": "1:sta_media_up"
+        },
+        {
+          "name": "Media Chowk",
+          "name_ur": "",
+          "lat": 33.563788,
+          "lon": 73.121302,
+          "safar_stop_id": "1:cda-128-11615"
+        }
+      ]
+    },
+    {
+      "id": "rwp:92",
+      "code": "Fawara Chowk to Koral Chowk",
+      "name": "Fawara Chowk to Koral Chowk",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/rwp%3A92",
+      "color": "#1F92A3",
+      "mode": "BusRoute",
+      "headsign": "Fawara Chowk to Koral Chowk",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "Rwp Fawara Chowk",
+          "name_ur": "",
+          "lat": 33.6127917,
+          "lon": 73.0551833,
+          "safar_stop_id": "rwp:2029"
+        },
+        {
+          "name": "Gawalmandi",
+          "name_ur": "",
+          "lat": 33.609033,
+          "lon": 73.060076,
+          "safar_stop_id": "rwp:sta_2031"
+        },
+        {
+          "name": "Liaqat Bagh Station",
+          "name_ur": "",
+          "lat": 33.6062399,
+          "lon": 73.0659763,
+          "safar_stop_id": "rwp:2033"
+        },
+        {
+          "name": "Marrir Chowk Metrobus",
+          "name_ur": "",
+          "lat": 33.5997732,
+          "lon": 73.0627545,
+          "safar_stop_id": "rwp:2036"
+        },
+        {
+          "name": "Marrir Hassan Stop",
+          "name_ur": "",
+          "lat": 33.5968898,
+          "lon": 73.0646729,
+          "safar_stop_id": "rwp:sta_etransit-rawalpindi-2037"
+        },
+        {
+          "name": "Punjab House",
+          "name_ur": "",
+          "lat": 33.590488,
+          "lon": 73.065716,
+          "safar_stop_id": "rwp:sta_etransit-rawalpindi-2039"
+        },
+        {
+          "name": "Katchery Stop",
+          "name_ur": "",
+          "lat": 33.585537,
+          "lon": 73.0675095,
+          "safar_stop_id": "rwp:sta_etransit-rawalpindi-2043"
+        },
+        {
+          "name": "Jinah Park",
+          "name_ur": "",
+          "lat": 33.5863875,
+          "lon": 73.0723902,
+          "safar_stop_id": "rwp:sta_etransit-rawalpindi-2047"
+        },
+        {
+          "name": "Jhanda Chichi",
+          "name_ur": "",
+          "lat": 33.5889522,
+          "lon": 73.0761139,
+          "safar_stop_id": "rwp:etransit-rawalpindi-2052"
+        },
+        {
+          "name": "Ammar Chowk",
+          "name_ur": "",
+          "lat": 33.592904,
+          "lon": 73.078725,
+          "safar_stop_id": "rwp:etransit-rawalpindi-2055"
+        },
+        {
+          "name": "Rahimabad",
+          "name_ur": "",
+          "lat": 33.6008813,
+          "lon": 73.0912389,
+          "safar_stop_id": "rwp:2061"
+        },
+        {
+          "name": "Umar Baig Chowk",
+          "name_ur": "",
+          "lat": 33.600606,
+          "lon": 73.088502,
+          "safar_stop_id": "rwp:sta_2063"
+        },
+        {
+          "name": "Chaklala Stop",
+          "name_ur": "",
+          "lat": 33.6012161,
+          "lon": 73.0938353,
+          "safar_stop_id": "rwp:sta_2069"
+        },
+        {
+          "name": "NASTP",
+          "name_ur": "",
+          "lat": 33.606356,
+          "lon": 73.101079,
+          "safar_stop_id": "rwp:sta_2073"
+        },
+        {
+          "name": "Old Airport",
+          "name_ur": "",
+          "lat": 33.6097987,
+          "lon": 73.1070112,
+          "safar_stop_id": "rwp:5824"
+        },
+        {
+          "name": "Shah Khalid Colony",
+          "name_ur": "",
+          "lat": 33.606337,
+          "lon": 73.116039,
+          "safar_stop_id": "rwp:sta_2077"
+        },
+        {
+          "name": "MAZEN School Quaid Campus",
+          "name_ur": "",
+          "lat": 33.6048494,
+          "lon": 73.1193127,
+          "safar_stop_id": "rwp:sta_2085"
+        },
+        {
+          "name": "Gulzar e Quaid",
+          "name_ur": "",
+          "lat": 33.601774,
+          "lon": 73.125334,
+          "safar_stop_id": "rwp:2089"
+        },
+        {
+          "name": "Koral Chowk",
+          "name_ur": "",
+          "lat": 33.609972,
+          "lon": 73.12915,
+          "safar_stop_id": "rwp:2094"
+        }
+      ]
+    },
+    {
+      "id": "1:fr_1",
+      "code": "FR-1",
+      "name": "Feeder Route - 1 (FR-1)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_1",
+      "color": "#1F92A3",
+      "mode": "BusRoute",
+      "headsign": "NUST Metro Station",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "Khanna Terminal (Service Road West)",
+          "name_ur": "",
+          "lat": 33.631344,
+          "lon": 73.11043,
+          "safar_stop_id": "1:khanna_terminal_service_road_west"
+        },
+        {
+          "name": "Zia Masjid",
+          "name_ur": "",
+          "lat": 33.6366299,
+          "lon": 73.1076815,
+          "safar_stop_id": "1:zia_masjid_up"
+        },
+        {
+          "name": "Kuri Road",
+          "name_ur": "",
+          "lat": 33.6421623,
+          "lon": 73.1035328,
+          "safar_stop_id": "1:kuri_road_up"
+        },
+        {
+          "name": "Iqbal Town",
+          "name_ur": "",
+          "lat": 33.6458237,
+          "lon": 73.1008445,
+          "safar_stop_id": "1:iqbal_town_up"
+        },
+        {
+          "name": "Dhoke Kala Khan",
+          "name_ur": "",
+          "lat": 33.6497653,
+          "lon": 73.097783,
+          "safar_stop_id": "1:dhok_kala_up"
+        },
+        {
+          "name": "Sohan",
+          "name_ur": "",
+          "lat": 33.6596256,
+          "lon": 73.0905242,
+          "safar_stop_id": "1:sohan_up"
+        },
+        {
+          "name": "Faizabad Metro Station",
+          "name_ur": "",
+          "lat": 33.6617972,
+          "lon": 73.0826385,
+          "safar_stop_id": "1:faizabad_station_up"
+        },
+        {
+          "name": "I-8 Markaz",
+          "name_ur": "",
+          "lat": 33.665998,
+          "lon": 73.07504,
+          "safar_stop_id": "1:cda-128-10102"
+        },
+        {
+          "name": "Potohar Metro Station",
+          "name_ur": "",
+          "lat": 33.660876,
+          "lon": 73.0646136,
+          "safar_stop_id": "1:potohar_station_up"
+        },
+        {
+          "name": "MCI Model School",
+          "name_ur": "",
+          "lat": 33.6595147,
+          "lon": 73.0609969,
+          "safar_stop_id": "1:sta_mci_school_down"
+        },
+        {
+          "name": "CDA Complaint Center",
+          "name_ur": "",
+          "lat": 33.6572377,
+          "lon": 73.0565538,
+          "safar_stop_id": "1:sta_cda_center_down"
+        },
+        {
+          "name": "OGTI Stop",
+          "name_ur": "",
+          "lat": 33.6553545,
+          "lon": 73.0528758,
+          "safar_stop_id": "1:ogti_up"
+        },
+        {
+          "name": "Sui Gas Stop",
+          "name_ur": "",
+          "lat": 33.6532425,
+          "lon": 73.0489456,
+          "safar_stop_id": "1:sui_up"
+        },
+        {
+          "name": "PTCL I-10",
+          "name_ur": "",
+          "lat": 33.6491882,
+          "lon": 73.0412338,
+          "safar_stop_id": "1:ptcl_i10_up"
+        },
+        {
+          "name": "IESCO I-10 Markaz",
+          "name_ur": "",
+          "lat": 33.6476327,
+          "lon": 73.0382272,
+          "safar_stop_id": "1:sta_iesco_i10_down"
+        },
+        {
+          "name": "I-10/2 Park",
+          "name_ur": "",
+          "lat": 33.644829,
+          "lon": 73.032708,
+          "safar_stop_id": "1:cda-128-10182"
+        },
+        {
+          "name": "Korang Road",
+          "name_ur": "",
+          "lat": 33.6443595,
+          "lon": 73.0319801,
+          "safar_stop_id": "1:korang_up"
+        },
+        {
+          "name": "Mandi Morh",
+          "name_ur": "",
+          "lat": 33.6369233,
+          "lon": 73.0345958,
+          "safar_stop_id": "1:sta_mandi_morh_fr1_down"
+        },
+        {
+          "name": "Sabzi Mandi",
+          "name_ur": "",
+          "lat": 33.6405224,
+          "lon": 73.0307042,
+          "safar_stop_id": "1:sta_sabzi_mandi_down"
+        },
+        {
+          "name": "Metro Cash and Carry",
+          "name_ur": "",
+          "lat": 33.6401094,
+          "lon": 73.0245706,
+          "safar_stop_id": "1:sta_metro_cc_down"
+        },
+        {
+          "name": "I-11/3",
+          "name_ur": "",
+          "lat": 33.643626,
+          "lon": 73.021705,
+          "safar_stop_id": "1:cda-128-10181"
+        },
+        {
+          "name": "Islamabad Medical Complex",
+          "name_ur": "",
+          "lat": 33.6485062,
+          "lon": 73.0171617,
+          "safar_stop_id": "1:sta_imc_down"
+        },
+        {
+          "name": "PAEC General Hospital",
+          "name_ur": "",
+          "lat": 33.6529263,
+          "lon": 73.0157814,
+          "safar_stop_id": "1:sta_paec_down"
+        },
+        {
+          "name": "FAST University",
+          "name_ur": "",
+          "lat": 33.6567402,
+          "lon": 73.0148852,
+          "safar_stop_id": "1:sta_fast_down"
+        },
+        {
+          "name": "Bahria University",
+          "name_ur": "",
+          "lat": 33.65124,
+          "lon": 73.022521,
+          "safar_stop_id": "1:cda-128-10126"
+        },
+        {
+          "name": "Islamic International University",
+          "name_ur": "",
+          "lat": 33.6579189,
+          "lon": 73.0175125,
+          "safar_stop_id": "1:sta_iiu_down"
+        },
+        {
+          "name": "Police Lines",
+          "name_ur": "",
+          "lat": 33.6551816,
+          "lon": 73.0106915,
+          "safar_stop_id": "1:sta_police_lines_down"
+        },
+        {
+          "name": "Police Foundation Metro Station",
+          "name_ur": "",
+          "lat": 33.6604041,
+          "lon": 73.0067872,
+          "safar_stop_id": "1:sta_police_foundation_station_fr1_down"
+        },
+        {
+          "name": "NUST Metro Station",
+          "name_ur": "",
+          "lat": 33.6558428,
+          "lon": 72.9944411,
+          "safar_stop_id": "1:sta_nust_station_fr1_down"
+        }
+      ]
+    },
+    {
+      "id": "1:fr_3a",
+      "code": "FR-3A",
+      "name": "Feeder Route - 3A (FR-3A)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_3a",
+      "color": "#1FA39D",
+      "mode": "BusRoute",
+      "headsign": "Said Pur Village",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "PIMS Hospital",
+          "name_ur": "",
+          "lat": 33.7061484,
+          "lon": 73.0521991,
+          "safar_stop_id": "1:sta_pims_hospital_fr_down"
+        },
+        {
+          "name": "PIMS Metro Station",
+          "name_ur": "",
+          "lat": 33.705651,
+          "lon": 73.0483478,
+          "safar_stop_id": "1:pims_station_fr_up"
+        },
+        {
+          "name": "IMCB F-8",
+          "name_ur": "",
+          "lat": 33.706375,
+          "lon": 73.041167,
+          "safar_stop_id": "1:cda-128-10326"
+        },
+        {
+          "name": "Katchery",
+          "name_ur": "",
+          "lat": 33.7088077,
+          "lon": 73.0393485,
+          "safar_stop_id": "1:katcher_up"
+        },
+        {
+          "name": "F-8 Markaz",
+          "name_ur": "",
+          "lat": 33.711734,
+          "lon": 73.0371628,
+          "safar_stop_id": "1:sta_f8_markaz_down"
+        },
+        {
+          "name": "F-9 Park Ravi Gate",
+          "name_ur": "",
+          "lat": 33.7097419,
+          "lon": 73.0284952,
+          "safar_stop_id": "1:f9_park_up"
+        },
+        {
+          "name": "Shaheen Chowk",
+          "name_ur": "",
+          "lat": 33.7122179,
+          "lon": 73.026621,
+          "safar_stop_id": "1:sta_shaheen_down"
+        },
+        {
+          "name": "Bahria University",
+          "name_ur": "",
+          "lat": 33.7155913,
+          "lon": 73.031213,
+          "safar_stop_id": "1:sta_bahria_uni_down"
+        },
+        {
+          "name": "Naval Complex",
+          "name_ur": "",
+          "lat": 33.7188664,
+          "lon": 73.0374431,
+          "safar_stop_id": "1:sta_naval_down"
+        },
+        {
+          "name": "Faisal Masjid",
+          "name_ur": "",
+          "lat": 33.7274014,
+          "lon": 73.0398081,
+          "safar_stop_id": "1:sta_faisal_masjid_down"
+        },
+        {
+          "name": "Parveen Shakir Road",
+          "name_ur": "",
+          "lat": 33.722896,
+          "lon": 73.045049,
+          "safar_stop_id": "1:cda-128-10305"
+        },
+        {
+          "name": "Kohsar Road/F-7 Markaz",
+          "name_ur": "",
+          "lat": 33.726785,
+          "lon": 73.052575,
+          "safar_stop_id": "1:cda-128-10130"
+        },
+        {
+          "name": "Murghzar Zoo",
+          "name_ur": "",
+          "lat": 33.732135,
+          "lon": 73.062713,
+          "safar_stop_id": "1:cda-128-10346"
+        },
+        {
+          "name": "F-6",
+          "name_ur": "",
+          "lat": 33.734109,
+          "lon": 73.066542,
+          "safar_stop_id": "1:cda-128-10347"
+        },
+        {
+          "name": "Said Pur Village",
+          "name_ur": "",
+          "lat": 33.740548,
+          "lon": 73.067099,
+          "safar_stop_id": "1:cda-128-10348"
+        }
+      ]
+    },
+    {
+      "id": "1:fr_4",
+      "code": "FR-4",
+      "name": "Feeder Route - 4 (FR-4)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_4",
+      "color": "#D629AB",
+      "mode": "BusRoute",
+      "headsign": "Diplomatic Enclave Gate 4",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "PIMS Hospital",
+          "name_ur": "",
+          "lat": 33.7061484,
+          "lon": 73.0521991,
+          "safar_stop_id": "1:sta_pims_hospital_fr_down"
+        },
+        {
+          "name": "Children Hospital",
+          "name_ur": "",
+          "lat": 33.7053652,
+          "lon": 73.0555847,
+          "safar_stop_id": "1:sta_children_hospital_down"
+        },
+        {
+          "name": "Rescue 15",
+          "name_ur": "",
+          "lat": 33.6998374,
+          "lon": 73.0598123,
+          "safar_stop_id": "1:sta_rescue_down"
+        },
+        {
+          "name": "Bank Colony",
+          "name_ur": "",
+          "lat": 33.7003844,
+          "lon": 73.0619449,
+          "safar_stop_id": "1:sta_bank_down"
+        },
+        {
+          "name": "Salai Centre",
+          "name_ur": "",
+          "lat": 33.7027395,
+          "lon": 73.066402,
+          "safar_stop_id": "1:sta_salai_down"
+        },
+        {
+          "name": "Sitara Market",
+          "name_ur": "",
+          "lat": 33.7060646,
+          "lon": 73.0667981,
+          "safar_stop_id": "1:sta_sitara_down"
+        },
+        {
+          "name": "Pully Stop",
+          "name_ur": "",
+          "lat": 33.7069321,
+          "lon": 73.0704668,
+          "safar_stop_id": "1:sta_pully_down"
+        },
+        {
+          "name": "Iqbal Hall",
+          "name_ur": "",
+          "lat": 33.7092677,
+          "lon": 73.0749385,
+          "safar_stop_id": "1:sta_iqbal_hall_down"
+        },
+        {
+          "name": "G-6/1,2",
+          "name_ur": "",
+          "lat": 33.7129049,
+          "lon": 73.0807878,
+          "safar_stop_id": "1:g61_up"
+        },
+        {
+          "name": "Melody Market",
+          "name_ur": "",
+          "lat": 33.7147241,
+          "lon": 73.0849502,
+          "safar_stop_id": "1:melody_up"
+        },
+        {
+          "name": "Abpara Market",
+          "name_ur": "",
+          "lat": 33.7092429,
+          "lon": 73.0891329,
+          "safar_stop_id": "1:sta_aabpara_market_down"
+        },
+        {
+          "name": "Youth Hostel",
+          "name_ur": "",
+          "lat": 33.7098963,
+          "lon": 73.0918373,
+          "safar_stop_id": "1:sta_youth_hostel_down"
+        },
+        {
+          "name": "Metropolitan Corporation",
+          "name_ur": "",
+          "lat": 33.715945,
+          "lon": 73.0873495,
+          "safar_stop_id": "1:sta_mci_down"
+        },
+        {
+          "name": "ICB College",
+          "name_ur": "",
+          "lat": 33.7181181,
+          "lon": 73.0905731,
+          "safar_stop_id": "1:sta_icb_down"
+        },
+        {
+          "name": "NADRA Chowk",
+          "name_ur": "",
+          "lat": 33.7202353,
+          "lon": 73.0952968,
+          "safar_stop_id": "1:nadra_up"
+        },
+        {
+          "name": "Radio Pakistan",
+          "name_ur": "",
+          "lat": 33.7226287,
+          "lon": 73.1004566,
+          "safar_stop_id": "1:radio_up"
+        },
+        {
+          "name": "National Library",
+          "name_ur": "",
+          "lat": 33.7246072,
+          "lon": 73.102706,
+          "safar_stop_id": "1:sta_nat_library_down"
+        },
+        {
+          "name": "Secretariate Police Station",
+          "name_ur": "",
+          "lat": 33.7275344,
+          "lon": 73.1082894,
+          "safar_stop_id": "1:sec_police_up"
+        },
+        {
+          "name": "Diplomatic Enclave Gate 4",
+          "name_ur": "",
+          "lat": 33.7310188,
+          "lon": 73.1105499,
+          "safar_stop_id": "1:sta_diplomatic_down"
+        }
+      ]
+    },
+    {
+      "id": "1:fr_4a",
+      "code": "FR-4A",
+      "name": "Feeder Route - 4A (FR-4A)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_4a",
+      "color": "#1FA387",
+      "mode": "BusRoute",
+      "headsign": "Barakahu",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "Bari Imam",
+          "name_ur": "",
+          "lat": 33.7435554,
+          "lon": 73.109445,
+          "safar_stop_id": "1:sta_bari_imam_up"
+        },
+        {
+          "name": "Muhallah Noori Bagh",
+          "name_ur": "",
+          "lat": 33.7444219,
+          "lon": 73.1130878,
+          "safar_stop_id": "1:sta_noori_down"
+        },
+        {
+          "name": "Community Health Centre",
+          "name_ur": "",
+          "lat": 33.7445801,
+          "lon": 73.1173419,
+          "safar_stop_id": "1:community_up"
+        },
+        {
+          "name": "D-Type Quaid-e-Azam Colony",
+          "name_ur": "",
+          "lat": 33.7447221,
+          "lon": 73.120659,
+          "safar_stop_id": "1:sta_d_quaid_down"
+        },
+        {
+          "name": "C-Type Quaid-e-Azam Colony",
+          "name_ur": "",
+          "lat": 33.7448369,
+          "lon": 73.1249584,
+          "safar_stop_id": "1:sta_c_quaid_down"
+        },
+        {
+          "name": "Babul Quaid",
+          "name_ur": "",
+          "lat": 33.7449967,
+          "lon": 73.1326729,
+          "safar_stop_id": "1:sta_babul_quaid_down"
+        },
+        {
+          "name": "Diplomatic Enclave Gate 05",
+          "name_ur": "",
+          "lat": 33.740653,
+          "lon": 73.129259,
+          "safar_stop_id": "1:cda-128-20438"
+        },
+        {
+          "name": "Jamia Masjid Abdul Rehman",
+          "name_ur": "",
+          "lat": 33.742451,
+          "lon": 73.140328,
+          "safar_stop_id": "1:cda-128-20439"
+        },
+        {
+          "name": "Bari Imam Link Road",
+          "name_ur": "",
+          "lat": 33.73258,
+          "lon": 73.148759,
+          "safar_stop_id": "1:cda-128-20441"
+        },
+        {
+          "name": "Shahdara",
+          "name_ur": "",
+          "lat": 33.734789,
+          "lon": 73.159257,
+          "safar_stop_id": "1:cda-128-21417"
+        },
+        {
+          "name": "Barakahu",
+          "name_ur": "",
+          "lat": 33.735462,
+          "lon": 73.16548,
+          "safar_stop_id": "1:cda-128-20140"
+        }
+      ]
+    },
+    {
+      "id": "1:fr_4b",
+      "code": "FR-04B",
+      "name": "Shuttle Service Terminal - Shuttle Service Terminal (FR-04B)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_4b",
+      "color": "#19A7D7",
+      "mode": "BusRoute",
+      "headsign": "Shuttle Service Terminal",
+      "direction_count": 1,
+      "stops": [
+        {
+          "name": "Shuttle Service Terminal",
+          "name_ur": "",
+          "lat": 33.728904,
+          "lon": 73.136244,
+          "safar_stop_id": "1:cda-128-10451"
+        },
+        {
+          "name": "Qatar and Philippines Embassy",
+          "name_ur": "",
+          "lat": 33.73044,
+          "lon": 73.133104,
+          "safar_stop_id": "1:cda-128-10452"
+        },
+        {
+          "name": "Netherland Embassy",
+          "name_ur": "",
+          "lat": 33.720125,
+          "lon": 73.113449,
+          "safar_stop_id": "1:cda-128-10433"
+        },
+        {
+          "name": "Malaysian Embassy",
+          "name_ur": "",
+          "lat": 33.719666,
+          "lon": 73.112558,
+          "safar_stop_id": "1:cda-128-10434"
+        },
+        {
+          "name": "Thailand. Italy and France Embassy",
+          "name_ur": "",
+          "lat": 33.717517,
+          "lon": 73.108419,
+          "safar_stop_id": "1:cda-128-10435"
+        },
+        {
+          "name": "Egypt. Morocco. Japan and Jordan Embassy",
+          "name_ur": "",
+          "lat": 33.7202,
+          "lon": 73.106115,
+          "safar_stop_id": "1:cda-128-10436"
+        },
+        {
+          "name": "Spain and Switzerland Embassy",
+          "name_ur": "",
+          "lat": 33.721859,
+          "lon": 73.104912,
+          "safar_stop_id": "1:cda-128-10437"
+        },
+        {
+          "name": "German. Indonesia and Barma Embassy",
+          "name_ur": "",
+          "lat": 33.72299,
+          "lon": 73.104098,
+          "safar_stop_id": "1:cda-128-10438"
+        },
+        {
+          "name": "Australian Embassy",
+          "name_ur": "",
+          "lat": 33.724156,
+          "lon": 73.103136,
+          "safar_stop_id": "1:cda-128-10439"
+        },
+        {
+          "name": "Nigerian Embassy",
+          "name_ur": "",
+          "lat": 33.725378,
+          "lon": 73.104916,
+          "safar_stop_id": "1:cda-128-10440"
+        },
+        {
+          "name": "Canadian Embassy",
+          "name_ur": "",
+          "lat": 33.72653,
+          "lon": 73.107112,
+          "safar_stop_id": "1:cda-128-10441"
+        },
+        {
+          "name": "Turkish Embassy",
+          "name_ur": "",
+          "lat": 33.725196,
+          "lon": 73.108391,
+          "safar_stop_id": "1:cda-128-10442"
+        },
+        {
+          "name": "Iran. British and Indian Embassy",
+          "name_ur": "",
+          "lat": 33.723907,
+          "lon": 73.1094,
+          "safar_stop_id": "1:cda-128-10443"
+        },
+        {
+          "name": "American Embassy",
+          "name_ur": "",
+          "lat": 33.723573,
+          "lon": 73.116365,
+          "safar_stop_id": "1:cda-128-10444"
+        },
+        {
+          "name": "Azerbaijan Embassy",
+          "name_ur": "",
+          "lat": 33.728322,
+          "lon": 73.120707,
+          "safar_stop_id": "1:cda-128-10445"
+        },
+        {
+          "name": "Tajikistan and Poland Embassy",
+          "name_ur": "",
+          "lat": 33.730355,
+          "lon": 73.124621,
+          "safar_stop_id": "1:cda-128-10446"
+        },
+        {
+          "name": "Saudia. Korea and Iraq Embassy",
+          "name_ur": "",
+          "lat": 33.734031,
+          "lon": 73.128241,
+          "safar_stop_id": "1:cda-128-10447"
+        },
+        {
+          "name": "Bulgarian Embassy",
+          "name_ur": "",
+          "lat": 33.732015,
+          "lon": 73.129799,
+          "safar_stop_id": "1:cda-128-10448"
+        },
+        {
+          "name": "Russia. Kenya and UAE Embassy",
+          "name_ur": "",
+          "lat": 33.730996,
+          "lon": 73.130559,
+          "safar_stop_id": "1:cda-128-10449"
+        },
+        {
+          "name": "Shuttle Service Terminal",
+          "name_ur": "",
+          "lat": 33.728904,
+          "lon": 73.136244,
+          "safar_stop_id": "1:cda-128-10450"
+        }
+      ]
+    },
+    {
+      "id": "1:fr_6",
+      "code": "FR-6",
+      "name": "Feeder Route - 6 (FR-6)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_6",
+      "color": "#D629C8",
+      "mode": "BusRoute",
+      "headsign": "E-11 Markaz",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "PIMS Hospital",
+          "name_ur": "",
+          "lat": 33.7061484,
+          "lon": 73.0521991,
+          "safar_stop_id": "1:sta_pims_hospital_fr_down"
+        },
+        {
+          "name": "Tipu Market",
+          "name_ur": "",
+          "lat": 33.7011171,
+          "lon": 73.0433941,
+          "safar_stop_id": "1:sta_tipu_market_down"
+        },
+        {
+          "name": "Ibn-e-Sina Metro Station",
+          "name_ur": "",
+          "lat": 33.6969193,
+          "lon": 73.0393663,
+          "safar_stop_id": "1:sta_ibn_station_down"
+        },
+        {
+          "name": "Chaman Metro Station",
+          "name_ur": "",
+          "lat": 33.6918,
+          "lon": 73.042569,
+          "safar_stop_id": "1:cda-128-10622"
+        },
+        {
+          "name": "Taqwa Market",
+          "name_ur": "",
+          "lat": 33.690376,
+          "lon": 73.039725,
+          "safar_stop_id": "1:cda-128-10623"
+        },
+        {
+          "name": "G-9/4 Park",
+          "name_ur": "",
+          "lat": 33.6890295,
+          "lon": 73.0370618,
+          "safar_stop_id": "1:sta_g94_park_down"
+        },
+        {
+          "name": "Karachi Company",
+          "name_ur": "",
+          "lat": 33.687879,
+          "lon": 73.035446,
+          "safar_stop_id": "1:cda-128-10625"
+        },
+        {
+          "name": "Margalla Ground G-9",
+          "name_ur": "",
+          "lat": 33.6847833,
+          "lon": 73.0345901,
+          "safar_stop_id": "1:margalla_ground_up"
+        },
+        {
+          "name": "G-9 Markaz",
+          "name_ur": "",
+          "lat": 33.6896987,
+          "lon": 73.0300356,
+          "safar_stop_id": "1:sta_g9_markaz_down"
+        },
+        {
+          "name": "Ibn-e-Sina Road G-9",
+          "name_ur": "",
+          "lat": 33.6977826,
+          "lon": 73.0362464,
+          "safar_stop_id": "1:sta_ibn_sina_g94_down"
+        },
+        {
+          "name": "F-9 Park Ravi Gate",
+          "name_ur": "",
+          "lat": 33.7097419,
+          "lon": 73.0284952,
+          "safar_stop_id": "1:f9_park_up"
+        },
+        {
+          "name": "Shaheen Chowk",
+          "name_ur": "",
+          "lat": 33.7122179,
+          "lon": 73.026621,
+          "safar_stop_id": "1:sta_shaheen_down"
+        },
+        {
+          "name": "Fazaia Housing Society",
+          "name_ur": "",
+          "lat": 33.7101905,
+          "lon": 73.0213784,
+          "safar_stop_id": "1:fazaia_housing_up"
+        },
+        {
+          "name": "PAF Hospital",
+          "name_ur": "",
+          "lat": 33.7077932,
+          "lon": 73.0168326,
+          "safar_stop_id": "1:paf_hos_up"
+        },
+        {
+          "name": "Pakistan Gate DCI",
+          "name_ur": "",
+          "lat": 33.7037871,
+          "lon": 73.0092361,
+          "safar_stop_id": "1:pak_dci_up"
+        },
+        {
+          "name": "Maroof International Hospital",
+          "name_ur": "",
+          "lat": 33.6978715,
+          "lon": 73.0124255,
+          "safar_stop_id": "1:sta_maroof_down"
+        },
+        {
+          "name": "F-10 Markaz",
+          "name_ur": "",
+          "lat": 33.6940732,
+          "lon": 73.0122906,
+          "safar_stop_id": "1:sta_f10_down"
+        },
+        {
+          "name": "IMCB F-10/4",
+          "name_ur": "",
+          "lat": 33.6908244,
+          "lon": 73.0060487,
+          "safar_stop_id": "1:sta_imcb_f104_down"
+        },
+        {
+          "name": "IMCG F-10/2",
+          "name_ur": "",
+          "lat": 33.689423,
+          "lon": 73.00319,
+          "safar_stop_id": "1:cda-128-10613"
+        },
+        {
+          "name": "F-10/ F-11 Greenbelt",
+          "name_ur": "",
+          "lat": 33.6867383,
+          "lon": 72.9969564,
+          "safar_stop_id": "1:sta_f10f11_down"
+        },
+        {
+          "name": "Major Road F-11",
+          "name_ur": "",
+          "lat": 33.6844287,
+          "lon": 72.9917639,
+          "safar_stop_id": "1:major_up"
+        },
+        {
+          "name": "PTCL F-11",
+          "name_ur": "",
+          "lat": 33.6843344,
+          "lon": 72.9917085,
+          "safar_stop_id": "1:sta_ptcl_f10_down"
+        },
+        {
+          "name": "F-11 Markaz",
+          "name_ur": "",
+          "lat": 33.6825768,
+          "lon": 72.9889853,
+          "safar_stop_id": "1:f11_markaz_up"
+        },
+        {
+          "name": "OPF",
+          "name_ur": "",
+          "lat": 33.6865898,
+          "lon": 72.9839249,
+          "safar_stop_id": "1:opf_up"
+        },
+        {
+          "name": "Golra Shareef",
+          "name_ur": "",
+          "lat": 33.6893957,
+          "lon": 72.9818364,
+          "safar_stop_id": "1:sta_golra_f11_down"
+        },
+        {
+          "name": "Golra sharif",
+          "name_ur": "",
+          "lat": 33.68704,
+          "lon": 72.976686,
+          "safar_stop_id": "1:cda-128-10619"
+        },
+        {
+          "name": "NPF Society Gate",
+          "name_ur": "",
+          "lat": 33.7011486,
+          "lon": 72.9852379,
+          "safar_stop_id": "1:sta_nfp_down"
+        },
+        {
+          "name": "E-11 Street 12",
+          "name_ur": "",
+          "lat": 33.700637,
+          "lon": 72.981846,
+          "safar_stop_id": "1:cda-128-10634"
+        },
+        {
+          "name": "E-11 Markaz",
+          "name_ur": "",
+          "lat": 33.697466,
+          "lon": 72.9710159,
+          "safar_stop_id": "1:sta_e11_markaz_up"
+        }
+      ]
+    },
+    {
+      "id": "1:fr_7",
+      "code": "FR-7",
+      "name": "Feeder Route - 7 (FR-7)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_7",
+      "color": "#1FA371",
+      "mode": "BusRoute",
+      "headsign": "High Court Metro Station",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "PIMS Hospital",
+          "name_ur": "",
+          "lat": 33.7061484,
+          "lon": 73.0521991,
+          "safar_stop_id": "1:sta_pims_hospital_fr_down"
+        },
+        {
+          "name": "Children Hospital",
+          "name_ur": "",
+          "lat": 33.7053652,
+          "lon": 73.0555847,
+          "safar_stop_id": "1:sta_children_hospital_down"
+        },
+        {
+          "name": "Block 03 PHA Apartments",
+          "name_ur": "",
+          "lat": 33.700621,
+          "lon": 73.058118,
+          "safar_stop_id": "1:cda-128-10724"
+        },
+        {
+          "name": "NORI Hospital",
+          "name_ur": "",
+          "lat": 33.6984228,
+          "lon": 73.0537332,
+          "safar_stop_id": "1:nori_hosp_up"
+        },
+        {
+          "name": "PIMS Colony",
+          "name_ur": "",
+          "lat": 33.698069,
+          "lon": 73.050757,
+          "safar_stop_id": "1:cda-128-10733"
+        },
+        {
+          "name": "Dental Hospital",
+          "name_ur": "",
+          "lat": 33.6996484,
+          "lon": 73.048884,
+          "safar_stop_id": "1:sta_dental_down"
+        },
+        {
+          "name": "G-8 Markaz",
+          "name_ur": "",
+          "lat": 33.6989306,
+          "lon": 73.0474312,
+          "safar_stop_id": "1:sta_g8_markaz_down"
+        },
+        {
+          "name": "Development Park",
+          "name_ur": "",
+          "lat": 33.6954393,
+          "lon": 73.0478314,
+          "safar_stop_id": "1:sta_dev_park_down"
+        },
+        {
+          "name": "Chaman Metro Station",
+          "name_ur": "",
+          "lat": 33.6916525,
+          "lon": 73.0437072,
+          "safar_stop_id": "1:sta_chaman_station_fr_down"
+        },
+        {
+          "name": "Taqwa Market",
+          "name_ur": "",
+          "lat": 33.690376,
+          "lon": 73.039725,
+          "safar_stop_id": "1:cda-128-10623"
+        },
+        {
+          "name": "G-9/4 Park",
+          "name_ur": "",
+          "lat": 33.6890295,
+          "lon": 73.0370618,
+          "safar_stop_id": "1:sta_g94_park_down"
+        },
+        {
+          "name": "Karachi Company",
+          "name_ur": "",
+          "lat": 33.68868,
+          "lon": 73.0346444,
+          "safar_stop_id": "1:sta_karachi_company_down"
+        },
+        {
+          "name": "G-9 Markaz",
+          "name_ur": "",
+          "lat": 33.6898681,
+          "lon": 73.0302745,
+          "safar_stop_id": "1:sta_g9_markaz_down"
+        },
+        {
+          "name": "CDA Flats G-9/4",
+          "name_ur": "",
+          "lat": 33.686232,
+          "lon": 73.028826,
+          "safar_stop_id": "1:cda-128-10728"
+        },
+        {
+          "name": "Police Flats",
+          "name_ur": "",
+          "lat": 33.6842814,
+          "lon": 73.0251417,
+          "safar_stop_id": "1:sta_police_flats_g9_down"
+        },
+        {
+          "name": "College Morh",
+          "name_ur": "",
+          "lat": 33.6811736,
+          "lon": 73.0190493,
+          "safar_stop_id": "1:college_morh_up"
+        },
+        {
+          "name": "G-10 Markaz",
+          "name_ur": "",
+          "lat": 33.6771506,
+          "lon": 73.0154211,
+          "safar_stop_id": "1:g10_markaz_up"
+        },
+        {
+          "name": "PHA Flats",
+          "name_ur": "",
+          "lat": 33.675495,
+          "lon": 73.0125534,
+          "safar_stop_id": "1:sta_pha_flats_g10_down"
+        },
+        {
+          "name": "Tanki Stop",
+          "name_ur": "",
+          "lat": 33.674178,
+          "lon": 73.0100168,
+          "safar_stop_id": "1:sta_tanki_stop_down"
+        },
+        {
+          "name": "Greenbelt G-10/G-11",
+          "name_ur": "",
+          "lat": 33.6728327,
+          "lon": 73.0074547,
+          "safar_stop_id": "1:sta_greenbelt_gg_down"
+        },
+        {
+          "name": "Institute of Modern Studies",
+          "name_ur": "",
+          "lat": 33.6717601,
+          "lon": 73.0028906,
+          "safar_stop_id": "1:sta_ims_down"
+        },
+        {
+          "name": "Faizan-e-Madina G-11",
+          "name_ur": "",
+          "lat": 33.670988,
+          "lon": 73.000593,
+          "safar_stop_id": "1:cda-128-10734"
+        },
+        {
+          "name": "G-11 Markaz",
+          "name_ur": "",
+          "lat": 33.6696951,
+          "lon": 72.9981643,
+          "safar_stop_id": "1:sta_g11_markaz_down"
+        },
+        {
+          "name": "G-11/1 & G-11/2",
+          "name_ur": "",
+          "lat": 33.667281,
+          "lon": 72.993563,
+          "safar_stop_id": "1:cda-128-10727"
+        },
+        {
+          "name": "Mehrabad",
+          "name_ur": "",
+          "lat": 33.6663282,
+          "lon": 72.9898202,
+          "safar_stop_id": "1:sta_mehrabadi_down"
+        },
+        {
+          "name": "Suzuki Stop",
+          "name_ur": "",
+          "lat": 33.662772,
+          "lon": 72.991738,
+          "safar_stop_id": "1:cda-128-10725"
+        },
+        {
+          "name": "Ittefaq Town",
+          "name_ur": "",
+          "lat": 33.660073,
+          "lon": 72.993751,
+          "safar_stop_id": "1:cda-128-10726"
+        },
+        {
+          "name": "Nust Metro Station",
+          "name_ur": "",
+          "lat": 33.658326,
+          "lon": 72.995039,
+          "safar_stop_id": "1:cda-128-10718"
+        },
+        {
+          "name": "Bar Council",
+          "name_ur": "",
+          "lat": 33.6592961,
+          "lon": 72.9971839,
+          "safar_stop_id": "1:sta_bar_council_down"
+        },
+        {
+          "name": "A. K. Brohi Road",
+          "name_ur": "",
+          "lat": 33.6619626,
+          "lon": 73.0021768,
+          "safar_stop_id": "1:sta_ak_brohi_down"
+        },
+        {
+          "name": "Police Foundation Metro Station",
+          "name_ur": "",
+          "lat": 33.6629001,
+          "lon": 73.0044503,
+          "safar_stop_id": "1:sta_police_foundation_station_fr7_down"
+        },
+        {
+          "name": "DC Office",
+          "name_ur": "",
+          "lat": 33.66681,
+          "lon": 73.011464,
+          "safar_stop_id": "1:cda-128-10731"
+        },
+        {
+          "name": "High Court Metro Station",
+          "name_ur": "",
+          "lat": 33.6679774,
+          "lon": 73.0145571,
+          "safar_stop_id": "1:high_station_fr_up"
+        }
+      ]
+    },
+    {
+      "id": "1:fr_8a",
+      "code": "FR-8A",
+      "name": "Feeder Route - 8A (FR-8A)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_8a",
+      "color": "#C829D6",
+      "mode": "BusRoute",
+      "headsign": "Tramri Chowk",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "PIMS Hospital",
+          "name_ur": "",
+          "lat": 33.7061484,
+          "lon": 73.0521991,
+          "safar_stop_id": "1:sta_pims_hospital_fr_down"
+        },
+        {
+          "name": "Children Hospital",
+          "name_ur": "",
+          "lat": 33.7053652,
+          "lon": 73.0555847,
+          "safar_stop_id": "1:sta_children_hospital_down"
+        },
+        {
+          "name": "G-7 / G-8",
+          "name_ur": "",
+          "lat": 33.6965625,
+          "lon": 73.0623228,
+          "safar_stop_id": "1:g7g8_up"
+        },
+        {
+          "name": "Zero Point",
+          "name_ur": "",
+          "lat": 33.6972363,
+          "lon": 73.069545,
+          "safar_stop_id": "1:sta_zero_point_down"
+        },
+        {
+          "name": "Fire Brigade G-7",
+          "name_ur": "",
+          "lat": 33.699433,
+          "lon": 73.073617,
+          "safar_stop_id": "1:cda-128-10885"
+        },
+        {
+          "name": "CDA Stop",
+          "name_ur": "",
+          "lat": 33.7013434,
+          "lon": 73.0773985,
+          "safar_stop_id": "1:sta_cda_stop_f8a_down"
+        },
+        {
+          "name": "Aabpara",
+          "name_ur": "",
+          "lat": 33.7067109,
+          "lon": 73.0875787,
+          "safar_stop_id": "1:sta_aabpara_f8a_down"
+        },
+        {
+          "name": "Foreign Affairs Office",
+          "name_ur": "",
+          "lat": 33.713054,
+          "lon": 73.103475,
+          "safar_stop_id": "1:cda-128-10819"
+        },
+        {
+          "name": "Jinnah Convention Centre",
+          "name_ur": "",
+          "lat": 33.713081,
+          "lon": 73.103558,
+          "safar_stop_id": "1:cda-128-10886"
+        },
+        {
+          "name": "Kashmir Chowk",
+          "name_ur": "",
+          "lat": 33.7075017,
+          "lon": 73.1063113,
+          "safar_stop_id": "1:kashmir_chowk_up"
+        },
+        {
+          "name": "Rawal Dam Chowk",
+          "name_ur": "",
+          "lat": 33.691663,
+          "lon": 73.110505,
+          "safar_stop_id": "1:cda-128-10806"
+        },
+        {
+          "name": "Rawal Town",
+          "name_ur": "",
+          "lat": 33.6892685,
+          "lon": 73.1128176,
+          "safar_stop_id": "1:sta_rawal_town_down"
+        },
+        {
+          "name": "School Board Stop",
+          "name_ur": "",
+          "lat": 33.689002,
+          "lon": 73.116265,
+          "safar_stop_id": "1:sta_school_board_down"
+        },
+        {
+          "name": "Rawal Dam Colony",
+          "name_ur": "",
+          "lat": 33.6881812,
+          "lon": 73.1213803,
+          "safar_stop_id": "1:sta_rawal_dam_colony_down"
+        },
+        {
+          "name": "NARC Colony",
+          "name_ur": "",
+          "lat": 33.6875288,
+          "lon": 73.1309279,
+          "safar_stop_id": "1:narc_colony_up"
+        },
+        {
+          "name": "NIH Allergy Center",
+          "name_ur": "",
+          "lat": 33.6851197,
+          "lon": 73.135109,
+          "safar_stop_id": "1:sta_nih_allergy_down"
+        },
+        {
+          "name": "Shahzad Town",
+          "name_ur": "",
+          "lat": 33.6765639,
+          "lon": 73.1423405,
+          "safar_stop_id": "1:sta_shehzad_town_down"
+        },
+        {
+          "name": "Park View City",
+          "name_ur": "",
+          "lat": 33.6741388,
+          "lon": 73.1443678,
+          "safar_stop_id": "1:sta_park_view_city_down"
+        },
+        {
+          "name": "Green Avenue",
+          "name_ur": "",
+          "lat": 33.6673058,
+          "lon": 73.1501416,
+          "safar_stop_id": "1:green_avenue_up"
+        },
+        {
+          "name": "Chatta Bakhtawar",
+          "name_ur": "",
+          "lat": 33.6642002,
+          "lon": 73.1527488,
+          "safar_stop_id": "1:chatta_bakhtawar_up"
+        },
+        {
+          "name": "Gulshan Al Huda Community",
+          "name_ur": "",
+          "lat": 33.659174,
+          "lon": 73.153714,
+          "safar_stop_id": "1:cda-128-10882"
+        },
+        {
+          "name": "Hostel City",
+          "name_ur": "",
+          "lat": 33.6571943,
+          "lon": 73.1538689,
+          "safar_stop_id": "1:sta_hostel_city_down"
+        },
+        {
+          "name": "COMSATS University",
+          "name_ur": "",
+          "lat": 33.6531625,
+          "lon": 73.1576092,
+          "safar_stop_id": "1:comsats_up"
+        },
+        {
+          "name": "Tamma Stop",
+          "name_ur": "",
+          "lat": 33.6484356,
+          "lon": 73.1621404,
+          "safar_stop_id": "1:sta_tamma_down"
+        },
+        {
+          "name": "Tramri Chowk",
+          "name_ur": "",
+          "lat": 33.6447853,
+          "lon": 73.1638663,
+          "safar_stop_id": "1:sta_tramri_down"
+        }
+      ]
+    },
+    {
+      "id": "1:fr_8b",
+      "code": "FR-8B",
+      "name": "Feeder Route - 8B (FR-8B)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_8b",
+      "color": "#1FA35C",
+      "mode": "BusRoute",
+      "headsign": "Nilore",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "Khanna Terminal (Service Road West)",
+          "name_ur": "",
+          "lat": 33.631344,
+          "lon": 73.11043,
+          "safar_stop_id": "1:khanna_terminal_service_road_west"
+        },
+        {
+          "name": "Khanna (Lehtrar Road)",
+          "name_ur": "",
+          "lat": 33.629233,
+          "lon": 73.1152936,
+          "safar_stop_id": "1:sta_khanna_lehtrar_road"
+        },
+        {
+          "name": "Rawal General Hospital",
+          "name_ur": "",
+          "lat": 33.6320859,
+          "lon": 73.1228161,
+          "safar_stop_id": "1:sta_rawal_general_up"
+        },
+        {
+          "name": "Sanam Chowk",
+          "name_ur": "",
+          "lat": 33.6327463,
+          "lon": 73.1267335,
+          "safar_stop_id": "1:sta_sanam_up"
+        },
+        {
+          "name": "Burma Town",
+          "name_ur": "",
+          "lat": 33.6336522,
+          "lon": 73.1324935,
+          "safar_stop_id": "1:sta_burma_up"
+        },
+        {
+          "name": "Ghauri Gardens",
+          "name_ur": "",
+          "lat": 33.6350127,
+          "lon": 73.1363654,
+          "safar_stop_id": "1:sta_ghauri_gardens_up"
+        },
+        {
+          "name": "Tarlai Farms",
+          "name_ur": "",
+          "lat": 33.6376407,
+          "lon": 73.1431564,
+          "safar_stop_id": "1:sta_tarlai_up"
+        },
+        {
+          "name": "Post Office Tarlai",
+          "name_ur": "",
+          "lat": 33.6396687,
+          "lon": 73.1500212,
+          "safar_stop_id": "1:sta_po_tarlai_up"
+        },
+        {
+          "name": "Dak Khana Stop",
+          "name_ur": "",
+          "lat": 33.6392473,
+          "lon": 73.153383,
+          "safar_stop_id": "1:sta_dak_khana_up"
+        },
+        {
+          "name": "Tarlai Kalan School",
+          "name_ur": "",
+          "lat": 33.6413513,
+          "lon": 73.1568797,
+          "safar_stop_id": "1:sta_tarlai_school_up"
+        },
+        {
+          "name": "HBS Medical and Dental College",
+          "name_ur": "",
+          "lat": 33.6428058,
+          "lon": 73.1597069,
+          "safar_stop_id": "1:sta_hbs_college_up"
+        },
+        {
+          "name": "Tramri Chowk",
+          "name_ur": "",
+          "lat": 33.6445402,
+          "lon": 73.1647304,
+          "safar_stop_id": "1:sta_tramri_fr8b_up"
+        },
+        {
+          "name": "HBS General Hospital",
+          "name_ur": "",
+          "lat": 33.6451808,
+          "lon": 73.1724478,
+          "safar_stop_id": "1:sta_hbs_up"
+        },
+        {
+          "name": "Kulsoom General Hospital",
+          "name_ur": "",
+          "lat": 33.645297,
+          "lon": 73.177261,
+          "safar_stop_id": "1:cda-128-10888"
+        },
+        {
+          "name": "Ali Pur Bank Stop",
+          "name_ur": "",
+          "lat": 33.6453739,
+          "lon": 73.1807011,
+          "safar_stop_id": "1:sta_ali_pur_up"
+        },
+        {
+          "name": "Khaula Shaheed Model College",
+          "name_ur": "",
+          "lat": 33.6449506,
+          "lon": 73.1890723,
+          "safar_stop_id": "1:sta_khaula_up"
+        },
+        {
+          "name": "Punjgran",
+          "name_ur": "",
+          "lat": 33.6443709,
+          "lon": 73.1940072,
+          "safar_stop_id": "1:sta_punjgran_up"
+        },
+        {
+          "name": "Farash Town",
+          "name_ur": "",
+          "lat": 33.6433645,
+          "lon": 73.1993724,
+          "safar_stop_id": "1:farash_up"
+        },
+        {
+          "name": "Sultana Foundation",
+          "name_ur": "",
+          "lat": 33.6430875,
+          "lon": 73.2031105,
+          "safar_stop_id": "1:sultana_up"
+        },
+        {
+          "name": "Jhang Sayedan",
+          "name_ur": "",
+          "lat": 33.6427058,
+          "lon": 73.207299,
+          "safar_stop_id": "1:sta_jhang_sayedan_up"
+        },
+        {
+          "name": "Arslan Town",
+          "name_ur": "",
+          "lat": 33.6446217,
+          "lon": 73.2118851,
+          "safar_stop_id": "1:sta_arsalan_town_up"
+        },
+        {
+          "name": "Shaheen Town",
+          "name_ur": "",
+          "lat": 33.6460681,
+          "lon": 73.2154137,
+          "safar_stop_id": "1:sta_shaheen_town_up"
+        },
+        {
+          "name": "Thanda Pani",
+          "name_ur": "",
+          "lat": 33.6477198,
+          "lon": 73.2203308,
+          "safar_stop_id": "1:thanda_pani_up"
+        },
+        {
+          "name": "IMCG Thanda Pani",
+          "name_ur": "",
+          "lat": 33.6504827,
+          "lon": 73.2256666,
+          "safar_stop_id": "1:sta_imcg_thanda_up"
+        },
+        {
+          "name": "Federal Town",
+          "name_ur": "",
+          "lat": 33.65192,
+          "lon": 73.228527,
+          "safar_stop_id": "1:cda-128-10889"
+        },
+        {
+          "name": "Malaal Morh",
+          "name_ur": "",
+          "lat": 33.6515324,
+          "lon": 73.2339274,
+          "safar_stop_id": "1:sta_malaal_up"
+        },
+        {
+          "name": "Aziz Market",
+          "name_ur": "",
+          "lat": 33.6535492,
+          "lon": 73.2388431,
+          "safar_stop_id": "1:sta_aziz_market_up"
+        },
+        {
+          "name": "Nilore",
+          "name_ur": "",
+          "lat": 33.6534563,
+          "lon": 73.2432416,
+          "safar_stop_id": "1:sta_nilore_up"
+        }
+      ]
+    },
+    {
+      "id": "1:fr_8c",
+      "code": "FR-8C",
+      "name": "Feeder Route - 8C (FR-8C)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_8c",
+      "color": "#AB29D6",
+      "mode": "BusRoute",
+      "headsign": "Tramri Chowk",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "PIMS Hospital",
+          "name_ur": "",
+          "lat": 33.7061484,
+          "lon": 73.0521991,
+          "safar_stop_id": "1:sta_pims_hospital_fr_down"
+        },
+        {
+          "name": "Children Hospital",
+          "name_ur": "",
+          "lat": 33.705313,
+          "lon": 73.055619,
+          "safar_stop_id": "1:cda-128-10881"
+        },
+        {
+          "name": "TNT",
+          "name_ur": "",
+          "lat": 33.69657,
+          "lon": 73.06239,
+          "safar_stop_id": "1:cda-128-10861"
+        },
+        {
+          "name": "H-8 / Shakarparia",
+          "name_ur": "",
+          "lat": 33.6840999,
+          "lon": 73.0727329,
+          "safar_stop_id": "1:shakarparia_up"
+        },
+        {
+          "name": "I-8 / Parade Ground",
+          "name_ur": "",
+          "lat": 33.6734678,
+          "lon": 73.080716,
+          "safar_stop_id": "1:parade_ground_up"
+        },
+        {
+          "name": "Faizabad Interchange",
+          "name_ur": "",
+          "lat": 33.660911,
+          "lon": 73.084353,
+          "safar_stop_id": "1:faizabad_interchange_up"
+        },
+        {
+          "name": "ITP Centre",
+          "name_ur": "",
+          "lat": 33.6717877,
+          "lon": 73.0929128,
+          "safar_stop_id": "1:itp_up"
+        },
+        {
+          "name": "Margalla Town",
+          "name_ur": "",
+          "lat": 33.6814565,
+          "lon": 73.1016052,
+          "safar_stop_id": "1:sta_margalla_town_down"
+        },
+        {
+          "name": "Garden Avenue",
+          "name_ur": "",
+          "lat": 33.6853014,
+          "lon": 73.1065224,
+          "safar_stop_id": "1:sta_garden_avenue_down"
+        },
+        {
+          "name": "Rawal Town",
+          "name_ur": "",
+          "lat": 33.6892685,
+          "lon": 73.1128176,
+          "safar_stop_id": "1:sta_rawal_town_down"
+        },
+        {
+          "name": "School Board Stop",
+          "name_ur": "",
+          "lat": 33.689002,
+          "lon": 73.116265,
+          "safar_stop_id": "1:sta_school_board_down"
+        },
+        {
+          "name": "Rawal Dam Colony",
+          "name_ur": "",
+          "lat": 33.6881812,
+          "lon": 73.1213803,
+          "safar_stop_id": "1:sta_rawal_dam_colony_down"
+        },
+        {
+          "name": "NARC Colony",
+          "name_ur": "",
+          "lat": 33.6875288,
+          "lon": 73.1309279,
+          "safar_stop_id": "1:narc_colony_up"
+        },
+        {
+          "name": "NIH Allergy Center",
+          "name_ur": "",
+          "lat": 33.6851197,
+          "lon": 73.135109,
+          "safar_stop_id": "1:sta_nih_allergy_down"
+        },
+        {
+          "name": "Shahzad Town",
+          "name_ur": "",
+          "lat": 33.6765639,
+          "lon": 73.1423405,
+          "safar_stop_id": "1:sta_shehzad_town_down"
+        },
+        {
+          "name": "Park View City",
+          "name_ur": "",
+          "lat": 33.6741388,
+          "lon": 73.1443678,
+          "safar_stop_id": "1:sta_park_view_city_down"
+        },
+        {
+          "name": "Green Avenue",
+          "name_ur": "",
+          "lat": 33.6673058,
+          "lon": 73.1501416,
+          "safar_stop_id": "1:green_avenue_up"
+        },
+        {
+          "name": "Chatta Bakhtawar",
+          "name_ur": "",
+          "lat": 33.6642002,
+          "lon": 73.1527488,
+          "safar_stop_id": "1:chatta_bakhtawar_up"
+        },
+        {
+          "name": "Gulshan Al Huda Community",
+          "name_ur": "",
+          "lat": 33.659174,
+          "lon": 73.153714,
+          "safar_stop_id": "1:cda-128-10882"
+        },
+        {
+          "name": "Hostel City",
+          "name_ur": "",
+          "lat": 33.6571943,
+          "lon": 73.1538689,
+          "safar_stop_id": "1:sta_hostel_city_down"
+        },
+        {
+          "name": "COMSATS University",
+          "name_ur": "",
+          "lat": 33.6531625,
+          "lon": 73.1576092,
+          "safar_stop_id": "1:comsats_up"
+        },
+        {
+          "name": "Tamma Stop",
+          "name_ur": "",
+          "lat": 33.6484356,
+          "lon": 73.1621404,
+          "safar_stop_id": "1:sta_tamma_down"
+        },
+        {
+          "name": "Tramri Chowk",
+          "name_ur": "",
+          "lat": 33.6447853,
+          "lon": 73.1638663,
+          "safar_stop_id": "1:sta_tramri_down"
+        }
+      ]
+    },
+    {
+      "id": "1:fr_9",
+      "code": "FR-9",
+      "name": "Feeder Route - 9 (FR-9)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_9",
+      "color": "#1FA346",
+      "mode": "BusRoute",
+      "headsign": "Golra Morh Metro Station",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "Khanna Terminal (Service Road West)",
+          "name_ur": "",
+          "lat": 33.631344,
+          "lon": 73.11043,
+          "safar_stop_id": "1:khanna_terminal_service_road_west"
+        },
+        {
+          "name": "Zia Masjid",
+          "name_ur": "",
+          "lat": 33.6366299,
+          "lon": 73.1076815,
+          "safar_stop_id": "1:zia_masjid_up"
+        },
+        {
+          "name": "Kuri Road",
+          "name_ur": "",
+          "lat": 33.6421623,
+          "lon": 73.1035328,
+          "safar_stop_id": "1:kuri_road_up"
+        },
+        {
+          "name": "Iqbal Town",
+          "name_ur": "",
+          "lat": 33.6458237,
+          "lon": 73.1008445,
+          "safar_stop_id": "1:iqbal_town_up"
+        },
+        {
+          "name": "Dhoke Kala Khan",
+          "name_ur": "",
+          "lat": 33.6497653,
+          "lon": 73.097783,
+          "safar_stop_id": "1:dhok_kala_up"
+        },
+        {
+          "name": "Sohan",
+          "name_ur": "",
+          "lat": 33.6596256,
+          "lon": 73.0905242,
+          "safar_stop_id": "1:sohan_up"
+        },
+        {
+          "name": "Faizabad Metro Station",
+          "name_ur": "",
+          "lat": 33.6617972,
+          "lon": 73.0826385,
+          "safar_stop_id": "1:faizabad_station_up"
+        },
+        {
+          "name": "IJP Metro Station",
+          "name_ur": "",
+          "lat": 33.6559462,
+          "lon": 73.0720514,
+          "safar_stop_id": "1:ijp_station_fr_up"
+        },
+        {
+          "name": "Pindora Chungi",
+          "name_ur": "",
+          "lat": 33.6517287,
+          "lon": 73.0639993,
+          "safar_stop_id": "1:sta_pindora_chungi_down"
+        },
+        {
+          "name": "Katarian Chungi",
+          "name_ur": "",
+          "lat": 33.6488098,
+          "lon": 73.0584529,
+          "safar_stop_id": "1:sta_katarian_down"
+        },
+        {
+          "name": "Katarian Pull",
+          "name_ur": "",
+          "lat": 33.6458721,
+          "lon": 73.0524261,
+          "safar_stop_id": "1:katarian_pull_up"
+        },
+        {
+          "name": "CDA-1 Stop",
+          "name_ur": "",
+          "lat": 33.6413134,
+          "lon": 73.0441755,
+          "safar_stop_id": "1:sta_cda_ijp_down"
+        },
+        {
+          "name": "Pully Stop",
+          "name_ur": "",
+          "lat": 33.6369985,
+          "lon": 73.0359594,
+          "safar_stop_id": "1:sta_pully_stop_ijp_down"
+        },
+        {
+          "name": "Mandi Morh",
+          "name_ur": "",
+          "lat": 33.6345773,
+          "lon": 73.0315952,
+          "safar_stop_id": "1:mandi_morh_up"
+        },
+        {
+          "name": "Fauji Colony",
+          "name_ur": "",
+          "lat": 33.6325273,
+          "lon": 73.0274253,
+          "safar_stop_id": "1:fauji_colony_up"
+        },
+        {
+          "name": "Carriage Factory",
+          "name_ur": "",
+          "lat": 33.6299679,
+          "lon": 73.0225776,
+          "safar_stop_id": "1:sta_carriage_factory_down"
+        },
+        {
+          "name": "Westridge",
+          "name_ur": "",
+          "lat": 33.626351,
+          "lon": 73.0157056,
+          "safar_stop_id": "1:sta_westridge_down"
+        },
+        {
+          "name": "CTTI",
+          "name_ur": "",
+          "lat": 33.623618,
+          "lon": 73.0104973,
+          "safar_stop_id": "1:sta_ctti_down"
+        },
+        {
+          "name": "Social Security Hospital",
+          "name_ur": "",
+          "lat": 33.6198022,
+          "lon": 73.0031822,
+          "safar_stop_id": "1:sta_social_sec_hos_down"
+        },
+        {
+          "name": "British Homes",
+          "name_ur": "",
+          "lat": 33.6182627,
+          "lon": 73.0002113,
+          "safar_stop_id": "1:british_homes_up"
+        },
+        {
+          "name": "Pir Wadhai Morh",
+          "name_ur": "",
+          "lat": 33.6154418,
+          "lon": 72.9947575,
+          "safar_stop_id": "1:sta_pir_wadhai_down"
+        },
+        {
+          "name": "Kohinoor Mill Colony",
+          "name_ur": "",
+          "lat": 33.6165601,
+          "lon": 72.9868175,
+          "safar_stop_id": "1:kohinoor_colony_up"
+        },
+        {
+          "name": "Kohinoor Mill",
+          "name_ur": "",
+          "lat": 33.6190254,
+          "lon": 72.9808592,
+          "safar_stop_id": "1:kohinoor_up"
+        },
+        {
+          "name": "Chishtiabad",
+          "name_ur": "",
+          "lat": 33.622329,
+          "lon": 72.975565,
+          "safar_stop_id": "1:cda-128-10928"
+        },
+        {
+          "name": "Golra Morh Chowk",
+          "name_ur": "",
+          "lat": 33.6246158,
+          "lon": 72.9707914,
+          "safar_stop_id": "1:golra_morh_fr9_up"
+        },
+        {
+          "name": "Golra Road H-13",
+          "name_ur": "",
+          "lat": 33.628882,
+          "lon": 72.968917,
+          "safar_stop_id": "1:cda-128-10933"
+        },
+        {
+          "name": "Home of Military Transport",
+          "name_ur": "",
+          "lat": 33.634483,
+          "lon": 72.966793,
+          "safar_stop_id": "1:cda-128-10930"
+        },
+        {
+          "name": "Sain Mirchoo Darbar H-13",
+          "name_ur": "",
+          "lat": 33.639283,
+          "lon": 72.9643,
+          "safar_stop_id": "1:cda-128-10932"
+        },
+        {
+          "name": "Islamabad Chowk",
+          "name_ur": "",
+          "lat": 33.64295,
+          "lon": 72.964062,
+          "safar_stop_id": "1:cda-128-10935"
+        },
+        {
+          "name": "Golra Morh Metro Station",
+          "name_ur": "",
+          "lat": 33.6414109,
+          "lon": 72.9620468,
+          "safar_stop_id": "1:sta_golra_morh_station_fr_down"
+        }
+      ]
+    },
+    {
+      "id": "1:fr_10",
+      "code": "FR-10",
+      "name": "Feeder Route - 10 (FR-10)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_10",
+      "color": "#8E29D6",
+      "mode": "BusRoute",
+      "headsign": "Taxilla Highway Stop",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "Golra Morh Metro Station",
+          "name_ur": "",
+          "lat": 33.6414109,
+          "lon": 72.9620468,
+          "safar_stop_id": "1:sta_golra_morh_station_fr_down"
+        },
+        {
+          "name": "Islamabad Chowk",
+          "name_ur": "",
+          "lat": 33.643083,
+          "lon": 72.964086,
+          "safar_stop_id": "1:cda-128-11048"
+        },
+        {
+          "name": "G-13/4",
+          "name_ur": "",
+          "lat": 33.649082,
+          "lon": 72.977619,
+          "safar_stop_id": "1:cda-128-11046"
+        },
+        {
+          "name": "G-13 Metro Station",
+          "name_ur": "",
+          "lat": 33.6501591,
+          "lon": 72.9797833,
+          "safar_stop_id": "1:g13_station_fr_up"
+        },
+        {
+          "name": "NUST Metro Station",
+          "name_ur": "",
+          "lat": 33.6569401,
+          "lon": 72.992707,
+          "safar_stop_id": "1:sta_nust_station_fr_down"
+        },
+        {
+          "name": "A. K. Brohi Road",
+          "name_ur": "",
+          "lat": 33.6619626,
+          "lon": 73.0021768,
+          "safar_stop_id": "1:sta_ak_brohi_down"
+        },
+        {
+          "name": "Faizan-e-Madina G-11",
+          "name_ur": "",
+          "lat": 33.669846,
+          "lon": 73.001712,
+          "safar_stop_id": "1:cda-128-11047"
+        },
+        {
+          "name": "G-11 Markaz",
+          "name_ur": "",
+          "lat": 33.6696951,
+          "lon": 72.9981643,
+          "safar_stop_id": "1:sta_g11_markaz_down"
+        },
+        {
+          "name": "Hammad Uddin Road",
+          "name_ur": "",
+          "lat": 33.674622,
+          "lon": 72.993087,
+          "safar_stop_id": "1:cda-128-11026"
+        },
+        {
+          "name": "Federal Government College F-11",
+          "name_ur": "",
+          "lat": 33.6790448,
+          "lon": 72.9959733,
+          "safar_stop_id": "1:sta_fgc_f11_down"
+        },
+        {
+          "name": "F-11 Markaz",
+          "name_ur": "",
+          "lat": 33.6825768,
+          "lon": 72.9889853,
+          "safar_stop_id": "1:f11_markaz_up"
+        },
+        {
+          "name": "OPF Girls College",
+          "name_ur": "",
+          "lat": 33.689075,
+          "lon": 72.982119,
+          "safar_stop_id": "1:cda-128-11029"
+        },
+        {
+          "name": "Golra Shareef",
+          "name_ur": "",
+          "lat": 33.6893957,
+          "lon": 72.9818364,
+          "safar_stop_id": "1:sta_golra_f11_down"
+        },
+        {
+          "name": "NPF Society Gate",
+          "name_ur": "",
+          "lat": 33.7011486,
+          "lon": 72.9852379,
+          "safar_stop_id": "1:sta_nfp_down"
+        },
+        {
+          "name": "Multy Gate",
+          "name_ur": "",
+          "lat": 33.7049679,
+          "lon": 72.9823732,
+          "safar_stop_id": "1:sta_multy_down"
+        },
+        {
+          "name": "Islamabad International Hospital (E-11/2)",
+          "name_ur": "",
+          "lat": 33.7024034,
+          "lon": 72.9674197,
+          "safar_stop_id": "1:sta_isb_int_hos_down"
+        },
+        {
+          "name": "D-12 Service Road",
+          "name_ur": "",
+          "lat": 33.700529,
+          "lon": 72.9609879,
+          "safar_stop_id": "1:sta_d12_service_down"
+        },
+        {
+          "name": "IESCO D-12",
+          "name_ur": "",
+          "lat": 33.6972169,
+          "lon": 72.9533507,
+          "safar_stop_id": "1:sta_iesco_d12_down"
+        },
+        {
+          "name": "D-12 Markaz",
+          "name_ur": "",
+          "lat": 33.702715,
+          "lon": 72.9491956,
+          "safar_stop_id": "1:sta_d12_markaz_down"
+        },
+        {
+          "name": "Shah Allah Ditta",
+          "name_ur": "",
+          "lat": 33.705551,
+          "lon": 72.929368,
+          "safar_stop_id": "1:cda-128-11037"
+        },
+        {
+          "name": "C-14",
+          "name_ur": "",
+          "lat": 33.695781,
+          "lon": 72.899729,
+          "safar_stop_id": "1:cda-128-11043"
+        },
+        {
+          "name": "C-15",
+          "name_ur": "",
+          "lat": 33.690735,
+          "lon": 72.885855,
+          "safar_stop_id": "1:cda-128-11044"
+        },
+        {
+          "name": "C-16",
+          "name_ur": "",
+          "lat": 33.687299,
+          "lon": 72.875839,
+          "safar_stop_id": "1:cda-128-11045"
+        },
+        {
+          "name": "Sangjani",
+          "name_ur": "",
+          "lat": 33.6770386,
+          "lon": 72.8510981,
+          "safar_stop_id": "1:sangjani_up"
+        },
+        {
+          "name": "B-17 Gate No. 1",
+          "name_ur": "",
+          "lat": 33.6870612,
+          "lon": 72.8402213,
+          "safar_stop_id": "1:b17_1_up"
+        },
+        {
+          "name": "B-17 Gate No. 2",
+          "name_ur": "",
+          "lat": 33.6944953,
+          "lon": 72.8348704,
+          "safar_stop_id": "1:b17_2_up"
+        },
+        {
+          "name": "Margalla",
+          "name_ur": "",
+          "lat": 33.703905,
+          "lon": 72.824407,
+          "safar_stop_id": "1:cda-128-11040"
+        },
+        {
+          "name": "Taxilla Bypass",
+          "name_ur": "",
+          "lat": 33.7118874,
+          "lon": 72.8130774,
+          "safar_stop_id": "1:t_bypass_up"
+        },
+        {
+          "name": "Wahdat Colony",
+          "name_ur": "",
+          "lat": 33.7254514,
+          "lon": 72.8050587,
+          "safar_stop_id": "1:wahdat_col_up"
+        },
+        {
+          "name": "Timber Market",
+          "name_ur": "",
+          "lat": 33.7307774,
+          "lon": 72.8043387,
+          "safar_stop_id": "1:sta_timber_market_down"
+        },
+        {
+          "name": "Taxilla Highway Stop",
+          "name_ur": "",
+          "lat": 33.7370309,
+          "lon": 72.7987338,
+          "safar_stop_id": "1:taxilla_stop_up"
+        }
+      ]
+    },
+    {
+      "id": "1:fr_11",
+      "code": "FR-11",
+      "name": "Feeder Route - 11 (FR-11)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_11",
+      "color": "#1FA330",
+      "mode": "BusRoute",
+      "headsign": "I-16/4",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "Golra Morh Metro Station",
+          "name_ur": "",
+          "lat": 33.6414109,
+          "lon": 72.9620468,
+          "safar_stop_id": "1:sta_golra_morh_station_fr_down"
+        },
+        {
+          "name": "Islamabad Chowk",
+          "name_ur": "",
+          "lat": 33.643083,
+          "lon": 72.964086,
+          "safar_stop_id": "1:cda-128-11119"
+        },
+        {
+          "name": "N-5 Metro Station",
+          "name_ur": "",
+          "lat": 33.6309758,
+          "lon": 72.945462,
+          "safar_stop_id": "1:n5_station_fr11_up"
+        },
+        {
+          "name": "Motorway Chowk",
+          "name_ur": "",
+          "lat": 33.6288941,
+          "lon": 72.94371,
+          "safar_stop_id": "1:motorway_chowk_up"
+        },
+        {
+          "name": "EME College",
+          "name_ur": "",
+          "lat": 33.6240573,
+          "lon": 72.9540908,
+          "safar_stop_id": "1:sta_eme_college_down"
+        },
+        {
+          "name": "Golra Morh Chowk",
+          "name_ur": "",
+          "lat": 33.6245349,
+          "lon": 72.9703103,
+          "safar_stop_id": "1:sta_golra_morh_fr11_down"
+        },
+        {
+          "name": "IMCG I-14",
+          "name_ur": "",
+          "lat": 33.6214813,
+          "lon": 72.9707333,
+          "safar_stop_id": "1:sta_imcg_i11_up"
+        },
+        {
+          "name": "Riphah Int University",
+          "name_ur": "",
+          "lat": 33.6170597,
+          "lon": 72.9697835,
+          "safar_stop_id": "1:ripha_up"
+        },
+        {
+          "name": "I-14 Markaz",
+          "name_ur": "",
+          "lat": 33.6113835,
+          "lon": 72.9701929,
+          "safar_stop_id": "1:sta_i14_markaz_down"
+        },
+        {
+          "name": "Mughal Chowk",
+          "name_ur": "",
+          "lat": 33.610669,
+          "lon": 72.96512,
+          "safar_stop_id": "1:cda-128-11116"
+        },
+        {
+          "name": "I-14/1 Park",
+          "name_ur": "",
+          "lat": 33.6091659,
+          "lon": 72.9636386,
+          "safar_stop_id": "1:i141_park_up"
+        },
+        {
+          "name": "Shaheed Chowk I-14",
+          "name_ur": "",
+          "lat": 33.6066196,
+          "lon": 72.9606992,
+          "safar_stop_id": "1:sta_shaheed_chowk_down"
+        },
+        {
+          "name": "I-16 Markaz",
+          "name_ur": "",
+          "lat": 33.5978319,
+          "lon": 72.9400854,
+          "safar_stop_id": "1:i16_markaz_up"
+        },
+        {
+          "name": "PHA Flats",
+          "name_ur": "",
+          "lat": 33.5950309,
+          "lon": 72.9348328,
+          "safar_stop_id": "1:sta_pha_flats_i16_down"
+        },
+        {
+          "name": "Police Station Noon",
+          "name_ur": "",
+          "lat": 33.591725,
+          "lon": 72.928723,
+          "safar_stop_id": "1:cda-128-11113"
+        },
+        {
+          "name": "Noon I-16",
+          "name_ur": "",
+          "lat": 33.5900922,
+          "lon": 72.9255156,
+          "safar_stop_id": "1:sta_noon_16_down"
+        },
+        {
+          "name": "Noon Village",
+          "name_ur": "",
+          "lat": 33.587713,
+          "lon": 72.926775,
+          "safar_stop_id": "1:cda-128-11115"
+        },
+        {
+          "name": "Foreign Office Employees Housing Society",
+          "name_ur": "",
+          "lat": 33.583095,
+          "lon": 72.932158,
+          "safar_stop_id": "1:cda-128-11117"
+        },
+        {
+          "name": "Kalma Chowk I-16/4",
+          "name_ur": "",
+          "lat": 33.584811,
+          "lon": 72.935281,
+          "safar_stop_id": "1:cda-128-11120"
+        },
+        {
+          "name": "I-16/4",
+          "name_ur": "",
+          "lat": 33.588062,
+          "lon": 72.941421,
+          "safar_stop_id": "1:cda-128-11118"
+        }
+      ]
+    },
+    {
+      "id": "1:fr_12",
+      "code": "FR-12",
+      "name": "Feeder Route - 12 (FR-12)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_12",
+      "color": "#7129D6",
+      "mode": "BusRoute",
+      "headsign": "Tipu Sultan Chowk",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "Taxilla Highway Stop",
+          "name_ur": "",
+          "lat": 33.7370309,
+          "lon": 72.7987338,
+          "safar_stop_id": "1:taxilla_stop_up"
+        },
+        {
+          "name": "University of Wah",
+          "name_ur": "",
+          "lat": 33.7410247,
+          "lon": 72.7884541,
+          "safar_stop_id": "1:uni_wah_up"
+        },
+        {
+          "name": "Nawab Abad",
+          "name_ur": "",
+          "lat": 33.7444,
+          "lon": 72.779578,
+          "safar_stop_id": "1:cda-128-11203"
+        },
+        {
+          "name": "Wah Barrier 2",
+          "name_ur": "",
+          "lat": 33.746624,
+          "lon": 72.771194,
+          "safar_stop_id": "1:sta_wah_2_down"
+        },
+        {
+          "name": "Gulshan-e-Anwar",
+          "name_ur": "",
+          "lat": 33.7486422,
+          "lon": 72.7675681,
+          "safar_stop_id": "1:sta_gulshan_down"
+        },
+        {
+          "name": "Jinnah Colony",
+          "name_ur": "",
+          "lat": 33.7518253,
+          "lon": 72.7619905,
+          "safar_stop_id": "1:jinnah_up"
+        },
+        {
+          "name": "New City Phase 1",
+          "name_ur": "",
+          "lat": 33.7543861,
+          "lon": 72.7564669,
+          "safar_stop_id": "1:new_city_1_up"
+        },
+        {
+          "name": "Losar Sharfo",
+          "name_ur": "",
+          "lat": 33.7550803,
+          "lon": 72.7498353,
+          "safar_stop_id": "1:sta_losar_down"
+        },
+        {
+          "name": "New City Phase 2",
+          "name_ur": "",
+          "lat": 33.7560626,
+          "lon": 72.7422573,
+          "safar_stop_id": "1:sta_new_city_2_down"
+        },
+        {
+          "name": "Bahtar Morh",
+          "name_ur": "",
+          "lat": 33.760017,
+          "lon": 72.7330403,
+          "safar_stop_id": "1:sta_bahtar_down"
+        },
+        {
+          "name": "Wah Model Town Phase 1",
+          "name_ur": "",
+          "lat": 33.7613876,
+          "lon": 72.7300059,
+          "safar_stop_id": "1:wah_town_1_up"
+        },
+        {
+          "name": "Wah Model Town Phase 2",
+          "name_ur": "",
+          "lat": 33.7671152,
+          "lon": 72.7228529,
+          "safar_stop_id": "1:wah_town_2_up"
+        },
+        {
+          "name": "Swedish College",
+          "name_ur": "",
+          "lat": 33.7712239,
+          "lon": 72.7210658,
+          "safar_stop_id": "1:sta_swedish_down"
+        },
+        {
+          "name": "Malakand Stop",
+          "name_ur": "",
+          "lat": 33.776509,
+          "lon": 72.7190458,
+          "safar_stop_id": "1:malakand_up"
+        },
+        {
+          "name": "Basti",
+          "name_ur": "",
+          "lat": 33.7819463,
+          "lon": 72.7184493,
+          "safar_stop_id": "1:basti_up"
+        },
+        {
+          "name": "Sabri Gali",
+          "name_ur": "",
+          "lat": 33.7886869,
+          "lon": 72.7201401,
+          "safar_stop_id": "1:sta_sabri_gali_down"
+        },
+        {
+          "name": "Wah Barrier 3",
+          "name_ur": "",
+          "lat": 33.7921825,
+          "lon": 72.7194441,
+          "safar_stop_id": "1:sta_wah_3_down"
+        },
+        {
+          "name": "Ahmad Nagar",
+          "name_ur": "",
+          "lat": 33.7940141,
+          "lon": 72.7182152,
+          "safar_stop_id": "1:ahmad_nagar_up"
+        },
+        {
+          "name": "Shah Wali Colony Road",
+          "name_ur": "",
+          "lat": 33.7972613,
+          "lon": 72.7128568,
+          "safar_stop_id": "1:sta_shah_wali_down"
+        },
+        {
+          "name": "Wah Gardens",
+          "name_ur": "",
+          "lat": 33.799694,
+          "lon": 72.70916,
+          "safar_stop_id": "1:cda-128-11220"
+        },
+        {
+          "name": "Cement Factory Road",
+          "name_ur": "",
+          "lat": 33.8060347,
+          "lon": 72.7004949,
+          "safar_stop_id": "1:sta_cement_down"
+        },
+        {
+          "name": "Dhok Dhollian",
+          "name_ur": "",
+          "lat": 33.8101077,
+          "lon": 72.6948507,
+          "safar_stop_id": "1:dhok_dhollian_up"
+        },
+        {
+          "name": "WAPDA Colony",
+          "name_ur": "",
+          "lat": 33.813454,
+          "lon": 72.6902849,
+          "safar_stop_id": "1:sta_wapda_col_down"
+        },
+        {
+          "name": "Hassan Abdal",
+          "name_ur": "",
+          "lat": 33.8164996,
+          "lon": 72.6863771,
+          "safar_stop_id": "1:sta_hassan_abdal_down"
+        },
+        {
+          "name": "Tipu Sultan Chowk",
+          "name_ur": "",
+          "lat": 33.8207797,
+          "lon": 72.6798225,
+          "safar_stop_id": "1:tipu_chowk_up"
+        }
+      ]
+    },
+    {
       "id": "1:fr_13",
       "code": "FR-13",
       "name": "Feeder Route - 13 (FR-13)",
@@ -258,6 +3227,1770 @@
           "lat": 33.5700948,
           "lon": 72.6474806,
           "safar_stop_id": "1:sta_fateh_down"
+        }
+      ]
+    },
+    {
+      "id": "1:fr_14",
+      "code": "FR-14",
+      "name": "Feeder Route - 14 (FR-14)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_14",
+      "color": "#5529D6",
+      "mode": "BusRoute",
+      "headsign": "Mandi Morh",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "Barakahu",
+          "name_ur": "",
+          "lat": 33.7354559,
+          "lon": 73.1656173,
+          "safar_stop_id": "1:Barakahu_up"
+        },
+        {
+          "name": "Shahdara",
+          "name_ur": "",
+          "lat": 33.7345439,
+          "lon": 73.1593785,
+          "safar_stop_id": "1:sta_shahdara_down"
+        },
+        {
+          "name": "Bari Imam Link Road",
+          "name_ur": "",
+          "lat": 33.731592,
+          "lon": 73.148706,
+          "safar_stop_id": "1:cda-128-11420"
+        },
+        {
+          "name": "Malpur",
+          "name_ur": "",
+          "lat": 33.7288901,
+          "lon": 73.1439809,
+          "safar_stop_id": "1:malpur_up"
+        },
+        {
+          "name": "Lake View Point",
+          "name_ur": "",
+          "lat": 33.7229765,
+          "lon": 73.1360368,
+          "safar_stop_id": "1:lake_up"
+        },
+        {
+          "name": "Dhokri Stop",
+          "name_ur": "",
+          "lat": 33.711461,
+          "lon": 73.106889,
+          "safar_stop_id": "1:cda-128-11405"
+        },
+        {
+          "name": "Kashmir Chowk",
+          "name_ur": "",
+          "lat": 33.7075017,
+          "lon": 73.1063113,
+          "safar_stop_id": "1:kashmir_chowk_up"
+        },
+        {
+          "name": "Rawal Chowk",
+          "name_ur": "",
+          "lat": 33.6925938,
+          "lon": 73.1104196,
+          "safar_stop_id": "1:rawal_chowk_up"
+        },
+        {
+          "name": "Garden Avenue",
+          "name_ur": "",
+          "lat": 33.6852145,
+          "lon": 73.1068425,
+          "safar_stop_id": "1:sta_garden_avenue_down"
+        },
+        {
+          "name": "Margalla Town",
+          "name_ur": "",
+          "lat": 33.6811097,
+          "lon": 73.1015523,
+          "safar_stop_id": "1:sta_margalla_town_down"
+        },
+        {
+          "name": "ITP Centre",
+          "name_ur": "",
+          "lat": 33.6712297,
+          "lon": 73.092873,
+          "safar_stop_id": "1:itp_down"
+        },
+        {
+          "name": "Dhok Kala Khan",
+          "name_ur": "",
+          "lat": 33.653279,
+          "lon": 73.095959,
+          "safar_stop_id": "1:cda-128-11421"
+        },
+        {
+          "name": "Sohan",
+          "name_ur": "",
+          "lat": 33.6596256,
+          "lon": 73.0905242,
+          "safar_stop_id": "1:sohan_up"
+        },
+        {
+          "name": "Faizabad Metro Station",
+          "name_ur": "",
+          "lat": 33.6617972,
+          "lon": 73.0826385,
+          "safar_stop_id": "1:faizabad_station_up"
+        },
+        {
+          "name": "IJP Metro Station",
+          "name_ur": "",
+          "lat": 33.6559462,
+          "lon": 73.0720514,
+          "safar_stop_id": "1:ijp_station_fr_up"
+        },
+        {
+          "name": "Pindora Chungi",
+          "name_ur": "",
+          "lat": 33.6517287,
+          "lon": 73.0639993,
+          "safar_stop_id": "1:sta_pindora_chungi_down"
+        },
+        {
+          "name": "Katarian Chungi",
+          "name_ur": "",
+          "lat": 33.6488098,
+          "lon": 73.0584529,
+          "safar_stop_id": "1:sta_katarian_down"
+        },
+        {
+          "name": "Katarian Pull",
+          "name_ur": "",
+          "lat": 33.6458721,
+          "lon": 73.0524261,
+          "safar_stop_id": "1:katarian_pull_up"
+        },
+        {
+          "name": "CDA-1 Stop",
+          "name_ur": "",
+          "lat": 33.6413134,
+          "lon": 73.0441755,
+          "safar_stop_id": "1:sta_cda_ijp_down"
+        },
+        {
+          "name": "Pully Stop",
+          "name_ur": "",
+          "lat": 33.6369985,
+          "lon": 73.0359594,
+          "safar_stop_id": "1:sta_pully_stop_ijp_down"
+        },
+        {
+          "name": "Mandi Morh",
+          "name_ur": "",
+          "lat": 33.6345773,
+          "lon": 73.0315952,
+          "safar_stop_id": "1:mandi_morh_up"
+        }
+      ]
+    },
+    {
+      "id": "1:fr_14a",
+      "code": "FR-14A",
+      "name": "Feeder Route - 14A (FR-14A)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_14a",
+      "color": "#3AA31F",
+      "mode": "BusRoute",
+      "headsign": "Satra Meel",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "Barakahu",
+          "name_ur": "",
+          "lat": 33.7354559,
+          "lon": 73.1656173,
+          "safar_stop_id": "1:Barakahu_up"
+        },
+        {
+          "name": "Mangu Town",
+          "name_ur": "",
+          "lat": 33.736404,
+          "lon": 73.172313,
+          "safar_stop_id": "1:cda-128-11433"
+        },
+        {
+          "name": "Col. Ammanullah Road",
+          "name_ur": "",
+          "lat": 33.7372763,
+          "lon": 73.1751329,
+          "safar_stop_id": "1:col_ammanullah_up"
+        },
+        {
+          "name": "Athal Chowk",
+          "name_ur": "",
+          "lat": 33.7398622,
+          "lon": 73.1795573,
+          "safar_stop_id": "1:athal_up"
+        },
+        {
+          "name": "Ghugi",
+          "name_ur": "",
+          "lat": 33.7430308,
+          "lon": 73.1850729,
+          "safar_stop_id": "1:sta_ghugi_down"
+        },
+        {
+          "name": "Bhera Pul",
+          "name_ur": "",
+          "lat": 33.7451501,
+          "lon": 73.1889484,
+          "safar_stop_id": "1:sta_bhera_down"
+        },
+        {
+          "name": "Mohallah Chaudhrian",
+          "name_ur": "",
+          "lat": 33.746012,
+          "lon": 73.191069,
+          "safar_stop_id": "1:cda-128-11438"
+        },
+        {
+          "name": "Nai Abadi",
+          "name_ur": "",
+          "lat": 33.748443,
+          "lon": 73.193907,
+          "safar_stop_id": "1:cda-128-11429"
+        },
+        {
+          "name": "Traders Colony",
+          "name_ur": "",
+          "lat": 33.754855,
+          "lon": 73.205,
+          "safar_stop_id": "1:cda-128-11434"
+        },
+        {
+          "name": "Akbar Niazi Hospital",
+          "name_ur": "",
+          "lat": 33.7566172,
+          "lon": 73.2092794,
+          "safar_stop_id": "1:sta_akbar_niazi_down"
+        },
+        {
+          "name": "Phulgran",
+          "name_ur": "",
+          "lat": 33.7579804,
+          "lon": 73.2126278,
+          "safar_stop_id": "1:phulgran_up"
+        },
+        {
+          "name": "Dhok Badam",
+          "name_ur": "",
+          "lat": 33.7593239,
+          "lon": 73.2154631,
+          "safar_stop_id": "1:dhok_badam_up"
+        },
+        {
+          "name": "Punjab College",
+          "name_ur": "",
+          "lat": 33.7604253,
+          "lon": 73.2170097,
+          "safar_stop_id": "1:punjab_col_up"
+        },
+        {
+          "name": "Alwadi Colony",
+          "name_ur": "",
+          "lat": 33.7622234,
+          "lon": 73.2187343,
+          "safar_stop_id": "1:alwadi_up"
+        },
+        {
+          "name": "Satra Meel",
+          "name_ur": "",
+          "lat": 33.7635534,
+          "lon": 73.2193527,
+          "safar_stop_id": "1:sta_satra_down"
+        }
+      ]
+    },
+    {
+      "id": "1:fr_15",
+      "code": "FR-15",
+      "name": "Feeder Route - 15 (FR-15)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_15",
+      "color": "#3829D6",
+      "mode": "BusRoute",
+      "headsign": "T Chowk",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "Khanna Terminal (Service Road West)",
+          "name_ur": "",
+          "lat": 33.631344,
+          "lon": 73.11043,
+          "safar_stop_id": "1:khanna_terminal_service_road_west"
+        },
+        {
+          "name": "Fazaia Colony",
+          "name_ur": "",
+          "lat": 33.6206081,
+          "lon": 73.1203296,
+          "safar_stop_id": "1:fazaia_colony_up"
+        },
+        {
+          "name": "Gangal",
+          "name_ur": "",
+          "lat": 33.612885,
+          "lon": 73.1261909,
+          "safar_stop_id": "1:gangal_up"
+        },
+        {
+          "name": "Koral Chowk",
+          "name_ur": "",
+          "lat": 33.6033447,
+          "lon": 73.1331864,
+          "safar_stop_id": "1:koral_chowk_up"
+        },
+        {
+          "name": "Gulberg",
+          "name_ur": "",
+          "lat": 33.5977253,
+          "lon": 73.1373495,
+          "safar_stop_id": "1:gulberg_up"
+        },
+        {
+          "name": "Tuth Stop",
+          "name_ur": "",
+          "lat": 33.5856446,
+          "lon": 73.1464227,
+          "safar_stop_id": "1:tuth_stop_up"
+        },
+        {
+          "name": "PWD Housing society",
+          "name_ur": "",
+          "lat": 33.5763915,
+          "lon": 73.1533772,
+          "safar_stop_id": "1:pwd_up"
+        },
+        {
+          "name": "Soan garden E block",
+          "name_ur": "",
+          "lat": 33.5680895,
+          "lon": 73.1596328,
+          "safar_stop_id": "1:soan_garden_e_up"
+        },
+        {
+          "name": "Soan garden G block",
+          "name_ur": "",
+          "lat": 33.5615791,
+          "lon": 73.1644677,
+          "safar_stop_id": "1:soan_garden_g_up"
+        },
+        {
+          "name": "Soan garden H block",
+          "name_ur": "",
+          "lat": 33.5571958,
+          "lon": 73.1677691,
+          "safar_stop_id": "1:soan_garden_h_up"
+        },
+        {
+          "name": "River Garden",
+          "name_ur": "",
+          "lat": 33.5504876,
+          "lon": 73.1728737,
+          "safar_stop_id": "1:river_garden_up"
+        },
+        {
+          "name": "Kaak Pul",
+          "name_ur": "",
+          "lat": 33.5431956,
+          "lon": 73.1781213,
+          "safar_stop_id": "1:kaak_pull_up"
+        },
+        {
+          "name": "DHA Gate 8",
+          "name_ur": "",
+          "lat": 33.5388587,
+          "lon": 73.1807901,
+          "safar_stop_id": "1:dha_8_up"
+        },
+        {
+          "name": "DHA Gate 7",
+          "name_ur": "",
+          "lat": 33.5332727,
+          "lon": 73.1813268,
+          "safar_stop_id": "1:dha_7_up"
+        },
+        {
+          "name": "Suparco",
+          "name_ur": "",
+          "lat": 33.5186967,
+          "lon": 73.1793485,
+          "safar_stop_id": "1:sta_suparco_down"
+        },
+        {
+          "name": "T-Chowk",
+          "name_ur": "",
+          "lat": 33.5105322,
+          "lon": 73.1805129,
+          "safar_stop_id": "1:tchowk_up"
+        }
+      ]
+    },
+    {
+      "id": "1:fr_17",
+      "code": "FR-17",
+      "name": "Feeder Route - 17 (FR-17)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_17",
+      "color": "#50A31F",
+      "mode": "BusRoute",
+      "headsign": "Aari Syedan Terminal",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "Humak Road",
+          "name_ur": "",
+          "lat": 33.53909,
+          "lon": 73.126484,
+          "safar_stop_id": "1:cda-128-11723"
+        },
+        {
+          "name": "Police Station Humak",
+          "name_ur": "",
+          "lat": 33.540462,
+          "lon": 73.128398,
+          "safar_stop_id": "1:cda-128-11724"
+        },
+        {
+          "name": "Humak Stop/ Pepsi Stop",
+          "name_ur": "",
+          "lat": 33.540408,
+          "lon": 73.13396,
+          "safar_stop_id": "1:cda-128-11725"
+        },
+        {
+          "name": "Model Town Humak",
+          "name_ur": "",
+          "lat": 33.540654,
+          "lon": 73.137038,
+          "safar_stop_id": "1:cda-128-11726"
+        },
+        {
+          "name": "RC Chowk Main Stop",
+          "name_ur": "",
+          "lat": 33.540911,
+          "lon": 73.140162,
+          "safar_stop_id": "1:cda-128-11727"
+        },
+        {
+          "name": "Model Town Stop/Punjab Oil Mills",
+          "name_ur": "",
+          "lat": 33.541138,
+          "lon": 73.14275,
+          "safar_stop_id": "1:cda-128-11728"
+        },
+        {
+          "name": "Burji Stop",
+          "name_ur": "",
+          "lat": 33.541481,
+          "lon": 73.147107,
+          "safar_stop_id": "1:cda-128-11729"
+        },
+        {
+          "name": "Jamia Chowk",
+          "name_ur": "",
+          "lat": 33.542027,
+          "lon": 73.153606,
+          "safar_stop_id": "1:cda-128-11730"
+        },
+        {
+          "name": "DHA Gate 10",
+          "name_ur": "",
+          "lat": 33.542348,
+          "lon": 73.157775,
+          "safar_stop_id": "1:cda-128-11731"
+        },
+        {
+          "name": "Islamabad Model College for Girls Humak",
+          "name_ur": "",
+          "lat": 33.542645,
+          "lon": 73.161214,
+          "safar_stop_id": "1:cda-128-11732"
+        },
+        {
+          "name": "Cadet College Humak",
+          "name_ur": "",
+          "lat": 33.543296,
+          "lon": 73.169643,
+          "safar_stop_id": "1:cda-128-11733"
+        },
+        {
+          "name": "Sihala Police Station",
+          "name_ur": "",
+          "lat": 33.543004,
+          "lon": 73.173438,
+          "safar_stop_id": "1:cda-128-11734"
+        },
+        {
+          "name": "Kaak Pul",
+          "name_ur": "",
+          "lat": 33.5407339,
+          "lon": 73.1792655,
+          "safar_stop_id": "1:kaak_pul_fr17_up"
+        },
+        {
+          "name": "CUST",
+          "name_ur": "",
+          "lat": 33.544779,
+          "lon": 73.185248,
+          "safar_stop_id": "1:cda-128-11706"
+        },
+        {
+          "name": "Jump Stop",
+          "name_ur": "",
+          "lat": 33.545935,
+          "lon": 73.188944,
+          "safar_stop_id": "1:cda-128-11707"
+        },
+        {
+          "name": "PSO Depot",
+          "name_ur": "",
+          "lat": 33.54797,
+          "lon": 73.195277,
+          "safar_stop_id": "1:cda-128-11708"
+        },
+        {
+          "name": "Sihala Railway Crossing",
+          "name_ur": "",
+          "lat": 33.550758,
+          "lon": 73.204055,
+          "safar_stop_id": "1:cda-128-11709"
+        },
+        {
+          "name": "Police College Sihala",
+          "name_ur": "",
+          "lat": 33.552526,
+          "lon": 73.209648,
+          "safar_stop_id": "1:cda-128-11710"
+        },
+        {
+          "name": "Hoon Dhamial",
+          "name_ur": "",
+          "lat": 33.554607,
+          "lon": 73.216321,
+          "safar_stop_id": "1:cda-128-11736"
+        },
+        {
+          "name": "Sihala School Stop",
+          "name_ur": "",
+          "lat": 33.556974,
+          "lon": 73.223706,
+          "safar_stop_id": "1:cda-128-11711"
+        },
+        {
+          "name": "Markaz Stop",
+          "name_ur": "",
+          "lat": 33.55799,
+          "lon": 73.226891,
+          "safar_stop_id": "1:cda-128-11712"
+        },
+        {
+          "name": "Mughal Chowk",
+          "name_ur": "",
+          "lat": 33.559794,
+          "lon": 73.232531,
+          "safar_stop_id": "1:cda-128-11713"
+        },
+        {
+          "name": "Her Do Gher School Stop",
+          "name_ur": "",
+          "lat": 33.561518,
+          "lon": 73.238046,
+          "safar_stop_id": "1:cda-128-11735"
+        },
+        {
+          "name": "Her Do Gher",
+          "name_ur": "",
+          "lat": 33.5625384,
+          "lon": 73.2412785,
+          "safar_stop_id": "1:sta_heer_up"
+        },
+        {
+          "name": "Gher Morh Bus Stop",
+          "name_ur": "",
+          "lat": 33.563722,
+          "lon": 73.245045,
+          "safar_stop_id": "1:cda-128-11715"
+        },
+        {
+          "name": "Miana Thub",
+          "name_ur": "",
+          "lat": 33.566242,
+          "lon": 73.253745,
+          "safar_stop_id": "1:cda-128-11716"
+        },
+        {
+          "name": "Chakian",
+          "name_ur": "",
+          "lat": 33.56683,
+          "lon": 73.257704,
+          "safar_stop_id": "1:cda-128-11717"
+        },
+        {
+          "name": "Hussania Sharif.International Islamic Univeristy",
+          "name_ur": "",
+          "lat": 33.568198,
+          "lon": 73.262444,
+          "safar_stop_id": "1:cda-128-11718"
+        },
+        {
+          "name": "Chak Kamdar",
+          "name_ur": "",
+          "lat": 33.567478,
+          "lon": 73.27305,
+          "safar_stop_id": "1:cda-128-11719"
+        },
+        {
+          "name": "Dhok Munshi Sherbaz",
+          "name_ur": "",
+          "lat": 33.570073,
+          "lon": 73.277736,
+          "safar_stop_id": "1:cda-128-11722"
+        },
+        {
+          "name": "Aari Syedan",
+          "name_ur": "",
+          "lat": 33.5730144,
+          "lon": 73.2808491,
+          "safar_stop_id": "1:sta_aari_syedan_up"
+        },
+        {
+          "name": "Aari Syedan Terminal",
+          "name_ur": "",
+          "lat": 33.574796,
+          "lon": 73.283452,
+          "safar_stop_id": "1:cda-128-11721"
+        }
+      ]
+    },
+    {
+      "id": "1:green",
+      "code": "Green Line",
+      "name": "Green Line",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Agreen",
+      "color": "#38A169",
+      "mode": "BusRoute",
+      "headsign": "Barakahu Stop",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "PIMS Hospital",
+          "name_ur": "",
+          "lat": 33.7054708,
+          "lon": 73.0507351,
+          "safar_stop_id": "1:sta_pims_hospital_gb_up"
+        },
+        {
+          "name": "Children Hospital",
+          "name_ur": "",
+          "lat": 33.7053652,
+          "lon": 73.0555847,
+          "safar_stop_id": "1:sta_children_hospital_down"
+        },
+        {
+          "name": "G-7 / G-8",
+          "name_ur": "",
+          "lat": 33.6965625,
+          "lon": 73.0623228,
+          "safar_stop_id": "1:g7g8_up"
+        },
+        {
+          "name": "CDA Stop",
+          "name_ur": "",
+          "lat": 33.7006906,
+          "lon": 73.0777984,
+          "safar_stop_id": "1:cda_stop_up"
+        },
+        {
+          "name": "Aabpara",
+          "name_ur": "",
+          "lat": 33.7057267,
+          "lon": 73.0879408,
+          "safar_stop_id": "1:aabpara_up"
+        },
+        {
+          "name": "Foreign Office",
+          "name_ur": "",
+          "lat": 33.7114225,
+          "lon": 73.0986146,
+          "safar_stop_id": "1:fo_up"
+        },
+        {
+          "name": "Lake View Point",
+          "name_ur": "",
+          "lat": 33.7229715,
+          "lon": 73.1354376,
+          "safar_stop_id": "1:lake_down"
+        },
+        {
+          "name": "Diplomatic Enclave",
+          "name_ur": "",
+          "lat": 33.726176,
+          "lon": 73.139415,
+          "safar_stop_id": "1:cda-128-10183"
+        },
+        {
+          "name": "Malpur",
+          "name_ur": "",
+          "lat": 33.7297216,
+          "lon": 73.1446495,
+          "safar_stop_id": "1:malpur_down"
+        },
+        {
+          "name": "Bari Imam Link Road",
+          "name_ur": "",
+          "lat": 33.73215,
+          "lon": 73.149075,
+          "safar_stop_id": "1:cda-128-10150"
+        },
+        {
+          "name": "Shahdara",
+          "name_ur": "",
+          "lat": 33.7347503,
+          "lon": 73.1592766,
+          "safar_stop_id": "1:sta_shahdara_down"
+        },
+        {
+          "name": "Barakahu Stop",
+          "name_ur": "",
+          "lat": 33.7350147,
+          "lon": 73.1676712,
+          "safar_stop_id": "1:Barakahu_down"
+        }
+      ]
+    },
+    {
+      "id": "rwp:94",
+      "code": "Marrir Metrobus Station to Motorway Chowk 26 No",
+      "name": "Marrir Metrobus Station to Motorway Chowk 26 No",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/rwp%3A94",
+      "color": "#1FA39D",
+      "mode": "BusRoute",
+      "headsign": "Marrir Metrobus Station to Motorway Chowk 26 No",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "Marrir Metrobus Station",
+          "name_ur": "",
+          "lat": 33.600189,
+          "lon": 73.062291,
+          "safar_stop_id": "rwp:2113"
+        },
+        {
+          "name": "Kamran Market",
+          "name_ur": "",
+          "lat": 33.5987058,
+          "lon": 73.056029,
+          "safar_stop_id": "rwp:2111"
+        },
+        {
+          "name": "GPO Stop, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.595121,
+          "lon": 73.051066,
+          "safar_stop_id": "rwp:sta_2689"
+        },
+        {
+          "name": "MH",
+          "name_ur": "",
+          "lat": 33.596929,
+          "lon": 73.046052,
+          "safar_stop_id": "rwp:sta_2107"
+        },
+        {
+          "name": "Roomi Park",
+          "name_ur": "",
+          "lat": 33.598725,
+          "lon": 73.042467,
+          "safar_stop_id": "rwp:2105"
+        },
+        {
+          "name": "Qasim Market",
+          "name_ur": "",
+          "lat": 33.6015762,
+          "lon": 73.0336989,
+          "safar_stop_id": "rwp:2103"
+        },
+        {
+          "name": "Radio Pakistan",
+          "name_ur": "",
+          "lat": 33.603092,
+          "lon": 73.0284479,
+          "safar_stop_id": "rwp:sta_2101"
+        },
+        {
+          "name": "Lane No 4",
+          "name_ur": "",
+          "lat": 33.604557,
+          "lon": 73.0237425,
+          "safar_stop_id": "rwp:sta_2099"
+        },
+        {
+          "name": "Chairing Cross",
+          "name_ur": "",
+          "lat": 33.6055093,
+          "lon": 73.0203512,
+          "safar_stop_id": "rwp:sta_2097"
+        },
+        {
+          "name": "Chur Chowk",
+          "name_ur": "",
+          "lat": 33.6082869,
+          "lon": 73.0119166,
+          "safar_stop_id": "rwp:2093"
+        },
+        {
+          "name": "Chur Harpal",
+          "name_ur": "",
+          "lat": 33.610018,
+          "lon": 73.006429,
+          "safar_stop_id": "rwp:2090"
+        },
+        {
+          "name": "Model Bazar",
+          "name_ur": "",
+          "lat": 33.6124194,
+          "lon": 73.0004466,
+          "safar_stop_id": "rwp:sta_2086"
+        },
+        {
+          "name": "Kainat Bus Terminal",
+          "name_ur": "",
+          "lat": 33.6135529,
+          "lon": 72.9972851,
+          "safar_stop_id": "rwp:sta_2083"
+        },
+        {
+          "name": "Pir Wadahi Mor",
+          "name_ur": "",
+          "lat": 33.61452,
+          "lon": 72.99188,
+          "safar_stop_id": "rwp:2080"
+        },
+        {
+          "name": "Kohinoor Bus Terminal",
+          "name_ur": "",
+          "lat": 33.615823,
+          "lon": 72.9883209,
+          "safar_stop_id": "rwp:2078"
+        },
+        {
+          "name": "Kohinoor Mills",
+          "name_ur": "",
+          "lat": 33.6190542,
+          "lon": 72.9808314,
+          "safar_stop_id": "rwp:2074"
+        },
+        {
+          "name": "Chistianabad",
+          "name_ur": "",
+          "lat": 33.6223405,
+          "lon": 72.9755557,
+          "safar_stop_id": "rwp:sta_2070"
+        },
+        {
+          "name": "Golra Mor",
+          "name_ur": "",
+          "lat": 33.625307,
+          "lon": 72.969351,
+          "safar_stop_id": "rwp:2067"
+        },
+        {
+          "name": "Daewoo Bus Terminal",
+          "name_ur": "",
+          "lat": 33.62378,
+          "lon": 72.95374,
+          "safar_stop_id": "rwp:sta_2060"
+        },
+        {
+          "name": "Jhangi Syedan",
+          "name_ur": "",
+          "lat": 33.62631,
+          "lon": 72.9469,
+          "safar_stop_id": "rwp:sta_2056"
+        },
+        {
+          "name": "Motorway Bus Terminal",
+          "name_ur": "",
+          "lat": 33.6277244,
+          "lon": 72.9446627,
+          "safar_stop_id": "rwp:2051"
+        },
+        {
+          "name": "Motorway Chowk (26 No)",
+          "name_ur": "",
+          "lat": 33.63303,
+          "lon": 72.93497,
+          "safar_stop_id": "rwp:2048"
+        }
+      ]
+    },
+    {
+      "id": "1:orangeAirportExpress",
+      "code": "Orange Airport Exp",
+      "name": "Orange Line Airport Express Bus (Orange Airport Exp)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3AorangeAirportExpress",
+      "color": "#F59E0B",
+      "mode": null,
+      "headsign": "N-5 Metro Station",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "N-5 Metro Station",
+          "name_ur": "",
+          "lat": 33.6320183,
+          "lon": 72.9447061,
+          "safar_stop_id": "1:n5_station"
+        },
+        {
+          "name": "Airport",
+          "name_ur": "",
+          "lat": 33.5560088,
+          "lon": 72.837426,
+          "safar_stop_id": "1:airport_station"
+        }
+      ]
+    },
+    {
+      "id": "1:orange",
+      "code": "Orange Line",
+      "name": "Orange Line BRT (Orange Line)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Aorange",
+      "color": "#ED8936",
+      "mode": "BusRoute",
+      "headsign": "N-5 Station",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "Faiz Ahmad Faiz Metro Station Bay 3",
+          "name_ur": "",
+          "lat": 33.675461,
+          "lon": 73.0546453,
+          "safar_stop_id": "1:faiz_station"
+        },
+        {
+          "name": "NHA Metro Station",
+          "name_ur": "",
+          "lat": 33.6772992,
+          "lon": 73.0347578,
+          "safar_stop_id": "1:nha_station"
+        },
+        {
+          "name": "High Court Metro Station",
+          "name_ur": "",
+          "lat": 33.6671664,
+          "lon": 73.015351,
+          "safar_stop_id": "1:high_station"
+        },
+        {
+          "name": "Police Foundation Metro Station",
+          "name_ur": "",
+          "lat": 33.6629915,
+          "lon": 73.0073687,
+          "safar_stop_id": "1:police_found_station"
+        },
+        {
+          "name": "NUST Metro Station",
+          "name_ur": "",
+          "lat": 33.655723,
+          "lon": 72.9935239,
+          "safar_stop_id": "1:nust_station"
+        },
+        {
+          "name": "G-13 Metro Station",
+          "name_ur": "",
+          "lat": 33.6496299,
+          "lon": 72.9819067,
+          "safar_stop_id": "1:g13_station"
+        },
+        {
+          "name": "Golra Morr Metro Station",
+          "name_ur": "",
+          "lat": 33.6406542,
+          "lon": 72.9616841,
+          "safar_stop_id": "1:golra_station"
+        },
+        {
+          "name": "N-5 Metro Station",
+          "name_ur": "",
+          "lat": 33.6320183,
+          "lon": 72.9447061,
+          "safar_stop_id": "1:n5_station"
+        }
+      ]
+    },
+    {
+      "id": "rwp:91",
+      "code": "Rawalpindi Railway Station To Hamrahi Stop",
+      "name": "Rawalpindi Railway Station To Hamrahi Stop",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/rwp%3A91",
+      "color": "#264653",
+      "mode": "BusRoute",
+      "headsign": "Rawalpindi Railway Station To Hamrahi Stop",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "Rawalpindi Railway Station",
+          "name_ur": "",
+          "lat": 33.603485,
+          "lon": 73.048212,
+          "safar_stop_id": "rwp:1999"
+        },
+        {
+          "name": "Station Mor",
+          "name_ur": "",
+          "lat": 33.59906,
+          "lon": 73.046573,
+          "safar_stop_id": "rwp:sta_2001"
+        },
+        {
+          "name": "GPO Chowk, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.5955718,
+          "lon": 73.0508657,
+          "safar_stop_id": "rwp:sta_2003"
+        },
+        {
+          "name": "Saddar Stop",
+          "name_ur": "",
+          "lat": 33.593496,
+          "lon": 73.053604,
+          "safar_stop_id": "rwp:2005"
+        },
+        {
+          "name": "Sarwar Park",
+          "name_ur": "",
+          "lat": 33.588922,
+          "lon": 73.058508,
+          "safar_stop_id": "rwp:sta_2007"
+        },
+        {
+          "name": "Adiala Park",
+          "name_ur": "",
+          "lat": 33.5860367,
+          "lon": 73.0631991,
+          "safar_stop_id": "rwp:2009"
+        },
+        {
+          "name": "Katchery",
+          "name_ur": "",
+          "lat": 33.5843484,
+          "lon": 73.0661126,
+          "safar_stop_id": "rwp:2011"
+        },
+        {
+          "name": "Golf Club",
+          "name_ur": "",
+          "lat": 33.575729,
+          "lon": 73.073094,
+          "safar_stop_id": "rwp:2013"
+        },
+        {
+          "name": "Ayub National Park",
+          "name_ur": "",
+          "lat": 33.571391,
+          "lon": 73.075394,
+          "safar_stop_id": "rwp:sta_2015"
+        },
+        {
+          "name": "Sports Complex",
+          "name_ur": "",
+          "lat": 33.5679557,
+          "lon": 73.0765798,
+          "safar_stop_id": "rwp:2017"
+        },
+        {
+          "name": "Morgah Stop",
+          "name_ur": "",
+          "lat": 33.564041,
+          "lon": 73.082118,
+          "safar_stop_id": "rwp:2019"
+        },
+        {
+          "name": "Al Shifa Trust Eye Hospital",
+          "name_ur": "",
+          "lat": 33.559073,
+          "lon": 73.090004,
+          "safar_stop_id": "rwp:2021"
+        },
+        {
+          "name": "Fouji Foundation Hospital",
+          "name_ur": "",
+          "lat": 33.558231,
+          "lon": 73.093914,
+          "safar_stop_id": "rwp:sta_2023"
+        },
+        {
+          "name": "High Court",
+          "name_ur": "",
+          "lat": 33.5529446,
+          "lon": 73.0995654,
+          "safar_stop_id": "rwp:2025"
+        },
+        {
+          "name": "Hamrahi Bus Stop",
+          "name_ur": "",
+          "lat": 33.548514,
+          "lon": 73.102282,
+          "safar_stop_id": "rwp:2027"
+        }
+      ]
+    },
+    {
+      "id": "1:red",
+      "code": "Red Line",
+      "name": "Red Line BRT (Red Line)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Ared",
+      "color": "#E53E3E",
+      "mode": "BusRoute",
+      "headsign": "Secretariat",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "Saddar Metro Station",
+          "name_ur": "",
+          "lat": 33.5935198,
+          "lon": 73.0557668,
+          "safar_stop_id": "1:saddar_station"
+        },
+        {
+          "name": "Marrir Metro Station",
+          "name_ur": "",
+          "lat": 33.5995482,
+          "lon": 73.0626844,
+          "safar_stop_id": "1:marrir_station"
+        },
+        {
+          "name": "Liaquat Bagh Metro Station",
+          "name_ur": "",
+          "lat": 33.6060451,
+          "lon": 73.0657927,
+          "safar_stop_id": "1:liaquat_station"
+        },
+        {
+          "name": "Committee Chowk Metro Station",
+          "name_ur": "",
+          "lat": 33.6134045,
+          "lon": 73.0650227,
+          "safar_stop_id": "1:committee_station"
+        },
+        {
+          "name": "Waris Khan Metro Station",
+          "name_ur": "",
+          "lat": 33.621157,
+          "lon": 73.0662408,
+          "safar_stop_id": "1:waris_station"
+        },
+        {
+          "name": "Chandni Chowk Metro Station",
+          "name_ur": "",
+          "lat": 33.6301373,
+          "lon": 73.0719747,
+          "safar_stop_id": "1:chandni_station"
+        },
+        {
+          "name": "Rehmanabad Metro Station",
+          "name_ur": "",
+          "lat": 33.6359264,
+          "lon": 73.0747813,
+          "safar_stop_id": "1:rehmanabad_station"
+        },
+        {
+          "name": "6th Road Metro Station",
+          "name_ur": "",
+          "lat": 33.6435109,
+          "lon": 73.0773773,
+          "safar_stop_id": "1:6th_station"
+        },
+        {
+          "name": "Shamsabad Metro Station",
+          "name_ur": "",
+          "lat": 33.6503701,
+          "lon": 73.080233,
+          "safar_stop_id": "1:shamsabad_station"
+        },
+        {
+          "name": "Faizabad Metro Station",
+          "name_ur": "",
+          "lat": 33.6612665,
+          "lon": 73.0827959,
+          "safar_stop_id": "1:faizabad_station"
+        },
+        {
+          "name": "IJP Metro Station",
+          "name_ur": "",
+          "lat": 33.6559052,
+          "lon": 73.0720094,
+          "safar_stop_id": "1:ijp_station"
+        },
+        {
+          "name": "Potohar Metro Station",
+          "name_ur": "",
+          "lat": 33.6608759,
+          "lon": 73.0653835,
+          "safar_stop_id": "1:potohar_station"
+        },
+        {
+          "name": "Khayaban-e-Johar Metro Station",
+          "name_ur": "",
+          "lat": 33.6691787,
+          "lon": 73.0591693,
+          "safar_stop_id": "1:khayaban_station"
+        },
+        {
+          "name": "Faiz Ahmad Faiz Metro Station Bay 1",
+          "name_ur": "",
+          "lat": 33.6758977,
+          "lon": 73.0541547,
+          "safar_stop_id": "1:faiz_station"
+        },
+        {
+          "name": "Kashmir Highway Metro Station",
+          "name_ur": "",
+          "lat": 33.6841547,
+          "lon": 73.0478383,
+          "safar_stop_id": "1:kashmir_station"
+        },
+        {
+          "name": "Chaman Metro Station",
+          "name_ur": "",
+          "lat": 33.6901028,
+          "lon": 73.0427437,
+          "safar_stop_id": "1:chaman_station"
+        },
+        {
+          "name": "Ibn-e-Sina Metro Station",
+          "name_ur": "",
+          "lat": 33.6960511,
+          "lon": 73.0383392,
+          "safar_stop_id": "1:ibn_station"
+        },
+        {
+          "name": "Katchery Metro Station",
+          "name_ur": "",
+          "lat": 33.7023007,
+          "lon": 73.0413136,
+          "safar_stop_id": "1:katchery_station"
+        },
+        {
+          "name": "PIMS Metro Station",
+          "name_ur": "",
+          "lat": 33.7056442,
+          "lon": 73.04777,
+          "safar_stop_id": "1:pims_station"
+        },
+        {
+          "name": "Stock Exchange Metro Station",
+          "name_ur": "",
+          "lat": 33.7117189,
+          "lon": 73.059313,
+          "safar_stop_id": "1:stock_station"
+        },
+        {
+          "name": "7th Avenue Metro Station",
+          "name_ur": "",
+          "lat": 33.7176907,
+          "lon": 73.0707068,
+          "safar_stop_id": "1:7th_station"
+        },
+        {
+          "name": "Shaheed-e-Millat Metro Station",
+          "name_ur": "",
+          "lat": 33.7217427,
+          "lon": 73.0783827,
+          "safar_stop_id": "1:shaheed_station"
+        },
+        {
+          "name": "Parade Ground Metro Station",
+          "name_ur": "",
+          "lat": 33.7248269,
+          "lon": 73.0843703,
+          "safar_stop_id": "1:parade_station"
+        },
+        {
+          "name": "Secretariat Metro Station",
+          "name_ur": "",
+          "lat": 33.7352159,
+          "lon": 73.092097,
+          "safar_stop_id": "1:secretariat_station"
+        }
+      ]
+    },
+    {
+      "id": "rwp:93",
+      "code": "Saddar Metrobus Station to Munawar Colony",
+      "name": "Saddar Metrobus Station to Munawar Colony",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/rwp%3A93",
+      "color": "#D6298E",
+      "mode": "BusRoute",
+      "headsign": "Saddar Metrobus Station to Munawar Colony",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "Saddar Metro Station",
+          "name_ur": "",
+          "lat": 33.5937708,
+          "lon": 73.0558912,
+          "safar_stop_id": "rwp:sta_2045"
+        },
+        {
+          "name": "CSD",
+          "name_ur": "",
+          "lat": 33.584904,
+          "lon": 73.055667,
+          "safar_stop_id": "rwp:2135"
+        },
+        {
+          "name": "CMH Gate No 2",
+          "name_ur": "",
+          "lat": 33.5801993,
+          "lon": 73.0513694,
+          "safar_stop_id": "rwp:sta_2133"
+        },
+        {
+          "name": "Dheri Hasanabad-1",
+          "name_ur": "",
+          "lat": 33.575944,
+          "lon": 73.0533944,
+          "safar_stop_id": "rwp:2127"
+        },
+        {
+          "name": "Dheri Hasanabad-2",
+          "name_ur": "",
+          "lat": 33.574086,
+          "lon": 73.057143,
+          "safar_stop_id": "rwp:sta_2129"
+        },
+        {
+          "name": "Mahfooz Shaheed Park",
+          "name_ur": "",
+          "lat": 33.5745705,
+          "lon": 73.0615063,
+          "safar_stop_id": "rwp:sta_2131"
+        },
+        {
+          "name": "Zia Ul Haq Park",
+          "name_ur": "",
+          "lat": 33.571079,
+          "lon": 73.064744,
+          "safar_stop_id": "rwp:2125"
+        },
+        {
+          "name": "Askari VII",
+          "name_ur": "",
+          "lat": 33.5606815,
+          "lon": 73.0635669,
+          "safar_stop_id": "rwp:sta_2123"
+        },
+        {
+          "name": "Khawja Corporation",
+          "name_ur": "",
+          "lat": 33.5581244,
+          "lon": 73.0620175,
+          "safar_stop_id": "rwp:sta_2121"
+        },
+        {
+          "name": "Dharma Syedan",
+          "name_ur": "",
+          "lat": 33.5537818,
+          "lon": 73.0580989,
+          "safar_stop_id": "rwp:sta_2119"
+        },
+        {
+          "name": "Ali Town",
+          "name_ur": "",
+          "lat": 33.5513672,
+          "lon": 73.0563926,
+          "safar_stop_id": "rwp:sta_2117"
+        },
+        {
+          "name": "Munawar Colony",
+          "name_ur": "",
+          "lat": 33.5488008,
+          "lon": 73.0555988,
+          "safar_stop_id": "rwp:2115"
+        }
+      ]
+    },
+    {
+      "id": "rwp:172",
+      "code": "Saddar Stop to Bhatta Chowk",
+      "name": "Saddar Stop to Bhatta Chowk",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/rwp%3A172",
+      "color": "#1FA387",
+      "mode": "BusRoute",
+      "headsign": "Saddar Stop to Bhatta Chowk",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "Saddar Stop",
+          "name_ur": "",
+          "lat": 33.593496,
+          "lon": 73.053604,
+          "safar_stop_id": "rwp:2005"
+        },
+        {
+          "name": "GPO Chowk, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.5955718,
+          "lon": 73.0508657,
+          "safar_stop_id": "rwp:sta_2003"
+        },
+        {
+          "name": "MH Stop",
+          "name_ur": "",
+          "lat": 33.5983739,
+          "lon": 73.0455563,
+          "safar_stop_id": "rwp:sta_2691"
+        },
+        {
+          "name": "Qasim Market Stop",
+          "name_ur": "",
+          "lat": 33.601095,
+          "lon": 73.034335,
+          "safar_stop_id": "rwp:sta_2693"
+        },
+        {
+          "name": "Askari 11",
+          "name_ur": "",
+          "lat": 33.5978044,
+          "lon": 73.0310928,
+          "safar_stop_id": "rwp:sta_2171"
+        },
+        {
+          "name": "Farid Family Hospital",
+          "name_ur": "",
+          "lat": 33.5981149,
+          "lon": 73.0232222,
+          "safar_stop_id": "rwp:2169"
+        },
+        {
+          "name": "Afzal Town Lane No 4",
+          "name_ur": "",
+          "lat": 33.5982256,
+          "lon": 73.020389,
+          "safar_stop_id": "rwp:sta_2167"
+        },
+        {
+          "name": "Malik Azam Street",
+          "name_ur": "",
+          "lat": 33.5989726,
+          "lon": 73.0160691,
+          "safar_stop_id": "rwp:sta_2165"
+        },
+        {
+          "name": "Noor Hospital",
+          "name_ur": "",
+          "lat": 33.6000249,
+          "lon": 73.0131303,
+          "safar_stop_id": "rwp:sta_2163"
+        },
+        {
+          "name": "Hakeem Plaza Street No 4",
+          "name_ur": "",
+          "lat": 33.6003486,
+          "lon": 73.0082717,
+          "safar_stop_id": "rwp:2161"
+        },
+        {
+          "name": "Islamic Nazriyati Council",
+          "name_ur": "",
+          "lat": 33.600933,
+          "lon": 73.003454,
+          "safar_stop_id": "rwp:sta_etransit-rawalpindi-7160"
+        },
+        {
+          "name": "Misriyal Chowk",
+          "name_ur": "",
+          "lat": 33.6007372,
+          "lon": 72.9994025,
+          "safar_stop_id": "rwp:sta_2159"
+        },
+        {
+          "name": "Qabristan Chowk",
+          "name_ur": "",
+          "lat": 33.6009921,
+          "lon": 72.9958871,
+          "safar_stop_id": "rwp:sta_2157"
+        },
+        {
+          "name": "PSO Pump",
+          "name_ur": "",
+          "lat": 33.6014801,
+          "lon": 72.9916717,
+          "safar_stop_id": "rwp:3444"
+        },
+        {
+          "name": "Lane No 5",
+          "name_ur": "",
+          "lat": 33.6017345,
+          "lon": 72.9852724,
+          "safar_stop_id": "rwp:sta_3446"
+        },
+        {
+          "name": "Bhatta Chowk",
+          "name_ur": "",
+          "lat": 33.6020328,
+          "lon": 72.9799148,
+          "safar_stop_id": "rwp:sta_2851"
+        }
+      ]
+    },
+    {
+      "id": "rwp:100",
+      "code": "Saddar Stop to Qabristan Chowk",
+      "name": "Saddar Stop to Qabristan Chowk",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/rwp%3A100",
+      "color": "#D629AB",
+      "mode": "BusRoute",
+      "headsign": "Saddar Stop to Qabristan Chowk",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "Saddar Stop",
+          "name_ur": "",
+          "lat": 33.593496,
+          "lon": 73.053604,
+          "safar_stop_id": "rwp:2005"
+        },
+        {
+          "name": "GPO Chowk, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.5955718,
+          "lon": 73.0508657,
+          "safar_stop_id": "rwp:sta_2003"
+        },
+        {
+          "name": "MH Stop",
+          "name_ur": "",
+          "lat": 33.5983739,
+          "lon": 73.0455563,
+          "safar_stop_id": "rwp:sta_2691"
+        },
+        {
+          "name": "Qasim Market Stop",
+          "name_ur": "",
+          "lat": 33.601095,
+          "lon": 73.034335,
+          "safar_stop_id": "rwp:sta_2693"
+        },
+        {
+          "name": "Askari 11",
+          "name_ur": "",
+          "lat": 33.5978044,
+          "lon": 73.0310928,
+          "safar_stop_id": "rwp:sta_2171"
+        },
+        {
+          "name": "Farid Family Hospital",
+          "name_ur": "",
+          "lat": 33.5981149,
+          "lon": 73.0232222,
+          "safar_stop_id": "rwp:2169"
+        },
+        {
+          "name": "Afzal Town Lane No 4",
+          "name_ur": "",
+          "lat": 33.5982256,
+          "lon": 73.020389,
+          "safar_stop_id": "rwp:sta_2167"
+        },
+        {
+          "name": "Malik Azam Street",
+          "name_ur": "",
+          "lat": 33.5989726,
+          "lon": 73.0160691,
+          "safar_stop_id": "rwp:sta_2165"
+        },
+        {
+          "name": "Noor Hospital",
+          "name_ur": "",
+          "lat": 33.6000249,
+          "lon": 73.0131303,
+          "safar_stop_id": "rwp:sta_2163"
+        },
+        {
+          "name": "Hakeem Plaza Street No 4",
+          "name_ur": "",
+          "lat": 33.6003486,
+          "lon": 73.0082717,
+          "safar_stop_id": "rwp:2161"
+        },
+        {
+          "name": "Misriyal Chowk",
+          "name_ur": "",
+          "lat": 33.6007372,
+          "lon": 72.9994025,
+          "safar_stop_id": "rwp:sta_2159"
+        },
+        {
+          "name": "Qabristan Chowk",
+          "name_ur": "",
+          "lat": 33.6009921,
+          "lon": 72.9958871,
+          "safar_stop_id": "rwp:sta_2157"
+        }
+      ]
+    },
+    {
+      "id": "1:st_2",
+      "code": "ST-02",
+      "name": "PIMS -Capt. Naeem Tufail Shaheed Chowk (ST-02)",
+      "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Ast_2",
+      "color": "#808080",
+      "mode": "BusRoute",
+      "headsign": "Capt. Naeem Tufail Shaheed Chowk",
+      "direction_count": 2,
+      "stops": [
+        {
+          "name": "PIMS",
+          "name_ur": "",
+          "lat": 33.706166,
+          "lon": 73.052121,
+          "safar_stop_id": "1:cda-128-10231"
+        },
+        {
+          "name": "Children Hospital",
+          "name_ur": "",
+          "lat": 33.705313,
+          "lon": 73.055619,
+          "safar_stop_id": "1:cda-128-10232"
+        },
+        {
+          "name": "TNT",
+          "name_ur": "",
+          "lat": 33.696566,
+          "lon": 73.062387,
+          "safar_stop_id": "1:cda-128-10233"
+        },
+        {
+          "name": "Zero Point",
+          "name_ur": "",
+          "lat": 33.696586,
+          "lon": 73.070175,
+          "safar_stop_id": "1:cda-128-10234"
+        },
+        {
+          "name": "CDA",
+          "name_ur": "",
+          "lat": 33.700722,
+          "lon": 73.077753,
+          "safar_stop_id": "1:cda-128-10235"
+        },
+        {
+          "name": "Abpara",
+          "name_ur": "",
+          "lat": 33.703028,
+          "lon": 73.083056,
+          "safar_stop_id": "1:cda-128-10236"
+        },
+        {
+          "name": "Shakarparian Park",
+          "name_ur": "",
+          "lat": 33.694026,
+          "lon": 73.071095,
+          "safar_stop_id": "1:cda-128-10237"
+        },
+        {
+          "name": "Rawal Town",
+          "name_ur": "",
+          "lat": 33.689308,
+          "lon": 73.113594,
+          "safar_stop_id": "1:cda-128-10238"
+        },
+        {
+          "name": "School Board Stop",
+          "name_ur": "",
+          "lat": 33.688965,
+          "lon": 73.116479,
+          "safar_stop_id": "1:cda-128-10239"
+        },
+        {
+          "name": "Rawal Dam Colony",
+          "name_ur": "",
+          "lat": 33.688346,
+          "lon": 73.120372,
+          "safar_stop_id": "1:cda-128-10240"
+        },
+        {
+          "name": "NARC Colony",
+          "name_ur": "",
+          "lat": 33.687435,
+          "lon": 73.131785,
+          "safar_stop_id": "1:cda-128-10241"
+        },
+        {
+          "name": "NIH Allergy Center",
+          "name_ur": "",
+          "lat": 33.684862,
+          "lon": 73.135347,
+          "safar_stop_id": "1:cda-128-10242"
+        },
+        {
+          "name": "Shahzad Town",
+          "name_ur": "",
+          "lat": 33.67739,
+          "lon": 73.141699,
+          "safar_stop_id": "1:cda-128-10243"
+        },
+        {
+          "name": "Park View City",
+          "name_ur": "",
+          "lat": 33.67415,
+          "lon": 73.144426,
+          "safar_stop_id": "1:cda-128-10244"
+        },
+        {
+          "name": "Green Avenue",
+          "name_ur": "",
+          "lat": 33.667636,
+          "lon": 73.149888,
+          "safar_stop_id": "1:cda-128-10245"
+        },
+        {
+          "name": "Chatta Bakhtawar",
+          "name_ur": "",
+          "lat": 33.66451,
+          "lon": 73.152528,
+          "safar_stop_id": "1:cda-128-10246"
+        },
+        {
+          "name": "Gulshan Al Huda Community",
+          "name_ur": "",
+          "lat": 33.659174,
+          "lon": 73.153714,
+          "safar_stop_id": "1:cda-128-10247"
+        },
+        {
+          "name": "Hostel City",
+          "name_ur": "",
+          "lat": 33.656143,
+          "lon": 73.154152,
+          "safar_stop_id": "1:cda-128-10248"
+        },
+        {
+          "name": "COMSATS University",
+          "name_ur": "",
+          "lat": 33.651877,
+          "lon": 73.159805,
+          "safar_stop_id": "1:cda-128-10249"
+        },
+        {
+          "name": "Tamma Stop",
+          "name_ur": "",
+          "lat": 33.64814,
+          "lon": 73.162304,
+          "safar_stop_id": "1:cda-128-10250"
+        },
+        {
+          "name": "Capt. Naeem Tufail Shaheed Chowk",
+          "name_ur": "",
+          "lat": 33.644858,
+          "lon": 73.163872,
+          "safar_stop_id": "1:cda-128-10251"
         }
       ]
     }
