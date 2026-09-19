@@ -61,10 +61,10 @@ export function NearbyPanel({ data, lang, t, location, status, onLocate, onStop,
   );
 }
 
-const QUALITY_ORDER = ['exact', 'matched', 'geocoded', 'estimated'] as const;
+const QUALITY_ORDER = ['exact', 'sourced', 'matched', 'geocoded', 'estimated'] as const;
 
 function QualityBar({ data, t, lang }: { data: CityData; t: Dict; lang: Lang }) {
-  const counts = { exact: 0, matched: 0, geocoded: 0, estimated: 0 };
+  const counts = { exact: 0, sourced: 0, matched: 0, geocoded: 0, estimated: 0 };
   for (const s of data.stops) if (s.quality in counts) counts[s.quality as keyof typeof counts]++;
   const total = Object.values(counts).reduce((a, b) => a + b, 0) || 1;
   return (

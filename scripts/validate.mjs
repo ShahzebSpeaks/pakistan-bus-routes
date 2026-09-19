@@ -6,7 +6,7 @@ import { haversine, loadCities, loadSystems, nameKey } from './lib.mjs';
 const strict = process.argv.includes('--strict');
 const cities = new Map(loadCities().map((c) => [c.id, c]));
 const MODES = ['bus', 'brt', 'metro_rail', 'feeder', 'electric_bus'];
-const STATUSES = ['operational', 'under_construction', 'planned', 'suspended', 'unverified'];
+const STATUSES = ['operational', 'under_construction', 'planned', 'suspended', 'unverified', 'historical'];
 const FARE_TYPES = ['flat', 'distance_slab', 'stop_count', 'range', 'unknown'];
 const errors = [];
 const warnings = [];

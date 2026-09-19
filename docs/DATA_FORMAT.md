@@ -34,7 +34,7 @@ Each file in `data/systems/` describes one transit system: one operator or brand
 | `name`, `name_ur` | string | usually "Terminal A - Terminal B" |
 | `variant` | string | `red`, `pink`, `ev`, `brt`, `metro`, `feeder`, `electric`, `regular`, used for default colours |
 | `color` | `#RRGGBB` or null | official line colour |
-| `status` | `operational` · `under_construction` · `planned` · `suspended` · `unverified` | only operational and unverified routes are used by the planner and GTFS |
+| `status` | `operational` · `under_construction` · `planned` · `suspended` · `unverified` · `historical` | only operational and unverified routes are used by the planner and GTFS. `historical` marks routes from old lists that may no longer run |
 | `launched` | date or null | |
 | `length_km`, `headway_min` | number or null | |
 | `hours` | object or null | overrides the system hours |

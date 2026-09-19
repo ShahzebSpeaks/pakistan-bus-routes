@@ -1,7 +1,8 @@
 /** Shapes of the compiled per-city JSON produced by scripts/build-data.mjs. */
 
 export type Mode = 'bus' | 'brt' | 'metro_rail' | 'feeder' | 'electric_bus';
-export type RouteStatus = 'operational' | 'under_construction' | 'planned' | 'suspended' | 'unverified';
+/** historical = taken from an old list; shown for reference, never used by the trip planner */
+export type RouteStatus = 'operational' | 'under_construction' | 'planned' | 'suspended' | 'unverified' | 'historical';
 
 export interface FareSlab {
   up_to_km: number | null;
@@ -65,7 +66,7 @@ export interface SystemInfo {
   sources: Source[];
 }
 
-export type CoordQuality = 'exact' | 'matched' | 'geocoded' | 'estimated' | 'missing';
+export type CoordQuality = 'exact' | 'sourced' | 'matched' | 'geocoded' | 'estimated' | 'missing';
 
 export interface Stop {
   id: string;

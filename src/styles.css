@@ -853,6 +853,16 @@ html[dir='rtl'] .chain-sep {
   color: var(--warn-ink);
 }
 
+.status-historical {
+  background: #ece6f5;
+  color: #4a3a73;
+}
+
+:root[data-theme='dark'] .status-historical {
+  background: #2c2640;
+  color: #cfc3f0;
+}
+
 .status-suspended {
   background: #f8d7d5;
   color: #8a1f17;
@@ -1042,6 +1052,7 @@ html[dir='rtl'] .chain-sep {
 }
 
 .q-exact,
+.q-sourced,
 .q-matched {
   color: var(--primary);
 }
@@ -1286,6 +1297,10 @@ html[lang='ur'] .stop-tip {
 
 .qb.q-exact {
   background: var(--primary);
+}
+
+.qb.q-sourced {
+  background: #2e8b8b;
 }
 
 .qb.q-matched {

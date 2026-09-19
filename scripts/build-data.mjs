@@ -32,12 +32,13 @@ const SPEED_KMH = { bus: 16, feeder: 16, electric_bus: 17, brt: 24, metro_rail: 
 const quality = (s) => {
   if (s.lat == null) return 'missing';
   const src = String(s.coord_source || '');
+  if (src.startsWith('ext:')) return 'sourced';
   if (!src.startsWith('auto:')) return 'exact';
   if (src.startsWith('auto:interpolated')) return 'estimated';
   if (src.startsWith('auto:nominatim')) return 'geocoded';
   return 'matched';
 };
-const QUALITY_RANK = { exact: 0, matched: 1, geocoded: 2, estimated: 3, missing: 4 };
+const QUALITY_RANK = { exact: 0, sourced: 1, matched: 2, geocoded: 3, estimated: 4, missing: 5 };
 
 const cities = loadCities();
 const systemsByCity = new Map();
@@ -96,7 +97,7 @@ for (const city of cities) {
     for (const r of sys.routes) {
       const mode = r.mode || sys.mode;
       const withCoords = r.stops.filter((s) => s.lat != null && s.lon != null);
-      const counts = { exact: 0, matched: 0, geocoded: 0, estimated: 0, missing: 0 };
+      const counts = { exact: 0, sourced: 0, matched: 0, geocoded: 0, estimated: 0, missing: 0 };
       r.stops.forEach((s) => counts[quality(s)]++);
       coverage.push({ city: city.name, system: sys.name, systemId: sys.id, route: r.id, name: r.name, status: r.status, stops: r.stops.length, confidence: r.stops_confidence, counts });
       if (r.stops.length - withCoords.length) warnings.push(`${sys.id}/${r.id}: ${r.stops.length - withCoords.length} stop(s) without coordinates are left out of the map`);
@@ -278,15 +279,15 @@ fs.writeFileSync(path.join(PUBLIC_DOWNLOADS, 'stops.csv'), files['stops.txt']);
 const pct = (n, d) => (d ? `${Math.round((n / d) * 100)}%` : '-');
 let md = `# Data coverage\n\nGenerated ${generatedAt.slice(0, 10)} by \`npm run data:build\`. Do not edit by hand.\n\n`;
 md += `**${index.totals.cities} cities · ${index.totals.systems} systems · ${index.totals.routes} published routes · ${index.totals.stops} stops**\n\n`;
-md += `Coordinate quality: **exact** = verified (OpenStreetMap element or Wikipedia, checked by a person), **matched** = automatic OpenStreetMap name match, **geocoded** = Nominatim search, **estimated** = interpolated between neighbours, **missing** = not on the map yet.\n\n`;
+md += `Coordinate quality: **exact** = verified (OpenStreetMap element or Wikipedia, checked by a person), **guide** = position published by a route guide such as safar.fyi, **matched** = automatic OpenStreetMap name match, **geocoded** = Nominatim search, **estimated** = interpolated between neighbours, **missing** = not on the map yet.\n\n`;
 md += `Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.md](../CONTRIBUTING.md).\n\n`;
 let lastCity = '';
 for (const c of coverage) {
   if (c.city !== lastCity) {
-    md += `\n## ${c.city}\n\n| System | Route | Name | Status | Stops | Exact | Matched | Geocoded | Estimated | Missing | Stop list confidence |\n|---|---|---|---|---:|---:|---:|---:|---:|---:|---|\n`;
+    md += `\n## ${c.city}\n\n| System | Route | Name | Status | Stops | Exact | Guide | Matched | Geocoded | Estimated | Missing | Stop list confidence |\n|---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|\n`;
     lastCity = c.city;
   }
-  md += `| ${c.system} | ${c.route} | ${c.name.replace(/\|/g, '/')} | ${c.status} | ${c.stops} | ${pct(c.counts.exact, c.stops)} | ${pct(c.counts.matched, c.stops)} | ${pct(c.counts.geocoded, c.stops)} | ${pct(c.counts.estimated, c.stops)} | ${c.counts.missing} | ${c.confidence} |\n`;
+  md += `| ${c.system} | ${c.route} | ${c.name.replace(/\|/g, '/')} | ${c.status} | ${c.stops} | ${pct(c.counts.exact, c.stops)} | ${pct(c.counts.sourced, c.stops)} | ${pct(c.counts.matched, c.stops)} | ${pct(c.counts.geocoded, c.stops)} | ${pct(c.counts.estimated, c.stops)} | ${c.counts.missing} | ${c.confidence} |\n`;
 }
 // Routes where contributors would help most: many stops without a real position.
 const weak = coverage

@@ -15,7 +15,7 @@ const files = explicit.length
 
 const cityIds = new Set(loadCities().map((c) => c.id));
 const MODES = new Set(['bus', 'brt', 'metro_rail', 'feeder', 'electric_bus']);
-const STATUSES = new Set(['operational', 'under_construction', 'planned', 'suspended', 'unverified']);
+const STATUSES = new Set(['operational', 'under_construction', 'planned', 'suspended', 'unverified', 'historical']);
 
 const num = (v) => (typeof v === 'number' && Number.isFinite(v) ? v : typeof v === 'string' && v.trim() && !isNaN(+v) ? +v : null);
 

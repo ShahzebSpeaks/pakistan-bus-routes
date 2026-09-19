@@ -1,6 +1,6 @@
 # Sources
 
-Generated 2026-09-16 from `data/systems`. Facts (route numbers, stop names, fares, timings) were compiled from these public sources. Maps, images and text from them are not redistributed.
+Generated 2026-09-19 from `data/systems`. Facts (route numbers, stop names, fares, timings) were compiled from these public sources. Maps, images and text from them are not redistributed.
 
 ## Green Electric Bus Attock (attock)
 
