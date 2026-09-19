@@ -55,25 +55,25 @@
         {
           "name": "Chungi No. 9",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.208667,
+          "lon": 71.470556,
+          "coord_source": "ext:safar.fyi:mlt:489",
           "is_station": false
         },
         {
           "name": "Ghanta Ghar",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.198462,
+          "lon": 71.467846,
+          "coord_source": "ext:safar.fyi:mlt:489",
           "is_station": false
         },
         {
           "name": "Dera Adda",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.189213,
+          "lon": 71.451528,
+          "coord_source": "ext:safar.fyi:mlt:489",
           "is_station": false
         }
       ],
@@ -81,6 +81,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: Dera Adda to Dehar Chowk",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A489"
         }
       ],
       "notes": "PMA IPTN Multan table, route 1: Feeder route, Phase-I, Mini Bus, MBS station served: Chowk Kumharan, Chungi no. 9, 7.78 km, commercial speed 18 km/h, round trip 62 min, headway 5 min, 12 buses. Alignment as printed: \"Chowk Kumharan to Dera Adda via Chungi No 9, Ghanta Ghar\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops."
@@ -119,9 +123,9 @@
         {
           "name": "Ghanta Ghar",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.198462,
+          "lon": 71.467846,
+          "coord_source": "auto:same-name:ext:safar.fyi:mlt:489",
           "is_station": false
         }
       ],
@@ -191,25 +195,25 @@
         {
           "name": "Khooni Burj",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.187387,
+          "lon": 71.475228,
+          "coord_source": "auto:osm:way/900521749",
           "is_station": false
         },
         {
           "name": "Vehari Chowk",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.186988,
+          "lon": 71.481794,
+          "coord_source": "auto:interpolated",
           "is_station": false
         },
         {
           "name": "Chungi No. 14",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.186589,
+          "lon": 71.488359,
+          "coord_source": "auto:osm:node/1921952556",
           "is_station": false
         },
         {
@@ -247,17 +251,17 @@
         {
           "name": "Dunyapur",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.167408,
+          "lon": 71.499974,
+          "coord_source": "auto:osm:way/433169263",
           "is_station": false
         },
         {
           "name": "Allah Wasaya Stop (Peoples Colony)",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.174187,
+          "lon": 71.496416,
+          "coord_source": "auto:osm:node/667437602",
           "is_station": false
         },
         {
@@ -295,17 +299,17 @@
         {
           "name": "Mohalla Wazirabad / Basti Shorkot",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.137503,
+          "lon": 71.49362,
+          "coord_source": "auto:osm:node/4936416294",
           "is_station": false
         },
         {
           "name": "BCG Chowk",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.173215,
+          "lon": 71.491396,
+          "coord_source": "ext:safar.fyi:mlt:37",
           "is_station": false
         }
       ],
@@ -313,6 +317,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: Metro Bus",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A37"
         }
       ],
       "notes": "PMA IPTN Multan table, route 8: Feeder route, Phase-I, Mini Bus, MBS station served: BCG Chowk, 4.57 km, commercial speed 18 km/h, round trip 40 min, headway 5 min, 8 buses. Alignment as printed: \"Mohalla Wazira abad/ basti Shorkot to BCG Chowk via Southern Bypass\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Roads: Southern Bypass."
@@ -335,33 +343,33 @@
         {
           "name": "Railway Station",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.182,
+          "lon": 71.444664,
+          "coord_source": "auto:osm:node/4354708967",
           "is_station": false
         },
         {
           "name": "SP Chowk",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.192035,
+          "lon": 71.442146,
+          "coord_source": "ext:safar.fyi:mlt:477",
           "is_station": false
         },
         {
           "name": "Chungi No. 8",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.209413,
+          "lon": 71.46608,
+          "coord_source": "ext:safar.fyi:mlt:477",
           "is_station": false
         },
         {
           "name": "Chungi No. 9",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.208083,
+          "lon": 71.471389,
+          "coord_source": "ext:safar.fyi:mlt:477",
           "is_station": false
         }
       ],
@@ -369,6 +377,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: Chungi No. 09 to Nadirabad Phatak",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A477"
         }
       ],
       "notes": "PMA IPTN Multan table, route 9: Feeder route, Phase-I, Mini Bus, MBS station served: Chungi No. 9, 5.72 km, commercial speed 18 km/h, round trip 48 min, headway 5 min, 10 buses. Alignment as printed: \"Railway Station to Chungi No. 9 via SP Chowk, Chungi No.8\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops. Both terminals appear on current multan-feeder route(s) MFR09/MFR09B, so the corridor is at least partly served today."
@@ -391,33 +403,33 @@
         {
           "name": "Faiz-e-Aam Chowk",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.246015,
+          "lon": 71.467709,
+          "coord_source": "auto:same-name:ext:safar.fyi:mlt:52",
           "is_station": false
         },
         {
           "name": "Chungi No. 8",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.209413,
+          "lon": 71.46608,
+          "coord_source": "ext:safar.fyi:mlt:477",
           "is_station": false
         },
         {
           "name": "Chungi No. 7",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.207915,
+          "lon": 71.46273,
+          "coord_source": "ext:safar.fyi:mlt:477",
           "is_station": false
         },
         {
           "name": "Qasim Fort",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.203832,
+          "lon": 71.473559,
+          "coord_source": "auto:same-name:ext:safar.fyi:mlt:43",
           "is_station": false
         }
       ],
@@ -425,6 +437,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: Chungi No. 09 to Nadirabad Phatak",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A477"
         }
       ],
       "notes": "PMA IPTN Multan table, route 10: Feeder route, Phase-I, Mini Bus, MBS station served: Northern bypass, Qasim Fort, 6.34 km, commercial speed 18 km/h, round trip 52 min, headway 5 min, 10 buses. Alignment as printed: \"Faiz-e-Aam Chowk to Qasim Fort via Nawabpur road, Chungi no 8, Chungi no 7\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops. Roads: Nawabpur road."
@@ -447,33 +463,33 @@
         {
           "name": "BCG Chowk",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.17302,
+          "lon": 71.491442,
+          "coord_source": "ext:safar.fyi:mlt:53",
           "is_station": false
         },
         {
           "name": "Shah Abbas Chowk",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.174276,
+          "lon": 71.465475,
+          "coord_source": "ext:safar.fyi:mlt:53",
           "is_station": false
         },
         {
           "name": "Double Phatak",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.177837,
+          "lon": 71.4414,
+          "coord_source": "ext:safar.fyi:mlt:53",
           "is_station": false
         },
         {
           "name": "Dera Adda",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.189213,
+          "lon": 71.451528,
+          "coord_source": "ext:safar.fyi:mlt:53",
           "is_station": false
         }
       ],
@@ -481,6 +497,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: MFR11",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A53"
         }
       ],
       "notes": "PMA IPTN Multan table, route 11: Feeder route, Phase-I, Mini Bus, MBS station served: BCG Chowk, 6 km, commercial speed 18 km/h, round trip 50 min, headway 5 min, 10 buses. Alignment as printed: \"BCG Chowk to Dera Adda via Shah Abbas Chowk, Double Phatak\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops. Both terminals appear on current multan-feeder route(s) MFR11, so the corridor is at least partly served today."
@@ -510,26 +530,26 @@
         },
         {
           "name": "MDA Chowk",
-          "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "name_ur": "ایم ڈی اے چوک",
+          "lat": 30.209591,
+          "lon": 71.449928,
+          "coord_source": "auto:same-name:osm:node/1921953844",
           "is_station": false
         },
         {
           "name": "Nawa Shehr",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.204502,
+          "lon": 71.438288,
+          "coord_source": "auto:interpolated",
           "is_station": false
         },
         {
           "name": "Airport Road",
-          "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "name_ur": "ایئرپورٹ روڈ",
+          "lat": 30.199413,
+          "lon": 71.426647,
+          "coord_source": "auto:osm:way/415140967",
           "is_station": false
         }
       ],
@@ -559,25 +579,25 @@
         {
           "name": "Dera Adda",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.189213,
+          "lon": 71.451528,
+          "coord_source": "ext:safar.fyi:mlt:45",
           "is_station": false
         },
         {
           "name": "Nishter Hospital",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.203967,
+          "lon": 71.443375,
+          "coord_source": "ext:safar.fyi:mlt:45",
           "is_station": false
         },
         {
           "name": "Airport",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.19617,
+          "lon": 71.426227,
+          "coord_source": "auto:same-name:ext:safar.fyi:mlt:238",
           "is_station": false
         }
       ],
@@ -585,6 +605,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: MFR04B",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A45"
         }
       ],
       "notes": "PMA IPTN Multan table, route 13: Feeder route, Phase-II, Mini Bus, 5.14 km, commercial speed 18 km/h, round trip 44 min, headway 5 min, 9 buses. Alignment as printed: \"Dera Adda to Airport Via Nishter Hospital\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops. Both terminals appear on current multan-feeder route(s) MFR12A, so the corridor is at least partly served today."
@@ -607,17 +631,17 @@
         {
           "name": "Railway Station",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.182,
+          "lon": 71.444664,
+          "coord_source": "auto:osm:node/4354708967",
           "is_station": false
         },
         {
           "name": "Suraj Miani",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.227007,
+          "lon": 71.424241,
+          "coord_source": "ext:safar.fyi:mlt:41",
           "is_station": false
         }
       ],
@@ -625,6 +649,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: MFR02",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A41"
         }
       ],
       "notes": "PMA IPTN Multan table, route 14: Feeder route, Phase-II, Mini Bus, 5.54 km, commercial speed 18 km/h, round trip 47 min, headway 5 min, 9 buses. Alignment as printed: \"Railway Station to Suraj Miani via Shaukat Hydari Road\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Roads: Shaukat Hydari Road."
@@ -647,17 +675,17 @@
         {
           "name": "Multan Bypass",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.167471,
+          "lon": 71.506194,
+          "coord_source": "auto:osm:way/73539762",
           "is_station": false
         },
         {
           "name": "Vehari Chowk",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.175301,
+          "lon": 71.50951,
+          "coord_source": "ext:safar.fyi:mlt:37",
           "is_station": false
         }
       ],
@@ -665,6 +693,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: Metro Bus",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A37"
         }
       ],
       "notes": "PMA IPTN Multan table, route 15: Feeder route, Phase-II, Mini Bus, 5.69 km, commercial speed 18 km/h, round trip 48 min, headway 5 min, 10 buses. Alignment as printed: \"Multan Bypass to Vehri Chowk Via Budhala Road\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Roads: Budhala Road."
@@ -703,9 +735,9 @@
         {
           "name": "Vehari Chowk",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.175301,
+          "lon": 71.50951,
+          "coord_source": "auto:same-name:ext:safar.fyi:mlt:37",
           "is_station": false
         }
       ],
@@ -735,25 +767,25 @@
         {
           "name": "Eid Gah",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.209786,
+          "lon": 71.477847,
+          "coord_source": "ext:safar.fyi:mlt:489",
           "is_station": false
         },
         {
           "name": "Khooni Burj",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.187387,
+          "lon": 71.475228,
+          "coord_source": "auto:osm:way/900521749",
           "is_station": false
         },
         {
           "name": "Dera Adda",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.189213,
+          "lon": 71.451528,
+          "coord_source": "ext:safar.fyi:mlt:489",
           "is_station": false
         }
       ],
@@ -761,6 +793,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: Dera Adda to Dehar Chowk",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A489"
         }
       ],
       "notes": "PMA IPTN Multan table, route 17: Feeder route, Phase-II, Mini Bus, 5.11 km, commercial speed 18 km/h, round trip 44 min, headway 5 min, 9 buses. Alignment as printed: \"Eid Gah to Dera Adda via Eid gah road Multan Express road, Khooni Burj\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops. Roads: Eid gah road Multan Express road. Both terminals appear on current multan-feeder route(s) MFR01/MFR01B/MFR01C, so the corridor is at least partly served today."
@@ -783,9 +819,9 @@
         {
           "name": "Railway Station",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.182,
+          "lon": 71.444664,
+          "coord_source": "auto:osm:node/4354708967",
           "is_station": false
         },
         {
@@ -823,17 +859,17 @@
         {
           "name": "Dera Adda",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.189213,
+          "lon": 71.451528,
+          "coord_source": "ext:safar.fyi:mlt:489",
           "is_station": false
         },
         {
           "name": "Jheel Stop",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.178804,
+          "lon": 71.416725,
+          "coord_source": "auto:osm:node/4944784721",
           "is_station": false
         }
       ],
@@ -841,6 +877,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: Dera Adda to Dehar Chowk",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A489"
         }
       ],
       "notes": "PMA IPTN Multan table, route 19: Feeder route, Phase-II, Mini Bus, 3.65 km, commercial speed 18 km/h, round trip 34 min, headway 5 min, 7 buses. Alignment as printed: \"Dera Adda to Jheel Stop via Sher Shah Road\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Roads: Sher Shah Road."
@@ -863,9 +903,9 @@
         {
           "name": "Dera Adda",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.189213,
+          "lon": 71.451528,
+          "coord_source": "ext:safar.fyi:mlt:489",
           "is_station": false
         },
         {
@@ -881,6 +921,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: Dera Adda to Dehar Chowk",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A489"
         }
       ],
       "notes": "PMA IPTN Multan table, route 20: Feeder route, Phase-III, Standard Bus, 3.12 km, commercial speed 18 km/h, round trip 31 min, headway 5 min, 6 buses. Alignment as printed: \"Dera Adda to CSD Garden via Quaid e Azam Road\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Roads: Quaid e Azam Road."
@@ -903,17 +947,17 @@
         {
           "name": "Nag Shah",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.110498,
+          "lon": 71.420385,
+          "coord_source": "ext:safar.fyi:mlt:477",
           "is_station": false
         },
         {
           "name": "Railway Station",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.182,
+          "lon": 71.444664,
+          "coord_source": "auto:osm:node/4354708967",
           "is_station": false
         }
       ],
@@ -921,6 +965,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: Chungi No. 09 to Nadirabad Phatak",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A477"
         }
       ],
       "notes": "PMA IPTN Multan table, route 21: Feeder route, Phase-III, Standard Bus, 8.17 km, commercial speed 18 km/h, round trip 64 min, headway 5 min, 13 buses. Alignment as printed: \"Nag Shah to Railway Station\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Both terminals appear on current multan-feeder route(s) MFR04B/MFR09/MFR09B/MFR09C, so the corridor is at least partly served today."
@@ -943,9 +991,9 @@
         {
           "name": "Basti Kapper",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.246073,
+          "lon": 71.566121,
+          "coord_source": "auto:osm:node/4755921484",
           "is_station": false
         },
         {
@@ -991,9 +1039,9 @@
         {
           "name": "Vehari Chowk",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.175301,
+          "lon": 71.50951,
+          "coord_source": "ext:safar.fyi:mlt:37",
           "is_station": false
         }
       ],
@@ -1001,6 +1049,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: Metro Bus",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A37"
         }
       ],
       "notes": "PMA IPTN Multan table, route 23: Feeder route, Phase-III, Standard Bus, 10.4 km, commercial speed 18 km/h, round trip 79 min, headway 5 min, 16 buses. Alignment as printed: \"Basti Bhir to Vehari Chowk via Link Road 2\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Roads: Link Road 2."
@@ -1079,9 +1131,9 @@
         {
           "name": "Chungi No. 14",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.186589,
+          "lon": 71.488359,
+          "coord_source": "auto:osm:node/1921952556",
           "is_station": false
         }
       ],
@@ -1119,9 +1171,9 @@
         {
           "name": "Railway Station",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.182,
+          "lon": 71.444664,
+          "coord_source": "auto:osm:node/4354708967",
           "is_station": false
         }
       ],
@@ -1159,33 +1211,33 @@
         {
           "name": "Vehari Chowk",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.174,
+          "lon": 71.508333,
+          "coord_source": "ext:safar.fyi:mlt:53",
           "is_station": false
         },
         {
           "name": "BCG Chowk",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.17302,
+          "lon": 71.491442,
+          "coord_source": "ext:safar.fyi:mlt:53",
           "is_station": false
         },
         {
           "name": "Double Phatak",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.177837,
+          "lon": 71.4414,
+          "coord_source": "ext:safar.fyi:mlt:53",
           "is_station": false
         },
         {
           "name": "Railway Station",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.182,
+          "lon": 71.444664,
+          "coord_source": "auto:osm:node/4354708967",
           "is_station": false
         }
       ],
@@ -1193,6 +1245,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: MFR11",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A53"
         }
       ],
       "notes": "PMA IPTN Multan table, route 27: Express route, Phase-IV, Standard Bus, 13.0 km, commercial speed 25 km/h, round trip 72 min, headway 5 min, 14 buses. Alignment as printed: \"Chowk Kumharan to Railway Station via Vehari Chowk, BCG chowk, Double Phatak\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops."
@@ -1223,9 +1279,9 @@
         {
           "name": "Airport",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.19617,
+          "lon": 71.426227,
+          "coord_source": "ext:safar.fyi:mlt:238",
           "is_station": false
         }
       ],
@@ -1233,6 +1289,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: MFR12A",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A238"
         }
       ],
       "notes": "PMA IPTN Multan table, route 28: Express route, Phase-IV, Mini Bus, 14.0 km, commercial speed 25 km/h, round trip 77 min, headway 5 min, 15 buses. Alignment as printed: \"Vehari Road bypass to Airport\". Transcribed from a rendered image of the PDF because its text layer is misaligned."
@@ -1255,17 +1315,17 @@
         {
           "name": "Bahawalpur Bypass",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.145655,
+          "lon": 71.49364,
+          "coord_source": "ext:safar.fyi:mlt:44",
           "is_station": false
         },
         {
           "name": "Railway Station",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.182,
+          "lon": 71.444664,
+          "coord_source": "auto:osm:node/4354708967",
           "is_station": false
         }
       ],
@@ -1273,6 +1333,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: MFR04",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A44"
         }
       ],
       "notes": "PMA IPTN Multan table, route 29: Express route, Phase-IV, Standard Bus, 10.0 km, commercial speed 25 km/h, round trip 58 min, headway 5 min, 12 buses. Alignment as printed: \"Bhawalpur Bypass to Railway Station\". Transcribed from a rendered image of the PDF because its text layer is misaligned."
@@ -1303,9 +1367,9 @@
         {
           "name": "Railway Station",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.182,
+          "lon": 71.444664,
+          "coord_source": "auto:osm:node/4354708967",
           "is_station": false
         }
       ],
@@ -1343,9 +1407,9 @@
         {
           "name": "Railway Station",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.182,
+          "lon": 71.444664,
+          "coord_source": "auto:osm:node/4354708967",
           "is_station": false
         }
       ],
@@ -1374,18 +1438,18 @@
       "stops": [
         {
           "name": "Khanewal",
-          "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "name_ur": "خانیوال روڈ",
+          "lat": 30.209772,
+          "lon": 71.489529,
+          "coord_source": "auto:nominatim:way/434649411",
           "is_station": false
         },
         {
           "name": "Vehari Chowk",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.175301,
+          "lon": 71.50951,
+          "coord_source": "ext:safar.fyi:mlt:37",
           "is_station": false
         }
       ],
@@ -1393,6 +1457,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: Metro Bus",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A37"
         }
       ],
       "notes": "PMA IPTN Multan table, route 32: Sub Urban route, Phase-V, Standard Bus, 49 km, commercial speed 40 km/h, round trip 157 min, headway 15 min, 10 buses. Alignment as printed: \"Khanewal to Vehari Chowk\". Transcribed from a rendered image of the PDF because its text layer is misaligned."
@@ -1415,9 +1483,9 @@
         {
           "name": "Makhdoom Rasheed",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.185209,
+          "lon": 71.49037,
+          "coord_source": "auto:nominatim:way/806990214",
           "is_station": false
         },
         {
@@ -1535,17 +1603,17 @@
         {
           "name": "Muzaffargarh",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.167782,
+          "lon": 71.505216,
+          "coord_source": "auto:nominatim:way/1296584420",
           "is_station": false
         },
         {
           "name": "Dera Adda",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.189213,
+          "lon": 71.451528,
+          "coord_source": "ext:safar.fyi:mlt:489",
           "is_station": false
         }
       ],
@@ -1553,6 +1621,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: Dera Adda to Dehar Chowk",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A489"
         }
       ],
       "notes": "PMA IPTN Multan table, route 36: Sub Urban route, Phase-V, Standard Bus, 34 km, commercial speed 40 km/h, round trip 112 min, headway 15 min, 7 buses. Alignment as printed: \"Muzaffargarh to Dera Adda\". Transcribed from a rendered image of the PDF because its text layer is misaligned."
@@ -1575,9 +1647,9 @@
         {
           "name": "Larr",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.01806,
+          "lon": 71.495283,
+          "coord_source": "ext:safar.fyi:mlt:48",
           "is_station": false
         },
         {
@@ -1593,6 +1665,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: MFR08B",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A48"
         }
       ],
       "notes": "PMA IPTN Multan table, route 37: Sub Urban route, Phase-V, Standard Bus, 18 km, commercial speed 40 km/h, round trip 64 min, headway 15 min, 4 buses. Alignment as printed: \"Larr to GBS\". Transcribed from a rendered image of the PDF because its text layer is misaligned. GBS is presumably the General Bus Stand."
@@ -1615,9 +1691,9 @@
         {
           "name": "Head Muhammad Wala",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.298178,
+          "lon": 71.344804,
+          "coord_source": "auto:osm:node/970514963",
           "is_station": false
         },
         {
@@ -1743,41 +1819,41 @@
         {
           "name": "Chungi No. 9",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.208083,
+          "lon": 71.471389,
+          "coord_source": "auto:same-name:ext:safar.fyi:mlt:477",
           "is_station": false
         },
         {
           "name": "SP Chowk",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.192035,
+          "lon": 71.442146,
+          "coord_source": "ext:safar.fyi:mlt:53",
           "is_station": false
         },
         {
           "name": "Double Phatak",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.177837,
+          "lon": 71.4414,
+          "coord_source": "ext:safar.fyi:mlt:53",
           "is_station": false
         },
         {
           "name": "Shah Abbas Chowk",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.174276,
+          "lon": 71.465475,
+          "coord_source": "ext:safar.fyi:mlt:53",
           "is_station": false
         },
         {
           "name": "BCG Chowk",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.17302,
+          "lon": 71.491442,
+          "coord_source": "ext:safar.fyi:mlt:53",
           "is_station": false
         }
       ],
@@ -1785,6 +1861,10 @@
         {
           "title": "Integrated Public Transport Network Multan (route table, read from rendered page image)",
           "url": "https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf"
+        },
+        {
+          "title": "safar.fyi: MFR11",
+          "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A53"
         }
       ],
       "notes": "PMA IPTN Multan table, line Orange Line: Metro Bus System line, MBS, Articulated, 14.94 km, commercial speed 27 km/h, round trip 76 min, headway 3 min, 29 buses. Alignment as printed: \"Chowk Kumharan to BCG Chowk via Chungi no. 9, SP Chowk, Double Phatak, Shah Abbas Chowk\". Transcribed from a rendered image of the PDF because its text layer is misaligned. Stops = terminals plus the non-road via-points in table order; these are planning via-points, not confirmed bus stops. Route-info blogs (e.g. graana.com) describe an Orange Line running Chowk Kumharan - BCG Chowk, and a Feb 2024 Punjab fare notification mentions an 'Orange Line Multan Metro Bus'; whether it runs today, and on which alignment, is unverified."
@@ -1807,25 +1887,25 @@
         {
           "name": "Nag Shah",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.110498,
+          "lon": 71.420385,
+          "coord_source": "auto:same-name:ext:safar.fyi:mlt:477",
           "is_station": false
         },
         {
           "name": "Double Phatak",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.177837,
+          "lon": 71.4414,
+          "coord_source": "auto:same-name:ext:safar.fyi:mlt:53",
           "is_station": false
         },
         {
           "name": "Aam Khas Bagh",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.197418,
+          "lon": 71.48162,
+          "coord_source": "auto:osm:way/48460756",
           "is_station": false
         },
         {
@@ -1870,42 +1950,42 @@
       "stops": [
         {
           "name": "Multan Airport",
-          "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "name_ur": "ملتان بین الاقوامی ہوائی اڈا",
+          "lat": 30.19382,
+          "lon": 71.424136,
+          "coord_source": "auto:osm:node/1921954022",
           "is_station": false
         },
         {
           "name": "Chungi No. 1",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.204494,
+          "lon": 71.437481,
+          "coord_source": "auto:same-name:ext:safar.fyi:mlt:238",
           "is_station": false
         },
         {
           "name": "Kalma Chowk",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.201065,
+          "lon": 71.454304,
+          "coord_source": "auto:same-name:osm:node/4729230492",
           "is_station": false
         },
         {
           "name": "Khooni Burj Chowk",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.187387,
+          "lon": 71.475228,
+          "coord_source": "auto:osm:way/900521749",
           "is_station": false
         },
         {
           "name": "Vehari Chowk",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 30.175301,
+          "lon": 71.50951,
+          "coord_source": "auto:same-name:ext:safar.fyi:mlt:37",
           "is_station": false
         },
         {

@@ -165,6 +165,13 @@ function plausible(stops, i, c, spacingKm) {
   // a place already used by a differently named stop on this route is not this stop
   const key = nameKey(stops[i].name);
   if (stops.some((o, j) => j !== i && hasCoord(o) && !isInterpolated(o) && nameKey(o.name) !== key && dist(o, c) < 40)) return null;
+  // A long route whose terminal lands next to its other terminal is almost always a wrong match
+  // on a common name ("Madina Chowk" exists in both towns), unless the route is a loop.
+  const last = stops.length - 1;
+  if (stops.length >= 8 && (i === 0 || i === last)) {
+    const other = stops[i === 0 ? last : 0];
+    if (hasCoord(other) && nameKey(other.name) !== key && dist(other, c) < 1500) return null;
+  }
   const { prev, next } = neighbours(stops, i);
   let penalty = 0;
   for (const j of [prev, next]) {

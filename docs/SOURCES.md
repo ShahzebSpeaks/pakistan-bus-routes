@@ -189,6 +189,8 @@ Generated 2026-09-19 from `data/systems`. Facts (route numbers, stop names, fare
 - [CDA timetable ST-01 (official)](https://www.cda.gov.pk/Assets/metro_transit_route/ST-01_Forward.pdf)
 - [CDA timetable ST-02 (official)](https://www.cda.gov.pk/Assets/metro_transit_route/ST-02_Forward.pdf)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/1%3Ast_2)
+- [Transit Map of Islamabad V-07 (CDA), legend](https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf)
+- [safar.fyi: Blue Line](https://www.safar.fyi/islamabad/transit-lines/1%3Ablue)
 
 ## Green Electric Bus Jhang (jhang)
 
@@ -247,6 +249,16 @@ Generated 2026-09-19 from `data/systems`. Facts (route numbers, stop names, fare
 - [ADB assures $1bn support for Karachi Circular Railway revival](https://www.pakistantoday.com.pk/2026/05/13/adb-assures-dollar1bn-support-for-karachi-circular-railway-revival) · Pakistan Today · 2026-05-13
 - [OpenStreetMap Overpass extract (Karachi bbox), research/cache/osm_stations_stops.json](https://www.openstreetmap.org)
 
+## Minibus and coach routes (2010 list) (karachi)
+
+- [Bus Routes Karachi (January 2010)](https://urckarachi.org/wp-content/uploads/2020/07/Bus-Routes-Karachi.pdf) · Urban Resource Centre, Karachi (compiled from adiekhan.blogspot.com, 2009) · 2010-01
+- [Intra-city provisional fare list for buses, minibuses and coaches](https://mwb.sindh.gov.pk/storage/Transport/intracity.jpeg) · Regional Transport Authority Karachi · 2026-04-04 · official
+
+## Private minibuses and coaches (karachi)
+
+- [RastaYaar: Karachi bus route finder, src/data/routes.ts](https://github.com/itsdeewankumar-tech/rastayaar) · itsdeewankumar-tech (GitHub) · 2026-09-07
+- [Intra-city provisional fare list for buses, minibuses and coaches](https://mwb.sindh.gov.pk/storage/Transport/intracity.jpeg) · Regional Transport Authority Karachi · 2026-04-04 · official
+
 ## Peoples Bus Service (karachi)
 
 - [Karachi Bus Route Map & Full Provincial Route Directory](https://smta.gos.pk/route-map) · Sindh Mass Transit Authority · 2026 · official
@@ -286,6 +298,10 @@ Generated 2026-09-19 from `data/systems`. Facts (route numbers, stop names, fare
 
 - [Intra-city provisional fare list for buses, minibuses and coaches](https://mwb.sindh.gov.pk/storage/Transport/intracity.jpeg) · Regional Transport Authority Karachi · 2026-04-04 · official
 - [Fares, Transport & Mass Transit Department Sindh](https://transport.sindh.gov.pk/fares) · Government of Sindh · official
+
+## Yellow Line BRT direct and feeder services (planned) (karachi)
+
+- [Environmental Impact Assessment, BRT Yellow Line, Vol 1 (19-03-2024)](https://urckarachi.org/wp-content/uploads/2024/09/BRT-Yellow-LIne-Volume-1-EIA-19-03-24_compressed.pdf) · Sindh Mass Transit Authority (copy hosted by Urban Resource Centre) · 2024-03-19 · official
 
 ## Green Electric Bus Kasur (kasur)
 
@@ -360,6 +376,30 @@ Generated 2026-09-19 from `data/systems`. Facts (route numbers, stop names, fare
 - [Safar - Speedo RT-27](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-270)
 - [Safar - Speedo RT-28](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-272)
 
+## Planned feeder network (PMA IPTN) (lahore)
+
+- [Integrated Public Transport Network Lahore](https://pma.punjab.gov.pk/system/files?file=Lahore-+Public+Transport+Routes_1.pdf) · Punjab Masstransit Authority · official
+- [safar.fyi: Speedo RT-28](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-272)
+- [safar.fyi: Speedo RT-11](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-246)
+- [safar.fyi: EV03](https://www.safar.fyi/lahore/transit-lines/lhr%3Alahore-ptc-33)
+- [safar.fyi: Speedo RT-24](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-258)
+- [safar.fyi: Metro Bus](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-2)
+- [safar.fyi: Speedo RT-15](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-250)
+- [safar.fyi: Electric RT20](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-59)
+- [safar.fyi: Speedo RT-04](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-240)
+- [safar.fyi: Speedo RT-25](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-259)
+- [safar.fyi: Speedo RT-10](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-245)
+- [safar.fyi: Speedo RT-05](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-241)
+- [safar.fyi: Speedo RT-13](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-248)
+- [safar.fyi: Speedo RT-23](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-257)
+- [safar.fyi: Electric RT26](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-58)
+- [safar.fyi: Speedo RT-07](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-242)
+- [safar.fyi: Speedo RT-14](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-249)
+- [safar.fyi: Speedo RT-03](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-239)
+- [safar.fyi: Speedo RT-12](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-247)
+- [safar.fyi: Speedo RT-20](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-260)
+- [safar.fyi: Speedo RT-18](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-253)
+
 ## Lahore Metro - planned lines (lahore)
 
 - [Lahore Metro](https://en.wikipedia.org/wiki/Lahore_Metro) · Wikipedia
@@ -400,6 +440,7 @@ Generated 2026-09-19 from `data/systems`. Facts (route numbers, stop names, fare
 - [PTC fare table LOV-122](https://ptc.punjab.gov.pk/system/files?file=122.pdf)
 - [PTC fare table LOV-125](https://ptc.punjab.gov.pk/system/files?file=125_0.pdf)
 - [PTC fare table LOV-126](https://ptc.punjab.gov.pk/system/files?file=126_0.pdf)
+- [safar.fyi: Speedo RT-24](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-258)
 - [PTC fare table LOV-130](https://ptc.punjab.gov.pk/system/files?file=130.pdf)
 
 ## Peoples Bus Service Larkana (larkana)
@@ -466,6 +507,7 @@ Generated 2026-09-19 from `data/systems`. Facts (route numbers, stop names, fare
 - [safar.fyi Multan transit lines](https://www.safar.fyi/multan/transit-lines/mlt%3A40)
 - [safar.fyi Multan transit lines](https://www.safar.fyi/multan/transit-lines/mlt%3A41)
 - [safar.fyi Multan transit lines](https://www.safar.fyi/multan/transit-lines/mlt%3A42)
+- [safar.fyi: Ghanta Ghar to Ibne Sina Hospital](https://www.safar.fyi/multan/transit-lines/mlt%3A484)
 - [safar.fyi Multan transit lines](https://www.safar.fyi/multan/transit-lines/mlt%3A43)
 - [safar.fyi Multan transit lines](https://www.safar.fyi/multan/transit-lines/mlt%3A44)
 - [safar.fyi Multan transit lines](https://www.safar.fyi/multan/transit-lines/mlt%3A45)
@@ -480,6 +522,19 @@ Generated 2026-09-19 from `data/systems`. Facts (route numbers, stop names, fare
 - [safar.fyi Multan transit lines](https://www.safar.fyi/multan/transit-lines/mlt%3A54)
 - [safar.fyi Multan transit lines](https://www.safar.fyi/multan/transit-lines/mlt%3A55)
 - [safar.fyi Multan transit lines](https://www.safar.fyi/multan/transit-lines/mlt%3A56)
+
+## Planned feeder network (PMA IPTN) (multan)
+
+- [Integrated Public Transport Network Multan](https://pma.punjab.gov.pk/system/files?file=Multan+-+Public+Transport+Routes_0.pdf) · Punjab Masstransit Authority · official
+- [safar.fyi: Dera Adda to Dehar Chowk](https://www.safar.fyi/multan/transit-lines/mlt%3A489)
+- [safar.fyi: Metro Bus](https://www.safar.fyi/multan/transit-lines/mlt%3A37)
+- [safar.fyi: Chungi No. 09 to Nadirabad Phatak](https://www.safar.fyi/multan/transit-lines/mlt%3A477)
+- [safar.fyi: MFR11](https://www.safar.fyi/multan/transit-lines/mlt%3A53)
+- [safar.fyi: MFR04B](https://www.safar.fyi/multan/transit-lines/mlt%3A45)
+- [safar.fyi: MFR02](https://www.safar.fyi/multan/transit-lines/mlt%3A41)
+- [safar.fyi: MFR12A](https://www.safar.fyi/multan/transit-lines/mlt%3A238)
+- [safar.fyi: MFR04](https://www.safar.fyi/multan/transit-lines/mlt%3A44)
+- [safar.fyi: MFR08B](https://www.safar.fyi/multan/transit-lines/mlt%3A48)
 
 ## Multan Metrobus (multan)
 
@@ -606,7 +661,7 @@ Generated 2026-09-19 from `data/systems`. Facts (route numbers, stop names, fare
 - [Rawalpindi launches 45 electric buses; 80-bus fleet planned](https://profit.pakistantoday.com.pk/2025/11/19/rawalpindi-launches-45-electric-buses-80-bus-fleet-planned/) · Profit · 2025-11-19
 - [Safar - Islamabad/Rawalpindi transit lines](https://www.safar.fyi/map) · Safar
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/rwp%3A100)
-- [Safar route page](https://www.safar.fyi/islamabad/transit-lines/rwp%3A172)
+- [safar.fyi: Saddar Stop to Bhatta Chowk](https://www.safar.fyi/islamabad/transit-lines/rwp%3A172)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/rwp%3A92)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/rwp%3A93)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/rwp%3A94)

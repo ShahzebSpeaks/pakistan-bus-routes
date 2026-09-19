@@ -48,29 +48,30 @@ describe('compiled dataset', () => {
     }
   });
 
+  // Collect problems first and assert once: calling expect() on every one of ~70k shape points
+  // makes the test slower than vitest's timeout.
   it('shapes decode and stay inside the city bounding box', () => {
+    const problems: string[] = [];
+    const pad = 0.2; // routes may run a little past the city box
     for (const { data } of cities) {
       const [s, w, n, e] = data.city.bbox;
       for (const r of data.routes) {
         if (!r.shape) continue;
         const line = decodePolyline(r.shape);
-        expect(line.length, `${r.key} has an empty shape`).toBeGreaterThan(1);
-        const pad = 0.2; // routes may run a little past the city box
-        for (const [la, lo] of line) {
-          expect(la).toBeGreaterThan(s - pad);
-          expect(la).toBeLessThan(n + pad);
-          expect(lo).toBeGreaterThan(w - pad);
-          expect(lo).toBeLessThan(e + pad);
-        }
+        if (line.length < 2) problems.push(`${r.key}: empty shape`);
+        const outside = line.filter(([la, lo]) => la < s - pad || la > n + pad || lo < w - pad || lo > e + pad).length;
+        if (outside) problems.push(`${r.key}: ${outside} shape point(s) outside ${data.city.id}`);
       }
     }
+    expect(problems).toEqual([]);
   });
 
   it('route length roughly matches the distance between its stops', () => {
+    const problems: string[] = [];
     for (const { data } of cities) {
+      const stops = new Map(data.stops.map((x) => [x.id, x]));
       for (const r of data.routes) {
         if (r.stops.length < 3 || !r.shape) continue;
-        const stops = new Map(data.stops.map((x) => [x.id, x]));
         let chain = 0;
         for (let i = 1; i < r.stops.length; i++) {
           const a = stops.get(r.stops[i - 1])!;
@@ -78,10 +79,10 @@ describe('compiled dataset', () => {
           chain += haversine(a.lat, a.lon, b.lat, b.lon) / 1000;
         }
         const along = r.cum_km[r.cum_km.length - 1];
-        expect(along, `${r.key}: ${along} km along a ${chain.toFixed(1)} km stop chain`).toBeLessThan(chain * 2.2 + 5);
-        expect(along).toBeGreaterThan(chain * 0.6);
+        if (along > chain * 2.2 + 5 || along < chain * 0.6) problems.push(`${r.key}: ${along} km along a ${chain.toFixed(1)} km stop chain`);
       }
     }
+    expect(problems).toEqual([]);
   });
 
   it('plans a journey along a real route in the biggest city', () => {
