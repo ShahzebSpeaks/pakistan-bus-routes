@@ -24,4 +24,15 @@ If you publish a modified version of the database, you must share it under the O
 
 Route numbers, stop names, fares and timings are factual information compiled from public sources: government transit authorities, Wikipedia, news organisations and route-guide websites. Each system file lists its sources, and [docs/SOURCES.md](docs/SOURCES.md) lists them all. Maps, PDFs, images and text from those sources are **not** redistributed here.
 
+## Third-party route guides
+
+Some routes and stop positions come from unofficial compilations. They are credited on every route that uses them and listed in docs/SOURCES.md:
+
+- **safar.fyi**: stop positions for Islamabad, Rawalpindi, Lahore, Multan and 35 Punjab cities (coord_source ).
+- **RastaYaar** (github.com/itsdeewankumar-tech/rastayaar): current Karachi minibus and coach stop lists (system ).
+- **Urban Resource Centre, Karachi**: the January 2010 list of minibus and coach routes (system , shown as old routes only).
+- **Punjab Transport Company**: Lahore wagon fare tables (system ).
+
+None of these publish a data licence. If a rights holder objects, their data will be removed. [docs/OUTREACH.md](docs/OUTREACH.md) has the messages for asking each of them for permission.
+
 This project is independent and is not endorsed by any transit authority. The data is provided as is, without warranty. Always confirm with the operator before travelling.
