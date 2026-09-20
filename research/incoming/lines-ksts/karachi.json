@@ -1,0 +1,3011 @@
+{
+  "city": "karachi",
+  "source": "Karachi Smart Transit System (MIT)",
+  "fetched_at": "2026-09-21",
+  "lines": [
+    {
+      "id": "karachi-brt:Green",
+      "code": "Green",
+      "name": "Green Line Corridor",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Numaish Chowrangi",
+          "name_ur": "",
+          "lat": 24.87240426312202,
+          "lon": 67.03530333664018
+        },
+        {
+          "name": "Patel Para (Guru Mandir) Station",
+          "name_ur": "",
+          "lat": 24.8811317,
+          "lon": 67.0384163
+        },
+        {
+          "name": "Lasbela Chowk Station",
+          "name_ur": "",
+          "lat": 24.8860049,
+          "lon": 67.0345593
+        },
+        {
+          "name": "Sanitary Market (Gulbahar) Station",
+          "name_ur": "",
+          "lat": 24.8950959,
+          "lon": 67.0307358
+        },
+        {
+          "name": "Nazimabad No.1 Station",
+          "name_ur": "",
+          "lat": 24.8999637,
+          "lon": 67.0304847
+        },
+        {
+          "name": "Enquiry Office Station",
+          "name_ur": "",
+          "lat": 24.9066014,
+          "lon": 67.031017
+        },
+        {
+          "name": "Annu Bhai Park Station",
+          "name_ur": "",
+          "lat": 24.9171505,
+          "lon": 67.0313289
+        },
+        {
+          "name": "Board Office",
+          "name_ur": "",
+          "lat": 24.9268943,
+          "lon": 67.0298399
+        },
+        {
+          "name": "Hyderi Station",
+          "name_ur": "",
+          "lat": 24.9381443,
+          "lon": 67.0428257
+        },
+        {
+          "name": "Five Star Chowrangi Station",
+          "name_ur": "",
+          "lat": 24.9460741,
+          "lon": 67.0503766
+        },
+        {
+          "name": "Jummah Bazaar (Bayani Center) Station",
+          "name_ur": "",
+          "lat": 24.9505593,
+          "lon": 67.05448
+        },
+        {
+          "name": "Erum Shopping Mall (Shadman No.2) Station",
+          "name_ur": "",
+          "lat": 24.9587886,
+          "lon": 67.0615444
+        },
+        {
+          "name": "Nagan Chowrangi",
+          "name_ur": "",
+          "lat": 24.9659013,
+          "lon": 67.0670411
+        },
+        {
+          "name": "U.P. More Station",
+          "name_ur": "",
+          "lat": 24.9737143,
+          "lon": 67.0668378
+        },
+        {
+          "name": "Road 4200 (Saleem Centre) Station",
+          "name_ur": "",
+          "lat": 24.9782804,
+          "lon": 67.066992
+        },
+        {
+          "name": "Power House Chowrangi Station",
+          "name_ur": "",
+          "lat": 24.9842907,
+          "lon": 67.0661188
+        },
+        {
+          "name": "Road 2400 (Aisha Complex) Station",
+          "name_ur": "",
+          "lat": 24.9927508,
+          "lon": 67.0653392
+        },
+        {
+          "name": "2 Minute Chowrangi Station",
+          "name_ur": "",
+          "lat": 25.0006681,
+          "lon": 67.0649429
+        },
+        {
+          "name": "Surjani Chowrangi (4K) Station",
+          "name_ur": "",
+          "lat": 25.0051709,
+          "lon": 67.0648499
+        },
+        {
+          "name": "Karimi Chowrangi Station",
+          "name_ur": "",
+          "lat": 25.0113722,
+          "lon": 67.0645019
+        },
+        {
+          "name": "KDA Flats Station",
+          "name_ur": "",
+          "lat": 25.0176914,
+          "lon": 67.064137
+        },
+        {
+          "name": "Abdullah Chowk Station",
+          "name_ur": "",
+          "lat": 25.0274073,
+          "lon": 67.0642646
+        }
+      ]
+    },
+    {
+      "id": "karachi-brt:Orange",
+      "code": "Orange",
+      "name": "Orange Line Corridor",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Orangi 5 No.",
+          "name_ur": "",
+          "lat": 24.9421791,
+          "lon": 66.9984457
+        },
+        {
+          "name": "Pone Panch Chowrangi",
+          "name_ur": "",
+          "lat": 24.9388544,
+          "lon": 67.0048105
+        },
+        {
+          "name": "Abdullah College",
+          "name_ur": "",
+          "lat": 24.929209,
+          "lon": 67.0253194
+        },
+        {
+          "name": "Board Office",
+          "name_ur": "",
+          "lat": 24.9268943,
+          "lon": 67.0298399
+        }
+      ]
+    },
+    {
+      "id": "karachi-brt:Red",
+      "code": "Red",
+      "name": "Red Line Corridor",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Numaish Chowrangi",
+          "name_ur": "",
+          "lat": 24.87240426312202,
+          "lon": 67.03530333664018
+        },
+        {
+          "name": "Khudadad Colony",
+          "name_ur": "",
+          "lat": 24.872591906324153,
+          "lon": 67.04574534198314
+        },
+        {
+          "name": "Islamia College",
+          "name_ur": "",
+          "lat": 24.878901925255455,
+          "lon": 67.0464204694135
+        },
+        {
+          "name": "Usmania Park",
+          "name_ur": "",
+          "lat": 24.88373792567521,
+          "lon": 67.05350953320101
+        },
+        {
+          "name": "Jail Chowrangi",
+          "name_ur": "",
+          "lat": 24.885780222032384,
+          "lon": 67.05730204929694
+        },
+        {
+          "name": "Faizan-e-Madina",
+          "name_ur": "",
+          "lat": 24.893789783357384,
+          "lon": 67.06400373172573
+        },
+        {
+          "name": "Civic Center",
+          "name_ur": "",
+          "lat": 24.901152602669395,
+          "lon": 67.07302080324726
+        },
+        {
+          "name": "Expo Centre",
+          "name_ur": "",
+          "lat": 24.90288367002563,
+          "lon": 67.07567426176806
+        },
+        {
+          "name": "Bait-ul-Mukarram",
+          "name_ur": "",
+          "lat": 24.90724729911918,
+          "lon": 67.0821156294626
+        },
+        {
+          "name": "Urdu University",
+          "name_ur": "",
+          "lat": 24.911896307929332,
+          "lon": 67.08883359601032
+        },
+        {
+          "name": "NIPA",
+          "name_ur": "",
+          "lat": 24.917581440310872,
+          "lon": 67.09700022450569
+        },
+        {
+          "name": "Safari Park",
+          "name_ur": "",
+          "lat": 24.92505083754034,
+          "lon": 67.10597568600606
+        },
+        {
+          "name": "NED University",
+          "name_ur": "",
+          "lat": 24.929764671382994,
+          "lon": 67.11554709383492
+        },
+        {
+          "name": "Karachi University",
+          "name_ur": "",
+          "lat": 24.9340174681357,
+          "lon": 67.12930410916971
+        },
+        {
+          "name": "Sheikh Zayed Islamic Center",
+          "name_ur": "",
+          "lat": 24.934354183237364,
+          "lon": 67.13057088340703
+        },
+        {
+          "name": "Mosamiyat",
+          "name_ur": "",
+          "lat": 24.9366308938889,
+          "lon": 67.14142710220455
+        },
+        {
+          "name": "Jauhar Complex",
+          "name_ur": "",
+          "lat": 24.937877403295552,
+          "lon": 67.14839398143384
+        },
+        {
+          "name": "Safoora Chowrangi",
+          "name_ur": "",
+          "lat": 24.939418567854688,
+          "lon": 67.15618076871317
+        },
+        {
+          "name": "Race Course",
+          "name_ur": "",
+          "lat": 24.938536231841834,
+          "lon": 67.1615078809408
+        },
+        {
+          "name": "Check Post 6",
+          "name_ur": "",
+          "lat": 24.934545475808225,
+          "lon": 67.17713018444539
+        },
+        {
+          "name": "Acacia Golf Club",
+          "name_ur": "",
+          "lat": 24.919083966816252,
+          "lon": 67.18664214148241
+        },
+        {
+          "name": "Tank Chowk",
+          "name_ur": "",
+          "lat": 24.912566334753254,
+          "lon": 67.1858099546142
+        },
+        {
+          "name": "Model Colony",
+          "name_ur": "",
+          "lat": 24.90347282541858,
+          "lon": 67.18196503888005
+        },
+        {
+          "name": "Malir Halt",
+          "name_ur": "",
+          "lat": 24.884567796344673,
+          "lon": 67.17534284081654
+        }
+      ]
+    },
+    {
+      "id": "karachi-brt:Yellow",
+      "code": "Yellow",
+      "name": "Yellow Line Corridor",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Numaish Chowrangi",
+          "name_ur": "",
+          "lat": 24.87240426312202,
+          "lon": 67.03530333664018
+        },
+        {
+          "name": "Khalid Bin Waleed Road",
+          "name_ur": "",
+          "lat": 24.867504898232795,
+          "lon": 67.05222073727084
+        },
+        {
+          "name": "Shahrah e Faisal",
+          "name_ur": "",
+          "lat": 24.859240242123473,
+          "lon": 67.05262987717214
+        },
+        {
+          "name": "Naval Estate",
+          "name_ur": "",
+          "lat": 24.85181024943895,
+          "lon": 67.05305233143332
+        },
+        {
+          "name": "NMC",
+          "name_ur": "",
+          "lat": 24.84671915873347,
+          "lon": 67.05574776839089
+        },
+        {
+          "name": "Circular Avenue",
+          "name_ur": "",
+          "lat": 24.840988666376212,
+          "lon": 67.06006715576254
+        },
+        {
+          "name": "Sunset Boulevard",
+          "name_ur": "",
+          "lat": 24.831641537613198,
+          "lon": 67.06020628981624
+        },
+        {
+          "name": "Khayaban-e-Ittehad",
+          "name_ur": "",
+          "lat": 24.803347749762963,
+          "lon": 67.07767191476876
+        },
+        {
+          "name": "KPT Interchange 2",
+          "name_ur": "",
+          "lat": 24.829448091011514,
+          "lon": 67.08085653134863
+        },
+        {
+          "name": "KPT Interchange 1",
+          "name_ur": "",
+          "lat": 24.830871733331776,
+          "lon": 67.08012134424729
+        },
+        {
+          "name": "Brookes Chowrangi",
+          "name_ur": "",
+          "lat": 24.834716129393808,
+          "lon": 67.09902092306002
+        },
+        {
+          "name": "Toyota Southern",
+          "name_ur": "",
+          "lat": 24.836470091621877,
+          "lon": 67.10870652015737
+        },
+        {
+          "name": "Sector 23",
+          "name_ur": "",
+          "lat": 24.83663704099525,
+          "lon": 67.10964085129434
+        },
+        {
+          "name": "Shan Chowrangi",
+          "name_ur": "",
+          "lat": 24.838799619975536,
+          "lon": 67.1209064402609
+        },
+        {
+          "name": "National Refinery",
+          "name_ur": "",
+          "lat": 24.84009939796714,
+          "lon": 67.12683195740193
+        },
+        {
+          "name": "VITA Chowrangi",
+          "name_ur": "",
+          "lat": 24.84136626520311,
+          "lon": 67.13370521262114
+        },
+        {
+          "name": "Bilal Chowrangi",
+          "name_ur": "",
+          "lat": 24.843197439309964,
+          "lon": 67.14243037064311
+        },
+        {
+          "name": "SNA Motors",
+          "name_ur": "",
+          "lat": 24.84403902335185,
+          "lon": 67.14534562472252
+        },
+        {
+          "name": "Getz Pharma",
+          "name_ur": "",
+          "lat": 24.845641374081072,
+          "lon": 67.15494858347624
+        },
+        {
+          "name": "Singer Chowrangi",
+          "name_ur": "",
+          "lat": 24.84644304368058,
+          "lon": 67.16016397320567
+        },
+        {
+          "name": "Jamia Dar-ul-Uloom",
+          "name_ur": "",
+          "lat": 24.84731411187606,
+          "lon": 67.16278633690862
+        },
+        {
+          "name": "Herbion Pharma",
+          "name_ur": "",
+          "lat": 24.84972988946234,
+          "lon": 67.17567002289562
+        },
+        {
+          "name": "Murtaza Chowrangi",
+          "name_ur": "",
+          "lat": 24.851139248589522,
+          "lon": 67.18137635261786
+        },
+        {
+          "name": "Sector 21",
+          "name_ur": "",
+          "lat": 24.8529468586667,
+          "lon": 67.19180019379803
+        },
+        {
+          "name": "Landhi Graveyard",
+          "name_ur": "",
+          "lat": 24.854558111204287,
+          "lon": 67.1997757850886
+        },
+        {
+          "name": "Mansehra Colony",
+          "name_ur": "",
+          "lat": 24.855091742204646,
+          "lon": 67.20192904425605
+        },
+        {
+          "name": "Dawood Chowrangi",
+          "name_ur": "",
+          "lat": 24.85036339954677,
+          "lon": 67.20686980624312
+        }
+      ]
+    },
+    {
+      "id": "karachi-brt:Blue",
+      "code": "Blue",
+      "name": "Blue Line Corridor",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Numaish Chowrangi",
+          "name_ur": "",
+          "lat": 24.87240426312202,
+          "lon": 67.03530333664018
+        },
+        {
+          "name": "Guru Mandir",
+          "name_ur": "",
+          "lat": 24.8812583,
+          "lon": 67.038427
+        },
+        {
+          "name": "Teen Hatti",
+          "name_ur": "",
+          "lat": 24.8933472,
+          "lon": 67.0436162
+        },
+        {
+          "name": "Dak Khana",
+          "name_ur": "",
+          "lat": 24.9089165,
+          "lon": 67.0487164
+        },
+        {
+          "name": "Al-Karam Apartments",
+          "name_ur": "",
+          "lat": 24.9125962,
+          "lon": 67.0496603
+        },
+        {
+          "name": "Karimabad",
+          "name_ur": "",
+          "lat": 24.91844640965097,
+          "lon": 67.05405838068752
+        },
+        {
+          "name": "Jamat Khana",
+          "name_ur": "",
+          "lat": 24.9230484,
+          "lon": 67.0597761
+        },
+        {
+          "name": "Ayesha Manzil",
+          "name_ur": "",
+          "lat": 24.927355232949047,
+          "lon": 67.06454643687691
+        },
+        {
+          "name": "Water Pump",
+          "name_ur": "",
+          "lat": 24.9358602,
+          "lon": 67.0755901
+        },
+        {
+          "name": "Yousuf Plaza",
+          "name_ur": "",
+          "lat": 24.9397104,
+          "lon": 67.0808159
+        },
+        {
+          "name": "Sohrab Goth",
+          "name_ur": "",
+          "lat": 24.94366868161439,
+          "lon": 67.08424604837266
+        },
+        {
+          "name": "Al-Asif Square",
+          "name_ur": "",
+          "lat": 24.9509926,
+          "lon": 67.0921191
+        }
+      ]
+    },
+    {
+      "id": "karachi-brt:Brown",
+      "code": "Brown",
+      "name": "Brown Line Corridor",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Singer Chowrangi",
+          "name_ur": "",
+          "lat": 24.84644304368058,
+          "lon": 67.16016397320567
+        },
+        {
+          "name": "Korangi Sector 20",
+          "name_ur": "",
+          "lat": 24.84928636185377,
+          "lon": 67.15949569922965
+        },
+        {
+          "name": "Colony #2",
+          "name_ur": "",
+          "lat": 24.88147989335521,
+          "lon": 67.14550325257535
+        },
+        {
+          "name": "Shama Center",
+          "name_ur": "",
+          "lat": 24.884677397971068,
+          "lon": 67.14555458828029
+        },
+        {
+          "name": "Nata Khan",
+          "name_ur": "",
+          "lat": 24.886940080873273,
+          "lon": 67.1321118134096
+        },
+        {
+          "name": "Drigh Road",
+          "name_ur": "",
+          "lat": 24.88694238181265,
+          "lon": 67.12836191263865
+        },
+        {
+          "name": "COD",
+          "name_ur": "",
+          "lat": 24.892080281717142,
+          "lon": 67.12183525220568
+        },
+        {
+          "name": "Askari IV",
+          "name_ur": "",
+          "lat": 24.899734356619685,
+          "lon": 67.11669169170801
+        },
+        {
+          "name": "Johar Morr",
+          "name_ur": "",
+          "lat": 24.9043838262249,
+          "lon": 67.11341388899848
+        },
+        {
+          "name": "Sunday Bazar",
+          "name_ur": "",
+          "lat": 24.910418068238613,
+          "lon": 67.10656950835792
+        },
+        {
+          "name": "Sindbad",
+          "name_ur": "",
+          "lat": 24.91578129572602,
+          "lon": 67.0993004868166
+        },
+        {
+          "name": "NIPA",
+          "name_ur": "",
+          "lat": 24.917581440310872,
+          "lon": 67.09700022450569
+        },
+        {
+          "name": "Moti Mehal",
+          "name_ur": "",
+          "lat": 24.926873854574072,
+          "lon": 67.08940458946007
+        },
+        {
+          "name": "UBL Sports Complex",
+          "name_ur": "",
+          "lat": 24.931124207164682,
+          "lon": 67.08590081657329
+        },
+        {
+          "name": "Al-Mohsin Imam Bargah",
+          "name_ur": "",
+          "lat": 24.940260616098513,
+          "lon": 67.08480132788807
+        },
+        {
+          "name": "Sohrab Goth",
+          "name_ur": "",
+          "lat": 24.94366868161439,
+          "lon": 67.08424604837266
+        },
+        {
+          "name": "Ancholi",
+          "name_ur": "",
+          "lat": 24.948622437359614,
+          "lon": 67.08174602729449
+        },
+        {
+          "name": "Afroz Textiles",
+          "name_ur": "",
+          "lat": 24.95121188472058,
+          "lon": 67.08016804814658
+        },
+        {
+          "name": "Namak Bank",
+          "name_ur": "",
+          "lat": 24.95926286157221,
+          "lon": 67.07449765370525
+        },
+        {
+          "name": "Nagan Chowrangi",
+          "name_ur": "",
+          "lat": 24.9659013,
+          "lon": 67.0670411
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-red:R1",
+      "code": "R1",
+      "name": "R1 (Khokrapar - Dockyard)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Khokrapar",
+          "name_ur": "",
+          "lat": 24.90360681160809,
+          "lon": 67.20617577301523
+        },
+        {
+          "name": "Saudabad",
+          "name_ur": "",
+          "lat": 24.898749126696448,
+          "lon": 67.19921741179233
+        },
+        {
+          "name": "RCD Ground",
+          "name_ur": "",
+          "lat": 24.89944932896936,
+          "lon": 67.19745819954272
+        },
+        {
+          "name": "Kalaboard",
+          "name_ur": "",
+          "lat": 24.882153982398762,
+          "lon": 67.18266553410584
+        },
+        {
+          "name": "Malir Halt",
+          "name_ur": "",
+          "lat": 24.884567796344673,
+          "lon": 67.17534284081654
+        },
+        {
+          "name": "Colony Gate",
+          "name_ur": "",
+          "lat": 24.887164078527558,
+          "lon": 67.14963159506532
+        },
+        {
+          "name": "Nata Khan",
+          "name_ur": "",
+          "lat": 24.886940080873273,
+          "lon": 67.1321118134096
+        },
+        {
+          "name": "Drigh Road",
+          "name_ur": "",
+          "lat": 24.88694238181265,
+          "lon": 67.12836191263865
+        },
+        {
+          "name": "PAF Base Faisal",
+          "name_ur": "",
+          "lat": 24.884199977735726,
+          "lon": 67.1160425753197
+        },
+        {
+          "name": "Karsaz",
+          "name_ur": "",
+          "lat": 24.8761439,
+          "lon": 67.1010692
+        },
+        {
+          "name": "Laal Kothi",
+          "name_ur": "",
+          "lat": 24.8625808,
+          "lon": 67.0697333
+        },
+        {
+          "name": "Nursery",
+          "name_ur": "",
+          "lat": 24.860866,
+          "lon": 67.0628421
+        },
+        {
+          "name": "FTC",
+          "name_ur": "",
+          "lat": 24.858449836777126,
+          "lon": 67.05022041587226
+        },
+        {
+          "name": "Regent Plaza",
+          "name_ur": "",
+          "lat": 24.855713,
+          "lon": 67.0389185
+        },
+        {
+          "name": "Metropole",
+          "name_ur": "",
+          "lat": 24.8506013,
+          "lon": 67.0299892
+        },
+        {
+          "name": "Fawwara Chowk",
+          "name_ur": "",
+          "lat": 24.85379451066601,
+          "lon": 67.02805522601828
+        },
+        {
+          "name": "Arts Council",
+          "name_ur": "",
+          "lat": 24.8532534,
+          "lon": 67.0209219
+        },
+        {
+          "name": "Shaheen Complex",
+          "name_ur": "",
+          "lat": 24.8508957,
+          "lon": 67.018763
+        },
+        {
+          "name": "I.I.Chundrigar",
+          "name_ur": "",
+          "lat": 24.848810645826088,
+          "lon": 66.9974697027558
+        },
+        {
+          "name": "Tower",
+          "name_ur": "",
+          "lat": 24.847932677751412,
+          "lon": 66.99524513871249
+        },
+        {
+          "name": "Fisheries",
+          "name_ur": "",
+          "lat": 24.848456719313468,
+          "lon": 66.98110610616409
+        },
+        {
+          "name": "Dockyard",
+          "name_ur": "",
+          "lat": 24.8304462,
+          "lon": 66.9707783
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-red:R10",
+      "code": "R10",
+      "name": "R10 (Numaish - Ibrahim Hyderi)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Numaish Chowrangi",
+          "name_ur": "",
+          "lat": 24.87240426312202,
+          "lon": 67.03530333664018
+        },
+        {
+          "name": "Mobile Market",
+          "name_ur": "",
+          "lat": 24.86451886219809,
+          "lon": 67.02407298827531
+        },
+        {
+          "name": "Metropole",
+          "name_ur": "",
+          "lat": 24.8506013,
+          "lon": 67.0299892
+        },
+        {
+          "name": "Frere Hall",
+          "name_ur": "",
+          "lat": 24.847044167199112,
+          "lon": 67.03133763333648
+        },
+        {
+          "name": "Teen Talwar",
+          "name_ur": "",
+          "lat": 24.8348047,
+          "lon": 67.0335215
+        },
+        {
+          "name": "Do Talwar",
+          "name_ur": "",
+          "lat": 24.8218071,
+          "lon": 67.0340807
+        },
+        {
+          "name": "Abdullah Shah Ghazi",
+          "name_ur": "",
+          "lat": 24.810787987512004,
+          "lon": 67.03093089884264
+        },
+        {
+          "name": "Dolmen Mall Clifton",
+          "name_ur": "",
+          "lat": 24.802814,
+          "lon": 67.0300302
+        },
+        {
+          "name": "Clock Tower DHA",
+          "name_ur": "",
+          "lat": 24.7785106,
+          "lon": 67.0542486
+        },
+        {
+          "name": "26 Street",
+          "name_ur": "",
+          "lat": 24.7888053,
+          "lon": 67.0647565
+        },
+        {
+          "name": "Masjid-e-Ayesha",
+          "name_ur": "",
+          "lat": 24.803143,
+          "lon": 67.0779536
+        },
+        {
+          "name": "Rahat Park",
+          "name_ur": "",
+          "lat": 24.8160516,
+          "lon": 67.0757359
+        },
+        {
+          "name": "KPT Interchange 1",
+          "name_ur": "",
+          "lat": 24.830871733331776,
+          "lon": 67.08012134424729
+        },
+        {
+          "name": "Korangi Crossing",
+          "name_ur": "",
+          "lat": 24.817064229933052,
+          "lon": 67.10778325390034
+        },
+        {
+          "name": "CBM University",
+          "name_ur": "",
+          "lat": 24.8146036,
+          "lon": 67.117558
+        },
+        {
+          "name": "Parco",
+          "name_ur": "",
+          "lat": 24.8021315,
+          "lon": 67.1336995
+        },
+        {
+          "name": "Ibrahim Hyderi",
+          "name_ur": "",
+          "lat": 24.7944215,
+          "lon": 67.1360628
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-red:R11",
+      "code": "R11",
+      "name": "R11 (Miran Nakka - Shireen Jinnah Colony)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Miran Nakka",
+          "name_ur": "",
+          "lat": 24.87930852988802,
+          "lon": 66.99516786645329
+        },
+        {
+          "name": "Gulistan Colony",
+          "name_ur": "",
+          "lat": 24.877321702968498,
+          "lon": 66.99044104884575
+        },
+        {
+          "name": "Bihar Colony",
+          "name_ur": "",
+          "lat": 24.87514167754211,
+          "lon": 66.98524848675882
+        },
+        {
+          "name": "Agra Taj",
+          "name_ur": "",
+          "lat": 24.87327210228411,
+          "lon": 66.98130441002405
+        },
+        {
+          "name": "Daryabad",
+          "name_ur": "",
+          "lat": 24.86240720939563,
+          "lon": 66.98690650604185
+        },
+        {
+          "name": "Jinnah Bridge",
+          "name_ur": "",
+          "lat": 24.8459993,
+          "lon": 66.9930716
+        },
+        {
+          "name": "Bahria Complex",
+          "name_ur": "",
+          "lat": 24.84555958184107,
+          "lon": 66.99628658486732
+        },
+        {
+          "name": "M.T.Khan Road",
+          "name_ur": "",
+          "lat": 24.845063633293993,
+          "lon": 66.9994446480543
+        },
+        {
+          "name": "PICD",
+          "name_ur": "",
+          "lat": 24.84662058662934,
+          "lon": 67.02450549794344
+        },
+        {
+          "name": "Submarine Chowk",
+          "name_ur": "",
+          "lat": 24.8290453,
+          "lon": 67.0419605
+        },
+        {
+          "name": "Bahria Complex 3",
+          "name_ur": "",
+          "lat": 24.824595111981235,
+          "lon": 67.04417510623115
+        },
+        {
+          "name": "Khadda Market",
+          "name_ur": "",
+          "lat": 24.813405935894743,
+          "lon": 67.04805687387612
+        },
+        {
+          "name": "Abdullah Shah Ghazi",
+          "name_ur": "",
+          "lat": 24.810787987512004,
+          "lon": 67.03093089884264
+        },
+        {
+          "name": "Bilawal Chowrangi",
+          "name_ur": "",
+          "lat": 24.815644721749464,
+          "lon": 67.01997484423575
+        },
+        {
+          "name": "Ziauddin Hospital",
+          "name_ur": "",
+          "lat": 24.81684812902694,
+          "lon": 67.00694412479469
+        },
+        {
+          "name": "Shireen Jinnah Colony",
+          "name_ur": "",
+          "lat": 24.813420676272653,
+          "lon": 66.99459214187371
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-red:R12",
+      "code": "R12",
+      "name": "R12 (Naddi Kinara - Lucky Star)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Naddi Kinara",
+          "name_ur": "",
+          "lat": 24.9090922,
+          "lon": 67.2150609
+        },
+        {
+          "name": "Khokrapar",
+          "name_ur": "",
+          "lat": 24.90360681160809,
+          "lon": 67.20617577301523
+        },
+        {
+          "name": "Saudabad",
+          "name_ur": "",
+          "lat": 24.898749126696448,
+          "lon": 67.19921741179233
+        },
+        {
+          "name": "RCD Ground",
+          "name_ur": "",
+          "lat": 24.89944932896936,
+          "lon": 67.19745819954272
+        },
+        {
+          "name": "Kalaboard",
+          "name_ur": "",
+          "lat": 24.882153982398762,
+          "lon": 67.18266553410584
+        },
+        {
+          "name": "Malir 15",
+          "name_ur": "",
+          "lat": 24.8795765,
+          "lon": 67.1884363
+        },
+        {
+          "name": "Malir Mandir",
+          "name_ur": "",
+          "lat": 24.8753688,
+          "lon": 67.1930641
+        },
+        {
+          "name": "Malir Session Court",
+          "name_ur": "",
+          "lat": 24.8740009,
+          "lon": 67.1944212
+        },
+        {
+          "name": "Murghi Khana",
+          "name_ur": "",
+          "lat": 24.860382,
+          "lon": 67.2076289
+        },
+        {
+          "name": "Quaidabad",
+          "name_ur": "",
+          "lat": 24.855477839938263,
+          "lon": 67.21181225153327
+        },
+        {
+          "name": "Dawood Chowrangi",
+          "name_ur": "",
+          "lat": 24.85036339954677,
+          "lon": 67.20686980624312
+        },
+        {
+          "name": "Babar Market",
+          "name_ur": "",
+          "lat": 24.8407762,
+          "lon": 67.1868077
+        },
+        {
+          "name": "Landhi Road",
+          "name_ur": "",
+          "lat": 24.8307882,
+          "lon": 67.1717165
+        },
+        {
+          "name": "Nasir Jump",
+          "name_ur": "",
+          "lat": 24.8207435,
+          "lon": 67.1251238
+        },
+        {
+          "name": "Indus Hospital",
+          "name_ur": "",
+          "lat": 24.81750469763461,
+          "lon": 67.11130052914348
+        },
+        {
+          "name": "Korangi Crossing",
+          "name_ur": "",
+          "lat": 24.817064229933052,
+          "lon": 67.10778325390034
+        },
+        {
+          "name": "Qayyumabad",
+          "name_ur": "",
+          "lat": 24.829476,
+          "lon": 67.0808179
+        },
+        {
+          "name": "Defence Mor",
+          "name_ur": "",
+          "lat": 24.8379604,
+          "lon": 67.0676111
+        },
+        {
+          "name": "National Medical Center",
+          "name_ur": "",
+          "lat": 24.846489249037113,
+          "lon": 67.05510890337621
+        },
+        {
+          "name": "Gora Qabristan",
+          "name_ur": "",
+          "lat": 24.854741270436573,
+          "lon": 67.05165454038803
+        },
+        {
+          "name": "FTC",
+          "name_ur": "",
+          "lat": 24.858449836777126,
+          "lon": 67.05022041587226
+        },
+        {
+          "name": "Jutt Land",
+          "name_ur": "",
+          "lat": 24.8615609,
+          "lon": 67.0422107
+        },
+        {
+          "name": "Lines Area",
+          "name_ur": "",
+          "lat": 24.86051364183229,
+          "lon": 67.0448388300816
+        },
+        {
+          "name": "Army Public School",
+          "name_ur": "",
+          "lat": 24.860152922682563,
+          "lon": 67.0392210700604
+        },
+        {
+          "name": "Lucky Star Saddar",
+          "name_ur": "",
+          "lat": 24.8569874430202,
+          "lon": 67.03341306029265
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-red:R13",
+      "code": "R13",
+      "name": "R13 (Hawksbay - Tower)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Hawksbay",
+          "name_ur": "",
+          "lat": 24.8629656,
+          "lon": 66.8496776
+        },
+        {
+          "name": "Mauripur",
+          "name_ur": "",
+          "lat": 24.8685538,
+          "lon": 66.9180648
+        },
+        {
+          "name": "Gulbai",
+          "name_ur": "",
+          "lat": 24.8758492,
+          "lon": 66.9677188
+        },
+        {
+          "name": "Agra Taj",
+          "name_ur": "",
+          "lat": 24.87327210228411,
+          "lon": 66.98130441002405
+        },
+        {
+          "name": "Daryabad",
+          "name_ur": "",
+          "lat": 24.86240720939563,
+          "lon": 66.98690650604185
+        },
+        {
+          "name": "Jinnah Bridge",
+          "name_ur": "",
+          "lat": 24.8459993,
+          "lon": 66.9930716
+        },
+        {
+          "name": "Tower",
+          "name_ur": "",
+          "lat": 24.847932677751412,
+          "lon": 66.99524513871249
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-red:R2",
+      "code": "R2",
+      "name": "R2 (Powerhouse - Indus Hospital)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Power House Chowrangi Station",
+          "name_ur": "",
+          "lat": 24.9842907,
+          "lon": 67.0661188
+        },
+        {
+          "name": "UP Mor",
+          "name_ur": "",
+          "lat": 24.9730337,
+          "lon": 67.0667428
+        },
+        {
+          "name": "Nagan Chowrangi",
+          "name_ur": "",
+          "lat": 24.9659013,
+          "lon": 67.0670411
+        },
+        {
+          "name": "Shafiq Morr",
+          "name_ur": "",
+          "lat": 24.957391,
+          "lon": 67.0762029
+        },
+        {
+          "name": "Sohrab Goth",
+          "name_ur": "",
+          "lat": 24.94366868161439,
+          "lon": 67.08424604837266
+        },
+        {
+          "name": "Gulshan Chowrangi",
+          "name_ur": "",
+          "lat": 24.9221389,
+          "lon": 67.0941637
+        },
+        {
+          "name": "NIPA",
+          "name_ur": "",
+          "lat": 24.917581440310872,
+          "lon": 67.09700022450569
+        },
+        {
+          "name": "Johar Morr",
+          "name_ur": "",
+          "lat": 24.9043838262249,
+          "lon": 67.11341388899848
+        },
+        {
+          "name": "COD",
+          "name_ur": "",
+          "lat": 24.892080281717142,
+          "lon": 67.12183525220568
+        },
+        {
+          "name": "Drigh Road",
+          "name_ur": "",
+          "lat": 24.88694238181265,
+          "lon": 67.12836191263865
+        },
+        {
+          "name": "Colony Gate",
+          "name_ur": "",
+          "lat": 24.887164078527558,
+          "lon": 67.14963159506532
+        },
+        {
+          "name": "Shah Faisal Colony",
+          "name_ur": "",
+          "lat": 24.878677195436808,
+          "lon": 67.14539952391964
+        },
+        {
+          "name": "Singer Chowrangi",
+          "name_ur": "",
+          "lat": 24.84644304368058,
+          "lon": 67.16016397320567
+        },
+        {
+          "name": "Khaddi Stop",
+          "name_ur": "",
+          "lat": 24.8406313,
+          "lon": 67.1613792
+        },
+        {
+          "name": "Indus Hospital",
+          "name_ur": "",
+          "lat": 24.81750469763461,
+          "lon": 67.11130052914348
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-red:R3",
+      "code": "R3",
+      "name": "R3 (Powerhouse - Nasir Jump)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Power House Chowrangi Station",
+          "name_ur": "",
+          "lat": 24.9842907,
+          "lon": 67.0661188
+        },
+        {
+          "name": "U.P. More Station",
+          "name_ur": "",
+          "lat": 24.9737143,
+          "lon": 67.0668378
+        },
+        {
+          "name": "Nagan Chowrangi",
+          "name_ur": "",
+          "lat": 24.9659013,
+          "lon": 67.0670411
+        },
+        {
+          "name": "Sakhi Hasan",
+          "name_ur": "",
+          "lat": 24.9534677,
+          "lon": 67.0577717
+        },
+        {
+          "name": "Five Star Chowrangi Station",
+          "name_ur": "",
+          "lat": 24.9460741,
+          "lon": 67.0503766
+        },
+        {
+          "name": "KDA Chowrangi",
+          "name_ur": "",
+          "lat": 24.9313398,
+          "lon": 67.0380543
+        },
+        {
+          "name": "Board Office",
+          "name_ur": "",
+          "lat": 24.9268943,
+          "lon": 67.0298399
+        },
+        {
+          "name": "Nazimabad Eid Gah Ground",
+          "name_ur": "",
+          "lat": 24.9116613,
+          "lon": 67.0299321
+        },
+        {
+          "name": "Liaquatabad 10 Number",
+          "name_ur": "",
+          "lat": 24.9094604,
+          "lon": 67.0494807
+        },
+        {
+          "name": "Essa Nagri",
+          "name_ur": "",
+          "lat": 24.9045029,
+          "lon": 67.0677116
+        },
+        {
+          "name": "Civic Center",
+          "name_ur": "",
+          "lat": 24.901152602669395,
+          "lon": 67.07302080324726
+        },
+        {
+          "name": "National Stadium",
+          "name_ur": "",
+          "lat": 24.89293790389886,
+          "lon": 67.08443974804159
+        },
+        {
+          "name": "Karsaz",
+          "name_ur": "",
+          "lat": 24.8761439,
+          "lon": 67.1010692
+        },
+        {
+          "name": "Nursery",
+          "name_ur": "",
+          "lat": 24.860866,
+          "lon": 67.0628421
+        },
+        {
+          "name": "FTC",
+          "name_ur": "",
+          "lat": 24.858449836777126,
+          "lon": 67.05022041587226
+        },
+        {
+          "name": "Main Korangi Road",
+          "name_ur": "",
+          "lat": 24.83593286479085,
+          "lon": 67.10588699537331
+        },
+        {
+          "name": "Shan Chowrangi",
+          "name_ur": "",
+          "lat": 24.838799619975536,
+          "lon": 67.1209064402609
+        },
+        {
+          "name": "Nasir Jump",
+          "name_ur": "",
+          "lat": 24.8207435,
+          "lon": 67.1251238
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-red:R4",
+      "code": "R4",
+      "name": "R4 (Power House - Keamari)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Power House Chowrangi Station",
+          "name_ur": "",
+          "lat": 24.9842907,
+          "lon": 67.0661188
+        },
+        {
+          "name": "UP Mor",
+          "name_ur": "",
+          "lat": 24.9730337,
+          "lon": 67.0667428
+        },
+        {
+          "name": "Nagan Chowrangi",
+          "name_ur": "",
+          "lat": 24.9659013,
+          "lon": 67.0670411
+        },
+        {
+          "name": "Shafiq Morr",
+          "name_ur": "",
+          "lat": 24.957391,
+          "lon": 67.0762029
+        },
+        {
+          "name": "Sohrab Goth",
+          "name_ur": "",
+          "lat": 24.94366868161439,
+          "lon": 67.08424604837266
+        },
+        {
+          "name": "Water Pump",
+          "name_ur": "",
+          "lat": 24.9358602,
+          "lon": 67.0755901
+        },
+        {
+          "name": "Ayesha Manzil",
+          "name_ur": "",
+          "lat": 24.927355232949047,
+          "lon": 67.06454643687691
+        },
+        {
+          "name": "Karimabad",
+          "name_ur": "",
+          "lat": 24.91844640965097,
+          "lon": 67.05405838068752
+        },
+        {
+          "name": "Liaquatabad 10 Number",
+          "name_ur": "",
+          "lat": 24.9094604,
+          "lon": 67.0494807
+        },
+        {
+          "name": "Laloo Khait",
+          "name_ur": "",
+          "lat": 24.9090536,
+          "lon": 67.049716
+        },
+        {
+          "name": "Teen Hatti",
+          "name_ur": "",
+          "lat": 24.8933472,
+          "lon": 67.0436162
+        },
+        {
+          "name": "Jehangir Road",
+          "name_ur": "",
+          "lat": 24.8868168,
+          "lon": 67.0414495
+        },
+        {
+          "name": "Numaish Chowrangi",
+          "name_ur": "",
+          "lat": 24.87240426312202,
+          "lon": 67.03530333664018
+        },
+        {
+          "name": "Mobile Market",
+          "name_ur": "",
+          "lat": 24.86451886219809,
+          "lon": 67.02407298827531
+        },
+        {
+          "name": "Urdu Bazar",
+          "name_ur": "",
+          "lat": 24.86068685928718,
+          "lon": 67.01763420242416
+        },
+        {
+          "name": "Civil Hospital",
+          "name_ur": "",
+          "lat": 24.85834345459461,
+          "lon": 67.01349332560326
+        },
+        {
+          "name": "City Court",
+          "name_ur": "",
+          "lat": 24.8554421,
+          "lon": 67.0084028
+        },
+        {
+          "name": "Light House",
+          "name_ur": "",
+          "lat": 24.856213039444395,
+          "lon": 67.00983970704101
+        },
+        {
+          "name": "Bolton Market",
+          "name_ur": "",
+          "lat": 24.8511218,
+          "lon": 67.0008605
+        },
+        {
+          "name": "Tower",
+          "name_ur": "",
+          "lat": 24.847932677751412,
+          "lon": 66.99524513871249
+        },
+        {
+          "name": "Keamari",
+          "name_ur": "",
+          "lat": 24.8248799,
+          "lon": 66.9789668
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-red:R8",
+      "code": "R8",
+      "name": "R8 (Yousuf Goth - Tower)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Yousuf Goth",
+          "name_ur": "",
+          "lat": 24.95693516470721,
+          "lon": 66.92543455817282
+        },
+        {
+          "name": "Naval Colony",
+          "name_ur": "",
+          "lat": 24.94490170700308,
+          "lon": 66.93317604584138
+        },
+        {
+          "name": "Baldia",
+          "name_ur": "",
+          "lat": 24.905842703998612,
+          "lon": 66.96219424473288
+        },
+        {
+          "name": "Sher Shah",
+          "name_ur": "",
+          "lat": 24.8897941,
+          "lon": 66.9826881
+        },
+        {
+          "name": "Gulbai",
+          "name_ur": "",
+          "lat": 24.8758492,
+          "lon": 66.9677188
+        },
+        {
+          "name": "Agra Taj",
+          "name_ur": "",
+          "lat": 24.87327210228411,
+          "lon": 66.98130441002405
+        },
+        {
+          "name": "Daryabad",
+          "name_ur": "",
+          "lat": 24.86240720939563,
+          "lon": 66.98690650604185
+        },
+        {
+          "name": "Jinnah Bridge",
+          "name_ur": "",
+          "lat": 24.8459993,
+          "lon": 66.9930716
+        },
+        {
+          "name": "Tower",
+          "name_ur": "",
+          "lat": 24.847932677751412,
+          "lon": 66.99524513871249
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-red:R9",
+      "code": "R9",
+      "name": "R9 (Gulshan e Hadeed - Tower)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Gulshan e Hadeed",
+          "name_ur": "",
+          "lat": 24.870861225752197,
+          "lon": 67.37268289825623
+        },
+        {
+          "name": "Salah Uddin Ayubi Road",
+          "name_ur": "",
+          "lat": 24.867315421715197,
+          "lon": 67.35966570617978
+        },
+        {
+          "name": "Allah Wali Chowrangi",
+          "name_ur": "",
+          "lat": 24.864365836078512,
+          "lon": 67.349828944599
+        },
+        {
+          "name": "National Highway 5",
+          "name_ur": "",
+          "lat": 24.86139488067893,
+          "lon": 67.35104279951992
+        },
+        {
+          "name": "Steel Mill More",
+          "name_ur": "",
+          "lat": 24.8617619,
+          "lon": 67.3247927
+        },
+        {
+          "name": "Port Bin Qasim More",
+          "name_ur": "",
+          "lat": 24.86632668111742,
+          "lon": 67.3001004518521
+        },
+        {
+          "name": "Razzakabad",
+          "name_ur": "",
+          "lat": 24.86431927742789,
+          "lon": 67.29258770168065
+        },
+        {
+          "name": "Abdullah Goth",
+          "name_ur": "",
+          "lat": 24.8626079,
+          "lon": 67.2848234
+        },
+        {
+          "name": "Chowkundi More",
+          "name_ur": "",
+          "lat": 24.859392617375672,
+          "lon": 67.27269573302797
+        },
+        {
+          "name": "Fast University",
+          "name_ur": "",
+          "lat": 24.857411579627374,
+          "lon": 67.26400478811345
+        },
+        {
+          "name": "Bhains Colony More",
+          "name_ur": "",
+          "lat": 24.8561466,
+          "lon": 67.2583039
+        },
+        {
+          "name": "Manzil Pump",
+          "name_ur": "",
+          "lat": 24.85480076123636,
+          "lon": 67.22908274475193
+        },
+        {
+          "name": "Quaidabad",
+          "name_ur": "",
+          "lat": 24.855477839938263,
+          "lon": 67.21181225153327
+        },
+        {
+          "name": "Murghi Khana",
+          "name_ur": "",
+          "lat": 24.860382,
+          "lon": 67.2076289
+        },
+        {
+          "name": "Prince Aly Boys School",
+          "name_ur": "",
+          "lat": 24.8700262,
+          "lon": 67.2003008
+        },
+        {
+          "name": "Nadra Center Malir",
+          "name_ur": "",
+          "lat": 24.8715583,
+          "lon": 67.1977487
+        },
+        {
+          "name": "Malir Session Court",
+          "name_ur": "",
+          "lat": 24.8740009,
+          "lon": 67.1944212
+        },
+        {
+          "name": "Malir 15",
+          "name_ur": "",
+          "lat": 24.8795765,
+          "lon": 67.1884363
+        },
+        {
+          "name": "Kalaboard",
+          "name_ur": "",
+          "lat": 24.882153982398762,
+          "lon": 67.18266553410584
+        },
+        {
+          "name": "Malir Halt",
+          "name_ur": "",
+          "lat": 24.884567796344673,
+          "lon": 67.17534284081654
+        },
+        {
+          "name": "Colony Gate",
+          "name_ur": "",
+          "lat": 24.887164078527558,
+          "lon": 67.14963159506532
+        },
+        {
+          "name": "Nata Khan",
+          "name_ur": "",
+          "lat": 24.886940080873273,
+          "lon": 67.1321118134096
+        },
+        {
+          "name": "Drigh Road",
+          "name_ur": "",
+          "lat": 24.88694238181265,
+          "lon": 67.12836191263865
+        },
+        {
+          "name": "PAF Base Faisal",
+          "name_ur": "",
+          "lat": 24.884199977735726,
+          "lon": 67.1160425753197
+        },
+        {
+          "name": "Karsaz",
+          "name_ur": "",
+          "lat": 24.8761439,
+          "lon": 67.1010692
+        },
+        {
+          "name": "Laal Kothi",
+          "name_ur": "",
+          "lat": 24.8625808,
+          "lon": 67.0697333
+        },
+        {
+          "name": "Nursery",
+          "name_ur": "",
+          "lat": 24.860866,
+          "lon": 67.0628421
+        },
+        {
+          "name": "FTC",
+          "name_ur": "",
+          "lat": 24.858449836777126,
+          "lon": 67.05022041587226
+        },
+        {
+          "name": "Regent Plaza",
+          "name_ur": "",
+          "lat": 24.855713,
+          "lon": 67.0389185
+        },
+        {
+          "name": "Metropole",
+          "name_ur": "",
+          "lat": 24.8506013,
+          "lon": 67.0299892
+        },
+        {
+          "name": "Fawwara Chowk",
+          "name_ur": "",
+          "lat": 24.85379451066601,
+          "lon": 67.02805522601828
+        },
+        {
+          "name": "Arts Council",
+          "name_ur": "",
+          "lat": 24.8532534,
+          "lon": 67.0209219
+        },
+        {
+          "name": "Shaheen Complex",
+          "name_ur": "",
+          "lat": 24.8508957,
+          "lon": 67.018763
+        },
+        {
+          "name": "I.I.Chundrigar",
+          "name_ur": "",
+          "lat": 24.848810645826088,
+          "lon": 66.9974697027558
+        },
+        {
+          "name": "Tower",
+          "name_ur": "",
+          "lat": 24.847932677751412,
+          "lon": 66.99524513871249
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-ev:EV1",
+      "code": "EV1",
+      "name": "EV1 (Malir Cantt - Dolmen Mall Clifton)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "CMH Malir Cantt",
+          "name_ur": "",
+          "lat": 24.949415902809378,
+          "lon": 67.21400068620798
+        },
+        {
+          "name": "Tank Chowk",
+          "name_ur": "",
+          "lat": 24.912566334753254,
+          "lon": 67.1858099546142
+        },
+        {
+          "name": "Model Colony",
+          "name_ur": "",
+          "lat": 24.90347282541858,
+          "lon": 67.18196503888005
+        },
+        {
+          "name": "Jinnah Ave",
+          "name_ur": "",
+          "lat": 24.9033517,
+          "lon": 67.1823491
+        },
+        {
+          "name": "Airport",
+          "name_ur": "",
+          "lat": 24.897516282556328,
+          "lon": 67.17985246840544
+        },
+        {
+          "name": "Colony Gate",
+          "name_ur": "",
+          "lat": 24.887164078527558,
+          "lon": 67.14963159506532
+        },
+        {
+          "name": "Nata Khan",
+          "name_ur": "",
+          "lat": 24.886940080873273,
+          "lon": 67.1321118134096
+        },
+        {
+          "name": "Drigh Road",
+          "name_ur": "",
+          "lat": 24.88694238181265,
+          "lon": 67.12836191263865
+        },
+        {
+          "name": "PAF Base Faisal",
+          "name_ur": "",
+          "lat": 24.884199977735726,
+          "lon": 67.1160425753197
+        },
+        {
+          "name": "Karsaz",
+          "name_ur": "",
+          "lat": 24.8761439,
+          "lon": 67.1010692
+        },
+        {
+          "name": "Laal Kothi",
+          "name_ur": "",
+          "lat": 24.8625808,
+          "lon": 67.0697333
+        },
+        {
+          "name": "Nursery",
+          "name_ur": "",
+          "lat": 24.860866,
+          "lon": 67.0628421
+        },
+        {
+          "name": "FTC",
+          "name_ur": "",
+          "lat": 24.858449836777126,
+          "lon": 67.05022041587226
+        },
+        {
+          "name": "Korangi Road",
+          "name_ur": "",
+          "lat": 24.84171613851047,
+          "lon": 67.05917569322027
+        },
+        {
+          "name": "DHA Phase 1",
+          "name_ur": "",
+          "lat": 24.833806429666307,
+          "lon": 67.07379104568369
+        },
+        {
+          "name": "Masjid-e-Ayesha",
+          "name_ur": "",
+          "lat": 24.803143,
+          "lon": 67.0779536
+        },
+        {
+          "name": "Clock Tower DHA",
+          "name_ur": "",
+          "lat": 24.7785106,
+          "lon": 67.0542486
+        },
+        {
+          "name": "Dolmen Mall Clifton",
+          "name_ur": "",
+          "lat": 24.802814,
+          "lon": 67.0300302
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-ev:EV2",
+      "code": "EV2",
+      "name": "EV2 (Bahria Town - Malir Halt)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Bahria Town",
+          "name_ur": "",
+          "lat": 25.071409108597887,
+          "lon": 67.30525112992133
+        },
+        {
+          "name": "Dumba Goth",
+          "name_ur": "",
+          "lat": 24.97600581564162,
+          "lon": 67.26931829835877
+        },
+        {
+          "name": "Toll Plaza",
+          "name_ur": "",
+          "lat": 24.982724644299836,
+          "lon": 67.22765360651692
+        },
+        {
+          "name": "Baqai University",
+          "name_ur": "",
+          "lat": 24.984934638549305,
+          "lon": 67.21279862694061
+        },
+        {
+          "name": "Malir Cantt Check Post 5",
+          "name_ur": "",
+          "lat": 24.9481486,
+          "lon": 67.1830428
+        },
+        {
+          "name": "Malir Cantt Gate 6",
+          "name_ur": "",
+          "lat": 24.9347056,
+          "lon": 67.1771908
+        },
+        {
+          "name": "Tank Chowk",
+          "name_ur": "",
+          "lat": 24.912566334753254,
+          "lon": 67.1858099546142
+        },
+        {
+          "name": "Model Colony",
+          "name_ur": "",
+          "lat": 24.90347282541858,
+          "lon": 67.18196503888005
+        },
+        {
+          "name": "Jinnah Ave",
+          "name_ur": "",
+          "lat": 24.9033517,
+          "lon": 67.1823491
+        },
+        {
+          "name": "Malir Halt",
+          "name_ur": "",
+          "lat": 24.884567796344673,
+          "lon": 67.17534284081654
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-ev:EV3",
+      "code": "EV3",
+      "name": "EV3 (Malir Cantt - Numaish)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Malir Cantt Check Post 5",
+          "name_ur": "",
+          "lat": 24.9481486,
+          "lon": 67.1830428
+        },
+        {
+          "name": "Rim Jhim Tower",
+          "name_ur": "",
+          "lat": 24.940271682432204,
+          "lon": 67.16030814668274
+        },
+        {
+          "name": "Safoora Chowrangi",
+          "name_ur": "",
+          "lat": 24.939418567854688,
+          "lon": 67.15618076871317
+        },
+        {
+          "name": "Mosamiyat",
+          "name_ur": "",
+          "lat": 24.9366308938889,
+          "lon": 67.14142710220455
+        },
+        {
+          "name": "Kamran Chowrangi",
+          "name_ur": "",
+          "lat": 24.923774830723154,
+          "lon": 67.13808592104827
+        },
+        {
+          "name": "Darul Sehat Hospital",
+          "name_ur": "",
+          "lat": 24.91394111064369,
+          "lon": 67.12793700411997
+        },
+        {
+          "name": "Johar Chowrangi",
+          "name_ur": "",
+          "lat": 24.912068918366348,
+          "lon": 67.12577571645011
+        },
+        {
+          "name": "Johar Morr",
+          "name_ur": "",
+          "lat": 24.9043838262249,
+          "lon": 67.11341388899848
+        },
+        {
+          "name": "Millennium Mall",
+          "name_ur": "",
+          "lat": 24.9016005,
+          "lon": 67.1153535
+        },
+        {
+          "name": "Dalmia Road",
+          "name_ur": "",
+          "lat": 24.8965479,
+          "lon": 67.0991636
+        },
+        {
+          "name": "Bahria University",
+          "name_ur": "",
+          "lat": 24.8940444,
+          "lon": 67.0879168
+        },
+        {
+          "name": "National Stadium",
+          "name_ur": "",
+          "lat": 24.89293790389886,
+          "lon": 67.08443974804159
+        },
+        {
+          "name": "Aga Khan Hospital",
+          "name_ur": "",
+          "lat": 24.8906318,
+          "lon": 67.0750727
+        },
+        {
+          "name": "Liaquat National Hospital",
+          "name_ur": "",
+          "lat": 24.889612,
+          "lon": 67.0678073
+        },
+        {
+          "name": "PIB Colony",
+          "name_ur": "",
+          "lat": 24.8859374,
+          "lon": 67.057353
+        },
+        {
+          "name": "Jail Chowrangi",
+          "name_ur": "",
+          "lat": 24.885780222032384,
+          "lon": 67.05730204929694
+        },
+        {
+          "name": "Dawood Engineering University",
+          "name_ur": "",
+          "lat": 24.8795444,
+          "lon": 67.0478064
+        },
+        {
+          "name": "Islamia College",
+          "name_ur": "",
+          "lat": 24.878901925255455,
+          "lon": 67.0464204694135
+        },
+        {
+          "name": "People Secretariat Chowrangi",
+          "name_ur": "",
+          "lat": 24.8768741,
+          "lon": 67.0440489
+        },
+        {
+          "name": "Numaish Chowrangi",
+          "name_ur": "",
+          "lat": 24.87240426312202,
+          "lon": 67.03530333664018
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-ev:EV4",
+      "code": "EV4",
+      "name": "EV4 (Bahria Town - Ayesha Manzil)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Bahria Town",
+          "name_ur": "",
+          "lat": 25.071409108597887,
+          "lon": 67.30525112992133
+        },
+        {
+          "name": "Dumba Goth",
+          "name_ur": "",
+          "lat": 24.97600581564162,
+          "lon": 67.26931829835877
+        },
+        {
+          "name": "Toll Plaza",
+          "name_ur": "",
+          "lat": 24.982724644299836,
+          "lon": 67.22765360651692
+        },
+        {
+          "name": "New Sabzi Mandi",
+          "name_ur": "",
+          "lat": 24.99340288659762,
+          "lon": 67.1543249468857
+        },
+        {
+          "name": "Jamali Pull",
+          "name_ur": "",
+          "lat": 24.9732052,
+          "lon": 67.1183428
+        },
+        {
+          "name": "Al-Asif Square",
+          "name_ur": "",
+          "lat": 24.9509926,
+          "lon": 67.0921191
+        },
+        {
+          "name": "Sohrab Goth",
+          "name_ur": "",
+          "lat": 24.94366868161439,
+          "lon": 67.08424604837266
+        },
+        {
+          "name": "Water Pump",
+          "name_ur": "",
+          "lat": 24.9358602,
+          "lon": 67.0755901
+        },
+        {
+          "name": "Ayesha Manzil",
+          "name_ur": "",
+          "lat": 24.927355232949047,
+          "lon": 67.06454643687691
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-ev:EV5",
+      "code": "EV5",
+      "name": "EV5 (DHA City - Sohrab Goth)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "DHA City",
+          "name_ur": "",
+          "lat": 25.036966976480297,
+          "lon": 67.4468665951188
+        },
+        {
+          "name": "Bahria Town Bus Terminal",
+          "name_ur": "",
+          "lat": 24.992515420061718,
+          "lon": 67.31767362185657
+        },
+        {
+          "name": "Dumba Goth",
+          "name_ur": "",
+          "lat": 24.97600581564162,
+          "lon": 67.26931829835877
+        },
+        {
+          "name": "Toll Plaza",
+          "name_ur": "",
+          "lat": 24.982724644299836,
+          "lon": 67.22765360651692
+        },
+        {
+          "name": "New Sabzi Mandi",
+          "name_ur": "",
+          "lat": 24.99340288659762,
+          "lon": 67.1543249468857
+        },
+        {
+          "name": "Jamali Pull",
+          "name_ur": "",
+          "lat": 24.9732052,
+          "lon": 67.1183428
+        },
+        {
+          "name": "Al-Asif Square",
+          "name_ur": "",
+          "lat": 24.9509926,
+          "lon": 67.0921191
+        },
+        {
+          "name": "Sohrab Goth",
+          "name_ur": "",
+          "lat": 24.94366868161439,
+          "lon": 67.08424604837266
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-pink:P1",
+      "code": "P1",
+      "name": "P1 (Khokrapar - Dockyard)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Khokrapar",
+          "name_ur": "",
+          "lat": 24.90360681160809,
+          "lon": 67.20617577301523
+        },
+        {
+          "name": "Saudabad",
+          "name_ur": "",
+          "lat": 24.898749126696448,
+          "lon": 67.19921741179233
+        },
+        {
+          "name": "RCD Ground",
+          "name_ur": "",
+          "lat": 24.89944932896936,
+          "lon": 67.19745819954272
+        },
+        {
+          "name": "Kalaboard",
+          "name_ur": "",
+          "lat": 24.882153982398762,
+          "lon": 67.18266553410584
+        },
+        {
+          "name": "Malir Halt",
+          "name_ur": "",
+          "lat": 24.884567796344673,
+          "lon": 67.17534284081654
+        },
+        {
+          "name": "Colony Gate",
+          "name_ur": "",
+          "lat": 24.887164078527558,
+          "lon": 67.14963159506532
+        },
+        {
+          "name": "Nata Khan",
+          "name_ur": "",
+          "lat": 24.886940080873273,
+          "lon": 67.1321118134096
+        },
+        {
+          "name": "Drigh Road",
+          "name_ur": "",
+          "lat": 24.88694238181265,
+          "lon": 67.12836191263865
+        },
+        {
+          "name": "PAF Base Faisal",
+          "name_ur": "",
+          "lat": 24.884199977735726,
+          "lon": 67.1160425753197
+        },
+        {
+          "name": "Laal Kothi",
+          "name_ur": "",
+          "lat": 24.8625808,
+          "lon": 67.0697333
+        },
+        {
+          "name": "Karsaz",
+          "name_ur": "",
+          "lat": 24.8761439,
+          "lon": 67.1010692
+        },
+        {
+          "name": "Nursery",
+          "name_ur": "",
+          "lat": 24.860866,
+          "lon": 67.0628421
+        },
+        {
+          "name": "FTC",
+          "name_ur": "",
+          "lat": 24.858449836777126,
+          "lon": 67.05022041587226
+        },
+        {
+          "name": "Regent Plaza",
+          "name_ur": "",
+          "lat": 24.855713,
+          "lon": 67.0389185
+        },
+        {
+          "name": "Metropole",
+          "name_ur": "",
+          "lat": 24.8506013,
+          "lon": 67.0299892
+        },
+        {
+          "name": "Fawwara Chowk",
+          "name_ur": "",
+          "lat": 24.85379451066601,
+          "lon": 67.02805522601828
+        },
+        {
+          "name": "Arts Council",
+          "name_ur": "",
+          "lat": 24.8532534,
+          "lon": 67.0209219
+        },
+        {
+          "name": "Shaheen Complex",
+          "name_ur": "",
+          "lat": 24.8508957,
+          "lon": 67.018763
+        },
+        {
+          "name": "I.I.Chundrigar",
+          "name_ur": "",
+          "lat": 24.848810645826088,
+          "lon": 66.9974697027558
+        },
+        {
+          "name": "Tower",
+          "name_ur": "",
+          "lat": 24.847932677751412,
+          "lon": 66.99524513871249
+        },
+        {
+          "name": "Fisheries",
+          "name_ur": "",
+          "lat": 24.848456719313468,
+          "lon": 66.98110610616409
+        },
+        {
+          "name": "Dockyard",
+          "name_ur": "",
+          "lat": 24.8304462,
+          "lon": 66.9707783
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-pink:P10",
+      "code": "P10",
+      "name": "P10 (Numaish - Ibrahim Hyderi)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Numaish Chowrangi",
+          "name_ur": "",
+          "lat": 24.87240426312202,
+          "lon": 67.03530333664018
+        },
+        {
+          "name": "Mobile Market",
+          "name_ur": "",
+          "lat": 24.86451886219809,
+          "lon": 67.02407298827531
+        },
+        {
+          "name": "Metropole",
+          "name_ur": "",
+          "lat": 24.8506013,
+          "lon": 67.0299892
+        },
+        {
+          "name": "Frere Hall",
+          "name_ur": "",
+          "lat": 24.847044167199112,
+          "lon": 67.03133763333648
+        },
+        {
+          "name": "Teen Talwar",
+          "name_ur": "",
+          "lat": 24.8348047,
+          "lon": 67.0335215
+        },
+        {
+          "name": "Do Talwar",
+          "name_ur": "",
+          "lat": 24.8218071,
+          "lon": 67.0340807
+        },
+        {
+          "name": "Abdullah Shah Ghazi",
+          "name_ur": "",
+          "lat": 24.810787987512004,
+          "lon": 67.03093089884264
+        },
+        {
+          "name": "Dolmen Mall Clifton",
+          "name_ur": "",
+          "lat": 24.802814,
+          "lon": 67.0300302
+        },
+        {
+          "name": "Clock Tower DHA",
+          "name_ur": "",
+          "lat": 24.7785106,
+          "lon": 67.0542486
+        },
+        {
+          "name": "26 Street",
+          "name_ur": "",
+          "lat": 24.7888053,
+          "lon": 67.0647565
+        },
+        {
+          "name": "Masjid-e-Ayesha",
+          "name_ur": "",
+          "lat": 24.803143,
+          "lon": 67.0779536
+        },
+        {
+          "name": "Rahat Park",
+          "name_ur": "",
+          "lat": 24.8160516,
+          "lon": 67.0757359
+        },
+        {
+          "name": "KPT Interchange 1",
+          "name_ur": "",
+          "lat": 24.830871733331776,
+          "lon": 67.08012134424729
+        },
+        {
+          "name": "Korangi Crossing",
+          "name_ur": "",
+          "lat": 24.817064229933052,
+          "lon": 67.10778325390034
+        },
+        {
+          "name": "CBM University",
+          "name_ur": "",
+          "lat": 24.8146036,
+          "lon": 67.117558
+        },
+        {
+          "name": "Parco",
+          "name_ur": "",
+          "lat": 24.8021315,
+          "lon": 67.1336995
+        },
+        {
+          "name": "Ibrahim Hyderi",
+          "name_ur": "",
+          "lat": 24.7944215,
+          "lon": 67.1360628
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-pink:P2",
+      "code": "P2",
+      "name": "P2 (Powerhouse - Indus Hospital)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Power House Chowrangi Station",
+          "name_ur": "",
+          "lat": 24.9842907,
+          "lon": 67.0661188
+        },
+        {
+          "name": "UP Mor",
+          "name_ur": "",
+          "lat": 24.9730337,
+          "lon": 67.0667428
+        },
+        {
+          "name": "Nagan Chowrangi",
+          "name_ur": "",
+          "lat": 24.9659013,
+          "lon": 67.0670411
+        },
+        {
+          "name": "Shafiq Morr",
+          "name_ur": "",
+          "lat": 24.957391,
+          "lon": 67.0762029
+        },
+        {
+          "name": "Sohrab Goth",
+          "name_ur": "",
+          "lat": 24.94366868161439,
+          "lon": 67.08424604837266
+        },
+        {
+          "name": "Gulshan Chowrangi",
+          "name_ur": "",
+          "lat": 24.9221389,
+          "lon": 67.0941637
+        },
+        {
+          "name": "NIPA",
+          "name_ur": "",
+          "lat": 24.917581440310872,
+          "lon": 67.09700022450569
+        },
+        {
+          "name": "Johar Morr",
+          "name_ur": "",
+          "lat": 24.9043838262249,
+          "lon": 67.11341388899848
+        },
+        {
+          "name": "COD",
+          "name_ur": "",
+          "lat": 24.892080281717142,
+          "lon": 67.12183525220568
+        },
+        {
+          "name": "Drigh Road",
+          "name_ur": "",
+          "lat": 24.88694238181265,
+          "lon": 67.12836191263865
+        },
+        {
+          "name": "Colony Gate",
+          "name_ur": "",
+          "lat": 24.887164078527558,
+          "lon": 67.14963159506532
+        },
+        {
+          "name": "Shah Faisal Colony",
+          "name_ur": "",
+          "lat": 24.878677195436808,
+          "lon": 67.14539952391964
+        },
+        {
+          "name": "Singer Chowrangi",
+          "name_ur": "",
+          "lat": 24.84644304368058,
+          "lon": 67.16016397320567
+        },
+        {
+          "name": "Khaddi Stop",
+          "name_ur": "",
+          "lat": 24.8406313,
+          "lon": 67.1613792
+        },
+        {
+          "name": "Indus Hospital",
+          "name_ur": "",
+          "lat": 24.81750469763461,
+          "lon": 67.11130052914348
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-pink:P3",
+      "code": "P3",
+      "name": "P3 (Powerhouse - Nasir Jump)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Power House Chowrangi Station",
+          "name_ur": "",
+          "lat": 24.9842907,
+          "lon": 67.0661188
+        },
+        {
+          "name": "U.P. More Station",
+          "name_ur": "",
+          "lat": 24.9737143,
+          "lon": 67.0668378
+        },
+        {
+          "name": "Nagan Chowrangi",
+          "name_ur": "",
+          "lat": 24.9659013,
+          "lon": 67.0670411
+        },
+        {
+          "name": "Sakhi Hasan",
+          "name_ur": "",
+          "lat": 24.9534677,
+          "lon": 67.0577717
+        },
+        {
+          "name": "Five Star Chowrangi Station",
+          "name_ur": "",
+          "lat": 24.9460741,
+          "lon": 67.0503766
+        },
+        {
+          "name": "KDA Chowrangi",
+          "name_ur": "",
+          "lat": 24.9313398,
+          "lon": 67.0380543
+        },
+        {
+          "name": "Board Office",
+          "name_ur": "",
+          "lat": 24.9268943,
+          "lon": 67.0298399
+        },
+        {
+          "name": "Nazimabad Eid Gah Ground",
+          "name_ur": "",
+          "lat": 24.9116613,
+          "lon": 67.0299321
+        },
+        {
+          "name": "Liaquatabad 10 Number",
+          "name_ur": "",
+          "lat": 24.9094604,
+          "lon": 67.0494807
+        },
+        {
+          "name": "Essa Nagri",
+          "name_ur": "",
+          "lat": 24.9045029,
+          "lon": 67.0677116
+        },
+        {
+          "name": "Civic Center",
+          "name_ur": "",
+          "lat": 24.901152602669395,
+          "lon": 67.07302080324726
+        },
+        {
+          "name": "National Stadium",
+          "name_ur": "",
+          "lat": 24.89293790389886,
+          "lon": 67.08443974804159
+        },
+        {
+          "name": "Karsaz",
+          "name_ur": "",
+          "lat": 24.8761439,
+          "lon": 67.1010692
+        },
+        {
+          "name": "Nursery",
+          "name_ur": "",
+          "lat": 24.860866,
+          "lon": 67.0628421
+        },
+        {
+          "name": "FTC",
+          "name_ur": "",
+          "lat": 24.858449836777126,
+          "lon": 67.05022041587226
+        },
+        {
+          "name": "Main Korangi Road",
+          "name_ur": "",
+          "lat": 24.83593286479085,
+          "lon": 67.10588699537331
+        },
+        {
+          "name": "Shan Chowrangi",
+          "name_ur": "",
+          "lat": 24.838799619975536,
+          "lon": 67.1209064402609
+        },
+        {
+          "name": "Nasir Jump",
+          "name_ur": "",
+          "lat": 24.8207435,
+          "lon": 67.1251238
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs-pink:P9",
+      "code": "P9",
+      "name": "P9 (Gulshan e Hadeed - Tower)",
+      "url": "https://github.com/FAST-Dev-Team-Semester-Projects",
+      "stops": [
+        {
+          "name": "Gulshan e Hadeed",
+          "name_ur": "",
+          "lat": 24.870861225752197,
+          "lon": 67.37268289825623
+        },
+        {
+          "name": "Salah Uddin Ayubi Road",
+          "name_ur": "",
+          "lat": 24.867315421715197,
+          "lon": 67.35966570617978
+        },
+        {
+          "name": "Allah Wali Chowrangi",
+          "name_ur": "",
+          "lat": 24.864365836078512,
+          "lon": 67.349828944599
+        },
+        {
+          "name": "National Highway 5",
+          "name_ur": "",
+          "lat": 24.86139488067893,
+          "lon": 67.35104279951992
+        },
+        {
+          "name": "Steel Mill More",
+          "name_ur": "",
+          "lat": 24.8617619,
+          "lon": 67.3247927
+        },
+        {
+          "name": "Port Bin Qasim More",
+          "name_ur": "",
+          "lat": 24.86632668111742,
+          "lon": 67.3001004518521
+        },
+        {
+          "name": "Razzakabad",
+          "name_ur": "",
+          "lat": 24.86431927742789,
+          "lon": 67.29258770168065
+        },
+        {
+          "name": "Abdullah Goth",
+          "name_ur": "",
+          "lat": 24.8626079,
+          "lon": 67.2848234
+        },
+        {
+          "name": "Chowkundi More",
+          "name_ur": "",
+          "lat": 24.859392617375672,
+          "lon": 67.27269573302797
+        },
+        {
+          "name": "Fast University",
+          "name_ur": "",
+          "lat": 24.857411579627374,
+          "lon": 67.26400478811345
+        },
+        {
+          "name": "Bhains Colony More",
+          "name_ur": "",
+          "lat": 24.8561466,
+          "lon": 67.2583039
+        },
+        {
+          "name": "Manzil Pump",
+          "name_ur": "",
+          "lat": 24.85480076123636,
+          "lon": 67.22908274475193
+        },
+        {
+          "name": "Quaidabad",
+          "name_ur": "",
+          "lat": 24.855477839938263,
+          "lon": 67.21181225153327
+        },
+        {
+          "name": "Murghi Khana",
+          "name_ur": "",
+          "lat": 24.860382,
+          "lon": 67.2076289
+        },
+        {
+          "name": "Prince Aly Boys School",
+          "name_ur": "",
+          "lat": 24.8700262,
+          "lon": 67.2003008
+        },
+        {
+          "name": "Nadra Center Malir",
+          "name_ur": "",
+          "lat": 24.8715583,
+          "lon": 67.1977487
+        },
+        {
+          "name": "Malir Session Court",
+          "name_ur": "",
+          "lat": 24.8740009,
+          "lon": 67.1944212
+        },
+        {
+          "name": "Malir 15",
+          "name_ur": "",
+          "lat": 24.8795765,
+          "lon": 67.1884363
+        },
+        {
+          "name": "Kalaboard",
+          "name_ur": "",
+          "lat": 24.882153982398762,
+          "lon": 67.18266553410584
+        },
+        {
+          "name": "Malir Halt",
+          "name_ur": "",
+          "lat": 24.884567796344673,
+          "lon": 67.17534284081654
+        },
+        {
+          "name": "Colony Gate",
+          "name_ur": "",
+          "lat": 24.887164078527558,
+          "lon": 67.14963159506532
+        },
+        {
+          "name": "Nata Khan",
+          "name_ur": "",
+          "lat": 24.886940080873273,
+          "lon": 67.1321118134096
+        },
+        {
+          "name": "Drigh Road",
+          "name_ur": "",
+          "lat": 24.88694238181265,
+          "lon": 67.12836191263865
+        },
+        {
+          "name": "PAF Base Faisal",
+          "name_ur": "",
+          "lat": 24.884199977735726,
+          "lon": 67.1160425753197
+        },
+        {
+          "name": "Laal Kothi",
+          "name_ur": "",
+          "lat": 24.8625808,
+          "lon": 67.0697333
+        },
+        {
+          "name": "Karsaz",
+          "name_ur": "",
+          "lat": 24.8761439,
+          "lon": 67.1010692
+        },
+        {
+          "name": "Nursery",
+          "name_ur": "",
+          "lat": 24.860866,
+          "lon": 67.0628421
+        },
+        {
+          "name": "FTC",
+          "name_ur": "",
+          "lat": 24.858449836777126,
+          "lon": 67.05022041587226
+        },
+        {
+          "name": "Regent Plaza",
+          "name_ur": "",
+          "lat": 24.855713,
+          "lon": 67.0389185
+        },
+        {
+          "name": "Metropole",
+          "name_ur": "",
+          "lat": 24.8506013,
+          "lon": 67.0299892
+        },
+        {
+          "name": "Fawwara Chowk",
+          "name_ur": "",
+          "lat": 24.85379451066601,
+          "lon": 67.02805522601828
+        },
+        {
+          "name": "Arts Council",
+          "name_ur": "",
+          "lat": 24.8532534,
+          "lon": 67.0209219
+        },
+        {
+          "name": "Shaheen Complex",
+          "name_ur": "",
+          "lat": 24.8508957,
+          "lon": 67.018763
+        },
+        {
+          "name": "I.I.Chundrigar",
+          "name_ur": "",
+          "lat": 24.848810645826088,
+          "lon": 66.9974697027558
+        },
+        {
+          "name": "Tower",
+          "name_ur": "",
+          "lat": 24.847932677751412,
+          "lon": 66.99524513871249
+        }
+      ]
+    }
+  ]
+}

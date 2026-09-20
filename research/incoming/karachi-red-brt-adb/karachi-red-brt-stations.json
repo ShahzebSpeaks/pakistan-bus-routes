@@ -1,0 +1,99 @@
+{
+  "assignment": "karachi-red-brt-adb",
+  "researched_on": "2026-09-21",
+  "systems": [
+    {
+      "id": "karachi-red-brt",
+      "city": "karachi",
+      "name": "Karachi Breeze Red Line",
+      "name_ur": "",
+      "operator": "Sindh Mass Transit Authority (SMTA) / TransKarachi",
+      "mode": "brt",
+      "website": "https://smta.gos.pk/",
+      "helpline": null,
+      "payment": "unknown",
+      "fare_rules": {
+        "type": "unknown",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "",
+        "as_of": null,
+        "source_url": null
+      },
+      "hours": { "start": null, "end": null, "notes": "" },
+      "sources": [
+        {
+          "title": "Karachi Bus Rapid Transit Red Line Project - Environmental Impact Assessment (EPCM Detailed Engineering Design, doc 382188 I 05 I D)",
+          "url": "https://www.adb.org/sites/default/files/linked-documents/47279-002-eiaab-01.pdf",
+          "publisher": "Asian Development Bank / Sindh Mass Transit Authority (prepared by Mott MacDonald)",
+          "date": "2018-11-29",
+          "official": true
+        },
+        {
+          "title": "Pakistan: Karachi Bus Rapid Transit Red Line Project",
+          "url": "https://www.aiib.org/en/projects/details/2019/approved/Pakistan-Karachi-Bus-Rapid-Transit.html",
+          "publisher": "Asian Infrastructure Investment Bank",
+          "date": "2019",
+          "official": true
+        }
+      ],
+      "routes": [
+        {
+          "id": "RED",
+          "name": "Red Line - Mazar-e-Quaid to Liaquat Avenue (Model Colony)",
+          "name_ur": "",
+          "variant": "brt",
+          "color": "#D32F2F",
+          "status": "under_construction",
+          "launched": null,
+          "length_km": 24.2,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            { "name": "Mazar-e-Quaid", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "Dawood University of Engineering", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "Usman Park", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "Central Jail", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "New Town PIB Colony", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "Faizan-e-Madina", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "Civic Center", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "Expo Center", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "Baitul Mukarram Masjid", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "Urdu University", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "NIPA", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "Metro", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "Safari Park", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "NED", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "KU", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "KU Botanical Garden", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "Sheikh Zayed Islamic Center", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "Mosamyat", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "Shumail Complex", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "Johar Complex", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "Safoora Chowk", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "Malir Check Post 6", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "Jinnah Avenue", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true },
+            { "name": "Liaquat Avenue Model Colony", "name_ur": "", "lat": null, "lon": null, "coord_source": null, "is_station": true }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Table 3-3: Red Line BRT Bus Station Inventory (EIA p.92 / report p.59)",
+              "url": "https://www.adb.org/sites/default/files/linked-documents/47279-002-eiaab-01.pdf"
+            }
+          ],
+          "notes": "Transcribed verbatim from Table 3-3 'Red Line BRT Bus Station Inventory' in the ADB/SMTA EIA (EPCM detailed engineering design, Mott MacDonald, 29 Nov 2018). The table numbers the stations 1-24 in two columns (1-12, 13-24) and the sequence matches the alignment described in the same document at E-3.2: MA Jinnah Rd at the Mazar-e-Quaid Mausoleum, along new MA Jinnah Rd to Jail Chowrangi, then University Road to Safoora Chowrangi, then Malir Cantonment Link Rd to Check Post No. 6, Tank Chowk and Malir Halt, then south along MA Jinnah Ave to a terminus at Liaquat Ave near Airport Rd. CAUTION: the same paragraph (para 194) states that 'names, number and location of stations beyond Safoora Intersection have not been finalized', so stations 21-24 may have changed; the design is also 2018 and the project has been re-scoped since (ADB quotes 26.6 km for the corridor plus associated facilities, AIIB quotes a 24.2 km main corridor plus a 2.4 km common corridor). Station type (at-grade / elevated) was not available at the time of the table. No coordinates are given in the source. Two depots: Mausamiat (Gulistan-e-Jauhar Block 6) and Malir Halt (near MA Jinnah Ave / Shahrah-e-Faisal). Off-corridor 'direct service' routes are described conceptually only; no route list is published."
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    "Whether stations 21-24 (Safoora Chowk, Malir Check Post 6, Jinnah Avenue, Liaquat Avenue Model Colony) survived the post-2018 redesign.",
+    "The 2.4 km 'common corridor' segment shared with the other BRT lines is not broken out into stations in this document.",
+    "No list of the off-corridor direct-service routes has been published by the ODBM consultant.",
+    "No coordinates published; stations would need geocoding from OSM."
+  ]
+}

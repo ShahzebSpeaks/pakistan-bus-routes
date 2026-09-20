@@ -618,59 +618,107 @@
       "color": "#ED1C24",
       "status": "under_construction",
       "launched": null,
-      "length_km": 26.5,
+      "length_km": 24.2,
       "headway_min": null,
       "hours": null,
       "fare_override": null,
       "women_only": false,
-      "stops_confidence": "low",
+      "stops_confidence": "medium",
       "stops": [
         {
-          "name": "Malir Halt",
-          "name_ur": "ملیر",
-          "lat": 24.884431,
-          "lon": 67.174428,
-          "coord_source": "auto:osm:relation/19948468",
+          "name": "Mazar-e-Quaid",
+          "name_ur": "",
+          "lat": 24.874697,
+          "lon": 67.039322,
+          "coord_source": "auto:osm:node/12151884013",
           "is_station": true
         },
         {
-          "name": "Model Colony",
+          "name": "Dawood University of Engineering",
           "name_ur": "",
-          "lat": 24.906833,
-          "lon": 67.189418,
-          "coord_source": "auto:osm:node/4776910202",
+          "lat": 24.878936,
+          "lon": 67.047507,
+          "coord_source": "auto:osm:way/687683684",
           "is_station": true
         },
         {
-          "name": "Safoora Chowrangi",
+          "name": "Usman Park",
           "name_ur": "",
-          "lat": 24.939138,
-          "lon": 67.156082,
-          "coord_source": "auto:osm:node/4419575568",
+          "lat": 24.88367,
+          "lon": 67.05344,
+          "coord_source": "auto:osm:way/550218846",
           "is_station": true
         },
         {
-          "name": "King Cottages",
+          "name": "Central Jail",
           "name_ur": "",
-          "lat": 24.936475,
-          "lon": 67.147964,
-          "coord_source": "auto:osm:node/5334673039",
+          "lat": 24.888936,
+          "lon": 67.051992,
+          "coord_source": "auto:osm:node/12235909644",
           "is_station": true
         },
         {
-          "name": "Met Office",
+          "name": "New Town PIB Colony",
           "name_ur": "",
-          "lat": 24.902192,
-          "lon": 67.139173,
-          "coord_source": "auto:nominatim:node/5134894142",
+          "lat": 24.890889,
+          "lon": 67.057573,
+          "coord_source": "auto:interpolated",
           "is_station": true
         },
         {
-          "name": "NED University",
+          "name": "Faizan-e-Madina",
           "name_ur": "",
-          "lat": 24.934065,
-          "lon": 67.111457,
-          "coord_source": "auto:osm:node/5334673041",
+          "lat": 24.892841,
+          "lon": 67.063154,
+          "coord_source": "auto:osm:node/12224078982",
+          "is_station": true
+        },
+        {
+          "name": "Civic Center",
+          "name_ur": "",
+          "lat": 24.899564,
+          "lon": 67.07219,
+          "coord_source": "auto:osm:node/4793640279",
+          "is_station": true
+        },
+        {
+          "name": "Expo Center",
+          "name_ur": "",
+          "lat": 24.902478,
+          "lon": 67.076273,
+          "coord_source": "auto:osm:node/4734128115",
+          "is_station": true
+        },
+        {
+          "name": "Baitul Mukarram Masjid",
+          "name_ur": "بیتول ممکارام جم مسجد",
+          "lat": 24.906563,
+          "lon": 67.082563,
+          "coord_source": "auto:osm:way/583418876",
+          "is_station": true
+        },
+        {
+          "name": "Urdu University",
+          "name_ur": "",
+          "lat": 24.911398,
+          "lon": 67.088658,
+          "coord_source": "auto:osm:node/4762522253",
+          "is_station": true
+        },
+        {
+          "name": "NIPA",
+          "name_ur": "",
+          "lat": 24.917907,
+          "lon": 67.096653,
+          "coord_source": "auto:osm:node/5112921419",
+          "is_station": true
+        },
+        {
+          "name": "Metro",
+          "name_ur": "",
+          "lat": 24.921156,
+          "lon": 67.105627,
+          "coord_source": "auto:osm:way/480873036",
           "is_station": true
         },
         {
@@ -682,67 +730,91 @@
           "is_station": true
         },
         {
-          "name": "Nipa Chowrangi",
+          "name": "NED",
           "name_ur": "",
-          "lat": 24.917907,
-          "lon": 67.096653,
-          "coord_source": "auto:osm:node/5112921419",
+          "lat": 24.931215,
+          "lon": 67.114866,
+          "coord_source": "auto:nominatim:way/1042968599",
           "is_station": true
         },
         {
-          "name": "Federal Urdu University",
+          "name": "KU",
           "name_ur": "",
-          "lat": 24.911398,
-          "lon": 67.088658,
-          "coord_source": "auto:osm:node/4762522253",
+          "lat": 24.930752,
+          "lon": 67.11879,
+          "coord_source": "auto:osm:node/4773096321",
           "is_station": true
         },
         {
-          "name": "Masjid Baitul Mukarram",
-          "name_ur": "بیتول ممکارام جم مسجد",
-          "lat": 24.906563,
-          "lon": 67.082563,
-          "coord_source": "auto:osm:way/583418876",
-          "is_station": true
-        },
-        {
-          "name": "Civic Centre",
+          "name": "KU Botanical Garden",
           "name_ur": "",
-          "lat": 24.900602,
-          "lon": 67.072837,
+          "lat": 24.932686,
+          "lon": 67.124552,
           "coord_source": "auto:interpolated",
           "is_station": true
         },
         {
-          "name": "Askari Park",
-          "name_ur": "عسكری پارک",
-          "lat": 24.894642,
-          "lon": 67.063112,
-          "coord_source": "auto:osm:way/237685983",
+          "name": "Sheikh Zayed Islamic Center",
+          "name_ur": "",
+          "lat": 24.93462,
+          "lon": 67.130314,
+          "coord_source": "auto:osm:node/5223039126",
           "is_station": true
         },
         {
-          "name": "Dawood University",
+          "name": "Mosamyat",
           "name_ur": "",
-          "lat": 24.878791,
-          "lon": 67.047539,
-          "coord_source": "auto:nominatim:way/687683684",
+          "lat": 24.936052,
+          "lon": 67.135672,
+          "coord_source": "auto:interpolated",
           "is_station": true
         },
         {
-          "name": "Society Office",
+          "name": "Shumail Complex",
           "name_ur": "",
-          "lat": 24.870354,
-          "lon": 67.047641,
-          "coord_source": "auto:osm:node/480643706",
+          "lat": 24.937484,
+          "lon": 67.141029,
+          "coord_source": "auto:osm:node/5130921814",
           "is_station": true
         },
         {
-          "name": "Numaish",
+          "name": "Johar Complex",
           "name_ur": "",
-          "lat": 24.872181,
-          "lon": 67.035523,
-          "coord_source": "auto:same-name:osm:node/8637095180",
+          "lat": 24.938989,
+          "lon": 67.147031,
+          "coord_source": "auto:osm:node/5130923027",
+          "is_station": true
+        },
+        {
+          "name": "Safoora Chowk",
+          "name_ur": "",
+          "lat": 24.939138,
+          "lon": 67.156082,
+          "coord_source": "auto:osm:node/4419575568",
+          "is_station": true
+        },
+        {
+          "name": "Malir Check Post 6",
+          "name_ur": "",
+          "lat": 24.925593,
+          "lon": 67.170481,
+          "coord_source": "auto:interpolated",
+          "is_station": true
+        },
+        {
+          "name": "Jinnah Avenue",
+          "name_ur": "جناح ایونیو",
+          "lat": 24.912049,
+          "lon": 67.18488,
+          "coord_source": "auto:osm:way/935503741",
+          "is_station": true
+        },
+        {
+          "name": "Liaquat Avenue Model Colony",
+          "name_ur": "",
+          "lat": 24.898937,
+          "lon": 67.191226,
+          "coord_source": "auto:nominatim:way/210666149",
           "is_station": true
         }
       ],
@@ -766,9 +838,13 @@
         {
           "title": "Sindh govt cancels BRT Red Line construction contract (Dawn)",
           "url": "https://www.dawn.com/news/1994042"
+        },
+        {
+          "title": "Table 3-3: Red Line BRT Bus Station Inventory (EIA p.92 / report p.59)",
+          "url": "https://www.adb.org/sites/default/files/linked-documents/47279-002-eiaab-01.pdf"
         }
       ],
-      "notes": "Not operational as of Sept 2026. TransKarachi (ADB/AIIB/GCF/GoS, ~$503m; 22 stations on 26.5 km dedicated corridor; 200+ bio-hybrid buses). Construction began 2022; contract cancelled April 2026 and re-awarded to FWO, work resumed 2026-04-26 with 90-day target for mixed-traffic lanes; press reports completion pushed to ~June 2027. Stop list from Zameen (2023) with Malir Halt added as terminal; rehbar lists different names (Mosamiyat Chowrangi, Sheikh Zayed Islamic Centre, Karachi University, Metro) and common corridor Numaish - Municipal Park - Saddar - Jama Cloth - Merewether Tower. Official station list not found; order approximate."
+      "notes": "Not operational as of Sept 2026. TransKarachi (ADB/AIIB/GCF/GoS, ~$503m; 22 stations on 26.5 km dedicated corridor; 200+ bio-hybrid buses). Construction began 2022; contract cancelled April 2026 and re-awarded to FWO, work resumed 2026-04-26 with 90-day target for mixed-traffic lanes; press reports completion pushed to ~June 2027. Stop list from Zameen (2023) with Malir Halt added as terminal; rehbar lists different names (Mosamiyat Chowrangi, Sheikh Zayed Islamic Centre, Karachi University, Metro) and common corridor Numaish - Municipal Park - Saddar - Jama Cloth - Merewether Tower. Official station list not found; order approximate.\n\nTranscribed verbatim from Table 3-3 'Red Line BRT Bus Station Inventory' in the ADB/SMTA EIA (EPCM detailed engineering design, Mott MacDonald, 29 Nov 2018). The table numbers the stations 1-24 in two columns (1-12, 13-24) and the sequence matches the alignment described in the same document at E-3.2: MA Jinnah Rd at the Mazar-e-Quaid Mausoleum, along new MA Jinnah Rd to Jail Chowrangi, then University Road to Safoora Chowrangi, then Malir Cantonment Link Rd to Check Post No. 6, Tank Chowk and Malir Halt, then south along MA Jinnah Ave to a terminus at Liaquat Ave near Airport Rd. CAUTION: the same paragraph (para 194) states that 'names, number and location of stations beyond Safoora Intersection have not been finalized', so stations 21-24 may have changed; the design is also 2018 and the project has been re-scoped since (ADB quotes 26.6 km for the corridor plus associated facilities, AIIB quotes a 24.2 km main corridor plus a 2.4 km common corridor). Station type (at-grade / elevated) was not available at the time of the table. No coordinates are given in the source. Two depots: Mausamiat (Gulistan-e-Jauhar Block 6) and Malir Halt (near MA Jinnah Ave / Shahrah-e-Faisal). Off-corridor 'direct service' routes are described conceptually only; no route list is published."
     },
     {
       "id": "YELLOW",
@@ -818,6 +894,10 @@
         {
           "title": "Yellow Line BRT EIA Vol 1 (2024)",
           "url": "https://urckarachi.org/wp-content/uploads/2024/09/BRT-Yellow-LIne-Volume-1-EIA-19-03-24_compressed.pdf"
+        },
+        {
+          "title": "Habib University Karachi bus network (CC-BY-4.0): D-10-part1",
+          "url": "https://doi.org/10.5281/zenodo.13951512"
         }
       ],
       "notes": "World Bank-funded. Alignment: Dawood Chowrangi, 8000 Road/Singer Chowrangi, Main Korangi Road, Jam Sadiq Bridge, FTC Interchange, Shahrah-e-Faisal, Shahrah-e-Quaideen, Kashmir Road, Numaish; link to Tower via common corridor. Station count conflict: 24 (2024 EIA, kmp.gos.pk) vs 28 (older docs/ProPakistani). As of July 2026 depots and new Jam Sadiq Bridge under construction; main corridor packages under tender/bid evaluation. Planned 256 electric buses, 6 direct + 3 feeder routes. Only terminals listed; station names not found in accessible sources."
@@ -840,9 +920,9 @@
         {
           "name": "Singer Chowrangi (Korangi Industrial Area)",
           "name_ur": "",
-          "lat": 24.851023,
-          "lon": 67.180959,
-          "coord_source": "auto:nominatim:way/499151531",
+          "lat": 24.847085,
+          "lon": 67.15963,
+          "coord_source": "ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:pink-bus-part2",
           "is_station": true
         },
         {
@@ -862,6 +942,10 @@
         {
           "title": "BRT Brown Line Pre-Feasibility (Scribd)",
           "url": "https://www.scribd.com/document/679954497/BRT-Brown-Line-Pre-Feasibility"
+        },
+        {
+          "title": "Habib University Karachi bus network (CC-BY-4.0): pink-bus-part2",
+          "url": "https://doi.org/10.5281/zenodo.13951512"
         }
       ],
       "notes": "Pre-feasibility only; no construction. Wikipedia: Singer Chowrangi - Shama Centre/Shah Faisal Colony - Drigh Road (KCR) - Nipa (Red Line) - Sohrab Goth (Blue Line) - Nagan Chowrangi (Green Line). Pre-feasibility cites 21.8 km Power House Chowrangi - Singer Chowrangi (northern terminal conflicts). Yellow Line EIA calls Brown an MRT corridor. Blue Line (Merewether Tower - Bahria Town) is also planned only and not included as a route."

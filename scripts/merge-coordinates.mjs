@@ -7,7 +7,9 @@
 // position, unless they already have a position checked by a person (coord_source without "auto:").
 // Positions written here get coord_source "ext:<source>:<line id>", which the build shows as
 // "from a route guide" and the geocoder never overwrites.
-//   node scripts/merge-coordinates.mjs <source-dir> [--dry] [--min-overlap 0.4]
+// With --only-weak the external position is used only where we have nothing better: a missing stop,
+// or one that was interpolated or found by a text search. OpenStreetMap matches are kept.
+//   node scripts/merge-coordinates.mjs <source-dir> [--dry] [--only-weak] [--min-overlap 0.4]
 import fs from 'node:fs';
 import path from 'node:path';
 import { ROOT, haversine, loadCities, loadSystems, nameKey, readJSON, writeJSON } from './lib.mjs';
@@ -15,6 +17,7 @@ import { ROOT, haversine, loadCities, loadSystems, nameKey, readJSON, writeJSON 
 const args = process.argv.slice(2);
 const dir = args.find((a) => !a.startsWith('--'));
 const dry = args.includes('--dry');
+const onlyWeak = args.includes('--only-weak');
 const minOverlap = Number(args[args.indexOf('--min-overlap') + 1]) || 0.4;
 if (!dir) {
   console.error('usage: node scripts/merge-coordinates.mjs research/incoming/<source> [--dry]');
@@ -73,6 +76,8 @@ for (const { file, system } of loadSystems()) {
         if (ext.lat < s || ext.lat > n || ext.lon < w || ext.lon > e) continue;
       }
       if (stop.lat != null && !isAuto(stop)) continue; // keep positions a person checked
+      // an OpenStreetMap match is better sourced than a third-party list
+      if (onlyWeak && stop.lat != null && /^auto:(osm|same-name)/.test(String(stop.coord_source))) continue;
       if (stop.lat != null && haversine(stop.lat, stop.lon, ext.lat, ext.lon) < 5 && String(stop.coord_source).startsWith('ext:')) continue;
       stop.lat = +Number(ext.lat).toFixed(6);
       stop.lon = +Number(ext.lon).toFixed(6);

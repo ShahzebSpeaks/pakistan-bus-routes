@@ -22,7 +22,7 @@
     "end": null,
     "notes": "Not operational as a mass-transit system."
   },
-  "last_verified": "2026-09-16",
+  "last_verified": "2026-09-21",
   "sources": [
     {
       "title": "Karachi Circular Railway - Wikipedia",
@@ -230,6 +230,138 @@
         }
       ],
       "notes": "Revival (43 km loop, 24-30 stations, electric trains) lost CPEC priority; May 2026 ADB pledged $1bn incl. $10m preparatory work (design review) - no construction. Sept 2021 groundbreaking produced no works. Stop list = legacy loop stations per Wikipedia (revival design may differ). A Pakistan Railways partial commuter train (Orangi/City - Pipri/Dhabeji) ran from Nov 2020; 2026 status unverified and not modelled. Liaquatabad not matched in OSM (nearby 'Sharifabad Railway Station' and a separate 'North Nazimabad' station exist) - left null. Loop closes back at Karachi City (listed twice)."
+    },
+    {
+      "id": "KCR-1UP",
+      "name": "KCR-1",
+      "name_ur": "",
+      "variant": "metro",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Pakistan Railways - Train Timings (official train dropdown)",
+          "url": "https://www.pakrail.gov.pk/TrainTiming.aspx",
+          "publisher": "Ministry of Railways, Government of Pakistan",
+          "date": "2026-09-21",
+          "official": true
+        },
+        {
+          "title": "Karachi Circular Railway begins partial operations",
+          "url": "https://www.dawn.com/news/1591237",
+          "publisher": "Dawn",
+          "date": "2020-11",
+          "official": false
+        }
+      ],
+      "notes": "Listed by Pakistan Railways as a bookable/served train on 2026-09-21. Termini and stop order were NOT published on the page and are deliberately left empty."
+    },
+    {
+      "id": "KCR-2DN",
+      "name": "KCR-2",
+      "name_ur": "",
+      "variant": "metro",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Pakistan Railways - Train Timings (official train dropdown)",
+          "url": "https://www.pakrail.gov.pk/TrainTiming.aspx",
+          "publisher": "Ministry of Railways, Government of Pakistan",
+          "date": "2026-09-21",
+          "official": true
+        },
+        {
+          "title": "Karachi Circular Railway begins partial operations",
+          "url": "https://www.dawn.com/news/1591237",
+          "publisher": "Dawn",
+          "date": "2020-11",
+          "official": false
+        }
+      ],
+      "notes": "Listed by Pakistan Railways as a bookable/served train on 2026-09-21. Termini and stop order were NOT published on the page and are deliberately left empty."
+    },
+    {
+      "id": "KCR-3DNDN",
+      "name": "KCR-3",
+      "name_ur": "",
+      "variant": "metro",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Pakistan Railways - Train Timings (official train dropdown)",
+          "url": "https://www.pakrail.gov.pk/TrainTiming.aspx",
+          "publisher": "Ministry of Railways, Government of Pakistan",
+          "date": "2026-09-21",
+          "official": true
+        },
+        {
+          "title": "Karachi Circular Railway begins partial operations",
+          "url": "https://www.dawn.com/news/1591237",
+          "publisher": "Dawn",
+          "date": "2020-11",
+          "official": false
+        }
+      ],
+      "notes": "Listed by Pakistan Railways as a bookable/served train on 2026-09-21. Termini and stop order were NOT published on the page and are deliberately left empty."
+    },
+    {
+      "id": "KCR-4DN",
+      "name": "KCR-4",
+      "name_ur": "",
+      "variant": "metro",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Pakistan Railways - Train Timings (official train dropdown)",
+          "url": "https://www.pakrail.gov.pk/TrainTiming.aspx",
+          "publisher": "Ministry of Railways, Government of Pakistan",
+          "date": "2026-09-21",
+          "official": true
+        },
+        {
+          "title": "Karachi Circular Railway begins partial operations",
+          "url": "https://www.dawn.com/news/1591237",
+          "publisher": "Dawn",
+          "date": "2020-11",
+          "official": false
+        }
+      ],
+      "notes": "Listed by Pakistan Railways as a bookable/served train on 2026-09-21. Termini and stop order were NOT published on the page and are deliberately left empty."
     }
   ]
 }

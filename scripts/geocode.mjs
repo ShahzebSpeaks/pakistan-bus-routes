@@ -9,12 +9,12 @@
 //      "Board Office (AO Chowk)" is matched on both parts, and the bracketed part is also used as
 //      an area hint. A candidate is accepted when it is unambiguous or fits between known neighbours.
 //   3. Outliers (stops that force a long detour between their neighbours) are removed again.
-//   4. Nominatim search (cached in data/cache/nominatim.json, 1 request/second) for the rest.
+//   4. Nominatim and Photon searches (cached under data/cache/, 1 request/second) for the rest.
 //   5. Interpolation between known neighbours, marked "auto:interpolated" (shown as estimated).
 // Optional private reference polylines in research/reference/<system-id>.geojson (feature
 // property route_id) are used only to reject candidates far from the known alignment.
 //
-//   node scripts/geocode.mjs [--refresh] [--no-nominatim] [system-id ...]
+//   node scripts/geocode.mjs [--refresh] [--no-nominatim] [--no-photon] [system-id ...]
 import fs from 'node:fs';
 import path from 'node:path';
 import {
@@ -25,11 +25,14 @@ import {
 const args = process.argv.slice(2);
 const refresh = args.includes('--refresh');
 const useNominatim = !args.includes('--no-nominatim');
+const usePhoton = !args.includes('--no-photon');
 const only = new Set(args.filter((a) => !a.startsWith('--')));
 
 const cities = new Map(loadCities().map((c) => [c.id, c]));
 const nominatimFile = path.join(CACHE_DIR, 'nominatim.json');
 const nominatimCache = readJSON(nominatimFile, {});
+const photonFile = path.join(CACHE_DIR, 'photon.json');
+const photonCache = readJSON(photonFile, {});
 const report = {};
 
 const isAuto = (s) => typeof s.coord_source === 'string' && s.coord_source.startsWith('auto:');
@@ -146,6 +149,43 @@ async function nominatimCandidates(stopName, city) {
   return nominatimCache[q]
     .map((r) => ({ lat: r.lat, lon: r.lon, score: 0.55 + 0.3 * tokenSimilarity(key, nameKey(r.name)), source: `auto:nominatim:${r.id}`, kind: r.type }))
     .filter((c) => c.score >= 0.7);
+}
+
+/**
+ * Photon (photon.komoot.io) searches the same OpenStreetMap data as Nominatim but matches partial
+ * and misspelled names much better, which suits hand-written stop names.
+ */
+async function photonCandidates(stopName, city) {
+  const clean = String(stopName).replace(/\([^)]*\)/g, ' ').replace(/\s+/g, ' ').trim();
+  if (clean.length < 3) return [];
+  const q = `${clean}|${city.id}`;
+  if (!(q in photonCache)) {
+    const [s, w, n, e] = city.bbox;
+    const [clat, clon] = city.center;
+    const url = `https://photon.komoot.io/api?q=${encodeURIComponent(clean)}&limit=5&lang=en&lat=${clat}&lon=${clon}&bbox=${w},${s},${e},${n}`;
+    try {
+      await sleep(1100);
+      const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT } });
+      if (!res.ok) return [];
+      const json = await res.json();
+      photonCache[q] = (json.features || [])
+        .filter((f) => f.properties?.countrycode === 'PK' || !f.properties?.countrycode)
+        .map((f) => ({
+          lat: f.geometry.coordinates[1],
+          lon: f.geometry.coordinates[0],
+          name: f.properties.name || f.properties.street || '',
+          id: `${f.properties.osm_type || 'N'}/${f.properties.osm_id}`,
+          type: `${f.properties.osm_key}=${f.properties.osm_value}`,
+        }));
+    } catch {
+      return [];
+    }
+    writeJSON(photonFile, photonCache);
+  }
+  const key = nameKey(clean);
+  return photonCache[q]
+    .map((r) => ({ lat: r.lat, lon: r.lon, score: 0.5 + 0.35 * tokenSimilarity(key, nameKey(r.name)), source: `auto:photon:${r.id}`, kind: r.type }))
+    .filter((c) => c.score >= 0.72);
 }
 
 /** Nearest located stops before and after i. */
@@ -321,11 +361,16 @@ for (const pass of [1, 2]) {
         grow();
       }
 
-      if (pass === 2 && useNominatim) {
+      if (pass === 2 && (useNominatim || usePhoton)) {
         for (let i = 0; i < stops.length; i++) {
           const s = stops[i];
           if (hasCoord(s)) continue;
-          const found = (await nominatimCandidates(s.name, city)).filter((c) => inBbox(c) && nearRef(c)).filter(notRejected(i));
+          const found = [
+            ...(useNominatim ? await nominatimCandidates(s.name, city) : []),
+            ...(usePhoton ? await photonCandidates(s.name, city) : []),
+          ]
+            .filter((c) => inBbox(c) && nearRef(c))
+            .filter(notRejected(i));
           const ok = found.map((c) => plausible(stops, i, c, spacingKm)).filter(Boolean);
           const anchored = ok.filter((c) => c.anchored);
           const pick = (anchored.length ? anchored : oneCluster(ok, 1500) ? ok : []).sort((a, b) => b.adjusted - a.adjusted)[0];
@@ -375,7 +420,7 @@ for (const pass of [1, 2]) {
           if (!hasCoord(s)) counts.missing++;
           else if (!isAuto(s)) counts.verified++;
           else if (isInterpolated(s)) counts.interpolated++;
-          else if (s.coord_source.startsWith('auto:nominatim')) counts.nominatim++;
+          else if (s.coord_source.startsWith('auto:nominatim') || s.coord_source.startsWith('auto:photon')) counts.nominatim++;
           else counts.osm++;
         }
       }

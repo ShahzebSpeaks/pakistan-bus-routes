@@ -1,0 +1,618 @@
+{
+  "source_url": "https://www.pakrail.gov.pk/TrainTiming.aspx",
+  "fetched_on": "2026-09-21",
+  "note": "Verbatim contents of the 'Train' dropdown on the official Pakistan Railways Train Timings page. The dropdown value is the site's internal train id. Submitting the form returned no timetable rows on 2026-09-21, so no stop times could be extracted.",
+  "count": 122,
+  "trains": [
+    {
+      "site_id": "3",
+      "code": "10DN",
+      "name": "Allama Iqbal Express"
+    },
+    {
+      "site_id": "4",
+      "code": "9UP",
+      "name": "Allama Iqbal Express"
+    },
+    {
+      "site_id": "7",
+      "code": "202DN",
+      "name": "Attock Passenger"
+    },
+    {
+      "site_id": "8",
+      "code": "201UP",
+      "name": "Attock Passenger"
+    },
+    {
+      "site_id": "9",
+      "code": "14DN",
+      "name": "Awam Express"
+    },
+    {
+      "site_id": "10",
+      "code": "13UP",
+      "name": "Awam Express"
+    },
+    {
+      "site_id": "13",
+      "code": "112DN",
+      "name": "Badar Express"
+    },
+    {
+      "site_id": "14",
+      "code": "111UP",
+      "name": "Badar Express"
+    },
+    {
+      "site_id": "17",
+      "code": "26DN",
+      "name": "Bahauddin Zakria Express"
+    },
+    {
+      "site_id": "18",
+      "code": "25UP",
+      "name": "Bahauddin Zakria Express"
+    },
+    {
+      "site_id": "21",
+      "code": "4DN",
+      "name": "Bolan Mail"
+    },
+    {
+      "site_id": "22",
+      "code": "3UP",
+      "name": "Bolan Mail"
+    },
+    {
+      "site_id": "23",
+      "code": "350DN",
+      "name": "Chaman Mixed"
+    },
+    {
+      "site_id": "24",
+      "code": "349UP",
+      "name": "Chaman Mixed"
+    },
+    {
+      "site_id": "25",
+      "code": "136DN",
+      "name": "Chenab Express"
+    },
+    {
+      "site_id": "26",
+      "code": "135UP",
+      "name": "Chenab Express"
+    },
+    {
+      "site_id": "33",
+      "code": "210DN",
+      "name": "Faiz Ahmed Faiz Passenger"
+    },
+    {
+      "site_id": "34",
+      "code": "209UP",
+      "name": "Faiz Ahmed Faiz Passenger"
+    },
+    {
+      "site_id": "35",
+      "code": "38DN",
+      "name": "Fareed Express"
+    },
+    {
+      "site_id": "36",
+      "code": "37UP",
+      "name": "Fareed Express"
+    },
+    {
+      "site_id": "42",
+      "code": "114DN",
+      "name": "Ghouri  Express"
+    },
+    {
+      "site_id": "43",
+      "code": "113UP",
+      "name": "Ghouri  Express"
+    },
+    {
+      "site_id": "44",
+      "code": "5UP",
+      "name": "Green Line"
+    },
+    {
+      "site_id": "45",
+      "code": "6DN",
+      "name": "Green Line"
+    },
+    {
+      "site_id": "48",
+      "code": "12DN",
+      "name": "Hazara Express"
+    },
+    {
+      "site_id": "49",
+      "code": "11UP",
+      "name": "Hazara Express"
+    },
+    {
+      "site_id": "52",
+      "code": "108DN",
+      "name": "Islamabad Express"
+    },
+    {
+      "site_id": "53",
+      "code": "107UP",
+      "name": "Islamabad Express"
+    },
+    {
+      "site_id": "54",
+      "code": "40DN",
+      "name": "Jaffar Express"
+    },
+    {
+      "site_id": "55",
+      "code": "39UP",
+      "name": "Jaffar Express"
+    },
+    {
+      "site_id": "56",
+      "code": "204DN",
+      "name": "Jand Passenger"
+    },
+    {
+      "site_id": "57",
+      "code": "203UP",
+      "name": "Jand Passenger"
+    },
+    {
+      "site_id": "58",
+      "code": "16DN",
+      "name": "Karachi Express"
+    },
+    {
+      "site_id": "59",
+      "code": "15UP",
+      "name": "Karachi Express"
+    },
+    {
+      "site_id": "60",
+      "code": "42DN",
+      "name": "Karakoram Express"
+    },
+    {
+      "site_id": "61",
+      "code": "41UP",
+      "name": "Karakoram Express"
+    },
+    {
+      "site_id": "70",
+      "code": "2DN",
+      "name": "Khyber Mail"
+    },
+    {
+      "site_id": "71",
+      "code": "1UP",
+      "name": "Khyber Mail"
+    },
+    {
+      "site_id": "84",
+      "code": "126DN",
+      "name": "Lasani Express"
+    },
+    {
+      "site_id": "85",
+      "code": "125UP",
+      "name": "Lasani Express"
+    },
+    {
+      "site_id": "92",
+      "code": "336DN",
+      "name": "Marvi Passenger"
+    },
+    {
+      "site_id": "93",
+      "code": "335UP",
+      "name": "Marvi Passenger"
+    },
+    {
+      "site_id": "94",
+      "code": "128DN",
+      "name": "Mehr Express"
+    },
+    {
+      "site_id": "95",
+      "code": "127UP",
+      "name": "Mehr Express"
+    },
+    {
+      "site_id": "96",
+      "code": "149UP",
+      "name": "Mehran Express"
+    },
+    {
+      "site_id": "97",
+      "code": "150DN",
+      "name": "Mehran Express"
+    },
+    {
+      "site_id": "100",
+      "code": "18DN",
+      "name": "Millat Express"
+    },
+    {
+      "site_id": "101",
+      "code": "17UP",
+      "name": "Millat Express"
+    },
+    {
+      "site_id": "116",
+      "code": "116DN",
+      "name": "Musa Pak Express"
+    },
+    {
+      "site_id": "117",
+      "code": "115UP",
+      "name": "Musa Pak Express"
+    },
+    {
+      "site_id": "120",
+      "code": "44DN",
+      "name": "Shah Hussain Express"
+    },
+    {
+      "site_id": "121",
+      "code": "43UP",
+      "name": "Shah Hussain Express"
+    },
+    {
+      "site_id": "127",
+      "code": "46DN",
+      "name": "Pakistan Express"
+    },
+    {
+      "site_id": "128",
+      "code": "45UP",
+      "name": "Pakistan Express"
+    },
+    {
+      "site_id": "153",
+      "code": "122DN",
+      "name": "Ravi Express"
+    },
+    {
+      "site_id": "154",
+      "code": "121UP",
+      "name": "Ravi Express"
+    },
+    {
+      "site_id": "155",
+      "code": "106DN",
+      "name": "Rawal Express"
+    },
+    {
+      "site_id": "156",
+      "code": "105UP",
+      "name": "Rawal Express"
+    },
+    {
+      "site_id": "157",
+      "code": "268DN",
+      "name": "Rawalpindi Passenger"
+    },
+    {
+      "site_id": "158",
+      "code": "267UP",
+      "name": "Rawalpindi Passenger"
+    },
+    {
+      "site_id": "163",
+      "code": "156DN",
+      "name": "Saman Sarkar Express"
+    },
+    {
+      "site_id": "164",
+      "code": "155UP",
+      "name": "Saman Sarkar Express"
+    },
+    {
+      "site_id": "171",
+      "code": "151UP",
+      "name": "Shah Latif Express"
+    },
+    {
+      "site_id": "172",
+      "code": "152DN",
+      "name": "Shah Latif Express"
+    },
+    {
+      "site_id": "177",
+      "code": "226DN",
+      "name": "Shaheen Passenger"
+    },
+    {
+      "site_id": "178",
+      "code": "225UP",
+      "name": "Shaheen Passenger"
+    },
+    {
+      "site_id": "181",
+      "code": "28DN",
+      "name": "Shalimar Express"
+    },
+    {
+      "site_id": "182",
+      "code": "27UP",
+      "name": "Shalimar Express"
+    },
+    {
+      "site_id": "185",
+      "code": "104DN",
+      "name": "Subak Kharam"
+    },
+    {
+      "site_id": "186",
+      "code": "103UP",
+      "name": "Subak Kharam"
+    },
+    {
+      "site_id": "187",
+      "code": "102DN",
+      "name": "Subak Raftar"
+    },
+    {
+      "site_id": "188",
+      "code": "101UP",
+      "name": "Subak Raftar"
+    },
+    {
+      "site_id": "189",
+      "code": "146DN",
+      "name": "Sukkur Express"
+    },
+    {
+      "site_id": "190",
+      "code": "145UP",
+      "name": "Sukkur Express"
+    },
+    {
+      "site_id": "195",
+      "code": "8DN",
+      "name": "Tezgam"
+    },
+    {
+      "site_id": "196",
+      "code": "7UP",
+      "name": "Tezgam"
+    },
+    {
+      "site_id": "197",
+      "code": "130DN",
+      "name": "Thall Express"
+    },
+    {
+      "site_id": "198",
+      "code": "129UP",
+      "name": "Thall Express"
+    },
+    {
+      "site_id": "234",
+      "code": "211UP",
+      "name": "Narowal Passenger"
+    },
+    {
+      "site_id": "235",
+      "code": "212DN",
+      "name": "Narowal Passenger"
+    },
+    {
+      "site_id": "245",
+      "code": "81UP",
+      "name": "1ST Eid Special"
+    },
+    {
+      "site_id": "246",
+      "code": "82UP",
+      "name": "2nd Eid Special"
+    },
+    {
+      "site_id": "247",
+      "code": "83UP",
+      "name": "3RD EID SPECIAL"
+    },
+    {
+      "site_id": "248",
+      "code": "84DN",
+      "name": "4TH EID SPECIAL"
+    },
+    {
+      "site_id": "250",
+      "code": "91UP",
+      "name": "4TH Eid Special"
+    },
+    {
+      "site_id": "251",
+      "code": "93UP",
+      "name": "1st EID SPECIAL"
+    },
+    {
+      "site_id": "252",
+      "code": "95UP",
+      "name": "Special Train"
+    },
+    {
+      "site_id": "253",
+      "code": "94DN",
+      "name": "4th EID-UL-FITR SPECIAL"
+    },
+    {
+      "site_id": "255",
+      "code": "133UP",
+      "name": "Kohat Express"
+    },
+    {
+      "site_id": "256",
+      "code": "134DN",
+      "name": "Kohat Express"
+    },
+    {
+      "site_id": "259",
+      "code": "47UP",
+      "name": "Rehman Baba Express"
+    },
+    {
+      "site_id": "260",
+      "code": "48DN",
+      "name": "Rehman Baba Express"
+    },
+    {
+      "site_id": "267",
+      "code": "213UP",
+      "name": "Mohinjo Daro Passenger"
+    },
+    {
+      "site_id": "268",
+      "code": "214DN",
+      "name": "Mohinjo Daro Passenger"
+    },
+    {
+      "site_id": "273",
+      "code": "PDK1UPDN",
+      "name": "PDK Shuttle"
+    },
+    {
+      "site_id": "274",
+      "code": "PDK 2DN",
+      "name": "PDK Shuttle"
+    },
+    {
+      "site_id": "275",
+      "code": "PDK-3DN",
+      "name": "PDK Shuttle"
+    },
+    {
+      "site_id": "276",
+      "code": "PDK-4DN",
+      "name": "PDK Shuttle"
+    },
+    {
+      "site_id": "277",
+      "code": "PDK-5DN",
+      "name": "PDK Shuttle"
+    },
+    {
+      "site_id": "278",
+      "code": "PDK-6DN",
+      "name": "PDK Shuttle"
+    },
+    {
+      "site_id": "285",
+      "code": "33UP",
+      "name": "Pak Business Express"
+    },
+    {
+      "site_id": "286",
+      "code": "34DN",
+      "name": "Pak Business Express"
+    },
+    {
+      "site_id": "287",
+      "code": "31UP",
+      "name": "Jinnah Express"
+    },
+    {
+      "site_id": "288",
+      "code": "32DN",
+      "name": "Jinnah Express"
+    },
+    {
+      "site_id": "294",
+      "code": "96DN",
+      "name": "Special Train"
+    },
+    {
+      "site_id": "295",
+      "code": "35UP",
+      "name": "Sir Sayyed Express"
+    },
+    {
+      "site_id": "296",
+      "code": "36DN",
+      "name": "Sir Sayyed Express"
+    },
+    {
+      "site_id": "297",
+      "code": "147UP",
+      "name": "Mianwali Express"
+    },
+    {
+      "site_id": "298",
+      "code": "148DN",
+      "name": "Mianwali Express"
+    },
+    {
+      "site_id": "310",
+      "code": "KCR-1UP",
+      "name": "KCR-1"
+    },
+    {
+      "site_id": "311",
+      "code": "KCR-2DN",
+      "name": "KCR-2"
+    },
+    {
+      "site_id": "312",
+      "code": "KCR-3DNDN",
+      "name": "KCR-3"
+    },
+    {
+      "site_id": "315",
+      "code": "KCR-4DN",
+      "name": "KCR-4"
+    },
+    {
+      "site_id": "324",
+      "code": "167UP",
+      "name": "TALIBGARAN-E-CHAL MADINA"
+    },
+    {
+      "site_id": "327",
+      "code": "170DN",
+      "name": "MOHADDIS-E-AZAM"
+    },
+    {
+      "site_id": "334",
+      "code": "99UPUP",
+      "name": "TEST"
+    },
+    {
+      "site_id": "335",
+      "code": "230DN",
+      "name": "1ST SEHWAN SPL"
+    },
+    {
+      "site_id": "336",
+      "code": "231UP",
+      "name": "1ST SEHWAN SPL"
+    },
+    {
+      "site_id": "337",
+      "code": "232DN",
+      "name": "2ND SEHWAN SPL"
+    },
+    {
+      "site_id": "338",
+      "code": "233UP",
+      "name": "2ND SEHWAN SPL"
+    },
+    {
+      "site_id": "339",
+      "code": "234DN",
+      "name": "3RD SEHWAN SPL"
+    },
+    {
+      "site_id": "340",
+      "code": "235UP",
+      "name": "3RD SEHWAN SPL"
+    }
+  ]
+}

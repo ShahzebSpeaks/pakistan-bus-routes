@@ -1,0 +1,326 @@
+{
+  "assignment": "organicmaps-lahore-metro",
+  "researched_on": "2026-09-21",
+  "license": "ODbL-1.0, derived from OpenStreetMap. Attribute: (c) OpenStreetMap contributors.",
+  "provenance": "Station order and the English/Urdu name pairing come from the Organic Maps 'subways' validator dump for Lahore (produced 2026-09-20 18:45 UTC from live OSM). Coordinates and name tags were re-fetched from the OSM API 0.6 by element id, so no value here is invented or interpolated.",
+  "systems": [
+    {
+      "id": "lahore-orange-line-osm",
+      "city": "lahore",
+      "name": "Lahore Orange Line Metro Train",
+      "name_ur": "لاہور اورنج لائن میٹرو ٹرین",
+      "operator": "Punjab Mass Transit Authority",
+      "mode": "metro_rail",
+      "website": "https://pma.punjab.gov.pk/",
+      "helpline": null,
+      "payment": "unknown",
+      "fare_rules": {
+        "type": "unknown",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "",
+        "as_of": null,
+        "source_url": null
+      },
+      "hours": {
+        "start": null,
+        "end": null,
+        "notes": ""
+      },
+      "sources": [
+        {
+          "title": "Organic Maps subway validator - Pakistan",
+          "url": "https://cdn.organicmaps.app/subway/pakistan.html"
+        },
+        {
+          "title": "Organic Maps subway validator - Lahore network dump (YAML)",
+          "url": "https://cdn.organicmaps.app/subway/lahore.yaml"
+        },
+        {
+          "title": "Organic Maps subway validator - Lahore network dump (GeoJSON)",
+          "url": "https://cdn.organicmaps.app/subway/lahore.geojson"
+        },
+        {
+          "title": "organicmaps/subways - the validator that produces these dumps",
+          "url": "https://github.com/organicmaps/subways"
+        },
+        {
+          "title": "OSM relation 11803498 (Orange Line: Dera Gujran to Ali Town)",
+          "url": "https://www.openstreetmap.org/relation/11803498"
+        },
+        {
+          "title": "OSM relation 11803500 (Orange Line: Ali Town to Dera Gujran)",
+          "url": "https://www.openstreetmap.org/relation/11803500"
+        },
+        {
+          "title": "OSM API 0.6 - coordinates and name tags for the 26 stations",
+          "url": "https://api.openstreetmap.org/api/0.6/nodes.json"
+        }
+      ],
+      "routes": [
+        {
+          "id": "O",
+          "name": "Orange Line: Dera Gujran - Ali Town",
+          "name_ur": "",
+          "variant": "metro",
+          "color": "#f7943a",
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Dera Gujran",
+              "name_ur": "ڈیرہ گجراں",
+              "lat": 31.5897383,
+              "lon": 74.4313009,
+              "coord_source": "osm:node/5844883299",
+              "is_station": true
+            },
+            {
+              "name": "Islam Park",
+              "name_ur": "اسلام پارک",
+              "lat": 31.5888788,
+              "lon": 74.4228338,
+              "coord_source": "osm:node/5844883298",
+              "is_station": true
+            },
+            {
+              "name": "Salamatpura",
+              "name_ur": "سلامت پورہ",
+              "lat": 31.587909,
+              "lon": 74.4130374,
+              "coord_source": "osm:node/5844883297",
+              "is_station": true
+            },
+            {
+              "name": "Mahmood Booti",
+              "name_ur": "محمود بوٹی",
+              "lat": 31.5868291,
+              "lon": 74.4024351,
+              "coord_source": "osm:node/5844883296",
+              "is_station": true
+            },
+            {
+              "name": "Pakistan Mint Station",
+              "name_ur": "پاکستان منٹ اسٹیشن",
+              "lat": 31.5852835,
+              "lon": 74.3892579,
+              "coord_source": "osm:node/8060376238",
+              "is_station": true
+            },
+            {
+              "name": "Shalimar Garden Station",
+              "name_ur": "شالا مار باغ اسٹیشن",
+              "lat": 31.583508,
+              "lon": 74.379841,
+              "coord_source": "osm:way/611924568",
+              "is_station": true
+            },
+            {
+              "name": "Baghbanpura",
+              "name_ur": "باغبان پورہ",
+              "lat": 31.5794163,
+              "lon": 74.3707828,
+              "coord_source": "osm:node/8058806340",
+              "is_station": true
+            },
+            {
+              "name": "U.E.T",
+              "name_ur": "یو-ای-ٹی",
+              "lat": 31.5772741,
+              "lon": 74.3608023,
+              "coord_source": "osm:node/8058806348",
+              "is_station": true
+            },
+            {
+              "name": "Sultanpura",
+              "name_ur": "سلطان پورہ",
+              "lat": 31.5757716,
+              "lon": 74.3507937,
+              "coord_source": "osm:node/8058806350",
+              "is_station": true
+            },
+            {
+              "name": "Railway Station",
+              "name_ur": "ریلوے اسٹیشن",
+              "lat": 31.5722982,
+              "lon": 74.3361528,
+              "coord_source": "osm:node/8058806356",
+              "is_station": true
+            },
+            {
+              "name": "Lakshmi",
+              "name_ur": "لکشمی",
+              "lat": 31.5686121,
+              "lon": 74.3272129,
+              "coord_source": "osm:node/9564940683",
+              "is_station": true
+            },
+            {
+              "name": "GPO",
+              "name_ur": "جی پی او",
+              "lat": 31.565575,
+              "lon": 74.314233,
+              "coord_source": "osm:way/611921782",
+              "is_station": true
+            },
+            {
+              "name": "Anarkali",
+              "name_ur": "انارکلی‎",
+              "lat": 31.56248,
+              "lon": 74.3093567,
+              "coord_source": "osm:node/5752543097",
+              "is_station": true
+            },
+            {
+              "name": "Chauburji",
+              "name_ur": "چوبرجی",
+              "lat": 31.5522961,
+              "lon": 74.302941,
+              "coord_source": "osm:node/8060376252",
+              "is_station": true
+            },
+            {
+              "name": "Gulshan-e-Ravi",
+              "name_ur": "گلشنِ راوی",
+              "lat": 31.5448979,
+              "lon": 74.2952995,
+              "coord_source": "osm:node/5844879609",
+              "is_station": true
+            },
+            {
+              "name": "Samanabad",
+              "name_ur": "سمن آباد",
+              "lat": 31.5397538,
+              "lon": 74.2928181,
+              "coord_source": "osm:node/5844879610",
+              "is_station": true
+            },
+            {
+              "name": "Bund Road",
+              "name_ur": "بند روڈ",
+              "lat": 31.5322399,
+              "lon": 74.287648,
+              "coord_source": "osm:node/5844879611",
+              "is_station": true
+            },
+            {
+              "name": "Salahudin Road",
+              "name_ur": "صلاح الدین روڈ",
+              "lat": 31.5245991,
+              "lon": 74.2833141,
+              "coord_source": "osm:node/5844889658",
+              "is_station": true
+            },
+            {
+              "name": "Shahnoor",
+              "name_ur": "شاہ نور",
+              "lat": 31.517424,
+              "lon": 74.2776467,
+              "coord_source": "osm:node/5844889657",
+              "is_station": true
+            },
+            {
+              "name": "Sabzazar",
+              "name_ur": "سبزہ زار",
+              "lat": 31.5101229,
+              "lon": 74.2728442,
+              "coord_source": "osm:node/5844889656",
+              "is_station": true
+            },
+            {
+              "name": "Awan Town",
+              "name_ur": "اعوان ٹاؤن",
+              "lat": 31.5033102,
+              "lon": 74.2682841,
+              "coord_source": "osm:node/5844889655",
+              "is_station": true
+            },
+            {
+              "name": "Wahdat Road",
+              "name_ur": "وحدت روڈ",
+              "lat": 31.4946893,
+              "lon": 74.2633664,
+              "coord_source": "osm:node/5844889654",
+              "is_station": true
+            },
+            {
+              "name": "Hanjarwal",
+              "name_ur": "ہنجروال",
+              "lat": 31.4862956,
+              "lon": 74.2583504,
+              "coord_source": "osm:node/5844889653",
+              "is_station": true
+            },
+            {
+              "name": "Canal View",
+              "name_ur": "کینال ویو",
+              "lat": 31.4806954,
+              "lon": 74.249204,
+              "coord_source": "osm:node/5844889652",
+              "is_station": true
+            },
+            {
+              "name": "Thokar Niaz Baig",
+              "name_ur": "ٹھوکر نیاز بیگ",
+              "lat": 31.4736422,
+              "lon": 74.2418249,
+              "coord_source": "osm:node/5844889651",
+              "is_station": true
+            },
+            {
+              "name": "Ali Town",
+              "name_ur": "علی ٹاؤن",
+              "lat": 31.464321,
+              "lon": 74.2438263,
+              "coord_source": "osm:node/5844889650",
+              "is_station": true
+            }
+          ],
+          "stops_confidence": "high",
+          "sources": [
+            {
+              "title": "Organic Maps subway validator - Pakistan",
+              "url": "https://cdn.organicmaps.app/subway/pakistan.html"
+            },
+            {
+              "title": "Organic Maps subway validator - Lahore network dump (YAML)",
+              "url": "https://cdn.organicmaps.app/subway/lahore.yaml"
+            },
+            {
+              "title": "Organic Maps subway validator - Lahore network dump (GeoJSON)",
+              "url": "https://cdn.organicmaps.app/subway/lahore.geojson"
+            },
+            {
+              "title": "organicmaps/subways - the validator that produces these dumps",
+              "url": "https://github.com/organicmaps/subways"
+            },
+            {
+              "title": "OSM relation 11803498 (Orange Line: Dera Gujran to Ali Town)",
+              "url": "https://www.openstreetmap.org/relation/11803498"
+            },
+            {
+              "title": "OSM relation 11803500 (Orange Line: Ali Town to Dera Gujran)",
+              "url": "https://www.openstreetmap.org/relation/11803500"
+            },
+            {
+              "title": "OSM API 0.6 - coordinates and name tags for the 26 stations",
+              "url": "https://api.openstreetmap.org/api/0.6/nodes.json"
+            }
+          ],
+          "notes": "One direction only (OSM relation 11803498, Dera Gujran to Ali Town). Relation 11803500 carries the same 26 stations in reverse. The Organic Maps validator reports the network complete: 1/1 line, 26/26 stations, 0 errors, 0 warnings, 1 notice. Colour #f7943a and ref 'O' come from the OSM relation tags, not from PMA."
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    "Headways, first/last train times and the current fare are not in OSM; they must come from PMA.",
+    "OSM node n9564940684 is tagged as a station but belongs to neither Orange Line relation - check whether it duplicates Lakshmi (n9564940683).",
+    "Shalimar Garden (w611924568) and GPO (w611921782) are mapped as building ways; the coordinates here are way-node centroids, not surveyed platform points."
+  ]
+}

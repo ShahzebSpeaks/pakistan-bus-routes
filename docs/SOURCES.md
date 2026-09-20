@@ -1,6 +1,6 @@
 # Sources
 
-Generated 2026-09-19 from `data/systems`. Facts (route numbers, stop names, fares, timings) were compiled from these public sources. Maps, images and text from them are not redistributed.
+Generated 2026-09-20 from `data/systems`. Facts (route numbers, stop names, fares, timings) were compiled from these public sources. Maps, images and text from them are not redistributed.
 
 ## Green Electric Bus Attock (attock)
 
@@ -237,9 +237,11 @@ Generated 2026-09-19 from `data/systems`. Facts (route numbers, stop names, fare
 - [Red Line BRT, Karachi (Zameen blog, Jan 2023)](https://www.zameen.com/blog/progress-red-line-brt-karachi.html)
 - [Karachi Red Line Bus Routes & Timings (rehbar.pk)](https://rehbar.pk/info/red-line-bus-karachi-brt-routes-and-timings/)
 - [Sindh govt cancels BRT Red Line construction contract (Dawn)](https://www.dawn.com/news/1994042)
+- [Table 3-3: Red Line BRT Bus Station Inventory (EIA p.92 / report p.59)](https://www.adb.org/sites/default/files/linked-documents/47279-002-eiaab-01.pdf)
 - [256 Electric Buses Planned for Karachi Yellow Line BRT (ProPakistani, 2026-06-11)](https://propakistani.pk/2026/06/11/256-electric-buses-planned-for-karachi-yellow-line-brt/)
 - [Karachi Yellow Line advances as spending, procurement and construction gather pace (INP/WealthPK)](https://www.inp.net.pk/news-detail/inp-wealthpk/karachi-yellow-line-advances-as-spending-procurement-and-construction-gather-pace)
 - [Yellow Line BRT EIA Vol 1 (2024)](https://urckarachi.org/wp-content/uploads/2024/09/BRT-Yellow-LIne-Volume-1-EIA-19-03-24_compressed.pdf)
+- [Habib University Karachi bus network (CC-BY-4.0): D-10-part1](https://doi.org/10.5281/zenodo.13951512)
 - [BRT Brown Line Pre-Feasibility (Scribd)](https://www.scribd.com/document/679954497/BRT-Brown-Line-Pre-Feasibility)
 
 ## Karachi Circular Railway (karachi)
@@ -248,16 +250,21 @@ Generated 2026-09-19 from `data/systems`. Facts (route numbers, stop names, fare
 - [ADB to provide $1bn for Karachi Circular Railway revival](https://www.dawn.com/news/1999757) · Dawn · 2026-05
 - [ADB assures $1bn support for Karachi Circular Railway revival](https://www.pakistantoday.com.pk/2026/05/13/adb-assures-dollar1bn-support-for-karachi-circular-railway-revival) · Pakistan Today · 2026-05-13
 - [OpenStreetMap Overpass extract (Karachi bbox), research/cache/osm_stations_stops.json](https://www.openstreetmap.org)
+- [Pakistan Railways - Train Timings (official train dropdown)](https://www.pakrail.gov.pk/TrainTiming.aspx) · Ministry of Railways, Government of Pakistan · 2026-09-21 · official
+- [Karachi Circular Railway begins partial operations](https://www.dawn.com/news/1591237) · Dawn · 2020-11
 
 ## Minibus and coach routes (2010 list) (karachi)
 
 - [Bus Routes Karachi (January 2010)](https://urckarachi.org/wp-content/uploads/2020/07/Bus-Routes-Karachi.pdf) · Urban Resource Centre, Karachi (compiled from adiekhan.blogspot.com, 2009) · 2010-01
 - [Intra-city provisional fare list for buses, minibuses and coaches](https://mwb.sindh.gov.pk/storage/Transport/intracity.jpeg) · Regional Transport Authority Karachi · 2026-04-04 · official
+- [Habib University Karachi bus network (CC-BY-4.0): X-8](https://doi.org/10.5281/zenodo.13951512)
+- [Karachi Smart Transit System (MIT): R4](https://github.com/FAST-Dev-Team-Semester-Projects)
 
 ## Private minibuses and coaches (karachi)
 
 - [RastaYaar: Karachi bus route finder, src/data/routes.ts](https://github.com/itsdeewankumar-tech/rastayaar) · itsdeewankumar-tech (GitHub) · 2026-09-07
 - [Intra-city provisional fare list for buses, minibuses and coaches](https://mwb.sindh.gov.pk/storage/Transport/intracity.jpeg) · Regional Transport Authority Karachi · 2026-04-04 · official
+- [Habib University Karachi bus network (CC-BY-4.0): 51-C](https://doi.org/10.5281/zenodo.13951512)
 
 ## Peoples Bus Service (karachi)
 
@@ -278,6 +285,8 @@ Generated 2026-09-19 from `data/systems`. Facts (route numbers, stop names, fare
 - [Peoples Bus Service (Wikipedia)](https://en.wikipedia.org/wiki/Peoples_Bus_Service) · Wikipedia
 - [Peoples Bus Service Karachi Routes & Fare Updated](https://www.incpak.com/national/peoples-bus-service-karachi-routes-fare/) · INCPak · 2026
 - [Peoples Bus Service in Karachi: Routes, Fare & More](https://www.zameen.com/blog/peoples-bus-service-karachi.html) · Zameen · 2022-11-01
+- [Habib University Karachi bus network (CC-BY-4.0): pink-bus-part1](https://doi.org/10.5281/zenodo.13951512)
+- [Karachi Smart Transit System (MIT): R1](https://github.com/FAST-Dev-Team-Semester-Projects)
 - [Gulshan-e-Maymar to Tower: Karachi to get new bus route](https://arynews.tv/sindh-announces-new-ev-bus-route-launch)
 - [Electric bus new route starts today (Roznama Dunya)](https://dunya.com.pk/index.php/city/karachi/2026-03-17/2644181)
 - [Launch of new EV-5 bus service operation DHA City near-by goths towards down town](https://smta.sindh.gov.pk/news/launch-of-new-ev-5-bus-service-operation-dha-city-near-by-goths-towards-down-town)
@@ -291,6 +300,8 @@ Generated 2026-09-19 from `data/systems`. Facts (route numbers, stop names, fare
 - [Govt Launches New Routes for Pink Bus Service in Karachi](https://propakistani.pk/2024/04/15/govt-launches-new-routes-for-pink-bus-service-in-karachi/) · ProPakistani · 2024-04-15
 - [Karachi Pink Bus service: new route, timings for women from Nov 17](https://tribune.com.pk/story/2577568/karachi-pink-bus-gets-new-route-timings-for-women) · The Express Tribune · 2025-11-15
 - [Pink Bus Service in Karachi: Route, Timings & More](https://www.zameen.com/blog/peoples-pink-bus-service-karachi.html) · Zameen · 2023-03-06
+- [Habib University Karachi bus network (CC-BY-4.0): pink-bus-part1](https://doi.org/10.5281/zenodo.13951512)
+- [Karachi Smart Transit System (MIT): R1](https://github.com/FAST-Dev-Team-Semester-Projects)
 - [Karachi Pink Bus Gets New Route & Timings for Women](https://www.techjuice.pk/karachi-pink-bus-gets-new-route-timings-for-women/)
 - [Karachi Pink Bus service updates route and timings for women](https://www.nation.com.pk/16-Nov-2025/karachi-pink-bus-service-updates-route-timings-women)
 
@@ -302,6 +313,7 @@ Generated 2026-09-19 from `data/systems`. Facts (route numbers, stop names, fare
 ## Yellow Line BRT direct and feeder services (planned) (karachi)
 
 - [Environmental Impact Assessment, BRT Yellow Line, Vol 1 (19-03-2024)](https://urckarachi.org/wp-content/uploads/2024/09/BRT-Yellow-LIne-Volume-1-EIA-19-03-24_compressed.pdf) · Sindh Mass Transit Authority (copy hosted by Urban Resource Centre) · 2024-03-19 · official
+- [Habib University Karachi bus network (CC-BY-4.0): F-17](https://doi.org/10.5281/zenodo.13951512)
 
 ## Green Electric Bus Kasur (kasur)
 
@@ -413,6 +425,10 @@ Generated 2026-09-19 from `data/systems`. Facts (route numbers, stop names, fare
 - [Govt mulls raise in fares of mass transit system in Lahore](https://www.dawn.com/news/1954150) · Dawn · 2025-11-10
 - [Punjab Ends Free Transport Facility for Public](https://propakistani.pk/2026/06/12/punjab-ends-free-transport-facility-for-public/) · ProPakistani · 2026-06-12
 - [Safar - Metro Bus](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-2)
+
+## Lahore notified bus routes (LUTMP survey, 2010) (lahore)
+
+- [The Project for Lahore Urban Transport Master Plan, Final Report Volume II of II, Chapter 1 Transport/Traffic Surveys, Table 1.2.11 Bus Occupancy Survey Routes Ten](https://openjicareport.jica.go.jp/pdf/12068219_01.pdf) · JICA / ALMEC Corp. / Oriental Consultants Co., Ltd. · 2012-03 · official
 
 ## Orange Line Metro Train (lahore)
 

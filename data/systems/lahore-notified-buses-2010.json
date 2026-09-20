@@ -1,0 +1,267 @@
+{
+  "id": "lahore-notified-buses-2010",
+  "city": "lahore",
+  "name": "Lahore notified bus routes (LUTMP survey, 2010)",
+  "name_ur": "",
+  "operator": "Private operators under Lahore Transport Company (LTC) notification: New Khan, Daewoo, Premier Bus Service, METRO",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": "2010",
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "last_verified": "2026-09-21",
+  "sources": [
+    {
+      "title": "The Project for Lahore Urban Transport Master Plan, Final Report Volume II of II, Chapter 1 Transport/Traffic Surveys, Table 1.2.11 Bus Occupancy Survey Routes Ten",
+      "url": "https://openjicareport.jica.go.jp/pdf/12068219_01.pdf",
+      "publisher": "JICA / ALMEC Corp. / Oriental Consultants Co., Ltd.",
+      "date": "2012-03",
+      "official": true
+    }
+  ],
+  "routes": [
+    {
+      "id": "4",
+      "name": "Lari Adda - Jallo More",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "historical",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [],
+      "sources": [
+        {
+          "title": "LUTMP Vol II Table 1.2.11",
+          "url": "https://openjicareport.jica.go.jp/pdf/12068219_01.pdf"
+        }
+      ],
+      "notes": "Operator: New Khan. Surveyed 14-Oct-2010. Termini only; no stop list published.\n\nFrom the JICA Lahore Urban Transport Master Plan (2010) list of notified bus routes. It may no longer run, and its numbering differs from today Speedo RT codes."
+    },
+    {
+      "id": "5",
+      "name": "Railway Station - DHA Y-Block Market",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "historical",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [],
+      "sources": [
+        {
+          "title": "LUTMP Vol II Table 1.2.11",
+          "url": "https://openjicareport.jica.go.jp/pdf/12068219_01.pdf"
+        }
+      ],
+      "notes": "Operator: Daewoo. Surveyed 20-Oct-2010. Termini only; no stop list published.\n\nFrom the JICA Lahore Urban Transport Master Plan (2010) list of notified bus routes. It may no longer run, and its numbering differs from today Speedo RT codes."
+    },
+    {
+      "id": "8",
+      "name": "Lari Adda - Airport",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "historical",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [],
+      "sources": [
+        {
+          "title": "LUTMP Vol II Table 1.2.11",
+          "url": "https://openjicareport.jica.go.jp/pdf/12068219_01.pdf"
+        }
+      ],
+      "notes": "Operator: New Khan. Surveyed 21-Oct-2010. Termini only; no stop list published.\n\nFrom the JICA Lahore Urban Transport Master Plan (2010) list of notified bus routes. It may no longer run, and its numbering differs from today Speedo RT codes."
+    },
+    {
+      "id": "9",
+      "name": "Railway Station - Purana Khana",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "historical",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [],
+      "sources": [
+        {
+          "title": "LUTMP Vol II Table 1.2.11",
+          "url": "https://openjicareport.jica.go.jp/pdf/12068219_01.pdf"
+        }
+      ],
+      "notes": "Operator: Premier Bus Service. Surveyed 15-Oct-2010. Termini only; no stop list published.\n\nFrom the JICA Lahore Urban Transport Master Plan (2010) list of notified bus routes. It may no longer run, and its numbering differs from today Speedo RT codes."
+    },
+    {
+      "id": "12",
+      "name": "Railway Station - Youhanna Abad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "historical",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [],
+      "sources": [
+        {
+          "title": "LUTMP Vol II Table 1.2.11",
+          "url": "https://openjicareport.jica.go.jp/pdf/12068219_01.pdf"
+        }
+      ],
+      "notes": "Operator: Premier Bus Service. Surveyed 19-Oct-2010. Termini only; no stop list published.\n\nFrom the JICA Lahore Urban Transport Master Plan (2010) list of notified bus routes. It may no longer run, and its numbering differs from today Speedo RT codes."
+    },
+    {
+      "id": "16",
+      "name": "Railway Station - Umer Chowk",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "historical",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [],
+      "sources": [
+        {
+          "title": "LUTMP Vol II Table 1.2.11",
+          "url": "https://openjicareport.jica.go.jp/pdf/12068219_01.pdf"
+        }
+      ],
+      "notes": "Operator: Daewoo. Surveyed 20-Oct-2010. Termini only; no stop list published.\n\nFrom the JICA Lahore Urban Transport Master Plan (2010) list of notified bus routes. It may no longer run, and its numbering differs from today Speedo RT codes."
+    },
+    {
+      "id": "17",
+      "name": "Railway Station - Jallo Pind",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "historical",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [],
+      "sources": [
+        {
+          "title": "LUTMP Vol II Table 1.2.11",
+          "url": "https://openjicareport.jica.go.jp/pdf/12068219_01.pdf"
+        }
+      ],
+      "notes": "Operator: New Khan. Surveyed 21-Oct-2010. Termini only; no stop list published.\n\nFrom the JICA Lahore Urban Transport Master Plan (2010) list of notified bus routes. It may no longer run, and its numbering differs from today Speedo RT codes."
+    },
+    {
+      "id": "19",
+      "name": "Purana Ravi Pull - Chungi Amar Sidhu",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "historical",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [],
+      "sources": [
+        {
+          "title": "LUTMP Vol II Table 1.2.11",
+          "url": "https://openjicareport.jica.go.jp/pdf/12068219_01.pdf"
+        }
+      ],
+      "notes": "Operator: Premier Bus Service. Surveyed 18-Oct-2010. Termini only; no stop list published.\n\nFrom the JICA Lahore Urban Transport Master Plan (2010) list of notified bus routes. It may no longer run, and its numbering differs from today Speedo RT codes."
+    },
+    {
+      "id": "22",
+      "name": "Jallo More - Thokar Niaz Baig",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "historical",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [],
+      "sources": [
+        {
+          "title": "LUTMP Vol II Table 1.2.11",
+          "url": "https://openjicareport.jica.go.jp/pdf/12068219_01.pdf"
+        }
+      ],
+      "notes": "Operator: New Khan. Surveyed 22-Oct-2010. Termini only; no stop list published.\n\nFrom the JICA Lahore Urban Transport Master Plan (2010) list of notified bus routes. It may no longer run, and its numbering differs from today Speedo RT codes."
+    },
+    {
+      "id": "33",
+      "name": "Railway Station - Green Town",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "historical",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [],
+      "sources": [
+        {
+          "title": "LUTMP Vol II Table 1.2.11",
+          "url": "https://openjicareport.jica.go.jp/pdf/12068219_01.pdf"
+        }
+      ],
+      "notes": "Operator: METRO. Surveyed 22-Oct-2010. Termini only; no stop list published.\n\nFrom the JICA Lahore Urban Transport Master Plan (2010) list of notified bus routes. It may no longer run, and its numbering differs from today Speedo RT codes."
+    }
+  ]
+}
