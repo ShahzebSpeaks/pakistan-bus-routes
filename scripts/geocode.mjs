@@ -131,7 +131,8 @@ function osmCandidates(index, stopName, stationMode) {
 
 async function nominatimCandidates(stopName, city) {
   const clean = String(stopName).replace(/\([^)]*\)/g, ' ').replace(/\s+/g, ' ').trim();
-  const q = `${clean}, ${city.name.replace(/\s*\(.*\)/, '')}, Pakistan`;
+  // Intercity stops sit in many towns, so they are searched country-wide instead of in one city.
+  const q = city.id === 'intercity' ? `${clean}, Pakistan` : `${clean}, ${city.name.replace(/\s*\(.*\)/, '')}, Pakistan`;
   if (!(q in nominatimCache)) {
     const [s, w, n, e] = city.bbox;
     const url = `https://nominatim.openstreetmap.org/search?format=jsonv2&limit=5&countrycodes=pk&bounded=1&viewbox=${w},${n},${e},${s}&q=${encodeURIComponent(q)}`;
@@ -302,7 +303,7 @@ for (const pass of [1, 2]) {
     if (!city) continue;
     const index = osmIndex(city.id);
     const refs = loadReference(system.id);
-    const stationMode = system.mode === 'brt' || system.mode === 'metro_rail';
+    const stationMode = ['brt', 'metro_rail', 'rail', 'intercity_bus'].includes(system.mode);
     const counts = { verified: 0, osm: 0, nominatim: 0, interpolated: 0, missing: 0 };
 
     for (const route of system.routes) {
@@ -311,7 +312,10 @@ for (const pass of [1, 2]) {
       // interpolated points are recomputed every pass so they follow improved anchors
       for (const s of stops) if (isInterpolated(s)) unset(s);
       const ref = refs.get(route.id);
-      const spacingKm = route.length_km && stops.length > 1 ? Math.max(0.6, (route.length_km / (stops.length - 1)) * 2.2) : stationMode ? 2.5 : 3;
+      const longDistance = system.mode === 'intercity_bus' || system.mode === 'rail';
+      const spacingKm = longDistance
+        ? 400 // intercity stops can be hundreds of kilometres apart
+        : route.length_km && stops.length > 1 ? Math.max(0.6, (route.length_km / (stops.length - 1)) * 2.2) : stationMode ? 2.5 : 3;
       const nearRef = (c) => !ref || pointLineDistance([c.lat, c.lon], ref.line, ref.cum).metres <= 700;
       const inBbox = (c) => c.lat >= city.bbox[0] && c.lat <= city.bbox[2] && c.lon >= city.bbox[1] && c.lon <= city.bbox[3];
       const rejected = new Set();

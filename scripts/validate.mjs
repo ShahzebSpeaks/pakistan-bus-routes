@@ -5,7 +5,7 @@ import { haversine, loadCities, loadSystems, nameKey } from './lib.mjs';
 
 const strict = process.argv.includes('--strict');
 const cities = new Map(loadCities().map((c) => [c.id, c]));
-const MODES = ['bus', 'brt', 'metro_rail', 'feeder', 'electric_bus'];
+const MODES = ['bus', 'brt', 'metro_rail', 'feeder', 'electric_bus', 'intercity_bus', 'rail'];
 const STATUSES = ['operational', 'under_construction', 'planned', 'suspended', 'unverified', 'historical'];
 const FARE_TYPES = ['flat', 'distance_slab', 'stop_count', 'range', 'unknown'];
 const errors = [];
@@ -72,7 +72,7 @@ for (const { file, system: s } of loadSystems()) {
         if (!st.coord_source) warnings.push(`${sw}: coordinates without coord_source`);
         if (prev) {
           const d = haversine(prev.lat, prev.lon, st.lat, st.lon);
-          const limit = (s.mode === 'metro_rail' ? 5000 : 6000) * Math.max(1, i - prev.i);
+          const limit = (s.mode === 'metro_rail' ? 5000 : s.mode === 'intercity_bus' || s.mode === 'rail' ? 400000 : 6000) * Math.max(1, i - prev.i);
           if (d > limit) warnings.push(`${sw}: ${(d / 1000).toFixed(1)} km from previous located stop, check geocoding`);
           // Two names for one place ("Golra Morh" / "Golra Morh Metro Station") is fine; unrelated names are not.
           const a = nameKey(st.name);

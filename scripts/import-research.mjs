@@ -14,7 +14,7 @@ const files = explicit.length
   : fs.readdirSync(researchDir).filter((f) => f.endsWith('.json')).map((f) => path.join(researchDir, f));
 
 const cityIds = new Set(loadCities().map((c) => c.id));
-const MODES = new Set(['bus', 'brt', 'metro_rail', 'feeder', 'electric_bus']);
+const MODES = new Set(['bus', 'brt', 'metro_rail', 'feeder', 'electric_bus', 'intercity_bus', 'rail']);
 const STATUSES = new Set(['operational', 'under_construction', 'planned', 'suspended', 'unverified', 'historical']);
 
 const num = (v) => (typeof v === 'number' && Number.isFinite(v) ? v : typeof v === 'string' && v.trim() && !isNaN(+v) ? +v : null);

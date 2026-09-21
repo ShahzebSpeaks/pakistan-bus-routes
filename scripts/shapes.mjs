@@ -83,7 +83,7 @@ for (const { system } of loadSystems().filter(({ system }) => !only.size || only
     let source = 'straight';
     let note = '';
     let straightLegs = 0;
-    if (mode !== 'metro_rail' && route.shape !== 'straight') {
+    if (mode !== 'metro_rail' && mode !== 'rail' && route.shape !== 'straight') {
       try {
         const legs = [];
         for (let i = 0; i < pts.length - 1; i += CHUNK - 1) {
@@ -121,7 +121,8 @@ for (const { system } of loadSystems().filter(({ system }) => !only.size || only
       }
     }
     straightLegsTotal += straightLegs;
-    const simplified = simplify(line, 5);
+    // Long-distance lines need far fewer points to look right.
+    const simplified = simplify(line, mode === 'intercity_bus' ? 60 : 5);
     const km = cumulative(simplified).at(-1) / 1000;
     writeJSON(file, {
       system: system.id,

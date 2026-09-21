@@ -1,6 +1,6 @@
 /** Shapes of the compiled per-city JSON produced by scripts/build-data.mjs. */
 
-export type Mode = 'bus' | 'brt' | 'metro_rail' | 'feeder' | 'electric_bus';
+export type Mode = 'bus' | 'brt' | 'metro_rail' | 'feeder' | 'electric_bus' | 'intercity_bus' | 'rail';
 /** historical = taken from an old list; shown for reference, never used by the trip planner */
 export type RouteStatus = 'operational' | 'under_construction' | 'planned' | 'suspended' | 'unverified' | 'historical';
 

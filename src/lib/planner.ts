@@ -35,7 +35,12 @@ export const SPEED_KMH: Record<Mode, number> = {
   electric_bus: 17,
   brt: 24,
   metro_rail: 34,
+  intercity_bus: 55,
+  rail: 45,
 };
+
+/** Long-distance services run far less often than city buses when no headway is published. */
+const DEFAULT_HEADWAY_BY_MODE: Partial<Record<Mode, number>> = { intercity_bus: 90, rail: 240 };
 
 /** Straight-line distance underestimates a real walk; this compensates. */
 export const WALK_DETOUR = 1.3;
@@ -135,7 +140,7 @@ export class Planner {
   }
 
   private waitMin(route: Route) {
-    return (route.headway_min ?? DEFAULT_HEADWAY_MIN) / 2;
+    return (route.headway_min ?? DEFAULT_HEADWAY_BY_MODE[route.mode] ?? DEFAULT_HEADWAY_MIN) / 2;
   }
 
   plan(from: Point, to: Point): Itinerary[] {

@@ -26,8 +26,8 @@ const VARIANT_COLORS = {
   feeder: ['#00897B', '#5E35B1', '#3949AB', '#6D4C41', '#F4511E', '#039BE5', '#7CB342', '#8D6E63', '#00ACC1', '#C0CA33', '#D81B60', '#546E7A'],
   default: ['#00897B', '#5E35B1', '#3949AB', '#F4511E', '#039BE5', '#7CB342', '#8D6E63', '#00ACC1', '#C0CA33', '#D81B60', '#546E7A', '#6D4C41'],
 };
-const GTFS_ROUTE_TYPE = { bus: 3, feeder: 3, electric_bus: 3, brt: 3, metro_rail: 1 };
-const SPEED_KMH = { bus: 16, feeder: 16, electric_bus: 17, brt: 24, metro_rail: 34 };
+const GTFS_ROUTE_TYPE = { bus: 3, feeder: 3, electric_bus: 3, brt: 3, metro_rail: 1, intercity_bus: 3, rail: 2 };
+const SPEED_KMH = { bus: 16, feeder: 16, electric_bus: 17, brt: 24, metro_rail: 34, intercity_bus: 55, rail: 45 };
 
 const quality = (s) => {
   if (s.lat == null) return 'missing';
