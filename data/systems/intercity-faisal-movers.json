@@ -1,0 +1,553 @@
+{
+  "id": "intercity-faisal-movers",
+  "city": "intercity",
+  "name": "Faisal Movers",
+  "name_ur": "",
+  "operator": "Faisal Movers (Pvt) Ltd",
+  "mode": "intercity_bus",
+  "website": "https://www.faisalmovers.com",
+  "helpline": "111-22-44-88 (061/042/051/021)",
+  "payment": "cash at terminal, online booking, Bookkaru app",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "Official site names Business and Economy; third parties also list Premium Plus, Executive, First Class, Sleeper.",
+    "as_of": "2026-09-21",
+    "source_url": "https://www.faisalmovers.com"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Faisal Movers homepage (fares)",
+      "url": "https://www.faisalmovers.com",
+      "publisher": "Faisal Movers",
+      "date": "2026-09-21",
+      "official": true
+    },
+    {
+      "title": "Faisal Movers contact us",
+      "url": "https://www.faisalmovers.com/contact-us/",
+      "publisher": "Faisal Movers",
+      "date": "2026-09-21",
+      "official": true
+    },
+    {
+      "title": "Faisal Movers route map / stop list",
+      "url": "https://www.faisalmovers.com/route-map/",
+      "publisher": "Faisal Movers",
+      "date": "2026-09-21",
+      "official": true
+    },
+    {
+      "title": "pkbuses.com Faisal Movers fare list (30 Aug 2026)",
+      "url": "https://pkbuses.com/faisal-movers-fare-list/",
+      "publisher": "pkbuses.com",
+      "date": "2026-08-30",
+      "official": false
+    },
+    {
+      "title": "sastaticket.pk Faisal Movers",
+      "url": "https://www.sastaticket.pk/bus-tickets/faisal-movers",
+      "publisher": "sastaticket.pk",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "FM-MUX-KHI",
+      "name": "Multan - Karachi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 4000,
+        "slabs": [],
+        "concessions": "Economy Rs 4000; Business Rs 5500 (official homepage, undated).",
+        "as_of": "2026-09-21",
+        "source_url": "https://www.faisalmovers.com"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Faisal Movers Terminal, near Vehari Chowk, Multan",
+          "name_ur": "",
+          "lat": 30.17471,
+          "lon": 71.50866,
+          "coord_source": "osm:node/8842650817",
+          "is_station": true
+        },
+        {
+          "name": "Faisal Movers Terminal, Sohrab Goth, Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Faisal Movers homepage fares",
+          "url": "https://www.faisalmovers.com"
+        },
+        {
+          "title": "pkbuses.com Faisal Movers fare list (30 Aug 2026)",
+          "url": "https://pkbuses.com/faisal-movers-fare-list/"
+        }
+      ],
+      "notes": "Intermediate stops and departures not published."
+    },
+    {
+      "id": "FM-LHR-FSD",
+      "name": "Lahore - Faisalabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1050,
+        "slabs": [],
+        "concessions": "Economy Rs 1050; Business Rs 1370 (official homepage, undated).",
+        "as_of": "2026-09-21",
+        "source_url": "https://www.faisalmovers.com"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Faisal Movers Terminal (Abdullah Travels), Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.53418,
+          "lon": 74.28266,
+          "coord_source": "osm:node/5766858313",
+          "is_station": true
+        },
+        {
+          "name": "Kohistan Terminal, Railway Colony (Rajbah Road), Faisalabad",
+          "name_ur": "",
+          "lat": 31.4174158,
+          "lon": 73.094663,
+          "coord_source": "osm:node/5137257337",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Faisal Movers homepage fares",
+          "url": "https://www.faisalmovers.com"
+        },
+        {
+          "title": "pkbuses.com Faisal Movers fare list (30 Aug 2026)",
+          "url": "https://pkbuses.com/faisal-movers-fare-list/"
+        }
+      ],
+      "notes": "Intermediate stops and departures not published."
+    },
+    {
+      "id": "FM-MUX-LHR",
+      "name": "Multan - Lahore",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1890,
+        "slabs": [],
+        "concessions": "Economy Rs 1890; Business Rs 2450 (official homepage, undated). pkbuses (30 Aug 2026) Lahore-Multan: Standard 1,850 / Premium Plus 2,350 / First 2,950.",
+        "as_of": "2026-09-21",
+        "source_url": "https://www.faisalmovers.com"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Faisal Movers Terminal, near Vehari Chowk, Multan",
+          "name_ur": "",
+          "lat": 30.17471,
+          "lon": 71.50866,
+          "coord_source": "osm:node/8842650817",
+          "is_station": true
+        },
+        {
+          "name": "Faisal Movers Terminal (Abdullah Travels), Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.53418,
+          "lon": 74.28266,
+          "coord_source": "osm:node/5766858313",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Faisal Movers homepage fares",
+          "url": "https://www.faisalmovers.com"
+        },
+        {
+          "title": "pkbuses.com Faisal Movers fare list (30 Aug 2026)",
+          "url": "https://pkbuses.com/faisal-movers-fare-list/"
+        }
+      ],
+      "notes": "Intermediate stops and departures not published."
+    },
+    {
+      "id": "FM-LHR-KHI",
+      "name": "Lahore - Karachi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 6700,
+        "slabs": [],
+        "concessions": "Economy Rs 6700; Business Rs 8290 (official homepage, undated).",
+        "as_of": "2026-09-21",
+        "source_url": "https://www.faisalmovers.com"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Faisal Movers Terminal (Abdullah Travels), Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.53418,
+          "lon": 74.28266,
+          "coord_source": "osm:node/5766858313",
+          "is_station": true
+        },
+        {
+          "name": "Faisal Movers Terminal, Sohrab Goth, Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Faisal Movers homepage fares",
+          "url": "https://www.faisalmovers.com"
+        },
+        {
+          "title": "pkbuses.com Faisal Movers fare list (30 Aug 2026)",
+          "url": "https://pkbuses.com/faisal-movers-fare-list/"
+        }
+      ],
+      "notes": "Intermediate stops and departures not published."
+    },
+    {
+      "id": "FM-LHR-PEW",
+      "name": "Lahore - Peshawar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 2490,
+        "slabs": [],
+        "concessions": "Economy Rs 2490; Business Rs 3600 (official homepage, undated).",
+        "as_of": "2026-09-21",
+        "source_url": "https://www.faisalmovers.com"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Faisal Movers Terminal (Abdullah Travels), Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.53418,
+          "lon": 74.28266,
+          "coord_source": "osm:node/5766858313",
+          "is_station": true
+        },
+        {
+          "name": "Faisal Movers, GT Road, Peshawar",
+          "name_ur": "",
+          "lat": 34.01622,
+          "lon": 71.61361,
+          "coord_source": "osm:node/9494432201",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Faisal Movers homepage fares",
+          "url": "https://www.faisalmovers.com"
+        },
+        {
+          "title": "pkbuses.com Faisal Movers fare list (30 Aug 2026)",
+          "url": "https://pkbuses.com/faisal-movers-fare-list/"
+        }
+      ],
+      "notes": "Intermediate stops and departures not published."
+    },
+    {
+      "id": "FM-MUX-PEW",
+      "name": "Multan - Peshawar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Faisal Movers Terminal, near Vehari Chowk, Multan",
+          "name_ur": "",
+          "lat": 30.17471,
+          "lon": 71.50866,
+          "coord_source": "osm:node/8842650817",
+          "is_station": true
+        },
+        {
+          "name": "Faisal Movers, GT Road, Peshawar",
+          "name_ur": "",
+          "lat": 34.01622,
+          "lon": 71.61361,
+          "coord_source": "osm:node/9494432201",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Faisal Movers homepage fares",
+          "url": "https://www.faisalmovers.com"
+        }
+      ],
+      "notes": "Sold via homepage quick-search link; fare not shown."
+    },
+    {
+      "id": "FM-LHR-ISB",
+      "name": "Lahore - Islamabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 2420,
+        "slabs": [],
+        "concessions": "Premium Plus Rs 2,420; First Class Rs 3,700.",
+        "as_of": "2026-08-30",
+        "source_url": "https://pkbuses.com/faisal-movers-fare-list/"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Faisal Movers Terminal (Abdullah Travels), Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.53418,
+          "lon": 74.28266,
+          "coord_source": "osm:node/5766858313",
+          "is_station": true
+        },
+        {
+          "name": "Faisal Movers Ghazali Terminal, GT Road (26 Number), Islamabad",
+          "name_ur": "",
+          "lat": 33.63043,
+          "lon": 72.94335,
+          "coord_source": "osm:node/13984864301",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Faisal Movers fare list (30 Aug 2026)",
+          "url": "https://pkbuses.com/faisal-movers-fare-list/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "FM-ISB-KHI",
+      "name": "Islamabad - Karachi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 8550,
+        "slabs": [],
+        "concessions": "Premium Plus / Executive Rs 8,550; Business Rs 9,555; Sleeper Rs 13,350.",
+        "as_of": "2026-08-30",
+        "source_url": "https://pkbuses.com/faisal-movers-fare-list/"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Faisal Movers Ghazali Terminal, GT Road (26 Number), Islamabad",
+          "name_ur": "",
+          "lat": 33.63043,
+          "lon": 72.94335,
+          "coord_source": "osm:node/13984864301",
+          "is_station": true
+        },
+        {
+          "name": "Faisal Movers Terminal, Sohrab Goth, Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Faisal Movers fare list (30 Aug 2026)",
+          "url": "https://pkbuses.com/faisal-movers-fare-list/"
+        },
+        {
+          "title": "sastaticket.pk Faisal Movers",
+          "url": "https://www.sastaticket.pk/bus-tickets/faisal-movers"
+        }
+      ],
+      "notes": "Journey about 16h30 (sastaticket)."
+    },
+    {
+      "id": "FM-ISB-MUX",
+      "name": "Islamabad - Multan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Faisal Movers Ghazali Terminal, GT Road (26 Number), Islamabad",
+          "name_ur": "",
+          "lat": 33.63043,
+          "lon": 72.94335,
+          "coord_source": "osm:node/13984864301",
+          "is_station": true
+        },
+        {
+          "name": "Faisal Movers Terminal, near Vehari Chowk, Multan",
+          "name_ur": "",
+          "lat": 30.17471,
+          "lon": 71.50866,
+          "coord_source": "osm:node/8842650817",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "sastaticket.pk Faisal Movers",
+          "url": "https://www.sastaticket.pk/bus-tickets/faisal-movers"
+        }
+      ],
+      "notes": "Journey about 5h30 (sastaticket)."
+    },
+    {
+      "id": "FM-ISB-TXK",
+      "name": "Islamabad - Tashkurgan (China)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 32000,
+        "slabs": [],
+        "concessions": "Executive.",
+        "as_of": "2026-08-30",
+        "source_url": "https://pkbuses.com/faisal-movers-fare-list/"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Faisal Movers Ghazali Terminal, GT Road (26 Number), Islamabad",
+          "name_ur": "",
+          "lat": 33.63043,
+          "lon": 72.94335,
+          "coord_source": "osm:node/13984864301",
+          "is_station": true
+        },
+        {
+          "name": "Tashkurgan",
+          "name_ur": "",
+          "lat": 37.77082,
+          "lon": 75.22809,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Faisal Movers fare list (30 Aug 2026)",
+          "url": "https://pkbuses.com/faisal-movers-fare-list/"
+        }
+      ],
+      "notes": "Only on a third-party fare list; 'CHINA' also appears in the official stop list."
+    }
+  ],
+  "last_verified": "2026-09-21"
+}

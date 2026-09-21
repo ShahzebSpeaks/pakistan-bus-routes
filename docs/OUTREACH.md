@@ -18,11 +18,14 @@ Only use a source in `data/` after you have written permission, and record that 
 | 8 | **redbus.shop** (Surge Studios) | Karachi route chains | Useful cross-check for PBS stops | `surgestudioshq@gmail.com` |
 | 9 | **Think Transportation** | Karachi PBS route alignment map (Google My Maps) | Used only privately to check our geocoding; permission would let us publish better lines | https://thinktransportation.net (contact page) |
 | 10 | **Regional Transport Authority Karachi** | Register of private bus routes and permits | No public route list exists | Right of Access to Information request (Sindh Transparency and Right to Information Act 2016) |
-| 11 | **Cheeltech (mnzil.app)** | 145 Karachi routes, including 66 Chinchi/Qingqi routes that no other source we found has | Chinchi routes are missing from our data entirely | Contact through mnzil.app |
+| 11 | **Cheeltech (mnzil.app)** | 145+ Karachi routes, including 70 Chinchi/Qingqi routes that no other source we found has | We already use their public stop lists with credit. Permission and stop positions would make this data safe and accurate | Contact through mnzil.app |
 | 12 | **Yango Pakistan** | The 60+ routes behind its Superapp Transport feature (Lahore, Karachi, Islamabad, Rawalpindi) | Recent, curated, and they publicly invited partnerships | Yango Pakistan press and partnerships contact |
 | 13 | **Fahad741/SpeedoRoutes** (GitHub) | 34 Lahore Speedo routes with stops; we hold 23 | Would complete the Speedo network | Open an issue asking for the source and a licence |
 | 14 | **mabdullahamjad/Rahnuma** (GitHub) | Rawalpindi R-1 to R-10 feeder routes, which we do not have | Adds a whole missing network | Ask for the original spreadsheet and who issued it |
 | 15 | **CDA Islamabad (again, stronger case)** | Their GTFS feed. Google Maps shows live Islamabad transit with no stale-data banner, which means CDA almost certainly maintains a GTFS feed | Would give real timetables for 21 routes | Right of Access to Information request, citing the Google Maps integration announced in August 2025 |
+| 16 | **Pakistan Railways** | Stop-level timetables for every train (the website's timetable page returns no rows) | Our train times come from a third-party site | Right of Access to Information request to the Ministry of Railways, or PR's IT directorate |
+| 17 | **Bookme.pk / Sastaticket.pk** | Operator route lists, terminals and timetables for intercity buses | Would replace dated third-party fare and timing pages | Partnerships contact on each site |
+| 18 | **RTA Rawalpindi and Islamabad Transport Authority** | Current wagon and Hiace route permits and fare tables | Our twin-city wagon routes come from 2007–2015 lists | Right of Access to Information request (Punjab Transparency and RTI Act 2013 / federal RTI Act 2017) |
 
 ## Email: data sharing request (safar.fyi, SMTA, PMA, URC, redbus.shop, Think Transportation)
 

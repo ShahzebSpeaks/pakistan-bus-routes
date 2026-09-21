@@ -1,0 +1,1012 @@
+{
+  "id": "intercity-pta-sindh",
+  "city": "intercity",
+  "name": "Sindh intercity provisional fares (PTA Sindh)",
+  "name_ur": "",
+  "operator": "Provincial Transport Authority, Sindh (regulator; routes are run by private operators)",
+  "mode": "intercity_bus",
+  "website": "https://transport.sindh.gov.pk/fares",
+  "helpline": "021-99211019",
+  "payment": "cash (private operators)",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "Per-km rates for routes not in the list: deluxe non-AC bus Rs 3.30/km, non-AC van Rs 3.10/km, AC bus Rs 3.80/km, AC van Rs 3.50/km, per passenger.",
+    "as_of": "2026-04-04",
+    "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Intercity Provisional Fare Rates List",
+      "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg",
+      "publisher": "Provincial Transport Authority, Sindh",
+      "date": "2026-04-04",
+      "official": true
+    },
+    {
+      "title": "Transport & Mass Transit Department Sindh - Fares page",
+      "url": "https://transport.sindh.gov.pk/fares",
+      "publisher": "Govt of Sindh, Transport & Mass Transit Dept",
+      "date": "2026-09-21",
+      "official": true
+    }
+  ],
+  "routes": [
+    {
+      "id": "PTA-01",
+      "name": "Karachi - Hyderabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 160,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 528,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 528; non-AC van Rs 496; AC bus Rs 608; AC van Rs 560 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Hyderabad",
+          "name_ur": "",
+          "lat": 25.396,
+          "lon": 68.3578,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way."
+    },
+    {
+      "id": "PTA-02",
+      "name": "Karachi - Jamshoro",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 153,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 505,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 505; non-AC van Rs 475; AC bus Rs 581; AC van Rs 535 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Jamshoro",
+          "name_ur": "",
+          "lat": 25.42972,
+          "lon": 68.28173,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way."
+    },
+    {
+      "id": "PTA-03",
+      "name": "Karachi - Sehwan Sharif",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 285,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 940,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 940; non-AC van Rs 883; AC bus Rs 1083; AC van Rs 997 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Sehwan Sharif",
+          "name_ur": "",
+          "lat": 26.4256,
+          "lon": 67.86256,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way."
+    },
+    {
+      "id": "PTA-04",
+      "name": "Karachi - Dadu",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 330,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1090,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 1090; non-AC van Rs 1023; AC bus Rs 1255; AC van Rs 1155 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Dadu",
+          "name_ur": "",
+          "lat": 26.72748,
+          "lon": 67.7805,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way."
+    },
+    {
+      "id": "PTA-05",
+      "name": "Karachi - Larkana",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 456,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1505,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 1505; non-AC van Rs 1415; AC bus Rs 1733; AC van Rs 1596 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Larkana",
+          "name_ur": "",
+          "lat": 27.557,
+          "lon": 68.2264,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way."
+    },
+    {
+      "id": "PTA-06",
+      "name": "Karachi - Mirpurkhas",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 233,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 769,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 769; non-AC van Rs 722; AC bus Rs 885; AC van Rs 815 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Mirpurkhas",
+          "name_ur": "",
+          "lat": 25.5276,
+          "lon": 69.0111,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way."
+    },
+    {
+      "id": "PTA-07",
+      "name": "Karachi - Khipro via Mirpurkhas",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 234,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 772,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 772; non-AC van Rs 725; AC bus Rs 889; AC van Rs 819 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Mirpurkhas",
+          "name_ur": "",
+          "lat": 25.5276,
+          "lon": 69.0111,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Khipro",
+          "name_ur": "",
+          "lat": 25.82734,
+          "lon": 69.37573,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way."
+    },
+    {
+      "id": "PTA-08",
+      "name": "Karachi - Kunri",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 305,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1006,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 1006; non-AC van Rs 945; AC bus Rs 1159; AC van Rs 1067 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Kunri",
+          "name_ur": "",
+          "lat": 25.1783,
+          "lon": 69.5658,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way."
+    },
+    {
+      "id": "PTA-09",
+      "name": "Karachi - Umerkot",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 320,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1056,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 1056; non-AC van Rs 992; AC bus Rs 1216; AC van Rs 1120 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Umerkot",
+          "name_ur": "",
+          "lat": 25.36553,
+          "lon": 69.74013,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way."
+    },
+    {
+      "id": "PTA-10",
+      "name": "Karachi - Mithi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 325,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1073,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 1073; non-AC van Rs 1008; AC bus Rs 1235; AC van Rs 1138 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Mithi",
+          "name_ur": "",
+          "lat": 24.73641,
+          "lon": 69.79734,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way."
+    },
+    {
+      "id": "PTA-11",
+      "name": "Karachi - Islamkot",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 372,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1228,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 1228; non-AC van Rs 1154; AC bus Rs 1414; AC van Rs 1302 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Islamkot",
+          "name_ur": "",
+          "lat": 24.70095,
+          "lon": 70.17847,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way."
+    },
+    {
+      "id": "PTA-12",
+      "name": "Karachi - Tando Adam",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 211,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 696,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 696; non-AC van Rs 654; AC bus Rs 802; AC van Rs 738 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Tando Adam",
+          "name_ur": "",
+          "lat": 25.7621,
+          "lon": 68.65781,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way."
+    },
+    {
+      "id": "PTA-13",
+      "name": "Karachi - Sanghar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 256,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 849,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 849; non-AC van Rs 794; AC bus Rs 973; AC van Rs 896 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Sanghar",
+          "name_ur": "",
+          "lat": 26.0464,
+          "lon": 68.9481,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way. Printed non-AC bus fare Rs 849 does not match 256 km x Rs 3.30 = Rs 845 (the other three classes do match 256 km); kept as printed."
+    },
+    {
+      "id": "PTA-14",
+      "name": "Karachi - Shaheed Benazirabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 268,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 884,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 884; non-AC van Rs 831; AC bus Rs 1018; AC van Rs 938 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Shaheed Benazirabad",
+          "name_ur": "",
+          "lat": 26.31753,
+          "lon": 68.30829,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way. Shaheed Benazirabad = Nawabshah."
+    },
+    {
+      "id": "PTA-15",
+      "name": "Karachi - Sukkur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 463,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1528,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 1528; non-AC van Rs 1435; AC bus Rs 1759; AC van Rs 1620 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Sukkur",
+          "name_ur": "",
+          "lat": 27.69619,
+          "lon": 68.85888,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way."
+    },
+    {
+      "id": "PTA-16",
+      "name": "Karachi - Shikarpur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 524,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1730,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 1730; non-AC van Rs 1625; AC bus Rs 1991; AC van Rs 1834 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Shikarpur",
+          "name_ur": "",
+          "lat": 27.9579,
+          "lon": 68.6467,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way."
+    },
+    {
+      "id": "PTA-17",
+      "name": "Karachi - Kandhkot",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 590,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1947,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 1947; non-AC van Rs 1829; AC bus Rs 2242; AC van Rs 2065 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Kandhkot",
+          "name_ur": "",
+          "lat": 28.2449,
+          "lon": 69.18142,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way."
+    },
+    {
+      "id": "PTA-18",
+      "name": "Karachi - Kashmore",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 584,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1927,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 1927; non-AC van Rs 1810; AC bus Rs 2219; AC van Rs 2044 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Kashmore",
+          "name_ur": "",
+          "lat": 28.43229,
+          "lon": 69.58148,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way."
+    },
+    {
+      "id": "PTA-19",
+      "name": "Karachi - Thatta",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 103,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 340,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 340; non-AC van Rs 319; AC bus Rs 391; AC van Rs 360 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Thatta",
+          "name_ur": "",
+          "lat": 24.7469,
+          "lon": 67.92403,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way."
+    },
+    {
+      "id": "PTA-20",
+      "name": "Karachi - Badin",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 211,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 696,
+        "slabs": [],
+        "concessions": "Deluxe non-AC bus Rs 696; non-AC van Rs 654; AC bus Rs 802; AC van Rs 738 (per passenger, provisional).",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Badin",
+          "name_ur": "",
+          "lat": 24.6558,
+          "lon": 68.8383,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PTA Sindh Intercity Provisional Fare Rates List, 4 Apr 2026",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg"
+        }
+      ],
+      "notes": "Official provisional fare route; the notice names only the two cities, not a terminal, and gives no timetable. Fares apply per passenger, one way."
+    }
+  ],
+  "last_verified": "2026-09-21"
+}

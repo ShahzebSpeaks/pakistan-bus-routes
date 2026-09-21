@@ -1,0 +1,975 @@
+{
+  "id": "intercity-niazi-express",
+  "city": "intercity",
+  "name": "Niazi Express",
+  "name_ur": "",
+  "operator": "Niazi Express (private)",
+  "mode": "intercity_bus",
+  "website": "https://www.niaziexpress.com.pk",
+  "helpline": "042-111-22-99-99",
+  "payment": "cash at terminal / online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "Classes: Standard, Niazi Executive, Niazi 99 Luxury (sastaticket).",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Niazi Express - Our terminals",
+      "url": "https://www.niaziexpress.com.pk/our-terminals/",
+      "publisher": "Niazi Express",
+      "date": "2026-09-21",
+      "official": true
+    },
+    {
+      "title": "bookme.pk Niazi Express",
+      "url": "https://bookme.pk/niazi-express",
+      "publisher": "bookme.pk",
+      "date": "2026-09-21",
+      "official": false
+    },
+    {
+      "title": "pkbuses.com Niazi Express (Aug 2026)",
+      "url": "https://pkbuses.com/bus-services/niazi-express",
+      "publisher": "pkbuses.com",
+      "date": "2026-08",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "NZ-LHR-BAHAWALP",
+      "name": "Lahore - Bahawalpur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Adda, Band Road (Shera Kot), Lahore",
+          "name_ur": "",
+          "lat": 31.5372,
+          "lon": 74.27331,
+          "coord_source": "osm:node/3230595900",
+          "is_station": true
+        },
+        {
+          "name": "Bahawalpur",
+          "name_ur": "",
+          "lat": 29.394644,
+          "lon": 71.663875,
+          "coord_source": "auto:photon:R/16117506",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Niazi Express - Our terminals",
+          "url": "https://www.niaziexpress.com.pk/our-terminals/"
+        },
+        {
+          "title": "bookme.pk Niazi Express",
+          "url": "https://bookme.pk/niazi-express"
+        }
+      ],
+      "notes": "Sold on Bookme; intermediate stops not published."
+    },
+    {
+      "id": "NZ-LHR-PESHAWAR",
+      "name": "Lahore - Peshawar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 2500,
+        "slabs": [],
+        "concessions": "Economy (third-party).",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/niazi-express"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Adda, Band Road (Shera Kot), Lahore",
+          "name_ur": "",
+          "lat": 31.5372,
+          "lon": 74.27331,
+          "coord_source": "osm:node/3230595900",
+          "is_station": true
+        },
+        {
+          "name": "Niazi Express, GT Road, Peshawar",
+          "name_ur": "",
+          "lat": 34.0168,
+          "lon": 71.61134,
+          "coord_source": "osm:node/9494397052",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Niazi Express - Our terminals",
+          "url": "https://www.niaziexpress.com.pk/our-terminals/"
+        },
+        {
+          "title": "bookme.pk Niazi Express",
+          "url": "https://bookme.pk/niazi-express"
+        },
+        {
+          "title": "pkbuses.com Niazi Express (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/niazi-express"
+        }
+      ],
+      "notes": "Sold on Bookme; intermediate stops not published."
+    },
+    {
+      "id": "NZ-LHR-DERAISMA",
+      "name": "Lahore - Dera Ismail Khan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Adda, Band Road (Shera Kot), Lahore",
+          "name_ur": "",
+          "lat": 31.5372,
+          "lon": 74.27331,
+          "coord_source": "osm:node/3230595900",
+          "is_station": true
+        },
+        {
+          "name": "Dera Ismail Khan",
+          "name_ur": "",
+          "lat": 31.827527,
+          "lon": 70.909092,
+          "coord_source": "auto:nominatim:node/279821922",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Niazi Express - Our terminals",
+          "url": "https://www.niaziexpress.com.pk/our-terminals/"
+        },
+        {
+          "title": "bookme.pk Niazi Express",
+          "url": "https://bookme.pk/niazi-express"
+        }
+      ],
+      "notes": "Sold on Bookme; intermediate stops not published."
+    },
+    {
+      "id": "NZ-LHR-BAHAWALN",
+      "name": "Lahore - Bahawalnagar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Adda, Band Road (Shera Kot), Lahore",
+          "name_ur": "",
+          "lat": 31.5372,
+          "lon": 74.27331,
+          "coord_source": "osm:node/3230595900",
+          "is_station": true
+        },
+        {
+          "name": "Bahawalnagar",
+          "name_ur": "",
+          "lat": 29.993592,
+          "lon": 73.252762,
+          "coord_source": "auto:nominatim:node/281410118",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Niazi Express - Our terminals",
+          "url": "https://www.niaziexpress.com.pk/our-terminals/"
+        },
+        {
+          "title": "bookme.pk Niazi Express",
+          "url": "https://bookme.pk/niazi-express"
+        }
+      ],
+      "notes": "Sold on Bookme; intermediate stops not published."
+    },
+    {
+      "id": "NZ-LHR-CHASHMA",
+      "name": "Lahore - Chashma",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Adda, Band Road (Shera Kot), Lahore",
+          "name_ur": "",
+          "lat": 31.5372,
+          "lon": 74.27331,
+          "coord_source": "osm:node/3230595900",
+          "is_station": true
+        },
+        {
+          "name": "Chashma",
+          "name_ur": "",
+          "lat": 32.424513,
+          "lon": 71.45845,
+          "coord_source": "auto:nominatim:way/1187697725",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Niazi Express - Our terminals",
+          "url": "https://www.niaziexpress.com.pk/our-terminals/"
+        },
+        {
+          "title": "bookme.pk Niazi Express",
+          "url": "https://bookme.pk/niazi-express"
+        }
+      ],
+      "notes": "Sold on Bookme; intermediate stops not published."
+    },
+    {
+      "id": "NZ-LHR-HAROONAB",
+      "name": "Lahore - Haroonabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Adda, Band Road (Shera Kot), Lahore",
+          "name_ur": "",
+          "lat": 31.5372,
+          "lon": 74.27331,
+          "coord_source": "osm:node/3230595900",
+          "is_station": true
+        },
+        {
+          "name": "Haroonabad",
+          "name_ur": "",
+          "lat": 29.6106,
+          "lon": 73.1361,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Niazi Express - Our terminals",
+          "url": "https://www.niaziexpress.com.pk/our-terminals/"
+        },
+        {
+          "title": "bookme.pk Niazi Express",
+          "url": "https://bookme.pk/niazi-express"
+        }
+      ],
+      "notes": "Sold on Bookme; intermediate stops not published."
+    },
+    {
+      "id": "NZ-LHR-FORTABBA",
+      "name": "Lahore - Fort Abbas",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1800,
+        "slabs": [],
+        "concessions": "Economy (third-party).",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/niazi-express"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Adda, Band Road (Shera Kot), Lahore",
+          "name_ur": "",
+          "lat": 31.5372,
+          "lon": 74.27331,
+          "coord_source": "osm:node/3230595900",
+          "is_station": true
+        },
+        {
+          "name": "Fort Abbas",
+          "name_ur": "",
+          "lat": 29.193518,
+          "lon": 72.854872,
+          "coord_source": "auto:nominatim:node/1982590278",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Niazi Express - Our terminals",
+          "url": "https://www.niaziexpress.com.pk/our-terminals/"
+        },
+        {
+          "title": "bookme.pk Niazi Express",
+          "url": "https://bookme.pk/niazi-express"
+        },
+        {
+          "title": "pkbuses.com Niazi Express (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/niazi-express"
+        }
+      ],
+      "notes": "Sold on Bookme; intermediate stops not published."
+    },
+    {
+      "id": "NZ-LHR-CHISHTIA",
+      "name": "Lahore - Chishtian",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Adda, Band Road (Shera Kot), Lahore",
+          "name_ur": "",
+          "lat": 31.5372,
+          "lon": 74.27331,
+          "coord_source": "osm:node/3230595900",
+          "is_station": true
+        },
+        {
+          "name": "Chishtian",
+          "name_ur": "",
+          "lat": 29.794561,
+          "lon": 72.857779,
+          "coord_source": "auto:nominatim:node/4303514598",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Niazi Express - Our terminals",
+          "url": "https://www.niaziexpress.com.pk/our-terminals/"
+        },
+        {
+          "title": "bookme.pk Niazi Express",
+          "url": "https://bookme.pk/niazi-express"
+        }
+      ],
+      "notes": "Sold on Bookme; intermediate stops not published."
+    },
+    {
+      "id": "NZ-LHR-MANSEHRA",
+      "name": "Lahore - Mansehra",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Adda, Band Road (Shera Kot), Lahore",
+          "name_ur": "",
+          "lat": 31.5372,
+          "lon": 74.27331,
+          "coord_source": "osm:node/3230595900",
+          "is_station": true
+        },
+        {
+          "name": "Mansehra",
+          "name_ur": "",
+          "lat": 34.328685,
+          "lon": 73.199313,
+          "coord_source": "auto:nominatim:way/235475302",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Niazi Express - Our terminals",
+          "url": "https://www.niaziexpress.com.pk/our-terminals/"
+        },
+        {
+          "title": "bookme.pk Niazi Express",
+          "url": "https://bookme.pk/niazi-express"
+        }
+      ],
+      "notes": "Sold on Bookme; intermediate stops not published."
+    },
+    {
+      "id": "NZ-LHR-ISAKHEL",
+      "name": "Lahore - Isa Khel",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Adda, Band Road (Shera Kot), Lahore",
+          "name_ur": "",
+          "lat": 31.5372,
+          "lon": 74.27331,
+          "coord_source": "osm:node/3230595900",
+          "is_station": true
+        },
+        {
+          "name": "Isa Khel",
+          "name_ur": "",
+          "lat": 32.675014,
+          "lon": 71.276115,
+          "coord_source": "auto:nominatim:node/872345994",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Niazi Express - Our terminals",
+          "url": "https://www.niaziexpress.com.pk/our-terminals/"
+        },
+        {
+          "title": "bookme.pk Niazi Express",
+          "url": "https://bookme.pk/niazi-express"
+        }
+      ],
+      "notes": "Sold on Bookme; intermediate stops not published."
+    },
+    {
+      "id": "NZ-LHR-LAKKIMAR",
+      "name": "Lahore - Lakki Marwat",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Adda, Band Road (Shera Kot), Lahore",
+          "name_ur": "",
+          "lat": 31.5372,
+          "lon": 74.27331,
+          "coord_source": "osm:node/3230595900",
+          "is_station": true
+        },
+        {
+          "name": "Lakki Marwat",
+          "name_ur": "",
+          "lat": 32.605674,
+          "lon": 70.911353,
+          "coord_source": "auto:nominatim:node/2141100067",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Niazi Express - Our terminals",
+          "url": "https://www.niaziexpress.com.pk/our-terminals/"
+        },
+        {
+          "title": "bookme.pk Niazi Express",
+          "url": "https://bookme.pk/niazi-express"
+        }
+      ],
+      "notes": "Sold on Bookme; intermediate stops not published."
+    },
+    {
+      "id": "NZ-LHR-MUZAFFAR",
+      "name": "Lahore - Muzaffarabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Adda, Band Road (Shera Kot), Lahore",
+          "name_ur": "",
+          "lat": 31.5372,
+          "lon": 74.27331,
+          "coord_source": "osm:node/3230595900",
+          "is_station": true
+        },
+        {
+          "name": "Muzaffarabad",
+          "name_ur": "",
+          "lat": 34.316405,
+          "lon": 73.584111,
+          "coord_source": "auto:photon:R/8191414",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Niazi Express - Our terminals",
+          "url": "https://www.niaziexpress.com.pk/our-terminals/"
+        },
+        {
+          "title": "bookme.pk Niazi Express",
+          "url": "https://bookme.pk/niazi-express"
+        }
+      ],
+      "notes": "Sold on Bookme; intermediate stops not published."
+    },
+    {
+      "id": "NZ-LHR-DAHRANWA",
+      "name": "Lahore - Dahranwala",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Adda, Band Road (Shera Kot), Lahore",
+          "name_ur": "",
+          "lat": 31.5372,
+          "lon": 74.27331,
+          "coord_source": "osm:node/3230595900",
+          "is_station": true
+        },
+        {
+          "name": "Dahranwala",
+          "name_ur": "",
+          "lat": 29.597691,
+          "lon": 72.84358,
+          "coord_source": "auto:nominatim:way/371345518",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Niazi Express - Our terminals",
+          "url": "https://www.niaziexpress.com.pk/our-terminals/"
+        },
+        {
+          "title": "bookme.pk Niazi Express",
+          "url": "https://bookme.pk/niazi-express"
+        }
+      ],
+      "notes": "Sold on Bookme; intermediate stops not published."
+    },
+    {
+      "id": "NZ-LHR-MAROT",
+      "name": "Lahore - Marot",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Adda, Band Road (Shera Kot), Lahore",
+          "name_ur": "",
+          "lat": 31.5372,
+          "lon": 74.27331,
+          "coord_source": "osm:node/3230595900",
+          "is_station": true
+        },
+        {
+          "name": "Marot",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Niazi Express - Our terminals",
+          "url": "https://www.niaziexpress.com.pk/our-terminals/"
+        },
+        {
+          "title": "bookme.pk Niazi Express",
+          "url": "https://bookme.pk/niazi-express"
+        }
+      ],
+      "notes": "Sold on Bookme; intermediate stops not published."
+    },
+    {
+      "id": "NZ-LHR-THAKOT",
+      "name": "Lahore - Thakot",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Adda, Band Road (Shera Kot), Lahore",
+          "name_ur": "",
+          "lat": 31.5372,
+          "lon": 74.27331,
+          "coord_source": "osm:node/3230595900",
+          "is_station": true
+        },
+        {
+          "name": "Thakot",
+          "name_ur": "",
+          "lat": 34.786356,
+          "lon": 72.928611,
+          "coord_source": "auto:nominatim:node/299075890",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Niazi Express - Our terminals",
+          "url": "https://www.niaziexpress.com.pk/our-terminals/"
+        },
+        {
+          "title": "bookme.pk Niazi Express",
+          "url": "https://bookme.pk/niazi-express"
+        }
+      ],
+      "notes": "Sold on Bookme; intermediate stops not published."
+    },
+    {
+      "id": "NZ-LHR-KHI",
+      "name": "Lahore - Karachi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 7500,
+        "slabs": [],
+        "concessions": "Economy (third-party).",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/niazi-express"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Adda, Band Road (Shera Kot), Lahore",
+          "name_ur": "",
+          "lat": 31.5372,
+          "lon": 74.27331,
+          "coord_source": "osm:node/3230595900",
+          "is_station": true
+        },
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Niazi Express (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/niazi-express"
+        }
+      ],
+      "notes": "Journey about 13h50. Third-party listing only."
+    },
+    {
+      "id": "NZ-LHR-MUX",
+      "name": "Lahore - Multan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1700,
+        "slabs": [],
+        "concessions": "Economy (third-party).",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/niazi-express"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Adda, Band Road (Shera Kot), Lahore",
+          "name_ur": "",
+          "lat": 31.5372,
+          "lon": 74.27331,
+          "coord_source": "osm:node/3230595900",
+          "is_station": true
+        },
+        {
+          "name": "Multan",
+          "name_ur": "",
+          "lat": 30.197838,
+          "lon": 71.471968,
+          "coord_source": "auto:nominatim:node/307617596",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Niazi Express (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/niazi-express"
+        }
+      ],
+      "notes": "Third-party listing only."
+    },
+    {
+      "id": "NZ-LHR-UET",
+      "name": "Lahore - Quetta",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 4000,
+        "slabs": [],
+        "concessions": "Economy (third-party).",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/niazi-express"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Adda, Band Road (Shera Kot), Lahore",
+          "name_ur": "",
+          "lat": 31.5372,
+          "lon": 74.27331,
+          "coord_source": "osm:node/3230595900",
+          "is_station": true
+        },
+        {
+          "name": "Quetta",
+          "name_ur": "",
+          "lat": 30.1798,
+          "lon": 66.975,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Niazi Express (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/niazi-express"
+        }
+      ],
+      "notes": "Third-party listing only."
+    },
+    {
+      "id": "NZ-LHR-FSD",
+      "name": "Lahore - Faisalabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 900,
+        "slabs": [],
+        "concessions": "Economy (third-party).",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/niazi-express"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Adda, Band Road (Shera Kot), Lahore",
+          "name_ur": "",
+          "lat": 31.5372,
+          "lon": 74.27331,
+          "coord_source": "osm:node/3230595900",
+          "is_station": true
+        },
+        {
+          "name": "Faisalabad",
+          "name_ur": "",
+          "lat": 31.422056,
+          "lon": 73.092325,
+          "coord_source": "auto:photon:R/16108315",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Niazi Express (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/niazi-express"
+        }
+      ],
+      "notes": "Third-party listing only."
+    },
+    {
+      "id": "NZ-PEW-ISB",
+      "name": "Peshawar - Islamabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 540,
+        "slabs": [],
+        "concessions": "Economy (third-party).",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/niazi-express"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Niazi Express, GT Road, Peshawar",
+          "name_ur": "",
+          "lat": 34.0168,
+          "lon": 71.61134,
+          "coord_source": "osm:node/9494397052",
+          "is_station": true
+        },
+        {
+          "name": "Niazi Express, Karachi Company, G-9 Markaz, Islamabad",
+          "name_ur": "",
+          "lat": 33.68768,
+          "lon": 73.03376,
+          "coord_source": "osm:node/6199004086",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Niazi Express (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/niazi-express"
+        }
+      ],
+      "notes": "Third-party listing only."
+    }
+  ],
+  "last_verified": "2026-09-21"
+}

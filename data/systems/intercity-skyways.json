@@ -1,0 +1,782 @@
+{
+  "id": "intercity-skyways",
+  "city": "intercity",
+  "name": "Skyways",
+  "name_ur": "",
+  "operator": "Skyways Bus Service (private)",
+  "mode": "intercity_bus",
+  "website": "https://www.skywaysonline.pk",
+  "helpline": "111-555-567 (051/042/041)",
+  "payment": "cash at terminal / online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "Classes: Economy (45 seats), Business (40 seats) (third-party).",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": "05:00",
+    "end": "02:00",
+    "notes": "Terminal office hours (official contact page)."
+  },
+  "sources": [
+    {
+      "title": "Skyways contact us (terminals)",
+      "url": "https://www.skywaysonline.pk/contactus",
+      "publisher": "Skyways",
+      "date": "2026-09-21",
+      "official": true
+    },
+    {
+      "title": "Skyways destinations",
+      "url": "https://www.skywaysonline.pk/destandfares",
+      "publisher": "Skyways",
+      "date": "2026-09-21",
+      "official": true
+    },
+    {
+      "title": "bookme.pk Skyways online booking",
+      "url": "https://bookme.pk/skyways-online-booking",
+      "publisher": "bookme.pk",
+      "date": "2026-09-21",
+      "official": false
+    },
+    {
+      "title": "pkbuses.com Skyways (Aug 2026)",
+      "url": "https://pkbuses.com/bus-services/skyways",
+      "publisher": "pkbuses.com",
+      "date": "2026-08",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "SK-LHR-ISB",
+      "name": "Lahore - Islamabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1950,
+        "slabs": [],
+        "concessions": "Third-party fare.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/skyways"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Skyways Terminal, Bakar Mandi (Band Road), Lahore",
+          "name_ur": "",
+          "lat": 31.5372738,
+          "lon": 74.2727884,
+          "coord_source": "osm:node/2419021225",
+          "is_station": true
+        },
+        {
+          "name": "Skyways Terminal, Faizabad, Islamabad",
+          "name_ur": "",
+          "lat": 33.66186,
+          "lon": 73.08334,
+          "coord_source": "osm:node/4899250481",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Skyways contact us (terminals)",
+          "url": "https://www.skywaysonline.pk/contactus"
+        },
+        {
+          "title": "bookme.pk Skyways online booking",
+          "url": "https://bookme.pk/skyways-online-booking"
+        },
+        {
+          "title": "pkbuses.com Skyways (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/skyways"
+        }
+      ],
+      "notes": "Journey about 3h50."
+    },
+    {
+      "id": "SK-LHR-MZD",
+      "name": "Lahore - Muzaffarabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Skyways Terminal, Bakar Mandi (Band Road), Lahore",
+          "name_ur": "",
+          "lat": 31.5372738,
+          "lon": 74.2727884,
+          "coord_source": "osm:node/2419021225",
+          "is_station": true
+        },
+        {
+          "name": "Muzaffarabad",
+          "name_ur": "",
+          "lat": 34.316405,
+          "lon": 73.584111,
+          "coord_source": "auto:photon:R/8191414",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Skyways contact us (terminals)",
+          "url": "https://www.skywaysonline.pk/contactus"
+        },
+        {
+          "title": "bookme.pk Skyways online booking",
+          "url": "https://bookme.pk/skyways-online-booking"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "SK-LHR-KHW",
+      "name": "Lahore - Khanewal - Bahawalpur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Skyways Terminal, Bakar Mandi (Band Road), Lahore",
+          "name_ur": "",
+          "lat": 31.5372738,
+          "lon": 74.2727884,
+          "coord_source": "osm:node/2419021225",
+          "is_station": true
+        },
+        {
+          "name": "Khanewal",
+          "name_ur": "",
+          "lat": 30.302253,
+          "lon": 71.927892,
+          "coord_source": "auto:nominatim:node/251165455",
+          "is_station": false
+        },
+        {
+          "name": "Bahawalpur",
+          "name_ur": "",
+          "lat": 29.394644,
+          "lon": 71.663875,
+          "coord_source": "auto:photon:R/16117506",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Skyways contact us (terminals)",
+          "url": "https://www.skywaysonline.pk/contactus"
+        },
+        {
+          "title": "bookme.pk Skyways online booking",
+          "url": "https://bookme.pk/skyways-online-booking"
+        }
+      ],
+      "notes": "Sold as Lahore-Khanewal/Bahawalpur on Bookme."
+    },
+    {
+      "id": "SK-ISB-KHI",
+      "name": "Islamabad - Karachi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 8500,
+        "slabs": [],
+        "concessions": "Third-party fare.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/skyways"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Skyways Terminal, Faizabad, Islamabad",
+          "name_ur": "",
+          "lat": 33.66186,
+          "lon": 73.08334,
+          "coord_source": "osm:node/4899250481",
+          "is_station": true
+        },
+        {
+          "name": "Skyways Terminal, Super Highway, Sohrab Goth, Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Skyways contact us (terminals)",
+          "url": "https://www.skywaysonline.pk/contactus"
+        },
+        {
+          "title": "bookme.pk Skyways online booking",
+          "url": "https://bookme.pk/skyways-online-booking"
+        },
+        {
+          "title": "pkbuses.com Skyways (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/skyways"
+        }
+      ],
+      "notes": "Departs 19:00; journey about 16h30."
+    },
+    {
+      "id": "SK-ISB-MUX",
+      "name": "Islamabad - Multan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Skyways Terminal, Faizabad, Islamabad",
+          "name_ur": "",
+          "lat": 33.66186,
+          "lon": 73.08334,
+          "coord_source": "osm:node/4899250481",
+          "is_station": true
+        },
+        {
+          "name": "Multan",
+          "name_ur": "",
+          "lat": 30.19784,
+          "lon": 71.47197,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Skyways contact us (terminals)",
+          "url": "https://www.skywaysonline.pk/contactus"
+        },
+        {
+          "title": "bookme.pk Skyways online booking",
+          "url": "https://bookme.pk/skyways-online-booking"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "SK-ISB-UET",
+      "name": "Islamabad - Quetta",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Skyways Terminal, Faizabad, Islamabad",
+          "name_ur": "",
+          "lat": 33.66186,
+          "lon": 73.08334,
+          "coord_source": "osm:node/4899250481",
+          "is_station": true
+        },
+        {
+          "name": "Quetta",
+          "name_ur": "",
+          "lat": 30.1798,
+          "lon": 66.975,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Skyways contact us (terminals)",
+          "url": "https://www.skywaysonline.pk/contactus"
+        },
+        {
+          "title": "bookme.pk Skyways online booking",
+          "url": "https://bookme.pk/skyways-online-booking"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "SK-ISB-HYD",
+      "name": "Islamabad - Hyderabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Skyways Terminal, Faizabad, Islamabad",
+          "name_ur": "",
+          "lat": 33.66186,
+          "lon": 73.08334,
+          "coord_source": "osm:node/4899250481",
+          "is_station": true
+        },
+        {
+          "name": "Hyderabad",
+          "name_ur": "",
+          "lat": 25.396,
+          "lon": 68.3578,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Skyways contact us (terminals)",
+          "url": "https://www.skywaysonline.pk/contactus"
+        },
+        {
+          "title": "bookme.pk Skyways online booking",
+          "url": "https://bookme.pk/skyways-online-booking"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "SK-SWL-ATK",
+      "name": "Sahiwal - Attock",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Skyways Terminal, Multan Road, Sahiwal",
+          "name_ur": "",
+          "lat": 30.6682,
+          "lon": 73.1114,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Attock",
+          "name_ur": "",
+          "lat": 33.7695,
+          "lon": 72.3611,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Skyways contact us (terminals)",
+          "url": "https://www.skywaysonline.pk/contactus"
+        },
+        {
+          "title": "bookme.pk Skyways online booking",
+          "url": "https://bookme.pk/skyways-online-booking"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "SK-SWL-FSD",
+      "name": "Sahiwal - Faisalabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Skyways Terminal, Multan Road, Sahiwal",
+          "name_ur": "",
+          "lat": 30.6682,
+          "lon": 73.1114,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Faisalabad",
+          "name_ur": "",
+          "lat": 31.422056,
+          "lon": 73.092325,
+          "coord_source": "auto:photon:R/16108315",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Skyways contact us (terminals)",
+          "url": "https://www.skywaysonline.pk/contactus"
+        },
+        {
+          "title": "bookme.pk Skyways online booking",
+          "url": "https://bookme.pk/skyways-online-booking"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "SK-SWL-ISB",
+      "name": "Sahiwal - Islamabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Skyways Terminal, Multan Road, Sahiwal",
+          "name_ur": "",
+          "lat": 30.6682,
+          "lon": 73.1114,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Skyways Terminal, Faizabad, Islamabad",
+          "name_ur": "",
+          "lat": 33.66186,
+          "lon": 73.08334,
+          "coord_source": "osm:node/4899250481",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Skyways contact us (terminals)",
+          "url": "https://www.skywaysonline.pk/contactus"
+        },
+        {
+          "title": "bookme.pk Skyways online booking",
+          "url": "https://bookme.pk/skyways-online-booking"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "SK-SWL-KHI",
+      "name": "Sahiwal - Karachi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Skyways Terminal, Multan Road, Sahiwal",
+          "name_ur": "",
+          "lat": 30.6682,
+          "lon": 73.1114,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Skyways Terminal, Super Highway, Sohrab Goth, Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Skyways contact us (terminals)",
+          "url": "https://www.skywaysonline.pk/contactus"
+        },
+        {
+          "title": "bookme.pk Skyways online booking",
+          "url": "https://bookme.pk/skyways-online-booking"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "SK-LHR-KHI",
+      "name": "Lahore - Karachi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 8220,
+        "slabs": [],
+        "concessions": "Third-party fare.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/skyways"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Skyways Terminal, Bakar Mandi (Band Road), Lahore",
+          "name_ur": "",
+          "lat": 31.5372738,
+          "lon": 74.2727884,
+          "coord_source": "osm:node/2419021225",
+          "is_station": true
+        },
+        {
+          "name": "Skyways Terminal, Super Highway, Sohrab Goth, Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Skyways contact us (terminals)",
+          "url": "https://www.skywaysonline.pk/contactus"
+        },
+        {
+          "title": "pkbuses.com Skyways (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/skyways"
+        }
+      ],
+      "notes": "Departs 19:30; journey about 13h50."
+    },
+    {
+      "id": "SK-PEW-ISB",
+      "name": "Peshawar - Islamabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 680,
+        "slabs": [],
+        "concessions": "Third-party fare.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/skyways"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Skyways Terminal, Faisal Colony, GT Road, Peshawar",
+          "name_ur": "",
+          "lat": 34.01729,
+          "lon": 71.6151,
+          "coord_source": "osm:node/9495826207",
+          "is_station": true
+        },
+        {
+          "name": "Skyways, N-5 Motorway Chowk (26 Number), Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Skyways contact us (terminals)",
+          "url": "https://www.skywaysonline.pk/contactus"
+        },
+        {
+          "title": "pkbuses.com Skyways (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/skyways"
+        }
+      ],
+      "notes": "Journey about 2h."
+    },
+    {
+      "id": "SK-ISB-MZD",
+      "name": "Islamabad - Muzaffarabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 900,
+        "slabs": [],
+        "concessions": "Third-party fare.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/skyways"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Skyways Terminal, Faizabad, Islamabad",
+          "name_ur": "",
+          "lat": 33.66186,
+          "lon": 73.08334,
+          "coord_source": "osm:node/4899250481",
+          "is_station": true
+        },
+        {
+          "name": "Muzaffarabad",
+          "name_ur": "",
+          "lat": 34.316405,
+          "lon": 73.584111,
+          "coord_source": "auto:photon:R/8191414",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Skyways contact us (terminals)",
+          "url": "https://www.skywaysonline.pk/contactus"
+        },
+        {
+          "title": "pkbuses.com Skyways (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/skyways"
+        }
+      ],
+      "notes": "Journey about 1h40."
+    },
+    {
+      "id": "SK-LHR-SGD",
+      "name": "Lahore - Sargodha",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 722,
+        "slabs": [],
+        "concessions": "Third-party fare.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/skyways"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Skyways Terminal, Bakar Mandi (Band Road), Lahore",
+          "name_ur": "",
+          "lat": 31.5372738,
+          "lon": 74.2727884,
+          "coord_source": "osm:node/2419021225",
+          "is_station": true
+        },
+        {
+          "name": "Sargodha",
+          "name_ur": "",
+          "lat": 32.085352,
+          "lon": 72.679174,
+          "coord_source": "auto:nominatim:way/1138025958",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Skyways contact us (terminals)",
+          "url": "https://www.skywaysonline.pk/contactus"
+        },
+        {
+          "title": "pkbuses.com Skyways (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/skyways"
+        }
+      ],
+      "notes": "Journey about 2h30."
+    }
+  ],
+  "last_verified": "2026-09-21"
+}

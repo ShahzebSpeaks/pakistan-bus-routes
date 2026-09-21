@@ -1,0 +1,335 @@
+{
+  "id": "intercity-road-master",
+  "city": "intercity",
+  "name": "Road Master",
+  "name_ur": "",
+  "operator": "Road Master (private)",
+  "mode": "intercity_bus",
+  "website": "https://roadmaster.pk",
+  "helpline": "051-111-722-822",
+  "payment": "cash at terminal / online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "Classes: Premium Cruise (49 seats, 2+2), President Cruise (31 seats, 2+1).",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Road Master contact (terminals)",
+      "url": "http://roadmaster.pk/bus/contact",
+      "publisher": "Road Master",
+      "date": "2026-09-21",
+      "official": true
+    },
+    {
+      "title": "bookme.pk Road Master",
+      "url": "https://bookme.pk/road-master",
+      "publisher": "bookme.pk",
+      "date": "2026-09-21",
+      "official": false
+    },
+    {
+      "title": "pkbuses.com Road Master ticket price (30 Aug 2026)",
+      "url": "https://pkbuses.com/road-master-bus-ticket-price-list/",
+      "publisher": "pkbuses.com",
+      "date": "2026-08-30",
+      "official": false
+    },
+    {
+      "title": "pkbuses.com Road Master timings (schedule 11 Apr 2023)",
+      "url": "https://pkbuses.com/road-master-bus-timings",
+      "publisher": "pkbuses.com",
+      "date": "2023-04-11",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "RM-LHR-FZB",
+      "name": "Lahore - Islamabad (Faizabad)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 83,
+      "hours": {
+        "start": "06:30",
+        "end": "01:00"
+      },
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1898,
+        "slabs": [],
+        "concessions": "Premium Cruise 1,898; President Cruise 2,580 (third-party).",
+        "as_of": "2026-08-30",
+        "source_url": "https://pkbuses.com/road-master-bus-ticket-price-list/"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Road Master Terminal, Main Band Road (near Gulshan-e-Ravi), Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Road Master Terminal, Faizabad, Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Road Master contact (terminals)",
+          "url": "http://roadmaster.pk/bus/contact"
+        },
+        {
+          "title": "bookme.pk Road Master",
+          "url": "https://bookme.pk/road-master"
+        },
+        {
+          "title": "pkbuses.com Road Master ticket price (30 Aug 2026)",
+          "url": "https://pkbuses.com/road-master-bus-ticket-price-list/"
+        },
+        {
+          "title": "pkbuses.com Road Master timings (schedule 11 Apr 2023)",
+          "url": "https://pkbuses.com/road-master-bus-timings"
+        }
+      ],
+      "notes": "13 departures a day Lahore-Islamabad, 16 Islamabad-Lahore (07:05-01:35), alternating Premium/President; journey about 4h30. Timetable from 2023."
+    },
+    {
+      "id": "RM-LHR-RWP",
+      "name": "Lahore - Rawalpindi (Pir Wadhai)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Road Master Terminal, Main Band Road (near Gulshan-e-Ravi), Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Road Master Terminal, Pir Wadhai Mor, IJP Road, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.47408,
+          "lon": 73.25229,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Road Master contact (terminals)",
+          "url": "http://roadmaster.pk/bus/contact"
+        },
+        {
+          "title": "bookme.pk Road Master",
+          "url": "https://bookme.pk/road-master"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "RM-LHR-MUX",
+      "name": "Lahore - Multan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 77,
+      "hours": {
+        "start": "06:00",
+        "end": "01:00"
+      },
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1580,
+        "slabs": [],
+        "concessions": "Premium (third-party).",
+        "as_of": "2026-08-30",
+        "source_url": "https://pkbuses.com/road-master-bus-ticket-price-list/"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Road Master Terminal, Main Band Road (near Gulshan-e-Ravi), Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Road Master Terminal, Hassanabad Gate 1, Khanewal Road, Multan",
+          "name_ur": "",
+          "lat": 30.19784,
+          "lon": 71.47197,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Road Master contact (terminals)",
+          "url": "http://roadmaster.pk/bus/contact"
+        },
+        {
+          "title": "bookme.pk Road Master",
+          "url": "https://bookme.pk/road-master"
+        },
+        {
+          "title": "pkbuses.com Road Master ticket price (30 Aug 2026)",
+          "url": "https://pkbuses.com/road-master-bus-ticket-price-list/"
+        },
+        {
+          "title": "pkbuses.com Road Master timings (schedule 11 Apr 2023)",
+          "url": "https://pkbuses.com/road-master-bus-timings"
+        }
+      ],
+      "notes": "14 departures a day each way; journey about 3h45 (2023 timetable)."
+    },
+    {
+      "id": "RM-FZB-MUX",
+      "name": "Islamabad (Faizabad) - Multan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 270,
+      "hours": {
+        "start": "00:00",
+        "end": "22:30"
+      },
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1524,
+        "slabs": [],
+        "concessions": "Premium (third-party).",
+        "as_of": "2026-08-30",
+        "source_url": "https://pkbuses.com/road-master-bus-ticket-price-list/"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Road Master Terminal, Faizabad, Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Road Master Terminal, Hassanabad Gate 1, Khanewal Road, Multan",
+          "name_ur": "",
+          "lat": 30.19784,
+          "lon": 71.47197,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Road Master contact (terminals)",
+          "url": "http://roadmaster.pk/bus/contact"
+        },
+        {
+          "title": "bookme.pk Road Master",
+          "url": "https://bookme.pk/road-master"
+        },
+        {
+          "title": "pkbuses.com Road Master ticket price (30 Aug 2026)",
+          "url": "https://pkbuses.com/road-master-bus-ticket-price-list/"
+        },
+        {
+          "title": "pkbuses.com Road Master timings (schedule 11 Apr 2023)",
+          "url": "https://pkbuses.com/road-master-bus-timings"
+        }
+      ],
+      "notes": "Departures 00:00, 12:15, 15:00, 22:30 (2023 timetable)."
+    },
+    {
+      "id": "RM-RWP-MUX",
+      "name": "Rawalpindi - Multan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Road Master Terminal, Pir Wadhai Mor, IJP Road, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.47408,
+          "lon": 73.25229,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Road Master Terminal, Hassanabad Gate 1, Khanewal Road, Multan",
+          "name_ur": "",
+          "lat": 30.19784,
+          "lon": 71.47197,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Road Master contact (terminals)",
+          "url": "http://roadmaster.pk/bus/contact"
+        },
+        {
+          "title": "bookme.pk Road Master",
+          "url": "https://bookme.pk/road-master"
+        }
+      ],
+      "notes": ""
+    }
+  ],
+  "last_verified": "2026-09-21"
+}

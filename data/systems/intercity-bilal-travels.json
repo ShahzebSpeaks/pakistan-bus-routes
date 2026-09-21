@@ -1,0 +1,564 @@
+{
+  "id": "intercity-bilal-travels",
+  "city": "intercity",
+  "name": "Bilal Travels (Bilal Daewoo)",
+  "name_ur": "",
+  "operator": "Bilal Travels / Rahber Travels (private)",
+  "mode": "intercity_bus",
+  "website": "https://bilaltravels.pk",
+  "helpline": "111-287-444",
+  "payment": "cash at terminal / online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Bilal Travels website (JavaScript-only, not readable)",
+      "url": "https://bilaltravels.pk",
+      "publisher": "Bilal Travels",
+      "date": "2026-09-21",
+      "official": true
+    },
+    {
+      "title": "pkbuses.com Bilal Travels (Aug 2026)",
+      "url": "https://pkbuses.com/bus-services/bilal-travels",
+      "publisher": "pkbuses.com",
+      "date": "2026-08",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "BT-LHR-MUX",
+      "name": "Lahore - Multan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1800,
+        "slabs": [],
+        "concessions": "Luxury class (third-party).",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/bilal-travels"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Bilal Travels, Rahber Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.53339,
+          "lon": 74.28257,
+          "coord_source": "osm:node/3230595901",
+          "is_station": true
+        },
+        {
+          "name": "Bilal Daewoo, Hassanabad Gate 1, Khanewal Road, Multan",
+          "name_ur": "",
+          "lat": 30.21247,
+          "lon": 71.52155,
+          "coord_source": "osm:node/4615660989",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Bilal Travels (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/bilal-travels"
+        }
+      ],
+      "notes": "Journey about 3h50. Third-party listing only; first/last times on that page look like placeholders."
+    },
+    {
+      "id": "BT-LHR-FSD",
+      "name": "Lahore - Faisalabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 930,
+        "slabs": [],
+        "concessions": "Luxury class (third-party).",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/bilal-travels"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Bilal Travels, Rahber Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.53339,
+          "lon": 74.28257,
+          "coord_source": "osm:node/3230595901",
+          "is_station": true
+        },
+        {
+          "name": "Kohistan Terminal, near Railway Station, Faisalabad",
+          "name_ur": "",
+          "lat": 31.4174158,
+          "lon": 73.094663,
+          "coord_source": "osm:node/5137257337",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Bilal Travels (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/bilal-travels"
+        }
+      ],
+      "notes": "Journey about 2h. Third-party listing only; first/last times on that page look like placeholders."
+    },
+    {
+      "id": "BT-LHR-SKT",
+      "name": "Lahore - Sialkot",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 900,
+        "slabs": [],
+        "concessions": "Luxury class (third-party).",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/bilal-travels"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Bilal Travels, Rahber Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.53339,
+          "lon": 74.28257,
+          "coord_source": "osm:node/3230595901",
+          "is_station": true
+        },
+        {
+          "name": "Sialkot",
+          "name_ur": "",
+          "lat": 32.447187,
+          "lon": 74.572027,
+          "coord_source": "auto:photon:R/16117658",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Bilal Travels (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/bilal-travels"
+        }
+      ],
+      "notes": "Journey about 1h45. Third-party listing only; first/last times on that page look like placeholders."
+    },
+    {
+      "id": "BT-LHR-MZG",
+      "name": "Lahore - Muzaffargarh",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1700,
+        "slabs": [],
+        "concessions": "Luxury class (third-party).",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/bilal-travels"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Bilal Travels, Rahber Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.53339,
+          "lon": 74.28257,
+          "coord_source": "osm:node/3230595901",
+          "is_station": true
+        },
+        {
+          "name": "Muzaffargarh",
+          "name_ur": "",
+          "lat": 30.084183,
+          "lon": 71.193967,
+          "coord_source": "auto:photon:N/849927573",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Bilal Travels (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/bilal-travels"
+        }
+      ],
+      "notes": "Third-party listing only; first/last times on that page look like placeholders."
+    },
+    {
+      "id": "BT-LHR-MRE",
+      "name": "Lahore - Murree",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 2350,
+        "slabs": [],
+        "concessions": "Luxury class (third-party).",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/bilal-travels"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Bilal Travels, Rahber Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.53339,
+          "lon": 74.28257,
+          "coord_source": "osm:node/3230595901",
+          "is_station": true
+        },
+        {
+          "name": "Murree",
+          "name_ur": "",
+          "lat": 33.907,
+          "lon": 73.3943,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Bilal Travels (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/bilal-travels"
+        }
+      ],
+      "notes": "Third-party listing only; first/last times on that page look like placeholders."
+    },
+    {
+      "id": "BT-LHR-DGK",
+      "name": "Lahore - Dera Ghazi Khan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1900,
+        "slabs": [],
+        "concessions": "Luxury class (third-party).",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/bilal-travels"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Bilal Travels, Rahber Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.53339,
+          "lon": 74.28257,
+          "coord_source": "osm:node/3230595901",
+          "is_station": true
+        },
+        {
+          "name": "Dera Ghazi Khan",
+          "name_ur": "",
+          "lat": 30.06219,
+          "lon": 70.640563,
+          "coord_source": "auto:photon:R/16108376",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Bilal Travels (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/bilal-travels"
+        }
+      ],
+      "notes": "Third-party listing only; first/last times on that page look like placeholders."
+    },
+    {
+      "id": "BT-MUX-SKT",
+      "name": "Multan - Sialkot",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 2350,
+        "slabs": [],
+        "concessions": "Luxury class (third-party).",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/bilal-travels"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Bilal Daewoo, Hassanabad Gate 1, Khanewal Road, Multan",
+          "name_ur": "",
+          "lat": 30.21247,
+          "lon": 71.52155,
+          "coord_source": "osm:node/4615660989",
+          "is_station": true
+        },
+        {
+          "name": "Sialkot",
+          "name_ur": "",
+          "lat": 32.447187,
+          "lon": 74.572027,
+          "coord_source": "auto:photon:R/16117658",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Bilal Travels (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/bilal-travels"
+        }
+      ],
+      "notes": "Third-party listing only; first/last times on that page look like placeholders."
+    },
+    {
+      "id": "BT-FSD-MNS",
+      "name": "Faisalabad - Mansehra",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 3700,
+        "slabs": [],
+        "concessions": "Luxury class (third-party).",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/bilal-travels"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Kohistan Terminal, near Railway Station, Faisalabad",
+          "name_ur": "",
+          "lat": 31.4174158,
+          "lon": 73.094663,
+          "coord_source": "osm:node/5137257337",
+          "is_station": true
+        },
+        {
+          "name": "Mansehra",
+          "name_ur": "",
+          "lat": 34.328685,
+          "lon": 73.199313,
+          "coord_source": "auto:nominatim:way/235475302",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Bilal Travels (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/bilal-travels"
+        }
+      ],
+      "notes": "Third-party listing only; first/last times on that page look like placeholders."
+    },
+    {
+      "id": "BT-KHI-MNS",
+      "name": "Karachi - Mansehra",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 8500,
+        "slabs": [],
+        "concessions": "Luxury class (third-party).",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/bilal-travels"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Mansehra",
+          "name_ur": "",
+          "lat": 34.328685,
+          "lon": 73.199313,
+          "coord_source": "auto:nominatim:way/235475302",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Bilal Travels (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/bilal-travels"
+        }
+      ],
+      "notes": "Journey about 17h45. Third-party listing only; first/last times on that page look like placeholders."
+    },
+    {
+      "id": "BT-KHI-HRP",
+      "name": "Karachi - Haripur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 9500,
+        "slabs": [],
+        "concessions": "Luxury class (third-party).",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/bilal-travels"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Haripur",
+          "name_ur": "",
+          "lat": 33.994489,
+          "lon": 72.933174,
+          "coord_source": "auto:nominatim:node/299277405",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Bilal Travels (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/bilal-travels"
+        }
+      ],
+      "notes": "Journey about 17h. Third-party listing only; first/last times on that page look like placeholders."
+    },
+    {
+      "id": "BT-LHR-RWP",
+      "name": "Lahore - Rawalpindi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Bilal Travels, Rahber Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.53339,
+          "lon": 74.28257,
+          "coord_source": "osm:node/3230595901",
+          "is_station": true
+        },
+        {
+          "name": "Bilal Daewoo Terminal, Peshawar Road, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.47408,
+          "lon": 73.25229,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Bilal Travels (Aug 2026)",
+          "url": "https://pkbuses.com/bus-services/bilal-travels"
+        }
+      ],
+      "notes": "Implied by terminals in both cities; no fare found."
+    }
+  ],
+  "last_verified": "2026-09-21"
+}

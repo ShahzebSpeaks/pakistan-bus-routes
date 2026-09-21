@@ -2,12 +2,308 @@
 
 Generated 2026-09-21 by `npm run data:build`. Do not edit by hand.
 
-**49 cities · 69 systems · 883 published routes · 6390 stops**
+**50 cities · 87 systems · 1285 published routes · 7192 stops**
 
 Coordinate quality: **exact** = verified (OpenStreetMap element or Wikipedia, checked by a person), **guide** = position published by a route guide such as safar.fyi, **matched** = automatic OpenStreetMap name match, **geocoded** = Nominatim search, **estimated** = interpolated between neighbours, **missing** = not on the map yet.
 
 Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.md](../CONTRIBUTING.md).
 
+
+## Intercity (Pakistan)
+
+| System | Route | Name | Status | Stops | Exact | Guide | Matched | Geocoded | Estimated | Missing | Stop list confidence |
+|---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
+| Bilal Travels (Bilal Daewoo) | BT-LHR-MUX | Lahore - Multan | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Bilal Travels (Bilal Daewoo) | BT-LHR-FSD | Lahore - Faisalabad | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Bilal Travels (Bilal Daewoo) | BT-LHR-SKT | Lahore - Sialkot | unverified | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
+| Bilal Travels (Bilal Daewoo) | BT-LHR-MZG | Lahore - Muzaffargarh | unverified | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
+| Bilal Travels (Bilal Daewoo) | BT-LHR-MRE | Lahore - Murree | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Bilal Travels (Bilal Daewoo) | BT-LHR-DGK | Lahore - Dera Ghazi Khan | unverified | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
+| Bilal Travels (Bilal Daewoo) | BT-MUX-SKT | Multan - Sialkot | unverified | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
+| Bilal Travels (Bilal Daewoo) | BT-FSD-MNS | Faisalabad - Mansehra | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Bilal Travels (Bilal Daewoo) | BT-KHI-MNS | Karachi - Mansehra | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Bilal Travels (Bilal Daewoo) | BT-KHI-HRP | Karachi - Haripur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Bilal Travels (Bilal Daewoo) | BT-LHR-RWP | Lahore - Rawalpindi | unverified | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| Daewoo Express | DW-LHR-RWP | Lahore - Rawalpindi/Islamabad | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Daewoo Express | DW-LHR-KHI | Lahore - Karachi | operational | 6 | 67% | 0% | 0% | 0% | 33% | 0 | low |
+| Daewoo Express | DW-LHR-MUX | Lahore - Multan | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | medium |
+| Daewoo Express | DW-LHR-FSD | Lahore - Faisalabad | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Daewoo Express | DW-LHR-PEW | Lahore - Peshawar | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Daewoo Express | DW-RWP-KHI | Rawalpindi - Karachi | operational | 4 | 75% | 0% | 0% | 0% | 25% | 0 | low |
+| Daewoo Express | DW-RWP-MUX | Rawalpindi - Multan | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| Daewoo Express | DW-KHI-HYD | Karachi - Hyderabad | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | medium |
+| Daewoo Express | DW-KHI-SKR | Karachi - Sukkur | operational | 4 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| Daewoo Express | DW-SKR-MUX | Sukkur - Multan | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| Daewoo Express | DW-SKR-RWP | Sukkur - Rawalpindi | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Daewoo Express | DW-SKR-LHR | Sukkur - Lahore | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Daewoo Express | DW-MUX-KHI | Multan - Karachi | operational | 4 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| Daewoo Express | DW-PEW-RWP | Peshawar - Rawalpindi/Islamabad | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Daewoo Express | DW-LHR-SKT | Lahore - Sialkot | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Daewoo Express | DW-LHR-BWP | Lahore - Bahawalpur | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Daewoo Express | DW-RWP-SWT | Rawalpindi - Swat (Mingora) | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Daewoo Express | DW-LHR-SWT | Lahore - Swat (Mingora) | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Daewoo Express | DW-LHR-DIK | Lahore - Dera Ismail Khan | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Daewoo Express | DW-DIK-PEW | Dera Ismail Khan - Peshawar | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Daewoo Express | DW-DIK-ISB | Dera Ismail Khan - Islamabad (Faizabad) | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Daewoo Express | DW-FSD-KHI | Faisalabad - Karachi | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Daewoo Express | DW-FSD-PEW | Faisalabad - Peshawar | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Daewoo Express | DW-KHI-PEW | Karachi - Peshawar | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Daewoo Express | DW-MUX-PEW | Multan - Peshawar | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| Daewoo Express | DW-MUX-FSD | Multan - Faisalabad | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| Daewoo Express | DW-MUX-KWL | Multan - Khanewal | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| Daewoo Express | DW-BWP-LDN | Bahawalpur - Lodhran | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| Daewoo Express | DW-LHR-SGD | Lahore - Sargodha | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Faisal Movers | FM-MUX-KHI | Multan - Karachi | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | medium |
+| Faisal Movers | FM-LHR-FSD | Lahore - Faisalabad | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Faisal Movers | FM-MUX-LHR | Multan - Lahore | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Faisal Movers | FM-LHR-KHI | Lahore - Karachi | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | medium |
+| Faisal Movers | FM-LHR-PEW | Lahore - Peshawar | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Faisal Movers | FM-MUX-PEW | Multan - Peshawar | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Faisal Movers | FM-LHR-ISB | Lahore - Islamabad | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Faisal Movers | FM-ISB-KHI | Islamabad - Karachi | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| Faisal Movers | FM-ISB-MUX | Islamabad - Multan | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Faisal Movers | FM-ISB-TXK | Islamabad - Tashkurgan (China) | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Kainat Travels | KT-KHI-LHR | Karachi - Lahore | unverified | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
+| Kainat Travels | KT-KHI-MUX | Karachi - Multan | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Kainat Travels | KT-KHI-FSD | Karachi - Faisalabad | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Kainat Travels | KT-LRK-RWP | Larkana - Rawalpindi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Kohistan Express | KH-FSD-RWP | Faisalabad - Rawalpindi | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Kohistan Express | KH-FSD-SDQ | Faisalabad - Sadiqabad | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Kohistan Express | KH-FSD-LHR | Faisalabad - Lahore | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Kohistan Express | KH-FSD-SGD | Faisalabad - Sargodha | unverified | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| Manthar Transport | MN-KHI-RWP | Karachi - Rawalpindi | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Manthar Transport | MN-KHI-LHR | Karachi - Lahore | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Manthar Transport | MN-SDQ-LHR | Sadiqabad - Lahore | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Manthar Transport | MN-LHR-FSD | Lahore - Faisalabad | operational | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Manthar Transport | MN-LHR-SGD | Lahore - Sargodha | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Manthar Transport | MN-LHR-MUX | Lahore - Multan | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Manthar Transport | MN-LHR-RWP | Lahore - Rawalpindi | operational | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Manthar Transport | MN-MUX-RWP | Multan - Rawalpindi | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| NATCO | NT-RWP-GLT | Rawalpindi - Gilgit | operational | 12 | 17% | 0% | 17% | 67% | 0% | 0 | medium |
+| NATCO | NT-RWP-HNZ | Rawalpindi - Hunza (Aliabad) | operational | 13 | 23% | 0% | 15% | 62% | 0% | 0 | low |
+| NATCO | NT-RWP-CLS | Rawalpindi - Chilas | operational | 11 | 9% | 0% | 18% | 73% | 0% | 0 | low |
+| NATCO | NT-RWP-KHI | Rawalpindi - Karachi | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| NATCO | NT-RWP-SKD | Rawalpindi - Skardu | unverified | 12 | 8% | 0% | 17% | 67% | 8% | 0 | low |
+| NATCO | NT-RWP-GAH | Rawalpindi - Gahkuch | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| NATCO | NT-RWP-KHA | Rawalpindi - Khaplu | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| NATCO | NT-RWP-AST | Rawalpindi - Astore | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| NATCO | NT-RWP-DAR | Rawalpindi - Darel | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| NATCO | NT-RWP-TAN | Rawalpindi - Tangir | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| NATCO | NT-RWP-DAN | Rawalpindi - Danyor | operational | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
+| NATCO | NT-RWP-GUL | Rawalpindi - Gulmit | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| NATCO | NT-RWP-SIK | Rawalpindi - Sikandrabad | operational | 2 | 50% | 0% | 0% | 0% | 0% | 1 | low |
+| NATCO | NT-RWP-NAR | Rawalpindi - Naran | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| NATCO | NT-RWP-LHR | Rawalpindi - Lahore | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| NATCO | NT-GLT-KHI | Gilgit - Karachi | operational | 18 | 6% | 0% | 17% | 72% | 6% | 0 | low |
+| NATCO | NT-HNZ-KHI | Hunza - Karachi | operational | 3 | 67% | 0% | 0% | 0% | 33% | 0 | low |
+| NATCO | NT-SST-KHI | Sost - Karachi | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| NATCO | NT-SST-TXK | Sost - Tashkurgan (China) | unverified | 3 | 33% | 0% | 33% | 33% | 0% | 0 | low |
+| NATCO | NT-GLT-KSH | Gilgit - Kashgar (China) | unverified | 5 | 40% | 0% | 20% | 40% | 0% | 0 | low |
+| Niazi Express | NZ-LHR-BAHAWALP | Lahore - Bahawalpur | operational | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
+| Niazi Express | NZ-LHR-PESHAWAR | Lahore - Peshawar | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Niazi Express | NZ-LHR-DERAISMA | Lahore - Dera Ismail Khan | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Niazi Express | NZ-LHR-BAHAWALN | Lahore - Bahawalnagar | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Niazi Express | NZ-LHR-CHASHMA | Lahore - Chashma | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Niazi Express | NZ-LHR-HAROONAB | Lahore - Haroonabad | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Niazi Express | NZ-LHR-FORTABBA | Lahore - Fort Abbas | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Niazi Express | NZ-LHR-CHISHTIA | Lahore - Chishtian | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Niazi Express | NZ-LHR-MANSEHRA | Lahore - Mansehra | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Niazi Express | NZ-LHR-ISAKHEL | Lahore - Isa Khel | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Niazi Express | NZ-LHR-LAKKIMAR | Lahore - Lakki Marwat | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Niazi Express | NZ-LHR-MUZAFFAR | Lahore - Muzaffarabad | operational | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
+| Niazi Express | NZ-LHR-DAHRANWA | Lahore - Dahranwala | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Niazi Express | NZ-LHR-MAROT | Lahore - Marot | operational | 2 | 50% | 0% | 0% | 0% | 0% | 1 | low |
+| Niazi Express | NZ-LHR-THAKOT | Lahore - Thakot | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Niazi Express | NZ-LHR-KHI | Lahore - Karachi | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Niazi Express | NZ-LHR-MUX | Lahore - Multan | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Niazi Express | NZ-LHR-UET | Lahore - Quetta | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Niazi Express | NZ-LHR-FSD | Lahore - Faisalabad | unverified | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
+| Niazi Express | NZ-PEW-ISB | Peshawar - Islamabad | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-01 | Karachi - Hyderabad | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-02 | Karachi - Jamshoro | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-03 | Karachi - Sehwan Sharif | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-04 | Karachi - Dadu | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-05 | Karachi - Larkana | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-06 | Karachi - Mirpurkhas | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-07 | Karachi - Khipro via Mirpurkhas | operational | 3 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-08 | Karachi - Kunri | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-09 | Karachi - Umerkot | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-10 | Karachi - Mithi | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-11 | Karachi - Islamkot | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-12 | Karachi - Tando Adam | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-13 | Karachi - Sanghar | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-14 | Karachi - Shaheed Benazirabad | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-15 | Karachi - Sukkur | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-16 | Karachi - Shikarpur | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-17 | Karachi - Kandhkot | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-18 | Karachi - Kashmore | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-19 | Karachi - Thatta | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sindh intercity provisional fares (PTA Sindh) | PTA-20 | Karachi - Badin | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-LHR-RWP | Lahore - Rawalpindi/Islamabad | operational | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-LHR-PEW | Lahore - Peshawar | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-LHR-MUX | Lahore - Multan | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-LHR-FSD | Lahore - Faisalabad | operational | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-LHR-SGD | Lahore - Sargodha | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-LHR-SKT | Lahore - Sialkot/Daska | operational | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-LHR-BWP | Lahore - Bahawalpur | operational | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-LHR-KHI | Lahore - Karachi | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-LHR-UET | Lahore - Quetta | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-LHR-SWT | Lahore - Swat | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-LHR-MRE | Lahore - Murree | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-LHR-MNS | Lahore - Mansehra | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-LHR-ATD | Lahore - Abbottabad | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-LHR-SDQ | Lahore - Sadiqabad | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-LHR-SKR | Lahore - Sukkur | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-RWP-KHI | Rawalpindi - Karachi | operational | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-RWP-GRT | Rawalpindi - Gujrat | operational | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-RWP-CKW | Rawalpindi - Chakwal | operational | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-ISB-MUX | Islamabad - Multan | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Q Connect | QC-LHR-ISB | Lahore - Islamabad | operational | 2 | 0% | 0% | 0% | 0% | 100% | 0 | medium |
+| Road Master | RM-LHR-FZB | Lahore - Islamabad (Faizabad) | operational | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
+| Road Master | RM-LHR-RWP | Lahore - Rawalpindi (Pir Wadhai) | operational | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
+| Road Master | RM-LHR-MUX | Lahore - Multan | operational | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
+| Road Master | RM-FZB-MUX | Islamabad (Faizabad) - Multan | operational | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
+| Road Master | RM-RWP-MUX | Rawalpindi - Multan | operational | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
+| Silk Line | SL-LHR-MULTAN | Lahore - Multan | operational | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
+| Silk Line | SL-LHR-DERAGHAZ | Lahore - Dera Ghazi Khan | operational | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
+| Silk Line | SL-LHR-BAHAWALP | Lahore - Bahawalpur | operational | 2 | 0% | 0% | 50% | 0% | 50% | 0 | low |
+| Silk Line | SL-LHR-LODHRAN | Lahore - Lodhran | operational | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Silk Line | SL-LHR-RAJANPUR | Lahore - Rajanpur | operational | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Silk Line | SL-LHR-UCHSHARI | Lahore - Uch Sharif | operational | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Silk Line | SL-LHR-DUNYAPUR | Lahore - Dunyapur | operational | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Silk Line | SL-LHR-JAHANIAN | Lahore - Jahanian | operational | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Silk Line | SL-LHR-KHANEWAL | Lahore - Khanewal | operational | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Silk Line | SL-LHR-TAUNSA | Lahore - Taunsa | operational | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Silk Line | SL-LHR-KOTADDU | Lahore - Kot Addu | operational | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Silk Line | SL-LHR-JATOI | Lahore - Jatoi | operational | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Silk Line | SL-LHR-MANDIYAZ | Lahore - Mandi Yazman | operational | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Silk Line | SL-LHR-ALIPUR | Lahore - Alipur | operational | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Silk Line | SL-LHR-ABDULHAK | Lahore - Abdul Hakeem | operational | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Silk Line | SL-LHR-JALALPUR | Lahore - Jalalpur | operational | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Silk Line | SL-LHR-JHANGRA | Lahore - Jhangra | operational | 2 | 0% | 0% | 0% | 0% | 50% | 1 | low |
+| Skyways | SK-LHR-ISB | Lahore - Islamabad | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Skyways | SK-LHR-MZD | Lahore - Muzaffarabad | operational | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
+| Skyways | SK-LHR-KHW | Lahore - Khanewal - Bahawalpur | operational | 3 | 33% | 0% | 33% | 33% | 0% | 0 | low |
+| Skyways | SK-ISB-KHI | Islamabad - Karachi | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| Skyways | SK-ISB-MUX | Islamabad - Multan | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Skyways | SK-ISB-UET | Islamabad - Quetta | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Skyways | SK-ISB-HYD | Islamabad - Hyderabad | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Skyways | SK-SWL-ATK | Sahiwal - Attock | operational | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Skyways | SK-SWL-FSD | Sahiwal - Faisalabad | operational | 2 | 0% | 0% | 50% | 0% | 50% | 0 | low |
+| Skyways | SK-SWL-ISB | Sahiwal - Islamabad | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| Skyways | SK-SWL-KHI | Sahiwal - Karachi | operational | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
+| Skyways | SK-LHR-KHI | Lahore - Karachi | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| Skyways | SK-PEW-ISB | Peshawar - Islamabad | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| Skyways | SK-ISB-MZD | Islamabad - Muzaffarabad | operational | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
+| Skyways | SK-LHR-SGD | Lahore - Sargodha | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Waraich Express | WR-LHR-KHI | Lahore - Karachi | unverified | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
+| Waraich Express | WR-KHI-ISB | Karachi - Islamabad | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Waraich Express | WR-LHR-SKR | Lahore - Sukkur | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Waraich Express | WR-LHR-SDQ | Lahore - Sadiqabad | unverified | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
+| Waraich Express | WR-LHR-KNP | Lahore - Khanpur | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Waraich Express | WR-LHR-MUX | Lahore - Multan | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Waraich Express | WR-KHI-SKT | Karachi - Sialkot | unverified | 2 | 0% | 0% | 50% | 0% | 50% | 0 | low |
+| Waraich Express | WR-KHI-SWT | Karachi - Mingora (Swat) | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Pakistan Railways | 10DN Allama Iqbal Express | Allama Iqbal Express (10DN): Sialkot Junction - Karachi Cantonment | operational | 37 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 9UP Allama Iqbal Express | Allama Iqbal Express (9UP): Karachi Cantonment - Sialkot Junction | operational | 38 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 202DN Attock Passenger | Attock Passenger (202DN): Attock City Junction - Mari Indus | operational | 18 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 201UP Attock Passenger | Attock Passenger (201UP): Mari Indus - Attock City Junction | operational | 18 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 14DN Awam Express | Awam Express (14DN): Peshawar Cantonment - Karachi Cantonment | operational | 62 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 13UP Awam Express | Awam Express (13UP): Karachi Cantonment - Peshawar Cantonment | operational | 62 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 112DN Badar Express | Badar Express (112DN): Lahore Junction - Faisalabad | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 111UP Badar Express | Badar Express (111UP): Faisalabad - Lahore Junction | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 26DN Bahauddin Zakria Express | Bahauddin Zakria Express (26DN): Multan Cantonment - Karachi City | operational | 26 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 25UP Bahauddin Zakria Express | Bahauddin Zakria Express (25UP): Karachi City - Multan Cantonment | operational | 26 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 4DN Bolan Mail | Bolan Mail (4DN): Quetta - Karachi City | operational | 25 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 3UP Bolan Mail | Bolan Mail (3UP): Karachi City - Quetta | operational | 24 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 350DN Chaman Mixed | Chaman Mixed (350DN): Chaman - Quetta | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 349UP Chaman Mixed | Chaman Mixed (349UP): Quetta - Chaman | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 136DN Chenab Express | Chenab Express (136DN): Lala Musa Junction - Sargodha Junction | operational | 17 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 135UP Chenab Express | Chenab Express (135UP): Sargodha Junction - Lala Musa Junction | operational | 18 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 210DN Faiz Ahmed Faiz Passenger | Faiz Ahmed Faiz Passenger (210DN): Narowal Junction - Lahore Junction | operational | 12 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 209UP Faiz Ahmed Faiz Passenger | Faiz Ahmed Faiz Passenger (209UP): Lahore Junction - Narowal Junction | operational | 12 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 38DN Fareed Express | Fareed Express (38DN): Lahore Junction - Karachi City | operational | 46 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 37UP Fareed Express | Fareed Express (37UP): Karachi City - Lahore Junction | operational | 45 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 114DN Ghouri Express | Ghouri Express (114DN): Lahore Junction - Faisalabad | operational | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 113UP Ghouri Express | Ghouri Express (113UP): Faisalabad - Lahore Junction | operational | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 5UP Green Line | Green Line (5UP): Karachi Cantonment - Margalla | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 6DN Green Line | Green Line (6DN): Margalla - Karachi Cantonment | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 12DN Hazara Express | Hazara Express (12DN): Havelian - Karachi City | operational | 54 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 11UP Hazara Express | Hazara Express (11UP): Karachi City - Havelian | operational | 54 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 108DN Islamabad Express | Islamabad Express (108DN): Margalla - Lahore Junction | operational | 4 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 107UP Islamabad Express | Islamabad Express (107UP): Lahore Junction - Rawalpindi | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 40DN Jaffar Express | Jaffar Express (40DN): Peshawar Cantonment - Quetta | operational | 43 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 39UP Jaffar Express | Jaffar Express (39UP): Quetta - Peshawar Cantonment | operational | 45 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 204DN Jand Passenger | Jand Passenger (204DN): Attock City Junction - Jand Junction | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 203UP Jand Passenger | Jand Passenger (203UP): Jand Junction - Attock City Junction | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 16DN Karachi Express | Karachi Express (16DN): Lahore Junction - Karachi Cantonment | operational | 13 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 15UP Karachi Express | Karachi Express (15UP): Karachi Cantonment - Lahore Junction | operational | 12 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 42DN Karakoram Express | Karakoram Express (42DN): Lahore Junction - Karachi Cantonment | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 41UP Karakoram Express | Karakoram Express (41UP): Karachi Cantonment - Lahore Junction | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 2DN Khyber Mail | Khyber Mail (2DN): Peshawar Cantonment - Karachi Cantonment | operational | 43 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 1UP Khyber Mail | Khyber Mail (1UP): Karachi Cantonment - Peshawar Cantonment | operational | 44 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 126DN Lasani Express | Lasani Express (126DN): Sialkot Junction - Lahore Junction | operational | 18 | 94% | 0% | 0% | 0% | 6% | 0 | high |
+| Pakistan Railways | 125UP Lasani Express | Lasani Express (125UP): Lahore Junction - Sialkot Junction | operational | 18 | 94% | 0% | 0% | 0% | 6% | 0 | high |
+| Pakistan Railways | 336DN Marvi Passenger | Marvi Passenger (336DN): Mirpur Khas - Khokhropar | operational | 17 | 88% | 0% | 0% | 0% | 12% | 0 | medium |
+| Pakistan Railways | 335UP Marvi Passenger | Marvi Passenger (335UP): Khokhropar - Mirpur Khas | operational | 18 | 94% | 0% | 0% | 0% | 6% | 0 | medium |
+| Pakistan Railways | 128DN Mehr Express | Mehr Express (128DN): Rawalpindi - Multan Cantonment | operational | 37 | 97% | 0% | 0% | 0% | 3% | 0 | high |
+| Pakistan Railways | 127UP Mehr Express | Mehr Express (127UP): Multan Cantonment - Rawalpindi | operational | 37 | 95% | 0% | 0% | 3% | 3% | 0 | high |
+| Pakistan Railways | 149UP Mehran Express | Mehran Express (149UP): Karachi City - Mirpur Khas | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 150DN Mehran Express | Mehran Express (150DN): Mirpur Khas - Karachi City | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 18DN Millat Express | Millat Express (18DN): Lala Musa Junction - Karachi Cantonment | operational | 36 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 17UP Millat Express | Millat Express (17UP): Karachi Cantonment - Lala Musa Junction | operational | 35 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 116DN Musa Pak Express | Musa Pak Express (116DN): Lahore Junction - Multan Cantonment | operational | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 115UP Musa Pak Express | Musa Pak Express (115UP): Multan Cantonment - Lahore Junction | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 44DN Shah Hussain Express | Shah Hussain Express (44DN): Lahore Junction - Karachi Cantonment | unverified | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 43UP Shah Hussain Express | Shah Hussain Express (43UP): Karachi Cantonment - Lahore Junction | unverified | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 46DN Pakistan Express | Pakistan Express (46DN): Rawalpindi - Karachi Cantonment | operational | 32 | 94% | 0% | 3% | 0% | 3% | 0 | high |
+| Pakistan Railways | 45UP Pakistan Express | Pakistan Express (45UP): Karachi Cantonment - Rawalpindi | operational | 33 | 94% | 0% | 3% | 0% | 3% | 0 | medium |
+| Pakistan Railways | 122DN Ravi Express | Ravi Express (122DN): Lahore Junction - Shorkot Cantonment Junction | operational | 15 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 121UP Ravi Express | Ravi Express (121UP): Shorkot Cantonment Junction - Lahore Junction | operational | 15 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 106DN Rawal Express | Rawal Express (106DN): Rawalpindi - Lahore Junction | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 105UP Rawal Express | Rawal Express (105UP): Lahore Junction - Rawalpindi | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 268DN Rawalpindi Passenger | Rawalpindi Passenger (268DN): Havelian - Rawalpindi | operational | 9 | 89% | 0% | 0% | 11% | 0% | 0 | medium |
+| Pakistan Railways | 267UP Rawalpindi Passenger | Rawalpindi Passenger (267UP): Rawalpindi - Havelian | operational | 9 | 89% | 0% | 0% | 11% | 0% | 0 | medium |
+| Pakistan Railways | 156DN Saman Sarkar Express | Saman Sarkar Express (156DN): Mirpur Khas - Hyderabad Junction | operational | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 155UP Saman Sarkar Express | Saman Sarkar Express (155UP): Hyderabad Junction - Mirpur Khas | operational | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 151UP Shah Latif Express | Shah Latif Express (151UP): Karachi City - Mirpur Khas | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 152DN Shah Latif Express | Shah Latif Express (152DN): Mirpur Khas - Karachi City | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 226DN Shaheen Passenger | Shaheen Passenger (226DN): Sialkot Junction - Wazirabad Junction | operational | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 225UP Shaheen Passenger | Shaheen Passenger (225UP): Wazirabad Junction - Sialkot Junction | operational | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 28DN Shalimar Express | Shalimar Express (28DN): Lahore Junction - Karachi Cantonment | operational | 14 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 27UP Shalimar Express | Shalimar Express (27UP): Karachi Cantonment - Lahore Junction | operational | 14 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 104DN Subak Kharam | Subak Kharam (104DN): Rawalpindi - Lahore Junction | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 103UP Subak Kharam | Subak Kharam (103UP): Lahore Junction - Rawalpindi | operational | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 102DN Subak Raftar | Subak Raftar (102DN): Rawalpindi - Lahore Junction | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 101UP Subak Raftar | Subak Raftar (101UP): Lahore Junction - Rawalpindi | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 146DN Sukkur Express | Sukkur Express (146DN): Jacobabad Junction - Karachi City | operational | 22 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 145UP Sukkur Express | Sukkur Express (145UP): Karachi City - Jacobabad Junction | operational | 22 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 8DN Tezgam | Tezgam (8DN): Rawalpindi - Karachi Cantonment | operational | 31 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 7UP Tezgam | Tezgam (7UP): Karachi Cantonment - Rawalpindi | operational | 30 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 130DN Thall Express | Thall Express (130DN): Rawalpindi - Multan Cantonment | operational | 40 | 95% | 0% | 0% | 5% | 0% | 0 | medium |
+| Pakistan Railways | 129UP Thall Express | Thall Express (129UP): Multan Cantonment - Rawalpindi | operational | 40 | 98% | 0% | 0% | 0% | 3% | 0 | medium |
+| Pakistan Railways | 211UP Narowal Passenger | Narowal Passenger (211UP): Lahore Junction - Narowal Junction | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 212DN Narowal Passenger | Narowal Passenger (212DN): Narowal Junction - Lahore Junction | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 133UP Kohat Express | Kohat Express (133UP): Rawalpindi - Kohat Cantonment | operational | 12 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 134DN Kohat Express | Kohat Express (134DN): Kohat Cantonment - Rawalpindi | operational | 13 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 47UP Rehman Baba Express | Rehman Baba Express (47UP): Karachi Cantonment - Peshawar Cantonment | operational | 38 | 97% | 0% | 0% | 0% | 3% | 0 | medium |
+| Pakistan Railways | 48DN Rehman Baba Express | Rehman Baba Express (48DN): Peshawar Cantonment - Karachi Cantonment | operational | 37 | 97% | 0% | 0% | 0% | 3% | 0 | medium |
+| Pakistan Railways | 213UP Mohinjo Daro Passenger | Mohinjo Daro Passenger (213UP): Kotri Junction - Rohri Junction | operational | 24 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 214DN Mohinjo Daro Passenger | Mohinjo Daro Passenger (214DN): Rohri Junction - Kotri Junction | operational | 24 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | PDK1UPDN PDK Shuttle | PDK Shuttle (PDK1UPDN): Pind Dadn Khan - Malakwal Junction | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | PDK2DN PDK Shuttle | PDK Shuttle (PDK2DN): Malakwal Junction - Pind Dadn Khan | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | PDK-3DN PDK Shuttle | PDK Shuttle (PDK-3DN): Pind Dadn Khan - Malakwal Junction | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | PDK-4DN PDK Shuttle | PDK Shuttle (PDK-4DN): Malakwal Junction - Pind Dadn Khan | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | PDK-5DN PDK Shuttle | PDK Shuttle (PDK-5DN): Pind Dadn Khan - Malakwal Junction | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | PDK-6DN PDK Shuttle | PDK Shuttle (PDK-6DN): Malakwal Junction - Pind Dadn Khan | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 33UP Pak Business Express | Pak Business Express (33UP): Karachi Cantonment - Lahore Junction | operational | 12 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 34DN Pak Business Express | Pak Business Express (34DN): Lahore Junction - Karachi Cantonment | operational | 14 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 31UP Jinnah Express | Jinnah Express (31UP): Karachi Cantonment - Lahore Junction | suspended | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 32DN Jinnah Express | Jinnah Express (32DN): Lahore Junction - Karachi Cantonment | suspended | 6 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 35UP Sir Sayyed Express | Sir Sayyed Express (35UP): Karachi Cantonment - Rawalpindi | suspended | 13 | 92% | 0% | 0% | 0% | 8% | 0 | medium |
+| Pakistan Railways | 36DN Sir Sayyed Express | Sir Sayyed Express (36DN): Rawalpindi - Karachi City | suspended | 14 | 93% | 0% | 0% | 0% | 7% | 0 | medium |
+| Pakistan Railways | 147UP Mianwali Express | Mianwali Express (147UP): Mari Indus - Lahore Junction | operational | 16 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 148DN Mianwali Express | Mianwali Express (148DN): Lahore Junction - Mari Indus | operational | 16 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 
 ## Karachi
 
@@ -20,72 +316,83 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Karachi Breeze (BRT) | RED | Malir Halt - Model Colony - University Road - Numaish | under_construction | 24 | 0% | 0% | 75% | 8% | 17% | 0 | medium |
 | Karachi Breeze (BRT) | YELLOW | Dawood Chowrangi - Korangi - Shahrah-e-Faisal - Numaish | under_construction | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
 | Karachi Breeze (BRT) | BROWN | Singer Chowrangi - Nagan Chowrangi (proposed) | planned | 2 | 0% | 50% | 50% | 0% | 0% | 0 | low |
-| Chinchi (Qingqi) routes | 007 | Shrine of Manghopir - Daak Khana - Liaquatabad | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
-| Chinchi (Qingqi) routes | 2-J | Saddar - Al hameed | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Chinchi (Qingqi) routes | 007 | Shrine of Manghopir - Daak Khana - Liaquatabad | unverified | 14 | 0% | 0% | 64% | 0% | 36% | 0 | medium |
+| Chinchi (Qingqi) routes | 2-J | Saddar - Al hameed | unverified | 25 | 0% | 0% | 80% | 4% | 12% | 1 | medium |
 | Chinchi (Qingqi) routes | 4-E | Abdullah Chowk - Numaish Chowrangi | unverified | 23 | 0% | 0% | 96% | 0% | 4% | 0 | medium |
-| Chinchi (Qingqi) routes | 4-X | Surjani - Sector 7A - Guru Mandir | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
-| Chinchi (Qingqi) routes | 555 | Sindhi Hotel - New Karachi - Guru Mandir | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
-| Chinchi (Qingqi) routes | 786 | Lyari Basti - Taiser Town - NIPA Chowrangi | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
-| Chinchi (Qingqi) routes | 7-D | North Karachi 7-D - Iqra University - Lucky One Mall | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | 4-X | Surjani - Sector 7A - Guru Mandir | unverified | 25 | 0% | 0% | 76% | 8% | 12% | 1 | medium |
+| Chinchi (Qingqi) routes | 555 | Sindhi Hotel - New Karachi - Guru Mandir | unverified | 18 | 0% | 0% | 83% | 6% | 6% | 1 | medium |
+| Chinchi (Qingqi) routes | 786 | Lyari Basti - Taiser Town - NIPA Chowrangi | unverified | 21 | 0% | 0% | 76% | 0% | 19% | 1 | medium |
+| Chinchi (Qingqi) routes | 7-D | North Karachi 7-D - Iqra University - Lucky One Mall | unverified | 11 | 0% | 0% | 55% | 9% | 27% | 1 | medium |
 | Chinchi (Qingqi) routes | 8 | Pahar Ganj - Ahsanabad | unverified | 14 | 0% | 0% | 79% | 7% | 14% | 0 | medium |
 | Chinchi (Qingqi) routes | A | Saddar - NIPA Chowrangi | unverified | 3 | 0% | 0% | 67% | 0% | 0% | 1 | medium |
-| Chinchi (Qingqi) routes | A-1 | Disco Bakers and Sweets - Gulshan Chowrangi | unverified | 4 | 0% | 0% | 75% | 0% | 25% | 0 | medium |
-| Chinchi (Qingqi) routes | A-18 | Chungi Ghazi - Millennium Mall | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | A-1 | Disco Bakers and Sweets - Gulshan Chowrangi | unverified | 4 | 0% | 0% | 100% | 0% | 0% | 0 | medium |
+| Chinchi (Qingqi) routes | A-18 | Chungi Ghazi - Millennium Mall | unverified | 19 | 0% | 0% | 63% | 5% | 26% | 1 | medium |
 | Chinchi (Qingqi) routes | AA1 | Korangi 5 - Liaquatabad No.10 - Lalukhet | unverified | 15 | 0% | 0% | 87% | 7% | 0% | 1 | medium |
-| Chinchi (Qingqi) routes | AS-1 | Korangi 6 - 4K Chowrangi | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
-| Chinchi (Qingqi) routes | B-1 | Daak Khana - Liaquatabad - Allah bux village - Ahsanabad | unverified | 11 | 0% | 0% | 82% | 0% | 9% | 1 | medium |
-| Chinchi (Qingqi) routes | B-3 | Numaish Chowrangi - Safoora Chowrangi | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | AS-1 | Korangi 6 - 4K Chowrangi | unverified | 8 | 0% | 0% | 38% | 0% | 13% | 4 | medium |
+| Chinchi (Qingqi) routes | B-1 | Daak Khana - Liaquatabad - Allah bux village - Ahsanabad | unverified | 10 | 0% | 0% | 90% | 0% | 10% | 0 | medium |
+| Chinchi (Qingqi) routes | B-3 | Numaish Chowrangi - Safoora Chowrangi | unverified | 8 | 0% | 0% | 88% | 0% | 13% | 0 | medium |
 | Chinchi (Qingqi) routes | B-9 | Korangi 6 - Korangi Crossing Road | unverified | 9 | 0% | 0% | 100% | 0% | 0% | 0 | medium |
-| Chinchi (Qingqi) routes | D-13 | Jungle School (Baldia) - Banaras Bus Stop | unverified | 12 | 0% | 0% | 50% | 8% | 42% | 0 | medium |
-| Chinchi (Qingqi) routes | D-22 | Lyari 50 - Teen Hatti | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | D-13 | Jungle School (Baldia) - Banaras Bus Stop | unverified | 13 | 0% | 0% | 54% | 8% | 38% | 0 | medium |
+| Chinchi (Qingqi) routes | D-22 | Lyari 50 - Teen Hatti | unverified | 23 | 0% | 0% | 74% | 0% | 13% | 3 | medium |
 | Chinchi (Qingqi) routes | D-3 | Guru Mandir - Munawar Chowrangi - Gulistan-e-Johar | unverified | 14 | 0% | 0% | 79% | 0% | 14% | 1 | medium |
-| Chinchi (Qingqi) routes | Double Jhanda | Kharadar - Teen Hatti | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | Double Jhanda | Kharadar - Teen Hatti | unverified | 7 | 0% | 0% | 86% | 0% | 14% | 0 | medium |
 | Chinchi (Qingqi) routes | F-12 | Allah waali - New Karachi - Teen Hatti | unverified | 11 | 0% | 0% | 73% | 0% | 9% | 2 | medium |
-| Chinchi (Qingqi) routes | FM | Abdullah Mor - Surjani - Malir 15 | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
-| Chinchi (Qingqi) routes | FS-1 | L Block Rd - Aziz Nagar - Anarkali Sector 6 - Surjani Town | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
-| Chinchi (Qingqi) routes | G-2 | Daak Khana - Liaquatabad - New Sabzi Mandi | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
-| Chinchi (Qingqi) routes | G-25 | Five Star Chowrangi - Gulshan Chowrangi | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
-| Chinchi (Qingqi) routes | G-7 | Baba Mor - Bismillah Chowk | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
-| Chinchi (Qingqi) routes | GM | Malir 15 - Baba Mor | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
-| Chinchi (Qingqi) routes | J-1 | Gulshan Ghazi - IC Bridge | unverified | 16 | 0% | 0% | 50% | 0% | 44% | 1 | medium |
+| Chinchi (Qingqi) routes | FM | Abdullah Mor - Surjani - Malir 15 | unverified | 29 | 0% | 0% | 79% | 3% | 17% | 0 | medium |
+| Chinchi (Qingqi) routes | FS-1 | L Block Rd - Aziz Nagar - Anarkali Sector 6 - Surjani Town | unverified | 17 | 0% | 0% | 76% | 0% | 6% | 3 | medium |
+| Chinchi (Qingqi) routes | G-2 | Daak Khana - Liaquatabad - New Sabzi Mandi | unverified | 12 | 0% | 0% | 83% | 0% | 8% | 1 | medium |
+| Chinchi (Qingqi) routes | G-25 | Five Star Chowrangi - Gulshan Chowrangi | unverified | 8 | 0% | 0% | 75% | 0% | 25% | 0 | medium |
+| Chinchi (Qingqi) routes | G-7 | Baba Mor - Bismillah Chowk | unverified | 20 | 0% | 0% | 65% | 0% | 35% | 0 | medium |
+| Chinchi (Qingqi) routes | GM | Malir 15 - Baba Mor | unverified | 19 | 0% | 0% | 58% | 0% | 37% | 1 | medium |
+| Chinchi (Qingqi) routes | J-1 | Gulshan Ghazi - IC Bridge | unverified | 15 | 0% | 0% | 53% | 0% | 47% | 0 | medium |
 | Chinchi (Qingqi) routes | JF17 | Korangi 5 - Liaquatabad No.10 - Lalukhet | unverified | 15 | 0% | 0% | 87% | 7% | 0% | 1 | medium |
-| Chinchi (Qingqi) routes | K-18 | Chungi Ghazi - Millennium Mall | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | K-18 | Chungi Ghazi - Millennium Mall | unverified | 19 | 0% | 0% | 63% | 5% | 26% | 1 | medium |
 | Chinchi (Qingqi) routes | K-4 | Korangi Crossing Road - Korangi 6 | unverified | 9 | 0% | 0% | 100% | 0% | 0% | 0 | medium |
-| Chinchi (Qingqi) routes | K-5 | Makkah Hotel - Sec 5A1 North Karachi - Patel Para (Guru Mandir) | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | K-5 | Makkah Hotel - Sec 5A1 North Karachi - Patel Para (Guru Mandir) | unverified | 23 | 0% | 0% | 78% | 4% | 13% | 1 | medium |
 | Chinchi (Qingqi) routes | K6 | Korangi Crossing Road - Korangi 6 | unverified | 9 | 0% | 0% | 100% | 0% | 0% | 0 | medium |
-| Chinchi (Qingqi) routes | K-86 | Lyari 50 - Guru Mandir | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | K-86 | Lyari 50 - Guru Mandir | unverified | 25 | 0% | 0% | 76% | 0% | 12% | 3 | medium |
 | Chinchi (Qingqi) routes | Karachi King | Korangi 5 - Liaquatabad No.10 - Lalukhet | unverified | 15 | 0% | 0% | 87% | 7% | 0% | 1 | medium |
 | Chinchi (Qingqi) routes | M-1 | Jamali Flyover - Guru Mandir | unverified | 13 | 0% | 0% | 85% | 0% | 15% | 0 | medium |
-| Chinchi (Qingqi) routes | M-10 | Lyari Basti - Taiser Town - NIPA Chowrangi | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | M-10 | Lyari Basti - Taiser Town - NIPA Chowrangi | unverified | 7 | 0% | 0% | 71% | 0% | 14% | 1 | medium |
 | Chinchi (Qingqi) routes | M-22 | Korangi 5 - Liaquatabad No.10 - Lalukhet | unverified | 15 | 0% | 0% | 87% | 7% | 0% | 1 | medium |
 | Chinchi (Qingqi) routes | M-5 | Expo Center - Expo Center | unverified | 1 | 0% | 0% | 100% | 0% | 0% | 0 | medium |
-| Chinchi (Qingqi) routes | M-55 | Lyari Basti - Taiser Town - Saddar | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
-| Chinchi (Qingqi) routes | M-7 | Yaroo Khan Goth - Surjani Town - 89 Landhi Rd | unverified | 26 | 0% | 0% | 62% | 0% | 19% | 5 | medium |
-| Chinchi (Qingqi) routes | M-9 | Qayyumabad - NIPA Chowrangi | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | M-55 | Lyari Basti - Taiser Town - Saddar | unverified | 26 | 0% | 0% | 81% | 4% | 12% | 1 | medium |
+| Chinchi (Qingqi) routes | M-7 | Yaroo Khan Goth - Surjani Town - 89 Landhi Rd | unverified | 25 | 0% | 0% | 60% | 0% | 20% | 5 | medium |
+| Chinchi (Qingqi) routes | M-9 | Qayyumabad - NIPA Chowrangi | unverified | 12 | 0% | 0% | 83% | 8% | 8% | 0 | medium |
 | Chinchi (Qingqi) routes | MK 081 | MK 081 | unverified | 0 | - | - | - | - | - | 0 | low |
-| Chinchi (Qingqi) routes | N-1 | NIPA Chowrangi - Kaneez Fatima Society - Gulzar-e-Hijri | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
-| Chinchi (Qingqi) routes | N-1 Baldia | Jungle School (Baldia) - Shershah | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
-| Chinchi (Qingqi) routes | N-55 | Lyari Basti - Taiser Town - Khairabad - Gulshan-e-Zia | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | N-1 | NIPA Chowrangi - Kaneez Fatima Society - Gulzar-e-Hijri | unverified | 7 | 0% | 0% | 86% | 0% | 0% | 1 | medium |
+| Chinchi (Qingqi) routes | N-1 Baldia | Jungle School (Baldia) - Shershah | unverified | 9 | 0% | 0% | 67% | 0% | 33% | 0 | medium |
+| Chinchi (Qingqi) routes | N-55 | Lyari Basti - Taiser Town - Khairabad - Gulshan-e-Zia | unverified | 23 | 0% | 0% | 70% | 4% | 22% | 1 | medium |
 | Chinchi (Qingqi) routes | N-91 | NIPA Chowrangi - Johar Chowrangi | unverified | 5 | 0% | 0% | 60% | 0% | 20% | 1 | medium |
-| Chinchi (Qingqi) routes | Naseeb | Korangi 5 - Liaquatabad No.10 - Lalukhet | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
-| Chinchi (Qingqi) routes | ND-1 | Umer Goth - Daak Khana - Liaquatabad | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | Naseeb | Korangi 5 - Liaquatabad No.10 - Lalukhet | unverified | 15 | 0% | 0% | 87% | 7% | 0% | 1 | medium |
+| Chinchi (Qingqi) routes | ND-1 | Umer Goth - Daak Khana - Liaquatabad | unverified | 18 | 0% | 0% | 67% | 6% | 22% | 1 | medium |
 | Chinchi (Qingqi) routes | P-1 | P-1 | unverified | 0 | - | - | - | - | - | 0 | low |
 | Chinchi (Qingqi) routes | Razaq | Korangi 5 - Liaquatabad No.10 - Lalukhet | unverified | 15 | 0% | 0% | 87% | 7% | 0% | 1 | medium |
-| Chinchi (Qingqi) routes | R-S | Johar Chowrangi - Johar Chowrangi | unverified | 1 | 0% | 0% | 0% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | R-S | Perfume Chowk Gulistan-e-Johar - Safoora Chowrangi | unverified | 6 | 0% | 0% | 83% | 17% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | S-2 | Daak Khana - Liaquatabad - Alnoor mor | unverified | 10 | 0% | 0% | 70% | 10% | 20% | 0 | medium |
-| Chinchi (Qingqi) routes | S-7 | Khawaja Ajmer Nagri - Teen Hatti | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
-| Chinchi (Qingqi) routes | S-K | Al Asif Square - Ittehad Town | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
-| Chinchi (Qingqi) routes | Sultan | Liaquatabad No.10 - Lalukhet - Korangi 5 | unverified | 23 | 0% | 0% | 87% | 4% | 0% | 2 | medium |
-| Chinchi (Qingqi) routes | T-10 | Daak Khana - Liaquatabad - Surjani - Sector 7A | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
-| Chinchi (Qingqi) routes | T-11 | Daak Khana - Liaquatabad - Surjani - Sector 7A | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
-| Chinchi (Qingqi) routes | T-99 | Mansoor Nagar (Maa Hospital) - Abdullah Mor - Surjani | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
-| Chinchi (Qingqi) routes | U-5 | Machchi Market (New Karachi) - KDA Chowrangi | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
-| Chinchi (Qingqi) routes | V-1 | Baba Mor - Garden | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
-| Chinchi (Qingqi) routes | W-11 | Gulshan Ghazi - Daak Khana - Liaquatabad | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
-| Chinchi (Qingqi) routes | W-86 | Lyari Basti - Taiser Town - Teen Hatti | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
-| Chinchi (Qingqi) routes | X-2 | ICI Bridge - Yousuf Goth | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Chinchi (Qingqi) routes | S-7 | Khawaja Ajmer Nagri - Teen Hatti | unverified | 14 | 0% | 0% | 71% | 14% | 14% | 0 | medium |
+| Chinchi (Qingqi) routes | S-K | Al Asif Square - Ittehad Town | unverified | 19 | 0% | 0% | 84% | 0% | 16% | 0 | medium |
+| Chinchi (Qingqi) routes | Sultan | Liaquatabad No.10 - Lalukhet - Korangi 5 | unverified | 23 | 0% | 0% | 83% | 4% | 4% | 2 | medium |
+| Chinchi (Qingqi) routes | T-10 | Daak Khana - Liaquatabad - Surjani - Sector 7A | unverified | 20 | 0% | 0% | 75% | 5% | 15% | 1 | medium |
+| Chinchi (Qingqi) routes | T-11 | Daak Khana - Liaquatabad - Surjani - Sector 7A | unverified | 21 | 0% | 0% | 81% | 0% | 14% | 1 | medium |
+| Chinchi (Qingqi) routes | T-99 | Mansoor Nagar (Maa Hospital) - Abdullah Mor - Surjani | unverified | 22 | 0% | 0% | 86% | 5% | 9% | 0 | medium |
+| Chinchi (Qingqi) routes | U-5 | Machchi Market (New Karachi) - KDA Chowrangi | unverified | 11 | 0% | 0% | 82% | 0% | 18% | 0 | medium |
+| Chinchi (Qingqi) routes | V-1 | Baba Mor - Garden | unverified | 22 | 0% | 0% | 77% | 5% | 18% | 0 | medium |
+| Chinchi (Qingqi) routes | W-11 | Gulshan Ghazi - Daak Khana - Liaquatabad | unverified | 15 | 0% | 0% | 67% | 7% | 27% | 0 | medium |
+| Chinchi (Qingqi) routes | W-86 | Lyari Basti - Taiser Town - Teen Hatti | unverified | 22 | 0% | 0% | 77% | 0% | 18% | 1 | medium |
+| Chinchi (Qingqi) routes | X-2 | Agra Taj Colony - Yousuf Goth | unverified | 10 | 0% | 0% | 50% | 10% | 30% | 1 | medium |
 | Chinchi (Qingqi) routes | Z | Ittehad Town - Islam Chowk - Orangi Town | unverified | 6 | 0% | 0% | 67% | 0% | 33% | 0 | medium |
 | Chinchi (Qingqi) routes | Z-4 | Shershah - Haroonabad | unverified | 5 | 0% | 0% | 100% | 0% | 0% | 0 | medium |
+| Chinchi (Qingqi) routes | A-11 | Surjani - Sector 7A - Shafiq Mor | unverified | 16 | 0% | 0% | 75% | 0% | 19% | 1 | medium |
+| Chinchi (Qingqi) routes | Double Jhanda (Lee Market) | Teen Hatti - Lee Market | unverified | 8 | 0% | 0% | 75% | 0% | 25% | 0 | medium |
+| Chinchi (Qingqi) routes | K-1 | 4K Chowrangi - Chungi | unverified | 4 | 0% | 0% | 50% | 0% | 25% | 1 | low |
+| Chinchi (Qingqi) routes | Salman Chohaan | Teen Hatti - Tariq Road | unverified | 5 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Chinchi (Qingqi) routes | UP Mor - Khawaja Ajmer Nagri | UP Mor - Khawaja Ajmer Nagri | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Chinchi (Qingqi) routes | Nagan Chowrangi - Iqra University North Campus | Nagan Chowrangi - Iqra University North Campus | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Chinchi (Qingqi) routes | Bakra Mandi - Lee Market | Bakra Mandi - Lee Market | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | Five Minute Chowrangi - North Karachi No. 6 | Five Minute Chowrangi - North Karachi No. 6 | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Chinchi (Qingqi) routes | Nagan Chowrangi - Godhra Mor | Nagan Chowrangi - Godhra Mor | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Chinchi (Qingqi) routes | Lines Area - Saddar | Lines Area - Saddar | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Chinchi (Qingqi) routes | Liaquatabad No. 10 - Khuda Ki Basti | Liaquatabad No. 10 - Khuda Ki Basti | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
 | Karachi Circular Railway | KCR-LOOP | Karachi City - Drigh Road - Liaquatabad - Orangi - SITE - Karachi City (loop) | planned | 19 | 68% | 0% | 16% | 5% | 11% | 0 | low |
 | Karachi Circular Railway | KCR-1UP | KCR-1 | operational | 0 | - | - | - | - | - | 0 | low |
 | Karachi Circular Railway | KCR-2DN | KCR-2 | operational | 0 | - | - | - | - | - | 0 | low |
@@ -403,7 +710,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Private minibuses and coaches | D-11 | Qayoomabad - Itihad Town | unverified | 34 | 0% | 0% | 68% | 0% | 21% | 4 | medium |
 | Private minibuses and coaches | F-11 | Bhens Colony - Chungi Stop | unverified | 39 | 0% | 0% | 69% | 3% | 18% | 4 | medium |
 | Private minibuses and coaches | G-3 | Sachal Goth - Muhajir Camp 8½ | unverified | 30 | 0% | 0% | 80% | 7% | 13% | 0 | medium |
-| Private minibuses and coaches | G-7 | Gulshan Ghazi - Madras Chowk | unverified | 25 | 0% | 0% | 84% | 4% | 12% | 0 | medium |
+| Private minibuses and coaches | G-7 | Gulshan Ghazi - Madras Chowk | unverified | 25 | 0% | 0% | 88% | 4% | 8% | 0 | medium |
 | Private minibuses and coaches | G-11 | Yousaf Goth - Kiran Hospital | unverified | 30 | 0% | 0% | 57% | 0% | 43% | 0 | medium |
 | Private minibuses and coaches | G-17 | Mwach Goth - Gul City | unverified | 21 | 0% | 0% | 62% | 5% | 14% | 4 | medium |
 | Private minibuses and coaches | G-19 | Chungi Stop - Madras Chowk | unverified | 26 | 0% | 0% | 62% | 4% | 27% | 2 | medium |
@@ -432,7 +739,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Private minibuses and coaches | MashAllah | Hijrat Colony - Khairabad | unverified | 18 | 0% | 0% | 72% | 0% | 28% | 0 | medium |
 | Private minibuses and coaches | Abdullah | Itihad Town - Qazafi Town | unverified | 33 | 0% | 0% | 58% | 3% | 30% | 3 | medium |
 | Private minibuses and coaches | AL-Qadri | Khokhrapar - Hawksbay | unverified | 17 | 0% | 0% | 53% | 6% | 41% | 0 | low |
-| Private minibuses and coaches | Rind | Lee Market - Hub Chowki | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Private minibuses and coaches | Rind | Lee Market - Hub Chowki | unverified | 11 | 0% | 0% | 64% | 0% | 36% | 0 | medium |
 | Private minibuses and coaches | 9-C | Malir Cantt - Ziauddin Hospital | unverified | 24 | 0% | 0% | 75% | 0% | 25% | 0 | medium |
 | Private minibuses and coaches | 4-L | Maymar Complex - Bolton Market | unverified | 15 | 0% | 7% | 73% | 13% | 7% | 0 | low |
 | Private minibuses and coaches | 4-Q | Gulzaar-e-Hijri - Bolton Market | unverified | 12 | 0% | 0% | 67% | 17% | 8% | 1 | low |
@@ -441,7 +748,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Private minibuses and coaches | 20 | Baldia Town Sector 9-E - Shereen Jinnah Colony | unverified | 25 | 0% | 0% | 16% | 0% | 72% | 3 | medium |
 | Private minibuses and coaches | 51 | Thatta City - Lee Market | unverified | 32 | 0% | 0% | 66% | 3% | 31% | 0 | medium |
 | Private minibuses and coaches | 55 | Memon Goth - Lee Market | unverified | 17 | 0% | 0% | 76% | 6% | 18% | 0 | medium |
-| Private minibuses and coaches | Marwat | Hawksbay Beach - Shireen Jinnah Colony | unverified | 48 | 0% | 0% | 85% | 2% | 10% | 1 | medium |
+| Private minibuses and coaches | Marwat | Hawksbay Beach - Shireen Jinnah Colony | unverified | 48 | 0% | 0% | 88% | 2% | 8% | 1 | medium |
 | Private minibuses and coaches | Bilal | Itihad Town - BMDF Colony | unverified | 27 | 0% | 0% | 63% | 4% | 26% | 2 | medium |
 | Private minibuses and coaches | Gulistan | Bhitayabad - Sultan Masjid | unverified | 21 | 0% | 0% | 86% | 5% | 5% | 1 | low |
 | Private minibuses and coaches | Ilyas | Landhi 1 - Itihad Town | unverified | 21 | 0% | 0% | 71% | 0% | 24% | 1 | medium |
@@ -459,8 +766,21 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Private minibuses and coaches | 52 | Malir Halt - Liaquat national Hospital | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | medium |
 | Private minibuses and coaches | Al Azad | Karachi Marriott Hotel - Safoora Chowrangi | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | medium |
 | Private minibuses and coaches | Al Khair | Musharraf Colony - Keamari - Lee Market | unverified | 8 | 0% | 0% | 50% | 0% | 50% | 0 | medium |
-| Private minibuses and coaches | N | Karimabad - Meena Bazaar - Shireen Jinnah Colony | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Private minibuses and coaches | N | Karimabad - Meena Bazaar - Shireen Jinnah Colony | unverified | 5 | 0% | 0% | 40% | 0% | 60% | 0 | medium |
 | Private minibuses and coaches | Super Muslim Coach | Port Qasim Mor - Shireen Jinnah Colony | unverified | 17 | 0% | 0% | 65% | 0% | 35% | 0 | medium |
+| Private minibuses and coaches | 51-A | Lee Market - Ghaghar Phatak - Bin Qasim Town | unverified | 36 | 0% | 0% | 72% | 3% | 19% | 2 | medium |
+| Private minibuses and coaches | D-3 | Nagan Chowrangi - Indus Hospital - Korangi | unverified | 30 | 0% | 0% | 77% | 3% | 20% | 0 | medium |
+| Private minibuses and coaches | G-13 | Banaras Bus Stop - Karimabad - Meena Bazaar | unverified | 7 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Private minibuses and coaches | Imran | Hawksbay Beach - Qayyumabad | unverified | 29 | 0% | 0% | 76% | 3% | 17% | 1 | medium |
+| Private minibuses and coaches | P-3 | Shireen Jinnah Colony - Abdullah Mor - Surjani | unverified | 24 | 0% | 0% | 75% | 0% | 25% | 0 | medium |
+| Private minibuses and coaches | S-2 | Korangi Coast Guard - Godhra | unverified | 21 | 0% | 0% | 86% | 10% | 5% | 0 | medium |
+| Private minibuses and coaches | 4-H | 4K Chowrangi - Cantt station | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Private minibuses and coaches | Daata | KDA Flats- Surjani - Badar Commercial 26 Street | unverified | 23 | 0% | 0% | 87% | 4% | 9% | 0 | medium |
+| Private minibuses and coaches | D-10 | Korangi 100 Quarter - Taiser Town | unverified | 33 | 0% | 0% | 67% | 6% | 24% | 1 | low |
+| Private minibuses and coaches | F-16 | Qasba Colony - Machine Tool Factory | unverified | 31 | 0% | 26% | 61% | 0% | 13% | 0 | low |
+| Private minibuses and coaches | G-25 | Gulistan-e-johar No. 10 - Rasheedabad | unverified | 18 | 0% | 22% | 61% | 0% | 17% | 0 | low |
+| Private minibuses and coaches | Safari Coach | Maroora Goth - Mianwali | unverified | 28 | 0% | 4% | 82% | 0% | 11% | 1 | low |
+| Private minibuses and coaches | D-6 | Khokhrapar - Masjid-e-Quba | unverified | 20 | 0% | 0% | 70% | 10% | 20% | 0 | low |
 | Peoples Bus Service | R1 | Khokhrapar - Dockyard | operational | 25 | 52% | 4% | 40% | 0% | 4% | 0 | high |
 | Peoples Bus Service | R2 | Power House Chowrangi - Korangi Crossing | operational | 19 | 68% | 21% | 11% | 0% | 0% | 0 | medium |
 | Peoples Bus Service | R3 | Power House Chowrangi - Nasir Jump | operational | 21 | 57% | 10% | 29% | 0% | 5% | 0 | medium |
@@ -706,6 +1026,92 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Islamabad Electric Feeder Buses (CDA) | ST-02 | PIMS - Capt. Naeem Tufail Shaheed Chowk via Shakarparian (weekend special) | operational | 19 | 5% | 89% | 0% | 0% | 0% | 1 | high |
 | Islamabad Electric Feeder Buses (CDA) | FR-02 | Sohan - AOU | unverified | 2 | 0% | 50% | 0% | 0% | 0% | 1 | low |
 | Islamabad Electric Feeder Buses (CDA) | FR-03B | PIMS Hospital - NL | unverified | 2 | 0% | 50% | 0% | 0% | 0% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 1-C | Chungi No. 22 - Karachi Company | unverified | 23 | 43% | 0% | 30% | 0% | 26% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 1-B | Saddar - Pak Secretariat | unverified | 37 | 30% | 0% | 27% | 0% | 43% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 1-B-A | Mandi More - Secretariat | unverified | 10 | 70% | 0% | 20% | 0% | 10% | 0 | medium |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 2 | Dhamial - Bari Imam | unverified | 28 | 61% | 0% | 7% | 0% | 25% | 2 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 3 | Raja Bazaar - Bari Imam | unverified | 10 | 80% | 0% | 10% | 0% | 10% | 0 | medium |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 3-A | Liaquat Road - Foreign Office | unverified | 6 | 50% | 0% | 17% | 0% | 0% | 2 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 4 | Gorakhpur (Adiala) - Faisal Masjid | unverified | 28 | 61% | 0% | 7% | 0% | 29% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 5 | Liaquat Road - Morgah More | unverified | 6 | 67% | 0% | 17% | 0% | 0% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 6 | Saddar - Wah (Taxila) | unverified | 22 | 55% | 0% | 9% | 0% | 32% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 7 | Saddar - Rawat | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 7-C | Saddar - Rawat | unverified | 14 | 29% | 0% | 43% | 0% | 29% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 9 | Raja Bazaar - Bhara Kahu | unverified | 26 | 50% | 0% | 12% | 0% | 38% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 12 | Airport - Melody | unverified | 8 | 50% | 0% | 13% | 0% | 25% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 14 | Raja Bazaar - Humak | unverified | 7 | 29% | 0% | 29% | 0% | 43% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 21 | Rawalpindi Kachehri - Secretariat | unverified | 10 | 70% | 0% | 0% | 0% | 30% | 0 | medium |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 21-A | Rawat - Super Market | unverified | 16 | 38% | 0% | 19% | 0% | 44% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 21-B | Pak Secretariat - District Courts | unverified | 11 | 45% | 0% | 27% | 0% | 27% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 23 | Ghareeb Abad - Secretariat | unverified | 11 | 55% | 0% | 18% | 0% | 18% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 24 | Adiala - Secretariat | unverified | 10 | 70% | 0% | 20% | 0% | 10% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 29 | Liaquat Road - Rawat | unverified | 15 | 20% | 0% | 40% | 0% | 27% | 2 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 32 | Pirwadhai Adda - CDA Chowk | unverified | 15 | 13% | 0% | 40% | 0% | 47% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 101 | Pirwadhai Adda - Faisal Masjid | unverified | 10 | 40% | 0% | 30% | 0% | 30% | 0 | medium |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 102 | Pirwadhai - Pak Secretariat | unverified | 13 | 62% | 0% | 15% | 0% | 23% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 103 | Double Road I-8 (Faizabad) - E-9 | unverified | 8 | 25% | 0% | 63% | 0% | 13% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 104 | Tarnol - Secretariat | unverified | 10 | 80% | 0% | 10% | 0% | 10% | 0 | medium |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 104-A | Tarnol - Pak Secretariat | unverified | 11 | 55% | 0% | 36% | 0% | 9% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 105 | G-11 Markaz - Aabpara | unverified | 8 | 63% | 0% | 38% | 0% | 0% | 0 | medium |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 105-A | G-15 - Pak Secretariat | unverified | 13 | 54% | 0% | 31% | 0% | 15% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 106 | Margalla Town - E-11 | unverified | 8 | 63% | 0% | 0% | 0% | 13% | 2 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 107 | Pirwadhai - Bari Imam | unverified | 13 | 46% | 0% | 31% | 0% | 23% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 108 | Golra - Pak Secretariat | unverified | 11 | 36% | 0% | 45% | 0% | 18% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 109 | Pak Secretariat - G-10/1 | unverified | 8 | 88% | 0% | 13% | 0% | 0% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 110 | Mandi More - Bhara Kahu | unverified | 9 | 67% | 0% | 0% | 0% | 33% | 0 | medium |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 111 | Rawat - F-8 Markaz | unverified | 10 | 40% | 0% | 30% | 0% | 30% | 0 | medium |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 112 | Korang Town - Pak Secretariat | unverified | 10 | 70% | 0% | 10% | 0% | 20% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 113 | Pirwadhai - Pak Secretariat | unverified | 10 | 40% | 0% | 40% | 0% | 20% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 113-A | Pirwadhai - Pak Secretariat | unverified | 9 | 89% | 0% | 11% | 0% | 0% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 114 | F-10 - Faizabad | unverified | 6 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 115 | Pirwadhai - G-11/1 | unverified | 9 | 67% | 0% | 33% | 0% | 0% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 116 | G-10/1 - Haji Camp (Hajj Complex) | unverified | 12 | 58% | 0% | 17% | 0% | 8% | 2 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 117 | Pirwadhai - Saidpur | unverified | 9 | 56% | 0% | 33% | 0% | 11% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 118 | PIMS - Shaheen Colony | unverified | 4 | 25% | 0% | 50% | 0% | 0% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 119 | I-10 - Pak Secretariat | unverified | 11 | 45% | 0% | 36% | 0% | 18% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 120 | Golra Sharif - Bari Imam | unverified | 10 | 50% | 0% | 30% | 0% | 20% | 0 | medium |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 121 | Haji Camp (Hajj Complex) - Faisal Masjid | unverified | 9 | 56% | 0% | 22% | 0% | 0% | 2 | medium |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 122 | Chirah - Pak Secretariat | unverified | 10 | 40% | 0% | 30% | 0% | 30% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 122-A | Khanna - Pak Secretariat | unverified | 9 | 44% | 0% | 44% | 0% | 11% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 123 | Aabpara - Quaid-i-Azam University | unverified | 4 | 50% | 0% | 25% | 0% | 25% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 124 | Sihala - F-8 Markaz | unverified | 9 | 56% | 0% | 22% | 0% | 0% | 2 | medium |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 125 | Aabpara - Quaid-i-Azam University | unverified | 3 | 67% | 0% | 0% | 0% | 0% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 126 | Aabpara - Chak Shahzad | unverified | 3 | 67% | 0% | 33% | 0% | 0% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 127 | Chattar - F-8 Markaz | unverified | 7 | 71% | 0% | 14% | 0% | 0% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 127-A | Bhera Pul - G-11 | unverified | 14 | 36% | 0% | 36% | 0% | 21% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 128 | Pir Sohawa - Pak Secretariat | unverified | 5 | 40% | 0% | 20% | 0% | 40% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 129 | Bhara Kahu - Bobari | unverified | 6 | 17% | 0% | 33% | 0% | 33% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 130 | Bhara Kahu - Shahdara | unverified | 4 | 50% | 0% | 25% | 0% | 25% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 131 | Faizabad - Kurri Sher | unverified | 4 | 50% | 0% | 25% | 0% | 0% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 132 | I-10 - Pak Secretariat | unverified | 10 | 60% | 0% | 20% | 0% | 20% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 133 | Pirwadhai - Chonpra | unverified | 9 | 22% | 0% | 11% | 0% | 33% | 3 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 134 | Charah - Aabpara | unverified | 4 | 50% | 0% | 0% | 0% | 0% | 2 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 135 | Margalla Town - Faizabad | unverified | 2 | 50% | 0% | 0% | 0% | 0% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 136 | PWD Colony - Pak Secretariat | unverified | 9 | 44% | 0% | 33% | 0% | 11% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 137 | Pirwadhai More - Pak Secretariat | unverified | 8 | 88% | 0% | 13% | 0% | 0% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 138 | Ali Pur - G-15 Markaz | unverified | 13 | 38% | 0% | 23% | 0% | 31% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 139 | Capt. Naeem Tufail Shaheed Chowk - Golra | unverified | 14 | 29% | 0% | 50% | 0% | 14% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 140 | Bari Imam - G-15 (near Motorway Chowk) | unverified | 14 | 29% | 0% | 29% | 0% | 43% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 121-A | Mandi More - Faisal Masjid | unverified | 7 | 71% | 0% | 29% | 0% | 0% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | SZ-TENCH-SADDAR | Tench Bhatta - Saddar | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | SZ-TENCH-RAJA | Tench Bhatta - Raja Bazaar | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | SZ-TENCH-DHOKE-SYEDAN | Tench Bhatta - Dhoke Syedan | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | SZ-TENCH-GIRJA | Tench Bhatta - Girja Road | unverified | 2 | 50% | 0% | 0% | 0% | 0% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | SZ-TENCH-BARAFKHANA | Tench Bhatta - Baraf Khana Chowk | unverified | 2 | 50% | 0% | 0% | 0% | 0% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | SZ-TENCH-22 | Tench Bhatta - Chungi No. 22 (via Tench Bazar) | unverified | 3 | 67% | 0% | 0% | 0% | 33% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | SZ-BARAFKHANA-GIRJA | Baraf Khana Chowk - Girja | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | SZ-22-DHAMIAL | Chungi No. 22 - Dhamial | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | SZ-FAWARA-BHARAKAHU | Fawara Chowk - Bhara Kahu | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | SZ-FAWARA-RAWAT | Fawara Chowk - Rawat | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | SZ-FAWARA-ADIALAROAD | Fawara Chowk - Adiala Road | unverified | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | SZ-FAWARA-PIRWADHAI | Fawara Chowk - Pirwadhai | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | SZ-FAWARA-SIHALA | Fawara Chowk - Sihala | unverified | 2 | 50% | 0% | 0% | 0% | 0% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | SZ-FAWARA-GOLRASHARIF | Fawara Chowk - Golra Sharif | unverified | 2 | 50% | 0% | 0% | 0% | 0% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | SZ-FAWARA-CHAKLALAAIRPORT | Fawara Chowk - Chaklala Airport | unverified | 2 | 50% | 0% | 0% | 0% | 0% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | W-SADDAR-ADIALA | Saddar - Adiala Jail | unverified | 2 | 50% | 0% | 0% | 0% | 0% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | W-SADDAR-KUTCHERY | Saddar - Kutchery | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | W-RAJA-MORGAH | Raja Bazaar - Morgah | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | W-SADDAR-PIRWADHAI | Saddar - Pirwadhai | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
 | Rawalpindi Electric Bus (Punjab Green Electric Bus) | RWP-EB-01 | Saddar - Qabristan Chowk (via Qasim Market) | operational | 12 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
 | Rawalpindi Electric Bus (Punjab Green Electric Bus) | RWP-EB-01X | Saddar - Bhatta Chowk (via Qasim Market, Misriyal) | unverified | 16 | 0% | 100% | 0% | 0% | 0% | 0 | low |
 | Rawalpindi Electric Bus (Punjab Green Electric Bus) | RWP-EB-02 | Fawara Chowk - Koral Chowk (via Liaquat Bagh, Old Airport Road) | operational | 19 | 16% | 84% | 0% | 0% | 0% | 0 | medium |
@@ -717,6 +1123,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 
 | System | Route | Name | Status | Stops | Exact | Guide | Matched | Geocoded | Estimated | Missing | Stop list confidence |
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
+| Peshawar private wagons and minibuses | FORD-HAJICAMP-KARKHANO | Haji Camp - Karkhano Market | historical | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Zu Peshawar (TransPeshawar BRT) | ER01 | Chamkani - Karkhano Market | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Zu Peshawar (TransPeshawar BRT) | SR02 | Chamkani - Karkhano Market (all stops) | operational | 30 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Zu Peshawar (TransPeshawar BRT) | DR03A | Dabgari Gardens - Kohat Adda | operational | 10 | 20% | 0% | 40% | 0% | 40% | 0 | high |
@@ -1172,98 +1579,62 @@ These routes have the most stops without a verified position. Adding real coordi
 | Karachi | Minibus and coach routes (2010 list) | 52-A | 16 | 0 | 9 |
 | Karachi | Minibus and coach routes (2010 list) | D-14 | 17 | 2 | 7 |
 | Karachi | Minibus and coach routes (2010 list) | W-35 | 17 | 2 | 7 |
-| Karachi | Chinchi (Qingqi) routes | J-1 | 16 | 1 | 7 |
+| Karachi | Minibus and coach routes (2010 list) | 17-J | 15 | 2 | 6 |
 
 ## Build warnings
 
-- karachi-chinchi/007: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/007: fewer than 2 located stops, listed without a map line
-- karachi-chinchi/2-J: 2 stop(s) without coordinates are left out of the map
-- karachi-chinchi/2-J: fewer than 2 located stops, listed without a map line
+- intercity-natco/NT-RWP-SIK: 1 stop(s) without coordinates are left out of the map
+- intercity-natco/NT-RWP-SIK: fewer than 2 located stops, listed without a map line
+- intercity-niazi-express/NZ-LHR-MAROT: 1 stop(s) without coordinates are left out of the map
+- intercity-niazi-express/NZ-LHR-MAROT: fewer than 2 located stops, listed without a map line
+- intercity-silk-line/SL-LHR-JHANGRA: 1 stop(s) without coordinates are left out of the map
+- intercity-silk-line/SL-LHR-JHANGRA: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/2-J: 1 stop(s) without coordinates are left out of the map
 - karachi-chinchi/4-X: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/4-X: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/555: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/555: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/786: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/786: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/7-D: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/7-D: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/A: 1 stop(s) without coordinates are left out of the map
 - karachi-chinchi/A-18: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/A-18: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/AA1: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/AS-1: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/AS-1: fewer than 2 located stops, listed without a map line
-- karachi-chinchi/B-1: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/B-3: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/B-3: fewer than 2 located stops, listed without a map line
-- karachi-chinchi/D-22: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/D-22: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/AS-1: 4 stop(s) without coordinates are left out of the map
+- karachi-chinchi/D-22: 3 stop(s) without coordinates are left out of the map
 - karachi-chinchi/D-3: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/Double Jhanda: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/Double Jhanda: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/F-12: 2 stop(s) without coordinates are left out of the map
-- karachi-chinchi/FM: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/FM: fewer than 2 located stops, listed without a map line
-- karachi-chinchi/FS-1: 2 stop(s) without coordinates are left out of the map
-- karachi-chinchi/FS-1: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/FS-1: 3 stop(s) without coordinates are left out of the map
 - karachi-chinchi/G-2: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/G-2: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/GM: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/GM: fewer than 2 located stops, listed without a map line
-- karachi-chinchi/J-1: 1 stop(s) without coordinates are left out of the map
 - karachi-chinchi/JF17: 1 stop(s) without coordinates are left out of the map
 - karachi-chinchi/K-18: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/K-18: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/K-5: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/K-5: fewer than 2 located stops, listed without a map line
-- karachi-chinchi/K-86: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/K-86: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/K-86: 3 stop(s) without coordinates are left out of the map
 - karachi-chinchi/Karachi King: 1 stop(s) without coordinates are left out of the map
 - karachi-chinchi/M-10: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/M-10: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/M-22: 1 stop(s) without coordinates are left out of the map
 - karachi-chinchi/M-5: fewer than 2 located stops, listed without a map line
-- karachi-chinchi/M-55: 2 stop(s) without coordinates are left out of the map
-- karachi-chinchi/M-55: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/M-55: 1 stop(s) without coordinates are left out of the map
 - karachi-chinchi/M-7: 5 stop(s) without coordinates are left out of the map
-- karachi-chinchi/M-9: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/M-9: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/MK 081: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/N-1: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/N-1: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/N-55: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/N-55: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/N-91: 1 stop(s) without coordinates are left out of the map
 - karachi-chinchi/Naseeb: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/Naseeb: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/ND-1: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/ND-1: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/P-1: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/Razaq: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/R-S: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/R-S: fewer than 2 located stops, listed without a map line
-- karachi-chinchi/S-7: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/S-7: fewer than 2 located stops, listed without a map line
-- karachi-chinchi/S-K: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/S-K: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/Sultan: 2 stop(s) without coordinates are left out of the map
 - karachi-chinchi/T-10: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/T-10: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/T-11: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/T-11: fewer than 2 located stops, listed without a map line
-- karachi-chinchi/T-99: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/T-99: fewer than 2 located stops, listed without a map line
-- karachi-chinchi/U-5: 2 stop(s) without coordinates are left out of the map
-- karachi-chinchi/U-5: fewer than 2 located stops, listed without a map line
-- karachi-chinchi/V-1: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/V-1: fewer than 2 located stops, listed without a map line
-- karachi-chinchi/W-11: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/W-11: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/W-86: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/W-86: fewer than 2 located stops, listed without a map line
-- karachi-chinchi/X-2: 2 stop(s) without coordinates are left out of the map
-- karachi-chinchi/X-2: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/X-2: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/A-11: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/K-1: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/Bakra Mandi - Lee Market: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/Bakra Mandi - Lee Market: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/Five Minute Chowrangi - North Karachi No. 6: 2 stop(s) without coordinates are left out of the map
+- karachi-chinchi/Five Minute Chowrangi - North Karachi No. 6: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/Liaquatabad No. 10 - Khuda Ki Basti: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/Liaquatabad No. 10 - Khuda Ki Basti: fewer than 2 located stops, listed without a map line
 - karachi-circular-railway/KCR-1UP: fewer than 2 located stops, listed without a map line
 - karachi-circular-railway/KCR-2DN: fewer than 2 located stops, listed without a map line
 - karachi-circular-railway/KCR-3DNDN: fewer than 2 located stops, listed without a map line
@@ -1458,8 +1829,6 @@ These routes have the most stops without a verified position. Adding real coordi
 - karachi-minibus/7 Star: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus/Sheraz: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus/Abdullah: 3 stop(s) without coordinates are left out of the map
-- karachi-minibus/Rind: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus/Rind: fewer than 2 located stops, listed without a map line
 - karachi-minibus/4-Q: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus/20: 3 stop(s) without coordinates are left out of the map
 - karachi-minibus/Marwat: 1 stop(s) without coordinates are left out of the map
@@ -1470,8 +1839,12 @@ These routes have the most stops without a verified position. Adding real coordi
 - karachi-minibus/52: fewer than 2 located stops, listed without a map line
 - karachi-minibus/Al Azad: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus/Al Azad: fewer than 2 located stops, listed without a map line
-- karachi-minibus/N: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus/N: fewer than 2 located stops, listed without a map line
+- karachi-minibus/51-A: 2 stop(s) without coordinates are left out of the map
+- karachi-minibus/Imran: 1 stop(s) without coordinates are left out of the map
+- karachi-minibus/4-H: 1 stop(s) without coordinates are left out of the map
+- karachi-minibus/4-H: fewer than 2 located stops, listed without a map line
+- karachi-minibus/D-10: 1 stop(s) without coordinates are left out of the map
+- karachi-minibus/Safari Coach: 1 stop(s) without coordinates are left out of the map
 - karachi-yellow-line-services/YL-D2: 1 stop(s) without coordinates are left out of the map
 - karachi-yellow-line-services/YL-D2: fewer than 2 located stops, listed without a map line
 - karachi-yellow-line-services/YL-D4: 1 stop(s) without coordinates are left out of the map
@@ -1568,6 +1941,45 @@ These routes have the most stops without a verified position. Adding real coordi
 - islamabad-electric-feeder/FR-02: fewer than 2 located stops, listed without a map line
 - islamabad-electric-feeder/FR-03B: 1 stop(s) without coordinates are left out of the map
 - islamabad-electric-feeder/FR-03B: fewer than 2 located stops, listed without a map line
+- islamabad-rawalpindi-private-wagons/2: 2 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/3-A: 2 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/4: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/5: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/6: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/12: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/23: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/29: 2 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/106: 2 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/116: 2 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/118: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/121: 2 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/124: 2 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/125: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/127: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/127-A: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/129: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/131: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/133: 3 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/134: 2 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/135: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/135: fewer than 2 located stops, listed without a map line
+- islamabad-rawalpindi-private-wagons/136: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/138: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/139: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/SZ-TENCH-GIRJA: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/SZ-TENCH-GIRJA: fewer than 2 located stops, listed without a map line
+- islamabad-rawalpindi-private-wagons/SZ-TENCH-BARAFKHANA: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/SZ-TENCH-BARAFKHANA: fewer than 2 located stops, listed without a map line
+- islamabad-rawalpindi-private-wagons/SZ-BARAFKHANA-GIRJA: 2 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/SZ-BARAFKHANA-GIRJA: fewer than 2 located stops, listed without a map line
+- islamabad-rawalpindi-private-wagons/SZ-FAWARA-SIHALA: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/SZ-FAWARA-SIHALA: fewer than 2 located stops, listed without a map line
+- islamabad-rawalpindi-private-wagons/SZ-FAWARA-GOLRASHARIF: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/SZ-FAWARA-GOLRASHARIF: fewer than 2 located stops, listed without a map line
+- islamabad-rawalpindi-private-wagons/SZ-FAWARA-CHAKLALAAIRPORT: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/SZ-FAWARA-CHAKLALAAIRPORT: fewer than 2 located stops, listed without a map line
+- islamabad-rawalpindi-private-wagons/W-SADDAR-ADIALA: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/W-SADDAR-ADIALA: fewer than 2 located stops, listed without a map line
 - peshawar-zu-brt/DR03B: 2 stop(s) without coordinates are left out of the map
 - peshawar-zu-brt/ER12: 1 stop(s) without coordinates are left out of the map
 - peshawar-zu-brt/DR13: 3 stop(s) without coordinates are left out of the map

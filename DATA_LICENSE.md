@@ -32,7 +32,10 @@ Some routes and stop positions come from unofficial compilations. They are credi
 - **RastaYaar** (github.com/itsdeewankumar-tech/rastayaar): current Karachi minibus and coach stop lists (system `karachi-minibus`).
 - **Urban Resource Centre, Karachi**: the January 2010 list of minibus and coach routes (system `karachi-minibus-2010`, shown as old routes only).
 - **Punjab Transport Company**: Lahore wagon fare tables (system `lahore-ptc-lov`).
-- **mnzil.app (Cheeltech)**, via the scraped copy in github.com/naumanaarif/musafir: Karachi Chinchi/Qingqi routes (system `karachi-chinchi`) and five minibus routes.
+- **mnzil.app (Cheeltech)**: Karachi Chinchi/Qingqi routes (system `karachi-chinchi`) and minibus routes. Some come from the scraped copy in github.com/naumanaarif/musafir, and the rest come from the stop lists on mnzil.app's route pages.
+- **pakinformation.com**: station order and times for Pakistan Railways trains (system `pakistan-railways`). Station positions for the trains come from Wikidata (CC0) and OpenStreetMap.
+- **Intercity bus operators and booking sites**: route lists, terminals and fares from the operators' own websites (Daewoo, Faisal Movers, Skyways, Niazi, Road Master, Q Connect, NATCO, Silk Line), from bookme.pk and sastaticket.pk, and from pkbuses.com and buses.pk (systems `intercity-*`). Fares from third-party sites are marked as unverified in each route's notes.
+- **Rawalpindi/Islamabad wagon routes**: a 2007 rawalpindi-city blog, wagon tables uploaded to Scribd (including a copy of the 2009 ITA route list), and adventureplanners.net (system `islamabad-rawalpindi-private-wagons`). Most of this data is 10 to 20 years old.
 - **SpeedoRoutes** (github.com/Fahad741/SpeedoRoutes): eleven extra Lahore Speedo routes, low confidence because their numbering differs from PMA's.
 - **Rahnuma** (github.com/mabdullahamjad/Rahnuma): alternative R-series names for four Rawalpindi electric bus routes.
 

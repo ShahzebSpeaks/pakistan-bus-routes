@@ -1,7 +1,9 @@
 // Add routes from a research file (research/SCHEMA.md format) to systems that already exist.
 // Routes whose number is already present (ignoring spaces, dashes and case) are skipped, so the
 // script can be re-run safely. Systems that do not exist yet are created as they are.
-//   node scripts/append-routes.mjs research/incoming/<file>.json [--dry]
+//   node scripts/append-routes.mjs research/incoming/<file>.json [--dry] [--replace-weak]
+// --replace-weak: an existing route that lists only its two terminals is replaced by an incoming
+// route with the same number and a fuller stop list. Known stop positions are kept.
 import fs from 'node:fs';
 import path from 'node:path';
 import { ROOT, SYSTEMS_DIR, readJSON, writeJSON } from './lib.mjs';
@@ -9,6 +11,8 @@ import { ROOT, SYSTEMS_DIR, readJSON, writeJSON } from './lib.mjs';
 const args = process.argv.slice(2);
 const input = args.find((a) => !a.startsWith('--'));
 const dry = args.includes('--dry');
+const replaceWeak = args.includes('--replace-weak');
+const stopKey = (n) => String(n).toLowerCase().replace(/[^a-z0-9]/g, '');
 if (!input) {
   console.error('usage: node scripts/append-routes.mjs <research-file.json> [--dry]');
   process.exit(1);
@@ -31,7 +35,7 @@ for (const incoming of doc.systems || []) {
     ...r,
     stops: (r.stops || []).map(cleanStop).filter((s) => s.name),
     sources: (r.sources || []).filter((s) => s && s.url),
-  }));
+  })).filter((r) => r.stops.length >= 2);
   if (!fs.existsSync(file)) {
     const created = { ...incoming, last_verified: doc.researched_on || null, routes };
     if (!dry) writeJSON(file, created);
@@ -41,12 +45,23 @@ for (const incoming of doc.systems || []) {
   const system = readJSON(file);
   const have = new Set(system.routes.map((r) => norm(r.id)));
   let added = 0;
+  let replaced = 0;
   for (const r of routes) {
-    if (have.has(norm(r.id))) continue;
+    if (have.has(norm(r.id))) {
+      const i = system.routes.findIndex((x) => norm(x.id) === norm(r.id));
+      const old = system.routes[i];
+      if (replaceWeak && old && old.stops.length <= 2 && r.stops.length > 2) {
+        const known = new Map(old.stops.filter((st) => st.lat != null).map((st) => [stopKey(st.name), st]));
+        const stops = r.stops.map((st) => (st.lat == null && known.has(stopKey(st.name)) ? { ...st, ...known.get(stopKey(st.name)), name: st.name } : st));
+        system.routes[i] = { ...old, ...r, color: r.color || old.color, stops, sources: [...(old.sources || []), ...r.sources.filter((x) => !(old.sources || []).some((o) => o.url === x.url))] };
+        replaced++;
+      }
+      continue;
+    }
     have.add(norm(r.id));
     system.routes.push(r);
     added++;
   }
-  if (!dry && added) writeJSON(file, system);
-  console.log(`${added ? '+' : '-'} ${incoming.id}: ${added} route(s) added, ${routes.length - added} already present`);
+  if (!dry && (added || replaced)) writeJSON(file, system);
+  console.log(`${added || replaced ? '+' : '-'} ${incoming.id}: ${added} route(s) added, ${replaced} terminal-only route(s) filled in, ${routes.length - added - replaced} already present`);
 }

@@ -1,0 +1,460 @@
+{
+  "id": "intercity-waraich-express",
+  "city": "intercity",
+  "name": "Waraich Express",
+  "name_ur": "",
+  "operator": "Waraich Express (private)",
+  "mode": "intercity_bus",
+  "website": null,
+  "helpline": "0348-1115595",
+  "payment": "cash at terminal / online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "Classes: Economy (45 seats), Executive, Gold (40 seats), Sleeper (third-party).",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "pkbuses.com Waraich Express ticket price (30 Aug 2026)",
+      "url": "https://pkbuses.com/waraich-express-ticket-price",
+      "publisher": "pkbuses.com",
+      "date": "2026-08-30",
+      "official": false
+    },
+    {
+      "title": "buses.pk Waraich Express",
+      "url": "https://buses.pk/bus-service/waraich-express",
+      "publisher": "buses.pk",
+      "date": "2026",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "WR-LHR-KHI",
+      "name": "Lahore - Karachi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 5820,
+        "slabs": [],
+        "concessions": "Executive 5,820; Gold 7,600. Third-party.",
+        "as_of": "2026-08-30",
+        "source_url": "https://pkbuses.com/waraich-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Waraich Express, Badami Bagh Lari Adda, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Waraich Express, Karachi Cantonment, Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Waraich Express ticket price (30 Aug 2026)",
+          "url": "https://pkbuses.com/waraich-express-ticket-price"
+        },
+        {
+          "title": "buses.pk Waraich Express",
+          "url": "https://buses.pk/bus-service/waraich-express"
+        }
+      ],
+      "notes": "Journey about 16h (buses.pk). No official Waraich website; third-party data only."
+    },
+    {
+      "id": "WR-KHI-ISB",
+      "name": "Karachi - Islamabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 8300,
+        "slabs": [],
+        "concessions": "Executive 8,300; Gold 8,800; Sleeper 12,500. Third-party.",
+        "as_of": "2026-08-30",
+        "source_url": "https://pkbuses.com/waraich-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Waraich Express, Karachi Cantonment, Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Waraich Express ticket price (30 Aug 2026)",
+          "url": "https://pkbuses.com/waraich-express-ticket-price"
+        },
+        {
+          "title": "buses.pk Waraich Express",
+          "url": "https://buses.pk/bus-service/waraich-express"
+        }
+      ],
+      "notes": "No official Waraich website; third-party data only."
+    },
+    {
+      "id": "WR-LHR-SKR",
+      "name": "Lahore - Sukkur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 2250,
+        "slabs": [],
+        "concessions": "Executive 2,250; Gold 3,300. Third-party.",
+        "as_of": "2026-08-30",
+        "source_url": "https://pkbuses.com/waraich-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Waraich Express, Badami Bagh Lari Adda, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Sukkur",
+          "name_ur": "",
+          "lat": 27.696188,
+          "lon": 68.858875,
+          "coord_source": "auto:nominatim:node/89313928",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Waraich Express ticket price (30 Aug 2026)",
+          "url": "https://pkbuses.com/waraich-express-ticket-price"
+        },
+        {
+          "title": "buses.pk Waraich Express",
+          "url": "https://buses.pk/bus-service/waraich-express"
+        }
+      ],
+      "notes": "No official Waraich website; third-party data only."
+    },
+    {
+      "id": "WR-LHR-SDQ",
+      "name": "Lahore - Sadiqabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1750,
+        "slabs": [],
+        "concessions": "Executive 1,750; Gold 2,250 (same for Rahim Yar Khan). Third-party.",
+        "as_of": "2026-08-30",
+        "source_url": "https://pkbuses.com/waraich-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Waraich Express, Badami Bagh Lari Adda, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Waraich Express Head Office, near New Bus Stand, Sadiqabad",
+          "name_ur": "",
+          "lat": 28.3091,
+          "lon": 70.1307,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Waraich Express ticket price (30 Aug 2026)",
+          "url": "https://pkbuses.com/waraich-express-ticket-price"
+        },
+        {
+          "title": "buses.pk Waraich Express",
+          "url": "https://buses.pk/bus-service/waraich-express"
+        }
+      ],
+      "notes": "No official Waraich website; third-party data only."
+    },
+    {
+      "id": "WR-LHR-KNP",
+      "name": "Lahore - Khanpur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1650,
+        "slabs": [],
+        "concessions": "Executive 1,650; Gold 2,100. Third-party.",
+        "as_of": "2026-08-30",
+        "source_url": "https://pkbuses.com/waraich-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Waraich Express, Badami Bagh Lari Adda, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Khanpur",
+          "name_ur": "",
+          "lat": 28.64774,
+          "lon": 70.65601,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Waraich Express ticket price (30 Aug 2026)",
+          "url": "https://pkbuses.com/waraich-express-ticket-price"
+        },
+        {
+          "title": "buses.pk Waraich Express",
+          "url": "https://buses.pk/bus-service/waraich-express"
+        }
+      ],
+      "notes": "No official Waraich website; third-party data only."
+    },
+    {
+      "id": "WR-LHR-MUX",
+      "name": "Lahore - Multan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 930,
+        "slabs": [],
+        "concessions": "Gold 930 (as listed; looks low). Third-party.",
+        "as_of": "2026-08-30",
+        "source_url": "https://pkbuses.com/waraich-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Waraich Express, Badami Bagh Lari Adda, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Multan",
+          "name_ur": "",
+          "lat": 30.197838,
+          "lon": 71.471968,
+          "coord_source": "auto:nominatim:node/307617596",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Waraich Express ticket price (30 Aug 2026)",
+          "url": "https://pkbuses.com/waraich-express-ticket-price"
+        },
+        {
+          "title": "buses.pk Waraich Express",
+          "url": "https://buses.pk/bus-service/waraich-express"
+        }
+      ],
+      "notes": "Journey about 4h (buses.pk). No official Waraich website; third-party data only."
+    },
+    {
+      "id": "WR-KHI-SKT",
+      "name": "Karachi - Sialkot",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 6500,
+        "slabs": [],
+        "concessions": "Executive 6,500; Gold 7,500. Third-party.",
+        "as_of": "2026-08-30",
+        "source_url": "https://pkbuses.com/waraich-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Waraich Express, Karachi Cantonment, Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Sialkot",
+          "name_ur": "",
+          "lat": 32.447187,
+          "lon": 74.572027,
+          "coord_source": "auto:photon:R/16117658",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Waraich Express ticket price (30 Aug 2026)",
+          "url": "https://pkbuses.com/waraich-express-ticket-price"
+        },
+        {
+          "title": "buses.pk Waraich Express",
+          "url": "https://buses.pk/bus-service/waraich-express"
+        }
+      ],
+      "notes": "No official Waraich website; third-party data only."
+    },
+    {
+      "id": "WR-KHI-SWT",
+      "name": "Karachi - Mingora (Swat)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 7000,
+        "slabs": [],
+        "concessions": "Executive. Third-party.",
+        "as_of": "2026-08-30",
+        "source_url": "https://pkbuses.com/waraich-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Waraich Express, Karachi Cantonment, Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Mingora (Swat)",
+          "name_ur": "",
+          "lat": 34.77254,
+          "lon": 72.36077,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Waraich Express ticket price (30 Aug 2026)",
+          "url": "https://pkbuses.com/waraich-express-ticket-price"
+        },
+        {
+          "title": "buses.pk Waraich Express",
+          "url": "https://buses.pk/bus-service/waraich-express"
+        }
+      ],
+      "notes": "No official Waraich website; third-party data only."
+    }
+  ],
+  "last_verified": "2026-09-21"
+}

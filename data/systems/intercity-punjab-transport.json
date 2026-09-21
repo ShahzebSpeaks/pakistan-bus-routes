@@ -1,0 +1,1068 @@
+{
+  "id": "intercity-punjab-transport",
+  "city": "intercity",
+  "name": "Punjab intercity approved fares",
+  "name_ur": "",
+  "operator": "Transport & Mass Transit Department Punjab / RTAs (regulator)",
+  "mode": "intercity_bus",
+  "website": "https://transport.punjab.gov.pk",
+  "helpline": null,
+  "payment": "cash (private operators)",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "Latest published per-km notification (21 Jun 2018, SO(TR-I)2-G/2015(F)(P-III)): non-AC intercity Rs 0.93/km metalled plain roads, Rs 0.98/km kacha roads, Rs 1.04/km hilly roads. No AC per-km rate published.",
+    "as_of": "2018-06-21",
+    "source_url": "https://transport.punjab.gov.pk/system/files/Notification%20Fuel%20Prices%20Existing%20Fare%20Structure%20of%20Non-AC%20Public%20Transport%2021-06-2018,%20.pdf"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Notification: fare structure of non-AC public transport",
+      "url": "https://transport.punjab.gov.pk/system/files/Notification%20Fuel%20Prices%20Existing%20Fare%20Structure%20of%20Non-AC%20Public%20Transport%2021-06-2018,%20.pdf",
+      "publisher": "Transport Department, Govt of Punjab",
+      "date": "2018-06-21",
+      "official": true
+    },
+    {
+      "title": "Punjab reduces transport fares after fuel price drop",
+      "url": "https://propakistani.pk/2026/01/01/punjab-reduces-transport-fares-after-fuel-price-drop/",
+      "publisher": "ProPakistani (quoting Punjab Transport Dept)",
+      "date": "2026-01-01",
+      "official": false
+    },
+    {
+      "title": "Public transport fares reduced",
+      "url": "https://www.app.com.pk/domestic/public-transport-fares-reduced/",
+      "publisher": "APP",
+      "date": "2026-01-01",
+      "official": false
+    },
+    {
+      "title": "Punjab govt notifies revised public transport fares",
+      "url": "https://minutemirror.com.pk/punjab-govt-notifies-revised-public-transport-fares-after-fuel-price-hike-531249/",
+      "publisher": "Minute Mirror",
+      "date": "2026-04-03",
+      "official": false
+    },
+    {
+      "title": "RTA approves up to 37% increase in Rawalpindi fares",
+      "url": "https://propakistani.pk/2026/04/04/rta-approves-up-to-37-increase-in-public-transport-fares-in-rawalpindi/",
+      "publisher": "ProPakistani",
+      "date": "2026-04-04",
+      "official": false
+    },
+    {
+      "title": "Punjab moves to stop unauthorised increase in transport fares",
+      "url": "https://www.nation.com.pk/09-May-2026/punjab-moves-stop-unauthorised-increase-transport-fares",
+      "publisher": "The Nation",
+      "date": "2026-05-09",
+      "official": false
+    },
+    {
+      "title": "Public transport fares reduced (RTA Lahore 4%)",
+      "url": "https://www.nation.com.pk/31-May-2026/public-transport-fares-reduced",
+      "publisher": "The Nation",
+      "date": "2026-05-31",
+      "official": false
+    },
+    {
+      "title": "Punjab reduces public transport fares by 15 percent",
+      "url": "https://www.radio.gov.pk/20-06-2026/punjab-reduces-public-transport-fares-by-15-percent",
+      "publisher": "Radio Pakistan",
+      "date": "2026-06-20",
+      "official": false
+    },
+    {
+      "title": "RTA Rawalpindi fare cut",
+      "url": "https://www.dawn.com/news/2009549",
+      "publisher": "Dawn",
+      "date": "2026-06-21",
+      "official": false
+    },
+    {
+      "title": "Fuel price shock brings double whammy for commuters",
+      "url": "https://tribune.com.pk/story/2628239/fuel-price-shock-brings-double-whammy-for-commuters",
+      "publisher": "Express Tribune",
+      "date": "2026-09",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "PB-LHR-RWP",
+      "name": "Lahore - Rawalpindi/Islamabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 3080,
+        "slabs": [],
+        "concessions": "Headline fare = Business class (RTA Rawalpindi, Islamabad-Lahore). History: Jan 2026 (class not stated): Rs 1850 (2026-01-01); Apr 2026 notified Executive/Economy/First: Rs 3,100 / 4,600 / 4,750 (2026-04-03); RTA Rawalpindi Apr 2026: Rs 3100 (2026-04-04); Approved fare in force May 2026: Rs 3630 (2026-05-09); RTA Rawalpindi Jun 2026 Business / Executive: Rs 3,080 / 2,090 (2026-06-21). June 2026 cuts (AC -12%, non-AC -15%) and Sep 2026 Rawalpindi rise (+10%/+12%) not applied per route.",
+        "as_of": "2026-06-21",
+        "source_url": "https://www.dawn.com/news/2009549"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        },
+        {
+          "name": "Rawalpindi/Islamabad",
+          "name_ur": "",
+          "lat": 33.635564,
+          "lon": 73.033148,
+          "coord_source": "auto:photon:N/6621799086",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "propakistani.pk",
+          "url": "https://propakistani.pk/2026/01/01/punjab-reduces-transport-fares-after-fuel-price-drop/"
+        },
+        {
+          "title": "minutemirror.com.pk",
+          "url": "https://minutemirror.com.pk/punjab-govt-notifies-revised-public-transport-fares-after-fuel-price-hike-531249/"
+        },
+        {
+          "title": "propakistani.pk",
+          "url": "https://propakistani.pk/2026/04/04/rta-approves-up-to-37-increase-in-public-transport-fares-in-rawalpindi/"
+        },
+        {
+          "title": "www.nation.com.pk",
+          "url": "https://www.nation.com.pk/09-May-2026/punjab-moves-stop-unauthorised-increase-transport-fares"
+        },
+        {
+          "title": "www.dawn.com",
+          "url": "https://www.dawn.com/news/2009549"
+        }
+      ],
+      "notes": "Government-approved maximum fare as reported by news; the notification itself is not online. Terminals vary by operator."
+    },
+    {
+      "id": "PB-LHR-PEW",
+      "name": "Lahore - Peshawar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 4240,
+        "slabs": [],
+        "concessions": "Headline fare = approved fare in force. History: Jan 2026: Rs 2530 (2026-01-01); Apr 2026 notified Executive/Economy: Rs 3,950 / 5,400 (2026-04-03); Approved May 2026: Rs 4240 (2026-05-09). June 2026 cuts (AC -12%, non-AC -15%) and Sep 2026 Rawalpindi rise (+10%/+12%) not applied per route.",
+        "as_of": "2026-05-09",
+        "source_url": "https://www.nation.com.pk/09-May-2026/punjab-moves-stop-unauthorised-increase-transport-fares"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        },
+        {
+          "name": "Peshawar",
+          "name_ur": "",
+          "lat": 34,
+          "lon": 71.54,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "propakistani.pk",
+          "url": "https://propakistani.pk/2026/01/01/punjab-reduces-transport-fares-after-fuel-price-drop/"
+        },
+        {
+          "title": "minutemirror.com.pk",
+          "url": "https://minutemirror.com.pk/punjab-govt-notifies-revised-public-transport-fares-after-fuel-price-hike-531249/"
+        },
+        {
+          "title": "www.nation.com.pk",
+          "url": "https://www.nation.com.pk/09-May-2026/punjab-moves-stop-unauthorised-increase-transport-fares"
+        }
+      ],
+      "notes": "Government-approved maximum fare as reported by news; the notification itself is not online. Terminals vary by operator."
+    },
+    {
+      "id": "PB-LHR-MUX",
+      "name": "Lahore - Multan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 2890,
+        "slabs": [],
+        "concessions": "Headline fare = approved fare in force. History: Jan 2026: Rs 1650 (2026-01-01); Apr 2026 notified Executive/Economy: Rs 2,750 / 3,500 (2026-04-03); Approved May 2026: Rs 2890 (2026-05-09). June 2026 cuts (AC -12%, non-AC -15%) and Sep 2026 Rawalpindi rise (+10%/+12%) not applied per route.",
+        "as_of": "2026-05-09",
+        "source_url": "https://www.nation.com.pk/09-May-2026/punjab-moves-stop-unauthorised-increase-transport-fares"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        },
+        {
+          "name": "Multan",
+          "name_ur": "",
+          "lat": 30.197838,
+          "lon": 71.471968,
+          "coord_source": "auto:nominatim:node/307617596",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "propakistani.pk",
+          "url": "https://propakistani.pk/2026/01/01/punjab-reduces-transport-fares-after-fuel-price-drop/"
+        },
+        {
+          "title": "minutemirror.com.pk",
+          "url": "https://minutemirror.com.pk/punjab-govt-notifies-revised-public-transport-fares-after-fuel-price-hike-531249/"
+        },
+        {
+          "title": "www.nation.com.pk",
+          "url": "https://www.nation.com.pk/09-May-2026/punjab-moves-stop-unauthorised-increase-transport-fares"
+        }
+      ],
+      "notes": "Government-approved maximum fare as reported by news; the notification itself is not online. Terminals vary by operator."
+    },
+    {
+      "id": "PB-LHR-FSD",
+      "name": "Lahore - Faisalabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1580,
+        "slabs": [],
+        "concessions": "Headline fare = approved fare in force. History: Jan 2026: Rs 980 (2026-01-01); Apr 2026 notified Executive/Economy: Rs 1,600 / 2,150 (2026-04-03); Approved May 2026: Rs 1580 (2026-05-09). June 2026 cuts (AC -12%, non-AC -15%) and Sep 2026 Rawalpindi rise (+10%/+12%) not applied per route.",
+        "as_of": "2026-05-09",
+        "source_url": "https://www.nation.com.pk/09-May-2026/punjab-moves-stop-unauthorised-increase-transport-fares"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        },
+        {
+          "name": "Faisalabad",
+          "name_ur": "",
+          "lat": 31.422056,
+          "lon": 73.092325,
+          "coord_source": "auto:photon:R/16108315",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "propakistani.pk",
+          "url": "https://propakistani.pk/2026/01/01/punjab-reduces-transport-fares-after-fuel-price-drop/"
+        },
+        {
+          "title": "minutemirror.com.pk",
+          "url": "https://minutemirror.com.pk/punjab-govt-notifies-revised-public-transport-fares-after-fuel-price-hike-531249/"
+        },
+        {
+          "title": "www.nation.com.pk",
+          "url": "https://www.nation.com.pk/09-May-2026/punjab-moves-stop-unauthorised-increase-transport-fares"
+        }
+      ],
+      "notes": "Government-approved maximum fare as reported by news; the notification itself is not online. Terminals vary by operator."
+    },
+    {
+      "id": "PB-LHR-SGD",
+      "name": "Lahore - Sargodha",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1730,
+        "slabs": [],
+        "concessions": "Headline fare = approved fare in force. History: Apr 2026 notified Executive/Economy: Rs 1,600 / 2,200 (2026-04-03); Approved May 2026: Rs 1730 (2026-05-09). June 2026 cuts (AC -12%, non-AC -15%) and Sep 2026 Rawalpindi rise (+10%/+12%) not applied per route.",
+        "as_of": "2026-05-09",
+        "source_url": "https://www.nation.com.pk/09-May-2026/punjab-moves-stop-unauthorised-increase-transport-fares"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        },
+        {
+          "name": "Sargodha",
+          "name_ur": "",
+          "lat": 32.085352,
+          "lon": 72.679174,
+          "coord_source": "auto:nominatim:way/1138025958",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "minutemirror.com.pk",
+          "url": "https://minutemirror.com.pk/punjab-govt-notifies-revised-public-transport-fares-after-fuel-price-hike-531249/"
+        },
+        {
+          "title": "www.nation.com.pk",
+          "url": "https://www.nation.com.pk/09-May-2026/punjab-moves-stop-unauthorised-increase-transport-fares"
+        }
+      ],
+      "notes": "Government-approved maximum fare as reported by news; the notification itself is not online. Terminals vary by operator."
+    },
+    {
+      "id": "PB-LHR-SKT",
+      "name": "Lahore - Sialkot/Daska",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1450,
+        "slabs": [],
+        "concessions": "Headline fare = Executive. History: Apr 2026 notified Executive: Rs 1450 (2026-04-03). June 2026 cuts (AC -12%, non-AC -15%) and Sep 2026 Rawalpindi rise (+10%/+12%) not applied per route.",
+        "as_of": "2026-04-03",
+        "source_url": "https://minutemirror.com.pk/punjab-govt-notifies-revised-public-transport-fares-after-fuel-price-hike-531249/"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        },
+        {
+          "name": "Sialkot/Daska",
+          "name_ur": "",
+          "lat": 32.332228,
+          "lon": 74.351234,
+          "coord_source": "auto:photon:W/691772968",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "minutemirror.com.pk",
+          "url": "https://minutemirror.com.pk/punjab-govt-notifies-revised-public-transport-fares-after-fuel-price-hike-531249/"
+        }
+      ],
+      "notes": "Government-approved maximum fare as reported by news; the notification itself is not online. Terminals vary by operator."
+    },
+    {
+      "id": "PB-LHR-BWP",
+      "name": "Lahore - Bahawalpur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 3630,
+        "slabs": [],
+        "concessions": "Headline fare = approved fare in force. History: Apr 2026 notified Executive/Economy: Rs 3,200 / 4,600 (2026-04-03); Approved May 2026: Rs 3630 (2026-05-09). June 2026 cuts (AC -12%, non-AC -15%) and Sep 2026 Rawalpindi rise (+10%/+12%) not applied per route.",
+        "as_of": "2026-05-09",
+        "source_url": "https://www.nation.com.pk/09-May-2026/punjab-moves-stop-unauthorised-increase-transport-fares"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        },
+        {
+          "name": "Bahawalpur",
+          "name_ur": "",
+          "lat": 29.394644,
+          "lon": 71.663875,
+          "coord_source": "auto:photon:R/16117506",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "minutemirror.com.pk",
+          "url": "https://minutemirror.com.pk/punjab-govt-notifies-revised-public-transport-fares-after-fuel-price-hike-531249/"
+        },
+        {
+          "title": "www.nation.com.pk",
+          "url": "https://www.nation.com.pk/09-May-2026/punjab-moves-stop-unauthorised-increase-transport-fares"
+        }
+      ],
+      "notes": "Government-approved maximum fare as reported by news; the notification itself is not online. Terminals vary by operator."
+    },
+    {
+      "id": "PB-LHR-KHI",
+      "name": "Lahore - Karachi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 9720,
+        "slabs": [],
+        "concessions": "Headline fare = approved fare in force. History: Jan 2026: Rs 5620 (2026-01-01); Apr 2026 notified Executive/Economy/First: Rs 9,650 / 12,300 / 13,700 (2026-04-03); Approved May 2026: Rs 9720 (2026-05-09). June 2026 cuts (AC -12%, non-AC -15%) and Sep 2026 Rawalpindi rise (+10%/+12%) not applied per route.",
+        "as_of": "2026-05-09",
+        "source_url": "https://www.nation.com.pk/09-May-2026/punjab-moves-stop-unauthorised-increase-transport-fares"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        },
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "propakistani.pk",
+          "url": "https://propakistani.pk/2026/01/01/punjab-reduces-transport-fares-after-fuel-price-drop/"
+        },
+        {
+          "title": "minutemirror.com.pk",
+          "url": "https://minutemirror.com.pk/punjab-govt-notifies-revised-public-transport-fares-after-fuel-price-hike-531249/"
+        },
+        {
+          "title": "www.nation.com.pk",
+          "url": "https://www.nation.com.pk/09-May-2026/punjab-moves-stop-unauthorised-increase-transport-fares"
+        }
+      ],
+      "notes": "Government-approved maximum fare as reported by news; the notification itself is not online. Terminals vary by operator."
+    },
+    {
+      "id": "PB-LHR-UET",
+      "name": "Lahore - Quetta",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 5600,
+        "slabs": [],
+        "concessions": "Headline fare = Executive. History: Apr 2026 notified Executive/Economy: Rs 5,600 / 7,200 (2026-04-03). June 2026 cuts (AC -12%, non-AC -15%) and Sep 2026 Rawalpindi rise (+10%/+12%) not applied per route.",
+        "as_of": "2026-04-03",
+        "source_url": "https://minutemirror.com.pk/punjab-govt-notifies-revised-public-transport-fares-after-fuel-price-hike-531249/"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        },
+        {
+          "name": "Quetta",
+          "name_ur": "",
+          "lat": 30.1798,
+          "lon": 66.975,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "minutemirror.com.pk",
+          "url": "https://minutemirror.com.pk/punjab-govt-notifies-revised-public-transport-fares-after-fuel-price-hike-531249/"
+        }
+      ],
+      "notes": "Government-approved maximum fare as reported by news; the notification itself is not online. Terminals vary by operator."
+    },
+    {
+      "id": "PB-LHR-SWT",
+      "name": "Lahore - Swat",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 4480,
+        "slabs": [],
+        "concessions": "Headline fare = approved fare in force. History: Approved May 2026: Rs 4480 (2026-05-09). June 2026 cuts (AC -12%, non-AC -15%) and Sep 2026 Rawalpindi rise (+10%/+12%) not applied per route.",
+        "as_of": "2026-05-09",
+        "source_url": "https://www.nation.com.pk/09-May-2026/punjab-moves-stop-unauthorised-increase-transport-fares"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        },
+        {
+          "name": "Swat",
+          "name_ur": "",
+          "lat": 35.23247,
+          "lon": 72.51164,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "www.nation.com.pk",
+          "url": "https://www.nation.com.pk/09-May-2026/punjab-moves-stop-unauthorised-increase-transport-fares"
+        }
+      ],
+      "notes": "Government-approved maximum fare as reported by news; the notification itself is not online. Terminals vary by operator."
+    },
+    {
+      "id": "PB-LHR-MRE",
+      "name": "Lahore - Murree",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 2290,
+        "slabs": [],
+        "concessions": "Headline fare = class not stated. History: Jan 2026: Rs 2290 (2026-01-01). June 2026 cuts (AC -12%, non-AC -15%) and Sep 2026 Rawalpindi rise (+10%/+12%) not applied per route.",
+        "as_of": "2026-01-01",
+        "source_url": "https://propakistani.pk/2026/01/01/punjab-reduces-transport-fares-after-fuel-price-drop/"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        },
+        {
+          "name": "Murree",
+          "name_ur": "",
+          "lat": 33.907,
+          "lon": 73.3943,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "propakistani.pk",
+          "url": "https://propakistani.pk/2026/01/01/punjab-reduces-transport-fares-after-fuel-price-drop/"
+        }
+      ],
+      "notes": "Government-approved maximum fare as reported by news; the notification itself is not online. Terminals vary by operator."
+    },
+    {
+      "id": "PB-LHR-MNS",
+      "name": "Lahore - Mansehra",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 2420,
+        "slabs": [],
+        "concessions": "Headline fare = class not stated. History: Jan 2026: Rs 2420 (2026-01-01). June 2026 cuts (AC -12%, non-AC -15%) and Sep 2026 Rawalpindi rise (+10%/+12%) not applied per route.",
+        "as_of": "2026-01-01",
+        "source_url": "https://propakistani.pk/2026/01/01/punjab-reduces-transport-fares-after-fuel-price-drop/"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        },
+        {
+          "name": "Mansehra",
+          "name_ur": "",
+          "lat": 34.328685,
+          "lon": 73.199313,
+          "coord_source": "auto:nominatim:way/235475302",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "propakistani.pk",
+          "url": "https://propakistani.pk/2026/01/01/punjab-reduces-transport-fares-after-fuel-price-drop/"
+        }
+      ],
+      "notes": "Government-approved maximum fare as reported by news; the notification itself is not online. Terminals vary by operator."
+    },
+    {
+      "id": "PB-LHR-ATD",
+      "name": "Lahore - Abbottabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 2240,
+        "slabs": [],
+        "concessions": "Headline fare = class not stated. History: Jan 2026: Rs 2240 (2026-01-01). June 2026 cuts (AC -12%, non-AC -15%) and Sep 2026 Rawalpindi rise (+10%/+12%) not applied per route.",
+        "as_of": "2026-01-01",
+        "source_url": "https://propakistani.pk/2026/01/01/punjab-reduces-transport-fares-after-fuel-price-drop/"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        },
+        {
+          "name": "Abbottabad",
+          "name_ur": "",
+          "lat": 34.143614,
+          "lon": 73.213275,
+          "coord_source": "auto:nominatim:node/114141293",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "propakistani.pk",
+          "url": "https://propakistani.pk/2026/01/01/punjab-reduces-transport-fares-after-fuel-price-drop/"
+        }
+      ],
+      "notes": "Government-approved maximum fare as reported by news; the notification itself is not online. Terminals vary by operator."
+    },
+    {
+      "id": "PB-LHR-SDQ",
+      "name": "Lahore - Sadiqabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 2430,
+        "slabs": [],
+        "concessions": "Headline fare = class not stated. History: Jan 2026: Rs 2430 (2026-01-01). June 2026 cuts (AC -12%, non-AC -15%) and Sep 2026 Rawalpindi rise (+10%/+12%) not applied per route.",
+        "as_of": "2026-01-01",
+        "source_url": "https://propakistani.pk/2026/01/01/punjab-reduces-transport-fares-after-fuel-price-drop/"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        },
+        {
+          "name": "Sadiqabad",
+          "name_ur": "",
+          "lat": 28.3091,
+          "lon": 70.1307,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "propakistani.pk",
+          "url": "https://propakistani.pk/2026/01/01/punjab-reduces-transport-fares-after-fuel-price-drop/"
+        }
+      ],
+      "notes": "Government-approved maximum fare as reported by news; the notification itself is not online. Terminals vary by operator."
+    },
+    {
+      "id": "PB-LHR-SKR",
+      "name": "Lahore - Sukkur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 3400,
+        "slabs": [],
+        "concessions": "Headline fare = class not stated. History: Jan 2026: Rs 3400 (2026-01-01). June 2026 cuts (AC -12%, non-AC -15%) and Sep 2026 Rawalpindi rise (+10%/+12%) not applied per route.",
+        "as_of": "2026-01-01",
+        "source_url": "https://propakistani.pk/2026/01/01/punjab-reduces-transport-fares-after-fuel-price-drop/"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        },
+        {
+          "name": "Sukkur",
+          "name_ur": "",
+          "lat": 27.69619,
+          "lon": 68.85888,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "propakistani.pk",
+          "url": "https://propakistani.pk/2026/01/01/punjab-reduces-transport-fares-after-fuel-price-drop/"
+        }
+      ],
+      "notes": "Government-approved maximum fare as reported by news; the notification itself is not online. Terminals vary by operator."
+    },
+    {
+      "id": "PB-RWP-KHI",
+      "name": "Rawalpindi - Karachi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 10450,
+        "slabs": [],
+        "concessions": "Headline fare = RTA Rawalpindi approved. History: RTA Rawalpindi Apr 2026: Rs 10450 (2026-04-04). June 2026 cuts (AC -12%, non-AC -15%) and Sep 2026 Rawalpindi rise (+10%/+12%) not applied per route.",
+        "as_of": "2026-04-04",
+        "source_url": "https://propakistani.pk/2026/04/04/rta-approves-up-to-37-increase-in-public-transport-fares-in-rawalpindi/"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Rawalpindi",
+          "name_ur": "",
+          "lat": 33.474083,
+          "lon": 73.252285,
+          "coord_source": "auto:photon:R/8161545",
+          "is_station": false
+        },
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "propakistani.pk",
+          "url": "https://propakistani.pk/2026/04/04/rta-approves-up-to-37-increase-in-public-transport-fares-in-rawalpindi/"
+        }
+      ],
+      "notes": "Government-approved maximum fare as reported by news; the notification itself is not online. Terminals vary by operator."
+    },
+    {
+      "id": "PB-RWP-GRT",
+      "name": "Rawalpindi - Gujrat",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1100,
+        "slabs": [],
+        "concessions": "Headline fare = RTA Rawalpindi approved. History: RTA Rawalpindi Apr 2026: Rs 1100 (2026-04-04). June 2026 cuts (AC -12%, non-AC -15%) and Sep 2026 Rawalpindi rise (+10%/+12%) not applied per route.",
+        "as_of": "2026-04-04",
+        "source_url": "https://propakistani.pk/2026/04/04/rta-approves-up-to-37-increase-in-public-transport-fares-in-rawalpindi/"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Rawalpindi",
+          "name_ur": "",
+          "lat": 33.474083,
+          "lon": 73.252285,
+          "coord_source": "auto:photon:R/8161545",
+          "is_station": false
+        },
+        {
+          "name": "Gujrat",
+          "name_ur": "",
+          "lat": 32.5731,
+          "lon": 74.0789,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "propakistani.pk",
+          "url": "https://propakistani.pk/2026/04/04/rta-approves-up-to-37-increase-in-public-transport-fares-in-rawalpindi/"
+        }
+      ],
+      "notes": "Government-approved maximum fare as reported by news; the notification itself is not online. Terminals vary by operator."
+    },
+    {
+      "id": "PB-RWP-CKW",
+      "name": "Rawalpindi - Chakwal",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 750,
+        "slabs": [],
+        "concessions": "Headline fare = RTA Rawalpindi approved. History: RTA Rawalpindi Apr 2026: Rs 750 (2026-04-04). June 2026 cuts (AC -12%, non-AC -15%) and Sep 2026 Rawalpindi rise (+10%/+12%) not applied per route.",
+        "as_of": "2026-04-04",
+        "source_url": "https://propakistani.pk/2026/04/04/rta-approves-up-to-37-increase-in-public-transport-fares-in-rawalpindi/"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Rawalpindi",
+          "name_ur": "",
+          "lat": 33.474083,
+          "lon": 73.252285,
+          "coord_source": "auto:photon:R/8161545",
+          "is_station": false
+        },
+        {
+          "name": "Chakwal",
+          "name_ur": "",
+          "lat": 32.932827,
+          "lon": 72.862976,
+          "coord_source": "auto:nominatim:node/115965552",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "propakistani.pk",
+          "url": "https://propakistani.pk/2026/04/04/rta-approves-up-to-37-increase-in-public-transport-fares-in-rawalpindi/"
+        }
+      ],
+      "notes": "Government-approved maximum fare as reported by news; the notification itself is not online. Terminals vary by operator."
+    },
+    {
+      "id": "PB-ISB-MUX",
+      "name": "Islamabad - Multan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 4060,
+        "slabs": [],
+        "concessions": "Headline fare = Business. History: RTA Rawalpindi Jun 2026 Business / Executive: Rs 4,060 / 2,850 (2026-06-21). June 2026 cuts (AC -12%, non-AC -15%) and Sep 2026 Rawalpindi rise (+10%/+12%) not applied per route.",
+        "as_of": "2026-06-21",
+        "source_url": "https://www.dawn.com/news/2009549"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Multan",
+          "name_ur": "",
+          "lat": 30.197838,
+          "lon": 71.471968,
+          "coord_source": "auto:nominatim:node/307617596",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "www.dawn.com",
+          "url": "https://www.dawn.com/news/2009549"
+        }
+      ],
+      "notes": "Government-approved maximum fare as reported by news; the notification itself is not online. Terminals vary by operator."
+    }
+  ],
+  "last_verified": "2026-09-21"
+}

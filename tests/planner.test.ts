@@ -127,6 +127,13 @@ describe('planner', () => {
     expect(new Planner(pink, { womenOnlyAllowed: true }).plan({ lat: 24.9, lon: 67.0 }, { lat: 24.9, lon: 67.04 }).filter((r) => r.rides > 0).length).toBeGreaterThan(0);
   });
 
+  it('lets intercity trips start and end several km from a terminal', () => {
+    const far = { lat: 24.9, lon: 67.07 }; // ~3 km east of A4
+    expect(planner.plan({ lat: 24.9, lon: 67.0 }, far).filter((r) => r.rides > 0)).toHaveLength(0);
+    const intercity = { ...city, city: { ...city.city, id: 'intercity' } };
+    expect(new Planner(intercity).plan({ lat: 24.9, lon: 67.0 }, far).filter((r) => r.rides > 0).length).toBeGreaterThan(0);
+  });
+
   it('ignores unconfirmed routes where only the two terminals are known', () => {
     const ends = route('ENDS', 'bus', [A[0], A[4]], flat);
     const onlyEnds = { ...city, routes: [{ ...ends, status: 'unverified' as const, stops_confidence: 'low' as const }] };

@@ -112,6 +112,114 @@ Generated 2026-09-21 from `data/systems`. Facts (route numbers, stop names, fare
 - [Peoples Bus Service between Tando Allahyar, Hyderabad from tomorrow](https://www.dawn.com/news/1993595/peoples-bus-service-between-tando-allahyar-hyderabad-from-tomorrow)
 - [HYD-03](https://smta.gos.pk/routes/23)
 
+## Bilal Travels (Bilal Daewoo) (intercity)
+
+- [Bilal Travels website (JavaScript-only, not readable)](https://bilaltravels.pk) · Bilal Travels · 2026-09-21 · official
+- [pkbuses.com Bilal Travels (Aug 2026)](https://pkbuses.com/bus-services/bilal-travels) · pkbuses.com · 2026-08
+
+## Daewoo Express (intercity)
+
+- [Daewoo Express - Terminals (addresses)](https://daewoo.com.pk/Home/Terminals) · Daewoo Pakistan Express · 2026-09-21 · official
+- [pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)](https://pkbuses.com/daewoo-express-ticket-price) · pkbuses.com · 2026-08-30
+- [pkbuses.com - Daewoo Express bus service](https://pkbuses.com/bus-services/daewoo-express) · pkbuses.com · 2026-08
+- [daewooinfo.pk - Daewoo ticket price (Jul 2026)](https://daewooinfo.pk/daewoo-ticket-price/) · daewooinfo.pk · 2026-07
+- [sastaticket.pk - Daewoo Express route page](https://www.sastaticket.pk/bus-tickets/daewoo-express) · sastaticket.pk
+- [bookme.pk - Lahore to Karachi sleeper bus](https://bookme.pk/lahore-to-karachi-sleeper-bus) · bookme.pk
+- [pkbuses.com - Daewoo Express sleeper bus (6 Jun 2026)](https://pkbuses.com/daewoo-express-sleeper-bus/) · pkbuses.com · 2026-06-06
+- [pkbuses.com - Daewoo Express Sukkur bus timings (28 May 2026)](https://pkbuses.com/daewoo-express-sukkur-bus-timings) · pkbuses.com · 2026-05-28
+- [pkbuses.com - Daewoo Express DI Khan bus timings (schedule 2023)](https://pkbuses.com/daewoo-express-dera-ismail-khan-bus-timings/) · pkbuses.com · 2023-03-26
+- [buses.pk - Daewoo Islamabad to Lahore](https://buses.pk/bus-service/daewoo-express/islamabad-to-lahore-bus) · buses.pk
+- [pkbuses.com - Daewoo Lahore to Swat](https://pkbuses.com/bus-services/daewoo-express/lahore-to-swat) · pkbuses.com
+- [Daewoo Express (Wikipedia)](https://en.wikipedia.org/wiki/Daewoo_Express) · Wikipedia · 2026-09-21
+
+## Faisal Movers (intercity)
+
+- [Faisal Movers homepage (fares)](https://www.faisalmovers.com) · Faisal Movers · 2026-09-21 · official
+- [Faisal Movers contact us](https://www.faisalmovers.com/contact-us/) · Faisal Movers · 2026-09-21 · official
+- [Faisal Movers route map / stop list](https://www.faisalmovers.com/route-map/) · Faisal Movers · 2026-09-21 · official
+- [pkbuses.com Faisal Movers fare list (30 Aug 2026)](https://pkbuses.com/faisal-movers-fare-list/) · pkbuses.com · 2026-08-30
+- [sastaticket.pk Faisal Movers](https://www.sastaticket.pk/bus-tickets/faisal-movers) · sastaticket.pk
+
+## Kainat Travels (intercity)
+
+- [bookme.pk Kainat Travels](https://bookme.pk/kainat-travels) · bookme.pk · 2026-09-21
+- [sastaticket.pk Kainat Travels](https://www.sastaticket.pk/bus-tickets/kainat-travels) · sastaticket.pk · 2026-09-21
+
+## Kohistan Express (intercity)
+
+- [Kohistan Express official Facebook](https://www.facebook.com/KohistanXpress/) · Kohistan Express · official
+- [pkbuses.com Kohistan Express](https://pkbuses.com/kohistan-express-contact-numbers-helpline) · pkbuses.com
+
+## Manthar Transport (intercity)
+
+- [Manthar Group Facebook](https://www.facebook.com/manthargroup/) · Manthar Group · official
+- [sastaticket.pk Manthar Transport](https://www.sastaticket.pk/bus-tickets/manthar-transport) · sastaticket.pk · 2026-09-21
+- [pkbuses.com Manthar contact](https://pkbuses.com/manthar-transport-contact-numbers/) · pkbuses.com
+
+## NATCO (intercity)
+
+- [NATCO online booking and route list](https://natco.gov.pk) · NATCO · 2026-09-21 · official
+- [NATCO contact page (terminal phones)](https://natco.gov.pk/contact) · NATCO · 2026-09-21 · official
+- [NATCO official Facebook (Pir Wadhai terminal)](https://www.facebook.com/NATCOGBOFFICIAL) · NATCO · official
+- [NATCO Booking Office, Pirwadhai (directory)](https://pk.asiafirms.com/punjab/natco-booking-office-751494.html) · asiafirms
+- [China-Pak bus service Kashgar-Gilgit resumes](https://www.nation.com.pk/08-Mar-2025/china-pak-two-way-bus-service-between-kashgar-gilgit-resumes) · The Nation · 2025-03-08
+- [NATCO timetable search, 25 Sep 2026](https://natco.gov.pk/times)
+- [bookme.pk NATCO page (old fares)](https://bookme.pk/natco-online-booking)
+
+## Niazi Express (intercity)
+
+- [Niazi Express - Our terminals](https://www.niaziexpress.com.pk/our-terminals/) · Niazi Express · 2026-09-21 · official
+- [bookme.pk Niazi Express](https://bookme.pk/niazi-express) · bookme.pk · 2026-09-21
+- [pkbuses.com Niazi Express (Aug 2026)](https://pkbuses.com/bus-services/niazi-express) · pkbuses.com · 2026-08
+
+## Sindh intercity provisional fares (PTA Sindh) (intercity)
+
+- [Intercity Provisional Fare Rates List](https://mwb.sindh.gov.pk/storage/Transport/intercity.jpeg) · Provincial Transport Authority, Sindh · 2026-04-04 · official
+- [Transport & Mass Transit Department Sindh - Fares page](https://transport.sindh.gov.pk/fares) · Govt of Sindh, Transport & Mass Transit Dept · 2026-09-21 · official
+
+## Punjab intercity approved fares (intercity)
+
+- [Notification: fare structure of non-AC public transport](https://transport.punjab.gov.pk/system/files/Notification%20Fuel%20Prices%20Existing%20Fare%20Structure%20of%20Non-AC%20Public%20Transport%2021-06-2018,%20.pdf) · Transport Department, Govt of Punjab · 2018-06-21 · official
+- [Punjab reduces transport fares after fuel price drop](https://propakistani.pk/2026/01/01/punjab-reduces-transport-fares-after-fuel-price-drop/) · ProPakistani (quoting Punjab Transport Dept) · 2026-01-01
+- [Public transport fares reduced](https://www.app.com.pk/domestic/public-transport-fares-reduced/) · APP · 2026-01-01
+- [Punjab govt notifies revised public transport fares](https://minutemirror.com.pk/punjab-govt-notifies-revised-public-transport-fares-after-fuel-price-hike-531249/) · Minute Mirror · 2026-04-03
+- [RTA approves up to 37% increase in Rawalpindi fares](https://propakistani.pk/2026/04/04/rta-approves-up-to-37-increase-in-public-transport-fares-in-rawalpindi/) · ProPakistani · 2026-04-04
+- [Punjab moves to stop unauthorised increase in transport fares](https://www.nation.com.pk/09-May-2026/punjab-moves-stop-unauthorised-increase-transport-fares) · The Nation · 2026-05-09
+- [Public transport fares reduced (RTA Lahore 4%)](https://www.nation.com.pk/31-May-2026/public-transport-fares-reduced) · The Nation · 2026-05-31
+- [Punjab reduces public transport fares by 15 percent](https://www.radio.gov.pk/20-06-2026/punjab-reduces-public-transport-fares-by-15-percent) · Radio Pakistan · 2026-06-20
+- [RTA Rawalpindi fare cut](https://www.dawn.com/news/2009549) · Dawn · 2026-06-21
+- [Fuel price shock brings double whammy for commuters](https://tribune.com.pk/story/2628239/fuel-price-shock-brings-double-whammy-for-commuters) · Express Tribune · 2026-09
+
+## Q Connect (intercity)
+
+- [Q Connect homepage and route data](https://qconnect.pk) · Q Connect · 2026-09-21 · official
+- [Q Connect contact](https://qconnect.pk/contact) · Q Connect · 2026-09-21 · official
+- [pkbuses.com Q Connect](https://pkbuses.com/bus-services/q-connect) · pkbuses.com
+
+## Road Master (intercity)
+
+- [Road Master contact (terminals)](http://roadmaster.pk/bus/contact) · Road Master · 2026-09-21 · official
+- [bookme.pk Road Master](https://bookme.pk/road-master) · bookme.pk · 2026-09-21
+- [pkbuses.com Road Master ticket price (30 Aug 2026)](https://pkbuses.com/road-master-bus-ticket-price-list/) · pkbuses.com · 2026-08-30
+- [pkbuses.com Road Master timings (schedule 11 Apr 2023)](https://pkbuses.com/road-master-bus-timings) · pkbuses.com · 2023-04-11
+
+## Silk Line (intercity)
+
+- [Silk Line - about us](https://silkline.pk/index.php/about-us/) · Silk Line · 2026-09-21 · official
+- [bookme.pk Silk Line](https://bookme.pk/silk-line) · bookme.pk · 2026-09-21
+
+## Skyways (intercity)
+
+- [Skyways contact us (terminals)](https://www.skywaysonline.pk/contactus) · Skyways · 2026-09-21 · official
+- [Skyways destinations](https://www.skywaysonline.pk/destandfares) · Skyways · 2026-09-21 · official
+- [bookme.pk Skyways online booking](https://bookme.pk/skyways-online-booking) · bookme.pk · 2026-09-21
+- [pkbuses.com Skyways (Aug 2026)](https://pkbuses.com/bus-services/skyways) · pkbuses.com · 2026-08
+
+## Waraich Express (intercity)
+
+- [pkbuses.com Waraich Express ticket price (30 Aug 2026)](https://pkbuses.com/waraich-express-ticket-price) · pkbuses.com · 2026-08-30
+- [buses.pk Waraich Express](https://buses.pk/bus-service/waraich-express) · buses.pk · 2026
+
 ## Rawalpindi–Islamabad Metrobus (islamabad-rawalpindi)
 
 - [Rawalpindi–Islamabad Metrobus](https://en.wikipedia.org/wiki/Rawalpindi%E2%80%93Islamabad_Metrobus) · Wikipedia
@@ -191,6 +299,24 @@ Generated 2026-09-21 from `data/systems`. Facts (route numbers, stop names, fare
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/1%3Ast_2)
 - [Transit Map of Islamabad V-07 (CDA), legend](https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf)
 - [safar.fyi: Blue Line](https://www.safar.fyi/islamabad/transit-lines/1%3Ablue)
+
+## Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans (islamabad-rawalpindi)
+
+- [Rawalpindi Buses Routes](http://rawalpindi-city.blogspot.com/2007/12/rawalpindi-buses-routes.html) · rawalpindi-city.blogspot.com (Paki Blogger) · 2007-12
+- [traficroutes-rwp-ibd: Detail of Wagon Routes in Rawalpindi and Islamabad (14 routes)](https://www.scribd.com/document/360292584/traficroutes-rwp-ibd) · Scribd (uploaded by naveed30)
+- [Ict-Routes-Short: Total ITA Routes - 2009](https://www.scribd.com/document/318945745/Ict-Routes-Short) · Scribd (uploaded by Arqam Bashir); document of the Islamabad Transport Authority route list · 2009
+- [Routes in Islamabad - The Best Way to Get Around in Islamabad](https://adventureplanners.net/routes-in-islamabad/) · adventureplanners.net
+- [Oil prices dip but fares stay high](https://www.nation.com.pk/30-Jan-2015/oil-prices-dip-but-fares-stay-high) · The Nation (Israr Ahmad) · 2015-01-30
+- [Routes No 1, 3, 21, 120 and 127: Public transporters violating route permits in twin cities](https://customstoday.media/routes-no-1-3-21-120-and-127-public-transporters-violating-route-permits-in-twin-cities/) · Customs Today · 2015-02-28
+- [Transporters Increase Ticket Prices](https://propakistani.pk/2025/06/17/transporters-increase-ticket-prices/) · ProPakistani (Rija Sohaib) · 2025-06-17
+- [RTA Approves Up to 37% Increase in Public Transport Fares in Rawalpindi](https://propakistani.pk/2026/04/04/rta-approves-up-to-37-increase-in-public-transport-fares-in-rawalpindi/) · ProPakistani (Rija Sohaib) · 2026-04-04
+- [Suzuki/ Taxi Stand rawalpindi](https://pakistanplaces.com/listing/suzuki-taxi-stand-rawalpindi) · Pakistan Places
+- [Public Transport in Rawalpindi - Metro Bus, Wagons & Travel Guide](https://murreeroad.org/transport/public-transport-rawalpindi) · MurreeRoad.org · 2026-06
+- [Commuters caught between infrastructure and inertia](https://www.dawn.com/news/1931111) · Dawn (Marium Kiani) · 2025-08-16
+- [You Need to Know About Public Transport in Islamabad](https://www.zameen.com/blog/public-transport-islamabad.html) · Zameen.com blog · 2022-07-18
+- [Zaid kiraye wasool karne par 17 gariyan tehweel mein (RTA Rawalpindi overcharging crackdown)](https://www.nawaiwaqt.com.pk/10-Jul-2026/2009121) · Nawa-i-Waqt · 2026-07-10
+- [OpenStreetMap (Overpass API query of named stops/places)](https://www.openstreetmap.org) · OpenStreetMap contributors (ODbL 1.0) · 2026-09-21
+- [Wikidata (research/wikidata-stations.json)](https://www.wikidata.org) · Wikidata (CC0) · 2026-09-16
 
 ## Green Electric Bus Jhang (jhang)
 
@@ -314,6 +440,12 @@ Generated 2026-09-21 from `data/systems`. Facts (route numbers, stop names, fare
 - [Mnzil vehicle page X-2](https://mnzil.app/vehicles/X-2)
 - [Mnzil vehicle page Z](https://mnzil.app/vehicles/Z)
 - [Mnzil vehicle page Z-4](https://mnzil.app/vehicles/Z-4)
+- [Mnzil vehicle page A-11 (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/A-11)
+- [Mnzil vehicle page Double Jhanda (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/Double-Jhanda)
+- [Mnzil vehicle page k-1 (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/k-1)
+- [Mnzil vehicle page Salman Chohaan (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/salman-chohaan)
+- [Qingqi rickshaws allowed to operate at six routes in Karachi (ARY News, 2018-10-23)](https://arynews.tv/qingqi-chief-secretary-karachi-allowed)
+- [Going places, Zafar Ahmed Khan (The News on Sunday, 2021-12-26)](https://www.thenews.com.pk/tns/detail/919747-going-places)
 
 ## Karachi Circular Railway (karachi)
 
@@ -335,13 +467,57 @@ Generated 2026-09-21 from `data/systems`. Facts (route numbers, stop names, fare
 
 - [RastaYaar: Karachi bus route finder, src/data/routes.ts](https://github.com/itsdeewankumar-tech/rastayaar) · itsdeewankumar-tech (GitHub) · 2026-09-07
 - [Intra-city provisional fare list for buses, minibuses and coaches](https://mwb.sindh.gov.pk/storage/Transport/intracity.jpeg) · Regional Transport Authority Karachi · 2026-04-04 · official
+- [Correction source for D-1](https://mnzil.app/vehicles/D-1)
 - [Habib University Karachi bus network (CC-BY-4.0): 51-C](https://doi.org/10.5281/zenodo.13951512)
+- [Correction source for D-7](https://mnzil.app/vehicles/D-7)
+- [Correction source for F-11](https://mnzil.app/vehicles/F-11)
+- [Correction source for G-3](https://mnzil.app/vehicles/G-3)
+- [Correction source for G-7](https://mnzil.app/vehicles/G-7)
+- [Correction source for G-11](https://mnzil.app/vehicles/G-11)
+- [Correction source for G-17](https://mnzil.app/vehicles/G-17)
+- [Correction source for G-19](https://mnzil.app/vehicles/G-19)
+- [Correction source for G-27](https://mnzil.app/vehicles/G-27)
+- [Correction source for N-5](https://mnzil.app/vehicles/N-5)
+- [Correction source for W-22](https://mnzil.app/vehicles/W-22)
+- [Correction source for W-25](https://mnzil.app/vehicles/W-25)
+- [Correction source for W-55](https://mnzil.app/vehicles/W-55)
+- [Correction source for X-10](https://mnzil.app/vehicles/X-10)
+- [Correction source for X-23](https://mnzil.app/vehicles/X-23)
+- [Correction source for Z-2](https://mnzil.app/vehicles/Z-2)
+- [Correction source for Mashriq](https://mnzil.app/vehicles/Mashriq)
+- [Correction source for Muslim](https://mnzil.app/vehicles/Muslim)
+- [Correction source for Super Hasanzai](https://mnzil.app/vehicles/Super-Hassan-Zai)
+- [Correction source for Sheraz](https://mnzil.app/vehicles/Shiraz)
+- [Correction source for Abdullah](https://mnzil.app/vehicles/Abdullah)
+- [Correction source for Rind](https://mnzil.app/vehicles/Rind)
+- [Correction source for 9-C](https://mnzil.app/vehicles/9-C)
+- [Correction source for 4-L](https://mnzil.app/vehicles/4-L)
+- [Correction source for 4-Q](https://mnzil.app/vehicles/4-Q)
+- [Correction source for 11-C](https://mnzil.app/vehicles/11-C)
+- [Correction source for 51](https://mnzil.app/vehicles/51)
+- [Correction source for Marwat](https://mnzil.app/vehicles/Marwat)
+- [Correction source for Bilal](https://mnzil.app/vehicles/Bilal)
+- [Correction source for Gulistan](https://mnzil.app/vehicles/Gulistan)
+- [Correction source for Ilyas](https://mnzil.app/vehicles/Ilyas)
+- [Correction source for Masood](https://mnzil.app/vehicles/Masood)
+- [Correction source for Khan](https://mnzil.app/vehicles/Khan)
 - [musafir: data/mnzil_scrapedata.json](https://github.com/naumanaarif/musafir)
 - [Mnzil vehicle page 52](https://mnzil.app/vehicles/52)
 - [Mnzil vehicle page Al Azad](https://mnzil.app/vehicles/Al-Azad)
 - [Mnzil vehicle page Al Khair](https://mnzil.app/vehicles/Al-Khair-)
 - [Mnzil vehicle page N](https://mnzil.app/vehicles/N)
 - [Mnzil vehicle page Super Muslim Coach](https://mnzil.app/vehicles/super-muslim-coach)
+- [Mnzil vehicle page 51A (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/51A-)
+- [Mnzil vehicle page D-3 (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/D-3)
+- [Mnzil vehicle page G-13 (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/G-13)
+- [Mnzil vehicle page Imran (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/Imran)
+- [Mnzil vehicle page P-3 (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/P-3)
+- [Mnzil vehicle page S-2 Bus (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/S-2-Bus)
+- [Mnzil vehicle page 4-H (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/4-H)
+- [Mnzil vehicle page Daata (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/Daata)
+- [Public Transport in Karachi – 2023 Updates (Zameen Blog, 2023-02-23)](https://www.zameen.com/blog/public-transport-karachi.html)
+- [Bus Routes Karachi (January 2010)](https://urckarachi.org/wp-content/uploads/2020/07/Bus-Routes-Karachi.pdf)
+- [Evidence the route still runs](https://enews.hamariweb.com/pakistan/exploring-d-6-bus-route-in-karachi-a-pocket-friendly-commute/)
 
 ## Peoples Bus Service (karachi)
 
@@ -692,6 +868,104 @@ Generated 2026-09-21 from `data/systems`. Facts (route numbers, stop names, fare
 - [safar.fyi Okara route](https://www.safar.fyi/okara/transit-lines/etransit-okara%3A323)
 - [safar.fyi Okara route](https://www.safar.fyi/okara/transit-lines/etransit-okara%3A319)
 
+## Pakistan Railways (intercity)
+
+- [Pakistan Railways - Train Timings (official train list)](https://www.pakrail.gov.pk/TrainTiming.aspx) · Pakistan Railways · 2026-09-21 · official
+- [Pakistan Railways - Passenger Fare (w.e.f 20th April, 2025)](https://www.pakrail.gov.pk/images/fareRatesTable/Passenger_Fare_20_04_2025.pdf) · Pakistan Railways · 2025-04-20 · official
+- [pakinformation.com - Pakistan Railway train timings](https://www.pakinformation.com/railway-timings/) · pakinformation.com · 2026-09-21
+- [Wikipedia - List of named passenger trains of Pakistan](https://en.wikipedia.org/wiki/List_of_named_passenger_trains_of_Pakistan) · Wikipedia · 2026-09-21
+- [OpenStreetMap train route relations](https://www.openstreetmap.org/) · OpenStreetMap contributors (ODbL) · 2026-09-16
+- [OpenStreetMap railway=station/halt nodes via Overpass (overpass.private.coffee)](https://overpass.private.coffee/api/interpreter) · OpenStreetMap contributors (ODbL) · 2026-07-15
+- [Wikidata railway stations in Pakistan](https://query.wikidata.org/) · Wikidata (CC0) · 2026-09-16
+- [pakinformation.com - Allama Iqbal Express time table](https://www.pakinformation.com/railway-timings/allama-iqbal-express.html) · pakinformation.com
+- [Wikipedia - Allama Iqbal Express](https://en.wikipedia.org/wiki/Allama_Iqbal_Express) · Wikipedia
+- [pakinformation.com - Attock Passenger time table](https://www.pakinformation.com/railway-timings/attock-passenger.html) · pakinformation.com
+- [Wikipedia - Attock Passenger](https://en.wikipedia.org/wiki/Attock_Passenger) · Wikipedia
+- [pakinformation.com - Awam Express time table](https://www.pakinformation.com/railway-timings/awam-express.html) · pakinformation.com
+- [Wikipedia - Awam Express](https://en.wikipedia.org/wiki/Awam_Express) · Wikipedia
+- [pakinformation.com - Badar Express time table](https://www.pakinformation.com/railway-timings/badar-express.html) · pakinformation.com
+- [Wikipedia - Badar Express](https://en.wikipedia.org/wiki/Badar_Express) · Wikipedia
+- [pakinformation.com - Bahauddin Zakria Express time table](https://www.pakinformation.com/railway-timings/bahauddin-zakaria-express.html) · pakinformation.com
+- [Wikipedia - Bahauddin Zakaria Express](https://en.wikipedia.org/wiki/Bahauddin_Zakaria_Express) · Wikipedia
+- [OpenStreetMap route relation 19946243 (ODbL, (c) OpenStreetMap contributors)](https://www.openstreetmap.org/relation/19946243) · OpenStreetMap contributors
+- [pakinformation.com - Bolan Mail time table](https://www.pakinformation.com/railway-timings/bolan-mail.html) · pakinformation.com
+- [Wikipedia - Bolan Mail](https://en.wikipedia.org/wiki/Bolan_Mail) · Wikipedia
+- [OpenStreetMap route relation 19850889 (ODbL, (c) OpenStreetMap contributors)](https://www.openstreetmap.org/relation/19850889) · OpenStreetMap contributors
+- [pakinformation.com - Chaman Mixed time table](https://www.pakinformation.com/railway-timings/chaman-mixed.html) · pakinformation.com
+- [Wikipedia - Chaman Passenger](https://en.wikipedia.org/wiki/Chaman_Passenger) · Wikipedia
+- [OpenStreetMap route relation 19850888 (ODbL, (c) OpenStreetMap contributors)](https://www.openstreetmap.org/relation/19850888) · OpenStreetMap contributors
+- [pakinformation.com - Chenab Express time table](https://www.pakinformation.com/railway-timings/chenab-express.html) · pakinformation.com
+- [Wikipedia - Chenab Express](https://en.wikipedia.org/wiki/Chenab_Express) · Wikipedia
+- [pakinformation.com - Faiz Ahmed Faiz Passenger time table](https://www.pakinformation.com/railway-timings/faiz-ahmed-faiz-passenger.html) · pakinformation.com
+- [Wikipedia - Faiz Ahmed Faiz Passenger](https://en.wikipedia.org/wiki/Faiz_Ahmed_Faiz_Passenger) · Wikipedia
+- [pakinformation.com - Fareed Express time table](https://www.pakinformation.com/railway-timings/fareed-express.html) · pakinformation.com
+- [Wikipedia - Fareed Express](https://en.wikipedia.org/wiki/Fareed_Express) · Wikipedia
+- [pakinformation.com - Ghouri Express time table](https://www.pakinformation.com/railway-timings/ghouri-express.html) · pakinformation.com
+- [Wikipedia - Ghouri Express](https://en.wikipedia.org/wiki/Ghouri_Express) · Wikipedia
+- [pakinformation.com - Green Line time table](https://www.pakinformation.com/railway-timings/green-line.html) · pakinformation.com
+- [Wikipedia - Green Line (Pakistan Railways)](https://en.wikipedia.org/wiki/Green_Line_(Pakistan_Railways)) · Wikipedia
+- [pakinformation.com - Hazara Express time table](https://www.pakinformation.com/railway-timings/hazara-express.html) · pakinformation.com
+- [Wikipedia - Hazara Express](https://en.wikipedia.org/wiki/Hazara_Express) · Wikipedia
+- [pakinformation.com - Islamabad Express time table](https://www.pakinformation.com/railway-timings/islamabad-express.html) · pakinformation.com
+- [Wikipedia - Islamabad Express](https://en.wikipedia.org/wiki/Islamabad_Express) · Wikipedia
+- [pakinformation.com - Jaffar Express time table](https://www.pakinformation.com/railway-timings/jaffar-express.html) · pakinformation.com
+- [Wikipedia - Jaffar Express](https://en.wikipedia.org/wiki/Jaffar_Express) · Wikipedia
+- [pakinformation.com - Jand Passenger time table](https://www.pakinformation.com/railway-timings/jand-passenger.html) · pakinformation.com
+- [Wikipedia - Jand Passenger](https://en.wikipedia.org/wiki/Jand_Passenger) · Wikipedia
+- [pakinformation.com - Karachi Express time table](https://www.pakinformation.com/railway-timings/karachi-express.html) · pakinformation.com
+- [Wikipedia - Karachi Express](https://en.wikipedia.org/wiki/Karachi_Express) · Wikipedia
+- [pakinformation.com - Karakoram Express time table](https://www.pakinformation.com/railway-timings/karakoram-express.html) · pakinformation.com
+- [Wikipedia - Karakoram Express](https://en.wikipedia.org/wiki/Karakoram_Express) · Wikipedia
+- [pakinformation.com - Khyber Mail time table](https://www.pakinformation.com/railway-timings/khyber-mail.html) · pakinformation.com
+- [Wikipedia - Khyber Mail (passenger train)](https://en.wikipedia.org/wiki/Khyber_Mail_(passenger_train)) · Wikipedia
+- [pakinformation.com - Lasani Express time table](https://www.pakinformation.com/railway-timings/lasani-express.html) · pakinformation.com
+- [Wikipedia - Lasani Express](https://en.wikipedia.org/wiki/Lasani_Express) · Wikipedia
+- [pakinformation.com - Marvi Passenger time table](https://www.pakinformation.com/railway-timings/marvi-passenger.html) · pakinformation.com
+- [pakinformation.com - Mehr Express time table](https://www.pakinformation.com/railway-timings/mehr-express.html) · pakinformation.com
+- [Wikipedia - Mehr Express](https://en.wikipedia.org/wiki/Mehr_Express) · Wikipedia
+- [pakinformation.com - Mehran Express time table](https://www.pakinformation.com/railway-timings/mehran-express.html) · pakinformation.com
+- [pakinformation.com - Millat Express time table](https://www.pakinformation.com/railway-timings/millat-express.html) · pakinformation.com
+- [Wikipedia - Millat Express](https://en.wikipedia.org/wiki/Millat_Express) · Wikipedia
+- [pakinformation.com - Musa Pak Express time table](https://www.pakinformation.com/railway-timings/musa-pak-express.html) · pakinformation.com
+- [Wikipedia - Musa Pak Express](https://en.wikipedia.org/wiki/Musa_Pak_Express) · Wikipedia
+- [pakinformation.com - Shah Hussain Express time table](https://www.pakinformation.com/railway-timings/shah-hussain-express.html) · pakinformation.com
+- [Wikipedia - Shah Hussain Express](https://en.wikipedia.org/wiki/Shah_Hussain_Express) · Wikipedia
+- [pakinformation.com - Pakistan Express time table](https://www.pakinformation.com/railway-timings/pakistan-express.html) · pakinformation.com
+- [Wikipedia - Pakistan Express](https://en.wikipedia.org/wiki/Pakistan_Express) · Wikipedia
+- [pakinformation.com - Ravi Express time table](https://www.pakinformation.com/railway-timings/ravi-express.html) · pakinformation.com
+- [pakinformation.com - Rawal Express time table](https://www.pakinformation.com/railway-timings/rawal-express.html) · pakinformation.com
+- [Wikipedia - Rawal Express](https://en.wikipedia.org/wiki/Rawal_Express) · Wikipedia
+- [pakinformation.com - Rawalpindi Passenger time table](https://www.pakinformation.com/railway-timings/rawalpindi-passenger.html) · pakinformation.com
+- [pakinformation.com - Saman Sarkar Express time table](https://www.pakinformation.com/railway-timings/saman-sarkar-express.html) · pakinformation.com
+- [pakinformation.com - Shah Latif Express time table](https://www.pakinformation.com/railway-timings/shah-latif-express.html) · pakinformation.com
+- [pakinformation.com - Shaheen Passenger time table](https://www.pakinformation.com/railway-timings/shaheen-passenger.html) · pakinformation.com
+- [pakinformation.com - Shalimar Express time table](https://www.pakinformation.com/railway-timings/shalimar-express.html) · pakinformation.com
+- [Wikipedia - Shalimar Express (Pakistan)](https://en.wikipedia.org/wiki/Shalimar_Express_(Pakistan)) · Wikipedia
+- [pakinformation.com - Subak Kharam time table](https://www.pakinformation.com/railway-timings/subak-khram.html) · pakinformation.com
+- [Wikipedia - Subak Kharam](https://en.wikipedia.org/wiki/Subak_Kharam) · Wikipedia
+- [OpenStreetMap route relation 19846006 (ODbL, (c) OpenStreetMap contributors)](https://www.openstreetmap.org/relation/19846006) · OpenStreetMap contributors
+- [pakinformation.com - Subak Raftar time table](https://www.pakinformation.com/railway-timings/subak-raftar.html) · pakinformation.com
+- [Wikipedia - Subak Raftar](https://en.wikipedia.org/wiki/Subak_Raftar) · Wikipedia
+- [OpenStreetMap route relation 19828022 (ODbL, (c) OpenStreetMap contributors)](https://www.openstreetmap.org/relation/19828022) · OpenStreetMap contributors
+- [pakinformation.com - Sukkur Express time table](https://www.pakinformation.com/railway-timings/sukkur-express.html) · pakinformation.com
+- [Wikipedia - Sukkur Express](https://en.wikipedia.org/wiki/Sukkur_Express) · Wikipedia
+- [pakinformation.com - Tezgam time table](https://www.pakinformation.com/railway-timings/tezgam.html) · pakinformation.com
+- [Wikipedia - Tezgam](https://en.wikipedia.org/wiki/Tezgam) · Wikipedia
+- [pakinformation.com - Thall Express time table](https://www.pakinformation.com/railway-timings/thal-mianwali-express.html) · pakinformation.com
+- [pakinformation.com - Narowal Passenger time table](https://www.pakinformation.com/railway-timings/narowal-passenger.html) · pakinformation.com
+- [pakinformation.com - Kohat Express time table](https://www.pakinformation.com/railway-timings/kohat-express.html) · pakinformation.com
+- [Wikipedia - Kohat Express](https://en.wikipedia.org/wiki/Kohat_Express) · Wikipedia
+- [pakinformation.com - Rehman Baba Express time table](https://www.pakinformation.com/railway-timings/rehman-baba-express.html) · pakinformation.com
+- [Wikipedia - Rehman Baba Express](https://en.wikipedia.org/wiki/Rehman_Baba_Express) · Wikipedia
+- [pakinformation.com - Mohinjo Daro Passenger time table](https://www.pakinformation.com/railway-timings/mohenjo-daro-express.html) · pakinformation.com
+- [pakinformation.com - PDK Shuttle time table](https://www.pakinformation.com/railway-timings/pdk-shuttle.html) · pakinformation.com
+- [pakinformation.com - Pak Business Express time table](https://www.pakinformation.com/railway-timings/pak-business-express.html) · pakinformation.com
+- [Wikipedia - Pak Business Express](https://en.wikipedia.org/wiki/Pak_Business_Express) · Wikipedia
+- [pakinformation.com - Jinnah Express time table](https://www.pakinformation.com/railway-timings/jinnah-express.html) · pakinformation.com
+- [pakinformation.com - Sir Sayyed Express time table](https://www.pakinformation.com/railway-timings/sir-syed-express.html) · pakinformation.com
+- [pakinformation.com - Mianwali Express time table](https://www.pakinformation.com/railway-timings/mianwali-express.html) · pakinformation.com
+- [Wikipedia - Mianwali Express](https://en.wikipedia.org/wiki/Mianwali_Express) · Wikipedia
+
 ## Green Electric Bus Pakpattan (pakpattan)
 
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
@@ -699,6 +973,12 @@ Generated 2026-09-21 from `data/systems`. Facts (route numbers, stop names, fare
 - [safar.fyi Pakpattan route](https://www.safar.fyi/pakpattan/transit-lines/pkp%3A90)
 - [safar.fyi Pakpattan route](https://www.safar.fyi/pakpattan/transit-lines/pkp%3A89)
 - [safar.fyi Pakpattan route](https://www.safar.fyi/pakpattan/transit-lines/pkp%3A88)
+
+## Peshawar private wagons and minibuses (peshawar)
+
+- [Urbanscape: A farewell to wagons](https://www.dawn.com/news/1496631) · Dawn (Sohail Khattak) · 2019-07-28
+- [Peshawar fare increase (Peshawar se mukhtalif shehron ke kirayon mein izafa)](https://jang.com.pk/news/1564243) · Daily Jang · 2026-03-12
+- [New fares announced for passenger vehicles in Peshawar](https://mmnews.tv/new-fares-announced-for-passenger-vehicles-in-peshawar/) · MM News · 2026-08-13
 
 ## Zu Peshawar (TransPeshawar BRT) (peshawar)
 

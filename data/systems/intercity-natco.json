@@ -1,0 +1,1417 @@
+{
+  "id": "intercity-natco",
+  "city": "intercity",
+  "name": "NATCO",
+  "name_ur": "",
+  "operator": "Northern Areas Transport Corporation (Govt of Pakistan / Gilgit-Baltistan)",
+  "mode": "intercity_bus",
+  "website": "https://natco.gov.pk",
+  "helpline": "051-9334556 (Rawalpindi); 05811-920435 (Gilgit)",
+  "payment": "cash at terminal, online booking (Bookme-powered)",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "Fares vary by bus type (Hino, Daewoo, Yutong). No official fare list published.",
+    "as_of": "2026-09-21",
+    "source_url": "https://natco.gov.pk/times"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "NATCO online booking and route list",
+      "url": "https://natco.gov.pk",
+      "publisher": "NATCO",
+      "date": "2026-09-21",
+      "official": true
+    },
+    {
+      "title": "NATCO contact page (terminal phones)",
+      "url": "https://natco.gov.pk/contact",
+      "publisher": "NATCO",
+      "date": "2026-09-21",
+      "official": true
+    },
+    {
+      "title": "NATCO official Facebook (Pir Wadhai terminal)",
+      "url": "https://www.facebook.com/NATCOGBOFFICIAL",
+      "publisher": "NATCO",
+      "date": null,
+      "official": true
+    },
+    {
+      "title": "NATCO Booking Office, Pirwadhai (directory)",
+      "url": "https://pk.asiafirms.com/punjab/natco-booking-office-751494.html",
+      "publisher": "asiafirms",
+      "date": null,
+      "official": false
+    },
+    {
+      "title": "China-Pak bus service Kashgar-Gilgit resumes",
+      "url": "https://www.nation.com.pk/08-Mar-2025/china-pak-two-way-bus-service-between-kashgar-gilgit-resumes",
+      "publisher": "The Nation",
+      "date": "2025-03-08",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "NT-RWP-GLT",
+      "name": "Rawalpindi - Gilgit",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 4000,
+        "slabs": [],
+        "concessions": "Hino Rs 4,000 (14:00); Yutong Rs 5,000 (15:00). Gilgit-Rawalpindi: Daewoo Rs 4,450 (10:00), Yutong Rs 5,500 (11:00).",
+        "as_of": "2026-09-21",
+        "source_url": "https://natco.gov.pk/times"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Terminal, Pir Wadhai Bus Stand, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6380327,
+          "lon": 73.0254278,
+          "coord_source": "osm:way/304775523",
+          "is_station": true
+        },
+        {
+          "name": "Hasan Abdal",
+          "name_ur": "",
+          "lat": 33.826796,
+          "lon": 72.699076,
+          "coord_source": "auto:nominatim:node/2424054019",
+          "is_station": false
+        },
+        {
+          "name": "Haripur",
+          "name_ur": "",
+          "lat": 33.994489,
+          "lon": 72.933174,
+          "coord_source": "auto:nominatim:node/299277405",
+          "is_station": false
+        },
+        {
+          "name": "Abbottabad",
+          "name_ur": "",
+          "lat": 34.143614,
+          "lon": 73.213275,
+          "coord_source": "auto:nominatim:node/114141293",
+          "is_station": false
+        },
+        {
+          "name": "Mansehra",
+          "name_ur": "",
+          "lat": 34.328685,
+          "lon": 73.199313,
+          "coord_source": "auto:nominatim:way/235475302",
+          "is_station": false
+        },
+        {
+          "name": "Battagram",
+          "name_ur": "",
+          "lat": 34.599701,
+          "lon": 72.995147,
+          "coord_source": "auto:photon:W/477937005",
+          "is_station": false
+        },
+        {
+          "name": "Thakot",
+          "name_ur": "",
+          "lat": 34.786356,
+          "lon": 72.928611,
+          "coord_source": "auto:nominatim:node/299075890",
+          "is_station": false
+        },
+        {
+          "name": "Besham",
+          "name_ur": "",
+          "lat": 34.920865,
+          "lon": 72.873605,
+          "coord_source": "auto:photon:N/13363660702",
+          "is_station": false
+        },
+        {
+          "name": "Pattan",
+          "name_ur": "",
+          "lat": 35.110215,
+          "lon": 73.005215,
+          "coord_source": "auto:nominatim:node/740166697",
+          "is_station": false
+        },
+        {
+          "name": "Dassu",
+          "name_ur": "",
+          "lat": 35.268642,
+          "lon": 73.224011,
+          "coord_source": "auto:nominatim:node/740162446",
+          "is_station": false
+        },
+        {
+          "name": "Chilas",
+          "name_ur": "",
+          "lat": 35.419503,
+          "lon": 74.096314,
+          "coord_source": "auto:nominatim:node/275277859",
+          "is_station": false
+        },
+        {
+          "name": "NATCO Bus Station, Jutial, Gilgit",
+          "name_ur": "",
+          "lat": 35.8986959,
+          "lon": 74.3697225,
+          "coord_source": "osm:node/4006881141",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "NATCO online booking (route list)",
+          "url": "https://natco.gov.pk"
+        },
+        {
+          "title": "NATCO timetable search, 25 Sep 2026",
+          "url": "https://natco.gov.pk/times"
+        }
+      ],
+      "notes": "Intermediate stops are the KKH/Hazara stops NATCO sells from Gilgit (Hasan Abdal ... Chilas), put in geographic order; NATCO does not publish stop order. Jaglot is not a listed stop. Live search showed 2 departures each way on 25 Sep 2026. Journey time not published (about 18-24h by KKH)."
+    },
+    {
+      "id": "NT-RWP-HNZ",
+      "name": "Rawalpindi - Hunza (Aliabad)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 4900,
+        "slabs": [],
+        "concessions": "Hino, 14:00 departure.",
+        "as_of": "2026-09-21",
+        "source_url": "https://natco.gov.pk/times"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Terminal, Pir Wadhai Bus Stand, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6380327,
+          "lon": 73.0254278,
+          "coord_source": "osm:way/304775523",
+          "is_station": true
+        },
+        {
+          "name": "Hasan Abdal",
+          "name_ur": "",
+          "lat": 33.826796,
+          "lon": 72.699076,
+          "coord_source": "auto:nominatim:node/2424054019",
+          "is_station": false
+        },
+        {
+          "name": "Haripur",
+          "name_ur": "",
+          "lat": 33.994489,
+          "lon": 72.933174,
+          "coord_source": "auto:nominatim:node/299277405",
+          "is_station": false
+        },
+        {
+          "name": "Abbottabad",
+          "name_ur": "",
+          "lat": 34.143614,
+          "lon": 73.213275,
+          "coord_source": "auto:nominatim:node/114141293",
+          "is_station": false
+        },
+        {
+          "name": "Mansehra",
+          "name_ur": "",
+          "lat": 34.328685,
+          "lon": 73.199313,
+          "coord_source": "auto:nominatim:way/235475302",
+          "is_station": false
+        },
+        {
+          "name": "Battagram",
+          "name_ur": "",
+          "lat": 34.599701,
+          "lon": 72.995147,
+          "coord_source": "auto:photon:W/477937005",
+          "is_station": false
+        },
+        {
+          "name": "Thakot",
+          "name_ur": "",
+          "lat": 34.786356,
+          "lon": 72.928611,
+          "coord_source": "auto:nominatim:node/299075890",
+          "is_station": false
+        },
+        {
+          "name": "Besham",
+          "name_ur": "",
+          "lat": 34.920865,
+          "lon": 72.873605,
+          "coord_source": "auto:photon:N/13363660702",
+          "is_station": false
+        },
+        {
+          "name": "Pattan",
+          "name_ur": "",
+          "lat": 35.110215,
+          "lon": 73.005215,
+          "coord_source": "auto:nominatim:node/740166697",
+          "is_station": false
+        },
+        {
+          "name": "Dassu",
+          "name_ur": "",
+          "lat": 35.268642,
+          "lon": 73.224011,
+          "coord_source": "auto:nominatim:node/740162446",
+          "is_station": false
+        },
+        {
+          "name": "Chilas",
+          "name_ur": "",
+          "lat": 35.419503,
+          "lon": 74.096314,
+          "coord_source": "auto:nominatim:node/275277859",
+          "is_station": false
+        },
+        {
+          "name": "NATCO Bus Station, Jutial, Gilgit",
+          "name_ur": "",
+          "lat": 35.8986959,
+          "lon": 74.3697225,
+          "coord_source": "osm:node/4006881141",
+          "is_station": true
+        },
+        {
+          "name": "NATCO Bus Station, Aliabad, Hunza",
+          "name_ur": "",
+          "lat": 36.300986,
+          "lon": 74.6078543,
+          "coord_source": "osm:node/5589662021",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "NATCO online booking (route list)",
+          "url": "https://natco.gov.pk"
+        },
+        {
+          "title": "NATCO timetable search, 25 Sep 2026",
+          "url": "https://natco.gov.pk/times"
+        }
+      ],
+      "notes": "Intermediate stops are the KKH/Hazara stops NATCO sells from Gilgit (Hasan Abdal ... Chilas), put in geographic order; NATCO does not publish stop order. Jaglot is not a listed stop."
+    },
+    {
+      "id": "NT-RWP-CLS",
+      "name": "Rawalpindi - Chilas",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 3700,
+        "slabs": [],
+        "concessions": "Yutong, 15:00 departure.",
+        "as_of": "2026-09-21",
+        "source_url": "https://natco.gov.pk/times"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Terminal, Pir Wadhai Bus Stand, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6380327,
+          "lon": 73.0254278,
+          "coord_source": "osm:way/304775523",
+          "is_station": true
+        },
+        {
+          "name": "Hasan Abdal",
+          "name_ur": "",
+          "lat": 33.826796,
+          "lon": 72.699076,
+          "coord_source": "auto:nominatim:node/2424054019",
+          "is_station": false
+        },
+        {
+          "name": "Haripur",
+          "name_ur": "",
+          "lat": 33.994489,
+          "lon": 72.933174,
+          "coord_source": "auto:nominatim:node/299277405",
+          "is_station": false
+        },
+        {
+          "name": "Abbottabad",
+          "name_ur": "",
+          "lat": 34.143614,
+          "lon": 73.213275,
+          "coord_source": "auto:nominatim:node/114141293",
+          "is_station": false
+        },
+        {
+          "name": "Mansehra",
+          "name_ur": "",
+          "lat": 34.328685,
+          "lon": 73.199313,
+          "coord_source": "auto:nominatim:way/235475302",
+          "is_station": false
+        },
+        {
+          "name": "Battagram",
+          "name_ur": "",
+          "lat": 34.599701,
+          "lon": 72.995147,
+          "coord_source": "auto:photon:W/477937005",
+          "is_station": false
+        },
+        {
+          "name": "Thakot",
+          "name_ur": "",
+          "lat": 34.786356,
+          "lon": 72.928611,
+          "coord_source": "auto:nominatim:node/299075890",
+          "is_station": false
+        },
+        {
+          "name": "Besham",
+          "name_ur": "",
+          "lat": 34.920865,
+          "lon": 72.873605,
+          "coord_source": "auto:photon:N/13363660702",
+          "is_station": false
+        },
+        {
+          "name": "Pattan",
+          "name_ur": "",
+          "lat": 35.110215,
+          "lon": 73.005215,
+          "coord_source": "auto:nominatim:node/740166697",
+          "is_station": false
+        },
+        {
+          "name": "Dassu",
+          "name_ur": "",
+          "lat": 35.268642,
+          "lon": 73.224011,
+          "coord_source": "auto:nominatim:node/740162446",
+          "is_station": false
+        },
+        {
+          "name": "Chilas",
+          "name_ur": "",
+          "lat": 35.419503,
+          "lon": 74.096314,
+          "coord_source": "auto:nominatim:node/275277859",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "NATCO online booking (route list)",
+          "url": "https://natco.gov.pk"
+        },
+        {
+          "title": "NATCO timetable search, 25 Sep 2026",
+          "url": "https://natco.gov.pk/times"
+        }
+      ],
+      "notes": "Intermediate stops are the KKH/Hazara stops NATCO sells from Gilgit (Hasan Abdal ... Chilas), put in geographic order; NATCO does not publish stop order. Jaglot is not a listed stop."
+    },
+    {
+      "id": "NT-RWP-KHI",
+      "name": "Rawalpindi - Karachi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 6500,
+        "slabs": [],
+        "concessions": "49-seat Yutong, 10:30 departure.",
+        "as_of": "2026-09-21",
+        "source_url": "https://natco.gov.pk/times"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Terminal, Pir Wadhai Bus Stand, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6380327,
+          "lon": 73.0254278,
+          "coord_source": "osm:way/304775523",
+          "is_station": true
+        },
+        {
+          "name": "NATCO booking point, Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "NATCO online booking (route list)",
+          "url": "https://natco.gov.pk"
+        },
+        {
+          "title": "NATCO timetable search, 25 Sep 2026",
+          "url": "https://natco.gov.pk/times"
+        }
+      ],
+      "notes": "Intermediate stops not published."
+    },
+    {
+      "id": "NT-RWP-SKD",
+      "name": "Rawalpindi - Skardu",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Terminal, Pir Wadhai Bus Stand, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6380327,
+          "lon": 73.0254278,
+          "coord_source": "osm:way/304775523",
+          "is_station": true
+        },
+        {
+          "name": "Hasan Abdal",
+          "name_ur": "",
+          "lat": 33.826796,
+          "lon": 72.699076,
+          "coord_source": "auto:nominatim:node/2424054019",
+          "is_station": false
+        },
+        {
+          "name": "Haripur",
+          "name_ur": "",
+          "lat": 33.994489,
+          "lon": 72.933174,
+          "coord_source": "auto:nominatim:node/299277405",
+          "is_station": false
+        },
+        {
+          "name": "Abbottabad",
+          "name_ur": "",
+          "lat": 34.143614,
+          "lon": 73.213275,
+          "coord_source": "auto:nominatim:node/114141293",
+          "is_station": false
+        },
+        {
+          "name": "Mansehra",
+          "name_ur": "",
+          "lat": 34.328685,
+          "lon": 73.199313,
+          "coord_source": "auto:nominatim:way/235475302",
+          "is_station": false
+        },
+        {
+          "name": "Battagram",
+          "name_ur": "",
+          "lat": 34.599701,
+          "lon": 72.995147,
+          "coord_source": "auto:photon:W/477937005",
+          "is_station": false
+        },
+        {
+          "name": "Thakot",
+          "name_ur": "",
+          "lat": 34.786356,
+          "lon": 72.928611,
+          "coord_source": "auto:nominatim:node/299075890",
+          "is_station": false
+        },
+        {
+          "name": "Besham",
+          "name_ur": "",
+          "lat": 34.920865,
+          "lon": 72.873605,
+          "coord_source": "auto:photon:N/13363660702",
+          "is_station": false
+        },
+        {
+          "name": "Pattan",
+          "name_ur": "",
+          "lat": 35.110215,
+          "lon": 73.005215,
+          "coord_source": "auto:nominatim:node/740166697",
+          "is_station": false
+        },
+        {
+          "name": "Dassu",
+          "name_ur": "",
+          "lat": 35.268642,
+          "lon": 73.224011,
+          "coord_source": "auto:nominatim:node/740162446",
+          "is_station": false
+        },
+        {
+          "name": "Chilas",
+          "name_ur": "",
+          "lat": 35.419503,
+          "lon": 74.096314,
+          "coord_source": "auto:nominatim:node/275277859",
+          "is_station": false
+        },
+        {
+          "name": "NATCO Terminal, Skardu",
+          "name_ur": "",
+          "lat": 35.28713,
+          "lon": 75.65531,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "NATCO online booking (route list)",
+          "url": "https://natco.gov.pk"
+        },
+        {
+          "title": "NATCO timetable search, 25 Sep 2026",
+          "url": "https://natco.gov.pk/times"
+        }
+      ],
+      "notes": "Intermediate stops are the KKH/Hazara stops NATCO sells from Gilgit (Hasan Abdal ... Chilas), put in geographic order; NATCO does not publish stop order. Jaglot is not a listed stop. Listed on natco.gov.pk but the live search for 22 and 25 Sep 2026 returned no trips."
+    },
+    {
+      "id": "NT-RWP-GAH",
+      "name": "Rawalpindi - Gahkuch",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Terminal, Pir Wadhai Bus Stand, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6380327,
+          "lon": 73.0254278,
+          "coord_source": "osm:way/304775523",
+          "is_station": true
+        },
+        {
+          "name": "Gahkuch",
+          "name_ur": "",
+          "lat": 36.179819,
+          "lon": 73.767848,
+          "coord_source": "auto:nominatim:node/3997322931",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "NATCO online booking (route list)",
+          "url": "https://natco.gov.pk"
+        }
+      ],
+      "notes": "Route listed as active on natco.gov.pk (schedule window 2026-09-20 to 2026-10-20); no fare or times retrieved; intermediate stops not published."
+    },
+    {
+      "id": "NT-RWP-KHA",
+      "name": "Rawalpindi - Khaplu",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Terminal, Pir Wadhai Bus Stand, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6380327,
+          "lon": 73.0254278,
+          "coord_source": "osm:way/304775523",
+          "is_station": true
+        },
+        {
+          "name": "Khaplu",
+          "name_ur": "",
+          "lat": 35.163499,
+          "lon": 76.344152,
+          "coord_source": "auto:nominatim:node/298946774",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "NATCO online booking (route list)",
+          "url": "https://natco.gov.pk"
+        }
+      ],
+      "notes": "Route listed as active on natco.gov.pk (schedule window 2026-09-20 to 2026-10-20); no fare or times retrieved; intermediate stops not published."
+    },
+    {
+      "id": "NT-RWP-AST",
+      "name": "Rawalpindi - Astore",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Terminal, Pir Wadhai Bus Stand, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6380327,
+          "lon": 73.0254278,
+          "coord_source": "osm:way/304775523",
+          "is_station": true
+        },
+        {
+          "name": "Astore",
+          "name_ur": "",
+          "lat": 35.35662,
+          "lon": 74.85698,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "NATCO online booking (route list)",
+          "url": "https://natco.gov.pk"
+        }
+      ],
+      "notes": "Route listed as active on natco.gov.pk (schedule window 2026-09-20 to 2026-10-20); no fare or times retrieved; intermediate stops not published."
+    },
+    {
+      "id": "NT-RWP-DAR",
+      "name": "Rawalpindi - Darel",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Terminal, Pir Wadhai Bus Stand, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6380327,
+          "lon": 73.0254278,
+          "coord_source": "osm:way/304775523",
+          "is_station": true
+        },
+        {
+          "name": "Darel",
+          "name_ur": "",
+          "lat": 35.662073,
+          "lon": 73.617644,
+          "coord_source": "auto:nominatim:node/11300068579",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "NATCO online booking (route list)",
+          "url": "https://natco.gov.pk"
+        }
+      ],
+      "notes": "Route listed as active on natco.gov.pk (schedule window 2026-09-20 to 2026-10-20); no fare or times retrieved; intermediate stops not published."
+    },
+    {
+      "id": "NT-RWP-TAN",
+      "name": "Rawalpindi - Tangir",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Terminal, Pir Wadhai Bus Stand, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6380327,
+          "lon": 73.0254278,
+          "coord_source": "osm:way/304775523",
+          "is_station": true
+        },
+        {
+          "name": "Tangir",
+          "name_ur": "",
+          "lat": 35.6381,
+          "lon": 73.453642,
+          "coord_source": "auto:nominatim:node/11296711726",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "NATCO online booking (route list)",
+          "url": "https://natco.gov.pk"
+        }
+      ],
+      "notes": "Route listed as active on natco.gov.pk (schedule window 2026-09-20 to 2026-10-20); no fare or times retrieved; intermediate stops not published."
+    },
+    {
+      "id": "NT-RWP-DAN",
+      "name": "Rawalpindi - Danyor",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Terminal, Pir Wadhai Bus Stand, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6380327,
+          "lon": 73.0254278,
+          "coord_source": "osm:way/304775523",
+          "is_station": true
+        },
+        {
+          "name": "Danyor",
+          "name_ur": "",
+          "lat": 35.920459,
+          "lon": 74.378261,
+          "coord_source": "auto:photon:R/16568067",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "NATCO online booking (route list)",
+          "url": "https://natco.gov.pk"
+        }
+      ],
+      "notes": "Route listed as active on natco.gov.pk (schedule window 2026-09-20 to 2026-10-20); no fare or times retrieved; intermediate stops not published."
+    },
+    {
+      "id": "NT-RWP-GUL",
+      "name": "Rawalpindi - Gulmit",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Terminal, Pir Wadhai Bus Stand, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6380327,
+          "lon": 73.0254278,
+          "coord_source": "osm:way/304775523",
+          "is_station": true
+        },
+        {
+          "name": "Gulmit",
+          "name_ur": "",
+          "lat": 36.387894,
+          "lon": 74.862464,
+          "coord_source": "auto:nominatim:node/271958121",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "NATCO online booking (route list)",
+          "url": "https://natco.gov.pk"
+        }
+      ],
+      "notes": "Route listed as active on natco.gov.pk (schedule window 2026-09-20 to 2026-10-20); no fare or times retrieved; intermediate stops not published."
+    },
+    {
+      "id": "NT-RWP-SIK",
+      "name": "Rawalpindi - Sikandrabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Terminal, Pir Wadhai Bus Stand, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6380327,
+          "lon": 73.0254278,
+          "coord_source": "osm:way/304775523",
+          "is_station": true
+        },
+        {
+          "name": "Sikandrabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "NATCO online booking (route list)",
+          "url": "https://natco.gov.pk"
+        }
+      ],
+      "notes": "Route listed as active on natco.gov.pk (schedule window 2026-09-20 to 2026-10-20); no fare or times retrieved; intermediate stops not published."
+    },
+    {
+      "id": "NT-RWP-NAR",
+      "name": "Rawalpindi - Naran",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Terminal, Pir Wadhai Bus Stand, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6380327,
+          "lon": 73.0254278,
+          "coord_source": "osm:way/304775523",
+          "is_station": true
+        },
+        {
+          "name": "Naran",
+          "name_ur": "",
+          "lat": 34.9093,
+          "lon": 73.6507,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "NATCO online booking (route list)",
+          "url": "https://natco.gov.pk"
+        }
+      ],
+      "notes": "Route listed as active on natco.gov.pk (schedule window 2026-09-20 to 2026-10-20); no fare or times retrieved; intermediate stops not published."
+    },
+    {
+      "id": "NT-RWP-LHR",
+      "name": "Rawalpindi - Lahore",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Terminal, Pir Wadhai Bus Stand, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6380327,
+          "lon": 73.0254278,
+          "coord_source": "osm:way/304775523",
+          "is_station": true
+        },
+        {
+          "name": "NATCO booking point, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "NATCO online booking (route list)",
+          "url": "https://natco.gov.pk"
+        }
+      ],
+      "notes": "Listed on natco.gov.pk; no fare or times retrieved."
+    },
+    {
+      "id": "NT-GLT-KHI",
+      "name": "Gilgit - Karachi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Bus Station, Jutial, Gilgit",
+          "name_ur": "",
+          "lat": 35.8986959,
+          "lon": 74.3697225,
+          "coord_source": "osm:node/4006881141",
+          "is_station": true
+        },
+        {
+          "name": "Chilas",
+          "name_ur": "",
+          "lat": 35.419503,
+          "lon": 74.096314,
+          "coord_source": "auto:nominatim:node/275277859",
+          "is_station": false
+        },
+        {
+          "name": "Dassu",
+          "name_ur": "",
+          "lat": 35.268642,
+          "lon": 73.224011,
+          "coord_source": "auto:nominatim:node/740162446",
+          "is_station": false
+        },
+        {
+          "name": "Pattan",
+          "name_ur": "",
+          "lat": 35.110215,
+          "lon": 73.005215,
+          "coord_source": "auto:nominatim:node/740166697",
+          "is_station": false
+        },
+        {
+          "name": "Besham",
+          "name_ur": "",
+          "lat": 34.920865,
+          "lon": 72.873605,
+          "coord_source": "auto:photon:N/13363660702",
+          "is_station": false
+        },
+        {
+          "name": "Thakot",
+          "name_ur": "",
+          "lat": 34.786356,
+          "lon": 72.928611,
+          "coord_source": "auto:nominatim:node/299075890",
+          "is_station": false
+        },
+        {
+          "name": "Battagram",
+          "name_ur": "",
+          "lat": 34.599701,
+          "lon": 72.995147,
+          "coord_source": "auto:photon:W/477937005",
+          "is_station": false
+        },
+        {
+          "name": "Mansehra",
+          "name_ur": "",
+          "lat": 34.328685,
+          "lon": 73.199313,
+          "coord_source": "auto:nominatim:way/235475302",
+          "is_station": false
+        },
+        {
+          "name": "Abbottabad",
+          "name_ur": "",
+          "lat": 34.143614,
+          "lon": 73.213275,
+          "coord_source": "auto:nominatim:node/114141293",
+          "is_station": false
+        },
+        {
+          "name": "Haripur",
+          "name_ur": "",
+          "lat": 33.994489,
+          "lon": 72.933174,
+          "coord_source": "auto:nominatim:node/299277405",
+          "is_station": false
+        },
+        {
+          "name": "Hasan Abdal",
+          "name_ur": "",
+          "lat": 33.826796,
+          "lon": 72.699076,
+          "coord_source": "auto:nominatim:node/2424054019",
+          "is_station": false
+        },
+        {
+          "name": "Mianwali",
+          "name_ur": "",
+          "lat": 32.5794,
+          "lon": 71.5353,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Sadiqabad",
+          "name_ur": "",
+          "lat": 28.3091,
+          "lon": 70.1307,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Sukkur",
+          "name_ur": "",
+          "lat": 27.7052,
+          "lon": 68.8574,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Ranipur",
+          "name_ur": "",
+          "lat": 27.287029,
+          "lon": 68.50438,
+          "coord_source": "auto:nominatim:node/89419829",
+          "is_station": false
+        },
+        {
+          "name": "Moro",
+          "name_ur": "",
+          "lat": 26.73334,
+          "lon": 67.987892,
+          "coord_source": "auto:nominatim:relation/16417589",
+          "is_station": false
+        },
+        {
+          "name": "Hyderabad",
+          "name_ur": "",
+          "lat": 25.386829,
+          "lon": 68.371497,
+          "coord_source": "auto:photon:R/16362308",
+          "is_station": false
+        },
+        {
+          "name": "NATCO booking point, Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "NATCO online booking (route list)",
+          "url": "https://natco.gov.pk"
+        },
+        {
+          "title": "bookme.pk NATCO page (old fares)",
+          "url": "https://bookme.pk/natco-online-booking"
+        }
+      ],
+      "notes": "Stops = destinations NATCO sells from Gilgit, in geographic order (assumed). Old Bookme table gives Rs 13,000 (undated, stale)."
+    },
+    {
+      "id": "NT-HNZ-KHI",
+      "name": "Hunza - Karachi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Bus Station, Aliabad, Hunza",
+          "name_ur": "",
+          "lat": 36.300986,
+          "lon": 74.6078543,
+          "coord_source": "osm:node/5589662021",
+          "is_station": true
+        },
+        {
+          "name": "NATCO Bus Station, Jutial, Gilgit",
+          "name_ur": "",
+          "lat": 35.8986959,
+          "lon": 74.3697225,
+          "coord_source": "osm:node/4006881141",
+          "is_station": true
+        },
+        {
+          "name": "NATCO booking point, Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "NATCO online booking (route list)",
+          "url": "https://natco.gov.pk"
+        }
+      ],
+      "notes": "Listed on natco.gov.pk. Intermediate stops beyond Gilgit not published."
+    },
+    {
+      "id": "NT-SST-KHI",
+      "name": "Sost - Karachi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Bus Station, Karakoram Highway, Sost",
+          "name_ur": "",
+          "lat": 36.6906344,
+          "lon": 74.8207815,
+          "coord_source": "osm:node/4392668791",
+          "is_station": true
+        },
+        {
+          "name": "NATCO booking point, Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "NATCO online booking (route list)",
+          "url": "https://natco.gov.pk"
+        }
+      ],
+      "notes": "Listed on natco.gov.pk; stops not published."
+    },
+    {
+      "id": "NT-SST-TXK",
+      "name": "Sost - Tashkurgan (China)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Bus Station, Karakoram Highway, Sost",
+          "name_ur": "",
+          "lat": 36.6906344,
+          "lon": 74.8207815,
+          "coord_source": "osm:node/4392668791",
+          "is_station": true
+        },
+        {
+          "name": "Khunjerab Pass",
+          "name_ur": "",
+          "lat": 36.850099,
+          "lon": 75.428336,
+          "coord_source": "auto:photon:N/13681846537",
+          "is_station": false
+        },
+        {
+          "name": "Tashkurgan",
+          "name_ur": "",
+          "lat": 37.77082,
+          "lon": 75.22809,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "NATCO online booking (route list)",
+          "url": "https://natco.gov.pk"
+        }
+      ],
+      "notes": "Listed on natco.gov.pk but no trips returned for 25 Sep 2026. Khunjerab border normally open May-Dec."
+    },
+    {
+      "id": "NT-GLT-KSH",
+      "name": "Gilgit - Kashgar (China)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 698,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "unknown",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "RMB 455 per passenger (2025).",
+        "as_of": "2025-03-08",
+        "source_url": "https://www.nation.com.pk/08-Mar-2025/china-pak-two-way-bus-service-between-kashgar-gilgit-resumes"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "NATCO Bus Station, Jutial, Gilgit",
+          "name_ur": "",
+          "lat": 35.8986959,
+          "lon": 74.3697225,
+          "coord_source": "osm:node/4006881141",
+          "is_station": true
+        },
+        {
+          "name": "NATCO Bus Station, Karakoram Highway, Sost",
+          "name_ur": "",
+          "lat": 36.6906344,
+          "lon": 74.8207815,
+          "coord_source": "osm:node/4392668791",
+          "is_station": true
+        },
+        {
+          "name": "Khunjerab Pass",
+          "name_ur": "",
+          "lat": 36.850099,
+          "lon": 75.428336,
+          "coord_source": "auto:photon:N/13681846537",
+          "is_station": false
+        },
+        {
+          "name": "Tashkurgan",
+          "name_ur": "",
+          "lat": 37.77082,
+          "lon": 75.22809,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Kashgar",
+          "name_ur": "",
+          "lat": 39.4666,
+          "lon": 75.99001,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "The Nation: China-Pak two-way bus service between Kashgar and Gilgit resumes",
+          "url": "https://www.nation.com.pk/08-Mar-2025/china-pak-two-way-bus-service-between-kashgar-gilgit-resumes"
+        }
+      ],
+      "notes": "Joint NATCO / Kashgar Xinlu trial service from 8 Mar 2025: leaves Gilgit Mon/Tue/Fri 06:00 PKT, Kashgar Sun/Wed/Thu 15:00 Beijing time; about 24h. 2026 operation unconfirmed."
+    }
+  ],
+  "last_verified": "2026-09-21"
+}

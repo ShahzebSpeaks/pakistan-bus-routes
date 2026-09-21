@@ -1,0 +1,91 @@
+{
+  "id": "peshawar-private-wagons",
+  "city": "peshawar",
+  "name": "Peshawar private wagons and minibuses",
+  "name_ur": "",
+  "operator": "Private operators (route permits by RTA Peshawar)",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "RTA per-km rates reported Mar 2026: minibus/wagon Rs 3.51/km (was 2.88); 50% off for students, blind/disabled, over-60s. No per-route intracity table found.",
+    "as_of": "2026-03",
+    "source_url": "https://jang.com.pk/news/1564243"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Urbanscape: A farewell to wagons",
+      "url": "https://www.dawn.com/news/1496631",
+      "publisher": "Dawn (Sohail Khattak)",
+      "date": "2019-07-28",
+      "official": false
+    },
+    {
+      "title": "Peshawar fare increase (Peshawar se mukhtalif shehron ke kirayon mein izafa)",
+      "url": "https://jang.com.pk/news/1564243",
+      "publisher": "Daily Jang",
+      "date": "2026-03-12",
+      "official": false
+    },
+    {
+      "title": "New fares announced for passenger vehicles in Peshawar",
+      "url": "https://mmnews.tv/new-fares-announced-for-passenger-vehicles-in-peshawar/",
+      "publisher": "MM News",
+      "date": "2026-08-13",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "FORD-HAJICAMP-KARKHANO",
+      "name": "Haji Camp - Karkhano Market",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "historical",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Haji Camp (bus stand)",
+          "name_ur": "",
+          "lat": 33.969219,
+          "lon": 71.424004,
+          "coord_source": "auto:nominatim:node/9566196523",
+          "is_station": false
+        },
+        {
+          "name": "Karkhano Market",
+          "name_ur": "",
+          "lat": 33.998628,
+          "lon": 71.424946,
+          "coord_source": "osm:way/906519844",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Urbanscape: A farewell to wagons",
+          "url": "https://www.dawn.com/news/1496631"
+        }
+      ],
+      "notes": "Ford wagon route, 40+ years old; ran via Khyber Road until ~2000, then via Sher Shah Suri Road joining University Road at Gora Qabristan. Dawn (Jul 2019): about 640 wagons, down to ~200, being withdrawn with compensation for the Peshawar BRT; probably no longer running. Karkhano Market coordinate is the OSM BRT-station way used in peshawar-sindh-quetta.json. Wagons were withdrawn from the BRT corridor from 2019; kept as an old route."
+    }
+  ],
+  "last_verified": "2026-09-21"
+}

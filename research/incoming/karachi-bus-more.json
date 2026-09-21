@@ -1,0 +1,1973 @@
+{
+  "assignment": "karachi-bus-more",
+  "researched_on": "2026-09-21",
+  "systems": [
+    {
+      "id": "karachi-minibus",
+      "city": "karachi",
+      "name": "Private minibuses and coaches",
+      "name_ur": "نجی منی بسیں اور کوچز",
+      "operator": "Private operators (routes from the Mnzil app, Zameen Blog and the Zenodo Karachi Bus Network dataset)",
+      "mode": "bus",
+      "website": null,
+      "helpline": null,
+      "payment": "Cash to the conductor",
+      "fare_rules": {
+        "type": "distance_slab",
+        "currency": "PKR",
+        "slabs": [
+          {
+            "up_to_km": 10,
+            "fare": 40
+          },
+          {
+            "up_to_km": 30,
+            "fare": 70
+          },
+          {
+            "up_to_km": null,
+            "fare": 110
+          }
+        ],
+        "concessions": "Official provisional fares, notified 4 April 2026: large bus Rs 40 up to 10 km, Rs 70 up to 30 km, Rs 110 above that. Minibus and coach: Rs 50, Rs 80 and Rs 120 for the same distances. The notice says fares remain as they were before 27 February 2026. Route lists for private services are not published officially; help add them.",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intracity.jpeg"
+      },
+      "hours": null,
+      "last_verified": "2026-09-21",
+      "sources": [
+        {
+          "title": "Mnzil Karachi route finder, vehicle pages (listed in https://www.mnzil.app/api/sitemap)",
+          "url": "https://mnzil.app/vehicles",
+          "publisher": "Cheeltech (mnzil.app)",
+          "date": "2026-09-21",
+          "official": false
+        },
+        {
+          "title": "Public Transport in Karachi – 2023 Updates",
+          "url": "https://www.zameen.com/blog/public-transport-karachi.html",
+          "publisher": "Zameen.com Blog",
+          "date": "2023-02-23",
+          "official": false
+        },
+        {
+          "title": "Karachi Bus Network",
+          "url": "https://doi.org/10.5281/zenodo.13951512",
+          "publisher": "Pasta, Khan, Aslam (Habib University), Zenodo, CC-BY-4.0",
+          "date": "2024-10-18",
+          "official": false
+        }
+      ],
+      "routes": [
+        {
+          "id": "51-A",
+          "name": "Lee Market - Ghaghar Phatak - Bin Qasim Town",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Lee Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Garden",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Numaish Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "peoples secretariat",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Islamia College – New M.A Jinnah Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "New Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Liaquat national Hospital",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Aga Khan Hospital",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "National Stadium",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dalmia Shanti Nagar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Millennium Mall",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Drigh Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Natha Khan",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shah Faisal Colony Gate",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Star Gate - Shah Faisal Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Airport",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chota Gate - Shah Faisal Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Wireless Gate Bus Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Malir Halt",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kala Board Malir",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Malir 15",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Malir Court",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Murghi Khana",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Quaidabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Manzil Pump",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bacha Jail",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bhains Colony Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "FAST University - Bhains Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chaukhandi Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Abdullah Goth",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Razzaqabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Port Qasim Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Steel Mill Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gulshan e Hadeed",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Pipri Goth",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ghaghar Phatak - Bin Qasim Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Mnzil vehicle page 51A (schema.org BusTrip itinerary, fetched 2026-09-21)",
+              "url": "https://mnzil.app/vehicles/51A-"
+            }
+          ],
+          "notes": "Ordered stop list from the schema.org BusTrip itinerary embedded in the Mnzil vehicle page (fetched 2026-09-21). Unofficial app data; all rights reserved by Cheeltech, no licence stated (owner decided to include with attribution). One direction only. Mnzil labels it '51A'. Same number as 2010 URC route 51-A. It is Mnzil's route 51 (Ghaghar Phatak - Lee Market) in the opposite direction plus Razzaqabad and Bacha Jail, so it may be a branch or simply the return run of 51; kept separate because Mnzil lists it as its own vehicle."
+        },
+        {
+          "id": "D-3",
+          "name": "Nagan Chowrangi - Indus Hospital - Korangi",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Nagan Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shafiq Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Alnoor mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Happy Palace Grammar School",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Edhi Welfare Centre",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sohrab Goth",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sagheer Centre - FB Area",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lucky One Mall",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "UBL Sports Complex Bus Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Imtiaz Mega Store - Gulshan",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Moti mahal bus stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gulshan Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "NIPA Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Aladin Park",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Johar Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Millennium Mall",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Army Public School",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "COD PUBLIC SCHOOL",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Drigh Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shah Faisal Colony Gate",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Singer Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Korangi 5",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Korangi 4",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Korangi 3",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Korangi 2 ½",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gulzar Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Korangi 1",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nasir Jump",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "District Court Korangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Indus Hospital - Korangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Mnzil vehicle page D-3 (schema.org BusTrip itinerary, fetched 2026-09-21)",
+              "url": "https://mnzil.app/vehicles/D-3"
+            }
+          ],
+          "notes": "Ordered stop list from the schema.org BusTrip itinerary embedded in the Mnzil vehicle page (fetched 2026-09-21). Unofficial app data; all rights reserved by Cheeltech, no licence stated (owner decided to include with attribution). One direction only. Bus route D-3 (Mnzil also has a separate Chinchi D-3, Guru Mandir - Munawar Chowrangi, already in karachi-chinchi). Same number as 2010 URC D-3."
+        },
+        {
+          "id": "G-13",
+          "name": "Banaras Bus Stop - Karimabad - Meena Bazaar",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Banaras Bus Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Metro Cinema",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Abdullah Govt College for Women",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "KDA Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ziauddin Hospital - North Nazimabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Landi Kotal Chowrangi Roundabout",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Karimabad - Meena Bazaar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Mnzil vehicle page G-13 (schema.org BusTrip itinerary, fetched 2026-09-21)",
+              "url": "https://mnzil.app/vehicles/G-13"
+            }
+          ],
+          "notes": "Ordered stop list from the schema.org BusTrip itinerary embedded in the Mnzil vehicle page (fetched 2026-09-21). Unofficial app data; all rights reserved by Cheeltech, no licence stated (owner decided to include with attribution). One direction only. Only 7 stops listed on Mnzil; Zenodo/Habib University 2024 dataset has G-13 as Fareed Colony - Karachi University (14 stops), a different or longer alignment. Same number as 2010 URC G-13. Only 7 stop(s) listed, so stops_confidence is low."
+        },
+        {
+          "id": "Imran",
+          "name": "Hawksbay Beach - Qayyumabad",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Hawksbay Beach",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Younusabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Maripur Cycle Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Pakistan Marine Academy Maripur",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Truck Ada - Mauripur",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "PAF Masroor Base - Mauripur",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gulbai",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Agra Taj Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Machar Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "ICI Brigde",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Port Grand Karachi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kharadar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Tower",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bahria Complex 1",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "MT Khan Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lalazar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bahria Complex 2",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bahria Complex 3",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Clifton",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Boat Basin",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "KPT Underpass",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Submarine Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Punjab Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "DHA Phase 2",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gold Mark Shopping Mall 1",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "NADRA Mega Centre DHA",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Akhtar Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Defence Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Qayyumabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Mnzil vehicle page Imran (schema.org BusTrip itinerary, fetched 2026-09-21)",
+              "url": "https://mnzil.app/vehicles/Imran"
+            }
+          ],
+          "notes": "Ordered stop list from the schema.org BusTrip itinerary embedded in the Mnzil vehicle page (fetched 2026-09-21). Unofficial app data; all rights reserved by Cheeltech, no licence stated (owner decided to include with attribution). One direction only. Named coach service ('Imran'); not in the 2010 URC list or our current file."
+        },
+        {
+          "id": "P-3",
+          "name": "Shireen Jinnah Colony - Abdullah Mor - Surjani",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Shireen Jinnah Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Masan Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Keamari",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jackson Market - keamari",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Port Grand Karachi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Tower",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kharadar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khajor Bazar - Lee Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lee Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ranchore Line",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Garden",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jamat Kahana Signal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lasbela",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Teen Hatti",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Liaquatabad No.10 - Lalukhet",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Karimabad - Meena Bazaar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Water Pump",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gulberg Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nagan Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "UP Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Power House Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "2 Minute Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kala School Bus Stop - New Karachi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Abdullah Mor - Surjani",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Mnzil vehicle page P-3 (schema.org BusTrip itinerary, fetched 2026-09-21)",
+              "url": "https://mnzil.app/vehicles/P-3"
+            }
+          ],
+          "notes": "Ordered stop list from the schema.org BusTrip itinerary embedded in the Mnzil vehicle page (fetched 2026-09-21). Unofficial app data; all rights reserved by Cheeltech, no licence stated (owner decided to include with attribution). One direction only. Same number as 2010 URC P-3."
+        },
+        {
+          "id": "S-2",
+          "name": "Korangi Coast Guard - Godhra",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Korangi Coast Guard",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Korangi 2 ½",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Korangi 2",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Korangi 1",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nasir Jump",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Korangi Crossing Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Qayyumabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Defence phase 2",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Tariq Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Naheed Supermarket - Main Shaheed-e-Millat Rd",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Moti Mahal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jail Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "New Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Old Sabzi Mandi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Hassan Square",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "NIPA Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gulshan Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lucky One Mall",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sohrab Goth",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shafiq Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Godhra",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Mnzil vehicle page S-2 Bus (schema.org BusTrip itinerary, fetched 2026-09-21)",
+              "url": "https://mnzil.app/vehicles/S-2-Bus"
+            }
+          ],
+          "notes": "Ordered stop list from the schema.org BusTrip itinerary embedded in the Mnzil vehicle page (fetched 2026-09-21). Unofficial app data; all rights reserved by Cheeltech, no licence stated (owner decided to include with attribution). One direction only. Mnzil page is named 'S-2 Bus' to separate it from Chinchi S-2 (Daak Khana - Alnoor Mor). Zenodo/Habib 2024 has S-2 as Korangi 100 Quarter - Ayub Goth. Same number as 2010 URC S-2."
+        },
+        {
+          "id": "4-H",
+          "name": "4K Chowrangi - Cantt station",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "4K Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Cantt station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Mnzil vehicle page 4-H (schema.org BusTrip itinerary, fetched 2026-09-21)",
+              "url": "https://mnzil.app/vehicles/4-H"
+            }
+          ],
+          "notes": "Ordered stop list from the schema.org BusTrip itinerary embedded in the Mnzil vehicle page (fetched 2026-09-21). Unofficial app data; all rights reserved by Cheeltech, no licence stated (owner decided to include with attribution). One direction only. Terminals only on Mnzil (4K Chowrangi, Cantt Station). Same number as 2010 URC 4-H. Only 2 stop(s) listed, so stops_confidence is low."
+        },
+        {
+          "id": "D-17",
+          "name": "Quaidabad - Quaidabad",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Quaidabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Mnzil vehicle page D-17 (schema.org BusTrip itinerary, fetched 2026-09-21)",
+              "url": "https://mnzil.app/vehicles/D-17"
+            }
+          ],
+          "notes": "Ordered stop list from the schema.org BusTrip itinerary embedded in the Mnzil vehicle page (fetched 2026-09-21). Unofficial app data; all rights reserved by Cheeltech, no licence stated (owner decided to include with attribution). One direction only. Mnzil lists a single stop (Quaidabad), so the route exists in the app but its alignment is unknown. Same number as 2010 URC D-17. Only 1 stop(s) listed, so stops_confidence is low."
+        },
+        {
+          "id": "Daata",
+          "name": "KDA Flats- Surjani - Badar Commercial 26 Street",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "KDA Flats- Surjani",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "4K Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Godhra",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shafiq Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lucky One Mall",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Imtiaz Mega Store - Gulshan",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gulshan Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "NIPA Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "New Sabzi Mandi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Hassan Square",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jail Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Tariq Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nursery",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Regent Plaza",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jinnah Hospital",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Askari 1",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Cantt station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Punjab Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Do Talwar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Clifton",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Abdullah Shah Ghazi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dolmen Mall - Clifton",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Badar Commercial 26 Street",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Mnzil vehicle page Daata (schema.org BusTrip itinerary, fetched 2026-09-21)",
+              "url": "https://mnzil.app/vehicles/Daata"
+            },
+            {
+              "title": "Public Transport in Karachi – 2023 Updates (Zameen Blog, 2023-02-23)",
+              "url": "https://www.zameen.com/blog/public-transport-karachi.html"
+            },
+            {
+              "title": "Karachi Bus Network (Pasta, Khan, Aslam; Habib University), Zenodo, CC-BY-4.0",
+              "url": "https://doi.org/10.5281/zenodo.13951512"
+            }
+          ],
+          "notes": "Ordered stop list from the schema.org BusTrip itinerary embedded in the Mnzil vehicle page (fetched 2026-09-21). Unofficial app data; all rights reserved by Cheeltech, no licence stated (owner decided to include with attribution). One direction only. This is the Data (Daata) Coach: Mnzil shows a Chinchi icon for it, but a 23-stop Surjani - Clifton run via Tariq Road and Cantt Station is a coach alignment, and it matches the URC 2010 'Data Coach' (Surjani Town - Halipad), the Zameen Blog 2023 'Data Coach Route: KDA Site Office to Abdullah Shah Ghazi Mazar' and the Zenodo 'DATA-Coach' chain. Put in the bus file for that reason; move to karachi-chinchi if Mnzil's icon turns out to be right."
+        },
+        {
+          "id": "D-10",
+          "name": "Korangi 100 Quarter - Taiser Town",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Korangi 100 Quarter",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Korangi No 5",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Landhi No 6",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Landhi No 5",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Landhi No 4",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Landhi No 3",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Landhi No 2",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Landhi No 1",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dawood Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Quaidabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Malir City",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Malir Halt",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Star Gate",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Natha Khan Goth",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Drigh Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rashid Minhas Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Drive-in-cinema",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jauhar Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nipa Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gulshan Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sohrab Goth",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Power House",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Godhra",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "New Karachi Industrial Area",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Saba Cinema",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "New Karachi No 5",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Allahwali Masjid",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "4-k Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kda Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Maraqba Hall",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khuda Ki Basti",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lerp Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Taiser Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Public Transport in Karachi – 2023 Updates (Zameen Blog, 2023-02-23)",
+              "url": "https://www.zameen.com/blog/public-transport-karachi.html"
+            },
+            {
+              "title": "Karachi Bus Network (Pasta, Khan, Aslam; Habib University), Zenodo, CC-BY-4.0",
+              "url": "https://doi.org/10.5281/zenodo.13951512"
+            }
+          ],
+          "notes": "Zameen Blog (2023-02-23) lists 'D10 Mini Bus Route: Korangi 100 Quarters to Taiser Town' as a current route, with terminals only. The ordered stops are the Zenodo/Habib University chain for label D-10 (CC-BY-4.0; the authors took the routes from the HamariWeb and Travel Culture websites, which are undated, so the age of the stop list is unknown). Both Zenodo D-10 chains are identical, so one was used. Not in the URC 2010 list, RastaYaar or Mnzil. stops_confidence low because the stop list cannot be dated."
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    "D-3 bus on Mnzil (Nagan Chowrangi - Indus Hospital) is a different alignment from the 2010 D-3 (Airport - Zia Colony), so the 2010 entry was not promoted.",
+    "4-H and D-17 have only terminals or one stop on Mnzil.",
+    "No 2023-2026 article with a readable text names G-7, X-5, 4-K, D-1, N-5, U-4, U-6, 2-D, 5-K, 4-J, S-1, Y-11 or A-15 as running. Express Tribune 2026 (story 2609031) remembers W-11, 2D, 5C, 5, 2K, 1C, D7, 4L, Starline, Marwat and Shams coaches as past major routes, but does not say which still run. Tribune and HamariWeb pages return 403 to WebFetch, and the web-search budget ran out.",
+    "Route counts: ARY Urdu 2024-01-07 says about 80 routes run (transporters' leader); Arab News 2025-12-03 says about 5,000 buses remain; Express Tribune (story 2389219, probably late 2022) says 16 of 60 bus, 42 of 234 minibus and 20 of 70 coach routes operate. By those counts roughly 60-80 private routes run, close to the 76 bus routes we now hold, but which ones is unconfirmed.",
+    "The terminal conflicts between RastaYaar and Mnzil (see karachi-bus-corrections.json) need a third source or a field check. HamariWeb 2024-09-11 backs Mnzil for F-11 (Cattle/Bhains Colony - Mianwali Colony).",
+    "The Zenodo routes not yet in karachi-minibus (1-L, 2-C, 7-K, 45-A, 51-C, C-2, C-3, D-4, F-1, F-18, G-55, and coaches such as Agroor, Mahfooz, National, Omar, Safari, Shaheen, Starline) were not re-added here, except D-10, which has a separate 2023 mention. They are a known source in research/incoming/zenodo-karachi-bus-network."
+  ]
+}

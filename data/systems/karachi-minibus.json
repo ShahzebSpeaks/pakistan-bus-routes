@@ -972,9 +972,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for D-1",
+          "url": "https://mnzil.app/vehicles/D-1"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Spelling fixed: \"Metrovils\" -> \"Metroville\"."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Spelling fixed: \"Metrovils\" -> \"Metroville\". Conflict (name): another source gives \"Pipri Goth - Abidabad\" instead of \"Gulshan Hadeed - Baldia\" (https://mnzil.app/vehicles/D-1)."
     },
     {
       "id": "D-7",
@@ -1192,9 +1196,13 @@
         {
           "title": "Habib University Karachi bus network (CC-BY-4.0): 51-C",
           "url": "https://doi.org/10.5281/zenodo.13951512"
+        },
+        {
+          "title": "Correction source for D-7",
+          "url": "https://mnzil.app/vehicles/D-7"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Spelling fixed: \"Fazal Mil/Lucky One\" -> \"Fazal Mill/Lucky One\".\n\nStop order comes from a network edge list, so the order may not match the real route."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Spelling fixed: \"Fazal Mil/Lucky One\" -> \"Fazal Mill/Lucky One\".\n\nStop order comes from a network edge list, so the order may not match the real route. Conflict (name): another source gives \"New Muzaffarabad Colony Landhi - Khadim Hussain Solangi Goth\" instead of \"Landhi Majeed Colony 2 - New Sabzi Mandi\" (https://mnzil.app/vehicles/D-7)."
     },
     {
       "id": "D-11",
@@ -1824,9 +1832,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for F-11",
+          "url": "https://mnzil.app/vehicles/F-11"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Spelling fixed: \"Fazal Mil/Lucky One\" -> \"Fazal Mill/Lucky One\"."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Spelling fixed: \"Fazal Mil/Lucky One\" -> \"Fazal Mill/Lucky One\". Conflict (name): another source gives \"Manghopir - Bhains Colony Mor\" instead of \"Bhens Colony - Chungi Stop\" (https://mnzil.app/vehicles/F-11)."
     },
     {
       "id": "G-3",
@@ -2088,9 +2100,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for G-3",
+          "url": "https://mnzil.app/vehicles/G-3"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Spelling fixed: \"Reegal\" -> \"Regal\"."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Spelling fixed: \"Reegal\" -> \"Regal\". Conflict (name): another source gives \"University Road - Mohajir Camp No. 7\" instead of \"Sachal Goth - Muhajir Camp 8½\" (https://mnzil.app/vehicles/G-3)."
     },
     {
       "id": "G-7",
@@ -2198,9 +2214,9 @@
         {
           "name": "Khudadad Colony",
           "name_ur": "",
-          "lat": 24.875369,
-          "lon": 67.047813,
-          "coord_source": "auto:interpolated",
+          "lat": 24.870196,
+          "lon": 67.044031,
+          "coord_source": "auto:same-name:ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:F-16",
           "is_station": false
         },
         {
@@ -2312,9 +2328,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for G-7",
+          "url": "https://mnzil.app/vehicles/G-7"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Spelling fixed: \"Khudad Colony\" -> \"Khudadad Colony\"."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Spelling fixed: \"Khudad Colony\" -> \"Khudadad Colony\". Conflict (name): another source gives \"University Road - Mohajir Camp\" instead of \"Gulshan Ghazi - Madras Chowk\" (https://mnzil.app/vehicles/G-7)."
     },
     {
       "id": "G-11",
@@ -2576,9 +2596,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for G-11",
+          "url": "https://mnzil.app/vehicles/G-11"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Spelling fixed: \"Fazal Mil\" -> \"Fazal Mill\"."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Spelling fixed: \"Fazal Mil\" -> \"Fazal Mill\". Conflict (name): another source gives \"Yousuf Goth - Maroora Goth Bus Stop\" instead of \"Yousaf Goth - Kiran Hospital\" (https://mnzil.app/vehicles/G-11)."
     },
     {
       "id": "G-17",
@@ -2768,9 +2792,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for G-17",
+          "url": "https://mnzil.app/vehicles/G-17"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Conflict (name): another source gives \"Saeedabad - University Road\" instead of \"Mwach Goth - Gul City\" (https://mnzil.app/vehicles/G-17)."
     },
     {
       "id": "G-19",
@@ -3000,9 +3028,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for G-19",
+          "url": "https://mnzil.app/vehicles/G-19"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Conflict (name): another source gives \"Hub filter plant - Madras chowk\" instead of \"Chungi Stop - Madras Chowk\" (https://mnzil.app/vehicles/G-19)."
     },
     {
       "id": "G-27",
@@ -3228,9 +3260,13 @@
         {
           "title": "Habib University Karachi bus network (CC-BY-4.0): G-27",
           "url": "https://doi.org/10.5281/zenodo.13951512"
+        },
+        {
+          "title": "Correction source for G-27",
+          "url": "https://mnzil.app/vehicles/G-27"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus.\n\nStop order comes from a network edge list, so the order may not match the real route."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus.\n\nStop order comes from a network edge list, so the order may not match the real route. Conflict (name): another source gives \"Afridi Chowk - Chisti Nagar - Safoora Chowrangi\" instead of \"Safoora Chorangi - Hub River Road\" (https://mnzil.app/vehicles/G-27)."
     },
     {
       "id": "H",
@@ -3868,9 +3904,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for N-5",
+          "url": "https://mnzil.app/vehicles/N-5"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Conflict (name): another source gives \"Naval Colony - Shaan Chowrangi (Chamra Chowrangi)\" instead of \"Naval Colony - Bilal Colony\" (https://mnzil.app/vehicles/N-5)."
     },
     {
       "id": "SL",
@@ -4756,9 +4796,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for W-22",
+          "url": "https://mnzil.app/vehicles/W-22"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Conflict (name): another source gives \"Khawaja Ajmer Nagri - Korangi 2\" instead of \"Chungi Stop - Double Road Korangi 2 ⅓\" (https://mnzil.app/vehicles/W-22)."
     },
     {
       "id": "W-25",
@@ -4980,9 +5024,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for W-25",
+          "url": "https://mnzil.app/vehicles/W-25"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Conflict (name): another source gives \"New Karachi Industrial Area (Sector 6) - Khyber Chowk - Ittihad Town\" instead of \"Khameso Goth - Itihad Town\" (https://mnzil.app/vehicles/W-25)."
     },
     {
       "id": "W-55",
@@ -5188,9 +5236,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for W-55",
+          "url": "https://mnzil.app/vehicles/W-55"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Conflict (name): another source gives \"Khairabad - Gulshan-e-Zia - Lyari Basti - Taiser Town\" instead of \"Khaibarabad - New Lyari\" (https://mnzil.app/vehicles/W-55)."
     },
     {
       "id": "X-8",
@@ -5692,9 +5744,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for X-10",
+          "url": "https://mnzil.app/vehicles/X-10"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Conflict (name): another source gives \"Ittehad Town - Khayaban-e-Ghalib - DHA Phase 8\" instead of \"Itihad Town - Misri Shah\" (https://mnzil.app/vehicles/X-10)."
     },
     {
       "id": "X-23",
@@ -5908,9 +5964,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for X-23",
+          "url": "https://mnzil.app/vehicles/X-23"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Conflict (name): another source gives \"Fareed Colony - Orangi Town - Hospital Chowrangi\" instead of \"Fareed Colony - Hashim Goth\" (https://mnzil.app/vehicles/X-23)."
     },
     {
       "id": "Z-2",
@@ -6052,9 +6112,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for Z-2",
+          "url": "https://mnzil.app/vehicles/Z-2"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: minibus. Conflict (name): another source gives \"Gulshan Ghazi - Khayaban-e-Ghalib - DHA Phase 8\" instead of \"Gulshan Ghazi - Khayaban-e-Shaheed\" (https://mnzil.app/vehicles/Z-2)."
     },
     {
       "id": "Z-18",
@@ -6668,9 +6732,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for Mashriq",
+          "url": "https://mnzil.app/vehicles/Mashriq"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: named fleet. Spelling fixed: \"Metrovill\" -> \"Metroville\"."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: named fleet. Spelling fixed: \"Metrovill\" -> \"Metroville\". Conflict (name): another source gives \"Bhains Colony Mor - Naval Colony\" instead of \"Muzafarabad Colony - Itihad Town\" (https://mnzil.app/vehicles/Mashriq)."
     },
     {
       "id": "Muslim",
@@ -6860,9 +6928,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for Muslim",
+          "url": "https://mnzil.app/vehicles/Muslim"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: named fleet."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: named fleet. Conflict (name): another source gives \"Shireen Jinnah Colony - Pipri Goth\" instead of \"Steel Town - Shereen Jinnah Colony\" (https://mnzil.app/vehicles/Muslim)."
     },
     {
       "id": "New Afridi",
@@ -7324,9 +7396,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for Super Hasanzai",
+          "url": "https://mnzil.app/vehicles/Super-Hassan-Zai"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: named fleet."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: named fleet. Conflict (name): another source gives \"Maymar Mor - Shireen Jinnah Colony\" instead of \"New Sabzi Mandi - Shereen Jinnah Colony\" (https://mnzil.app/vehicles/Super-Hassan-Zai)."
     },
     {
       "id": "7 Star",
@@ -7772,9 +7848,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for Sheraz",
+          "url": "https://mnzil.app/vehicles/Shiraz"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: named fleet."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: named fleet. Conflict (name): another source gives \"Check Post 6 Malir Cantt - Hawksbay Beach\" instead of \"Malir Cantt - Musharaf Colony\" (https://mnzil.app/vehicles/Shiraz)."
     },
     {
       "id": "MashAllah",
@@ -8228,9 +8308,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for Abdullah",
+          "url": "https://mnzil.app/vehicles/Abdullah"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: named fleet."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: named fleet. Conflict (name): another source gives \"Ittehad Town - Quaidabad\" instead of \"Itihad Town - Qazafi Town\" (https://mnzil.app/vehicles/Abdullah)."
     },
     {
       "id": "AL-Qadri",
@@ -8409,22 +8493,94 @@
       "hours": null,
       "fare_override": null,
       "women_only": false,
-      "stops_confidence": "low",
+      "stops_confidence": "medium",
       "stops": [
-        {
-          "name": "Lee Market",
-          "name_ur": "",
-          "lat": 24.859799,
-          "lon": 67.01582,
-          "coord_source": "auto:osm:node/12312150079",
-          "is_station": false
-        },
         {
           "name": "Hub Chowki",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 24.947858,
+          "lon": 66.929842,
+          "coord_source": "auto:osm:way/654721389",
+          "is_station": false
+        },
+        {
+          "name": "Umer Goth",
+          "name_ur": "",
+          "lat": 24.953297,
+          "lon": 66.92704,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Musharraf Colony - Keamari",
+          "name_ur": "",
+          "lat": 24.958737,
+          "lon": 66.924237,
+          "coord_source": "auto:photon:N/5312274969",
+          "is_station": false
+        },
+        {
+          "name": "Yousuf Goth",
+          "name_ur": "",
+          "lat": 24.951473,
+          "lon": 66.929034,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Naval Colony",
+          "name_ur": "",
+          "lat": 24.944208,
+          "lon": 66.93383,
+          "coord_source": "auto:osm:node/5311735185",
+          "is_station": false
+        },
+        {
+          "name": "Hub River road",
+          "name_ur": "",
+          "lat": 24.935391,
+          "lon": 66.939873,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Murshid Hospital",
+          "name_ur": "",
+          "lat": 24.926574,
+          "lon": 66.945916,
+          "coord_source": "auto:osm:way/1302229959",
+          "is_station": false
+        },
+        {
+          "name": "Mach Mor",
+          "name_ur": "",
+          "lat": 24.915595,
+          "lon": 66.958879,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rasheedabad",
+          "name_ur": "",
+          "lat": 24.904617,
+          "lon": 66.971842,
+          "coord_source": "auto:osm:node/6773994418",
+          "is_station": false
+        },
+        {
+          "name": "Shershah",
+          "name_ur": "",
+          "lat": 24.889239,
+          "lon": 66.98264,
+          "coord_source": "auto:osm:node/12224621530",
+          "is_station": false
+        },
+        {
+          "name": "Shershah Kabari Market",
+          "name_ur": "",
+          "lat": 24.883939,
+          "lon": 66.992852,
+          "coord_source": "auto:osm:node/12232074237",
           "is_station": false
         }
       ],
@@ -8436,6 +8592,10 @@
         {
           "title": "Habib University Karachi bus network (CC-BY-4.0): U-1",
           "url": "https://doi.org/10.5281/zenodo.13951512"
+        },
+        {
+          "title": "Correction source for Rind",
+          "url": "https://mnzil.app/vehicles/Rind"
         }
       ],
       "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: named fleet. Only the two terminals are listed.\n\nStop order comes from a network edge list, so the order may not match the real route."
@@ -8652,9 +8812,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for 9-C",
+          "url": "https://mnzil.app/vehicles/9-C"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: other bus."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: other bus. Conflict (name): another source gives \"Shireen Jinnah Colony - Model Colony Mor\" instead of \"Malir Cantt - Ziauddin Hospital\" (https://mnzil.app/vehicles/9-C)."
     },
     {
       "id": "4-L",
@@ -8800,9 +8964,13 @@
         {
           "title": "Habib University Karachi bus network (CC-BY-4.0): 4-L",
           "url": "https://doi.org/10.5281/zenodo.13951512"
+        },
+        {
+          "title": "Correction source for 4-L",
+          "url": "https://mnzil.app/vehicles/4-L"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: other bus.\n\nStop order comes from a network edge list, so the order may not match the real route."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: other bus.\n\nStop order comes from a network edge list, so the order may not match the real route. Conflict (name): another source gives \"Al Asif Square - Bolton Market\" instead of \"Maymar Complex - Bolton Market\" (https://mnzil.app/vehicles/4-L)."
     },
     {
       "id": "4-Q",
@@ -8924,9 +9092,13 @@
         {
           "title": "Habib University Karachi bus network (CC-BY-4.0): 4-L",
           "url": "https://doi.org/10.5281/zenodo.13951512"
+        },
+        {
+          "title": "Correction source for 4-Q",
+          "url": "https://mnzil.app/vehicles/4-Q"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: other bus.\n\nStop order comes from a network edge list, so the order may not match the real route."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: other bus.\n\nStop order comes from a network edge list, so the order may not match the real route. Conflict (name): another source gives \"Gulzar-e-hijri - Tower\" instead of \"Gulzaar-e-Hijri - Bolton Market\" (https://mnzil.app/vehicles/4-Q)."
     },
     {
       "id": "7-C",
@@ -9336,9 +9508,13 @@
         {
           "title": "Habib University Karachi bus network (CC-BY-4.0): 11-C",
           "url": "https://doi.org/10.5281/zenodo.13951512"
+        },
+        {
+          "title": "Correction source for 11-C",
+          "url": "https://mnzil.app/vehicles/11-C"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: other bus.\n\nStop order comes from a network edge list, so the order may not match the real route."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: other bus.\n\nStop order comes from a network edge list, so the order may not match the real route. Conflict (name): another source gives \"Azam Basti – Azam Town - University Road\" instead of \"Azam Basti - Saadi Town\" (https://mnzil.app/vehicles/11-C)."
     },
     {
       "id": "20",
@@ -9840,9 +10016,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for 51",
+          "url": "https://mnzil.app/vehicles/51"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: other bus. RastaYaar labels this route \"51 (Thatta)\"."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: other bus. RastaYaar labels this route \"51 (Thatta)\". Conflict (name): another source gives \"Ghaghar Phatak - Bin Qasim Town - Lee Market\" instead of \"Thatta City - Lee Market\" (https://mnzil.app/vehicles/51)."
     },
     {
       "id": "55",
@@ -10150,9 +10330,9 @@
         {
           "name": "Khudadad Colony",
           "name_ur": "",
-          "lat": 24.86995,
-          "lon": 67.04399,
-          "coord_source": "auto:interpolated",
+          "lat": 24.870196,
+          "lon": 67.044031,
+          "coord_source": "auto:same-name:ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:F-16",
           "is_station": false
         },
         {
@@ -10408,9 +10588,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for Marwat",
+          "url": "https://mnzil.app/vehicles/Marwat"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: coach. Spelling fixed: \"Jamia DarulUloom\" -> \"Jamia Darul Uloom\", \"Khudad Colony\" -> \"Khudadad Colony\"."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: coach. Spelling fixed: \"Jamia DarulUloom\" -> \"Jamia Darul Uloom\", \"Khudad Colony\" -> \"Khudadad Colony\". Conflict (name): another source gives \"Bhudni Goth - Shireen Jinnah Colony\" instead of \"Hawksbay Beach - Shireen Jinnah Colony\" (https://mnzil.app/vehicles/Marwat)."
     },
     {
       "id": "Bilal",
@@ -10648,9 +10832,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for Bilal",
+          "url": "https://mnzil.app/vehicles/Bilal"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: coach."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: coach. Conflict (name): another source gives \"Ittehad Town - Labour Square - Landhi Town\" instead of \"Itihad Town - BMDF Colony\" (https://mnzil.app/vehicles/Bilal)."
     },
     {
       "id": "Gulistan",
@@ -10844,9 +11032,13 @@
         {
           "title": "Habib University Karachi bus network (CC-BY-4.0): Gulistan-Coach",
           "url": "https://doi.org/10.5281/zenodo.13951512"
+        },
+        {
+          "title": "Correction source for Gulistan",
+          "url": "https://mnzil.app/vehicles/Gulistan"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: coach.\n\nStop order comes from a network edge list, so the order may not match the real route."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: coach.\n\nStop order comes from a network edge list, so the order may not match the real route. Conflict (name): another source gives \"PIA Society - Gulistan e Johar - Saudi Embassy - DHA Phase 5\" instead of \"Bhitayabad - Sultan Masjid\" (https://mnzil.app/vehicles/Gulistan)."
     },
     {
       "id": "Ilyas",
@@ -11036,9 +11228,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for Ilyas",
+          "url": "https://mnzil.app/vehicles/Ilyas"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: coach."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: coach. Conflict (name): another source gives \"Ittehad Town - Quaidabad\" instead of \"Landhi 1 - Itihad Town\" (https://mnzil.app/vehicles/Ilyas)."
     },
     {
       "id": "Masood",
@@ -11228,9 +11424,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for Masood",
+          "url": "https://mnzil.app/vehicles/Masood"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: coach."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: coach. Conflict (name): another source gives \"Bhains Colony Mor - Lyari 36\" instead of \"Bhains Colony - Khuda Ki Basti\" (https://mnzil.app/vehicles/Masood)."
     },
     {
       "id": "Khan",
@@ -11452,9 +11652,13 @@
         {
           "title": "RastaYaar route data (src/data/routes.ts)",
           "url": "https://github.com/itsdeewankumar-tech/rastayaar"
+        },
+        {
+          "title": "Correction source for Khan",
+          "url": "https://mnzil.app/vehicles/Khan"
         }
       ],
-      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: coach."
+      "notes": "Stop list from the RastaYaar project (2026); not an official list. RastaYaar category: coach. Conflict (name): another source gives \"Surjani Power House - Abdullah Shah Ghazi\" instead of \"Abdullah Chowk - Abdullah Shah Ghazi\" (https://mnzil.app/vehicles/Khan)."
     },
     {
       "id": "1-E",
@@ -12204,9 +12408,13 @@
         {
           "title": "Karachi bus network dataset (Habib University, CC-BY-4.0)",
           "url": "https://doi.org/10.5281/zenodo.13951512"
+        },
+        {
+          "title": "Correction source for Gulistan-Coach",
+          "url": "https://mnzil.app/vehicles/Gulistan"
         }
       ],
-      "notes": "Converted from the CC-BY-4.0 Zenodo edge list; original label 'Gulistan_Coach'.\n\nRoute and stop positions from the Habib University Karachi bus network dataset (CC-BY-4.0, 2024). Not an official list.\n\nStop order comes from a network edge list, so the order may not match the real route."
+      "notes": "Converted from the CC-BY-4.0 Zenodo edge list; original label 'Gulistan_Coach'.\n\nRoute and stop positions from the Habib University Karachi bus network dataset (CC-BY-4.0, 2024). Not an official list.\n\nStop order comes from a network edge list, so the order may not match the real route. Conflict (name): another source gives \"PIA Society - Gulistan e Johar - Saudi Embassy - DHA Phase 5\" instead of \"Gulistan-Coach (Pahalwan Goth - Qayyumabad)\" (https://mnzil.app/vehicles/Gulistan)."
     },
     {
       "id": "Sheraz-Coach",
@@ -12392,9 +12600,13 @@
         {
           "title": "Karachi bus network dataset (Habib University, CC-BY-4.0)",
           "url": "https://doi.org/10.5281/zenodo.13951512"
+        },
+        {
+          "title": "Correction source for Sheraz-Coach",
+          "url": "https://mnzil.app/vehicles/Shiraz"
         }
       ],
-      "notes": "Converted from the CC-BY-4.0 Zenodo edge list; original label 'Sheraz_Coach'.\n\nRoute and stop positions from the Habib University Karachi bus network dataset (CC-BY-4.0, 2024). Not an official list.\n\nStop order comes from a network edge list, so the order may not match the real route."
+      "notes": "Converted from the CC-BY-4.0 Zenodo edge list; original label 'Sheraz_Coach'.\n\nRoute and stop positions from the Habib University Karachi bus network dataset (CC-BY-4.0, 2024). Not an official list.\n\nStop order comes from a network edge list, so the order may not match the real route. Conflict (name): another source gives \"Check Post 6 Malir Cantt - Hawksbay Beach\" instead of \"Sheraz-Coach (Safoora Goth - Coast Guard)\" (https://mnzil.app/vehicles/Shiraz)."
     },
     {
       "id": "pink-bus-part2",
@@ -13157,7 +13369,7 @@
       "hours": null,
       "fare_override": null,
       "women_only": false,
-      "stops_confidence": "low",
+      "stops_confidence": "medium",
       "stops": [
         {
           "name": "Karimabad - Meena Bazaar",
@@ -13168,11 +13380,35 @@
           "is_station": false
         },
         {
+          "name": "Kharadar",
+          "name_ur": "",
+          "lat": 24.893173,
+          "lon": 67.03954,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Keamari",
+          "name_ur": "",
+          "lat": 24.867901,
+          "lon": 67.024953,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Masan Chowk",
+          "name_ur": "",
+          "lat": 24.842629,
+          "lon": 67.010367,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
           "name": "Shireen Jinnah Colony",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 24.817357,
+          "lon": 66.995781,
+          "coord_source": "auto:osm:node/5327511417",
           "is_station": false
         }
       ],
@@ -13351,6 +13587,2774 @@
         }
       ],
       "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (17 stops) as scraped. No coordinates in the source. Not the same as our 'Muslim' (Steel Town - Shireen Jinnah Colony); different termini."
+    },
+    {
+      "id": "51-A",
+      "name": "Lee Market - Ghaghar Phatak - Bin Qasim Town",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lee Market",
+          "name_ur": "",
+          "lat": 24.859799,
+          "lon": 67.01582,
+          "coord_source": "auto:osm:node/12312150079",
+          "is_station": false
+        },
+        {
+          "name": "Garden",
+          "name_ur": "",
+          "lat": 24.881614,
+          "lon": 67.028899,
+          "coord_source": "auto:osm:node/12168900756",
+          "is_station": false
+        },
+        {
+          "name": "Numaish Chowrangi",
+          "name_ur": "",
+          "lat": 24.873363,
+          "lon": 67.035994,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:Route-10",
+          "is_station": false
+        },
+        {
+          "name": "peoples secretariat",
+          "name_ur": "",
+          "lat": 24.876896,
+          "lon": 67.042474,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Islamia College – New M.A Jinnah Road",
+          "name_ur": "",
+          "lat": 24.88043,
+          "lon": 67.048953,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "New Town",
+          "name_ur": "",
+          "lat": 24.883963,
+          "lon": 67.055433,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:Sheraz-Coach",
+          "is_station": false
+        },
+        {
+          "name": "Liaquat national Hospital",
+          "name_ur": "",
+          "lat": 24.89228,
+          "lon": 67.068245,
+          "coord_source": "auto:osm:relation/17336275",
+          "is_station": false
+        },
+        {
+          "name": "Aga Khan Hospital",
+          "name_ur": "",
+          "lat": 24.892775,
+          "lon": 67.074072,
+          "coord_source": "auto:nominatim:relation/17336276",
+          "is_station": false
+        },
+        {
+          "name": "National Stadium",
+          "name_ur": "",
+          "lat": 24.894646,
+          "lon": 67.081609,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:Route-3",
+          "is_station": false
+        },
+        {
+          "name": "Dalmia Shanti Nagar",
+          "name_ur": "",
+          "lat": 24.903811,
+          "lon": 67.100771,
+          "coord_source": "auto:osm:way/544783764",
+          "is_station": false
+        },
+        {
+          "name": "Millennium Mall",
+          "name_ur": "",
+          "lat": 24.901154,
+          "lon": 67.115815,
+          "coord_source": "auto:osm:node/5085538221",
+          "is_station": false
+        },
+        {
+          "name": "Drigh Road",
+          "name_ur": "",
+          "lat": 24.886686,
+          "lon": 67.12584,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:pink-bus-part2",
+          "is_station": false
+        },
+        {
+          "name": "Natha Khan",
+          "name_ur": "",
+          "lat": 24.882274,
+          "lon": 67.135599,
+          "coord_source": "auto:osm:way/546130151",
+          "is_station": false
+        },
+        {
+          "name": "Shah Faisal Colony Gate",
+          "name_ur": "",
+          "lat": 24.881096,
+          "lon": 67.145214,
+          "coord_source": "auto:osm:node/6989393142",
+          "is_station": false
+        },
+        {
+          "name": "Star Gate - Shah Faisal Colony",
+          "name_ur": "",
+          "lat": 24.884166,
+          "lon": 67.149187,
+          "coord_source": "auto:osm:way/569103998",
+          "is_station": false
+        },
+        {
+          "name": "Airport",
+          "name_ur": "",
+          "lat": 24.886118,
+          "lon": 67.144085,
+          "coord_source": "auto:osm:node/4104333346",
+          "is_station": false
+        },
+        {
+          "name": "Chota Gate - Shah Faisal Colony",
+          "name_ur": "",
+          "lat": 24.885559,
+          "lon": 67.156021,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Wireless Gate Bus Stop",
+          "name_ur": "",
+          "lat": 24.885001,
+          "lon": 67.167957,
+          "coord_source": "auto:osm:node/4104333293",
+          "is_station": false
+        },
+        {
+          "name": "Malir Halt",
+          "name_ur": "",
+          "lat": 24.884427,
+          "lon": 67.174553,
+          "coord_source": "auto:osm:node/5226556649",
+          "is_station": false
+        },
+        {
+          "name": "Kala Board Malir",
+          "name_ur": "",
+          "lat": 24.882327,
+          "lon": 67.182328,
+          "coord_source": "auto:osm:node/4674618397",
+          "is_station": false
+        },
+        {
+          "name": "Malir 15",
+          "name_ur": "",
+          "lat": 24.879024,
+          "lon": 67.188264,
+          "coord_source": "auto:osm:node/4299693694",
+          "is_station": false
+        },
+        {
+          "name": "Malir Court",
+          "name_ur": "",
+          "lat": 24.873855,
+          "lon": 67.19584,
+          "coord_source": "auto:osm:node/12281658135",
+          "is_station": false
+        },
+        {
+          "name": "Murghi Khana",
+          "name_ur": "",
+          "lat": 24.864491,
+          "lon": 67.203792,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Quaidabad",
+          "name_ur": "",
+          "lat": 24.855128,
+          "lon": 67.211744,
+          "coord_source": "auto:same-name:ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:51-C",
+          "is_station": false
+        },
+        {
+          "name": "Manzil Pump",
+          "name_ur": "",
+          "lat": 24.844209,
+          "lon": 67.229319,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bacha Jail",
+          "name_ur": "",
+          "lat": 24.833289,
+          "lon": 67.246895,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bhains Colony Mor",
+          "name_ur": "",
+          "lat": 24.82237,
+          "lon": 67.26447,
+          "coord_source": "auto:osm:way/521749032",
+          "is_station": false
+        },
+        {
+          "name": "FAST University - Bhains Colony",
+          "name_ur": "",
+          "lat": 24.845799,
+          "lon": 67.269626,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chaukhandi Mor",
+          "name_ur": "",
+          "lat": 24.869228,
+          "lon": 67.274781,
+          "coord_source": "auto:osm:way/1427036089",
+          "is_station": false
+        },
+        {
+          "name": "Abdullah Goth",
+          "name_ur": "",
+          "lat": 24.86654,
+          "lon": 67.283672,
+          "coord_source": "auto:osm:node/5331463982",
+          "is_station": false
+        },
+        {
+          "name": "Razzaqabad",
+          "name_ur": "",
+          "lat": 24.866911,
+          "lon": 67.294516,
+          "coord_source": "auto:osm:node/4785732567",
+          "is_station": false
+        },
+        {
+          "name": "Port Qasim Mor",
+          "name_ur": "",
+          "lat": 24.866274,
+          "lon": 67.300176,
+          "coord_source": "auto:osm:node/4299624393",
+          "is_station": false
+        },
+        {
+          "name": "Steel Mill Mor",
+          "name_ur": "",
+          "lat": 24.86166,
+          "lon": 67.324723,
+          "coord_source": "auto:osm:way/1430155862",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan e Hadeed",
+          "name_ur": "",
+          "lat": 24.87088,
+          "lon": 67.35802,
+          "coord_source": "auto:osm:node/7310652742",
+          "is_station": false
+        },
+        {
+          "name": "Pipri Goth",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ghaghar Phatak - Bin Qasim Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Mnzil vehicle page 51A (schema.org BusTrip itinerary, fetched 2026-09-21)",
+          "url": "https://mnzil.app/vehicles/51A-"
+        }
+      ],
+      "notes": "Ordered stop list from the schema.org BusTrip itinerary embedded in the Mnzil vehicle page (fetched 2026-09-21). Unofficial app data; all rights reserved by Cheeltech, no licence stated (owner decided to include with attribution). One direction only. Mnzil labels it '51A'. Same number as 2010 URC route 51-A. It is Mnzil's route 51 (Ghaghar Phatak - Lee Market) in the opposite direction plus Razzaqabad and Bacha Jail, so it may be a branch or simply the return run of 51; kept separate because Mnzil lists it as its own vehicle."
+    },
+    {
+      "id": "D-3",
+      "name": "Nagan Chowrangi - Indus Hospital - Korangi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Nagan Chowrangi",
+          "name_ur": "",
+          "lat": 24.965042,
+          "lon": 67.066866,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:Route-3",
+          "is_station": false
+        },
+        {
+          "name": "Shafiq Mor",
+          "name_ur": "",
+          "lat": 24.961369,
+          "lon": 67.084833,
+          "coord_source": "auto:osm:node/5333760830",
+          "is_station": false
+        },
+        {
+          "name": "Alnoor mor",
+          "name_ur": "",
+          "lat": 24.949181,
+          "lon": 67.081181,
+          "coord_source": "auto:osm:node/5117511625",
+          "is_station": false
+        },
+        {
+          "name": "Happy Palace Grammar School",
+          "name_ur": "",
+          "lat": 24.949963,
+          "lon": 67.080392,
+          "coord_source": "auto:osm:way/435132785",
+          "is_station": false
+        },
+        {
+          "name": "Edhi Welfare Centre",
+          "name_ur": "",
+          "lat": 24.946549,
+          "lon": 67.082758,
+          "coord_source": "auto:osm:node/5117510219",
+          "is_station": false
+        },
+        {
+          "name": "Sohrab Goth",
+          "name_ur": "",
+          "lat": 24.943684,
+          "lon": 67.084346,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:pink-bus-part2",
+          "is_station": false
+        },
+        {
+          "name": "Sagheer Centre - FB Area",
+          "name_ur": "",
+          "lat": 24.937993,
+          "lon": 67.085757,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lucky One Mall",
+          "name_ur": "",
+          "lat": 24.932302,
+          "lon": 67.087167,
+          "coord_source": "auto:osm:way/549120622",
+          "is_station": false
+        },
+        {
+          "name": "UBL Sports Complex Bus Stop",
+          "name_ur": "",
+          "lat": 24.931891,
+          "lon": 67.085635,
+          "coord_source": "auto:osm:node/5143185913",
+          "is_station": false
+        },
+        {
+          "name": "Imtiaz Mega Store - Gulshan",
+          "name_ur": "",
+          "lat": 24.929312,
+          "lon": 67.087407,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Moti mahal bus stop",
+          "name_ur": "",
+          "lat": 24.926732,
+          "lon": 67.08918,
+          "coord_source": "auto:osm:node/12240487465",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Chowrangi",
+          "name_ur": "",
+          "lat": 24.924613,
+          "lon": 67.091285,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:pink-bus-part2",
+          "is_station": false
+        },
+        {
+          "name": "NIPA Chowrangi",
+          "name_ur": "",
+          "lat": 24.917822,
+          "lon": 67.097137,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:pink-bus-part2",
+          "is_station": false
+        },
+        {
+          "name": "Aladin Park",
+          "name_ur": "",
+          "lat": 24.911245,
+          "lon": 67.105362,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Johar Mor",
+          "name_ur": "",
+          "lat": 24.904667,
+          "lon": 67.113586,
+          "coord_source": "auto:osm:node/5340602456",
+          "is_station": false
+        },
+        {
+          "name": "Millennium Mall",
+          "name_ur": "",
+          "lat": 24.901154,
+          "lon": 67.115815,
+          "coord_source": "auto:osm:node/5085538221",
+          "is_station": false
+        },
+        {
+          "name": "Army Public School",
+          "name_ur": "",
+          "lat": 24.891571,
+          "lon": 67.121186,
+          "coord_source": "auto:osm:way/449280895",
+          "is_station": false
+        },
+        {
+          "name": "COD PUBLIC SCHOOL",
+          "name_ur": "",
+          "lat": 24.889128,
+          "lon": 67.123513,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Drigh Road",
+          "name_ur": "",
+          "lat": 24.886686,
+          "lon": 67.12584,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:pink-bus-part2",
+          "is_station": false
+        },
+        {
+          "name": "Shah Faisal Colony Gate",
+          "name_ur": "",
+          "lat": 24.881096,
+          "lon": 67.145214,
+          "coord_source": "auto:osm:node/6989393142",
+          "is_station": false
+        },
+        {
+          "name": "Singer Chowrangi",
+          "name_ur": "",
+          "lat": 24.861711,
+          "lon": 67.119994,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 5",
+          "name_ur": "",
+          "lat": 24.842325,
+          "lon": 67.094775,
+          "coord_source": "auto:osm:node/5254067385",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 4",
+          "name_ur": "",
+          "lat": 24.826819,
+          "lon": 67.129813,
+          "coord_source": "auto:nominatim:way/530752749",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 3",
+          "name_ur": "",
+          "lat": 24.825756,
+          "lon": 67.154292,
+          "coord_source": "auto:osm:node/5137691714",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 2 ½",
+          "name_ur": "",
+          "lat": 24.821085,
+          "lon": 67.143697,
+          "coord_source": "auto:osm:node/5156526990",
+          "is_station": false
+        },
+        {
+          "name": "Gulzar Colony",
+          "name_ur": "",
+          "lat": 24.821568,
+          "lon": 67.138278,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 1",
+          "name_ur": "",
+          "lat": 24.822051,
+          "lon": 67.13286,
+          "coord_source": "auto:osm:node/12144299481",
+          "is_station": false
+        },
+        {
+          "name": "Nasir Jump",
+          "name_ur": "",
+          "lat": 24.820463,
+          "lon": 67.125114,
+          "coord_source": "auto:osm:node/12126274344",
+          "is_station": false
+        },
+        {
+          "name": "District Court Korangi",
+          "name_ur": "",
+          "lat": 24.81801,
+          "lon": 67.117901,
+          "coord_source": "auto:osm:way/1141340612",
+          "is_station": false
+        },
+        {
+          "name": "Indus Hospital - Korangi",
+          "name_ur": "",
+          "lat": 24.816587,
+          "lon": 67.11146,
+          "coord_source": "auto:osm:way/1144173764",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Mnzil vehicle page D-3 (schema.org BusTrip itinerary, fetched 2026-09-21)",
+          "url": "https://mnzil.app/vehicles/D-3"
+        }
+      ],
+      "notes": "Ordered stop list from the schema.org BusTrip itinerary embedded in the Mnzil vehicle page (fetched 2026-09-21). Unofficial app data; all rights reserved by Cheeltech, no licence stated (owner decided to include with attribution). One direction only. Bus route D-3 (Mnzil also has a separate Chinchi D-3, Guru Mandir - Munawar Chowrangi, already in karachi-chinchi). Same number as 2010 URC D-3."
+    },
+    {
+      "id": "G-13",
+      "name": "Banaras Bus Stop - Karimabad - Meena Bazaar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Banaras Bus Stop",
+          "name_ur": "",
+          "lat": 24.929993,
+          "lon": 67.019732,
+          "coord_source": "auto:osm:node/5140969347",
+          "is_station": false
+        },
+        {
+          "name": "Metro Cinema",
+          "name_ur": "",
+          "lat": 24.935848,
+          "lon": 67.009426,
+          "coord_source": "auto:osm:node/5089149969",
+          "is_station": false
+        },
+        {
+          "name": "Abdullah Govt College for Women",
+          "name_ur": "",
+          "lat": 24.930297,
+          "lon": 67.024131,
+          "coord_source": "auto:osm:way/792435419",
+          "is_station": false
+        },
+        {
+          "name": "KDA Chowrangi",
+          "name_ur": "",
+          "lat": 24.931405,
+          "lon": 67.037512,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:Route-3",
+          "is_station": false
+        },
+        {
+          "name": "Ziauddin Hospital - North Nazimabad",
+          "name_ur": "",
+          "lat": 24.923928,
+          "lon": 67.044713,
+          "coord_source": "auto:osm:node/2671409823",
+          "is_station": false
+        },
+        {
+          "name": "Landi Kotal Chowrangi Roundabout",
+          "name_ur": "",
+          "lat": 24.937101,
+          "lon": 67.055002,
+          "coord_source": "auto:osm:node/290240422",
+          "is_station": false
+        },
+        {
+          "name": "Karimabad - Meena Bazaar",
+          "name_ur": "",
+          "lat": 24.918445,
+          "lon": 67.054126,
+          "coord_source": "auto:osm:node/12145481411",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Mnzil vehicle page G-13 (schema.org BusTrip itinerary, fetched 2026-09-21)",
+          "url": "https://mnzil.app/vehicles/G-13"
+        }
+      ],
+      "notes": "Ordered stop list from the schema.org BusTrip itinerary embedded in the Mnzil vehicle page (fetched 2026-09-21). Unofficial app data; all rights reserved by Cheeltech, no licence stated (owner decided to include with attribution). One direction only. Only 7 stops listed on Mnzil; Zenodo/Habib University 2024 dataset has G-13 as Fareed Colony - Karachi University (14 stops), a different or longer alignment. Same number as 2010 URC G-13. Only 7 stop(s) listed, so stops_confidence is low."
+    },
+    {
+      "id": "Imran",
+      "name": "Hawksbay Beach - Qayyumabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Hawksbay Beach",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Younusabad",
+          "name_ur": "",
+          "lat": 24.853764,
+          "lon": 66.91264,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:Al-Noor-Coach",
+          "is_station": false
+        },
+        {
+          "name": "Maripur Cycle Chowrangi",
+          "name_ur": "",
+          "lat": 24.860351,
+          "lon": 66.922649,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pakistan Marine Academy Maripur",
+          "name_ur": "",
+          "lat": 24.866937,
+          "lon": 66.932657,
+          "coord_source": "auto:osm:node/5091556135",
+          "is_station": false
+        },
+        {
+          "name": "Truck Ada - Mauripur",
+          "name_ur": "",
+          "lat": 24.880655,
+          "lon": 66.939592,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "PAF Masroor Base - Mauripur",
+          "name_ur": "",
+          "lat": 24.894373,
+          "lon": 66.946526,
+          "coord_source": "auto:osm:way/58756956",
+          "is_station": false
+        },
+        {
+          "name": "Gulbai",
+          "name_ur": "",
+          "lat": 24.876587,
+          "lon": 66.969813,
+          "coord_source": "auto:osm:node/7416125312",
+          "is_station": false
+        },
+        {
+          "name": "Agra Taj Colony",
+          "name_ur": "",
+          "lat": 24.876354,
+          "lon": 66.988103,
+          "coord_source": "auto:osm:node/7820425057",
+          "is_station": false
+        },
+        {
+          "name": "Machar Colony",
+          "name_ur": "",
+          "lat": 24.862943,
+          "lon": 66.979858,
+          "coord_source": "auto:osm:node/6773459837",
+          "is_station": false
+        },
+        {
+          "name": "ICI Brigde",
+          "name_ur": "",
+          "lat": 24.854228,
+          "lon": 66.986018,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Port Grand Karachi",
+          "name_ur": "",
+          "lat": 24.845513,
+          "lon": 66.992177,
+          "coord_source": "auto:osm:way/479697908",
+          "is_station": false
+        },
+        {
+          "name": "Kharadar",
+          "name_ur": "",
+          "lat": 24.85005,
+          "lon": 66.994364,
+          "coord_source": "auto:osm:node/4776942995",
+          "is_station": false
+        },
+        {
+          "name": "Tower",
+          "name_ur": "",
+          "lat": 24.848751,
+          "lon": 66.996677,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:Sheraz-Coach",
+          "is_station": false
+        },
+        {
+          "name": "Bahria Complex 1",
+          "name_ur": "",
+          "lat": 24.845032,
+          "lon": 66.996871,
+          "coord_source": "auto:osm:node/5128462821",
+          "is_station": false
+        },
+        {
+          "name": "MT Khan Road",
+          "name_ur": "",
+          "lat": 24.842215,
+          "lon": 67.010278,
+          "coord_source": "auto:osm:way/471352067",
+          "is_station": false
+        },
+        {
+          "name": "Lalazar",
+          "name_ur": "",
+          "lat": 24.842943,
+          "lon": 67.00293,
+          "coord_source": "auto:osm:node/8634489714",
+          "is_station": false
+        },
+        {
+          "name": "Bahria Complex 2",
+          "name_ur": "",
+          "lat": 24.843838,
+          "lon": 67.002655,
+          "coord_source": "auto:osm:way/480074421",
+          "is_station": false
+        },
+        {
+          "name": "Bahria Complex 3",
+          "name_ur": "",
+          "lat": 24.843933,
+          "lon": 67.003093,
+          "coord_source": "auto:osm:node/4724246283",
+          "is_station": false
+        },
+        {
+          "name": "Clifton",
+          "name_ur": "",
+          "lat": 24.820465,
+          "lon": 67.018806,
+          "coord_source": "auto:osm:way/487063875",
+          "is_station": false
+        },
+        {
+          "name": "Boat Basin",
+          "name_ur": "",
+          "lat": 24.821449,
+          "lon": 67.018304,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:Gulistan-Coach",
+          "is_station": false
+        },
+        {
+          "name": "KPT Underpass",
+          "name_ur": "",
+          "lat": 24.827638,
+          "lon": 67.034768,
+          "coord_source": "auto:nominatim:way/262678771",
+          "is_station": false
+        },
+        {
+          "name": "Submarine Chowk",
+          "name_ur": "",
+          "lat": 24.828954,
+          "lon": 67.04021,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Punjab Chowrangi",
+          "name_ur": "",
+          "lat": 24.83027,
+          "lon": 67.045651,
+          "coord_source": "auto:osm:way/483404668",
+          "is_station": false
+        },
+        {
+          "name": "DHA Phase 2",
+          "name_ur": "",
+          "lat": 24.837674,
+          "lon": 67.058868,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:pink-bus-part3",
+          "is_station": false
+        },
+        {
+          "name": "Gold Mark Shopping Mall 1",
+          "name_ur": "",
+          "lat": 24.837236,
+          "lon": 67.068186,
+          "coord_source": "auto:osm:node/4774619845",
+          "is_station": false
+        },
+        {
+          "name": "NADRA Mega Centre DHA",
+          "name_ur": "",
+          "lat": 24.836251,
+          "lon": 67.070429,
+          "coord_source": "auto:osm:way/651643429",
+          "is_station": false
+        },
+        {
+          "name": "Akhtar Colony",
+          "name_ur": "",
+          "lat": 24.834973,
+          "lon": 67.072057,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Defence Mor",
+          "name_ur": "",
+          "lat": 24.833695,
+          "lon": 67.073686,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:61-A",
+          "is_station": false
+        },
+        {
+          "name": "Qayyumabad",
+          "name_ur": "",
+          "lat": 24.829302,
+          "lon": 67.080917,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:Gulistan-Coach",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Mnzil vehicle page Imran (schema.org BusTrip itinerary, fetched 2026-09-21)",
+          "url": "https://mnzil.app/vehicles/Imran"
+        }
+      ],
+      "notes": "Ordered stop list from the schema.org BusTrip itinerary embedded in the Mnzil vehicle page (fetched 2026-09-21). Unofficial app data; all rights reserved by Cheeltech, no licence stated (owner decided to include with attribution). One direction only. Named coach service ('Imran'); not in the 2010 URC list or our current file."
+    },
+    {
+      "id": "P-3",
+      "name": "Shireen Jinnah Colony - Abdullah Mor - Surjani",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Shireen Jinnah Colony",
+          "name_ur": "",
+          "lat": 24.817357,
+          "lon": 66.995781,
+          "coord_source": "auto:osm:node/5327511417",
+          "is_station": false
+        },
+        {
+          "name": "Masan Chowk",
+          "name_ur": "",
+          "lat": 24.819623,
+          "lon": 66.989917,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Keamari",
+          "name_ur": "",
+          "lat": 24.821889,
+          "lon": 66.984053,
+          "coord_source": "auto:osm:node/6681694152",
+          "is_station": false
+        },
+        {
+          "name": "Jackson Market - keamari",
+          "name_ur": "",
+          "lat": 24.823311,
+          "lon": 66.978887,
+          "coord_source": "auto:osm:way/721108014",
+          "is_station": false
+        },
+        {
+          "name": "Port Grand Karachi",
+          "name_ur": "",
+          "lat": 24.845513,
+          "lon": 66.992177,
+          "coord_source": "auto:osm:way/479697908",
+          "is_station": false
+        },
+        {
+          "name": "Tower",
+          "name_ur": "",
+          "lat": 24.848751,
+          "lon": 66.996677,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:Sheraz-Coach",
+          "is_station": false
+        },
+        {
+          "name": "Kharadar",
+          "name_ur": "",
+          "lat": 24.85005,
+          "lon": 66.994364,
+          "coord_source": "auto:osm:node/4776942995",
+          "is_station": false
+        },
+        {
+          "name": "Khajor Bazar - Lee Market",
+          "name_ur": "",
+          "lat": 24.854924,
+          "lon": 67.005092,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lee Market",
+          "name_ur": "",
+          "lat": 24.859799,
+          "lon": 67.01582,
+          "coord_source": "auto:osm:node/12312150079",
+          "is_station": false
+        },
+        {
+          "name": "Ranchore Line",
+          "name_ur": "",
+          "lat": 24.870706,
+          "lon": 67.022359,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Garden",
+          "name_ur": "",
+          "lat": 24.881614,
+          "lon": 67.028899,
+          "coord_source": "auto:osm:node/12168900756",
+          "is_station": false
+        },
+        {
+          "name": "Jamat Kahana Signal",
+          "name_ur": "",
+          "lat": 24.884502,
+          "lon": 67.030959,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lasbela",
+          "name_ur": "",
+          "lat": 24.887391,
+          "lon": 67.033019,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:1-E",
+          "is_station": false
+        },
+        {
+          "name": "Teen Hatti",
+          "name_ur": "",
+          "lat": 24.892254,
+          "lon": 67.043495,
+          "coord_source": "auto:osm:node/4314129401",
+          "is_station": false
+        },
+        {
+          "name": "Liaquatabad No.10 - Lalukhet",
+          "name_ur": "",
+          "lat": 24.905349,
+          "lon": 67.048811,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Karimabad - Meena Bazaar",
+          "name_ur": "",
+          "lat": 24.918445,
+          "lon": 67.054126,
+          "coord_source": "auto:osm:node/12145481411",
+          "is_station": false
+        },
+        {
+          "name": "Water Pump",
+          "name_ur": "",
+          "lat": 24.936895,
+          "lon": 67.07571,
+          "coord_source": "auto:osm:node/5112904033",
+          "is_station": false
+        },
+        {
+          "name": "Gulberg Chowrangi",
+          "name_ur": "",
+          "lat": 24.942086,
+          "lon": 67.071037,
+          "coord_source": "auto:osm:node/4166787210",
+          "is_station": false
+        },
+        {
+          "name": "Nagan Chowrangi",
+          "name_ur": "",
+          "lat": 24.965042,
+          "lon": 67.066866,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:Route-3",
+          "is_station": false
+        },
+        {
+          "name": "UP Mor",
+          "name_ur": "",
+          "lat": 24.972761,
+          "lon": 67.066711,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:Route-3",
+          "is_station": false
+        },
+        {
+          "name": "Power House Chowrangi",
+          "name_ur": "",
+          "lat": 24.984011,
+          "lon": 67.066074,
+          "coord_source": "auto:osm:node/8637079797",
+          "is_station": false
+        },
+        {
+          "name": "2 Minute Chowrangi",
+          "name_ur": "",
+          "lat": 24.998514,
+          "lon": 67.065136,
+          "coord_source": "auto:osm:node/8637079795",
+          "is_station": false
+        },
+        {
+          "name": "Kala School Bus Stop - New Karachi",
+          "name_ur": "",
+          "lat": 25.01221,
+          "lon": 67.068438,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Abdullah Mor - Surjani",
+          "name_ur": "",
+          "lat": 25.025906,
+          "lon": 67.071741,
+          "coord_source": "auto:photon:N/5160354705",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Mnzil vehicle page P-3 (schema.org BusTrip itinerary, fetched 2026-09-21)",
+          "url": "https://mnzil.app/vehicles/P-3"
+        }
+      ],
+      "notes": "Ordered stop list from the schema.org BusTrip itinerary embedded in the Mnzil vehicle page (fetched 2026-09-21). Unofficial app data; all rights reserved by Cheeltech, no licence stated (owner decided to include with attribution). One direction only. Same number as 2010 URC P-3."
+    },
+    {
+      "id": "S-2",
+      "name": "Korangi Coast Guard - Godhra",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Korangi Coast Guard",
+          "name_ur": "",
+          "lat": 24.82001,
+          "lon": 67.147349,
+          "coord_source": "auto:osm:node/2056762442",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 2 ½",
+          "name_ur": "",
+          "lat": 24.821085,
+          "lon": 67.143697,
+          "coord_source": "auto:osm:node/5156526990",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 2",
+          "name_ur": "",
+          "lat": 24.826819,
+          "lon": 67.129813,
+          "coord_source": "auto:nominatim:way/530752749",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 1",
+          "name_ur": "",
+          "lat": 24.822051,
+          "lon": 67.13286,
+          "coord_source": "auto:osm:node/12144299481",
+          "is_station": false
+        },
+        {
+          "name": "Nasir Jump",
+          "name_ur": "",
+          "lat": 24.820463,
+          "lon": 67.125114,
+          "coord_source": "auto:osm:node/12126274344",
+          "is_station": false
+        },
+        {
+          "name": "Korangi Crossing Road",
+          "name_ur": "",
+          "lat": 24.815003,
+          "lon": 67.111795,
+          "coord_source": "auto:osm:way/147615327",
+          "is_station": false
+        },
+        {
+          "name": "Qayyumabad",
+          "name_ur": "",
+          "lat": 24.829302,
+          "lon": 67.080917,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:Gulistan-Coach",
+          "is_station": false
+        },
+        {
+          "name": "Defence phase 2",
+          "name_ur": "",
+          "lat": 24.838635,
+          "lon": 67.080909,
+          "coord_source": "auto:osm:node/5327511655",
+          "is_station": false
+        },
+        {
+          "name": "Tariq Road",
+          "name_ur": "",
+          "lat": 24.865539,
+          "lon": 67.056074,
+          "coord_source": "auto:osm:way/518558999",
+          "is_station": false
+        },
+        {
+          "name": "Naheed Supermarket - Main Shaheed-e-Millat Rd",
+          "name_ur": "",
+          "lat": 24.874671,
+          "lon": 67.061644,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Moti Mahal",
+          "name_ur": "",
+          "lat": 24.883804,
+          "lon": 67.067213,
+          "coord_source": "auto:osm:node/5146859654",
+          "is_station": false
+        },
+        {
+          "name": "Jail Chowrangi",
+          "name_ur": "",
+          "lat": 24.884856,
+          "lon": 67.056578,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:Gulistan-Coach",
+          "is_station": false
+        },
+        {
+          "name": "New Town",
+          "name_ur": "",
+          "lat": 24.883963,
+          "lon": 67.055433,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:Sheraz-Coach",
+          "is_station": false
+        },
+        {
+          "name": "Old Sabzi Mandi",
+          "name_ur": "",
+          "lat": 24.901706,
+          "lon": 67.063124,
+          "coord_source": "auto:nominatim:node/5147829623",
+          "is_station": false
+        },
+        {
+          "name": "Hassan Square",
+          "name_ur": "",
+          "lat": 24.90154,
+          "lon": 67.073839,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:Sheraz-Coach",
+          "is_station": false
+        },
+        {
+          "name": "NIPA Chowrangi",
+          "name_ur": "",
+          "lat": 24.917822,
+          "lon": 67.097137,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:pink-bus-part2",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Chowrangi",
+          "name_ur": "",
+          "lat": 24.924613,
+          "lon": 67.091285,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:pink-bus-part2",
+          "is_station": false
+        },
+        {
+          "name": "Lucky One Mall",
+          "name_ur": "",
+          "lat": 24.932302,
+          "lon": 67.087167,
+          "coord_source": "auto:osm:way/549120622",
+          "is_station": false
+        },
+        {
+          "name": "Sohrab Goth",
+          "name_ur": "",
+          "lat": 24.943684,
+          "lon": 67.084346,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:pink-bus-part2",
+          "is_station": false
+        },
+        {
+          "name": "Shafiq Mor",
+          "name_ur": "",
+          "lat": 24.961369,
+          "lon": 67.084833,
+          "coord_source": "auto:osm:node/5333760830",
+          "is_station": false
+        },
+        {
+          "name": "Godhra",
+          "name_ur": "",
+          "lat": 24.967641,
+          "lon": 67.082362,
+          "coord_source": "auto:osm:node/5158643482",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Mnzil vehicle page S-2 Bus (schema.org BusTrip itinerary, fetched 2026-09-21)",
+          "url": "https://mnzil.app/vehicles/S-2-Bus"
+        }
+      ],
+      "notes": "Ordered stop list from the schema.org BusTrip itinerary embedded in the Mnzil vehicle page (fetched 2026-09-21). Unofficial app data; all rights reserved by Cheeltech, no licence stated (owner decided to include with attribution). One direction only. Mnzil page is named 'S-2 Bus' to separate it from Chinchi S-2 (Daak Khana - Alnoor Mor). Zenodo/Habib 2024 has S-2 as Korangi 100 Quarter - Ayub Goth. Same number as 2010 URC S-2."
+    },
+    {
+      "id": "4-H",
+      "name": "4K Chowrangi - Cantt station",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "4K Chowrangi",
+          "name_ur": "",
+          "lat": 25.006425,
+          "lon": 67.064435,
+          "coord_source": "auto:osm:way/488499372",
+          "is_station": false
+        },
+        {
+          "name": "Cantt station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Mnzil vehicle page 4-H (schema.org BusTrip itinerary, fetched 2026-09-21)",
+          "url": "https://mnzil.app/vehicles/4-H"
+        }
+      ],
+      "notes": "Ordered stop list from the schema.org BusTrip itinerary embedded in the Mnzil vehicle page (fetched 2026-09-21). Unofficial app data; all rights reserved by Cheeltech, no licence stated (owner decided to include with attribution). One direction only. Terminals only on Mnzil (4K Chowrangi, Cantt Station). Same number as 2010 URC 4-H. Only 2 stop(s) listed, so stops_confidence is low."
+    },
+    {
+      "id": "Daata",
+      "name": "KDA Flats- Surjani - Badar Commercial 26 Street",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "KDA Flats- Surjani",
+          "name_ur": "",
+          "lat": 25.018094,
+          "lon": 67.063596,
+          "coord_source": "auto:osm:node/5112958729",
+          "is_station": false
+        },
+        {
+          "name": "4K Chowrangi",
+          "name_ur": "",
+          "lat": 25.006425,
+          "lon": 67.064435,
+          "coord_source": "auto:osm:way/488499372",
+          "is_station": false
+        },
+        {
+          "name": "Godhra",
+          "name_ur": "",
+          "lat": 24.982043,
+          "lon": 67.070661,
+          "coord_source": "auto:nominatim:way/553017431",
+          "is_station": false
+        },
+        {
+          "name": "Shafiq Mor",
+          "name_ur": "",
+          "lat": 24.961369,
+          "lon": 67.084833,
+          "coord_source": "auto:osm:node/5333760830",
+          "is_station": false
+        },
+        {
+          "name": "Lucky One Mall",
+          "name_ur": "",
+          "lat": 24.932302,
+          "lon": 67.087167,
+          "coord_source": "auto:osm:way/549120622",
+          "is_station": false
+        },
+        {
+          "name": "Imtiaz Mega Store - Gulshan",
+          "name_ur": "",
+          "lat": 24.928458,
+          "lon": 67.089226,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Chowrangi",
+          "name_ur": "",
+          "lat": 24.924613,
+          "lon": 67.091285,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:pink-bus-part2",
+          "is_station": false
+        },
+        {
+          "name": "NIPA Chowrangi",
+          "name_ur": "",
+          "lat": 24.917822,
+          "lon": 67.097137,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:pink-bus-part2",
+          "is_station": false
+        },
+        {
+          "name": "New Sabzi Mandi",
+          "name_ur": "",
+          "lat": 24.909681,
+          "lon": 67.085488,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hassan Square",
+          "name_ur": "",
+          "lat": 24.90154,
+          "lon": 67.073839,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:Sheraz-Coach",
+          "is_station": false
+        },
+        {
+          "name": "Jail Chowrangi",
+          "name_ur": "",
+          "lat": 24.884856,
+          "lon": 67.056578,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:Gulistan-Coach",
+          "is_station": false
+        },
+        {
+          "name": "Tariq Road",
+          "name_ur": "",
+          "lat": 24.875717,
+          "lon": 67.062402,
+          "coord_source": "auto:osm:way/544945002",
+          "is_station": false
+        },
+        {
+          "name": "Nursery",
+          "name_ur": "",
+          "lat": 24.860553,
+          "lon": 67.061139,
+          "coord_source": "auto:osm:way/783838169",
+          "is_station": false
+        },
+        {
+          "name": "Regent Plaza",
+          "name_ur": "",
+          "lat": 24.854851,
+          "lon": 67.039915,
+          "coord_source": "auto:osm:way/483716641",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah Hospital",
+          "name_ur": "",
+          "lat": 24.851742,
+          "lon": 67.047135,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:61-A",
+          "is_station": false
+        },
+        {
+          "name": "Askari 1",
+          "name_ur": "",
+          "lat": 24.834727,
+          "lon": 67.038501,
+          "coord_source": "auto:osm:way/733792833",
+          "is_station": false
+        },
+        {
+          "name": "Cantt station",
+          "name_ur": "",
+          "lat": 24.843212,
+          "lon": 67.039307,
+          "coord_source": "auto:osm:node/4735339522",
+          "is_station": false
+        },
+        {
+          "name": "Punjab Chowrangi",
+          "name_ur": "",
+          "lat": 24.83027,
+          "lon": 67.045651,
+          "coord_source": "auto:osm:way/483404668",
+          "is_station": false
+        },
+        {
+          "name": "Do Talwar",
+          "name_ur": "",
+          "lat": 24.821338,
+          "lon": 67.034114,
+          "coord_source": "auto:osm:node/292144327",
+          "is_station": false
+        },
+        {
+          "name": "Clifton",
+          "name_ur": "",
+          "lat": 24.820465,
+          "lon": 67.018806,
+          "coord_source": "auto:osm:way/487063875",
+          "is_station": false
+        },
+        {
+          "name": "Abdullah Shah Ghazi",
+          "name_ur": "",
+          "lat": 24.811617,
+          "lon": 67.032001,
+          "coord_source": "auto:osm:node/12146187598",
+          "is_station": false
+        },
+        {
+          "name": "Dolmen Mall - Clifton",
+          "name_ur": "",
+          "lat": 24.802194,
+          "lon": 67.029276,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:pink-bus-part3",
+          "is_station": false
+        },
+        {
+          "name": "Badar Commercial 26 Street",
+          "name_ur": "",
+          "lat": 24.798862,
+          "lon": 67.043715,
+          "coord_source": "auto:photon:W/524576918",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Mnzil vehicle page Daata (schema.org BusTrip itinerary, fetched 2026-09-21)",
+          "url": "https://mnzil.app/vehicles/Daata"
+        },
+        {
+          "title": "Public Transport in Karachi – 2023 Updates (Zameen Blog, 2023-02-23)",
+          "url": "https://www.zameen.com/blog/public-transport-karachi.html"
+        },
+        {
+          "title": "Karachi Bus Network (Pasta, Khan, Aslam; Habib University), Zenodo, CC-BY-4.0",
+          "url": "https://doi.org/10.5281/zenodo.13951512"
+        }
+      ],
+      "notes": "Ordered stop list from the schema.org BusTrip itinerary embedded in the Mnzil vehicle page (fetched 2026-09-21). Unofficial app data; all rights reserved by Cheeltech, no licence stated (owner decided to include with attribution). One direction only. This is the Data (Daata) Coach: Mnzil shows a Chinchi icon for it, but a 23-stop Surjani - Clifton run via Tariq Road and Cantt Station is a coach alignment, and it matches the URC 2010 'Data Coach' (Surjani Town - Halipad), the Zameen Blog 2023 'Data Coach Route: KDA Site Office to Abdullah Shah Ghazi Mazar' and the Zenodo 'DATA-Coach' chain. Put in the bus file for that reason; move to karachi-chinchi if Mnzil's icon turns out to be right."
+    },
+    {
+      "id": "D-10",
+      "name": "Korangi 100 Quarter - Taiser Town",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Korangi 100 Quarter",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Korangi No 5",
+          "name_ur": "",
+          "lat": 24.820693,
+          "lon": 67.140373,
+          "coord_source": "auto:nominatim:relation/16350630",
+          "is_station": false
+        },
+        {
+          "name": "Landhi No 6",
+          "name_ur": "",
+          "lat": 24.832665,
+          "lon": 67.174286,
+          "coord_source": "auto:osm:node/12141962766",
+          "is_station": false
+        },
+        {
+          "name": "Landhi No 5",
+          "name_ur": "",
+          "lat": 24.835192,
+          "lon": 67.177409,
+          "coord_source": "auto:nominatim:relation/16350631",
+          "is_station": false
+        },
+        {
+          "name": "Landhi No 4",
+          "name_ur": "",
+          "lat": 24.837334,
+          "lon": 67.182722,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Landhi No 3",
+          "name_ur": "",
+          "lat": 24.839475,
+          "lon": 67.188036,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Landhi No 2",
+          "name_ur": "",
+          "lat": 24.841617,
+          "lon": 67.193349,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Landhi No 1",
+          "name_ur": "",
+          "lat": 24.843759,
+          "lon": 67.198663,
+          "coord_source": "auto:same-name:ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:F-16",
+          "is_station": false
+        },
+        {
+          "name": "Dawood Chowrangi",
+          "name_ur": "",
+          "lat": 24.85068,
+          "lon": 67.207145,
+          "coord_source": "auto:same-name:ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:51-C",
+          "is_station": false
+        },
+        {
+          "name": "Quaidabad",
+          "name_ur": "",
+          "lat": 24.855128,
+          "lon": 67.211744,
+          "coord_source": "auto:same-name:ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:51-C",
+          "is_station": false
+        },
+        {
+          "name": "Malir City",
+          "name_ur": "",
+          "lat": 24.87919,
+          "lon": 67.188103,
+          "coord_source": "auto:osm:node/12278534848",
+          "is_station": false
+        },
+        {
+          "name": "Malir Halt",
+          "name_ur": "",
+          "lat": 24.884427,
+          "lon": 67.174553,
+          "coord_source": "auto:osm:node/5226556649",
+          "is_station": false
+        },
+        {
+          "name": "Star Gate",
+          "name_ur": "",
+          "lat": 24.887144,
+          "lon": 67.154145,
+          "coord_source": "auto:osm:node/5226556632",
+          "is_station": false
+        },
+        {
+          "name": "Natha Khan Goth",
+          "name_ur": "",
+          "lat": 24.882777,
+          "lon": 67.135761,
+          "coord_source": "auto:osm:node/5188687716",
+          "is_station": false
+        },
+        {
+          "name": "Drigh Road",
+          "name_ur": "",
+          "lat": 24.886686,
+          "lon": 67.12584,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:pink-bus-part2",
+          "is_station": false
+        },
+        {
+          "name": "Rashid Minhas Road",
+          "name_ur": "",
+          "lat": 24.888734,
+          "lon": 67.124399,
+          "coord_source": "auto:osm:way/83675218",
+          "is_station": false
+        },
+        {
+          "name": "Drive-in-cinema",
+          "name_ur": "",
+          "lat": 24.901253,
+          "lon": 67.111411,
+          "coord_source": "auto:same-name:ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:G-25",
+          "is_station": false
+        },
+        {
+          "name": "Jauhar Mor",
+          "name_ur": "",
+          "lat": 24.910077,
+          "lon": 67.114401,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:pink-bus-part2",
+          "is_station": false
+        },
+        {
+          "name": "Nipa Chowrangi",
+          "name_ur": "",
+          "lat": 24.917822,
+          "lon": 67.097137,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:pink-bus-part2",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Chowrangi",
+          "name_ur": "",
+          "lat": 24.924613,
+          "lon": 67.091285,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:pink-bus-part2",
+          "is_station": false
+        },
+        {
+          "name": "Sohrab Goth",
+          "name_ur": "",
+          "lat": 24.943684,
+          "lon": 67.084346,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:pink-bus-part2",
+          "is_station": false
+        },
+        {
+          "name": "Power House",
+          "name_ur": "",
+          "lat": 24.952923,
+          "lon": 67.077485,
+          "coord_source": "auto:same-name:ext:zenodo-karachi:Route-3",
+          "is_station": false
+        },
+        {
+          "name": "Godhra",
+          "name_ur": "",
+          "lat": 24.967641,
+          "lon": 67.082362,
+          "coord_source": "auto:osm:node/5158643482",
+          "is_station": false
+        },
+        {
+          "name": "New Karachi Industrial Area",
+          "name_ur": "",
+          "lat": 24.977256,
+          "lon": 67.083811,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Saba Cinema",
+          "name_ur": "",
+          "lat": 24.986871,
+          "lon": 67.08526,
+          "coord_source": "auto:osm:node/766701835",
+          "is_station": false
+        },
+        {
+          "name": "New Karachi No 5",
+          "name_ur": "",
+          "lat": 24.972536,
+          "lon": 67.066952,
+          "coord_source": "auto:osm:node/6773443094",
+          "is_station": false
+        },
+        {
+          "name": "Allahwali Masjid",
+          "name_ur": "",
+          "lat": 24.987477,
+          "lon": 67.065969,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "4-k Chowrangi",
+          "name_ur": "",
+          "lat": 25.002418,
+          "lon": 67.064985,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kda Stop",
+          "name_ur": "",
+          "lat": 25.017359,
+          "lon": 67.064002,
+          "coord_source": "auto:osm:node/8637079792",
+          "is_station": false
+        },
+        {
+          "name": "Maraqba Hall",
+          "name_ur": "",
+          "lat": 25.024987,
+          "lon": 67.078873,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Khuda Ki Basti",
+          "name_ur": "",
+          "lat": 25.032615,
+          "lon": 67.093743,
+          "coord_source": "auto:osm:node/5331572198",
+          "is_station": false
+        },
+        {
+          "name": "Lerp Colony",
+          "name_ur": "",
+          "lat": 25.044435,
+          "lon": 67.116545,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Taiser Town",
+          "name_ur": "",
+          "lat": 25.056255,
+          "lon": 67.139347,
+          "coord_source": "auto:osm:node/13983767075",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Public Transport in Karachi – 2023 Updates (Zameen Blog, 2023-02-23)",
+          "url": "https://www.zameen.com/blog/public-transport-karachi.html"
+        },
+        {
+          "title": "Karachi Bus Network (Pasta, Khan, Aslam; Habib University), Zenodo, CC-BY-4.0",
+          "url": "https://doi.org/10.5281/zenodo.13951512"
+        }
+      ],
+      "notes": "Zameen Blog (2023-02-23) lists 'D10 Mini Bus Route: Korangi 100 Quarters to Taiser Town' as a current route, with terminals only. The ordered stops are the Zenodo/Habib University chain for label D-10 (CC-BY-4.0; the authors took the routes from the HamariWeb and Travel Culture websites, which are undated, so the age of the stop list is unknown). Both Zenodo D-10 chains are identical, so one was used. Not in the URC 2010 list, RastaYaar or Mnzil. stops_confidence low because the stop list cannot be dated."
+    },
+    {
+      "id": "F-16",
+      "name": "Qasba Colony - Machine Tool Factory",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Qasba Colony",
+          "name_ur": "قصبہ کالونی",
+          "lat": 24.942143,
+          "lon": 67.023712,
+          "coord_source": "auto:osm:node/7034761166",
+          "is_station": false
+        },
+        {
+          "name": "Manghopir Road",
+          "name_ur": "منگھوپیر روڈ",
+          "lat": 24.954718,
+          "lon": 67.029464,
+          "coord_source": "auto:osm:way/696255148",
+          "is_station": false
+        },
+        {
+          "name": "Nusrat Bhutto Colony",
+          "name_ur": "",
+          "lat": 24.962442,
+          "lon": 67.047952,
+          "coord_source": "auto:osm:node/4340681783",
+          "is_station": false
+        },
+        {
+          "name": "Sakhi Hasan",
+          "name_ur": "",
+          "lat": 24.958841,
+          "lon": 67.05488,
+          "coord_source": "auto:osm:way/381459025",
+          "is_station": false
+        },
+        {
+          "name": "Hyderi",
+          "name_ur": "",
+          "lat": 24.937223,
+          "lon": 67.042694,
+          "coord_source": "auto:same-name:osm:node/8474862578",
+          "is_station": false
+        },
+        {
+          "name": "Dr. Ziauddin Hospital",
+          "name_ur": "",
+          "lat": 24.924672,
+          "lon": 67.045882,
+          "coord_source": "auto:osm:node/12211872345",
+          "is_station": false
+        },
+        {
+          "name": "Karimabad",
+          "name_ur": "",
+          "lat": 24.919553,
+          "lon": 67.055681,
+          "coord_source": "auto:osm:node/8321073498",
+          "is_station": false
+        },
+        {
+          "name": "Liaquatabad",
+          "name_ur": "لیاقت آباد",
+          "lat": 24.904136,
+          "lon": 67.053271,
+          "coord_source": "auto:osm:node/4777293754",
+          "is_station": false
+        },
+        {
+          "name": "Teen Hati",
+          "name_ur": "",
+          "lat": 24.892748,
+          "lon": 67.045639,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Guru Mandir",
+          "name_ur": "",
+          "lat": 24.88136,
+          "lon": 67.038008,
+          "coord_source": "auto:osm:node/12183370529",
+          "is_station": false
+        },
+        {
+          "name": "Numaish",
+          "name_ur": "",
+          "lat": 24.872181,
+          "lon": 67.035523,
+          "coord_source": "auto:same-name:osm:node/8637095180",
+          "is_station": false
+        },
+        {
+          "name": "Khudadad Colony",
+          "name_ur": "",
+          "lat": 24.870196,
+          "lon": 67.044031,
+          "coord_source": "ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:F-16",
+          "is_station": false
+        },
+        {
+          "name": "Nursery",
+          "name_ur": "",
+          "lat": 24.860553,
+          "lon": 67.061139,
+          "coord_source": "auto:osm:way/783838169",
+          "is_station": false
+        },
+        {
+          "name": "Gora Qabristan",
+          "name_ur": "",
+          "lat": 24.855567,
+          "lon": 67.049874,
+          "coord_source": "auto:osm:way/39989268",
+          "is_station": false
+        },
+        {
+          "name": "Defence",
+          "name_ur": "",
+          "lat": 24.833695,
+          "lon": 67.073686,
+          "coord_source": "auto:osm:node/286464835",
+          "is_station": false
+        },
+        {
+          "name": "Akhter Colony",
+          "name_ur": "",
+          "lat": 24.840594,
+          "lon": 67.073282,
+          "coord_source": "auto:osm:node/5327511653",
+          "is_station": false
+        },
+        {
+          "name": "Korangi No. 1",
+          "name_ur": "",
+          "lat": 24.822373,
+          "lon": 67.132825,
+          "coord_source": "ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:F-16",
+          "is_station": false
+        },
+        {
+          "name": "Korangi No. 3",
+          "name_ur": "",
+          "lat": 24.83465,
+          "lon": 67.09981,
+          "coord_source": "ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:F-16",
+          "is_station": false
+        },
+        {
+          "name": "Korangi No. 5 1/2",
+          "name_ur": "پی ای سی ایچ ایس بلاک 2",
+          "lat": 24.842711,
+          "lon": 67.072254,
+          "coord_source": "auto:osm:way/643625345",
+          "is_station": false
+        },
+        {
+          "name": "Korangi No. 5",
+          "name_ur": "",
+          "lat": 24.834432,
+          "lon": 67.072674,
+          "coord_source": "ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:F-16",
+          "is_station": false
+        },
+        {
+          "name": "Dhobi Ghat",
+          "name_ur": "",
+          "lat": 24.877074,
+          "lon": 67.012839,
+          "coord_source": "auto:osm:node/5110051342",
+          "is_station": false
+        },
+        {
+          "name": "Degree College",
+          "name_ur": "",
+          "lat": 24.898791,
+          "lon": 67.205773,
+          "coord_source": "ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:F-16",
+          "is_station": false
+        },
+        {
+          "name": "Korangi Market",
+          "name_ur": "",
+          "lat": 24.875913,
+          "lon": 67.193944,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Korangi No. 6",
+          "name_ur": "",
+          "lat": 24.853034,
+          "lon": 67.182115,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Landhi No. 6",
+          "name_ur": "",
+          "lat": 24.830156,
+          "lon": 67.170286,
+          "coord_source": "ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:F-16",
+          "is_station": false
+        },
+        {
+          "name": "Landhi No.1",
+          "name_ur": "",
+          "lat": 24.843759,
+          "lon": 67.198663,
+          "coord_source": "ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:F-16",
+          "is_station": false
+        },
+        {
+          "name": "Dawood Chowrangi",
+          "name_ur": "",
+          "lat": 24.85068,
+          "lon": 67.207145,
+          "coord_source": "auto:same-name:ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:51-C",
+          "is_station": false
+        },
+        {
+          "name": "Gul Ahmed",
+          "name_ur": "",
+          "lat": 24.855868,
+          "lon": 67.17699,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hospital Chowrangi",
+          "name_ur": "",
+          "lat": 24.861056,
+          "lon": 67.146835,
+          "coord_source": "auto:osm:way/772389379",
+          "is_station": false
+        },
+        {
+          "name": "labour Square",
+          "name_ur": "",
+          "lat": 24.838444,
+          "lon": 67.148503,
+          "coord_source": "auto:osm:node/5333760796",
+          "is_station": false
+        },
+        {
+          "name": "Machine Tool Factory",
+          "name_ur": "",
+          "lat": 24.839417,
+          "lon": 67.253267,
+          "coord_source": "ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:F-16",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Bus Routes Karachi (January 2010)",
+          "url": "https://urckarachi.org/wp-content/uploads/2020/07/Bus-Routes-Karachi.pdf"
+        },
+        {
+          "title": "Habib University Karachi bus network (CC-BY-4.0): F-16",
+          "url": "https://doi.org/10.5281/zenodo.13951512"
+        },
+        {
+          "title": "Evidence the route still runs",
+          "url": "https://www.zameen.com/blog/public-transport-karachi.html"
+        }
+      ],
+      "notes": "Stop list is from the January 2010 URC list; recent evidence only names the route. Zameen Blog lists 'F16 Mini Bus Route: Mianwali Colony to Machine Tool Factory' among running minibus routes; 2010 F-16 ends at Machine Tool Factory. The Zameen list looks derived from the same HamariWeb data Zenodo used, so it may not be a fresh observation. Evidence strength: weak."
+    },
+    {
+      "id": "G-25",
+      "name": "Gulistan-e-johar No. 10 - Rasheedabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Gulistan-e-johar No. 10",
+          "name_ur": "",
+          "lat": 24.920651,
+          "lon": 67.135631,
+          "coord_source": "auto:osm:way/393928299",
+          "is_station": false
+        },
+        {
+          "name": "Jauhar square",
+          "name_ur": "",
+          "lat": 24.910123,
+          "lon": 67.12504,
+          "coord_source": "ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:G-25",
+          "is_station": false
+        },
+        {
+          "name": "Drive-in-cinema",
+          "name_ur": "",
+          "lat": 24.901253,
+          "lon": 67.111411,
+          "coord_source": "ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:G-25",
+          "is_station": false
+        },
+        {
+          "name": "N.I.P.A",
+          "name_ur": "",
+          "lat": 24.911417,
+          "lon": 67.099851,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Samdani hospital",
+          "name_ur": "صمدانی ہسپتال",
+          "lat": 24.92158,
+          "lon": 67.08829,
+          "coord_source": "auto:osm:node/1410491682",
+          "is_station": false
+        },
+        {
+          "name": "Yasinabad",
+          "name_ur": "",
+          "lat": 24.920228,
+          "lon": 67.075978,
+          "coord_source": "auto:osm:node/8319921435",
+          "is_station": false
+        },
+        {
+          "name": "Aisha Manzil",
+          "name_ur": "",
+          "lat": 24.928784,
+          "lon": 67.067671,
+          "coord_source": "auto:osm:node/12161653839",
+          "is_station": false
+        },
+        {
+          "name": "Landhi kotal",
+          "name_ur": "",
+          "lat": 24.937179,
+          "lon": 67.058891,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Five star",
+          "name_ur": "",
+          "lat": 24.945573,
+          "lon": 67.05011,
+          "coord_source": "auto:same-name:osm:node/8474862579",
+          "is_station": false
+        },
+        {
+          "name": "North Nazimabad",
+          "name_ur": "نارتھ ناظم آباد",
+          "lat": 24.942462,
+          "lon": 67.047719,
+          "coord_source": "auto:osm:node/7010818214",
+          "is_station": false
+        },
+        {
+          "name": "Hyderi",
+          "name_ur": "",
+          "lat": 24.937223,
+          "lon": 67.042694,
+          "coord_source": "auto:same-name:osm:node/8474862578",
+          "is_station": false
+        },
+        {
+          "name": "Board office",
+          "name_ur": "",
+          "lat": 24.92662,
+          "lon": 67.033248,
+          "coord_source": "auto:same-name:osm:node/8474862577",
+          "is_station": false
+        },
+        {
+          "name": "Abdullah college",
+          "name_ur": "",
+          "lat": 24.928699,
+          "lon": 67.025396,
+          "coord_source": "auto:same-name:osm:way/1424945743",
+          "is_station": false
+        },
+        {
+          "name": "Banaras Colony",
+          "name_ur": "",
+          "lat": 24.937403,
+          "lon": 67.019138,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Orangi No 4",
+          "name_ur": "اورنگی ٹاؤن",
+          "lat": 24.946106,
+          "lon": 67.012881,
+          "coord_source": "ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:G-25",
+          "is_station": false
+        },
+        {
+          "name": "Badar Hotel",
+          "name_ur": "",
+          "lat": 24.934068,
+          "lon": 66.997316,
+          "coord_source": "ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:G-25",
+          "is_station": false
+        },
+        {
+          "name": "Mominabad",
+          "name_ur": "مومن آباد",
+          "lat": 24.930464,
+          "lon": 66.991747,
+          "coord_source": "auto:osm:node/4777338445",
+          "is_station": false
+        },
+        {
+          "name": "Rasheedabad",
+          "name_ur": "رشید آباد",
+          "lat": 24.904617,
+          "lon": 66.971842,
+          "coord_source": "auto:osm:node/6773994418",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Bus Routes Karachi (January 2010)",
+          "url": "https://urckarachi.org/wp-content/uploads/2020/07/Bus-Routes-Karachi.pdf"
+        },
+        {
+          "title": "Habib University Karachi bus network (CC-BY-4.0): G-25",
+          "url": "https://doi.org/10.5281/zenodo.13951512"
+        },
+        {
+          "title": "Evidence the route still runs",
+          "url": "https://www.zameen.com/blog/public-transport-karachi.html"
+        }
+      ],
+      "notes": "Stop list is from the January 2010 URC list; recent evidence only names the route. Zameen Blog: 'G25 Mini Bus Route: Ittihad Town to Rasheedabad'. 2010 G-25 starts at Gulistan-e-Johar No. 10, not Ittehad Town. Do not confuse with Chinchi G-25 (Five Star - Gulshan Chowrangi) on Mnzil. Evidence strength: weak."
+    },
+    {
+      "id": "Safari Coach",
+      "name": "Maroora Goth - Mianwali",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Maroora Goth",
+          "name_ur": "",
+          "lat": 24.95035,
+          "lon": 67.141769,
+          "coord_source": "ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:Safari-Coach",
+          "is_station": false
+        },
+        {
+          "name": "Safoora Goth",
+          "name_ur": "",
+          "lat": 24.939295,
+          "lon": 67.156126,
+          "coord_source": "auto:osm:node/5223039136",
+          "is_station": false
+        },
+        {
+          "name": "Gulistan-e-Johar",
+          "name_ur": "",
+          "lat": 24.920651,
+          "lon": 67.135631,
+          "coord_source": "auto:osm:way/393928299",
+          "is_station": false
+        },
+        {
+          "name": "University Road",
+          "name_ur": "یونیورسٹی روڈ",
+          "lat": 24.932402,
+          "lon": 67.126334,
+          "coord_source": "auto:osm:way/551898329",
+          "is_station": false
+        },
+        {
+          "name": "N.I.P.A Chowrangi",
+          "name_ur": "",
+          "lat": 24.916648,
+          "lon": 67.099461,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hassan Square",
+          "name_ur": "",
+          "lat": 24.900894,
+          "lon": 67.072588,
+          "coord_source": "auto:osm:node/5112921417",
+          "is_station": false
+        },
+        {
+          "name": "Sabzi Mandi",
+          "name_ur": "",
+          "lat": 24.901706,
+          "lon": 67.063124,
+          "coord_source": "auto:osm:node/5147829623",
+          "is_station": false
+        },
+        {
+          "name": "Shaheed-e-Millat Road",
+          "name_ur": "",
+          "lat": 24.887885,
+          "lon": 67.052147,
+          "coord_source": "auto:osm:way/10380045",
+          "is_station": false
+        },
+        {
+          "name": "Tariq Road",
+          "name_ur": "",
+          "lat": 24.875717,
+          "lon": 67.062402,
+          "coord_source": "auto:osm:way/544945002",
+          "is_station": false
+        },
+        {
+          "name": "Shahrah-e-Quaideen",
+          "name_ur": "",
+          "lat": 24.86267,
+          "lon": 67.057,
+          "coord_source": "auto:osm:way/39953166",
+          "is_station": false
+        },
+        {
+          "name": "Gora Qabristan",
+          "name_ur": "",
+          "lat": 24.855567,
+          "lon": 67.049874,
+          "coord_source": "auto:osm:way/39989268",
+          "is_station": false
+        },
+        {
+          "name": "Korangi Road",
+          "name_ur": "کورنگی روڈ",
+          "lat": 24.85426,
+          "lon": 67.05183,
+          "coord_source": "auto:osm:way/26160522",
+          "is_station": false
+        },
+        {
+          "name": "Denfence Mour",
+          "name_ur": "",
+          "lat": 24.842265,
+          "lon": 67.048741,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Punjab Colony",
+          "name_ur": "پنجاب کالونی",
+          "lat": 24.83027,
+          "lon": 67.045651,
+          "coord_source": "auto:osm:way/483404668",
+          "is_station": false
+        },
+        {
+          "name": "Gizri",
+          "name_ur": "گزری",
+          "lat": 24.820017,
+          "lon": 67.046002,
+          "coord_source": "auto:osm:way/553001191",
+          "is_station": false
+        },
+        {
+          "name": "Saudi Embassy",
+          "name_ur": "",
+          "lat": 24.816714,
+          "lon": 67.051722,
+          "coord_source": "auto:osm:node/4196686261",
+          "is_station": false
+        },
+        {
+          "name": "Abdullah Shah Gazi Mazar",
+          "name_ur": "",
+          "lat": 24.824283,
+          "lon": 67.044308,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Clifton",
+          "name_ur": "",
+          "lat": 24.831853,
+          "lon": 67.036894,
+          "coord_source": "auto:osm:node/5327511631",
+          "is_station": false
+        },
+        {
+          "name": "Boat Basin",
+          "name_ur": "",
+          "lat": 24.827155,
+          "lon": 67.033882,
+          "coord_source": "auto:osm:node/12260985519",
+          "is_station": false
+        },
+        {
+          "name": "Bilawal House",
+          "name_ur": "",
+          "lat": 24.812319,
+          "lon": 67.020017,
+          "coord_source": "auto:osm:node/4771639451",
+          "is_station": false
+        },
+        {
+          "name": "Mai Kolachi Road",
+          "name_ur": "",
+          "lat": 24.838369,
+          "lon": 67.009694,
+          "coord_source": "auto:osm:way/480074415",
+          "is_station": false
+        },
+        {
+          "name": "Tower",
+          "name_ur": "",
+          "lat": 24.847935,
+          "lon": 66.99537,
+          "coord_source": "auto:osm:node/5133250067",
+          "is_station": false
+        },
+        {
+          "name": "Gulbai",
+          "name_ur": "",
+          "lat": 24.876587,
+          "lon": 66.969813,
+          "coord_source": "auto:osm:node/7416125312",
+          "is_station": false
+        },
+        {
+          "name": "Shershah",
+          "name_ur": "",
+          "lat": 24.889239,
+          "lon": 66.98264,
+          "coord_source": "auto:osm:node/12224621530",
+          "is_station": false
+        },
+        {
+          "name": "Habib Bank Chowrangi",
+          "name_ur": "",
+          "lat": 24.911333,
+          "lon": 67.014248,
+          "coord_source": "auto:osm:node/5089198939",
+          "is_station": false
+        },
+        {
+          "name": "Banaras",
+          "name_ur": "",
+          "lat": 24.929993,
+          "lon": 67.019732,
+          "coord_source": "auto:osm:node/5140969347",
+          "is_station": false
+        },
+        {
+          "name": "Qasba Colony",
+          "name_ur": "قصبہ کالونی",
+          "lat": 24.942143,
+          "lon": 67.023712,
+          "coord_source": "auto:osm:node/7034761166",
+          "is_station": false
+        },
+        {
+          "name": "Mianwali",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Bus Routes Karachi (January 2010)",
+          "url": "https://urckarachi.org/wp-content/uploads/2020/07/Bus-Routes-Karachi.pdf"
+        },
+        {
+          "title": "Habib University Karachi bus network (CC-BY-4.0): Safari-Coach",
+          "url": "https://doi.org/10.5281/zenodo.13951512"
+        },
+        {
+          "title": "Evidence the route still runs",
+          "url": "https://www.zameen.com/blog/public-transport-karachi.html"
+        }
+      ],
+      "notes": "Stop list is from the January 2010 URC list; recent evidence only names the route. Zameen Blog: 'Safari Coach Route: Maroora Goth to Mianwali Colony', the same terminals as 2010. Evidence strength: weak."
+    },
+    {
+      "id": "D-6",
+      "name": "Khokhrapar - Masjid-e-Quba",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Khokhrapar",
+          "name_ur": "",
+          "lat": 24.904097,
+          "lon": 67.211932,
+          "coord_source": "auto:osm:node/4776942990",
+          "is_station": false
+        },
+        {
+          "name": "Malir No. 15",
+          "name_ur": "ملیر ٹاؤن",
+          "lat": 24.895919,
+          "lon": 67.196919,
+          "coord_source": "auto:nominatim:relation/16351913",
+          "is_station": false
+        },
+        {
+          "name": "Nihal Hospital",
+          "name_ur": "",
+          "lat": 24.887976,
+          "lon": 67.173412,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Allama Iqbal College",
+          "name_ur": "",
+          "lat": 24.880033,
+          "lon": 67.149906,
+          "coord_source": "auto:nominatim:node/5269655693",
+          "is_station": false
+        },
+        {
+          "name": "Natha Khan Goth",
+          "name_ur": "",
+          "lat": 24.882777,
+          "lon": 67.135761,
+          "coord_source": "auto:osm:node/5188687716",
+          "is_station": false
+        },
+        {
+          "name": "Drigh Road",
+          "name_ur": "ڈرگ روڈ",
+          "lat": 24.886315,
+          "lon": 67.126189,
+          "coord_source": "auto:same-name:osm:node/3523382867",
+          "is_station": false
+        },
+        {
+          "name": "Karsaz",
+          "name_ur": "کارساز ریلوے اسٹیشن",
+          "lat": 24.874693,
+          "lon": 67.096227,
+          "coord_source": "auto:osm:node/5519027630",
+          "is_station": false
+        },
+        {
+          "name": "Baloch Colony",
+          "name_ur": "",
+          "lat": 24.867295,
+          "lon": 67.082761,
+          "coord_source": "auto:osm:node/3523446756",
+          "is_station": false
+        },
+        {
+          "name": "Nursery",
+          "name_ur": "",
+          "lat": 24.871932,
+          "lon": 67.078799,
+          "coord_source": "auto:osm:node/4773397447",
+          "is_station": false
+        },
+        {
+          "name": "Gora Qabrustan",
+          "name_ur": "",
+          "lat": 24.875281,
+          "lon": 67.072998,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jet Line",
+          "name_ur": "",
+          "lat": 24.878629,
+          "lon": 67.067198,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Iqbal Shaheed Road",
+          "name_ur": "",
+          "lat": 24.881978,
+          "lon": 67.061397,
+          "coord_source": "auto:photon:W/544534813",
+          "is_station": false
+        },
+        {
+          "name": "Fleet Club",
+          "name_ur": "",
+          "lat": 24.857044,
+          "lon": 67.034333,
+          "coord_source": "auto:osm:node/5131123220",
+          "is_station": false
+        },
+        {
+          "name": "Mansfield Street",
+          "name_ur": "",
+          "lat": 24.864837,
+          "lon": 67.029429,
+          "coord_source": "auto:osm:way/58704859",
+          "is_station": false
+        },
+        {
+          "name": "Shahra-e-Iraq",
+          "name_ur": "",
+          "lat": 24.862738,
+          "lon": 67.030008,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Talpur Road",
+          "name_ur": "",
+          "lat": 24.860639,
+          "lon": 67.030588,
+          "coord_source": "auto:osm:way/909201399",
+          "is_station": false
+        },
+        {
+          "name": "Rafique Shaheed Road",
+          "name_ur": "",
+          "lat": 24.854632,
+          "lon": 67.0389,
+          "coord_source": "auto:osm:way/263010378",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah Hospital",
+          "name_ur": "",
+          "lat": 24.851204,
+          "lon": 67.044808,
+          "coord_source": "auto:osm:way/681548723",
+          "is_station": false
+        },
+        {
+          "name": "Kala Pul",
+          "name_ur": "",
+          "lat": 24.850382,
+          "lon": 67.053626,
+          "coord_source": "auto:osm:node/5534257392",
+          "is_station": false
+        },
+        {
+          "name": "Masjid-e-Quba",
+          "name_ur": "",
+          "lat": 24.860125,
+          "lon": 67.078265,
+          "coord_source": "auto:osm:way/839601536",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Bus Routes Karachi (January 2010)",
+          "url": "https://urckarachi.org/wp-content/uploads/2020/07/Bus-Routes-Karachi.pdf"
+        },
+        {
+          "title": "Evidence the route still runs",
+          "url": "https://enews.hamariweb.com/pakistan/exploring-d-6-bus-route-in-karachi-a-pocket-friendly-commute/"
+        }
+      ],
+      "notes": "Stop list is from the January 2010 URC list; recent evidence only names the route. HamariWeb news article presents D-6 Khokhrapar - Masjid-e-Quba as a running route, but its stop list is word-for-word the 2010 list (even the run-together 'NathaKhan Goth', 'JetLine'), so it is probably copied, not observed. Verify before promoting. Evidence strength: weak."
     }
   ]
 }

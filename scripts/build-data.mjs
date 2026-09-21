@@ -34,7 +34,7 @@ const quality = (s) => {
   const src = String(s.coord_source || '');
   if (src.startsWith('ext:')) return 'sourced';
   if (!src.startsWith('auto:')) return 'exact';
-  if (src.startsWith('auto:interpolated')) return 'estimated';
+  if (src.startsWith('auto:interpolated') || src.startsWith('auto:city')) return 'estimated';
   if (src.startsWith('auto:nominatim')) return 'geocoded';
   return 'matched';
 };

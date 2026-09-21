@@ -1,0 +1,68 @@
+[
+  {
+    "id": "S-2",
+    "evidence_url": "https://mnzil.app/vehicles/S-2-Bus",
+    "evidence_date": "2026-09-21",
+    "note": "Mnzil lists bus 'S-2 Bus' Korangi Coast Guard - Godhra (21 stops) following the 2010 alignment (Coast Guard, Korangi 2 1/2, Qayyumabad, Tariq Road, Hassan Square, NIPA, Sohrab Goth, Shafiq Mor, Godhra). Also named in Zameen Blog 2023-02-23 (Korangi 100 Quarters - Ayub Goth). Current stops added to karachi-bus-more.json as S-2; import that instead of promoting the 2010 stops. Evidence strength: strong."
+  },
+  {
+    "id": "P-3",
+    "evidence_url": "https://mnzil.app/vehicles/P-3",
+    "evidence_date": "2026-09-21",
+    "note": "Mnzil lists P-3 Shireen Jinnah Colony - Abdullah Mor Surjani (24 stops); same corridor as 2010 (Surjani, Nagan, Power House, Water Pump, Karimabad, Liaquatabad 10, Teen Hatti, Lasbela, Garden, Lee Market, Kharadar, Tower), now extended to Keamari/Shireen Jinnah Colony. Current stops in karachi-bus-more.json. Evidence strength: strong."
+  },
+  {
+    "id": "Data Coach",
+    "evidence_url": "https://mnzil.app/vehicles/Daata",
+    "evidence_date": "2026-09-21",
+    "note": "Mnzil 'Daata' KDA Flats Surjani - Badar Commercial (23 stops) follows the 2010 Data Coach corridor (Surjani, Power House, Sohrab Goth, NIPA, Tariq Road, Nursery, Jinnah Hospital, Cantt, Abdullah Shah Ghazi). Also Zameen Blog 2023-02-23. Current stops in karachi-bus-more.json as 'Daata'. Evidence strength: strong."
+  },
+  {
+    "id": "51-A",
+    "evidence_url": "https://mnzil.app/vehicles/51A-",
+    "evidence_date": "2026-09-21",
+    "note": "Mnzil '51A' Lee Market - Ghaghar Phatak (36 stops); 2010 51-A ran Shidi Village - Lee Market via Chaukhandi, Quaidabad, Malir, National Stadium, Garden, a similar corridor. Current stops in karachi-bus-more.json. Evidence strength: medium."
+  },
+  {
+    "id": "G-13",
+    "evidence_url": "https://mnzil.app/vehicles/G-13",
+    "evidence_date": "2026-09-21",
+    "note": "Mnzil G-13 Banaras - Karimabad (7 stops: Banaras, Metro Cinema, Abdullah College, KDA Chowrangi, Ziauddin Hospital, Landi Kotal, Karimabad) is a section of the 2010 G-13 (Fareed Colony - University Road). Zenodo 2024 also has G-13 Fareed Colony - Karachi University. Evidence strength: medium."
+  },
+  {
+    "id": "4-H",
+    "evidence_url": "https://mnzil.app/vehicles/4-H",
+    "evidence_date": "2026-09-21",
+    "note": "Mnzil lists 4-H with terminals 4K Chowrangi - Cantt Station only; consistent with the 2010 4-H (Surjani - Cantt Station - Ack Ack School). Stops not confirmed. Evidence strength: medium."
+  },
+  {
+    "id": "D-17",
+    "evidence_url": "https://mnzil.app/vehicles/D-17",
+    "evidence_date": "2026-09-21",
+    "note": "Mnzil has a D-17 bus page with a single stop (Quaidabad), which is on the 2010 D-17 (Surjani - Qayyumabad via Quaidabad). Route number in use; alignment unconfirmed. Evidence strength: weak."
+  },
+  {
+    "id": "F-16",
+    "evidence_url": "https://www.zameen.com/blog/public-transport-karachi.html",
+    "evidence_date": "2023-02-23",
+    "note": "Zameen Blog lists 'F16 Mini Bus Route: Mianwali Colony to Machine Tool Factory' among running minibus routes; 2010 F-16 ends at Machine Tool Factory. The Zameen list looks derived from the same HamariWeb data Zenodo used, so it may not be a fresh observation. Evidence strength: weak."
+  },
+  {
+    "id": "G-25",
+    "evidence_url": "https://www.zameen.com/blog/public-transport-karachi.html",
+    "evidence_date": "2023-02-23",
+    "note": "Zameen Blog: 'G25 Mini Bus Route: Ittihad Town to Rasheedabad'. 2010 G-25 starts at Gulistan-e-Johar No. 10, not Ittehad Town. Do not confuse with Chinchi G-25 (Five Star - Gulshan Chowrangi) on Mnzil. Evidence strength: weak."
+  },
+  {
+    "id": "Safari Coach",
+    "evidence_url": "https://www.zameen.com/blog/public-transport-karachi.html",
+    "evidence_date": "2023-02-23",
+    "note": "Zameen Blog: 'Safari Coach Route: Maroora Goth to Mianwali Colony', the same terminals as 2010. Evidence strength: weak."
+  },
+  {
+    "id": "D-6",
+    "evidence_url": "https://enews.hamariweb.com/pakistan/exploring-d-6-bus-route-in-karachi-a-pocket-friendly-commute/",
+    "evidence_date": "2023-11-07",
+    "note": "HamariWeb news article presents D-6 Khokhrapar - Masjid-e-Quba as a running route, but its stop list is word-for-word the 2010 list (even the run-together 'NathaKhan Goth', 'JetLine'), so it is probably copied, not observed. Verify before promoting. Evidence strength: weak."
+  }
+]

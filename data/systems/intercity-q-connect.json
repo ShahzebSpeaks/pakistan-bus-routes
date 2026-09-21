@@ -1,0 +1,110 @@
+{
+  "id": "intercity-q-connect",
+  "city": "intercity",
+  "name": "Q Connect",
+  "name_ur": "",
+  "operator": "Q Connect (private)",
+  "mode": "intercity_bus",
+  "website": "https://qconnect.pk",
+  "helpline": "0335-7777777 (Lahore); 0331-5551554 (Islamabad)",
+  "payment": "online booking (Bookme-powered), terminal",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Q Connect homepage and route data",
+      "url": "https://qconnect.pk",
+      "publisher": "Q Connect",
+      "date": "2026-09-21",
+      "official": true
+    },
+    {
+      "title": "Q Connect contact",
+      "url": "https://qconnect.pk/contact",
+      "publisher": "Q Connect",
+      "date": "2026-09-21",
+      "official": true
+    },
+    {
+      "title": "pkbuses.com Q Connect",
+      "url": "https://pkbuses.com/bus-services/q-connect",
+      "publisher": "pkbuses.com",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "QC-LHR-ISB",
+      "name": "Lahore - Islamabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 360,
+      "hours": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 5950,
+        "slabs": [],
+        "concessions": "Single luxury class (21 club seats); members Rs 5,450 (third-party, undated).",
+        "as_of": null,
+        "source_url": "https://pkbuses.com/bus-services/q-connect"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Q Connect Lounge, Metro Cash & Carry parking, DHA / Airport Road, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Q Connect Lounge, Block B, Divine Gardens, Srinagar Highway, Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Q Connect",
+          "url": "https://qconnect.pk"
+        },
+        {
+          "title": "Q Connect contact",
+          "url": "https://qconnect.pk/contact"
+        },
+        {
+          "title": "pkbuses.com Q Connect",
+          "url": "https://pkbuses.com/bus-services/q-connect"
+        }
+      ],
+      "notes": "Only route in Q Connect's own route data (active, schedule to 2026-09-30). Non-stop via M-2, about 4h30. Departures/fare from aggregator; live search returned no trips."
+    }
+  ],
+  "last_verified": "2026-09-21"
+}

@@ -1,0 +1,792 @@
+{
+  "id": "intercity-silk-line",
+  "city": "intercity",
+  "name": "Silk Line",
+  "name_ur": "",
+  "operator": "Silk Line (Rehbar Travels group, private)",
+  "mode": "intercity_bus",
+  "website": "https://silkline.pk",
+  "helpline": "0311-1254333",
+  "payment": "cash at terminal / online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Silk Line - about us",
+      "url": "https://silkline.pk/index.php/about-us/",
+      "publisher": "Silk Line",
+      "date": "2026-09-21",
+      "official": true
+    },
+    {
+      "title": "bookme.pk Silk Line",
+      "url": "https://bookme.pk/silk-line",
+      "publisher": "bookme.pk",
+      "date": "2026-09-21",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "SL-LHR-MULTAN",
+      "name": "Lahore - Multan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Silk Line (Rehbar Travels), opp. City Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Silk Line Terminal, Vehari Chowk, Multan",
+          "name_ur": "",
+          "lat": 30.19784,
+          "lon": 71.47197,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Silk Line - about us",
+          "url": "https://silkline.pk/index.php/about-us/"
+        },
+        {
+          "title": "bookme.pk Silk Line",
+          "url": "https://bookme.pk/silk-line"
+        }
+      ],
+      "notes": "Listed on Bookme; fare and times not retrieved. Classes: Standard, Standard Plus, Executive."
+    },
+    {
+      "id": "SL-LHR-DERAGHAZ",
+      "name": "Lahore - Dera Ghazi Khan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Silk Line (Rehbar Travels), opp. City Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "New General Bus Stand, Dera Ghazi Khan",
+          "name_ur": "",
+          "lat": 30.06219,
+          "lon": 70.64056,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Silk Line - about us",
+          "url": "https://silkline.pk/index.php/about-us/"
+        },
+        {
+          "title": "bookme.pk Silk Line",
+          "url": "https://bookme.pk/silk-line"
+        }
+      ],
+      "notes": "Listed on Bookme; fare and times not retrieved. Classes: Standard, Standard Plus, Executive."
+    },
+    {
+      "id": "SL-LHR-BAHAWALP",
+      "name": "Lahore - Bahawalpur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Silk Line (Rehbar Travels), opp. City Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Bahawalpur",
+          "name_ur": "",
+          "lat": 29.394644,
+          "lon": 71.663875,
+          "coord_source": "auto:photon:R/16117506",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Silk Line - about us",
+          "url": "https://silkline.pk/index.php/about-us/"
+        },
+        {
+          "title": "bookme.pk Silk Line",
+          "url": "https://bookme.pk/silk-line"
+        }
+      ],
+      "notes": "Listed on Bookme; fare and times not retrieved. Classes: Standard, Standard Plus, Executive."
+    },
+    {
+      "id": "SL-LHR-LODHRAN",
+      "name": "Lahore - Lodhran",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Silk Line (Rehbar Travels), opp. City Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Lodhran",
+          "name_ur": "",
+          "lat": 29.539,
+          "lon": 71.6344,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Silk Line - about us",
+          "url": "https://silkline.pk/index.php/about-us/"
+        },
+        {
+          "title": "bookme.pk Silk Line",
+          "url": "https://bookme.pk/silk-line"
+        }
+      ],
+      "notes": "Listed on Bookme; fare and times not retrieved. Classes: Standard, Standard Plus, Executive."
+    },
+    {
+      "id": "SL-LHR-RAJANPUR",
+      "name": "Lahore - Rajanpur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Silk Line (Rehbar Travels), opp. City Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Rajanpur",
+          "name_ur": "",
+          "lat": 29.1003,
+          "lon": 70.3379,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Silk Line - about us",
+          "url": "https://silkline.pk/index.php/about-us/"
+        },
+        {
+          "title": "bookme.pk Silk Line",
+          "url": "https://bookme.pk/silk-line"
+        }
+      ],
+      "notes": "Listed on Bookme; fare and times not retrieved. Classes: Standard, Standard Plus, Executive."
+    },
+    {
+      "id": "SL-LHR-UCHSHARI",
+      "name": "Lahore - Uch Sharif",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Silk Line (Rehbar Travels), opp. City Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Uch Sharif",
+          "name_ur": "",
+          "lat": 29.23895,
+          "lon": 71.06148,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Silk Line - about us",
+          "url": "https://silkline.pk/index.php/about-us/"
+        },
+        {
+          "title": "bookme.pk Silk Line",
+          "url": "https://bookme.pk/silk-line"
+        }
+      ],
+      "notes": "Listed on Bookme; fare and times not retrieved. Classes: Standard, Standard Plus, Executive."
+    },
+    {
+      "id": "SL-LHR-DUNYAPUR",
+      "name": "Lahore - Dunyapur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Silk Line (Rehbar Travels), opp. City Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Dunyapur",
+          "name_ur": "",
+          "lat": 29.80253,
+          "lon": 71.74196,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Silk Line - about us",
+          "url": "https://silkline.pk/index.php/about-us/"
+        },
+        {
+          "title": "bookme.pk Silk Line",
+          "url": "https://bookme.pk/silk-line"
+        }
+      ],
+      "notes": "Listed on Bookme; fare and times not retrieved. Classes: Standard, Standard Plus, Executive."
+    },
+    {
+      "id": "SL-LHR-JAHANIAN",
+      "name": "Lahore - Jahanian",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Silk Line (Rehbar Travels), opp. City Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Jahanian",
+          "name_ur": "",
+          "lat": 30.03802,
+          "lon": 71.81845,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Silk Line - about us",
+          "url": "https://silkline.pk/index.php/about-us/"
+        },
+        {
+          "title": "bookme.pk Silk Line",
+          "url": "https://bookme.pk/silk-line"
+        }
+      ],
+      "notes": "Listed on Bookme; fare and times not retrieved. Classes: Standard, Standard Plus, Executive."
+    },
+    {
+      "id": "SL-LHR-KHANEWAL",
+      "name": "Lahore - Khanewal",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Silk Line (Rehbar Travels), opp. City Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Khanewal",
+          "name_ur": "",
+          "lat": 30.30225,
+          "lon": 71.92789,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Silk Line - about us",
+          "url": "https://silkline.pk/index.php/about-us/"
+        },
+        {
+          "title": "bookme.pk Silk Line",
+          "url": "https://bookme.pk/silk-line"
+        }
+      ],
+      "notes": "Listed on Bookme; fare and times not retrieved. Classes: Standard, Standard Plus, Executive."
+    },
+    {
+      "id": "SL-LHR-TAUNSA",
+      "name": "Lahore - Taunsa",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Silk Line (Rehbar Travels), opp. City Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Taunsa",
+          "name_ur": "",
+          "lat": 30.89201,
+          "lon": 70.61447,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Silk Line - about us",
+          "url": "https://silkline.pk/index.php/about-us/"
+        },
+        {
+          "title": "bookme.pk Silk Line",
+          "url": "https://bookme.pk/silk-line"
+        }
+      ],
+      "notes": "Listed on Bookme; fare and times not retrieved. Classes: Standard, Standard Plus, Executive."
+    },
+    {
+      "id": "SL-LHR-KOTADDU",
+      "name": "Lahore - Kot Addu",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Silk Line (Rehbar Travels), opp. City Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Kot Addu",
+          "name_ur": "",
+          "lat": 30.46926,
+          "lon": 70.96788,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Silk Line - about us",
+          "url": "https://silkline.pk/index.php/about-us/"
+        },
+        {
+          "title": "bookme.pk Silk Line",
+          "url": "https://bookme.pk/silk-line"
+        }
+      ],
+      "notes": "Listed on Bookme; fare and times not retrieved. Classes: Standard, Standard Plus, Executive."
+    },
+    {
+      "id": "SL-LHR-JATOI",
+      "name": "Lahore - Jatoi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Silk Line (Rehbar Travels), opp. City Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Jatoi",
+          "name_ur": "",
+          "lat": 29.5183,
+          "lon": 70.8442,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Silk Line - about us",
+          "url": "https://silkline.pk/index.php/about-us/"
+        },
+        {
+          "title": "bookme.pk Silk Line",
+          "url": "https://bookme.pk/silk-line"
+        }
+      ],
+      "notes": "Listed on Bookme; fare and times not retrieved. Classes: Standard, Standard Plus, Executive."
+    },
+    {
+      "id": "SL-LHR-MANDIYAZ",
+      "name": "Lahore - Mandi Yazman",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Silk Line (Rehbar Travels), opp. City Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Mandi Yazman",
+          "name_ur": "",
+          "lat": 29.1167,
+          "lon": 71.75,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Silk Line - about us",
+          "url": "https://silkline.pk/index.php/about-us/"
+        },
+        {
+          "title": "bookme.pk Silk Line",
+          "url": "https://bookme.pk/silk-line"
+        }
+      ],
+      "notes": "Listed on Bookme; fare and times not retrieved. Classes: Standard, Standard Plus, Executive."
+    },
+    {
+      "id": "SL-LHR-ALIPUR",
+      "name": "Lahore - Alipur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Silk Line (Rehbar Travels), opp. City Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Alipur",
+          "name_ur": "",
+          "lat": 29.3813,
+          "lon": 70.9111,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Silk Line - about us",
+          "url": "https://silkline.pk/index.php/about-us/"
+        },
+        {
+          "title": "bookme.pk Silk Line",
+          "url": "https://bookme.pk/silk-line"
+        }
+      ],
+      "notes": "Listed on Bookme; fare and times not retrieved. Classes: Standard, Standard Plus, Executive."
+    },
+    {
+      "id": "SL-LHR-ABDULHAK",
+      "name": "Lahore - Abdul Hakeem",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Silk Line (Rehbar Travels), opp. City Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Abdul Hakeem",
+          "name_ur": "",
+          "lat": 30.55076,
+          "lon": 72.12749,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Silk Line - about us",
+          "url": "https://silkline.pk/index.php/about-us/"
+        },
+        {
+          "title": "bookme.pk Silk Line",
+          "url": "https://bookme.pk/silk-line"
+        }
+      ],
+      "notes": "Listed on Bookme; fare and times not retrieved. Classes: Standard, Standard Plus, Executive."
+    },
+    {
+      "id": "SL-LHR-JALALPUR",
+      "name": "Lahore - Jalalpur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Silk Line (Rehbar Travels), opp. City Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Jalalpur",
+          "name_ur": "",
+          "lat": 29.5053,
+          "lon": 71.2224,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Silk Line - about us",
+          "url": "https://silkline.pk/index.php/about-us/"
+        },
+        {
+          "title": "bookme.pk Silk Line",
+          "url": "https://bookme.pk/silk-line"
+        }
+      ],
+      "notes": "Listed on Bookme; fare and times not retrieved. Classes: Standard, Standard Plus, Executive."
+    },
+    {
+      "id": "SL-LHR-JHANGRA",
+      "name": "Lahore - Jhangra",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Silk Line (Rehbar Travels), opp. City Terminal, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Jhangra",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Silk Line - about us",
+          "url": "https://silkline.pk/index.php/about-us/"
+        },
+        {
+          "title": "bookme.pk Silk Line",
+          "url": "https://bookme.pk/silk-line"
+        }
+      ],
+      "notes": "Listed on Bookme; fare and times not retrieved. Classes: Standard, Standard Plus, Executive."
+    }
+  ],
+  "last_verified": "2026-09-21"
+}

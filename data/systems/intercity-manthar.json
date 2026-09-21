@@ -1,0 +1,387 @@
+{
+  "id": "intercity-manthar",
+  "city": "intercity",
+  "name": "Manthar Transport",
+  "name_ur": "",
+  "operator": "Manthar Group (private, Sadiqabad)",
+  "mode": "intercity_bus",
+  "website": "https://www.facebook.com/manthargroup/",
+  "helpline": "0300-5709395 (unconfirmed)",
+  "payment": "cash at terminal / online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Manthar Group Facebook",
+      "url": "https://www.facebook.com/manthargroup/",
+      "publisher": "Manthar Group",
+      "date": null,
+      "official": true
+    },
+    {
+      "title": "sastaticket.pk Manthar Transport",
+      "url": "https://www.sastaticket.pk/bus-tickets/manthar-transport",
+      "publisher": "sastaticket.pk",
+      "date": "2026-09-21",
+      "official": false
+    },
+    {
+      "title": "pkbuses.com Manthar contact",
+      "url": "https://pkbuses.com/manthar-transport-contact-numbers/",
+      "publisher": "pkbuses.com",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "MN-KHI-RWP",
+      "name": "Karachi - Rawalpindi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Manthar Transport Terminal, Sohrab Goth (Super Highway), Karachi",
+          "name_ur": "",
+          "lat": 24.9564612,
+          "lon": 67.1020048,
+          "coord_source": "osm:node/12297090722",
+          "is_station": true
+        },
+        {
+          "name": "Rawalpindi",
+          "name_ur": "",
+          "lat": 33.47408,
+          "lon": 73.25229,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "sastaticket.pk Manthar Transport",
+          "url": "https://www.sastaticket.pk/bus-tickets/manthar-transport"
+        }
+      ],
+      "notes": "Sastaticket also lists a Karachi Taj Complex boarding point. Its first/last-bus table is template filler, not used."
+    },
+    {
+      "id": "MN-KHI-LHR",
+      "name": "Karachi - Lahore",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 4800,
+        "slabs": [],
+        "concessions": "Third-party, undated.",
+        "as_of": null,
+        "source_url": "https://pkbuses.com/manthar-transport-contact-numbers/"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Manthar Transport Terminal, Sohrab Goth (Super Highway), Karachi",
+          "name_ur": "",
+          "lat": 24.9564612,
+          "lon": 67.1020048,
+          "coord_source": "osm:node/12297090722",
+          "is_station": true
+        },
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Manthar contact",
+          "url": "https://pkbuses.com/manthar-transport-contact-numbers/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MN-SDQ-LHR",
+      "name": "Sadiqabad - Lahore",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 2200,
+        "slabs": [],
+        "concessions": "'From' fare, third-party, undated.",
+        "as_of": null,
+        "source_url": "https://pkbuses.com/manthar-transport-contact-numbers/"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Manthar Transport, Ghosia Chowk, Old Bus Stand, KLP Road, Sadiqabad",
+          "name_ur": "",
+          "lat": 28.3091,
+          "lon": 70.1307,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Manthar contact",
+          "url": "https://pkbuses.com/manthar-transport-contact-numbers/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MN-LHR-FSD",
+      "name": "Lahore - Faisalabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        },
+        {
+          "name": "Faisalabad",
+          "name_ur": "",
+          "lat": 31.422056,
+          "lon": 73.092325,
+          "coord_source": "auto:photon:R/16108315",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "sastaticket.pk Manthar Transport",
+          "url": "https://www.sastaticket.pk/bus-tickets/manthar-transport"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MN-LHR-SGD",
+      "name": "Lahore - Sargodha",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        },
+        {
+          "name": "Sargodha",
+          "name_ur": "",
+          "lat": 32.085352,
+          "lon": 72.679174,
+          "coord_source": "auto:nominatim:way/1138025958",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "sastaticket.pk Manthar Transport",
+          "url": "https://www.sastaticket.pk/bus-tickets/manthar-transport"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MN-LHR-MUX",
+      "name": "Lahore - Multan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        },
+        {
+          "name": "Multan",
+          "name_ur": "",
+          "lat": 30.197838,
+          "lon": 71.471968,
+          "coord_source": "auto:nominatim:node/307617596",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "sastaticket.pk Manthar Transport",
+          "url": "https://www.sastaticket.pk/bus-tickets/manthar-transport"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MN-LHR-RWP",
+      "name": "Lahore - Rawalpindi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        },
+        {
+          "name": "Rawalpindi",
+          "name_ur": "",
+          "lat": 33.474083,
+          "lon": 73.252285,
+          "coord_source": "auto:photon:R/8161545",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "sastaticket.pk Manthar Transport",
+          "url": "https://www.sastaticket.pk/bus-tickets/manthar-transport"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MN-MUX-RWP",
+      "name": "Multan - Rawalpindi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Multan",
+          "name_ur": "",
+          "lat": 30.197838,
+          "lon": 71.471968,
+          "coord_source": "auto:nominatim:node/307617596",
+          "is_station": false
+        },
+        {
+          "name": "Rawalpindi",
+          "name_ur": "",
+          "lat": 33.47408,
+          "lon": 73.25229,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "sastaticket.pk Manthar Transport",
+          "url": "https://www.sastaticket.pk/bus-tickets/manthar-transport"
+        }
+      ],
+      "notes": ""
+    }
+  ],
+  "last_verified": "2026-09-21"
+}

@@ -1,0 +1,1741 @@
+{
+  "id": "intercity-daewoo",
+  "city": "intercity",
+  "name": "Daewoo Express",
+  "name_ur": "",
+  "operator": "Daewoo Pakistan Express Bus Service Ltd (private)",
+  "mode": "intercity_bus",
+  "website": "https://daewoo.com.pk",
+  "helpline": "042-111-007-008",
+  "payment": "cash at terminal, online booking, Daewoo mobile app",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "Classes: Luxury, Gold (34 seats), Sleeper (27 beds + 5 seats). Fares from third-party fare-listing sites; Daewoo's own fare lookup (daewoo.com.pk/Home/Fare) returned no data on 2026-09-21.",
+    "as_of": "2026-08",
+    "source_url": "https://pkbuses.com/daewoo-express-ticket-price"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "Most main corridors run round the clock."
+  },
+  "sources": [
+    {
+      "title": "Daewoo Express - Terminals (addresses)",
+      "url": "https://daewoo.com.pk/Home/Terminals",
+      "publisher": "Daewoo Pakistan Express",
+      "date": "2026-09-21",
+      "official": true
+    },
+    {
+      "title": "pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)",
+      "url": "https://pkbuses.com/daewoo-express-ticket-price",
+      "publisher": "pkbuses.com",
+      "date": "2026-08-30",
+      "official": false
+    },
+    {
+      "title": "pkbuses.com - Daewoo Express bus service",
+      "url": "https://pkbuses.com/bus-services/daewoo-express",
+      "publisher": "pkbuses.com",
+      "date": "2026-08",
+      "official": false
+    },
+    {
+      "title": "daewooinfo.pk - Daewoo ticket price (Jul 2026)",
+      "url": "https://daewooinfo.pk/daewoo-ticket-price/",
+      "publisher": "daewooinfo.pk",
+      "date": "2026-07",
+      "official": false
+    },
+    {
+      "title": "sastaticket.pk - Daewoo Express route page",
+      "url": "https://www.sastaticket.pk/bus-tickets/daewoo-express",
+      "publisher": "sastaticket.pk",
+      "date": null,
+      "official": false
+    },
+    {
+      "title": "bookme.pk - Lahore to Karachi sleeper bus",
+      "url": "https://bookme.pk/lahore-to-karachi-sleeper-bus",
+      "publisher": "bookme.pk",
+      "date": null,
+      "official": false
+    },
+    {
+      "title": "pkbuses.com - Daewoo Express sleeper bus (6 Jun 2026)",
+      "url": "https://pkbuses.com/daewoo-express-sleeper-bus/",
+      "publisher": "pkbuses.com",
+      "date": "2026-06-06",
+      "official": false
+    },
+    {
+      "title": "pkbuses.com - Daewoo Express Sukkur bus timings (28 May 2026)",
+      "url": "https://pkbuses.com/daewoo-express-sukkur-bus-timings",
+      "publisher": "pkbuses.com",
+      "date": "2026-05-28",
+      "official": false
+    },
+    {
+      "title": "pkbuses.com - Daewoo Express DI Khan bus timings (schedule 2023)",
+      "url": "https://pkbuses.com/daewoo-express-dera-ismail-khan-bus-timings/",
+      "publisher": "pkbuses.com",
+      "date": "2023-03-26",
+      "official": false
+    },
+    {
+      "title": "buses.pk - Daewoo Islamabad to Lahore",
+      "url": "https://buses.pk/bus-service/daewoo-express/islamabad-to-lahore-bus",
+      "publisher": "buses.pk",
+      "date": null,
+      "official": false
+    },
+    {
+      "title": "pkbuses.com - Daewoo Lahore to Swat",
+      "url": "https://pkbuses.com/bus-services/daewoo-express/lahore-to-swat",
+      "publisher": "pkbuses.com",
+      "date": null,
+      "official": false
+    },
+    {
+      "title": "Daewoo Express (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Daewoo_Express",
+      "publisher": "Wikipedia",
+      "date": "2026-09-21",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "DW-LHR-RWP",
+      "name": "Lahore - Rawalpindi/Islamabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 375,
+      "headway_min": null,
+      "hours": {
+        "start": "00:00",
+        "end": "20:00"
+      },
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 2480,
+        "slabs": [],
+        "concessions": "Gold Rs 2,980 (pkbuses, 30 Aug 2026); daewooinfo.pk Jul 2026: Luxury 2,620 / Gold 3,440; buses.pk Islamabad-Lahore Luxury 2,300.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/daewoo-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Thokar Niaz Baig, Lahore",
+          "name_ur": "",
+          "lat": 31.4691035,
+          "lon": 74.2385142,
+          "coord_source": "osm:node/4770908181",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Jhangi Syedan (near EME College), Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6224015,
+          "lon": 72.9540623,
+          "coord_source": "osm:way/231200602",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)",
+          "url": "https://pkbuses.com/daewoo-express-ticket-price"
+        },
+        {
+          "title": "daewooinfo.pk - Daewoo ticket price (Jul 2026)",
+          "url": "https://daewooinfo.pk/daewoo-ticket-price/"
+        },
+        {
+          "title": "sastaticket.pk - Daewoo Express route page",
+          "url": "https://www.sastaticket.pk/bus-tickets/daewoo-express"
+        },
+        {
+          "title": "buses.pk - Daewoo Islamabad to Lahore",
+          "url": "https://buses.pk/bus-service/daewoo-express/islamabad-to-lahore-bus"
+        }
+      ],
+      "notes": "Via M-2 motorway, non-stop. Journey about 4h15m-5h. Also sold from Kalma Chowk terminal. First/last departure from sastaticket (undated). Classes: Luxury, Gold."
+    },
+    {
+      "id": "DW-LHR-KHI",
+      "name": "Lahore - Karachi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 1229,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 8000,
+        "slabs": [],
+        "concessions": "Gold Rs 9,410 (daewooinfo Jul 2026); Sleeper Rs 11,870 (pkbuses 30 Aug 2026), 9,190-9,470 in Jun/Jul 2026 sources.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/daewoo-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Thokar Niaz Baig, Lahore",
+          "name_ur": "",
+          "lat": 31.4691035,
+          "lon": 74.2385142,
+          "coord_source": "osm:node/4770908181",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Lahore Morr, Khanewal-Kabirwala Road, Khanewal",
+          "name_ur": "",
+          "lat": 30.31901,
+          "lon": 71.96357,
+          "coord_source": "osm:node/4483783093",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Rohri Bypass (next to Edhi Centre), Sukkur",
+          "name_ur": "",
+          "lat": 27.6577,
+          "lon": 68.84886,
+          "coord_source": "osm:node/3998250369",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Bypass Road (Byco Falak Filling Station), Moro",
+          "name_ur": "",
+          "lat": 26.66362,
+          "lon": 68.00244,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Autobahn Road, Latifabad Unit 7, Hyderabad",
+          "name_ur": "",
+          "lat": 25.396,
+          "lon": 68.3578,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Scheme 33, Super Highway, Sohrab Goth, Karachi",
+          "name_ur": "",
+          "lat": 24.9673434,
+          "lon": 67.1107693,
+          "coord_source": "osm:way/1041636152",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)",
+          "url": "https://pkbuses.com/daewoo-express-ticket-price"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express bus service",
+          "url": "https://pkbuses.com/bus-services/daewoo-express"
+        },
+        {
+          "title": "daewooinfo.pk - Daewoo ticket price (Jul 2026)",
+          "url": "https://daewooinfo.pk/daewoo-ticket-price/"
+        },
+        {
+          "title": "bookme.pk - Lahore to Karachi sleeper bus",
+          "url": "https://bookme.pk/lahore-to-karachi-sleeper-bus"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express sleeper bus (6 Jun 2026)",
+          "url": "https://pkbuses.com/daewoo-express-sleeper-bus/"
+        }
+      ],
+      "notes": "Journey 14-16h (sleeper 16h). Intermediate stops Khanewal, Sukkur (meal stop), Moro, Hyderabad from pkbuses sleeper page; Multan not confirmed. Sleeper departure times conflict between sources (bookme 10:30/12:00/14:00 vs pkbuses 17:00/18:00/21:00/23:00). Classes: Luxury, Gold, Sleeper."
+    },
+    {
+      "id": "DW-LHR-MUX",
+      "name": "Lahore - Multan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": {
+        "start": "06:30",
+        "end": "23:30"
+      },
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 2580,
+        "slabs": [],
+        "concessions": "Gold Rs 3,430 (pkbuses).",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/daewoo-express"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Thokar Niaz Baig, Lahore",
+          "name_ur": "",
+          "lat": 31.4691035,
+          "lon": 74.2385142,
+          "coord_source": "osm:node/4770908181",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Khanewal Road, Gaddafi Chowk, Multan",
+          "name_ur": "",
+          "lat": 30.19784,
+          "lon": 71.47197,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)",
+          "url": "https://pkbuses.com/daewoo-express-ticket-price"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express bus service",
+          "url": "https://pkbuses.com/bus-services/daewoo-express"
+        },
+        {
+          "title": "sastaticket.pk - Daewoo Express route page",
+          "url": "https://www.sastaticket.pk/bus-tickets/daewoo-express"
+        }
+      ],
+      "notes": "Journey about 3h50m-4h (M-3/M-4 motorway). A newer Multan terminal at Vehari Chowk is mentioned by pkbuses (undated)."
+    },
+    {
+      "id": "DW-LHR-FSD",
+      "name": "Lahore - Faisalabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": {
+        "start": "05:30",
+        "end": "22:00"
+      },
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1210,
+        "slabs": [],
+        "concessions": "Luxury.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/daewoo-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Thokar Niaz Baig, Lahore",
+          "name_ur": "",
+          "lat": 31.4691035,
+          "lon": 74.2385142,
+          "coord_source": "osm:node/4770908181",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Punj Pullian Road (opp. Allied Hospital), Faisalabad",
+          "name_ur": "",
+          "lat": 31.44785,
+          "lon": 73.07928,
+          "coord_source": "osm:node/4547898290",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)",
+          "url": "https://pkbuses.com/daewoo-express-ticket-price"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express bus service",
+          "url": "https://pkbuses.com/bus-services/daewoo-express"
+        },
+        {
+          "title": "sastaticket.pk - Daewoo Express route page",
+          "url": "https://www.sastaticket.pk/bus-tickets/daewoo-express"
+        }
+      ],
+      "notes": "Journey about 2h. Reverse direction first 05:00, last 20:30 (sastaticket)."
+    },
+    {
+      "id": "DW-LHR-PEW",
+      "name": "Lahore - Peshawar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 3050,
+        "slabs": [],
+        "concessions": "Luxury.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/daewoo-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Thokar Niaz Baig, Lahore",
+          "name_ur": "",
+          "lat": 31.4691035,
+          "lon": 74.2385142,
+          "coord_source": "osm:node/4770908181",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, GT Road (opp. General Bus Stand), Peshawar",
+          "name_ur": "",
+          "lat": 34.0151522,
+          "lon": 71.5995183,
+          "coord_source": "osm:way/235093726",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)",
+          "url": "https://pkbuses.com/daewoo-express-ticket-price"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express bus service",
+          "url": "https://pkbuses.com/bus-services/daewoo-express"
+        },
+        {
+          "title": "sastaticket.pk - Daewoo Express route page",
+          "url": "https://www.sastaticket.pk/bus-tickets/daewoo-express"
+        }
+      ],
+      "notes": "Journey about 5h-5h40m. Intermediate stops (Rawalpindi?) not confirmed."
+    },
+    {
+      "id": "DW-RWP-KHI",
+      "name": "Rawalpindi - Karachi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 8200,
+        "slabs": [],
+        "concessions": "Gold Rs 10,190, Sleeper Rs 12,430 (pkbuses 30 Aug 2026); daewooinfo Jul 2026: Luxury 7,940 / Gold 9,970 / Sleeper 10,030.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/daewoo-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Jhangi Syedan (near EME College), Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6224015,
+          "lon": 72.9540623,
+          "coord_source": "osm:way/231200602",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Rohri Bypass (next to Edhi Centre), Sukkur",
+          "name_ur": "",
+          "lat": 27.6577,
+          "lon": 68.84886,
+          "coord_source": "osm:node/3998250369",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Autobahn Road, Latifabad Unit 7, Hyderabad",
+          "name_ur": "",
+          "lat": 25.396,
+          "lon": 68.3578,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Scheme 33, Super Highway, Sohrab Goth, Karachi",
+          "name_ur": "",
+          "lat": 24.9673434,
+          "lon": 67.1107693,
+          "coord_source": "osm:way/1041636152",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)",
+          "url": "https://pkbuses.com/daewoo-express-ticket-price"
+        },
+        {
+          "title": "daewooinfo.pk - Daewoo ticket price (Jul 2026)",
+          "url": "https://daewooinfo.pk/daewoo-ticket-price/"
+        },
+        {
+          "title": "sastaticket.pk - Daewoo Express route page",
+          "url": "https://www.sastaticket.pk/bus-tickets/daewoo-express"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express sleeper bus (6 Jun 2026)",
+          "url": "https://pkbuses.com/daewoo-express-sleeper-bus/"
+        }
+      ],
+      "notes": "Sleeper about 18h. Karachi-Rawalpindi first 09:00, last 23:15 (sastaticket); sleeper Karachi-Rawalpindi 13:00, 15:00, 16:00, 18:00, 20:00, 22:00 (pkbuses). Only Sukkur and Hyderabad confirmed as intermediate stops."
+    },
+    {
+      "id": "DW-RWP-MUX",
+      "name": "Rawalpindi - Multan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": {
+        "start": "01:25",
+        "end": "23:45"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Jhangi Syedan (near EME College), Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6224015,
+          "lon": 72.9540623,
+          "coord_source": "osm:way/231200602",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Khanewal Road, Gaddafi Chowk, Multan",
+          "name_ur": "",
+          "lat": 30.19784,
+          "lon": 71.47197,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "sastaticket.pk - Daewoo Express route page",
+          "url": "https://www.sastaticket.pk/bus-tickets/daewoo-express"
+        }
+      ],
+      "notes": "Journey about 6h. Times are for Multan-Rawalpindi (sastaticket, undated). No current fare found (sastaticket Rs 1,670 is stale)."
+    },
+    {
+      "id": "DW-KHI-HYD",
+      "name": "Karachi - Hyderabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 160,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 680,
+        "slabs": [],
+        "concessions": "Luxury.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/daewoo-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Scheme 33, Super Highway, Sohrab Goth, Karachi",
+          "name_ur": "",
+          "lat": 24.9673434,
+          "lon": 67.1107693,
+          "coord_source": "osm:way/1041636152",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Autobahn Road, Latifabad Unit 7, Hyderabad",
+          "name_ur": "",
+          "lat": 25.396,
+          "lon": 68.3578,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)",
+          "url": "https://pkbuses.com/daewoo-express-ticket-price"
+        }
+      ],
+      "notes": "Daewoo also advertises a new Hyderabad City terminal (address not published). Distance from PTA Sindh list (160 km)."
+    },
+    {
+      "id": "DW-KHI-SKR",
+      "name": "Karachi - Sukkur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 68,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 3290,
+        "slabs": [],
+        "concessions": "Gold Rs 4,360.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/daewoo-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Scheme 33, Super Highway, Sohrab Goth, Karachi",
+          "name_ur": "",
+          "lat": 24.9673434,
+          "lon": 67.1107693,
+          "coord_source": "osm:way/1041636152",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Autobahn Road, Latifabad Unit 7, Hyderabad",
+          "name_ur": "",
+          "lat": 25.396,
+          "lon": 68.3578,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Bypass Road (Byco Falak Filling Station), Moro",
+          "name_ur": "",
+          "lat": 26.66362,
+          "lon": 68.00244,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Rohri Bypass (next to Edhi Centre), Sukkur",
+          "name_ur": "",
+          "lat": 27.6577,
+          "lon": 68.84886,
+          "coord_source": "osm:node/3998250369",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)",
+          "url": "https://pkbuses.com/daewoo-express-ticket-price"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express Sukkur bus timings (28 May 2026)",
+          "url": "https://pkbuses.com/daewoo-express-sukkur-bus-timings"
+        }
+      ],
+      "notes": "16+ departures a day Sukkur-Karachi, first 02:10; journey about 7h20m (pkbuses 28 May 2026). Intermediate stops assumed from the Lahore-Karachi corridor order."
+    },
+    {
+      "id": "DW-SKR-MUX",
+      "name": "Sukkur - Multan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 90,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Rohri Bypass (next to Edhi Centre), Sukkur",
+          "name_ur": "",
+          "lat": 27.6577,
+          "lon": 68.84886,
+          "coord_source": "osm:node/3998250369",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Khanewal Road, Gaddafi Chowk, Multan",
+          "name_ur": "",
+          "lat": 30.19784,
+          "lon": 71.47197,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express Sukkur bus timings (28 May 2026)",
+          "url": "https://pkbuses.com/daewoo-express-sukkur-bus-timings"
+        }
+      ],
+      "notes": "12 departures a day, first 01:40; journey about 5h (pkbuses 28 May 2026)."
+    },
+    {
+      "id": "DW-SKR-RWP",
+      "name": "Sukkur - Rawalpindi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 120,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Rohri Bypass (next to Edhi Centre), Sukkur",
+          "name_ur": "",
+          "lat": 27.6577,
+          "lon": 68.84886,
+          "coord_source": "osm:node/3998250369",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Jhangi Syedan (near EME College), Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6224015,
+          "lon": 72.9540623,
+          "coord_source": "osm:way/231200602",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express Sukkur bus timings (28 May 2026)",
+          "url": "https://pkbuses.com/daewoo-express-sukkur-bus-timings"
+        }
+      ],
+      "notes": "9 departures a day, first 03:40; journey about 11h20m (pkbuses 28 May 2026)."
+    },
+    {
+      "id": "DW-SKR-LHR",
+      "name": "Sukkur - Lahore",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Rohri Bypass (next to Edhi Centre), Sukkur",
+          "name_ur": "",
+          "lat": 27.6577,
+          "lon": 68.84886,
+          "coord_source": "osm:node/3998250369",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Thokar Niaz Baig, Lahore",
+          "name_ur": "",
+          "lat": 31.4691035,
+          "lon": 74.2385142,
+          "coord_source": "osm:node/4770908181",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express Sukkur bus timings (28 May 2026)",
+          "url": "https://pkbuses.com/daewoo-express-sukkur-bus-timings"
+        }
+      ],
+      "notes": "First departure 03:40; journey about 9h (pkbuses 28 May 2026)."
+    },
+    {
+      "id": "DW-MUX-KHI",
+      "name": "Multan - Karachi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 5970,
+        "slabs": [],
+        "concessions": "Sleeper Rs 9,890 (pkbuses); daewooinfo Jul 2026: Luxury 5,110 / Gold 7,810.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/daewoo-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Khanewal Road, Gaddafi Chowk, Multan",
+          "name_ur": "",
+          "lat": 30.19784,
+          "lon": 71.47197,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Rohri Bypass (next to Edhi Centre), Sukkur",
+          "name_ur": "",
+          "lat": 27.6577,
+          "lon": 68.84886,
+          "coord_source": "osm:node/3998250369",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Autobahn Road, Latifabad Unit 7, Hyderabad",
+          "name_ur": "",
+          "lat": 25.396,
+          "lon": 68.3578,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Scheme 33, Super Highway, Sohrab Goth, Karachi",
+          "name_ur": "",
+          "lat": 24.9673434,
+          "lon": 67.1107693,
+          "coord_source": "osm:way/1041636152",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)",
+          "url": "https://pkbuses.com/daewoo-express-ticket-price"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express bus service",
+          "url": "https://pkbuses.com/bus-services/daewoo-express"
+        },
+        {
+          "title": "daewooinfo.pk - Daewoo ticket price (Jul 2026)",
+          "url": "https://daewooinfo.pk/daewoo-ticket-price/"
+        }
+      ],
+      "notes": "Journey about 10h20m. Intermediate stops not confirmed."
+    },
+    {
+      "id": "DW-PEW-RWP",
+      "name": "Peshawar - Rawalpindi/Islamabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 800,
+        "slabs": [],
+        "concessions": "Luxury.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/daewoo-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, GT Road (opp. General Bus Stand), Peshawar",
+          "name_ur": "",
+          "lat": 34.0151522,
+          "lon": 71.5995183,
+          "coord_source": "osm:way/235093726",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Jhangi Syedan (near EME College), Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6224015,
+          "lon": 72.9540623,
+          "coord_source": "osm:way/231200602",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)",
+          "url": "https://pkbuses.com/daewoo-express-ticket-price"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "DW-LHR-SKT",
+      "name": "Lahore - Sialkot",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1090,
+        "slabs": [],
+        "concessions": "Luxury.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/daewoo-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Thokar Niaz Baig, Lahore",
+          "name_ur": "",
+          "lat": 31.4691035,
+          "lon": 74.2385142,
+          "coord_source": "osm:node/4770908181",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Jail Road (Garrison Park), Sialkot Cantt",
+          "name_ur": "",
+          "lat": 32.5120086,
+          "lon": 74.5248617,
+          "coord_source": "osm:way/366767214",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)",
+          "url": "https://pkbuses.com/daewoo-express-ticket-price"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "DW-LHR-BWP",
+      "name": "Lahore - Bahawalpur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 2170,
+        "slabs": [],
+        "concessions": "Gold Rs 2,580.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/daewoo-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Thokar Niaz Baig, Lahore",
+          "name_ur": "",
+          "lat": 31.4691035,
+          "lon": 74.2385142,
+          "coord_source": "osm:node/4770908181",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Ahmedpur Road (opp. Sadiq Public School), Bahawalpur",
+          "name_ur": "",
+          "lat": 29.377098,
+          "lon": 71.648369,
+          "coord_source": "osm:node/1925507834",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)",
+          "url": "https://pkbuses.com/daewoo-express-ticket-price"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "DW-RWP-SWT",
+      "name": "Rawalpindi - Swat (Mingora)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 237,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1150,
+        "slabs": [],
+        "concessions": "Luxury; bookme 'from Rs 1,110'.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/daewoo-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Jhangi Syedan (near EME College), Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6224015,
+          "lon": 72.9540623,
+          "coord_source": "osm:way/231200602",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Amankot, GT Road, Mingora, Swat",
+          "name_ur": "",
+          "lat": 34.78306,
+          "lon": 72.33251,
+          "coord_source": "osm:node/9555490259",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)",
+          "url": "https://pkbuses.com/daewoo-express-ticket-price"
+        }
+      ],
+      "notes": "Journey about 3h40m (bookme snippet)."
+    },
+    {
+      "id": "DW-LHR-SWT",
+      "name": "Lahore - Swat (Mingora)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": 623,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 3030,
+        "slabs": [],
+        "concessions": "Luxury.",
+        "as_of": null,
+        "source_url": "https://pkbuses.com/bus-services/daewoo-express/lahore-to-swat"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Thokar Niaz Baig, Lahore",
+          "name_ur": "",
+          "lat": 31.4691035,
+          "lon": 74.2385142,
+          "coord_source": "osm:node/4770908181",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Amankot, GT Road, Mingora, Swat",
+          "name_ur": "",
+          "lat": 34.78306,
+          "lon": 72.33251,
+          "coord_source": "osm:node/9555490259",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Lahore to Swat",
+          "url": "https://pkbuses.com/bus-services/daewoo-express/lahore-to-swat"
+        }
+      ],
+      "notes": "Journey about 7h40m."
+    },
+    {
+      "id": "DW-LHR-DIK",
+      "name": "Lahore - Dera Ismail Khan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 180,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 2580,
+        "slabs": [],
+        "concessions": "Luxury.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/daewoo-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Thokar Niaz Baig, Lahore",
+          "name_ur": "",
+          "lat": 31.4691035,
+          "lon": 74.2385142,
+          "coord_source": "osm:node/4770908181",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Bannu Road (opp. Khan Plaza), Dera Ismail Khan",
+          "name_ur": "",
+          "lat": 31.83707,
+          "lon": 70.91156,
+          "coord_source": "osm:node/4933498723",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)",
+          "url": "https://pkbuses.com/daewoo-express-ticket-price"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express DI Khan bus timings (schedule 2023)",
+          "url": "https://pkbuses.com/daewoo-express-dera-ismail-khan-bus-timings/"
+        }
+      ],
+      "notes": "6 departures a day Lahore-DI Khan (UrduPoint snippet); DI Khan-Lahore 9 a day 06:00-23:45 (pkbuses, schedule 2023). Journey about 7h."
+    },
+    {
+      "id": "DW-DIK-PEW",
+      "name": "Dera Ismail Khan - Peshawar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 360,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Bannu Road (opp. Khan Plaza), Dera Ismail Khan",
+          "name_ur": "",
+          "lat": 31.83707,
+          "lon": 70.91156,
+          "coord_source": "osm:node/4933498723",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, GT Road (opp. General Bus Stand), Peshawar",
+          "name_ur": "",
+          "lat": 34.0151522,
+          "lon": 71.5995183,
+          "coord_source": "osm:way/235093726",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express DI Khan bus timings (schedule 2023)",
+          "url": "https://pkbuses.com/daewoo-express-dera-ismail-khan-bus-timings/"
+        }
+      ],
+      "notes": "Departures 08:30, 15:00, 23:00; journey 5h35m (pkbuses schedule dated 2023)."
+    },
+    {
+      "id": "DW-DIK-ISB",
+      "name": "Dera Ismail Khan - Islamabad (Faizabad)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 216,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Bannu Road (opp. Khan Plaza), Dera Ismail Khan",
+          "name_ur": "",
+          "lat": 31.83707,
+          "lon": 70.91156,
+          "coord_source": "osm:node/4933498723",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Faizabad, Islamabad",
+          "name_ur": "",
+          "lat": 33.6607,
+          "lon": 73.08128,
+          "coord_source": "osm:node/12772382512",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express DI Khan bus timings (schedule 2023)",
+          "url": "https://pkbuses.com/daewoo-express-dera-ismail-khan-bus-timings/"
+        }
+      ],
+      "notes": "5 departures a day from 06:30; journey 4h45m (pkbuses schedule dated 2023). Faizabad stop coordinates from OSM 'Daewoo Express Faizabad Terminal'."
+    },
+    {
+      "id": "DW-FSD-KHI",
+      "name": "Faisalabad - Karachi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 6890,
+        "slabs": [],
+        "concessions": "Luxury.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/daewoo-express"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Punj Pullian Road (opp. Allied Hospital), Faisalabad",
+          "name_ur": "",
+          "lat": 31.44785,
+          "lon": 73.07928,
+          "coord_source": "osm:node/4547898290",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Scheme 33, Super Highway, Sohrab Goth, Karachi",
+          "name_ur": "",
+          "lat": 24.9673434,
+          "lon": 67.1107693,
+          "coord_source": "osm:way/1041636152",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express bus service",
+          "url": "https://pkbuses.com/bus-services/daewoo-express"
+        }
+      ],
+      "notes": "Journey about 13h; also a sleeper at 21:30 (pkbuses). Intermediate stops not published."
+    },
+    {
+      "id": "DW-FSD-PEW",
+      "name": "Faisalabad - Peshawar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 2360,
+        "slabs": [],
+        "concessions": "Luxury.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/daewoo-express"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Punj Pullian Road (opp. Allied Hospital), Faisalabad",
+          "name_ur": "",
+          "lat": 31.44785,
+          "lon": 73.07928,
+          "coord_source": "osm:node/4547898290",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, GT Road (opp. General Bus Stand), Peshawar",
+          "name_ur": "",
+          "lat": 34.0151522,
+          "lon": 71.5995183,
+          "coord_source": "osm:way/235093726",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express bus service",
+          "url": "https://pkbuses.com/bus-services/daewoo-express"
+        }
+      ],
+      "notes": "Journey about 5h20m. Intermediate stops not published."
+    },
+    {
+      "id": "DW-KHI-PEW",
+      "name": "Karachi - Peshawar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 8420,
+        "slabs": [],
+        "concessions": "Luxury.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/daewoo-express"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Scheme 33, Super Highway, Sohrab Goth, Karachi",
+          "name_ur": "",
+          "lat": 24.9673434,
+          "lon": 67.1107693,
+          "coord_source": "osm:way/1041636152",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, GT Road (opp. General Bus Stand), Peshawar",
+          "name_ur": "",
+          "lat": 34.0151522,
+          "lon": 71.5995183,
+          "coord_source": "osm:way/235093726",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express bus service",
+          "url": "https://pkbuses.com/bus-services/daewoo-express"
+        }
+      ],
+      "notes": "Journey about 18h. Intermediate stops not published."
+    },
+    {
+      "id": "DW-MUX-PEW",
+      "name": "Multan - Peshawar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 3310,
+        "slabs": [],
+        "concessions": "Luxury.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/daewoo-express"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Khanewal Road, Gaddafi Chowk, Multan",
+          "name_ur": "",
+          "lat": 30.19784,
+          "lon": 71.47197,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, GT Road (opp. General Bus Stand), Peshawar",
+          "name_ur": "",
+          "lat": 34.0151522,
+          "lon": 71.5995183,
+          "coord_source": "osm:way/235093726",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express bus service",
+          "url": "https://pkbuses.com/bus-services/daewoo-express"
+        }
+      ],
+      "notes": "Journey about 8h. Intermediate stops not published."
+    },
+    {
+      "id": "DW-MUX-FSD",
+      "name": "Multan - Faisalabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 1370,
+        "slabs": [],
+        "concessions": "Luxury.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/bus-services/daewoo-express"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Khanewal Road, Gaddafi Chowk, Multan",
+          "name_ur": "",
+          "lat": 30.19784,
+          "lon": 71.47197,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Punj Pullian Road (opp. Allied Hospital), Faisalabad",
+          "name_ur": "",
+          "lat": 31.44785,
+          "lon": 73.07928,
+          "coord_source": "osm:node/4547898290",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express bus service",
+          "url": "https://pkbuses.com/bus-services/daewoo-express"
+        }
+      ],
+      "notes": "Journey about 3h. Intermediate stops not published."
+    },
+    {
+      "id": "DW-MUX-KWL",
+      "name": "Multan - Khanewal",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 350,
+        "slabs": [],
+        "concessions": "Luxury.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/daewoo-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Khanewal Road, Gaddafi Chowk, Multan",
+          "name_ur": "",
+          "lat": 30.19784,
+          "lon": 71.47197,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, Lahore Morr, Khanewal-Kabirwala Road, Khanewal",
+          "name_ur": "",
+          "lat": 30.31901,
+          "lon": 71.96357,
+          "coord_source": "osm:node/4483783093",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)",
+          "url": "https://pkbuses.com/daewoo-express-ticket-price"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "DW-BWP-LDN",
+      "name": "Bahawalpur - Lodhran",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 390,
+        "slabs": [],
+        "concessions": "Luxury.",
+        "as_of": "2026-08",
+        "source_url": "https://pkbuses.com/daewoo-express-ticket-price"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Ahmedpur Road (opp. Sadiq Public School), Bahawalpur",
+          "name_ur": "",
+          "lat": 29.377098,
+          "lon": 71.648369,
+          "coord_source": "osm:node/1925507834",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo stop, Lodhran",
+          "name_ur": "",
+          "lat": 29.539,
+          "lon": 71.6344,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)",
+          "url": "https://pkbuses.com/daewoo-express-ticket-price"
+        }
+      ],
+      "notes": "Lodhran stop is not in Daewoo's terminal list."
+    },
+    {
+      "id": "DW-LHR-SGD",
+      "name": "Lahore - Sargodha",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": {
+        "start": "05:30",
+        "end": "22:30"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Terminal, Thokar Niaz Baig, Lahore",
+          "name_ur": "",
+          "lat": 31.4691035,
+          "lon": 74.2385142,
+          "coord_source": "osm:node/4770908181",
+          "is_station": true
+        },
+        {
+          "name": "Daewoo Terminal, College Road, Sargodha Cantt",
+          "name_ur": "",
+          "lat": 32.06198,
+          "lon": 72.69669,
+          "coord_source": "osm:node/4320650682",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express - Terminals",
+          "url": "https://daewoo.com.pk/Home/Terminals"
+        },
+        {
+          "title": "sastaticket.pk - Daewoo Express route page",
+          "url": "https://www.sastaticket.pk/bus-tickets/daewoo-express"
+        }
+      ],
+      "notes": ""
+    }
+  ],
+  "last_verified": "2026-09-21"
+}

@@ -29,6 +29,9 @@ export const DEFAULT_OPTIONS: PlannerOptions = {
   womenOnlyAllowed: false,
 };
 
+/** Intercity stops are town centres and terminals, so people reach them by rickshaw or city bus. */
+const INTERCITY_OPTIONS: Partial<PlannerOptions> = { maxWalkToStopM: 5000, maxTransferWalkM: 2000 };
+
 export const SPEED_KMH: Record<Mode, number> = {
   bus: 16,
   feeder: 16,
@@ -108,7 +111,7 @@ export class Planner {
   readonly opts: PlannerOptions;
 
   constructor(private data: CityData, opts: Partial<PlannerOptions> = {}) {
-    this.opts = { ...DEFAULT_OPTIONS, ...opts };
+    this.opts = { ...DEFAULT_OPTIONS, ...(data.city.id === 'intercity' ? INTERCITY_OPTIONS : {}), ...opts };
     this.stopIndex = new Map(data.stops.map((s, i) => [s.id, i]));
     this.grid = new GridIndex(data.stops);
     this.stopRoutes = data.stops.map(() => []);

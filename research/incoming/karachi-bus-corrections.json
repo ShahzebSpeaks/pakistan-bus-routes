@@ -1,0 +1,674 @@
+[
+  {
+    "system": "karachi-minibus",
+    "route": "Rind",
+    "field": "stops",
+    "old": [
+      "Lee Market",
+      "Hub Chowki"
+    ],
+    "new": [
+      "Hub Chowki",
+      "Umer Goth",
+      "Musharraf Colony - Keamari",
+      "Yousuf Goth",
+      "Naval Colony",
+      "Hub River road",
+      "Murshid Hospital",
+      "Mach Mor",
+      "Rasheedabad",
+      "Shershah",
+      "Shershah Kabari Market"
+    ],
+    "source": "https://mnzil.app/vehicles/Rind",
+    "note": "Our entry has only terminals; Mnzil page now lists the full order (fetched 2026-09-21). Mnzil terminals are Hub Chowki - Shershah Kabari Market, not Lee Market; the Lee Market end in our file came from RastaYaar and should be checked."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "N",
+    "field": "stops",
+    "old": [
+      "Karimabad - Meena Bazaar",
+      "Shireen Jinnah Colony"
+    ],
+    "new": [
+      "Karimabad - Meena Bazaar",
+      "Kharadar",
+      "Keamari",
+      "Masan Chowk",
+      "Shireen Jinnah Colony"
+    ],
+    "source": "https://mnzil.app/vehicles/N",
+    "note": "Our entry has only terminals; Mnzil page now lists the full order (fetched 2026-09-21)."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "D-1",
+    "field": "name",
+    "old": "Gulshan Hadeed - Baldia",
+    "new": "Pipri Goth - Abidabad",
+    "source": "https://mnzil.app/vehicles/D-1",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Gulshan Hadeed -> Baldia (28 stops); Mnzil 2026 runs Pipri Goth -> Abidabad (40 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "D-7",
+    "field": "name",
+    "old": "Landhi Majeed Colony 2 - New Sabzi Mandi",
+    "new": "New Muzaffarabad Colony Landhi - Khadim Hussain Solangi Goth",
+    "source": "https://mnzil.app/vehicles/D-7",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Landhi Majeed Colony 2 -> New Sabzi Mandi (24 stops); Mnzil 2026 runs New Muzaffarabad Colony Landhi -> Khadim Hussain Solangi Goth (34 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "F-11",
+    "field": "name",
+    "old": "Bhens Colony - Chungi Stop",
+    "new": "Manghopir - Bhains Colony Mor",
+    "source": "https://mnzil.app/vehicles/F-11",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Bhens Colony -> Chungi Stop (39 stops); Mnzil 2026 runs Manghopir -> Bhains Colony Mor (48 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL. Corroborated by HamariWeb 2024-09-11 (https://enews.hamariweb.com/pakistan/karachi-f11-bus-routes-timings-and-fares-september-2024-update/): Cattle Colony ... Mustafabad Colony, Mian Wali Colony. Both put the far end at Mianwali Colony/Manghopir, not Chungi Stop."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "G-3",
+    "field": "name",
+    "old": "Sachal Goth - Muhajir Camp 8½",
+    "new": "University Road - Mohajir Camp No. 7",
+    "source": "https://mnzil.app/vehicles/G-3",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Sachal Goth -> Muhajir Camp 8½ (30 stops); Mnzil 2026 runs University Road -> Mohajir Camp No. 7 (41 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "G-7",
+    "field": "name",
+    "old": "Gulshan Ghazi - Madras Chowk",
+    "new": "University Road - Mohajir Camp",
+    "source": "https://mnzil.app/vehicles/G-7",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Gulshan Ghazi -> Madras Chowk (25 stops); Mnzil 2026 runs University Road -> Mohajir Camp (46 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "G-17",
+    "field": "name",
+    "old": "Mwach Goth - Gul City",
+    "new": "Saeedabad - University Road",
+    "source": "https://mnzil.app/vehicles/G-17",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Mwach Goth -> Gul City (21 stops); Mnzil 2026 runs Saeedabad -> University Road (35 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "G-19",
+    "field": "name",
+    "old": "Chungi Stop - Madras Chowk",
+    "new": "Hub filter plant - Madras chowk",
+    "source": "https://mnzil.app/vehicles/G-19",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Chungi Stop -> Madras Chowk (26 stops); Mnzil 2026 runs Hub filter plant -> Madras chowk (37 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "G-27",
+    "field": "name",
+    "old": "Safoora Chorangi - Hub River Road",
+    "new": "Afridi Chowk - Chisti Nagar - Safoora Chowrangi",
+    "source": "https://mnzil.app/vehicles/G-27",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Safoora Chorangi -> Hub River Road (25 stops); Mnzil 2026 runs Afridi Chowk - Chisti Nagar -> Safoora Chowrangi (39 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "N-5",
+    "field": "name",
+    "old": "Naval Colony - Bilal Colony",
+    "new": "Naval Colony - Shaan Chowrangi (Chamra Chowrangi)",
+    "source": "https://mnzil.app/vehicles/N-5",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Naval Colony -> Bilal Colony (24 stops); Mnzil 2026 runs Naval Colony -> Shaan Chowrangi (Chamra Chowrangi) (33 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "W-22",
+    "field": "name",
+    "old": "Chungi Stop - Double Road Korangi 2 ⅓",
+    "new": "Khawaja Ajmer Nagri - Korangi 2",
+    "source": "https://mnzil.app/vehicles/W-22",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Chungi Stop -> Double Road Korangi 2 ⅓ (31 stops); Mnzil 2026 runs Khawaja Ajmer Nagri -> Korangi 2 (34 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "W-25",
+    "field": "name",
+    "old": "Khameso Goth - Itihad Town",
+    "new": "New Karachi Industrial Area (Sector 6) - Khyber Chowk - Ittihad Town",
+    "source": "https://mnzil.app/vehicles/W-25",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Khameso Goth -> Itihad Town (25 stops); Mnzil 2026 runs New Karachi Industrial Area (Sector 6) -> Khyber Chowk - Ittihad Town (22 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "W-55",
+    "field": "name",
+    "old": "Khaibarabad - New Lyari",
+    "new": "Khairabad - Gulshan-e-Zia - Lyari Basti - Taiser Town",
+    "source": "https://mnzil.app/vehicles/W-55",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Khaibarabad -> New Lyari (23 stops); Mnzil 2026 runs Khairabad - Gulshan-e-Zia -> Lyari Basti - Taiser Town (34 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "X-10",
+    "field": "name",
+    "old": "Itihad Town - Misri Shah",
+    "new": "Ittehad Town - Khayaban-e-Ghalib - DHA Phase 8",
+    "source": "https://mnzil.app/vehicles/X-10",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Itihad Town -> Misri Shah (20 stops); Mnzil 2026 runs Ittehad Town -> Khayaban-e-Ghalib - DHA Phase 8 (33 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "X-23",
+    "field": "name",
+    "old": "Fareed Colony - Hashim Goth",
+    "new": "Fareed Colony - Orangi Town - Hospital Chowrangi",
+    "source": "https://mnzil.app/vehicles/X-23",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Fareed Colony -> Hashim Goth (24 stops); Mnzil 2026 runs Fareed Colony - Orangi Town -> Hospital Chowrangi (40 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "Z-2",
+    "field": "name",
+    "old": "Gulshan Ghazi - Khayaban-e-Shaheed",
+    "new": "Gulshan Ghazi - Khayaban-e-Ghalib - DHA Phase 8",
+    "source": "https://mnzil.app/vehicles/Z-2",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Gulshan Ghazi -> Khayaban-e-Shaheed (15 stops); Mnzil 2026 runs Gulshan Ghazi -> Khayaban-e-Ghalib - DHA Phase 8 (18 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "Mashriq",
+    "field": "name",
+    "old": "Muzafarabad Colony - Itihad Town",
+    "new": "Bhains Colony Mor - Naval Colony",
+    "source": "https://mnzil.app/vehicles/Mashriq",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Muzafarabad Colony -> Itihad Town (22 stops); Mnzil 2026 runs Bhains Colony Mor -> Naval Colony (30 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "Muslim",
+    "field": "name",
+    "old": "Steel Town - Shereen Jinnah Colony",
+    "new": "Shireen Jinnah Colony - Pipri Goth",
+    "source": "https://mnzil.app/vehicles/Muslim",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Steel Town -> Shereen Jinnah Colony (21 stops); Mnzil 2026 runs Shireen Jinnah Colony -> Pipri Goth (51 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "Super Hasanzai",
+    "field": "name",
+    "old": "New Sabzi Mandi - Shereen Jinnah Colony",
+    "new": "Maymar Mor - Shireen Jinnah Colony",
+    "source": "https://mnzil.app/vehicles/Super-Hassan-Zai",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs New Sabzi Mandi -> Shereen Jinnah Colony (22 stops); Mnzil 2026 runs Maymar Mor -> Shireen Jinnah Colony (37 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "Sheraz",
+    "field": "name",
+    "old": "Malir Cantt - Musharaf Colony",
+    "new": "Check Post 6 Malir Cantt - Hawksbay Beach",
+    "source": "https://mnzil.app/vehicles/Shiraz",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Malir Cantt -> Musharaf Colony (30 stops); Mnzil 2026 runs Check Post 6 Malir Cantt -> Hawksbay Beach (40 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "Abdullah",
+    "field": "name",
+    "old": "Itihad Town - Qazafi Town",
+    "new": "Ittehad Town - Quaidabad",
+    "source": "https://mnzil.app/vehicles/Abdullah",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Itihad Town -> Qazafi Town (33 stops); Mnzil 2026 runs Ittehad Town -> Quaidabad (47 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "9-C",
+    "field": "name",
+    "old": "Malir Cantt - Ziauddin Hospital",
+    "new": "Shireen Jinnah Colony - Model Colony Mor",
+    "source": "https://mnzil.app/vehicles/9-C",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Malir Cantt -> Ziauddin Hospital (24 stops); Mnzil 2026 runs Shireen Jinnah Colony -> Model Colony Mor (33 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "4-L",
+    "field": "name",
+    "old": "Maymar Complex - Bolton Market",
+    "new": "Al Asif Square - Bolton Market",
+    "source": "https://mnzil.app/vehicles/4-L",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Maymar Complex -> Bolton Market (15 stops); Mnzil 2026 runs Al Asif Square -> Bolton Market (23 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "4-Q",
+    "field": "name",
+    "old": "Gulzaar-e-Hijri - Bolton Market",
+    "new": "Gulzar-e-hijri - Tower",
+    "source": "https://mnzil.app/vehicles/4-Q",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Gulzaar-e-Hijri -> Bolton Market (12 stops); Mnzil 2026 runs Gulzar-e-hijri -> Tower (27 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "11-C",
+    "field": "name",
+    "old": "Azam Basti - Saadi Town",
+    "new": "Azam Basti – Azam Town - University Road",
+    "source": "https://mnzil.app/vehicles/11-C",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Azam Basti -> Saadi Town (22 stops); Mnzil 2026 runs Azam Basti – Azam Town -> University Road (29 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "51",
+    "field": "name",
+    "old": "Thatta City - Lee Market",
+    "new": "Ghaghar Phatak - Bin Qasim Town - Lee Market",
+    "source": "https://mnzil.app/vehicles/51",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Thatta City -> Lee Market (32 stops); Mnzil 2026 runs Ghaghar Phatak - Bin Qasim Town -> Lee Market (34 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "Marwat",
+    "field": "name",
+    "old": "Hawksbay Beach - Shireen Jinnah Colony",
+    "new": "Bhudni Goth - Shireen Jinnah Colony",
+    "source": "https://mnzil.app/vehicles/Marwat",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Hawksbay Beach -> Shireen Jinnah Colony (48 stops); Mnzil 2026 runs Bhudni Goth -> Shireen Jinnah Colony (68 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "Bilal",
+    "field": "name",
+    "old": "Itihad Town - BMDF Colony",
+    "new": "Ittehad Town - Labour Square - Landhi Town",
+    "source": "https://mnzil.app/vehicles/Bilal",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Itihad Town -> BMDF Colony (27 stops); Mnzil 2026 runs Ittehad Town -> Labour Square - Landhi Town (32 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "Gulistan",
+    "field": "name",
+    "old": "Bhitayabad - Sultan Masjid",
+    "new": "PIA Society - Gulistan e Johar - Saudi Embassy - DHA Phase 5",
+    "source": "https://mnzil.app/vehicles/Gulistan",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Bhitayabad -> Sultan Masjid (21 stops); Mnzil 2026 runs PIA Society - Gulistan e Johar -> Saudi Embassy - DHA Phase 5 (49 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "Ilyas",
+    "field": "name",
+    "old": "Landhi 1 - Itihad Town",
+    "new": "Ittehad Town - Quaidabad",
+    "source": "https://mnzil.app/vehicles/Ilyas",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Landhi 1 -> Itihad Town (21 stops); Mnzil 2026 runs Ittehad Town -> Quaidabad (50 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "Masood",
+    "field": "name",
+    "old": "Bhains Colony - Khuda Ki Basti",
+    "new": "Bhains Colony Mor - Lyari 36",
+    "source": "https://mnzil.app/vehicles/Masood",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Bhains Colony -> Khuda Ki Basti (21 stops); Mnzil 2026 runs Bhains Colony Mor -> Lyari 36 (41 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "Khan",
+    "field": "name",
+    "old": "Abdullah Chowk - Abdullah Shah Ghazi",
+    "new": "Surjani Power House - Abdullah Shah Ghazi",
+    "source": "https://mnzil.app/vehicles/Khan",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Abdullah Chowk -> Abdullah Shah Ghazi (25 stops); Mnzil 2026 runs Surjani Power House -> Abdullah Shah Ghazi (43 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL. HamariWeb 2023-11-04 Khan Coach: Surjani Town ... Tower, Mayi Kolachi Road, Clifton."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "G-11",
+    "field": "name",
+    "old": "Yousaf Goth - Kiran Hospital",
+    "new": "Yousuf Goth - Maroora Goth Bus Stop",
+    "source": "https://mnzil.app/vehicles/G-11",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Yousaf Goth -> Kiran Hospital (30 stops); Mnzil 2026 runs Yousuf Goth -> Maroora Goth Bus Stop (37 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "Gulistan-Coach",
+    "field": "name",
+    "old": "Gulistan-Coach (Pahalwan Goth - Qayyumabad)",
+    "new": "PIA Society - Gulistan e Johar - Saudi Embassy - DHA Phase 5",
+    "source": "https://mnzil.app/vehicles/Gulistan",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Pahalwan Goth -> Qayyumabad (30 stops); Mnzil 2026 runs PIA Society - Gulistan e Johar -> Saudi Embassy - DHA Phase 5 (49 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-minibus",
+    "route": "Sheraz-Coach",
+    "field": "name",
+    "old": "Sheraz-Coach (Safoora Goth - Coast Guard)",
+    "new": "Check Post 6 Malir Cantt - Hawksbay Beach",
+    "source": "https://mnzil.app/vehicles/Shiraz",
+    "note": "Terminal conflict, not a confirmed error: our list (RastaYaar/Zenodo) runs Safoora Goth -> Coast Guard (20 stops); Mnzil 2026 runs Check Post 6 Malir Cantt -> Hawksbay Beach (40 stops). Mnzil is maintained and more detailed, so it may reflect an extension or a longer full-length run. If accepted, replace stops with the Mnzil itinerary at the source URL."
+  },
+  {
+    "system": "karachi-chinchi",
+    "route": "A-1",
+    "field": "stops",
+    "old": [
+      "Disco Bakers and Sweets",
+      "Maskan Chowrangi",
+      "NIPA Chowrangi",
+      "Gulshan Chowrangi"
+    ],
+    "new": [
+      "NIPA Chowrangi",
+      "Gulshan Chowrangi",
+      "Disco Bakers and Sweets",
+      "Maskan Chowrangi"
+    ],
+    "source": "https://mnzil.app/vehicles/A-1",
+    "note": "Stop order changed on Mnzil: it now starts at NIPA Chowrangi. (Mnzil page re-fetched 2026-09-21; our copy came from an older scrape.)"
+  },
+  {
+    "system": "karachi-chinchi",
+    "route": "S-2",
+    "field": "stops",
+    "old": [
+      "Daak Khana - Liaquatabad",
+      "Liaquatabad No.10 - Lalukhet",
+      "Karimabad - Meena Bazaar",
+      "Moosa Colony - Gulberg Town",
+      "Ziauddin Hospital - North Nazimabad",
+      "Landi Kotal Chowrangi Roundabout",
+      "Peoples Chowrangi",
+      "Piyala Hotel - Peoples Colony",
+      "Gulberg Chowrangi",
+      "Alnoor mor"
+    ],
+    "new": [
+      "Daak Khana - Liaquatabad",
+      "Liaquatabad No.10 - Lalukhet",
+      "Karimabad - Meena Bazaar",
+      "Moosa Colony - Gulberg Town",
+      "Ziauddin Hospital - North Nazimabad",
+      "Landi Kotal Chowrangi Roundabout",
+      "Gulberg Chowrangi",
+      "Piyala Hotel - Peoples Colony",
+      "Peoples Chowrangi",
+      "Alnoor mor"
+    ],
+    "source": "https://mnzil.app/vehicles/S-2",
+    "note": "Mnzil now orders Gulberg Chowrangi before Piyala Hotel and Peoples Chowrangi (reversed middle section). (Mnzil page re-fetched 2026-09-21; our copy came from an older scrape.)"
+  },
+  {
+    "system": "karachi-chinchi",
+    "route": "D-13",
+    "field": "stops",
+    "old": [
+      "Jungle School (Baldia)",
+      "Bismillah Chowk",
+      "Baldia 19-D",
+      "Mohajir Camp No. 7",
+      "Rasheedabad",
+      "Labor Square - Metroville SITE",
+      "GCT College Mor",
+      "SITE Police Station - A",
+      "Habib Chowrangi - Metroville",
+      "Valika",
+      "METRO Manghopir Store",
+      "Banaras Bus Stop"
+    ],
+    "new": [
+      "Jungle School (Baldia)",
+      "Bismillah Chowk",
+      "Baldia 19-D",
+      "Baldia 7 Graveyard",
+      "Rasheedabad",
+      "Labor Square - Metroville SITE",
+      "GCT College Mor",
+      "SITE Police Station - A",
+      "Habib Chowrangi - Metroville",
+      "Valika",
+      "METRO Manghopir Store",
+      "Bacha Khan Chowk",
+      "Banaras Bus Stop"
+    ],
+    "source": "https://mnzil.app/vehicles/D-13",
+    "note": "Mnzil replaced Mohajir Camp No. 7 with Baldia 7 Graveyard and added Bacha Khan Chowk before Banaras. (Mnzil page re-fetched 2026-09-21; our copy came from an older scrape.)"
+  },
+  {
+    "system": "karachi-chinchi",
+    "route": "B-1",
+    "field": "stops",
+    "old": [
+      "Daak Khana - Liaquatabad",
+      "Liaquatabad No.10 - Lalukhet",
+      "Karimabad - Meena Bazaar",
+      "Ayesha Manzil",
+      "Naseerabad - Gulberg Town",
+      "Water Pump",
+      "Ancholi",
+      "Sohrab Goth",
+      "Al Asif Square",
+      "Jamali Flyover",
+      "Allah bux village - Ahsanabad"
+    ],
+    "new": [
+      "Daak Khana - Liaquatabad",
+      "Liaquatabad No.10 - Lalukhet",
+      "Karimabad - Meena Bazaar",
+      "Ayesha Manzil",
+      "Naseerabad - Gulberg Town",
+      "Water Pump",
+      "Ancholi",
+      "Sohrab Goth",
+      "Al Asif Square",
+      "Jamali Flyover"
+    ],
+    "source": "https://mnzil.app/vehicles/B-1-Chinchi",
+    "note": "Mnzil drops the last stop Allah bux village - Ahsanabad; route now ends at Jamali Flyover. (Mnzil page re-fetched 2026-09-21; our copy came from an older scrape.)"
+  },
+  {
+    "system": "karachi-chinchi",
+    "route": "J-1",
+    "field": "stops",
+    "old": [
+      "Gulshan Ghazi",
+      "Faqir Colony",
+      "Baldia 8",
+      "Bismillah Chowk",
+      "Jungle School (Baldia)",
+      "Rubi Mor",
+      "Police Training Center Saeedabad",
+      "Mach Mor",
+      "Baldia 4",
+      "Baldia 3",
+      "Baldia 2",
+      "Shershah",
+      "Meezan Head Office",
+      "Gulbai",
+      "Agra Taj Colony",
+      "IC Bridge"
+    ],
+    "new": [
+      "Gulshan Ghazi",
+      "Faqeer Colony",
+      "Baldia 8",
+      "Bismillah Chowk",
+      "Jungle School (Baldia)",
+      "Rubi Mor",
+      "Police Training Center Saeedabad",
+      "Mach Mor",
+      "Baldia 4",
+      "Baldia 3",
+      "Baldia 2",
+      "Shershah",
+      "Meezan Head Office",
+      "Gulbai",
+      "Agra Taj Colony"
+    ],
+    "source": "https://mnzil.app/vehicles/J-1",
+    "note": "Mnzil drops IC Bridge; route now ends at Agra Taj Colony. (Mnzil page re-fetched 2026-09-21; our copy came from an older scrape.)"
+  },
+  {
+    "system": "karachi-chinchi",
+    "route": "M-7",
+    "field": "stops",
+    "old": [
+      "Yaroo Khan Goth - Surjani Town",
+      "Allah waali - New Karachi",
+      "Kala School Bus Stop - New Karachi",
+      "Sindhi Hotel - New Karachi",
+      "Nala Stop - New Karachi",
+      "Godhra",
+      "Shafiq Mor",
+      "Sohrab Goth",
+      "Lucky One Mall",
+      "Gulshan Chowrangi",
+      "NIPA Chowrangi",
+      "Aladin Park",
+      "Johar Mor",
+      "Millennium Mall",
+      "Drigh Road",
+      "Chota Gate - Shah Faisal Colony",
+      "Shama Shopping Center",
+      "Bagh-e-Korangi - Sector 10",
+      "Singer Chowrangi",
+      "K Area - Sherabad Colony",
+      "Korangi 5",
+      "Korangi 6",
+      "Chiragh Hotel - Sector 36 E Landhi Town",
+      "Landhi 4",
+      "Babar Market",
+      "89 Landhi Rd"
+    ],
+    "new": [
+      "Yaroo Khan Goth - Surjani Town",
+      "Allah waali - New Karachi",
+      "Kala School Bus Stop - New Karachi",
+      "Sindhi Hotel - New Karachi",
+      "Nala Stop - New Karachi",
+      "Godhra",
+      "Shafiq Mor",
+      "Sohrab Goth",
+      "Lucky One Mall",
+      "Gulshan Chowrangi",
+      "NIPA Chowrangi",
+      "Aladin Park",
+      "Johar Mor",
+      "Millennium Mall",
+      "Drigh Road",
+      "Chota Gate - Shah Faisal Colony",
+      "Shama Shopping Center",
+      "Singer Chowrangi",
+      "K Area - Sherabad Colony",
+      "Korangi 5",
+      "Korangi 6",
+      "Chiragh Hotel - Sector 36 E Landhi Town",
+      "Landhi 4",
+      "Babar Market",
+      "89 Landhi Rd"
+    ],
+    "source": "https://mnzil.app/vehicles/M-7",
+    "note": "Mnzil drops Bagh-e-Korangi - Sector 10. (Mnzil page re-fetched 2026-09-21; our copy came from an older scrape.)"
+  },
+  {
+    "system": "karachi-chinchi",
+    "route": "Sultan",
+    "field": "stops",
+    "old": [
+      "Liaquatabad No.10 - Lalukhet",
+      "Essa Nagri",
+      "Jail Chowrangi",
+      "Tariq Road",
+      "Baloch Colony Stop",
+      "Manzoor Colony",
+      "Qayyumabad",
+      "Korangi Crossing Road",
+      "Indus Hospital - Korangi",
+      "Nasir Jump",
+      "Korangi 1",
+      "Korangi 2 ½",
+      "Korangi 3",
+      "Korangi 4",
+      "Landhi 6",
+      "Landhi 5",
+      "Landhi 4",
+      "Landhi 3",
+      "Landhi 2",
+      "Landhi 1",
+      "89 Landhi Rd",
+      "Dawood Chowrangi",
+      "Korangi 5"
+    ],
+    "new": [
+      "Liaquatabad No.10 - Lalukhet",
+      "Essa Nagri",
+      "Jail Chowrangi",
+      "Tariq Road",
+      "Baloch Colony Flyover",
+      "Manzoor Colony",
+      "Qayyumabad",
+      "Korangi Crossing Road",
+      "Indus Hospital - Korangi",
+      "Nasir Jump",
+      "Korangi 1",
+      "Korangi 2 ½",
+      "Korangi 3",
+      "Korangi 4",
+      "Landhi 6",
+      "Landhi 5",
+      "Landhi 4",
+      "Landhi 3 1/2",
+      "Landhi 2",
+      "Landhi 1",
+      "89 Landhi Rd",
+      "Dawood Chowrangi",
+      "Korangi 5"
+    ],
+    "source": "https://mnzil.app/vehicles/Sultan-Chinchi",
+    "note": "Mnzil renames Landhi 3 to Landhi 3 1/2 and Baloch Colony Stop to Baloch Colony Flyover. (Mnzil page re-fetched 2026-09-21; our copy came from an older scrape.)"
+  },
+  {
+    "system": "karachi-chinchi",
+    "route": "AA1",
+    "field": "stops[10].name",
+    "old": "Baloch Colony Stop",
+    "new": "Baloch Colony Flyover",
+    "source": "https://mnzil.app/vehicles/AA1-Chinchi",
+    "note": "Stop renamed on Mnzil (2026-09-21)."
+  },
+  {
+    "system": "karachi-chinchi",
+    "route": "JF17",
+    "field": "stops[10].name",
+    "old": "Baloch Colony Stop",
+    "new": "Baloch Colony Flyover",
+    "source": "https://mnzil.app/vehicles/JF17-Chinchi",
+    "note": "Stop renamed on Mnzil (2026-09-21)."
+  },
+  {
+    "system": "karachi-chinchi",
+    "route": "Karachi King",
+    "field": "stops[10].name",
+    "old": "Baloch Colony Stop",
+    "new": "Baloch Colony Flyover",
+    "source": "https://mnzil.app/vehicles/Karachi-King-Chinchi",
+    "note": "Stop renamed on Mnzil (2026-09-21)."
+  },
+  {
+    "system": "karachi-chinchi",
+    "route": "M-22",
+    "field": "stops[10].name",
+    "old": "Baloch Colony Stop",
+    "new": "Baloch Colony Flyover",
+    "source": "https://mnzil.app/vehicles/M-22",
+    "note": "Stop renamed on Mnzil (2026-09-21)."
+  },
+  {
+    "system": "karachi-chinchi",
+    "route": "Razaq",
+    "field": "stops[10].name",
+    "old": "Baloch Colony Stop",
+    "new": "Baloch Colony Flyover",
+    "source": "https://mnzil.app/vehicles/Razaq-Chinchi",
+    "note": "Stop renamed on Mnzil (2026-09-21)."
+  }
+]

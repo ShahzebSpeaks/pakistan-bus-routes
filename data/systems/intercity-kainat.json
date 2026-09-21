@@ -1,0 +1,208 @@
+{
+  "id": "intercity-kainat",
+  "city": "intercity",
+  "name": "Kainat Travels",
+  "name_ur": "",
+  "operator": "Kainat Travels (private)",
+  "mode": "intercity_bus",
+  "website": null,
+  "helpline": "03-111-777-333",
+  "payment": "cash at terminal / online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "bookme.pk Kainat Travels",
+      "url": "https://bookme.pk/kainat-travels",
+      "publisher": "bookme.pk",
+      "date": "2026-09-21",
+      "official": false
+    },
+    {
+      "title": "sastaticket.pk Kainat Travels",
+      "url": "https://www.sastaticket.pk/bus-tickets/kainat-travels",
+      "publisher": "sastaticket.pk",
+      "date": "2026-09-21",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "KT-KHI-LHR",
+      "name": "Karachi - Lahore",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Kainat Travels, Cantt Station, Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Kainat Travels (Bilal / Rahbar Travels terminal), Yateem Khana, Band Road, Lahore",
+          "name_ur": "",
+          "lat": 31.56568,
+          "lon": 74.31418,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "bookme.pk Kainat Travels",
+          "url": "https://bookme.pk/kainat-travels"
+        },
+        {
+          "title": "sastaticket.pk Kainat Travels",
+          "url": "https://www.sastaticket.pk/bus-tickets/kainat-travels"
+        }
+      ],
+      "notes": "Operator terminals in Karachi, Lahore, Multan, Rawalpindi; exact city pairs not published. Sastaticket fares look stale and timetable is template filler."
+    },
+    {
+      "id": "KT-KHI-MUX",
+      "name": "Karachi - Multan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Kainat Travels, Cantt Station, Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Multan",
+          "name_ur": "",
+          "lat": 30.197838,
+          "lon": 71.471968,
+          "coord_source": "auto:nominatim:node/307617596",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "sastaticket.pk Kainat Travels",
+          "url": "https://www.sastaticket.pk/bus-tickets/kainat-travels"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "KT-KHI-FSD",
+      "name": "Karachi - Faisalabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Kainat Travels, Cantt Station, Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:city",
+          "is_station": true
+        },
+        {
+          "name": "Faisalabad",
+          "name_ur": "",
+          "lat": 31.42206,
+          "lon": 73.09233,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "sastaticket.pk Kainat Travels",
+          "url": "https://www.sastaticket.pk/bus-tickets/kainat-travels"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "KT-LRK-RWP",
+      "name": "Larkana - Rawalpindi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Larkana",
+          "name_ur": "",
+          "lat": 27.557,
+          "lon": 68.2264,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Rawalpindi",
+          "name_ur": "",
+          "lat": 33.47408,
+          "lon": 73.25229,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "sastaticket.pk Kainat Travels",
+          "url": "https://www.sastaticket.pk/bus-tickets/kainat-travels"
+        }
+      ],
+      "notes": ""
+    }
+  ],
+  "last_verified": "2026-09-21"
+}

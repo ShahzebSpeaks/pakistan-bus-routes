@@ -1,0 +1,220 @@
+{
+  "id": "intercity-kohistan",
+  "city": "intercity",
+  "name": "Kohistan Express",
+  "name_ur": "",
+  "operator": "Kohistan Express (private, Faisalabad)",
+  "mode": "intercity_bus",
+  "website": null,
+  "helpline": "041-111-333-567 (unconfirmed)",
+  "payment": "cash at terminal / online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Kohistan Express official Facebook",
+      "url": "https://www.facebook.com/KohistanXpress/",
+      "publisher": "Kohistan Express",
+      "date": null,
+      "official": true
+    },
+    {
+      "title": "pkbuses.com Kohistan Express",
+      "url": "https://pkbuses.com/kohistan-express-contact-numbers-helpline",
+      "publisher": "pkbuses.com",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "KH-FSD-RWP",
+      "name": "Faisalabad - Rawalpindi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Kohistan Bus Station, Rajbah Road (near Railway Station), Faisalabad",
+          "name_ur": "",
+          "lat": 31.4174158,
+          "lon": 73.094663,
+          "coord_source": "osm:node/5137257337",
+          "is_station": true
+        },
+        {
+          "name": "Kohistan Luxury Bus Service, Pir Wadhai, Rawalpindi",
+          "name_ur": "",
+          "lat": 33.6152889,
+          "lon": 72.995157,
+          "coord_source": "osm:node/4603298713",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Kohistan Express official Facebook",
+          "url": "https://www.facebook.com/KohistanXpress/"
+        },
+        {
+          "title": "pkbuses.com Kohistan Express",
+          "url": "https://pkbuses.com/kohistan-express-contact-numbers-helpline"
+        }
+      ],
+      "notes": "Rawalpindi stop coordinates from OSM 'kohistan luxury bus service'; the name of that stop is not confirmed by the operator."
+    },
+    {
+      "id": "KH-FSD-SDQ",
+      "name": "Faisalabad - Sadiqabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 2700,
+        "slabs": [],
+        "concessions": "Third-party, undated.",
+        "as_of": null,
+        "source_url": "https://pkbuses.com/kohistan-express-contact-numbers-helpline"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Kohistan Bus Station, Rajbah Road (near Railway Station), Faisalabad",
+          "name_ur": "",
+          "lat": 31.4174158,
+          "lon": 73.094663,
+          "coord_source": "osm:node/5137257337",
+          "is_station": true
+        },
+        {
+          "name": "Sadiqabad",
+          "name_ur": "",
+          "lat": 28.3091,
+          "lon": 70.1307,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "pkbuses.com Kohistan Express",
+          "url": "https://pkbuses.com/kohistan-express-contact-numbers-helpline"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "KH-FSD-LHR",
+      "name": "Faisalabad - Lahore",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Kohistan Bus Station, Rajbah Road (near Railway Station), Faisalabad",
+          "name_ur": "",
+          "lat": 31.4174158,
+          "lon": 73.094663,
+          "coord_source": "osm:node/5137257337",
+          "is_station": true
+        },
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.565682,
+          "lon": 74.314183,
+          "coord_source": "auto:nominatim:node/1886594378",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Kohistan Express official Facebook",
+          "url": "https://www.facebook.com/KohistanXpress/"
+        },
+        {
+          "title": "pkbuses.com Kohistan Express",
+          "url": "https://pkbuses.com/kohistan-express-contact-numbers-helpline"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "KH-FSD-SGD",
+      "name": "Faisalabad - Sargodha",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Kohistan Bus Station, Rajbah Road (near Railway Station), Faisalabad",
+          "name_ur": "",
+          "lat": 31.4174158,
+          "lon": 73.094663,
+          "coord_source": "osm:node/5137257337",
+          "is_station": true
+        },
+        {
+          "name": "Kohistan Express, Kacheri Road, Sargodha",
+          "name_ur": "",
+          "lat": 32.08535,
+          "lon": 72.67917,
+          "coord_source": "auto:city",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Kohistan Express official Facebook",
+          "url": "https://www.facebook.com/KohistanXpress/"
+        }
+      ],
+      "notes": "Old Facebook post: Executive Rs 490 (undated, stale)."
+    }
+  ],
+  "last_verified": "2026-09-21"
+}
