@@ -126,4 +126,12 @@ describe('planner', () => {
     expect(new Planner(pink).plan({ lat: 24.9, lon: 67.0 }, { lat: 24.9, lon: 67.04 }).filter((r) => r.rides > 0)).toHaveLength(0);
     expect(new Planner(pink, { womenOnlyAllowed: true }).plan({ lat: 24.9, lon: 67.0 }, { lat: 24.9, lon: 67.04 }).filter((r) => r.rides > 0).length).toBeGreaterThan(0);
   });
+
+  it('ignores unconfirmed routes where only the two terminals are known', () => {
+    const ends = route('ENDS', 'bus', [A[0], A[4]], flat);
+    const onlyEnds = { ...city, routes: [{ ...ends, status: 'unverified' as const, stops_confidence: 'low' as const }] };
+    expect(new Planner(onlyEnds).plan({ lat: 24.9, lon: 67.0 }, { lat: 24.9, lon: 67.04 }).filter((r) => r.rides > 0)).toHaveLength(0);
+    const confirmed = { ...city, routes: [{ ...ends, status: 'operational' as const, stops_confidence: 'low' as const }] };
+    expect(new Planner(confirmed).plan({ lat: 24.9, lon: 67.0 }, { lat: 24.9, lon: 67.04 }).filter((r) => r.rides > 0).length).toBeGreaterThan(0);
+  });
 });

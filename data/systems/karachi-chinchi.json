@@ -1,0 +1,4894 @@
+{
+  "id": "karachi-chinchi",
+  "city": "karachi",
+  "name": "Chinchi (Qingqi) routes",
+  "name_ur": "چنچی روٹس",
+  "operator": "Private Qingqi/Chinchi rickshaw operators (route list scraped from mnzil.app, shared in the musafir project)",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": null,
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "sources": [
+    {
+      "title": "musafir: data/mnzil_scrapedata.json (scraped from mnzil.app)",
+      "url": "https://github.com/naumanaarif/musafir",
+      "publisher": "naumanaarif (GitHub)",
+      "date": "2026-05-17",
+      "official": false
+    },
+    {
+      "title": "Mnzil Karachi route finder",
+      "url": "https://mnzil.app/",
+      "publisher": "Cheeltech (mnzil.app)",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "007",
+      "name": "Shrine of Manghopir - Daak Khana - Liaquatabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Shrine of Manghopir",
+          "name_ur": "منگھو پیر مزار",
+          "lat": 24.980264,
+          "lon": 67.034885,
+          "coord_source": "auto:osm:way/752866656",
+          "is_station": false
+        },
+        {
+          "name": "Daak Khana - Liaquatabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page 007",
+          "url": "https://mnzil.app/vehicles/007"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 15 stops but captured only 3 (Sakhi Hasan Chowrangi; Five Star Chowrangi; Hyderi Market). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "2-J",
+      "name": "Saddar - Al hameed",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Saddar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Al hameed",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page 2-J",
+          "url": "https://mnzil.app/vehicles/2-J"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 27 stops but captured only 12 (Board Office Chowrangi; Five Star Chowrangi; Hyderi Market; Jummah Bazar (Bhayani Shopping Center); Nagan Chowrangi; Road 2400 - Aisha Complex; Road 4200 - Saleem Centre; Power House Chowrangi; Sakhi Hasan Chowrangi; UP Mor; 2 Minute Chowrangi; Erum Shopping). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "4-E",
+      "name": "Abdullah Chowk - Numaish Chowrangi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Abdullah Chowk",
+          "name_ur": "",
+          "lat": 25.02355,
+          "lon": 67.063646,
+          "coord_source": "auto:same-name:osm:node/8637079791",
+          "is_station": false
+        },
+        {
+          "name": "KDA Flats- Surjani",
+          "name_ur": "",
+          "lat": 25.018094,
+          "lon": 67.063596,
+          "coord_source": "auto:osm:node/5112958729",
+          "is_station": false
+        },
+        {
+          "name": "Karimi Chowrangi",
+          "name_ur": "",
+          "lat": 25.011084,
+          "lon": 67.064375,
+          "coord_source": "auto:same-name:osm:node/8637079793",
+          "is_station": false
+        },
+        {
+          "name": "4K Chowrangi",
+          "name_ur": "",
+          "lat": 25.006425,
+          "lon": 67.064435,
+          "coord_source": "auto:osm:way/488499372",
+          "is_station": false
+        },
+        {
+          "name": "2 Minute Chowrangi",
+          "name_ur": "",
+          "lat": 24.998514,
+          "lon": 67.065136,
+          "coord_source": "auto:same-name:osm:node/8637079795",
+          "is_station": false
+        },
+        {
+          "name": "Road 2400 - Aisha Complex",
+          "name_ur": "",
+          "lat": 24.996466,
+          "lon": 67.065601,
+          "coord_source": "auto:photon:N/5282196687",
+          "is_station": false
+        },
+        {
+          "name": "Power House Chowrangi",
+          "name_ur": "",
+          "lat": 24.984011,
+          "lon": 67.066074,
+          "coord_source": "auto:same-name:osm:node/8637079797",
+          "is_station": false
+        },
+        {
+          "name": "Road 4200 - Saleem Centre",
+          "name_ur": "",
+          "lat": 24.978746,
+          "lon": 67.066406,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "UP Mor",
+          "name_ur": "",
+          "lat": 24.973482,
+          "lon": 67.066738,
+          "coord_source": "auto:osm:node/8637079799",
+          "is_station": false
+        },
+        {
+          "name": "Nagan Chowrangi",
+          "name_ur": "",
+          "lat": 24.966413,
+          "lon": 67.066994,
+          "coord_source": "auto:same-name:osm:node/8474862599",
+          "is_station": false
+        },
+        {
+          "name": "Erum Shopping",
+          "name_ur": "",
+          "lat": 24.961205,
+          "lon": 67.064455,
+          "coord_source": "auto:osm:node/4741397135",
+          "is_station": false
+        },
+        {
+          "name": "Sakhi Hasan Chowrangi",
+          "name_ur": "",
+          "lat": 24.954813,
+          "lon": 67.056037,
+          "coord_source": "auto:osm:node/12214232393",
+          "is_station": false
+        },
+        {
+          "name": "Jummah Bazar (Bhayani Shopping Center)",
+          "name_ur": "",
+          "lat": 24.950363,
+          "lon": 67.054377,
+          "coord_source": "auto:osm:node/8474862580",
+          "is_station": false
+        },
+        {
+          "name": "Five Star Chowrangi",
+          "name_ur": "",
+          "lat": 24.945573,
+          "lon": 67.05011,
+          "coord_source": "auto:same-name:osm:node/8474862579",
+          "is_station": false
+        },
+        {
+          "name": "Hyderi Market",
+          "name_ur": "",
+          "lat": 24.935831,
+          "lon": 67.04429,
+          "coord_source": "auto:osm:node/5128445377",
+          "is_station": false
+        },
+        {
+          "name": "Board Office Chowrangi",
+          "name_ur": "",
+          "lat": 24.92662,
+          "lon": 67.033248,
+          "coord_source": "auto:same-name:osm:node/8474862577",
+          "is_station": false
+        },
+        {
+          "name": "Annu Bhai Park",
+          "name_ur": "",
+          "lat": 24.916922,
+          "lon": 67.031291,
+          "coord_source": "auto:same-name:osm:node/8474880964",
+          "is_station": false
+        },
+        {
+          "name": "Enquiry Office",
+          "name_ur": "",
+          "lat": 24.905817,
+          "lon": 67.030942,
+          "coord_source": "auto:same-name:osm:node/8474880963",
+          "is_station": false
+        },
+        {
+          "name": "Nazimabad No. 1",
+          "name_ur": "",
+          "lat": 24.899756,
+          "lon": 67.030409,
+          "coord_source": "auto:same-name:osm:node/8474880962",
+          "is_station": false
+        },
+        {
+          "name": "Sanitary Market (Gulbahar)",
+          "name_ur": "سینیٹری مارکیٹ اسٹیشن",
+          "lat": 24.894783,
+          "lon": 67.030704,
+          "coord_source": "auto:osm:node/8474880961",
+          "is_station": false
+        },
+        {
+          "name": "Lasbela",
+          "name_ur": "",
+          "lat": 24.885755,
+          "lon": 67.034534,
+          "coord_source": "auto:same-name:osm:node/8474880960",
+          "is_station": false
+        },
+        {
+          "name": "Patel Para (Guru Mandir)",
+          "name_ur": "",
+          "lat": 24.881269,
+          "lon": 67.03812,
+          "coord_source": "auto:osm:node/8474880959",
+          "is_station": false
+        },
+        {
+          "name": "Numaish Chowrangi",
+          "name_ur": "",
+          "lat": 24.872181,
+          "lon": 67.035523,
+          "coord_source": "auto:same-name:osm:node/8637095180",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page 4-E",
+          "url": "https://mnzil.app/vehicles/4-E"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (23 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "4-X",
+      "name": "Surjani - Sector 7A - Guru Mandir",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Surjani - Sector 7A",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Guru Mandir",
+          "name_ur": "",
+          "lat": 24.88136,
+          "lon": 67.038008,
+          "coord_source": "auto:same-name:osm:node/12183370529",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page 4-X",
+          "url": "https://mnzil.app/vehicles/4-X"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 27 stops but captured only 13 (KDA Flats- Surjani; Karimi Chowrangi; 4K Chowrangi; UP Mor; Nagan Chowrangi; Erum Shopping; Sakhi Hasan Chowrangi; Jummah Bazar (Bhayani Shopping Center); Five Star Chowrangi; Hyderi Market; Board Office Chowrangi; Lasbela; Patel Para (Guru Mandir)). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "555",
+      "name": "Sindhi Hotel - New Karachi - Guru Mandir",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Sindhi Hotel - New Karachi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Guru Mandir",
+          "name_ur": "",
+          "lat": 24.88136,
+          "lon": 67.038008,
+          "coord_source": "auto:same-name:osm:node/12183370529",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page 555",
+          "url": "https://mnzil.app/vehicles/555"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 20 stops but captured only 9 (UP Mor; Nagan Chowrangi; Erum Shopping; Sakhi Hasan Chowrangi; Jummah Bazar (Bhayani Shopping Center); Hyderi Market; Board Office Chowrangi; Lasbela; Patel Para (Guru Mandir)). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "786",
+      "name": "Lyari Basti - Taiser Town - NIPA Chowrangi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Lyari Basti - Taiser Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "NIPA Chowrangi",
+          "name_ur": "",
+          "lat": 24.917907,
+          "lon": 67.096653,
+          "coord_source": "auto:osm:node/5112921419",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page 786",
+          "url": "https://mnzil.app/vehicles/786"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 19 stops but captured only 7 (KDA Flats- Surjani; 4K Chowrangi; 2 Minute Chowrangi; Power House Chowrangi; Road 4200 - Saleem Centre; UP Mor; Nagan Chowrangi). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "7-D",
+      "name": "North Karachi 7-D - Iqra University - Lucky One Mall",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "North Karachi 7-D - Iqra University",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Lucky One Mall",
+          "name_ur": "",
+          "lat": 24.932219,
+          "lon": 67.086308,
+          "coord_source": "auto:osm:node/5110968790",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page 7-D",
+          "url": "https://mnzil.app/vehicles/7-D"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 11 stops but the stop list is empty."
+    },
+    {
+      "id": "8",
+      "name": "Pahar Ganj - Ahsanabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Pahar Ganj",
+          "name_ur": "",
+          "lat": 24.941144,
+          "lon": 67.027279,
+          "coord_source": "auto:osm:node/5330851428",
+          "is_station": false
+        },
+        {
+          "name": "Justice Asghar Ali Shah Cricket Stadium",
+          "name_ur": "",
+          "lat": 24.936278,
+          "lon": 67.032389,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "KDA Chowrangi",
+          "name_ur": "",
+          "lat": 24.931412,
+          "lon": 67.037499,
+          "coord_source": "auto:osm:way/525177367",
+          "is_station": false
+        },
+        {
+          "name": "Ziauddin Hospital - North Nazimabad",
+          "name_ur": "",
+          "lat": 24.923928,
+          "lon": 67.044713,
+          "coord_source": "auto:osm:node/2671409823",
+          "is_station": false
+        },
+        {
+          "name": "Moosa Colony - Gulberg Town",
+          "name_ur": "",
+          "lat": 24.92013,
+          "lon": 67.048999,
+          "coord_source": "auto:nominatim:node/2671395587",
+          "is_station": false
+        },
+        {
+          "name": "Karimabad - Meena Bazaar",
+          "name_ur": "",
+          "lat": 24.918445,
+          "lon": 67.054126,
+          "coord_source": "auto:osm:node/12145481411",
+          "is_station": false
+        },
+        {
+          "name": "Ayesha Manzil",
+          "name_ur": "",
+          "lat": 24.927679,
+          "lon": 67.064016,
+          "coord_source": "auto:osm:node/4166787368",
+          "is_station": false
+        },
+        {
+          "name": "Naseerabad - Gulberg Town",
+          "name_ur": "",
+          "lat": 24.939524,
+          "lon": 67.071021,
+          "coord_source": "auto:osm:node/2663052703",
+          "is_station": false
+        },
+        {
+          "name": "Water Pump",
+          "name_ur": "",
+          "lat": 24.936895,
+          "lon": 67.07571,
+          "coord_source": "auto:osm:node/5112904033",
+          "is_station": false
+        },
+        {
+          "name": "Ancholi",
+          "name_ur": "",
+          "lat": 24.944775,
+          "lon": 67.079533,
+          "coord_source": "auto:osm:node/5157033897",
+          "is_station": false
+        },
+        {
+          "name": "Sohrab Goth",
+          "name_ur": "",
+          "lat": 24.945051,
+          "lon": 67.085713,
+          "coord_source": "auto:osm:node/12126380204",
+          "is_station": false
+        },
+        {
+          "name": "Al Asif Square",
+          "name_ur": "",
+          "lat": 24.949737,
+          "lon": 67.089916,
+          "coord_source": "auto:osm:node/5109660604",
+          "is_station": false
+        },
+        {
+          "name": "Jamali Flyover",
+          "name_ur": "",
+          "lat": 24.975402,
+          "lon": 67.10128,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ahsanabad",
+          "name_ur": "احسن اباد",
+          "lat": 25.001066,
+          "lon": 67.112643,
+          "coord_source": "auto:osm:way/521261126",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page 8",
+          "url": "https://mnzil.app/vehicles/8-Chinchi"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (14 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "A",
+      "name": "Saddar - NIPA Chowrangi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Saddar",
+          "name_ur": "صدر",
+          "lat": 24.860571,
+          "lon": 67.031741,
+          "coord_source": "auto:osm:node/6773257696",
+          "is_station": false
+        },
+        {
+          "name": "Mobile Market Saddar",
+          "name_ur": "",
+          "lat": 24.86354,
+          "lon": 67.025,
+          "coord_source": "auto:osm:node/12222525243",
+          "is_station": false
+        },
+        {
+          "name": "NIPA Chowrangi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page A",
+          "url": "https://mnzil.app/vehicles/A"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (3 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "A-1",
+      "name": "Disco Bakers and Sweets - Gulshan Chowrangi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Disco Bakers and Sweets",
+          "name_ur": "",
+          "lat": 24.913212,
+          "lon": 67.10247,
+          "coord_source": "auto:photon:N/13996264088",
+          "is_station": false
+        },
+        {
+          "name": "Maskan Chowrangi",
+          "name_ur": "",
+          "lat": 24.91556,
+          "lon": 67.099561,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "NIPA Chowrangi",
+          "name_ur": "",
+          "lat": 24.917907,
+          "lon": 67.096653,
+          "coord_source": "auto:osm:node/5112921419",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Chowrangi",
+          "name_ur": "",
+          "lat": 24.924613,
+          "lon": 67.091285,
+          "coord_source": "auto:osm:node/7409035532",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page A-1",
+          "url": "https://mnzil.app/vehicles/A-1"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (4 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "A-18",
+      "name": "Chungi Ghazi - Millennium Mall",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Chungi Ghazi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Millennium Mall",
+          "name_ur": "",
+          "lat": 24.901154,
+          "lon": 67.115815,
+          "coord_source": "auto:osm:node/5085538221",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page A-18",
+          "url": "https://mnzil.app/vehicles/A-18"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 19 stops but captured only 2 (UP Mor; Nagan Chowrangi). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "AA1",
+      "name": "Korangi 5 - Liaquatabad No.10 - Lalukhet",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Korangi 5",
+          "name_ur": "",
+          "lat": 24.842325,
+          "lon": 67.094775,
+          "coord_source": "auto:osm:node/5254067385",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 4",
+          "name_ur": "کورنگی",
+          "lat": 24.826819,
+          "lon": 67.129813,
+          "coord_source": "auto:nominatim:way/530752749",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 3",
+          "name_ur": "",
+          "lat": 24.825756,
+          "lon": 67.154292,
+          "coord_source": "auto:osm:node/5137691714",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 2 ½",
+          "name_ur": "",
+          "lat": 24.821085,
+          "lon": 67.143697,
+          "coord_source": "auto:osm:node/5156526990",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 1",
+          "name_ur": "",
+          "lat": 24.822051,
+          "lon": 67.13286,
+          "coord_source": "auto:osm:node/12144299481",
+          "is_station": false
+        },
+        {
+          "name": "Nasir Jump",
+          "name_ur": "",
+          "lat": 24.820463,
+          "lon": 67.125114,
+          "coord_source": "auto:osm:node/12126274344",
+          "is_station": false
+        },
+        {
+          "name": "Indus Hospital - Korangi",
+          "name_ur": "",
+          "lat": 24.816587,
+          "lon": 67.11146,
+          "coord_source": "auto:osm:way/1144173764",
+          "is_station": false
+        },
+        {
+          "name": "Korangi Crossing Road",
+          "name_ur": "",
+          "lat": 24.831853,
+          "lon": 67.077512,
+          "coord_source": "auto:osm:way/176217343",
+          "is_station": false
+        },
+        {
+          "name": "Qayyumabad",
+          "name_ur": "",
+          "lat": 24.829419,
+          "lon": 67.080768,
+          "coord_source": "auto:osm:node/4786563395",
+          "is_station": false
+        },
+        {
+          "name": "Manzoor Colony",
+          "name_ur": "",
+          "lat": 24.84588,
+          "lon": 67.087335,
+          "coord_source": "auto:osm:node/5144995462",
+          "is_station": false
+        },
+        {
+          "name": "Baloch Colony Stop",
+          "name_ur": "",
+          "lat": 24.867295,
+          "lon": 67.082761,
+          "coord_source": "auto:osm:node/3523446756",
+          "is_station": false
+        },
+        {
+          "name": "Tariq Road",
+          "name_ur": "",
+          "lat": 24.875717,
+          "lon": 67.062402,
+          "coord_source": "auto:osm:way/544945002",
+          "is_station": false
+        },
+        {
+          "name": "Jail Chowrangi",
+          "name_ur": "",
+          "lat": 24.884757,
+          "lon": 67.057054,
+          "coord_source": "auto:osm:node/4774672041",
+          "is_station": false
+        },
+        {
+          "name": "Essa Nagri",
+          "name_ur": "عیسی نگری",
+          "lat": 24.90253,
+          "lon": 67.066384,
+          "coord_source": "auto:osm:node/6773410423",
+          "is_station": false
+        },
+        {
+          "name": "Liaquatabad No.10 - Lalukhet",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page AA1",
+          "url": "https://mnzil.app/vehicles/AA1-Chinchi"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (15 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "AS-1",
+      "name": "Korangi 6 - 4K Chowrangi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Korangi 6",
+          "name_ur": "",
+          "lat": 24.829391,
+          "lon": 67.169321,
+          "coord_source": "auto:osm:node/5142915729",
+          "is_station": false
+        },
+        {
+          "name": "4K Chowrangi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page AS-1",
+          "url": "https://mnzil.app/vehicles/AS-1"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 8 stops but captured only 3 (4K Chowrangi; Nagan Chowrangi; UP Mor). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "B-1",
+      "name": "Daak Khana - Liaquatabad - Allah bux village - Ahsanabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Daak Khana - Liaquatabad",
+          "name_ur": "",
+          "lat": 24.900084,
+          "lon": 67.044914,
+          "coord_source": "auto:osm:node/12147847014",
+          "is_station": false
+        },
+        {
+          "name": "Liaquatabad No.10 - Lalukhet",
+          "name_ur": "",
+          "lat": 24.909264,
+          "lon": 67.04952,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Karimabad - Meena Bazaar",
+          "name_ur": "",
+          "lat": 24.918445,
+          "lon": 67.054126,
+          "coord_source": "auto:osm:node/12145481411",
+          "is_station": false
+        },
+        {
+          "name": "Ayesha Manzil",
+          "name_ur": "",
+          "lat": 24.927679,
+          "lon": 67.064016,
+          "coord_source": "auto:osm:node/4166787368",
+          "is_station": false
+        },
+        {
+          "name": "Naseerabad - Gulberg Town",
+          "name_ur": "",
+          "lat": 24.939524,
+          "lon": 67.071021,
+          "coord_source": "auto:osm:node/2663052703",
+          "is_station": false
+        },
+        {
+          "name": "Water Pump",
+          "name_ur": "",
+          "lat": 24.936895,
+          "lon": 67.07571,
+          "coord_source": "auto:osm:node/5112904033",
+          "is_station": false
+        },
+        {
+          "name": "Ancholi",
+          "name_ur": "",
+          "lat": 24.944775,
+          "lon": 67.079533,
+          "coord_source": "auto:osm:node/5157033897",
+          "is_station": false
+        },
+        {
+          "name": "Sohrab Goth",
+          "name_ur": "",
+          "lat": 24.945051,
+          "lon": 67.085713,
+          "coord_source": "auto:osm:node/12126380204",
+          "is_station": false
+        },
+        {
+          "name": "Al Asif Square",
+          "name_ur": "",
+          "lat": 24.949737,
+          "lon": 67.089916,
+          "coord_source": "auto:osm:node/5109660604",
+          "is_station": false
+        },
+        {
+          "name": "Jamali Flyover",
+          "name_ur": "",
+          "lat": 24.95324,
+          "lon": 67.068407,
+          "coord_source": "auto:osm:node/12125776422",
+          "is_station": false
+        },
+        {
+          "name": "Allah bux village - Ahsanabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page B-1",
+          "url": "https://mnzil.app/vehicles/B-1-Chinchi"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (11 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "B-3",
+      "name": "Numaish Chowrangi - Safoora Chowrangi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Numaish Chowrangi",
+          "name_ur": "",
+          "lat": 24.872181,
+          "lon": 67.035523,
+          "coord_source": "auto:same-name:osm:node/8637095180",
+          "is_station": false
+        },
+        {
+          "name": "Safoora Chowrangi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page B-3",
+          "url": "https://mnzil.app/vehicles/B-3"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 8 stops but captured only 1 (Numaish Chowrangi). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "B-9",
+      "name": "Korangi 6 - Korangi Crossing Road",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Korangi 6",
+          "name_ur": "",
+          "lat": 24.829391,
+          "lon": 67.169321,
+          "coord_source": "auto:osm:node/5142915729",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 5",
+          "name_ur": "",
+          "lat": 24.82828,
+          "lon": 67.162235,
+          "coord_source": "auto:osm:node/5128042362",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 4",
+          "name_ur": "",
+          "lat": 24.827124,
+          "lon": 67.159064,
+          "coord_source": "auto:osm:node/5128042350",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 3",
+          "name_ur": "",
+          "lat": 24.825756,
+          "lon": 67.154292,
+          "coord_source": "auto:osm:node/5137691714",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 2 ½",
+          "name_ur": "",
+          "lat": 24.821085,
+          "lon": 67.143697,
+          "coord_source": "auto:osm:node/5156526990",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 1",
+          "name_ur": "",
+          "lat": 24.822051,
+          "lon": 67.13286,
+          "coord_source": "auto:osm:node/12144299481",
+          "is_station": false
+        },
+        {
+          "name": "Nasir Jump",
+          "name_ur": "",
+          "lat": 24.820463,
+          "lon": 67.125114,
+          "coord_source": "auto:osm:node/12126274344",
+          "is_station": false
+        },
+        {
+          "name": "Indus Hospital - Korangi",
+          "name_ur": "",
+          "lat": 24.816587,
+          "lon": 67.11146,
+          "coord_source": "auto:osm:way/1144173764",
+          "is_station": false
+        },
+        {
+          "name": "Korangi Crossing Road",
+          "name_ur": "",
+          "lat": 24.831853,
+          "lon": 67.077512,
+          "coord_source": "auto:osm:way/176217343",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page B-9",
+          "url": "https://mnzil.app/vehicles/B-9-Chinchi"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (9 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "D-13",
+      "name": "Jungle School (Baldia) - Banaras Bus Stop",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Jungle School (Baldia)",
+          "name_ur": "بلدیہ",
+          "lat": 24.874449,
+          "lon": 66.968959,
+          "coord_source": "auto:osm:node/8294625990",
+          "is_station": false
+        },
+        {
+          "name": "Bismillah Chowk",
+          "name_ur": "",
+          "lat": 24.877772,
+          "lon": 66.965661,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Baldia 19-D",
+          "name_ur": "",
+          "lat": 24.881095,
+          "lon": 66.962362,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mohajir Camp No. 7",
+          "name_ur": "",
+          "lat": 24.884418,
+          "lon": 66.959064,
+          "coord_source": "auto:photon:W/130848141",
+          "is_station": false
+        },
+        {
+          "name": "Rasheedabad",
+          "name_ur": "رشید آباد",
+          "lat": 24.904617,
+          "lon": 66.971842,
+          "coord_source": "auto:osm:node/6773994418",
+          "is_station": false
+        },
+        {
+          "name": "Labor Square - Metroville SITE",
+          "name_ur": "",
+          "lat": 24.905355,
+          "lon": 66.980186,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "GCT College Mor",
+          "name_ur": "",
+          "lat": 24.906092,
+          "lon": 66.988529,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "SITE Police Station - A",
+          "name_ur": "",
+          "lat": 24.90683,
+          "lon": 66.996873,
+          "coord_source": "auto:osm:node/4785775169",
+          "is_station": false
+        },
+        {
+          "name": "Habib Chowrangi - Metroville",
+          "name_ur": "",
+          "lat": 24.911333,
+          "lon": 67.014248,
+          "coord_source": "auto:nominatim:node/5089198939",
+          "is_station": false
+        },
+        {
+          "name": "Valika",
+          "name_ur": "",
+          "lat": 24.927223,
+          "lon": 67.015567,
+          "coord_source": "auto:osm:node/4757978642",
+          "is_station": false
+        },
+        {
+          "name": "METRO Manghopir Store",
+          "name_ur": "",
+          "lat": 24.928608,
+          "lon": 67.01765,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Banaras Bus Stop",
+          "name_ur": "",
+          "lat": 24.929993,
+          "lon": 67.019732,
+          "coord_source": "auto:osm:node/5140969347",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page D-13",
+          "url": "https://mnzil.app/vehicles/D-13"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (12 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "D-22",
+      "name": "Lyari 50 - Teen Hatti",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Lyari 50",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Teen Hatti",
+          "name_ur": "",
+          "lat": 24.892254,
+          "lon": 67.043495,
+          "coord_source": "auto:osm:node/4314129401",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page D-22",
+          "url": "https://mnzil.app/vehicles/D-22"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 23 stops but captured only 11 (KDA Flats- Surjani; 4K Chowrangi; 2 Minute Chowrangi; Power House Chowrangi; Road 4200 - Saleem Centre; UP Mor; Nagan Chowrangi; Sakhi Hasan Chowrangi; Jummah Bazar (Bhayani Shopping Center); Five Star Chowrangi; Hyderi Market). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "D-3",
+      "name": "Guru Mandir - Munawar Chowrangi - Gulistan-e-Johar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Guru Mandir",
+          "name_ur": "",
+          "lat": 24.88136,
+          "lon": 67.038008,
+          "coord_source": "auto:osm:node/12183370529",
+          "is_station": false
+        },
+        {
+          "name": "Jehangir Road",
+          "name_ur": "",
+          "lat": 24.886797,
+          "lon": 67.041434,
+          "coord_source": "auto:osm:way/176315975",
+          "is_station": false
+        },
+        {
+          "name": "Teen Hatti",
+          "name_ur": "",
+          "lat": 24.892254,
+          "lon": 67.043495,
+          "coord_source": "auto:osm:node/4314129401",
+          "is_station": false
+        },
+        {
+          "name": "Daak Khana - Liaquatabad",
+          "name_ur": "",
+          "lat": 24.900084,
+          "lon": 67.044914,
+          "coord_source": "auto:osm:node/12147847014",
+          "is_station": false
+        },
+        {
+          "name": "Liaquatabad No.10 - Lalukhet",
+          "name_ur": "",
+          "lat": 24.913882,
+          "lon": 67.054465,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ayesha Manzil",
+          "name_ur": "",
+          "lat": 24.927679,
+          "lon": 67.064016,
+          "coord_source": "auto:osm:node/4166787368",
+          "is_station": false
+        },
+        {
+          "name": "Naseerabad - Gulberg Town",
+          "name_ur": "",
+          "lat": 24.939524,
+          "lon": 67.071021,
+          "coord_source": "auto:osm:node/2663052703",
+          "is_station": false
+        },
+        {
+          "name": "Water Pump",
+          "name_ur": "",
+          "lat": 24.936895,
+          "lon": 67.07571,
+          "coord_source": "auto:osm:node/5112904033",
+          "is_station": false
+        },
+        {
+          "name": "Sohrab Goth",
+          "name_ur": "",
+          "lat": 24.945051,
+          "lon": 67.085713,
+          "coord_source": "auto:osm:node/12126380204",
+          "is_station": false
+        },
+        {
+          "name": "Al Asif Square",
+          "name_ur": "",
+          "lat": 24.949737,
+          "lon": 67.089916,
+          "coord_source": "auto:osm:node/5109660604",
+          "is_station": false
+        },
+        {
+          "name": "Jamali Flyover",
+          "name_ur": "",
+          "lat": 24.95324,
+          "lon": 67.068407,
+          "coord_source": "auto:osm:node/12125776422",
+          "is_station": false
+        },
+        {
+          "name": "Maymar Mor",
+          "name_ur": "",
+          "lat": 24.977153,
+          "lon": 67.090525,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ahsanabad",
+          "name_ur": "احسن اباد",
+          "lat": 25.001066,
+          "lon": 67.112643,
+          "coord_source": "auto:osm:way/521261126",
+          "is_station": false
+        },
+        {
+          "name": "Munawar Chowrangi - Gulistan-e-Johar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page D-3",
+          "url": "https://mnzil.app/vehicles/D-3-Chinchi"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (14 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "Double Jhanda",
+      "name": "Kharadar - Teen Hatti",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Kharadar",
+          "name_ur": "کھارادر",
+          "lat": 24.85005,
+          "lon": 66.994364,
+          "coord_source": "auto:osm:node/4776942995",
+          "is_station": false
+        },
+        {
+          "name": "Teen Hatti",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page Double Jhanda",
+          "url": "https://mnzil.app/vehicles/Double-Jhanda-"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 7 stops but captured only 1 (Lasbela). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "F-12",
+      "name": "Allah waali - New Karachi - Teen Hatti",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Allah waali - New Karachi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sindhi Hotel - New Karachi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nala Stop - New Karachi",
+          "name_ur": "نیو کراچی",
+          "lat": 24.972536,
+          "lon": 67.066952,
+          "coord_source": "auto:osm:node/6773443094",
+          "is_station": false
+        },
+        {
+          "name": "Godhra",
+          "name_ur": "",
+          "lat": 24.967641,
+          "lon": 67.082362,
+          "coord_source": "auto:osm:node/5158643482",
+          "is_station": false
+        },
+        {
+          "name": "Shafiq Mor",
+          "name_ur": "",
+          "lat": 24.961369,
+          "lon": 67.084833,
+          "coord_source": "auto:osm:node/5333760830",
+          "is_station": false
+        },
+        {
+          "name": "Sohrab Goth",
+          "name_ur": "",
+          "lat": 24.945051,
+          "lon": 67.085713,
+          "coord_source": "auto:osm:node/12126380204",
+          "is_station": false
+        },
+        {
+          "name": "Water Pump",
+          "name_ur": "",
+          "lat": 24.936895,
+          "lon": 67.07571,
+          "coord_source": "auto:osm:node/5112904033",
+          "is_station": false
+        },
+        {
+          "name": "Ayesha Manzil",
+          "name_ur": "",
+          "lat": 24.927679,
+          "lon": 67.064016,
+          "coord_source": "auto:osm:node/4166787368",
+          "is_station": false
+        },
+        {
+          "name": "Karimabad - Meena Bazaar",
+          "name_ur": "",
+          "lat": 24.918445,
+          "lon": 67.054126,
+          "coord_source": "auto:osm:node/12145481411",
+          "is_station": false
+        },
+        {
+          "name": "Liaquatabad No.10 - Lalukhet",
+          "name_ur": "",
+          "lat": 24.905349,
+          "lon": 67.048811,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Teen Hatti",
+          "name_ur": "",
+          "lat": 24.892254,
+          "lon": 67.043495,
+          "coord_source": "auto:osm:node/4314129401",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page F-12",
+          "url": "https://mnzil.app/vehicles/F-12"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (11 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "FM",
+      "name": "Abdullah Mor - Surjani - Malir 15",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Abdullah Mor - Surjani",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Malir 15",
+          "name_ur": "",
+          "lat": 24.879024,
+          "lon": 67.188264,
+          "coord_source": "auto:osm:node/4299693694",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page FM",
+          "url": "https://mnzil.app/vehicles/FM"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 29 stops but captured only 8 (KDA Flats- Surjani; 4K Chowrangi; 2 Minute Chowrangi; Road 2400 - Aisha Complex; Power House Chowrangi; Road 4200 - Saleem Centre; UP Mor; Nagan Chowrangi). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "FS-1",
+      "name": "L Block Rd - Aziz Nagar - Anarkali Sector 6 - Surjani Town",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "L Block Rd - Aziz Nagar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Anarkali Sector 6 - Surjani Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page FS-1",
+          "url": "https://mnzil.app/vehicles/FS-1"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 17 stops but captured only 9 (Board Office Chowrangi; Hyderi Market; Sakhi Hasan Chowrangi; Nagan Chowrangi; UP Mor; Road 4200 - Saleem Centre; Power House Chowrangi; 2 Minute Chowrangi; 4K Chowrangi). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "G-2",
+      "name": "Daak Khana - Liaquatabad - New Sabzi Mandi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Daak Khana - Liaquatabad",
+          "name_ur": "",
+          "lat": 24.900084,
+          "lon": 67.044914,
+          "coord_source": "auto:osm:node/12147847014",
+          "is_station": false
+        },
+        {
+          "name": "New Sabzi Mandi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page G-2",
+          "url": "https://mnzil.app/vehicles/G-2"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 12 stops but the stop list is empty."
+    },
+    {
+      "id": "G-25",
+      "name": "Five Star Chowrangi - Gulshan Chowrangi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Five Star Chowrangi",
+          "name_ur": "",
+          "lat": 24.945573,
+          "lon": 67.05011,
+          "coord_source": "auto:same-name:osm:node/8474862579",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Chowrangi",
+          "name_ur": "",
+          "lat": 24.94502,
+          "lon": 67.083441,
+          "coord_source": "auto:osm:node/12183988205",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page G-25",
+          "url": "https://mnzil.app/vehicles/G-25"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 7 stops but captured only 1 (Five Star Chowrangi). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "G-7",
+      "name": "Baba Mor - Bismillah Chowk",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Baba Mor",
+          "name_ur": "",
+          "lat": 24.920747,
+          "lon": 67.050933,
+          "coord_source": "auto:photon:N/12213712601",
+          "is_station": false
+        },
+        {
+          "name": "Bismillah Chowk",
+          "name_ur": "",
+          "lat": 24.91943,
+          "lon": 67.046779,
+          "coord_source": "auto:osm:node/12212009102",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page G-7 Chinchi",
+          "url": "https://mnzil.app/vehicles/g7-chinchi"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 22 stops but captured only 7 (UP Mor; Nagan Chowrangi; Sakhi Hasan Chowrangi; Jummah Bazar (Bhayani Shopping Center); Five Star Chowrangi; Hyderi Market; Board Office Chowrangi). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "GM",
+      "name": "Malir 15 - Baba Mor",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Malir 15",
+          "name_ur": "",
+          "lat": 24.879024,
+          "lon": 67.188264,
+          "coord_source": "auto:osm:node/4299693694",
+          "is_station": false
+        },
+        {
+          "name": "Baba Mor",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page GM",
+          "url": "https://mnzil.app/vehicles/GM-Chinchi"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 21 stops but captured only 2 (Nagan Chowrangi; UP Mor). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "J-1",
+      "name": "Gulshan Ghazi - IC Bridge",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Gulshan Ghazi",
+          "name_ur": "گلشن غازی",
+          "lat": 24.923948,
+          "lon": 66.979332,
+          "coord_source": "auto:osm:node/6877587077",
+          "is_station": false
+        },
+        {
+          "name": "Faqir Colony",
+          "name_ur": "",
+          "lat": 24.930759,
+          "lon": 66.984686,
+          "coord_source": "auto:osm:node/12254405624",
+          "is_station": false
+        },
+        {
+          "name": "Baldia 8",
+          "name_ur": "",
+          "lat": 24.904252,
+          "lon": 66.991251,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bismillah Chowk",
+          "name_ur": "",
+          "lat": 24.877745,
+          "lon": 66.997815,
+          "coord_source": "auto:osm:way/721101885",
+          "is_station": false
+        },
+        {
+          "name": "Jungle School (Baldia)",
+          "name_ur": "بلدیہ",
+          "lat": 24.874449,
+          "lon": 66.968959,
+          "coord_source": "auto:osm:node/8294625990",
+          "is_station": false
+        },
+        {
+          "name": "Rubi Mor",
+          "name_ur": "",
+          "lat": 24.876562,
+          "lon": 66.970913,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Police Training Center Saeedabad",
+          "name_ur": "",
+          "lat": 24.878675,
+          "lon": 66.972868,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mach Mor",
+          "name_ur": "",
+          "lat": 24.880788,
+          "lon": 66.974822,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Baldia 4",
+          "name_ur": "",
+          "lat": 24.8829,
+          "lon": 66.976777,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Baldia 3",
+          "name_ur": "",
+          "lat": 24.885013,
+          "lon": 66.978731,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Baldia 2",
+          "name_ur": "",
+          "lat": 24.887126,
+          "lon": 66.980686,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shershah",
+          "name_ur": "",
+          "lat": 24.889239,
+          "lon": 66.98264,
+          "coord_source": "auto:osm:node/12224621530",
+          "is_station": false
+        },
+        {
+          "name": "Meezan Head Office",
+          "name_ur": "",
+          "lat": 24.881117,
+          "lon": 66.973007,
+          "coord_source": "auto:osm:node/5091080685",
+          "is_station": false
+        },
+        {
+          "name": "Gulbai",
+          "name_ur": "",
+          "lat": 24.876587,
+          "lon": 66.969813,
+          "coord_source": "auto:osm:node/7416125312",
+          "is_station": false
+        },
+        {
+          "name": "Agra Taj Colony",
+          "name_ur": "",
+          "lat": 24.876354,
+          "lon": 66.988103,
+          "coord_source": "auto:osm:node/7820425057",
+          "is_station": false
+        },
+        {
+          "name": "IC Bridge",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page J-1",
+          "url": "https://mnzil.app/vehicles/J-1"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (16 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "JF17",
+      "name": "Korangi 5 - Liaquatabad No.10 - Lalukhet",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Korangi 5",
+          "name_ur": "",
+          "lat": 24.842325,
+          "lon": 67.094775,
+          "coord_source": "auto:osm:node/5254067385",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 4",
+          "name_ur": "کورنگی",
+          "lat": 24.826819,
+          "lon": 67.129813,
+          "coord_source": "auto:nominatim:way/530752749",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 3",
+          "name_ur": "",
+          "lat": 24.825756,
+          "lon": 67.154292,
+          "coord_source": "auto:osm:node/5137691714",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 2 ½",
+          "name_ur": "",
+          "lat": 24.821085,
+          "lon": 67.143697,
+          "coord_source": "auto:osm:node/5156526990",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 1",
+          "name_ur": "",
+          "lat": 24.822051,
+          "lon": 67.13286,
+          "coord_source": "auto:osm:node/12144299481",
+          "is_station": false
+        },
+        {
+          "name": "Nasir Jump",
+          "name_ur": "",
+          "lat": 24.820463,
+          "lon": 67.125114,
+          "coord_source": "auto:osm:node/12126274344",
+          "is_station": false
+        },
+        {
+          "name": "Indus Hospital - Korangi",
+          "name_ur": "",
+          "lat": 24.816587,
+          "lon": 67.11146,
+          "coord_source": "auto:osm:way/1144173764",
+          "is_station": false
+        },
+        {
+          "name": "Korangi Crossing Road",
+          "name_ur": "",
+          "lat": 24.831853,
+          "lon": 67.077512,
+          "coord_source": "auto:osm:way/176217343",
+          "is_station": false
+        },
+        {
+          "name": "Qayyumabad",
+          "name_ur": "",
+          "lat": 24.829419,
+          "lon": 67.080768,
+          "coord_source": "auto:osm:node/4786563395",
+          "is_station": false
+        },
+        {
+          "name": "Manzoor Colony",
+          "name_ur": "",
+          "lat": 24.84588,
+          "lon": 67.087335,
+          "coord_source": "auto:osm:node/5144995462",
+          "is_station": false
+        },
+        {
+          "name": "Baloch Colony Stop",
+          "name_ur": "",
+          "lat": 24.867295,
+          "lon": 67.082761,
+          "coord_source": "auto:osm:node/3523446756",
+          "is_station": false
+        },
+        {
+          "name": "Tariq Road",
+          "name_ur": "",
+          "lat": 24.875717,
+          "lon": 67.062402,
+          "coord_source": "auto:osm:way/544945002",
+          "is_station": false
+        },
+        {
+          "name": "Jail Chowrangi",
+          "name_ur": "",
+          "lat": 24.884757,
+          "lon": 67.057054,
+          "coord_source": "auto:osm:node/4774672041",
+          "is_station": false
+        },
+        {
+          "name": "Essa Nagri",
+          "name_ur": "عیسی نگری",
+          "lat": 24.90253,
+          "lon": 67.066384,
+          "coord_source": "auto:osm:node/6773410423",
+          "is_station": false
+        },
+        {
+          "name": "Liaquatabad No.10 - Lalukhet",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page JF17",
+          "url": "https://mnzil.app/vehicles/JF17-Chinchi"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (15 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "K-18",
+      "name": "Chungi Ghazi - Millennium Mall",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Chungi Ghazi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Millennium Mall",
+          "name_ur": "",
+          "lat": 24.901154,
+          "lon": 67.115815,
+          "coord_source": "auto:osm:node/5085538221",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page K-18",
+          "url": "https://mnzil.app/vehicles/K-18"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 19 stops but captured only 2 (UP Mor; Nagan Chowrangi). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "K-4",
+      "name": "Korangi Crossing Road - Korangi 6",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Korangi Crossing Road",
+          "name_ur": "",
+          "lat": 24.831853,
+          "lon": 67.077512,
+          "coord_source": "auto:osm:way/176217343",
+          "is_station": false
+        },
+        {
+          "name": "Indus Hospital - Korangi",
+          "name_ur": "",
+          "lat": 24.816587,
+          "lon": 67.11146,
+          "coord_source": "auto:osm:way/1144173764",
+          "is_station": false
+        },
+        {
+          "name": "Nasir Jump",
+          "name_ur": "",
+          "lat": 24.820463,
+          "lon": 67.125114,
+          "coord_source": "auto:osm:node/12126274344",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 1",
+          "name_ur": "",
+          "lat": 24.822051,
+          "lon": 67.13286,
+          "coord_source": "auto:osm:node/12144299481",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 2 ½",
+          "name_ur": "",
+          "lat": 24.821085,
+          "lon": 67.143697,
+          "coord_source": "auto:osm:node/5156526990",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 3",
+          "name_ur": "",
+          "lat": 24.825756,
+          "lon": 67.154292,
+          "coord_source": "auto:osm:node/5137691714",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 4",
+          "name_ur": "",
+          "lat": 24.827124,
+          "lon": 67.159064,
+          "coord_source": "auto:osm:node/5128042350",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 5",
+          "name_ur": "",
+          "lat": 24.82828,
+          "lon": 67.162235,
+          "coord_source": "auto:osm:node/5128042362",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 6",
+          "name_ur": "",
+          "lat": 24.829391,
+          "lon": 67.169321,
+          "coord_source": "auto:osm:node/5142915729",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page K-4",
+          "url": "https://mnzil.app/vehicles/K-4-Chinchi"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (9 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "K-5",
+      "name": "Makkah Hotel - Sec 5A1 North Karachi - Patel Para (Guru Mandir)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Makkah Hotel - Sec 5A1 North Karachi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Patel Para (Guru Mandir)",
+          "name_ur": "",
+          "lat": 24.881269,
+          "lon": 67.03812,
+          "coord_source": "auto:osm:node/8474880959",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page K-5",
+          "url": "https://mnzil.app/vehicles/K-5"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 24 stops but captured only 19 (4K Chowrangi; 2 Minute Chowrangi; Road 2400 - Aisha Complex; Power House Chowrangi; Road 4200 - Saleem Centre; UP Mor; Nagan Chowrangi; Erum Shopping; Sakhi Hasan Chowrangi; Jummah Bazar (Bhayani Shopping Center); Five Star Chowrangi; Hyderi Market; Board Office Chowrangi; Annu Bhai Park; Enquiry Office; Nazimabad No. 1; Sanitary Market (Gulbahar); Lasbela; Patel Para (Guru Mandir)). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "K6",
+      "name": "Korangi Crossing Road - Korangi 6",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Korangi Crossing Road",
+          "name_ur": "",
+          "lat": 24.831853,
+          "lon": 67.077512,
+          "coord_source": "auto:osm:way/176217343",
+          "is_station": false
+        },
+        {
+          "name": "Indus Hospital - Korangi",
+          "name_ur": "",
+          "lat": 24.816587,
+          "lon": 67.11146,
+          "coord_source": "auto:osm:way/1144173764",
+          "is_station": false
+        },
+        {
+          "name": "Nasir Jump",
+          "name_ur": "",
+          "lat": 24.820463,
+          "lon": 67.125114,
+          "coord_source": "auto:osm:node/12126274344",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 1",
+          "name_ur": "",
+          "lat": 24.822051,
+          "lon": 67.13286,
+          "coord_source": "auto:osm:node/12144299481",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 2 ½",
+          "name_ur": "",
+          "lat": 24.821085,
+          "lon": 67.143697,
+          "coord_source": "auto:osm:node/5156526990",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 3",
+          "name_ur": "",
+          "lat": 24.825756,
+          "lon": 67.154292,
+          "coord_source": "auto:osm:node/5137691714",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 4",
+          "name_ur": "",
+          "lat": 24.827124,
+          "lon": 67.159064,
+          "coord_source": "auto:osm:node/5128042350",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 5",
+          "name_ur": "",
+          "lat": 24.82828,
+          "lon": 67.162235,
+          "coord_source": "auto:osm:node/5128042362",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 6",
+          "name_ur": "",
+          "lat": 24.829391,
+          "lon": 67.169321,
+          "coord_source": "auto:osm:node/5142915729",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page K6",
+          "url": "https://mnzil.app/vehicles/K6-Chinchi"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (9 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "K-86",
+      "name": "Lyari 50 - Guru Mandir",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Lyari 50",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Guru Mandir",
+          "name_ur": "",
+          "lat": 24.88136,
+          "lon": 67.038008,
+          "coord_source": "auto:osm:node/12183370529",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page K-86",
+          "url": "https://mnzil.app/vehicles/K-86"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 26 stops but captured only 9 (KDA Flats- Surjani; Karimi Chowrangi; 4K Chowrangi; 2 Minute Chowrangi; Power House Chowrangi; Road 4200 - Saleem Centre; UP Mor; Nagan Chowrangi; Sakhi Hasan Chowrangi). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "Karachi King",
+      "name": "Korangi 5 - Liaquatabad No.10 - Lalukhet",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Korangi 5",
+          "name_ur": "",
+          "lat": 24.842325,
+          "lon": 67.094775,
+          "coord_source": "auto:osm:node/5254067385",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 4",
+          "name_ur": "کورنگی",
+          "lat": 24.826819,
+          "lon": 67.129813,
+          "coord_source": "auto:nominatim:way/530752749",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 3",
+          "name_ur": "",
+          "lat": 24.825756,
+          "lon": 67.154292,
+          "coord_source": "auto:osm:node/5137691714",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 2 ½",
+          "name_ur": "",
+          "lat": 24.821085,
+          "lon": 67.143697,
+          "coord_source": "auto:osm:node/5156526990",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 1",
+          "name_ur": "",
+          "lat": 24.822051,
+          "lon": 67.13286,
+          "coord_source": "auto:osm:node/12144299481",
+          "is_station": false
+        },
+        {
+          "name": "Nasir Jump",
+          "name_ur": "",
+          "lat": 24.820463,
+          "lon": 67.125114,
+          "coord_source": "auto:osm:node/12126274344",
+          "is_station": false
+        },
+        {
+          "name": "Indus Hospital - Korangi",
+          "name_ur": "",
+          "lat": 24.816587,
+          "lon": 67.11146,
+          "coord_source": "auto:osm:way/1144173764",
+          "is_station": false
+        },
+        {
+          "name": "Korangi Crossing Road",
+          "name_ur": "",
+          "lat": 24.831853,
+          "lon": 67.077512,
+          "coord_source": "auto:osm:way/176217343",
+          "is_station": false
+        },
+        {
+          "name": "Qayyumabad",
+          "name_ur": "",
+          "lat": 24.829419,
+          "lon": 67.080768,
+          "coord_source": "auto:osm:node/4786563395",
+          "is_station": false
+        },
+        {
+          "name": "Manzoor Colony",
+          "name_ur": "",
+          "lat": 24.84588,
+          "lon": 67.087335,
+          "coord_source": "auto:osm:node/5144995462",
+          "is_station": false
+        },
+        {
+          "name": "Baloch Colony Stop",
+          "name_ur": "",
+          "lat": 24.867295,
+          "lon": 67.082761,
+          "coord_source": "auto:osm:node/3523446756",
+          "is_station": false
+        },
+        {
+          "name": "Tariq Road",
+          "name_ur": "",
+          "lat": 24.875717,
+          "lon": 67.062402,
+          "coord_source": "auto:osm:way/544945002",
+          "is_station": false
+        },
+        {
+          "name": "Jail Chowrangi",
+          "name_ur": "",
+          "lat": 24.884757,
+          "lon": 67.057054,
+          "coord_source": "auto:osm:node/4774672041",
+          "is_station": false
+        },
+        {
+          "name": "Essa Nagri",
+          "name_ur": "عیسی نگری",
+          "lat": 24.90253,
+          "lon": 67.066384,
+          "coord_source": "auto:osm:node/6773410423",
+          "is_station": false
+        },
+        {
+          "name": "Liaquatabad No.10 - Lalukhet",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page Karachi King",
+          "url": "https://mnzil.app/vehicles/Karachi-King-Chinchi"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (15 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "M-1",
+      "name": "Jamali Flyover - Guru Mandir",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Jamali Flyover",
+          "name_ur": "",
+          "lat": 24.948068,
+          "lon": 67.134576,
+          "coord_source": "auto:osm:node/12301924302",
+          "is_station": false
+        },
+        {
+          "name": "Sachal Mor - Sachal Goth",
+          "name_ur": "سچل گوٹھ",
+          "lat": 24.950657,
+          "lon": 67.12886,
+          "coord_source": "auto:osm:node/4532241095",
+          "is_station": false
+        },
+        {
+          "name": "Punjab Adda - Bus Stand",
+          "name_ur": "",
+          "lat": 24.950197,
+          "lon": 67.109388,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Al Asif Square",
+          "name_ur": "",
+          "lat": 24.949737,
+          "lon": 67.089916,
+          "coord_source": "auto:osm:node/5109660604",
+          "is_station": false
+        },
+        {
+          "name": "Sohrab Goth",
+          "name_ur": "",
+          "lat": 24.945051,
+          "lon": 67.085713,
+          "coord_source": "auto:osm:node/12126380204",
+          "is_station": false
+        },
+        {
+          "name": "Water Pump",
+          "name_ur": "",
+          "lat": 24.936895,
+          "lon": 67.07571,
+          "coord_source": "auto:osm:node/5112904033",
+          "is_station": false
+        },
+        {
+          "name": "Ayesha Manzil",
+          "name_ur": "",
+          "lat": 24.927679,
+          "lon": 67.064016,
+          "coord_source": "auto:osm:node/4166787368",
+          "is_station": false
+        },
+        {
+          "name": "Karimabad - Meena Bazaar",
+          "name_ur": "",
+          "lat": 24.918445,
+          "lon": 67.054126,
+          "coord_source": "auto:osm:node/12145481411",
+          "is_station": false
+        },
+        {
+          "name": "Liaquatabad No.10 - Lalukhet",
+          "name_ur": "",
+          "lat": 24.909264,
+          "lon": 67.04952,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Daak Khana - Liaquatabad",
+          "name_ur": "",
+          "lat": 24.900084,
+          "lon": 67.044914,
+          "coord_source": "auto:osm:node/12147847014",
+          "is_station": false
+        },
+        {
+          "name": "Teen Hatti",
+          "name_ur": "",
+          "lat": 24.892254,
+          "lon": 67.043495,
+          "coord_source": "auto:osm:node/4314129401",
+          "is_station": false
+        },
+        {
+          "name": "Jehangir Road",
+          "name_ur": "",
+          "lat": 24.886797,
+          "lon": 67.041434,
+          "coord_source": "auto:osm:way/176315975",
+          "is_station": false
+        },
+        {
+          "name": "Guru Mandir",
+          "name_ur": "",
+          "lat": 24.88136,
+          "lon": 67.038008,
+          "coord_source": "auto:osm:node/12183370529",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page M-1",
+          "url": "https://mnzil.app/vehicles/M-1"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (13 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "M-10",
+      "name": "Lyari Basti - Taiser Town - NIPA Chowrangi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Lyari Basti - Taiser Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "NIPA Chowrangi",
+          "name_ur": "",
+          "lat": 24.917907,
+          "lon": 67.096653,
+          "coord_source": "auto:osm:node/5112921419",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page M-10",
+          "url": "https://mnzil.app/vehicles/M-10"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 7 stops but the stop list is empty."
+    },
+    {
+      "id": "M-22",
+      "name": "Korangi 5 - Liaquatabad No.10 - Lalukhet",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Korangi 5",
+          "name_ur": "",
+          "lat": 24.842325,
+          "lon": 67.094775,
+          "coord_source": "auto:osm:node/5254067385",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 4",
+          "name_ur": "کورنگی",
+          "lat": 24.826819,
+          "lon": 67.129813,
+          "coord_source": "auto:nominatim:way/530752749",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 3",
+          "name_ur": "",
+          "lat": 24.825756,
+          "lon": 67.154292,
+          "coord_source": "auto:osm:node/5137691714",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 2 ½",
+          "name_ur": "",
+          "lat": 24.821085,
+          "lon": 67.143697,
+          "coord_source": "auto:osm:node/5156526990",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 1",
+          "name_ur": "",
+          "lat": 24.822051,
+          "lon": 67.13286,
+          "coord_source": "auto:osm:node/12144299481",
+          "is_station": false
+        },
+        {
+          "name": "Nasir Jump",
+          "name_ur": "",
+          "lat": 24.820463,
+          "lon": 67.125114,
+          "coord_source": "auto:osm:node/12126274344",
+          "is_station": false
+        },
+        {
+          "name": "Indus Hospital - Korangi",
+          "name_ur": "",
+          "lat": 24.816587,
+          "lon": 67.11146,
+          "coord_source": "auto:osm:way/1144173764",
+          "is_station": false
+        },
+        {
+          "name": "Korangi Crossing Road",
+          "name_ur": "",
+          "lat": 24.831853,
+          "lon": 67.077512,
+          "coord_source": "auto:osm:way/176217343",
+          "is_station": false
+        },
+        {
+          "name": "Qayyumabad",
+          "name_ur": "",
+          "lat": 24.829419,
+          "lon": 67.080768,
+          "coord_source": "auto:osm:node/4786563395",
+          "is_station": false
+        },
+        {
+          "name": "Manzoor Colony",
+          "name_ur": "",
+          "lat": 24.84588,
+          "lon": 67.087335,
+          "coord_source": "auto:osm:node/5144995462",
+          "is_station": false
+        },
+        {
+          "name": "Baloch Colony Stop",
+          "name_ur": "",
+          "lat": 24.867295,
+          "lon": 67.082761,
+          "coord_source": "auto:osm:node/3523446756",
+          "is_station": false
+        },
+        {
+          "name": "Tariq Road",
+          "name_ur": "",
+          "lat": 24.875717,
+          "lon": 67.062402,
+          "coord_source": "auto:osm:way/544945002",
+          "is_station": false
+        },
+        {
+          "name": "Jail Chowrangi",
+          "name_ur": "",
+          "lat": 24.884757,
+          "lon": 67.057054,
+          "coord_source": "auto:osm:node/4774672041",
+          "is_station": false
+        },
+        {
+          "name": "Essa Nagri",
+          "name_ur": "عیسی نگری",
+          "lat": 24.90253,
+          "lon": 67.066384,
+          "coord_source": "auto:osm:node/6773410423",
+          "is_station": false
+        },
+        {
+          "name": "Liaquatabad No.10 - Lalukhet",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page M-22",
+          "url": "https://mnzil.app/vehicles/M-22"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (15 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "M-5",
+      "name": "Expo Center - Expo Center",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Expo Center",
+          "name_ur": "",
+          "lat": 24.902478,
+          "lon": 67.076273,
+          "coord_source": "auto:osm:node/4734128115",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page M-5",
+          "url": "https://mnzil.app/vehicles/M-5"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (1 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "M-55",
+      "name": "Lyari Basti - Taiser Town - Saddar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Lyari Basti - Taiser Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Saddar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page M-55",
+          "url": "https://mnzil.app/vehicles/M-55"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 27 stops but captured only 15 (KDA Flats- Surjani; 4K Chowrangi; 2 Minute Chowrangi; Road 2400 - Aisha Complex; Power House Chowrangi; Road 4200 - Saleem Centre; UP Mor; Nagan Chowrangi; Erum Shopping; Sakhi Hasan Chowrangi; Jummah Bazar (Bhayani Shopping Center); Five Star Chowrangi; Hyderi Market; Board Office Chowrangi; Lasbela). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "M-7",
+      "name": "Yaroo Khan Goth - Surjani Town - 89 Landhi Rd",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Yaroo Khan Goth - Surjani Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Allah waali - New Karachi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kala School Bus Stop - New Karachi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sindhi Hotel - New Karachi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nala Stop - New Karachi",
+          "name_ur": "نیو کراچی",
+          "lat": 24.972536,
+          "lon": 67.066952,
+          "coord_source": "auto:osm:node/6773443094",
+          "is_station": false
+        },
+        {
+          "name": "Godhra",
+          "name_ur": "",
+          "lat": 24.967641,
+          "lon": 67.082362,
+          "coord_source": "auto:osm:node/5158643482",
+          "is_station": false
+        },
+        {
+          "name": "Shafiq Mor",
+          "name_ur": "",
+          "lat": 24.961369,
+          "lon": 67.084833,
+          "coord_source": "auto:osm:node/5333760830",
+          "is_station": false
+        },
+        {
+          "name": "Sohrab Goth",
+          "name_ur": "",
+          "lat": 24.945051,
+          "lon": 67.085713,
+          "coord_source": "auto:osm:node/12126380204",
+          "is_station": false
+        },
+        {
+          "name": "Lucky One Mall",
+          "name_ur": "",
+          "lat": 24.932219,
+          "lon": 67.086308,
+          "coord_source": "auto:osm:node/5110968790",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Chowrangi",
+          "name_ur": "",
+          "lat": 24.924613,
+          "lon": 67.091285,
+          "coord_source": "auto:osm:node/7409035532",
+          "is_station": false
+        },
+        {
+          "name": "NIPA Chowrangi",
+          "name_ur": "",
+          "lat": 24.917907,
+          "lon": 67.096653,
+          "coord_source": "auto:osm:node/5112921419",
+          "is_station": false
+        },
+        {
+          "name": "Aladin Park",
+          "name_ur": "",
+          "lat": 24.911287,
+          "lon": 67.10512,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Johar Mor",
+          "name_ur": "",
+          "lat": 24.904667,
+          "lon": 67.113586,
+          "coord_source": "auto:osm:node/5340602456",
+          "is_station": false
+        },
+        {
+          "name": "Millennium Mall",
+          "name_ur": "",
+          "lat": 24.901154,
+          "lon": 67.115815,
+          "coord_source": "auto:osm:node/5085538221",
+          "is_station": false
+        },
+        {
+          "name": "Drigh Road",
+          "name_ur": "ڈرگ روڈ",
+          "lat": 24.887237,
+          "lon": 67.127541,
+          "coord_source": "auto:osm:node/5893613282",
+          "is_station": false
+        },
+        {
+          "name": "Chota Gate - Shah Faisal Colony",
+          "name_ur": "شاہ فیصل کالونی",
+          "lat": 24.881096,
+          "lon": 67.145214,
+          "coord_source": "auto:osm:node/6989393142",
+          "is_station": false
+        },
+        {
+          "name": "Shama Shopping Center",
+          "name_ur": "",
+          "lat": 24.884711,
+          "lon": 67.145543,
+          "coord_source": "auto:osm:node/4767920545",
+          "is_station": false
+        },
+        {
+          "name": "Bagh-e-Korangi - Sector 10",
+          "name_ur": "",
+          "lat": 24.856818,
+          "lon": 67.150158,
+          "coord_source": "auto:osm:node/5335089321",
+          "is_station": false
+        },
+        {
+          "name": "Singer Chowrangi",
+          "name_ur": "",
+          "lat": 24.847085,
+          "lon": 67.15963,
+          "coord_source": "auto:same-name:ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:pink-bus-part2",
+          "is_station": false
+        },
+        {
+          "name": "K Area - Sherabad Colony",
+          "name_ur": "",
+          "lat": 24.844705,
+          "lon": 67.127203,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 5",
+          "name_ur": "",
+          "lat": 24.842325,
+          "lon": 67.094775,
+          "coord_source": "auto:osm:node/5254067385",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 6",
+          "name_ur": "",
+          "lat": 24.846395,
+          "lon": 67.072042,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Chiragh Hotel - Sector 36 E Landhi Town",
+          "name_ur": "",
+          "lat": 24.850465,
+          "lon": 67.049309,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Landhi 4",
+          "name_ur": "",
+          "lat": 24.854536,
+          "lon": 67.026577,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Babar Market",
+          "name_ur": "",
+          "lat": 24.858606,
+          "lon": 67.003844,
+          "coord_source": "auto:osm:node/5121782753",
+          "is_station": false
+        },
+        {
+          "name": "89 Landhi Rd",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page M-7",
+          "url": "https://mnzil.app/vehicles/M-7"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (26 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "M-9",
+      "name": "Qayyumabad - NIPA Chowrangi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Qayyumabad",
+          "name_ur": "",
+          "lat": 24.829419,
+          "lon": 67.080768,
+          "coord_source": "auto:osm:node/4786563395",
+          "is_station": false
+        },
+        {
+          "name": "NIPA Chowrangi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page M-9",
+          "url": "https://mnzil.app/vehicles/M-9"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 13 stops but the stop list is empty."
+    },
+    {
+      "id": "MK 081",
+      "name": "MK 081",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page MK 081",
+          "url": "https://mnzil.app/vehicles/MK-081"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. The scrape has no terminals and no stops for this vehicle (fields are 'undefined' or empty). Kept only as a route number to look up."
+    },
+    {
+      "id": "N-1",
+      "name": "NIPA Chowrangi - Kaneez Fatima Society - Gulzar-e-Hijri",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "NIPA Chowrangi",
+          "name_ur": "",
+          "lat": 24.917907,
+          "lon": 67.096653,
+          "coord_source": "auto:osm:node/5112921419",
+          "is_station": false
+        },
+        {
+          "name": "Kaneez Fatima Society - Gulzar-e-Hijri",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page N-1",
+          "url": "https://mnzil.app/vehicles/N-1"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 7 stops but the stop list is empty."
+    },
+    {
+      "id": "N-1 Baldia",
+      "name": "Jungle School (Baldia) - Shershah",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Jungle School (Baldia)",
+          "name_ur": "بلدیہ",
+          "lat": 24.874449,
+          "lon": 66.968959,
+          "coord_source": "auto:osm:node/8294625990",
+          "is_station": false
+        },
+        {
+          "name": "Shershah",
+          "name_ur": "",
+          "lat": 24.889239,
+          "lon": 66.98264,
+          "coord_source": "auto:osm:node/12224621530",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page N-1 Baldia",
+          "url": "https://mnzil.app/vehicles/N-1-Baldia"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 9 stops but the stop list is empty."
+    },
+    {
+      "id": "N-55",
+      "name": "Lyari Basti - Taiser Town - Khairabad - Gulshan-e-Zia",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Lyari Basti - Taiser Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Khairabad - Gulshan-e-Zia",
+          "name_ur": "",
+          "lat": 24.998542,
+          "lon": 66.977724,
+          "coord_source": "auto:photon:N/7034714479",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page N-55",
+          "url": "https://mnzil.app/vehicles/N-55"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 25 stops but captured only 12 (KDA Flats- Surjani; 4K Chowrangi; 2 Minute Chowrangi; Road 2400 - Aisha Complex; Power House Chowrangi; Road 4200 - Saleem Centre; UP Mor; Nagan Chowrangi; Erum Shopping; Sakhi Hasan Chowrangi; Jummah Bazar (Bhayani Shopping Center); Five Star Chowrangi). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "N-91",
+      "name": "NIPA Chowrangi - Johar Chowrangi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "NIPA Chowrangi",
+          "name_ur": "",
+          "lat": 24.917907,
+          "lon": 67.096653,
+          "coord_source": "auto:osm:node/5112921419",
+          "is_station": false
+        },
+        {
+          "name": "Aladin Park",
+          "name_ur": "",
+          "lat": 24.911287,
+          "lon": 67.10512,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Johar Mor",
+          "name_ur": "",
+          "lat": 24.904667,
+          "lon": 67.113586,
+          "coord_source": "auto:osm:node/5340602456",
+          "is_station": false
+        },
+        {
+          "name": "Perfume Chowk Gulistan-e-Johar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Johar Chowrangi",
+          "name_ur": "",
+          "lat": 24.904667,
+          "lon": 67.113586,
+          "coord_source": "auto:osm:node/5340602456",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page N-91",
+          "url": "https://mnzil.app/vehicles/N-91"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (5 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "Naseeb",
+      "name": "Korangi 5 - Liaquatabad No.10 - Lalukhet",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Korangi 5",
+          "name_ur": "",
+          "lat": 24.842325,
+          "lon": 67.094775,
+          "coord_source": "auto:osm:node/5254067385",
+          "is_station": false
+        },
+        {
+          "name": "Liaquatabad No.10 - Lalukhet",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page Naseeb",
+          "url": "https://mnzil.app/vehicles/Naseeb-Chinchi"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 15 stops but the stop list is empty."
+    },
+    {
+      "id": "ND-1",
+      "name": "Umer Goth - Daak Khana - Liaquatabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Umer Goth",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Daak Khana - Liaquatabad",
+          "name_ur": "",
+          "lat": 24.900084,
+          "lon": 67.044914,
+          "coord_source": "auto:osm:node/12147847014",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page ND-1",
+          "url": "https://mnzil.app/vehicles/ND-1-Chinchi"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 18 stops but captured only 3 (UP Mor; Nagan Chowrangi; Erum Shopping). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "P-1",
+      "name": "P-1",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page P-1",
+          "url": "https://mnzil.app/vehicles/P-1"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. The scrape has no terminals and no stops for this vehicle (fields are 'undefined' or empty). Kept only as a route number to look up."
+    },
+    {
+      "id": "Razaq",
+      "name": "Korangi 5 - Liaquatabad No.10 - Lalukhet",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Korangi 5",
+          "name_ur": "",
+          "lat": 24.842325,
+          "lon": 67.094775,
+          "coord_source": "auto:osm:node/5254067385",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 4",
+          "name_ur": "کورنگی",
+          "lat": 24.826819,
+          "lon": 67.129813,
+          "coord_source": "auto:nominatim:way/530752749",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 3",
+          "name_ur": "",
+          "lat": 24.825756,
+          "lon": 67.154292,
+          "coord_source": "auto:osm:node/5137691714",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 2 ½",
+          "name_ur": "",
+          "lat": 24.821085,
+          "lon": 67.143697,
+          "coord_source": "auto:osm:node/5156526990",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 1",
+          "name_ur": "",
+          "lat": 24.822051,
+          "lon": 67.13286,
+          "coord_source": "auto:osm:node/12144299481",
+          "is_station": false
+        },
+        {
+          "name": "Nasir Jump",
+          "name_ur": "",
+          "lat": 24.820463,
+          "lon": 67.125114,
+          "coord_source": "auto:osm:node/12126274344",
+          "is_station": false
+        },
+        {
+          "name": "Indus Hospital - Korangi",
+          "name_ur": "",
+          "lat": 24.816587,
+          "lon": 67.11146,
+          "coord_source": "auto:osm:way/1144173764",
+          "is_station": false
+        },
+        {
+          "name": "Korangi Crossing Road",
+          "name_ur": "",
+          "lat": 24.831853,
+          "lon": 67.077512,
+          "coord_source": "auto:osm:way/176217343",
+          "is_station": false
+        },
+        {
+          "name": "Qayyumabad",
+          "name_ur": "",
+          "lat": 24.829419,
+          "lon": 67.080768,
+          "coord_source": "auto:osm:node/4786563395",
+          "is_station": false
+        },
+        {
+          "name": "Manzoor Colony",
+          "name_ur": "",
+          "lat": 24.84588,
+          "lon": 67.087335,
+          "coord_source": "auto:osm:node/5144995462",
+          "is_station": false
+        },
+        {
+          "name": "Baloch Colony Stop",
+          "name_ur": "",
+          "lat": 24.867295,
+          "lon": 67.082761,
+          "coord_source": "auto:osm:node/3523446756",
+          "is_station": false
+        },
+        {
+          "name": "Tariq Road",
+          "name_ur": "",
+          "lat": 24.875717,
+          "lon": 67.062402,
+          "coord_source": "auto:osm:way/544945002",
+          "is_station": false
+        },
+        {
+          "name": "Jail Chowrangi",
+          "name_ur": "",
+          "lat": 24.884757,
+          "lon": 67.057054,
+          "coord_source": "auto:osm:node/4774672041",
+          "is_station": false
+        },
+        {
+          "name": "Essa Nagri",
+          "name_ur": "عیسی نگری",
+          "lat": 24.90253,
+          "lon": 67.066384,
+          "coord_source": "auto:osm:node/6773410423",
+          "is_station": false
+        },
+        {
+          "name": "Liaquatabad No.10 - Lalukhet",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page Razaq",
+          "url": "https://mnzil.app/vehicles/Razaq-Chinchi"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (15 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "R-S",
+      "name": "Johar Chowrangi - Johar Chowrangi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Johar Chowrangi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page R-S",
+          "url": "https://mnzil.app/vehicles/R-S"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 1 stops but the stop list is empty."
+    },
+    {
+      "id": "S-2",
+      "name": "Daak Khana - Liaquatabad - Alnoor mor",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Daak Khana - Liaquatabad",
+          "name_ur": "",
+          "lat": 24.900084,
+          "lon": 67.044914,
+          "coord_source": "auto:osm:node/12147847014",
+          "is_station": false
+        },
+        {
+          "name": "Liaquatabad No.10 - Lalukhet",
+          "name_ur": "",
+          "lat": 24.909264,
+          "lon": 67.04952,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Karimabad - Meena Bazaar",
+          "name_ur": "",
+          "lat": 24.918445,
+          "lon": 67.054126,
+          "coord_source": "auto:osm:node/12145481411",
+          "is_station": false
+        },
+        {
+          "name": "Moosa Colony - Gulberg Town",
+          "name_ur": "",
+          "lat": 24.92013,
+          "lon": 67.048999,
+          "coord_source": "auto:nominatim:node/2671395587",
+          "is_station": false
+        },
+        {
+          "name": "Ziauddin Hospital - North Nazimabad",
+          "name_ur": "",
+          "lat": 24.923928,
+          "lon": 67.044713,
+          "coord_source": "auto:osm:node/2671409823",
+          "is_station": false
+        },
+        {
+          "name": "Landi Kotal Chowrangi Roundabout",
+          "name_ur": "",
+          "lat": 24.937101,
+          "lon": 67.055002,
+          "coord_source": "auto:osm:node/290240422",
+          "is_station": false
+        },
+        {
+          "name": "Peoples Chowrangi",
+          "name_ur": "",
+          "lat": 24.947893,
+          "lon": 67.065678,
+          "coord_source": "auto:osm:node/290242048",
+          "is_station": false
+        },
+        {
+          "name": "Piyala Hotel - Peoples Colony",
+          "name_ur": "",
+          "lat": 24.944989,
+          "lon": 67.068358,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gulberg Chowrangi",
+          "name_ur": "",
+          "lat": 24.942086,
+          "lon": 67.071037,
+          "coord_source": "auto:osm:node/4166787210",
+          "is_station": false
+        },
+        {
+          "name": "Alnoor mor",
+          "name_ur": "",
+          "lat": 24.950963,
+          "lon": 67.079214,
+          "coord_source": "auto:osm:way/435132810",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page S-2",
+          "url": "https://mnzil.app/vehicles/S-2"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (10 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "S-7",
+      "name": "Khawaja Ajmer Nagri - Teen Hatti",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Khawaja Ajmer Nagri",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Teen Hatti",
+          "name_ur": "",
+          "lat": 24.892254,
+          "lon": 67.043495,
+          "coord_source": "auto:osm:node/4314129401",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page S-7",
+          "url": "https://mnzil.app/vehicles/S-7"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 11 stops but captured only 1 (Sakhi Hasan Chowrangi). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "S-K",
+      "name": "Al Asif Square - Ittehad Town",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Al Asif Square",
+          "name_ur": "",
+          "lat": 24.949737,
+          "lon": 67.089916,
+          "coord_source": "auto:osm:node/5109660604",
+          "is_station": false
+        },
+        {
+          "name": "Ittehad Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page S-K",
+          "url": "https://mnzil.app/vehicles/S-K-Chinchi"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 20 stops but captured only 5 (Sakhi Hasan Chowrangi; Jummah Bazar (Bhayani Shopping Center); Five Star Chowrangi; Hyderi Market; Board Office Chowrangi). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "Sultan",
+      "name": "Liaquatabad No.10 - Lalukhet - Korangi 5",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Liaquatabad No.10 - Lalukhet",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Essa Nagri",
+          "name_ur": "عیسی نگری",
+          "lat": 24.90253,
+          "lon": 67.066384,
+          "coord_source": "auto:osm:node/6773410423",
+          "is_station": false
+        },
+        {
+          "name": "Jail Chowrangi",
+          "name_ur": "",
+          "lat": 24.884757,
+          "lon": 67.057054,
+          "coord_source": "auto:osm:node/4774672041",
+          "is_station": false
+        },
+        {
+          "name": "Tariq Road",
+          "name_ur": "",
+          "lat": 24.875717,
+          "lon": 67.062402,
+          "coord_source": "auto:osm:way/544945002",
+          "is_station": false
+        },
+        {
+          "name": "Baloch Colony Stop",
+          "name_ur": "",
+          "lat": 24.867295,
+          "lon": 67.082761,
+          "coord_source": "auto:osm:node/3523446756",
+          "is_station": false
+        },
+        {
+          "name": "Manzoor Colony",
+          "name_ur": "",
+          "lat": 24.84588,
+          "lon": 67.087335,
+          "coord_source": "auto:osm:node/5144995462",
+          "is_station": false
+        },
+        {
+          "name": "Qayyumabad",
+          "name_ur": "",
+          "lat": 24.829419,
+          "lon": 67.080768,
+          "coord_source": "auto:osm:node/4786563395",
+          "is_station": false
+        },
+        {
+          "name": "Korangi Crossing Road",
+          "name_ur": "",
+          "lat": 24.831853,
+          "lon": 67.077512,
+          "coord_source": "auto:osm:way/176217343",
+          "is_station": false
+        },
+        {
+          "name": "Indus Hospital - Korangi",
+          "name_ur": "",
+          "lat": 24.816587,
+          "lon": 67.11146,
+          "coord_source": "auto:osm:way/1144173764",
+          "is_station": false
+        },
+        {
+          "name": "Nasir Jump",
+          "name_ur": "",
+          "lat": 24.820463,
+          "lon": 67.125114,
+          "coord_source": "auto:osm:node/12126274344",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 1",
+          "name_ur": "",
+          "lat": 24.822051,
+          "lon": 67.13286,
+          "coord_source": "auto:osm:node/12144299481",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 2 ½",
+          "name_ur": "",
+          "lat": 24.821085,
+          "lon": 67.143697,
+          "coord_source": "auto:osm:node/5156526990",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 3",
+          "name_ur": "",
+          "lat": 24.825756,
+          "lon": 67.154292,
+          "coord_source": "auto:osm:node/5137691714",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 4",
+          "name_ur": "",
+          "lat": 24.827124,
+          "lon": 67.159064,
+          "coord_source": "auto:osm:node/5128042350",
+          "is_station": false
+        },
+        {
+          "name": "Landhi 6",
+          "name_ur": "",
+          "lat": 24.831792,
+          "lon": 67.172869,
+          "coord_source": "auto:osm:node/12141983621",
+          "is_station": false
+        },
+        {
+          "name": "Landhi 5",
+          "name_ur": "",
+          "lat": 24.834183,
+          "lon": 67.181549,
+          "coord_source": "auto:photon:N/5156598711",
+          "is_station": false
+        },
+        {
+          "name": "Landhi 4",
+          "name_ur": "لانڈھی ٹاؤن",
+          "lat": 24.835192,
+          "lon": 67.177409,
+          "coord_source": "auto:nominatim:relation/16350631",
+          "is_station": false
+        },
+        {
+          "name": "Landhi 3",
+          "name_ur": "",
+          "lat": 24.837708,
+          "lon": 67.188812,
+          "coord_source": "auto:osm:node/5135309390",
+          "is_station": false
+        },
+        {
+          "name": "Landhi 2",
+          "name_ur": "لانڈھی 2",
+          "lat": 24.842544,
+          "lon": 67.195513,
+          "coord_source": "auto:osm:way/196748493",
+          "is_station": false
+        },
+        {
+          "name": "Landhi 1",
+          "name_ur": "لانڈھی 1",
+          "lat": 24.845181,
+          "lon": 67.201453,
+          "coord_source": "auto:osm:way/528123017",
+          "is_station": false
+        },
+        {
+          "name": "89 Landhi Rd",
+          "name_ur": "",
+          "lat": 24.846765,
+          "lon": 67.205914,
+          "coord_source": "auto:osm:node/5133191774",
+          "is_station": false
+        },
+        {
+          "name": "Dawood Chowrangi",
+          "name_ur": "",
+          "lat": 24.850384,
+          "lon": 67.207191,
+          "coord_source": "auto:osm:node/2056774043",
+          "is_station": false
+        },
+        {
+          "name": "Korangi 5",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page Sultan",
+          "url": "https://mnzil.app/vehicles/Sultan-Chinchi"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (23 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "T-10",
+      "name": "Daak Khana - Liaquatabad - Surjani - Sector 7A",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Daak Khana - Liaquatabad",
+          "name_ur": "",
+          "lat": 24.900084,
+          "lon": 67.044914,
+          "coord_source": "auto:osm:node/12147847014",
+          "is_station": false
+        },
+        {
+          "name": "Surjani - Sector 7A",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page T-10",
+          "url": "https://mnzil.app/vehicles/T-10"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 21 stops but captured only 12 (Hyderi Market; Five Star Chowrangi; Jummah Bazar (Bhayani Shopping Center); Sakhi Hasan Chowrangi; Erum Shopping; Nagan Chowrangi; UP Mor; Power House Chowrangi; 2 Minute Chowrangi; 4K Chowrangi; Karimi Chowrangi; KDA Flats- Surjani). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "T-11",
+      "name": "Daak Khana - Liaquatabad - Surjani - Sector 7A",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Daak Khana - Liaquatabad",
+          "name_ur": "",
+          "lat": 24.900084,
+          "lon": 67.044914,
+          "coord_source": "auto:osm:node/12147847014",
+          "is_station": false
+        },
+        {
+          "name": "Surjani - Sector 7A",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page T-11",
+          "url": "https://mnzil.app/vehicles/T-11"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 22 stops but captured only 13 (Board Office Chowrangi; Five Star Chowrangi; Hyderi Market; Jummah Bazar (Bhayani Shopping Center); Sakhi Hasan Chowrangi; Erum Shopping; Nagan Chowrangi; UP Mor; Power House Chowrangi; 2 Minute Chowrangi; 4K Chowrangi; Karimi Chowrangi; KDA Flats- Surjani). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "T-99",
+      "name": "Mansoor Nagar (Maa Hospital) - Abdullah Mor - Surjani",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Mansoor Nagar (Maa Hospital)",
+          "name_ur": "منصور نگر",
+          "lat": 24.968669,
+          "lon": 66.982421,
+          "coord_source": "auto:osm:node/7034714481",
+          "is_station": false
+        },
+        {
+          "name": "Abdullah Mor - Surjani",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page T-99",
+          "url": "https://mnzil.app/vehicles/T-99-Chinchi"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 23 stops but captured only 11 (Board Office Chowrangi; Five Star Chowrangi; Hyderi Market; Sakhi Hasan Chowrangi; Nagan Chowrangi; UP Mor; Road 4200 - Saleem Centre; Power House Chowrangi; 2 Minute Chowrangi; 4K Chowrangi; KDA Flats- Surjani). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "U-5",
+      "name": "Machchi Market (New Karachi) - KDA Chowrangi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Machchi Market (New Karachi)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "KDA Chowrangi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page U-5",
+          "url": "https://mnzil.app/vehicles/U-5"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 13 stops but captured only 9 (Power House Chowrangi; Road 4200 - Saleem Centre; UP Mor; Nagan Chowrangi; Erum Shopping; Sakhi Hasan Chowrangi; Jummah Bazar (Bhayani Shopping Center); Hyderi Market; Five Star Chowrangi). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "V-1",
+      "name": "Baba Mor - Garden",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Baba Mor",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Garden",
+          "name_ur": "",
+          "lat": 24.881614,
+          "lon": 67.028899,
+          "coord_source": "auto:osm:node/12168900756",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page V-1",
+          "url": "https://mnzil.app/vehicles/V-1"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 22 stops but captured only 12 (UP Mor; Nagan Chowrangi; Sakhi Hasan Chowrangi; Jummah Bazar (Bhayani Shopping Center); Five Star Chowrangi; Hyderi Market; Board Office Chowrangi; Annu Bhai Park; Enquiry Office; Nazimabad No. 1; Sanitary Market (Gulbahar); Lasbela). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "W-11",
+      "name": "Gulshan Ghazi - Daak Khana - Liaquatabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Gulshan Ghazi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Daak Khana - Liaquatabad",
+          "name_ur": "",
+          "lat": 24.900084,
+          "lon": 67.044914,
+          "coord_source": "auto:osm:node/12147847014",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page W-11 Chinchi",
+          "url": "https://mnzil.app/vehicles/W-11-Chinchi"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 15 stops but the stop list is empty."
+    },
+    {
+      "id": "W-86",
+      "name": "Lyari Basti - Taiser Town - Teen Hatti",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "Lyari Basti - Taiser Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Teen Hatti",
+          "name_ur": "",
+          "lat": 24.892254,
+          "lon": 67.043495,
+          "coord_source": "auto:osm:node/4314129401",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page W-86",
+          "url": "https://mnzil.app/vehicles/W-86"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 21 stops but captured only 9 (KDA Flats- Surjani; 4K Chowrangi; 2 Minute Chowrangi; Power House Chowrangi; Road 4200 - Saleem Centre; UP Mor; Nagan Chowrangi; Erum Shopping; Sakhi Hasan Chowrangi). Those are Green Line BRT station names in Green Line order, not this route's order, so they are not used as stops."
+    },
+    {
+      "id": "X-2",
+      "name": "ICI Bridge - Yousuf Goth",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "stops": [
+        {
+          "name": "ICI Bridge",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Yousuf Goth",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page X-2",
+          "url": "https://mnzil.app/vehicles/X-2"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 11 stops but the stop list is empty."
+    },
+    {
+      "id": "Z",
+      "name": "Ittehad Town - Islam Chowk - Orangi Town",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Ittehad Town",
+          "name_ur": "اتحاد ٹاؤن",
+          "lat": 24.939389,
+          "lon": 66.961173,
+          "coord_source": "auto:osm:node/6773994414",
+          "is_station": false
+        },
+        {
+          "name": "Eid Gah Morh - Orangi",
+          "name_ur": "",
+          "lat": 24.938974,
+          "lon": 66.975805,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "L Block Rd - Aziz Nagar",
+          "name_ur": "",
+          "lat": 24.938559,
+          "lon": 66.990437,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Orangi 5",
+          "name_ur": "",
+          "lat": 24.938144,
+          "lon": 67.005069,
+          "coord_source": "auto:osm:node/5089149965",
+          "is_station": false
+        },
+        {
+          "name": "Dabba Mor - Orangi Town",
+          "name_ur": "",
+          "lat": 24.939694,
+          "lon": 66.98426,
+          "coord_source": "auto:osm:node/5179982965",
+          "is_station": false
+        },
+        {
+          "name": "Islam Chowk - Orangi Town",
+          "name_ur": "اورنگی ٹاؤن",
+          "lat": 24.950245,
+          "lon": 66.993948,
+          "coord_source": "auto:osm:node/4777267205",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page Z",
+          "url": "https://mnzil.app/vehicles/Z"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (6 stops) as scraped. No coordinates in the source."
+    },
+    {
+      "id": "Z-4",
+      "name": "Shershah - Haroonabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "medium",
+      "stops": [
+        {
+          "name": "Shershah",
+          "name_ur": "",
+          "lat": 24.889239,
+          "lon": 66.98264,
+          "coord_source": "auto:osm:node/12224621530",
+          "is_station": false
+        },
+        {
+          "name": "Ghani Chowrangi",
+          "name_ur": "",
+          "lat": 24.894223,
+          "lon": 66.989592,
+          "coord_source": "auto:osm:node/5766498185",
+          "is_station": false
+        },
+        {
+          "name": "Siemens Chowrangi",
+          "name_ur": "",
+          "lat": 24.903079,
+          "lon": 67.002583,
+          "coord_source": "auto:osm:node/8722775101",
+          "is_station": false
+        },
+        {
+          "name": "Habib Bank Chowrangi",
+          "name_ur": "",
+          "lat": 24.911333,
+          "lon": 67.014248,
+          "coord_source": "auto:osm:node/5089198939",
+          "is_station": false
+        },
+        {
+          "name": "Haroonabad",
+          "name_ur": "",
+          "lat": 24.895612,
+          "lon": 66.995743,
+          "coord_source": "auto:osm:node/8192412043",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json",
+          "url": "https://github.com/naumanaarif/musafir"
+        },
+        {
+          "title": "Mnzil vehicle page Z-4",
+          "url": "https://mnzil.app/vehicles/Z-4"
+        }
+      ],
+      "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (5 stops) as scraped. No coordinates in the source."
+    }
+  ],
+  "last_verified": "2026-09-21"
+}

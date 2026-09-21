@@ -1,0 +1,932 @@
+{
+  "assignment": "rawalpindi-feeder",
+  "researched_on": "2026-09-21",
+  "systems": [
+    {
+      "id": "rawalpindi-feeder",
+      "city": "islamabad-rawalpindi",
+      "name": "Rawalpindi feeder routes (R-series)",
+      "name_ur": "",
+      "operator": "Punjab Masstransit Authority feeder network (route list from the Rahnuma project)",
+      "mode": "feeder",
+      "website": null,
+      "helpline": null,
+      "payment": null,
+      "fare_rules": {
+        "type": "unknown",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "The isb-rwp-metrobus RED fare (Rs 40) is a Metrobus fare and does not apply to feeders. R-2, R-4, R-5 and R-10 match the PMA Rawalpindi electric buses, which charge Rs 20 flat per our rawalpindi-electric-bus.json. Rahnuma's own code uses Rs 50 for all non-Red services, described as a project fare policy.",
+        "as_of": null,
+        "source_url": null
+      },
+      "hours": null,
+      "sources": [
+        {
+          "title": "Rahnuma: src/data/transitData.ts and data/transit-routes/Transit_Routes_-_Rawalpindi_Feeder.pdf",
+          "url": "https://github.com/mabdullahamjad/Rahnuma",
+          "publisher": "mabdullahamjad (GitHub)",
+          "date": "2026-07-27",
+          "official": false
+        }
+      ],
+      "routes": [
+        {
+          "id": "R-1",
+          "name": "Saddar Hub - Raja Bazaar",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "stops": [
+            {
+              "name": "Saddar",
+              "name_ur": "",
+              "lat": 33.593742,
+              "lon": 73.056046,
+              "coord_source": "ext:github:mabdullahamjad/Rahnuma:transitData.ts",
+              "is_station": false
+            },
+            {
+              "name": "Raja Bazaar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Trunk Bazaar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Banni",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gordon College",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Rahnuma: src/data/transitData.ts",
+              "url": "https://github.com/mabdullahamjad/Rahnuma/blob/main/src/data/transitData.ts"
+            }
+          ],
+          "notes": "Source: Rahnuma GitHub project (mabdullahamjad/Rahnuma). Not an official PMA list; no licence stated. Only source is transitData.ts ('Saddar Hub Feeder'); the repo's PDF has no R-1. Treat as a placeholder: for the four codes the PDF covers (R-2, R-4, R-5, R-10), transitData.ts contradicts it completely, and its timings (06:00-22:00, 10-30 min) are uniform template values, so they are not copied. Do not publish without another source."
+        },
+        {
+          "id": "R-2",
+          "name": "Fawara Chowk - Gulzar-e-Quaid",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "medium",
+          "stops": [
+            {
+              "name": "Fawara Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gawal Mandi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Liaquat Bagh",
+              "name_ur": "",
+              "lat": 33.605896,
+              "lon": 73.065734,
+              "coord_source": "ext:github:mabdullahamjad/Rahnuma:transitData.ts",
+              "is_station": false
+            },
+            {
+              "name": "RMU",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sir Syed Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chaklala 2",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Fauji Tower",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Umar Baig Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chaklala Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "NASTP",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shah Khalid Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mazen School",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gulzar-e-Quaid",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Rahnuma: data/transit-routes/Transit_Routes_-_Rawalpindi_Feeder.pdf",
+              "url": "https://github.com/mabdullahamjad/Rahnuma/blob/main/data/transit-routes/Transit_Routes_-_Rawalpindi_Feeder.pdf"
+            },
+            {
+              "title": "Rahnuma: src/data/transitData.ts",
+              "url": "https://github.com/mabdullahamjad/Rahnuma/blob/main/src/data/transitData.ts"
+            }
+          ],
+          "notes": "Source: Rahnuma GitHub project (mabdullahamjad/Rahnuma). Not an official PMA list; no licence stated. Stops from the Rawalpindi Feeder PDF sheet in the repo (a Google Sheets export). LIKELY DUPLICATE: same terminals and stop sequence as our rawalpindi-electric-bus RWP-EB-02 (Fawara Chowk - Koral Chowk); merge as an alias of that route, not as a new route. transitData.ts gives a different, much shorter route under the same code ('Liaquat Bagh Feeder': Liaquat Bagh, Marrir Chowk, Rialto Chowk, Commercial Market), which conflicts with the PDF and looks like placeholder data."
+        },
+        {
+          "id": "R-3",
+          "name": "Shamsabad Hub - Chandni Chowk Hub",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "stops": [
+            {
+              "name": "Shamsabad",
+              "name_ur": "",
+              "lat": 33.650176,
+              "lon": 73.079732,
+              "coord_source": "ext:github:mabdullahamjad/Rahnuma:transitData.ts",
+              "is_station": false
+            },
+            {
+              "name": "Sadiqabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chandni Chowk",
+              "name_ur": "",
+              "lat": 33.630106,
+              "lon": 73.071939,
+              "coord_source": "ext:github:mabdullahamjad/Rahnuma:transitData.ts",
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Rahnuma: src/data/transitData.ts",
+              "url": "https://github.com/mabdullahamjad/Rahnuma/blob/main/src/data/transitData.ts"
+            }
+          ],
+          "notes": "Source: Rahnuma GitHub project (mabdullahamjad/Rahnuma). Not an official PMA list; no licence stated. Only source is transitData.ts ('Shamsabad Feeder'); the repo's PDF has no R-3. Treat as a placeholder: for the four codes the PDF covers (R-2, R-4, R-5, R-10), transitData.ts contradicts it completely, and its timings (06:00-22:00, 10-30 min) are uniform template values, so they are not copied. Do not publish without another source."
+        },
+        {
+          "id": "R-4",
+          "name": "CSD - Munawar Chowk",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "medium",
+          "stops": [
+            {
+              "name": "CSD",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "CMH Gate No. 2",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dheri Hassanabad-1",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dheri Hassanabad-2",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mahfooz Shaheed Park",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Zia Ul Haq Park",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Askari VII",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khawaja Corporation",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dharma Syedan",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ali Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Munawar Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Rahnuma: data/transit-routes/Transit_Routes_-_Rawalpindi_Feeder.pdf",
+              "url": "https://github.com/mabdullahamjad/Rahnuma/blob/main/data/transit-routes/Transit_Routes_-_Rawalpindi_Feeder.pdf"
+            },
+            {
+              "title": "Rahnuma: src/data/transitData.ts",
+              "url": "https://github.com/mabdullahamjad/Rahnuma/blob/main/src/data/transitData.ts"
+            }
+          ],
+          "notes": "Source: Rahnuma GitHub project (mabdullahamjad/Rahnuma). Not an official PMA list; no licence stated. Stops from the Rawalpindi Feeder PDF sheet in the repo (a Google Sheets export). LIKELY DUPLICATE: same terminals and stop sequence as our rawalpindi-electric-bus RWP-EB-03 (Saddar Metro Station - Munawar Colony); merge as an alias of that route, not as a new route. transitData.ts gives a different, much shorter route under the same code ('Pir Wadhai Feeder': Pir Wadhai, IJP Road, Faizabad), which conflicts with the PDF and looks like placeholder data."
+        },
+        {
+          "id": "R-5",
+          "name": "Marrir Chowk Station - Motorway Chowk (26 Number)",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "medium",
+          "stops": [
+            {
+              "name": "Marrir Chowk Station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kamran Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "GPO Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "MH",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Roomi Park",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Qasim Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Radio Pakistan",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lane no. 4",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chairing Cross",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chur Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chur Harpal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Model Bazar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kainat Bus Terminal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Pirwadhai Morh",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kohinoor Mills Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kohinoor Mills",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Golra Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "NUST E.M.E College",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Daewoo Bus terminal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jhang Syedan",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Motorway Bus Terminal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Motorway Chowk (26 Number)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Rahnuma: data/transit-routes/Transit_Routes_-_Rawalpindi_Feeder.pdf",
+              "url": "https://github.com/mabdullahamjad/Rahnuma/blob/main/data/transit-routes/Transit_Routes_-_Rawalpindi_Feeder.pdf"
+            },
+            {
+              "title": "Rahnuma: src/data/transitData.ts",
+              "url": "https://github.com/mabdullahamjad/Rahnuma/blob/main/src/data/transitData.ts"
+            }
+          ],
+          "notes": "Source: Rahnuma GitHub project (mabdullahamjad/Rahnuma). Not an official PMA list; no licence stated. Stops from the Rawalpindi Feeder PDF sheet in the repo (a Google Sheets export). LIKELY DUPLICATE: same terminals and stop sequence as our rawalpindi-electric-bus RWP-EB-04 (Marrir Metro Station - Motorway Chowk 26 Number); merge as an alias of that route, not as a new route. transitData.ts gives a different, much shorter route under the same code ('Faizabad Terminal Feeder': Faizabad, Nadir Chowk Hub, Satra Meel Terminal), which conflicts with the PDF and looks like placeholder data."
+        },
+        {
+          "id": "R-6",
+          "name": "Khanna Pull - Koral",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "stops": [
+            {
+              "name": "Khanna Pull",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Taramri",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Koral",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Rahnuma: src/data/transitData.ts",
+              "url": "https://github.com/mabdullahamjad/Rahnuma/blob/main/src/data/transitData.ts"
+            }
+          ],
+          "notes": "Source: Rahnuma GitHub project (mabdullahamjad/Rahnuma). Not an official PMA list; no licence stated. Only source is transitData.ts ('Khanna Pull Feeder'); the repo's PDF has no R-6. Treat as a placeholder: for the four codes the PDF covers (R-2, R-4, R-5, R-10), transitData.ts contradicts it completely, and its timings (06:00-22:00, 10-30 min) are uniform template values, so they are not copied. Do not publish without another source."
+        },
+        {
+          "id": "R-7",
+          "name": "Sohan Hub - Lehtarar",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "stops": [
+            {
+              "name": "Sohan",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lehtarar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Rahnuma: src/data/transitData.ts",
+              "url": "https://github.com/mabdullahamjad/Rahnuma/blob/main/src/data/transitData.ts"
+            }
+          ],
+          "notes": "Source: Rahnuma GitHub project (mabdullahamjad/Rahnuma). Not an official PMA list; no licence stated. Only source is transitData.ts ('Sohan Feeder'); the repo's PDF has no R-7. Treat as a placeholder: for the four codes the PDF covers (R-2, R-4, R-5, R-10), transitData.ts contradicts it completely, and its timings (06:00-22:00, 10-30 min) are uniform template values, so they are not copied. Do not publish without another source."
+        },
+        {
+          "id": "R-8",
+          "name": "Bharakahu Hub - Malpur Hub",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "stops": [
+            {
+              "name": "Bhara Kahu",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Malpur",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bari Imam",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Quaid-e-Azam University",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Rahnuma: src/data/transitData.ts",
+              "url": "https://github.com/mabdullahamjad/Rahnuma/blob/main/src/data/transitData.ts"
+            }
+          ],
+          "notes": "Source: Rahnuma GitHub project (mabdullahamjad/Rahnuma). Not an official PMA list; no licence stated. Only source is transitData.ts ('Bharakahu Feeder'); the repo's PDF has no R-8. Treat as a placeholder: for the four codes the PDF covers (R-2, R-4, R-5, R-10), transitData.ts contradicts it completely, and its timings (06:00-22:00, 10-30 min) are uniform template values, so they are not copied. Do not publish without another source."
+        },
+        {
+          "id": "R-9",
+          "name": "Chaklala Hub - Airport Hub",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "stops": [
+            {
+              "name": "Chaklala",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Airport",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Rahnuma: src/data/transitData.ts",
+              "url": "https://github.com/mabdullahamjad/Rahnuma/blob/main/src/data/transitData.ts"
+            }
+          ],
+          "notes": "Source: Rahnuma GitHub project (mabdullahamjad/Rahnuma). Not an official PMA list; no licence stated. Only source is transitData.ts ('Chaklala Feeder'); the repo's PDF has no R-9. Treat as a placeholder: for the four codes the PDF covers (R-2, R-4, R-5, R-10), transitData.ts contradicts it completely, and its timings (06:00-22:00, 10-30 min) are uniform template values, so they are not copied. Do not publish without another source."
+        },
+        {
+          "id": "R-10",
+          "name": "Saddar Stop - Bhatta Chowk",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "medium",
+          "stops": [
+            {
+              "name": "Saddar Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "GPO Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "MH",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Roomi Park",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Qasim Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Askari 11",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Farid Family Hospital",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Afzal Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Malik Azam Street",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Noor Hospital",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Hakeem Plaza",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Misriyal Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Qabaristan Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bhatta Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Rahnuma: data/transit-routes/Transit_Routes_-_Rawalpindi_Feeder.pdf",
+              "url": "https://github.com/mabdullahamjad/Rahnuma/blob/main/data/transit-routes/Transit_Routes_-_Rawalpindi_Feeder.pdf"
+            },
+            {
+              "title": "Rahnuma: src/data/transitData.ts",
+              "url": "https://github.com/mabdullahamjad/Rahnuma/blob/main/src/data/transitData.ts"
+            }
+          ],
+          "notes": "Source: Rahnuma GitHub project (mabdullahamjad/Rahnuma). Not an official PMA list; no licence stated. Stops from the Rawalpindi Feeder PDF sheet in the repo (a Google Sheets export). LIKELY DUPLICATE: same terminals and stop sequence as our rawalpindi-electric-bus RWP-EB-01X (Saddar - Bhatta Chowk); merge as an alias of that route, not as a new route. transitData.ts gives a different, much shorter route under the same code ('Pir Sohawa Feeder': Pir Sohawa, Sohan), which conflicts with the PDF and looks like placeholder data."
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    "No islamabad-electric-feeder object: every FR/EX route in the Rahnuma PDFs (FR-1, 3A, 4, 4A, 6, 7, 8A, 8B, 8C, 9-15, 14A, EX-16) is already in islamabad-electric-feeder.json. transitData.ts FR-1..FR-10 use real codes with invented-looking stop lists that match neither the PDF nor our data, so nothing was taken from them.",
+    "R-2, R-4, R-5 and R-10 are the PMA Rawalpindi electric bus routes we already hold as RWP-EB-02, -03, -04 and -01X. The PDF numbering (R-x) may be an older or alternative code; confirm with PMA before using it as an alias.",
+    "R-1, R-3, R-6, R-7, R-8 and R-9 exist only in transitData.ts and look like placeholder data. Ask the author for the source (the repo mentions 'Copy of Transit Routes.xlsx').",
+    "The Rahnuma BRT PDF lists an 'Airport' line (N-5 - Airport) and an Orange line that ends at N-5; not processed here."
+  ]
+}

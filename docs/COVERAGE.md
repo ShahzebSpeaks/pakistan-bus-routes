@@ -1,8 +1,8 @@
 # Data coverage
 
-Generated 2026-09-20 by `npm run data:build`. Do not edit by hand.
+Generated 2026-09-21 by `npm run data:build`. Do not edit by hand.
 
-**49 cities · 68 systems · 801 published routes · 6304 stops**
+**49 cities · 69 systems · 883 published routes · 6390 stops**
 
 Coordinate quality: **exact** = verified (OpenStreetMap element or Wikipedia, checked by a person), **guide** = position published by a route guide such as safar.fyi, **matched** = automatic OpenStreetMap name match, **geocoded** = Nominatim search, **estimated** = interpolated between neighbours, **missing** = not on the map yet.
 
@@ -20,6 +20,72 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Karachi Breeze (BRT) | RED | Malir Halt - Model Colony - University Road - Numaish | under_construction | 24 | 0% | 0% | 75% | 8% | 17% | 0 | medium |
 | Karachi Breeze (BRT) | YELLOW | Dawood Chowrangi - Korangi - Shahrah-e-Faisal - Numaish | under_construction | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
 | Karachi Breeze (BRT) | BROWN | Singer Chowrangi - Nagan Chowrangi (proposed) | planned | 2 | 0% | 50% | 50% | 0% | 0% | 0 | low |
+| Chinchi (Qingqi) routes | 007 | Shrine of Manghopir - Daak Khana - Liaquatabad | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | 2-J | Saddar - Al hameed | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Chinchi (Qingqi) routes | 4-E | Abdullah Chowk - Numaish Chowrangi | unverified | 23 | 0% | 0% | 96% | 0% | 4% | 0 | medium |
+| Chinchi (Qingqi) routes | 4-X | Surjani - Sector 7A - Guru Mandir | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | 555 | Sindhi Hotel - New Karachi - Guru Mandir | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | 786 | Lyari Basti - Taiser Town - NIPA Chowrangi | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | 7-D | North Karachi 7-D - Iqra University - Lucky One Mall | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | 8 | Pahar Ganj - Ahsanabad | unverified | 14 | 0% | 0% | 79% | 7% | 14% | 0 | medium |
+| Chinchi (Qingqi) routes | A | Saddar - NIPA Chowrangi | unverified | 3 | 0% | 0% | 67% | 0% | 0% | 1 | medium |
+| Chinchi (Qingqi) routes | A-1 | Disco Bakers and Sweets - Gulshan Chowrangi | unverified | 4 | 0% | 0% | 75% | 0% | 25% | 0 | medium |
+| Chinchi (Qingqi) routes | A-18 | Chungi Ghazi - Millennium Mall | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | AA1 | Korangi 5 - Liaquatabad No.10 - Lalukhet | unverified | 15 | 0% | 0% | 87% | 7% | 0% | 1 | medium |
+| Chinchi (Qingqi) routes | AS-1 | Korangi 6 - 4K Chowrangi | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | B-1 | Daak Khana - Liaquatabad - Allah bux village - Ahsanabad | unverified | 11 | 0% | 0% | 82% | 0% | 9% | 1 | medium |
+| Chinchi (Qingqi) routes | B-3 | Numaish Chowrangi - Safoora Chowrangi | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | B-9 | Korangi 6 - Korangi Crossing Road | unverified | 9 | 0% | 0% | 100% | 0% | 0% | 0 | medium |
+| Chinchi (Qingqi) routes | D-13 | Jungle School (Baldia) - Banaras Bus Stop | unverified | 12 | 0% | 0% | 50% | 8% | 42% | 0 | medium |
+| Chinchi (Qingqi) routes | D-22 | Lyari 50 - Teen Hatti | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | D-3 | Guru Mandir - Munawar Chowrangi - Gulistan-e-Johar | unverified | 14 | 0% | 0% | 79% | 0% | 14% | 1 | medium |
+| Chinchi (Qingqi) routes | Double Jhanda | Kharadar - Teen Hatti | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | F-12 | Allah waali - New Karachi - Teen Hatti | unverified | 11 | 0% | 0% | 73% | 0% | 9% | 2 | medium |
+| Chinchi (Qingqi) routes | FM | Abdullah Mor - Surjani - Malir 15 | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | FS-1 | L Block Rd - Aziz Nagar - Anarkali Sector 6 - Surjani Town | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Chinchi (Qingqi) routes | G-2 | Daak Khana - Liaquatabad - New Sabzi Mandi | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | G-25 | Five Star Chowrangi - Gulshan Chowrangi | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Chinchi (Qingqi) routes | G-7 | Baba Mor - Bismillah Chowk | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Chinchi (Qingqi) routes | GM | Malir 15 - Baba Mor | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | J-1 | Gulshan Ghazi - IC Bridge | unverified | 16 | 0% | 0% | 50% | 0% | 44% | 1 | medium |
+| Chinchi (Qingqi) routes | JF17 | Korangi 5 - Liaquatabad No.10 - Lalukhet | unverified | 15 | 0% | 0% | 87% | 7% | 0% | 1 | medium |
+| Chinchi (Qingqi) routes | K-18 | Chungi Ghazi - Millennium Mall | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | K-4 | Korangi Crossing Road - Korangi 6 | unverified | 9 | 0% | 0% | 100% | 0% | 0% | 0 | medium |
+| Chinchi (Qingqi) routes | K-5 | Makkah Hotel - Sec 5A1 North Karachi - Patel Para (Guru Mandir) | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | K6 | Korangi Crossing Road - Korangi 6 | unverified | 9 | 0% | 0% | 100% | 0% | 0% | 0 | medium |
+| Chinchi (Qingqi) routes | K-86 | Lyari 50 - Guru Mandir | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | Karachi King | Korangi 5 - Liaquatabad No.10 - Lalukhet | unverified | 15 | 0% | 0% | 87% | 7% | 0% | 1 | medium |
+| Chinchi (Qingqi) routes | M-1 | Jamali Flyover - Guru Mandir | unverified | 13 | 0% | 0% | 85% | 0% | 15% | 0 | medium |
+| Chinchi (Qingqi) routes | M-10 | Lyari Basti - Taiser Town - NIPA Chowrangi | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | M-22 | Korangi 5 - Liaquatabad No.10 - Lalukhet | unverified | 15 | 0% | 0% | 87% | 7% | 0% | 1 | medium |
+| Chinchi (Qingqi) routes | M-5 | Expo Center - Expo Center | unverified | 1 | 0% | 0% | 100% | 0% | 0% | 0 | medium |
+| Chinchi (Qingqi) routes | M-55 | Lyari Basti - Taiser Town - Saddar | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Chinchi (Qingqi) routes | M-7 | Yaroo Khan Goth - Surjani Town - 89 Landhi Rd | unverified | 26 | 0% | 0% | 62% | 0% | 19% | 5 | medium |
+| Chinchi (Qingqi) routes | M-9 | Qayyumabad - NIPA Chowrangi | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | MK 081 | MK 081 | unverified | 0 | - | - | - | - | - | 0 | low |
+| Chinchi (Qingqi) routes | N-1 | NIPA Chowrangi - Kaneez Fatima Society - Gulzar-e-Hijri | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | N-1 Baldia | Jungle School (Baldia) - Shershah | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Chinchi (Qingqi) routes | N-55 | Lyari Basti - Taiser Town - Khairabad - Gulshan-e-Zia | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | N-91 | NIPA Chowrangi - Johar Chowrangi | unverified | 5 | 0% | 0% | 60% | 0% | 20% | 1 | medium |
+| Chinchi (Qingqi) routes | Naseeb | Korangi 5 - Liaquatabad No.10 - Lalukhet | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | ND-1 | Umer Goth - Daak Khana - Liaquatabad | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | P-1 | P-1 | unverified | 0 | - | - | - | - | - | 0 | low |
+| Chinchi (Qingqi) routes | Razaq | Korangi 5 - Liaquatabad No.10 - Lalukhet | unverified | 15 | 0% | 0% | 87% | 7% | 0% | 1 | medium |
+| Chinchi (Qingqi) routes | R-S | Johar Chowrangi - Johar Chowrangi | unverified | 1 | 0% | 0% | 0% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | S-2 | Daak Khana - Liaquatabad - Alnoor mor | unverified | 10 | 0% | 0% | 70% | 10% | 20% | 0 | medium |
+| Chinchi (Qingqi) routes | S-7 | Khawaja Ajmer Nagri - Teen Hatti | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | S-K | Al Asif Square - Ittehad Town | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | Sultan | Liaquatabad No.10 - Lalukhet - Korangi 5 | unverified | 23 | 0% | 0% | 87% | 4% | 0% | 2 | medium |
+| Chinchi (Qingqi) routes | T-10 | Daak Khana - Liaquatabad - Surjani - Sector 7A | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | T-11 | Daak Khana - Liaquatabad - Surjani - Sector 7A | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | T-99 | Mansoor Nagar (Maa Hospital) - Abdullah Mor - Surjani | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | U-5 | Machchi Market (New Karachi) - KDA Chowrangi | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Chinchi (Qingqi) routes | V-1 | Baba Mor - Garden | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | W-11 | Gulshan Ghazi - Daak Khana - Liaquatabad | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | W-86 | Lyari Basti - Taiser Town - Teen Hatti | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | X-2 | ICI Bridge - Yousuf Goth | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Chinchi (Qingqi) routes | Z | Ittehad Town - Islam Chowk - Orangi Town | unverified | 6 | 0% | 0% | 67% | 0% | 33% | 0 | medium |
+| Chinchi (Qingqi) routes | Z-4 | Shershah - Haroonabad | unverified | 5 | 0% | 0% | 100% | 0% | 0% | 0 | medium |
 | Karachi Circular Railway | KCR-LOOP | Karachi City - Drigh Road - Liaquatabad - Orangi - SITE - Karachi City (loop) | planned | 19 | 68% | 0% | 16% | 5% | 11% | 0 | low |
 | Karachi Circular Railway | KCR-1UP | KCR-1 | operational | 0 | - | - | - | - | - | 0 | low |
 | Karachi Circular Railway | KCR-2DN | KCR-2 | operational | 0 | - | - | - | - | - | 0 | low |
@@ -390,6 +456,11 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Private minibuses and coaches | pink-bus-part3 | pink-bus-part3 (Taj Complex - Ibrahim Hyderi) | unverified | 27 | 0% | 100% | 0% | 0% | 0% | 0 | low |
 | Private minibuses and coaches | Route-3 | Route-3 (Power House - Shan Chowrangi) | unverified | 16 | 0% | 100% | 0% | 0% | 0% | 0 | low |
 | Private minibuses and coaches | Route-10 | Route-10 (Numaish - Taj Complex) | unverified | 2 | 0% | 100% | 0% | 0% | 0% | 0 | low |
+| Private minibuses and coaches | 52 | Malir Halt - Liaquat national Hospital | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | medium |
+| Private minibuses and coaches | Al Azad | Karachi Marriott Hotel - Safoora Chowrangi | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | medium |
+| Private minibuses and coaches | Al Khair | Musharraf Colony - Keamari - Lee Market | unverified | 8 | 0% | 0% | 50% | 0% | 50% | 0 | medium |
+| Private minibuses and coaches | N | Karimabad - Meena Bazaar - Shireen Jinnah Colony | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Private minibuses and coaches | Super Muslim Coach | Port Qasim Mor - Shireen Jinnah Colony | unverified | 17 | 0% | 0% | 65% | 0% | 35% | 0 | medium |
 | Peoples Bus Service | R1 | Khokhrapar - Dockyard | operational | 25 | 52% | 4% | 40% | 0% | 4% | 0 | high |
 | Peoples Bus Service | R2 | Power House Chowrangi - Korangi Crossing | operational | 19 | 68% | 21% | 11% | 0% | 0% | 0 | medium |
 | Peoples Bus Service | R3 | Power House Chowrangi - Nasir Jump | operational | 21 | 57% | 10% | 29% | 0% | 5% | 0 | medium |
@@ -397,15 +468,15 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Peoples Bus Service | R8 | Yousuf Goth - Tower | operational | 14 | 43% | 14% | 7% | 7% | 29% | 0 | medium |
 | Peoples Bus Service | R9 | Gulshan-e-Hadeed - Tower | operational | 35 | 63% | 11% | 26% | 0% | 0% | 0 | high |
 | Peoples Bus Service | R10 | Numaish - Ibrahim Hyderi | operational | 23 | 30% | 4% | 52% | 0% | 13% | 0 | medium |
-| Peoples Bus Service | R11 | Miran Naka - Ziauddin Hospital Clifton | operational | 19 | 26% | 5% | 53% | 0% | 16% | 0 | medium |
+| Peoples Bus Service | R11 | Miran Naka - Ziauddin Hospital Clifton | operational | 19 | 26% | 5% | 58% | 0% | 11% | 0 | medium |
 | Peoples Bus Service | R12 | Memon Goth - Lucky Star Saddar | operational | 27 | 52% | 19% | 30% | 0% | 0% | 0 | medium |
 | Peoples Bus Service | R13 | Hawksbay - Tower | operational | 11 | 36% | 9% | 27% | 9% | 18% | 0 | medium |
 | Peoples Bus Service | R14 | Gulshan-e-Maymar - Tower | operational | 17 | 41% | 0% | 41% | 0% | 18% | 0 | low |
 | Peoples Bus Service | EV1 | CMH Malir Cantt - Dolmen Mall Clifton | operational | 23 | 43% | 4% | 39% | 0% | 13% | 0 | medium |
-| Peoples Bus Service | EV2 | Bahria Town - Malir Halt | operational | 11 | 36% | 18% | 27% | 0% | 18% | 0 | high |
+| Peoples Bus Service | EV2 | Bahria Town - Malir Halt | operational | 11 | 36% | 18% | 36% | 0% | 9% | 0 | high |
 | Peoples Bus Service | EV3 | Malir Cantt (Quaid-e-Azam Square) - Numaish | operational | 26 | 50% | 8% | 35% | 0% | 8% | 0 | medium |
 | Peoples Bus Service | EV4 | Bahria Town - Ayesha Manzil | operational | 11 | 45% | 18% | 9% | 0% | 27% | 0 | medium |
-| Peoples Bus Service | EV5 | DHA City - Sohrab Goth | operational | 12 | 33% | 0% | 17% | 8% | 42% | 0 | medium |
+| Peoples Bus Service | EV5 | DHA City - Sohrab Goth | operational | 12 | 33% | 0% | 25% | 8% | 33% | 0 | medium |
 | Peoples Bus Service | DD1 | Model Colony - Tower (Double Decker) | operational | 16 | 56% | 0% | 44% | 0% | 0% | 0 | medium |
 | Pink Bus (Peoples Bus Service, women-only) | R1 | Khokhrapar - Dockyard (Pink) | operational | 25 | 52% | 4% | 40% | 0% | 4% | 0 | medium |
 | Pink Bus (Peoples Bus Service, women-only) | R2 | Power House Chowrangi - Korangi Crossing (Pink) | operational | 19 | 68% | 21% | 11% | 0% | 0% | 0 | medium |
@@ -451,6 +522,17 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Lahore Feeder Routes (Speedo) | RT-25 | Askari 10 - Allama Iqbal Airport | operational | 3 | 33% | 67% | 0% | 0% | 0% | 0 | low |
 | Lahore Feeder Routes (Speedo) | RT-27 | Jinnah Bus Terminal - Bahria Town | operational | 25 | 8% | 92% | 0% | 0% | 0% | 0 | low |
 | Lahore Feeder Routes (Speedo) | RT-28 | Samanabad - Gulshan-e-Ravi Double Sarka | operational | 9 | 0% | 100% | 0% | 0% | 0% | 0 | low |
+| Lahore Feeder Routes (Speedo) | RT-01 | Railway Station - Bhatti Chowk | unverified | 8 | 0% | 0% | 88% | 0% | 13% | 0 | low |
+| Lahore Feeder Routes (Speedo) | RT-02 | Samanabad Morr - Bhatti Chowk | unverified | 15 | 0% | 0% | 93% | 0% | 7% | 0 | low |
+| Lahore Feeder Routes (Speedo) | RT-06 | Babu Sabu - Raj Garh Chowk | unverified | 16 | 0% | 0% | 63% | 0% | 38% | 0 | low |
+| Lahore Feeder Routes (Speedo) | RT-22 | Depot Chowk - Thokar Niaz Baig | unverified | 16 | 0% | 0% | 81% | 0% | 6% | 2 | low |
+| Lahore Feeder Routes (Speedo) | RT-26 | R.A Bazar - Daroghawala | unverified | 12 | 0% | 0% | 92% | 0% | 0% | 1 | low |
+| Lahore Feeder Routes (Speedo) | RT-29 | Niazi Interchange - Salamat Pura | unverified | 9 | 0% | 0% | 78% | 0% | 11% | 1 | low |
+| Lahore Feeder Routes (Speedo) | RT-30 | Daroghawala - Airport | unverified | 11 | 0% | 0% | 73% | 0% | 18% | 1 | low |
+| Lahore Feeder Routes (Speedo) | RT-31 | Daroghawala - Lari Adda | unverified | 7 | 0% | 0% | 43% | 0% | 43% | 1 | low |
+| Lahore Feeder Routes (Speedo) | RT-32 | Shimla Pahari - Ek Moriya | unverified | 5 | 0% | 0% | 80% | 0% | 0% | 1 | low |
+| Lahore Feeder Routes (Speedo) | RT-33 | Cooper Store - Mughalpura | unverified | 9 | 0% | 0% | 78% | 0% | 0% | 2 | low |
+| Lahore Feeder Routes (Speedo) | RT-34 | Singhpura - Mughalpura | unverified | 8 | 0% | 0% | 75% | 0% | 0% | 2 | low |
 | Planned feeder network (PMA IPTN) | IPTN-2 | Samanabad Morr - Bhatti Chowk | unverified | 8 | 0% | 38% | 50% | 0% | 13% | 0 | low |
 | Planned feeder network (PMA IPTN) | IPTN-6 | Babu Sabu - Raj Garh Chowk | unverified | 11 | 0% | 36% | 45% | 0% | 18% | 0 | low |
 | Planned feeder network (PMA IPTN) | IPTN-15 | Qartaba Chowk - Babu Sabu | planned | 2 | 0% | 50% | 50% | 0% | 0% | 0 | low |
@@ -1090,10 +1172,98 @@ These routes have the most stops without a verified position. Adding real coordi
 | Karachi | Minibus and coach routes (2010 list) | 52-A | 16 | 0 | 9 |
 | Karachi | Minibus and coach routes (2010 list) | D-14 | 17 | 2 | 7 |
 | Karachi | Minibus and coach routes (2010 list) | W-35 | 17 | 2 | 7 |
-| Karachi | Minibus and coach routes (2010 list) | 17-J | 15 | 2 | 6 |
+| Karachi | Chinchi (Qingqi) routes | J-1 | 16 | 1 | 7 |
 
 ## Build warnings
 
+- karachi-chinchi/007: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/007: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/2-J: 2 stop(s) without coordinates are left out of the map
+- karachi-chinchi/2-J: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/4-X: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/4-X: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/555: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/555: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/786: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/786: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/7-D: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/7-D: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/A: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/A-18: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/A-18: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/AA1: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/AS-1: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/AS-1: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/B-1: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/B-3: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/B-3: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/D-22: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/D-22: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/D-3: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/Double Jhanda: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/Double Jhanda: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/F-12: 2 stop(s) without coordinates are left out of the map
+- karachi-chinchi/FM: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/FM: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/FS-1: 2 stop(s) without coordinates are left out of the map
+- karachi-chinchi/FS-1: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/G-2: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/G-2: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/GM: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/GM: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/J-1: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/JF17: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/K-18: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/K-18: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/K-5: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/K-5: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/K-86: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/K-86: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/Karachi King: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/M-10: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/M-10: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/M-22: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/M-5: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/M-55: 2 stop(s) without coordinates are left out of the map
+- karachi-chinchi/M-55: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/M-7: 5 stop(s) without coordinates are left out of the map
+- karachi-chinchi/M-9: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/M-9: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/MK 081: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/N-1: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/N-1: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/N-55: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/N-55: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/N-91: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/Naseeb: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/Naseeb: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/ND-1: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/ND-1: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/P-1: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/Razaq: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/R-S: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/R-S: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/S-7: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/S-7: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/S-K: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/S-K: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/Sultan: 2 stop(s) without coordinates are left out of the map
+- karachi-chinchi/T-10: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/T-10: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/T-11: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/T-11: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/T-99: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/T-99: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/U-5: 2 stop(s) without coordinates are left out of the map
+- karachi-chinchi/U-5: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/V-1: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/V-1: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/W-11: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/W-11: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/W-86: 1 stop(s) without coordinates are left out of the map
+- karachi-chinchi/W-86: fewer than 2 located stops, listed without a map line
+- karachi-chinchi/X-2: 2 stop(s) without coordinates are left out of the map
+- karachi-chinchi/X-2: fewer than 2 located stops, listed without a map line
 - karachi-circular-railway/KCR-1UP: fewer than 2 located stops, listed without a map line
 - karachi-circular-railway/KCR-2DN: fewer than 2 located stops, listed without a map line
 - karachi-circular-railway/KCR-3DNDN: fewer than 2 located stops, listed without a map line
@@ -1296,6 +1466,12 @@ These routes have the most stops without a verified position. Adding real coordi
 - karachi-minibus/Bilal: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus/Gulistan: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus/Ilyas: 1 stop(s) without coordinates are left out of the map
+- karachi-minibus/52: 1 stop(s) without coordinates are left out of the map
+- karachi-minibus/52: fewer than 2 located stops, listed without a map line
+- karachi-minibus/Al Azad: 1 stop(s) without coordinates are left out of the map
+- karachi-minibus/Al Azad: fewer than 2 located stops, listed without a map line
+- karachi-minibus/N: 1 stop(s) without coordinates are left out of the map
+- karachi-minibus/N: fewer than 2 located stops, listed without a map line
 - karachi-yellow-line-services/YL-D2: 1 stop(s) without coordinates are left out of the map
 - karachi-yellow-line-services/YL-D2: fewer than 2 located stops, listed without a map line
 - karachi-yellow-line-services/YL-D4: 1 stop(s) without coordinates are left out of the map
@@ -1304,6 +1480,14 @@ These routes have the most stops without a verified position. Adding real coordi
 - karachi-yellow-line-services/YL-D5: fewer than 2 located stops, listed without a map line
 - karachi-yellow-line-services/YL-F2B: 1 stop(s) without coordinates are left out of the map
 - karachi-yellow-line-services/YL-F2B: fewer than 2 located stops, listed without a map line
+- lahore-feeder/RT-22: 2 stop(s) without coordinates are left out of the map
+- lahore-feeder/RT-26: 1 stop(s) without coordinates are left out of the map
+- lahore-feeder/RT-29: 1 stop(s) without coordinates are left out of the map
+- lahore-feeder/RT-30: 1 stop(s) without coordinates are left out of the map
+- lahore-feeder/RT-31: 1 stop(s) without coordinates are left out of the map
+- lahore-feeder/RT-32: 1 stop(s) without coordinates are left out of the map
+- lahore-feeder/RT-33: 2 stop(s) without coordinates are left out of the map
+- lahore-feeder/RT-34: 2 stop(s) without coordinates are left out of the map
 - lahore-iptn-planned/IPTN-20: 1 stop(s) without coordinates are left out of the map
 - lahore-iptn-planned/IPTN-20: fewer than 2 located stops, listed without a map line
 - lahore-iptn-planned/IPTN-31: 1 stop(s) without coordinates are left out of the map

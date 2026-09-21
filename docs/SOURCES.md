@@ -1,6 +1,6 @@
 # Sources
 
-Generated 2026-09-20 from `data/systems`. Facts (route numbers, stop names, fares, timings) were compiled from these public sources. Maps, images and text from them are not redistributed.
+Generated 2026-09-21 from `data/systems`. Facts (route numbers, stop names, fares, timings) were compiled from these public sources. Maps, images and text from them are not redistributed.
 
 ## Green Electric Bus Attock (attock)
 
@@ -244,6 +244,77 @@ Generated 2026-09-20 from `data/systems`. Facts (route numbers, stop names, fare
 - [Habib University Karachi bus network (CC-BY-4.0): D-10-part1](https://doi.org/10.5281/zenodo.13951512)
 - [BRT Brown Line Pre-Feasibility (Scribd)](https://www.scribd.com/document/679954497/BRT-Brown-Line-Pre-Feasibility)
 
+## Chinchi (Qingqi) routes (karachi)
+
+- [musafir: data/mnzil_scrapedata.json (scraped from mnzil.app)](https://github.com/naumanaarif/musafir) · naumanaarif (GitHub) · 2026-05-17
+- [Mnzil Karachi route finder](https://mnzil.app/) · Cheeltech (mnzil.app)
+- [Mnzil vehicle page 007](https://mnzil.app/vehicles/007)
+- [Mnzil vehicle page 2-J](https://mnzil.app/vehicles/2-J)
+- [Mnzil vehicle page 4-E](https://mnzil.app/vehicles/4-E)
+- [Mnzil vehicle page 4-X](https://mnzil.app/vehicles/4-X)
+- [Mnzil vehicle page 555](https://mnzil.app/vehicles/555)
+- [Mnzil vehicle page 786](https://mnzil.app/vehicles/786)
+- [Mnzil vehicle page 7-D](https://mnzil.app/vehicles/7-D)
+- [Mnzil vehicle page 8](https://mnzil.app/vehicles/8-Chinchi)
+- [Mnzil vehicle page A](https://mnzil.app/vehicles/A)
+- [Mnzil vehicle page A-1](https://mnzil.app/vehicles/A-1)
+- [Mnzil vehicle page A-18](https://mnzil.app/vehicles/A-18)
+- [Mnzil vehicle page AA1](https://mnzil.app/vehicles/AA1-Chinchi)
+- [Mnzil vehicle page AS-1](https://mnzil.app/vehicles/AS-1)
+- [Mnzil vehicle page B-1](https://mnzil.app/vehicles/B-1-Chinchi)
+- [Mnzil vehicle page B-3](https://mnzil.app/vehicles/B-3)
+- [Mnzil vehicle page B-9](https://mnzil.app/vehicles/B-9-Chinchi)
+- [Mnzil vehicle page D-13](https://mnzil.app/vehicles/D-13)
+- [Mnzil vehicle page D-22](https://mnzil.app/vehicles/D-22)
+- [Mnzil vehicle page D-3](https://mnzil.app/vehicles/D-3-Chinchi)
+- [Mnzil vehicle page Double Jhanda](https://mnzil.app/vehicles/Double-Jhanda-)
+- [Mnzil vehicle page F-12](https://mnzil.app/vehicles/F-12)
+- [Mnzil vehicle page FM](https://mnzil.app/vehicles/FM)
+- [Mnzil vehicle page FS-1](https://mnzil.app/vehicles/FS-1)
+- [Mnzil vehicle page G-2](https://mnzil.app/vehicles/G-2)
+- [Mnzil vehicle page G-25](https://mnzil.app/vehicles/G-25)
+- [Mnzil vehicle page G-7 Chinchi](https://mnzil.app/vehicles/g7-chinchi)
+- [Mnzil vehicle page GM](https://mnzil.app/vehicles/GM-Chinchi)
+- [Mnzil vehicle page J-1](https://mnzil.app/vehicles/J-1)
+- [Mnzil vehicle page JF17](https://mnzil.app/vehicles/JF17-Chinchi)
+- [Mnzil vehicle page K-18](https://mnzil.app/vehicles/K-18)
+- [Mnzil vehicle page K-4](https://mnzil.app/vehicles/K-4-Chinchi)
+- [Mnzil vehicle page K-5](https://mnzil.app/vehicles/K-5)
+- [Mnzil vehicle page K6](https://mnzil.app/vehicles/K6-Chinchi)
+- [Mnzil vehicle page K-86](https://mnzil.app/vehicles/K-86)
+- [Mnzil vehicle page Karachi King](https://mnzil.app/vehicles/Karachi-King-Chinchi)
+- [Mnzil vehicle page M-1](https://mnzil.app/vehicles/M-1)
+- [Mnzil vehicle page M-10](https://mnzil.app/vehicles/M-10)
+- [Mnzil vehicle page M-22](https://mnzil.app/vehicles/M-22)
+- [Mnzil vehicle page M-5](https://mnzil.app/vehicles/M-5)
+- [Mnzil vehicle page M-55](https://mnzil.app/vehicles/M-55)
+- [Mnzil vehicle page M-7](https://mnzil.app/vehicles/M-7)
+- [Mnzil vehicle page M-9](https://mnzil.app/vehicles/M-9)
+- [Mnzil vehicle page MK 081](https://mnzil.app/vehicles/MK-081)
+- [Mnzil vehicle page N-1](https://mnzil.app/vehicles/N-1)
+- [Mnzil vehicle page N-1 Baldia](https://mnzil.app/vehicles/N-1-Baldia)
+- [Mnzil vehicle page N-55](https://mnzil.app/vehicles/N-55)
+- [Mnzil vehicle page N-91](https://mnzil.app/vehicles/N-91)
+- [Mnzil vehicle page Naseeb](https://mnzil.app/vehicles/Naseeb-Chinchi)
+- [Mnzil vehicle page ND-1](https://mnzil.app/vehicles/ND-1-Chinchi)
+- [Mnzil vehicle page P-1](https://mnzil.app/vehicles/P-1)
+- [Mnzil vehicle page Razaq](https://mnzil.app/vehicles/Razaq-Chinchi)
+- [Mnzil vehicle page R-S](https://mnzil.app/vehicles/R-S)
+- [Mnzil vehicle page S-2](https://mnzil.app/vehicles/S-2)
+- [Mnzil vehicle page S-7](https://mnzil.app/vehicles/S-7)
+- [Mnzil vehicle page S-K](https://mnzil.app/vehicles/S-K-Chinchi)
+- [Mnzil vehicle page Sultan](https://mnzil.app/vehicles/Sultan-Chinchi)
+- [Mnzil vehicle page T-10](https://mnzil.app/vehicles/T-10)
+- [Mnzil vehicle page T-11](https://mnzil.app/vehicles/T-11)
+- [Mnzil vehicle page T-99](https://mnzil.app/vehicles/T-99-Chinchi)
+- [Mnzil vehicle page U-5](https://mnzil.app/vehicles/U-5)
+- [Mnzil vehicle page V-1](https://mnzil.app/vehicles/V-1)
+- [Mnzil vehicle page W-11 Chinchi](https://mnzil.app/vehicles/W-11-Chinchi)
+- [Mnzil vehicle page W-86](https://mnzil.app/vehicles/W-86)
+- [Mnzil vehicle page X-2](https://mnzil.app/vehicles/X-2)
+- [Mnzil vehicle page Z](https://mnzil.app/vehicles/Z)
+- [Mnzil vehicle page Z-4](https://mnzil.app/vehicles/Z-4)
+
 ## Karachi Circular Railway (karachi)
 
 - [Karachi Circular Railway - Wikipedia](https://en.wikipedia.org/wiki/Karachi_Circular_Railway) · Wikipedia
@@ -265,6 +336,12 @@ Generated 2026-09-20 from `data/systems`. Facts (route numbers, stop names, fare
 - [RastaYaar: Karachi bus route finder, src/data/routes.ts](https://github.com/itsdeewankumar-tech/rastayaar) · itsdeewankumar-tech (GitHub) · 2026-09-07
 - [Intra-city provisional fare list for buses, minibuses and coaches](https://mwb.sindh.gov.pk/storage/Transport/intracity.jpeg) · Regional Transport Authority Karachi · 2026-04-04 · official
 - [Habib University Karachi bus network (CC-BY-4.0): 51-C](https://doi.org/10.5281/zenodo.13951512)
+- [musafir: data/mnzil_scrapedata.json](https://github.com/naumanaarif/musafir)
+- [Mnzil vehicle page 52](https://mnzil.app/vehicles/52)
+- [Mnzil vehicle page Al Azad](https://mnzil.app/vehicles/Al-Azad)
+- [Mnzil vehicle page Al Khair](https://mnzil.app/vehicles/Al-Khair-)
+- [Mnzil vehicle page N](https://mnzil.app/vehicles/N)
+- [Mnzil vehicle page Super Muslim Coach](https://mnzil.app/vehicles/super-muslim-coach)
 
 ## Peoples Bus Service (karachi)
 
@@ -387,6 +464,7 @@ Generated 2026-09-20 from `data/systems`. Facts (route numbers, stop names, fare
 - [Safar - Speedo RT-25](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-259)
 - [Safar - Speedo RT-27](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-270)
 - [Safar - Speedo RT-28](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-272)
+- [SpeedoRoutes: details.html](https://github.com/Fahad741/SpeedoRoutes/blob/main/details.html)
 
 ## Planned feeder network (PMA IPTN) (lahore)
 
@@ -678,6 +756,7 @@ Generated 2026-09-20 from `data/systems`. Facts (route numbers, stop names, fare
 - [Safar - Islamabad/Rawalpindi transit lines](https://www.safar.fyi/map) · Safar
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/rwp%3A100)
 - [safar.fyi: Saddar Stop to Bhatta Chowk](https://www.safar.fyi/islamabad/transit-lines/rwp%3A172)
+- [Rahnuma project (GitHub)](https://github.com/mabdullahamjad/Rahnuma)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/rwp%3A92)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/rwp%3A93)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/rwp%3A94)

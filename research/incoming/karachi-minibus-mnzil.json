@@ -1,0 +1,451 @@
+{
+  "assignment": "karachi-minibus-mnzil",
+  "researched_on": "2026-09-21",
+  "systems": [
+    {
+      "id": "karachi-minibus",
+      "city": "karachi",
+      "name": "Private minibuses and coaches",
+      "name_ur": "نجی منی بسیں اور کوچز",
+      "operator": "Private operators (route list scraped from mnzil.app, shared in the musafir project)",
+      "mode": "bus",
+      "website": null,
+      "helpline": null,
+      "payment": "Cash to the conductor",
+      "fare_rules": {
+        "type": "distance_slab",
+        "currency": "PKR",
+        "slabs": [
+          {
+            "up_to_km": 10,
+            "fare": 40
+          },
+          {
+            "up_to_km": 30,
+            "fare": 70
+          },
+          {
+            "up_to_km": null,
+            "fare": 110
+          }
+        ],
+        "concessions": "Official provisional fares, notified 4 April 2026: large bus Rs 40 up to 10 km, Rs 70 up to 30 km, Rs 110 above that. Minibus and coach: Rs 50, Rs 80 and Rs 120 for the same distances. The notice says fares remain as they were before 27 February 2026. Route lists for private services are not published officially; help add them.",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intracity.jpeg"
+      },
+      "hours": null,
+      "sources": [
+        {
+          "title": "musafir: data/mnzil_scrapedata.json (scraped from mnzil.app)",
+          "url": "https://github.com/naumanaarif/musafir",
+          "publisher": "naumanaarif (GitHub)",
+          "date": "2026-05-17",
+          "official": false
+        },
+        {
+          "title": "Mnzil Karachi route finder",
+          "url": "https://mnzil.app/",
+          "publisher": "Cheeltech (mnzil.app)",
+          "date": null,
+          "official": false
+        }
+      ],
+      "routes": [
+        {
+          "id": "52",
+          "name": "Malir Halt - Liaquat national Hospital",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "medium",
+          "stops": [
+            {
+              "name": "Malir Halt",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Liaquat national Hospital",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "musafir: data/mnzil_scrapedata.json",
+              "url": "https://github.com/naumanaarif/musafir"
+            },
+            {
+              "title": "Mnzil vehicle page 52",
+              "url": "https://mnzil.app/vehicles/52"
+            }
+          ],
+          "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (2 stops) as scraped. No coordinates in the source."
+        },
+        {
+          "id": "Al Azad",
+          "name": "Karachi Marriott Hotel - Safoora Chowrangi",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "medium",
+          "stops": [
+            {
+              "name": "Karachi Marriott Hotel",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Safoora Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "musafir: data/mnzil_scrapedata.json",
+              "url": "https://github.com/naumanaarif/musafir"
+            },
+            {
+              "title": "Mnzil vehicle page Al Azad",
+              "url": "https://mnzil.app/vehicles/Al-Azad"
+            }
+          ],
+          "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (2 stops) as scraped. No coordinates in the source."
+        },
+        {
+          "id": "Al Khair",
+          "name": "Musharraf Colony - Keamari - Lee Market",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "medium",
+          "stops": [
+            {
+              "name": "Musharraf Colony - Keamari",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Naval Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mach Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shershah",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shershah Kabari Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Pankha Hotel - Shershah",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Miran Nakka Lyari",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lee Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "musafir: data/mnzil_scrapedata.json",
+              "url": "https://github.com/naumanaarif/musafir"
+            },
+            {
+              "title": "Mnzil vehicle page Al Khair",
+              "url": "https://mnzil.app/vehicles/Al-Khair-"
+            }
+          ],
+          "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (8 stops) as scraped. No coordinates in the source."
+        },
+        {
+          "id": "N",
+          "name": "Karimabad - Meena Bazaar - Shireen Jinnah Colony",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "stops": [
+            {
+              "name": "Karimabad - Meena Bazaar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shireen Jinnah Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "musafir: data/mnzil_scrapedata.json",
+              "url": "https://github.com/naumanaarif/musafir"
+            },
+            {
+              "title": "Mnzil vehicle page N",
+              "url": "https://mnzil.app/vehicles/N"
+            }
+          ],
+          "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Stops = the two terminals only. The scrape says 5 stops but the stop list is empty."
+        },
+        {
+          "id": "Super Muslim Coach",
+          "name": "Port Qasim Mor - Shireen Jinnah Colony",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "medium",
+          "stops": [
+            {
+              "name": "Port Qasim Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bhains Colony Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Manzil Pump",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Qaddafi Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Yunus Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dawood Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mansehra Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bilal Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Godam Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Qayyumabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Akhtar Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khayaban-e-Ittehad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khayaban-e-Shahbaz",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Badar Commercial 26 Street",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Abdullah Shah Ghazi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Clifton",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shireen Jinnah Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "musafir: data/mnzil_scrapedata.json",
+              "url": "https://github.com/naumanaarif/musafir"
+            },
+            {
+              "title": "Mnzil vehicle page Super Muslim Coach",
+              "url": "https://mnzil.app/vehicles/super-muslim-coach"
+            }
+          ],
+          "notes": "Source: route list scraped from mnzil.app (Cheeltech) and shared in the naumanaarif/musafir GitHub repo. Not an official list; no licence stated. Full ordered stop list (17 stops) as scraped. No coordinates in the source. Not the same as our 'Muslim' (Steel Town - Shireen Jinnah Colony); different termini."
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    "Only bus routes whose number/name is not in karachi-minibus.json or karachi-minibus-2010.json are included. Skipped as already held: 11-C, 16, 20, 4-E (no data), 4-H, 4-L, 4-Q, 51, 51A, 55, 7-C, 7-Star, 9-C, A-25, A-3, Abdullah, Bilal, D-1, D-11, D-17, D-3, D-7, Daata, F-11, G-11, G-13, G-17, G-19, G-27, G-3, G-7, Gulistan, Ilyas, Imran, Khan, Marwat, MashaAllah, Mashriq, Masood, Muslim, N-4, N-5, New Afridi, P-3, S-2 Bus, Shiraz, SL, Super Hassan Zai, W-11, W-18, W-22, W-25, W-55, X-10, X-23, X-8, Z-2.",
+    "Spelling variants treated as the same route: MashaAllah = MashAllah, Shiraz = Sheraz, Super Hassan Zai = Super Hasanzai, Daata = Data Coach, Imran = Imran Coach, 7-Star = 7 Star, 51A = 51-A, S-2 Bus = S-2.",
+    "Several skipped routes have different termini in mnzil than in our files (e.g. 11-C, 51, D-1, G-19, Abdullah, Mashriq). Worth reviewing whether those routes changed.",
+    "Bus 4-E has no data in the scrape and was left out. Peoples Bus (15) and BRT (2) entries were skipped as instructed."
+  ]
+}

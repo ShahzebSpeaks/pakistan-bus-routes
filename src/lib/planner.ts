@@ -125,6 +125,8 @@ export class Planner {
   private routeUsable(r: Route) {
     if (!this.opts.includeNonOperational && r.status !== 'operational' && r.status !== 'unverified') return false;
     if (r.women_only && !this.opts.womenOnlyAllowed) return false;
+    // Only the two terminals of an unconfirmed route are known: we cannot say where it runs in between.
+    if (r.stops.length === 2 && r.stops_confidence === 'low' && r.status !== 'operational') return false;
     return r.stops.length >= 2;
   }
 

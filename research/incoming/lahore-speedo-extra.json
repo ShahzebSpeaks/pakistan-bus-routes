@@ -1,0 +1,1273 @@
+{
+  "assignment": "lahore-speedo-extra",
+  "researched_on": "2026-09-21",
+  "systems": [
+    {
+      "id": "lahore-feeder",
+      "city": "lahore",
+      "name": "Lahore Feeder Routes (Speedo)",
+      "name_ur": "سپیڈو فیڈر بس",
+      "operator": "Punjab Masstransit Authority (buses operated by Daewoo under PMA contract)",
+      "mode": "feeder",
+      "website": "https://pma.punjab.gov.pk/lahore-feeder-routes-phase1",
+      "helpline": "042-111-222-627",
+      "payment": "PMA card / cash",
+      "fare_rules": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 25,
+        "slabs": [],
+        "concessions": "Rs25 per Safar (Rs20 + Rs5 raise approved early 2024). Nov-2025 proposal of a further Rs5 raise not confirmed implemented. Free period ended 2026-06-13.",
+        "as_of": "2024-02",
+        "source_url": "https://www.safar.fyi/lahore"
+      },
+      "hours": {
+        "start": "06:00",
+        "end": "22:30",
+        "notes": "Varies by route (earliest ~05:30, latest ~23:00); see per-route hours. Phase I started 2017-03-20 with 200 buses (PMA)."
+      },
+      "sources": [
+        {
+          "title": "SpeedoRoutes: Speedo Bus routes complete details (details.html)",
+          "url": "https://github.com/Fahad741/SpeedoRoutes",
+          "publisher": "Fahad741 (GitHub)",
+          "date": "2026-05-09",
+          "official": false
+        }
+      ],
+      "routes": [
+        {
+          "id": "RT-01",
+          "name": "Railway Station - Bhatti Chowk",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 8,
+          "headway_min": 15,
+          "hours": {
+            "start": "06:00",
+            "end": "23:00"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "stops": [
+            {
+              "name": "Railway Station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ek Moriya",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nawaz Sharif Hospital",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kashmiri Gate",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lari Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Azadi Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Texali Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bhatti Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "SpeedoRoutes: details.html",
+              "url": "https://github.com/Fahad741/SpeedoRoutes/blob/main/details.html"
+            }
+          ],
+          "notes": "Source: Fahad741/SpeedoRoutes details.html (student-style project page). Not an official PMA list; no licence or source stated. Route number is the page's own 'Route #01'; for the routes we already hold, the page's numbering disagrees with PMA's for most of them, so this id may not be PMA's. Page gives: Standard bus, every 15-20 minutes, approx 8 km, '8 stops' (list has 8). Timings look templated (all Standard 15-20 min, all Mini 20-25 min). Several stop sequences on this page are geographically implausible; stops_confidence low."
+        },
+        {
+          "id": "RT-02",
+          "name": "Samanabad Morr - Bhatti Chowk",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 10,
+          "headway_min": 15,
+          "hours": {
+            "start": "06:15",
+            "end": "22:45"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "stops": [
+            {
+              "name": "Samanabad Morr",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ganda Nala",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shehnai Palace",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Moon Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Park Morr",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "WASA disposal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Double Sarkan",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khawaja Fareed Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sanda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chohan Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Taj Company",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Corporation Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "UVAS",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Katchery",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bhatti Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "SpeedoRoutes: details.html",
+              "url": "https://github.com/Fahad741/SpeedoRoutes/blob/main/details.html"
+            }
+          ],
+          "notes": "Source: Fahad741/SpeedoRoutes details.html (student-style project page). Not an official PMA list; no licence or source stated. Route number is the page's own 'Route #02'; for the routes we already hold, the page's numbering disagrees with PMA's for most of them, so this id may not be PMA's. Page gives: Standard bus, every 15-20 minutes, approx 10 km, '14 stops' (list has 15). Timings look templated (all Standard 15-20 min, all Mini 20-25 min). Several stop sequences on this page are geographically implausible; stops_confidence low."
+        },
+        {
+          "id": "RT-06",
+          "name": "Babu Sabu - Raj Garh Chowk",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 9,
+          "headway_min": 20,
+          "hours": {
+            "start": "06:00",
+            "end": "22:45"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "stops": [
+            {
+              "name": "Babu Sabu",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bilal Daewoo",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Niazi Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shezan Factory",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "City Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chowk Yateem Khana",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sodiwal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bhala Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chappar Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Samabad Morr",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Govt. Dispensary",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chauburji",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Riwaz Garden",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "M.A.O College",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Firdous Cinema",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Raj Garh Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "SpeedoRoutes: details.html",
+              "url": "https://github.com/Fahad741/SpeedoRoutes/blob/main/details.html"
+            }
+          ],
+          "notes": "Source: Fahad741/SpeedoRoutes details.html (student-style project page). Not an official PMA list; no licence or source stated. Route number is the page's own 'Route #06'; for the routes we already hold, the page's numbering disagrees with PMA's for most of them, so this id may not be PMA's. Page gives: Mini bus, every 20-25 minutes, approx 9 km, '16 stops' (list has 16). Timings look templated (all Standard 15-20 min, all Mini 20-25 min). Several stop sequences on this page are geographically implausible; stops_confidence low."
+        },
+        {
+          "id": "RT-22",
+          "name": "Depot Chowk - Thokar Niaz Baig",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 20,
+          "headway_min": 15,
+          "hours": {
+            "start": "06:00",
+            "end": "22:30"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "stops": [
+            {
+              "name": "Depot Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mian Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bagrian",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Minhaj University",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Hamdard Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Somi Center",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nursery",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rehmat Eye Hospital",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Treat Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Peco Morr",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kot Lakhpat",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Railway Station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Phatak Mandi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Model Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Johar Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Thokar Niaz Baig",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "SpeedoRoutes: details.html",
+              "url": "https://github.com/Fahad741/SpeedoRoutes/blob/main/details.html"
+            }
+          ],
+          "notes": "Source: Fahad741/SpeedoRoutes details.html (student-style project page). Not an official PMA list; no licence or source stated. Route number is the page's own 'Route #22'; for the routes we already hold, the page's numbering disagrees with PMA's for most of them, so this id may not be PMA's. Page gives: Standard bus, every 15-20 minutes, approx 20 km, '18 stops' (list has 16). Timings look templated (all Standard 15-20 min, all Mini 20-25 min). Several stop sequences on this page are geographically implausible; stops_confidence low. Same stops as SpeedoRoutes Route #21."
+        },
+        {
+          "id": "RT-26",
+          "name": "R.A Bazar - Daroghawala",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 12,
+          "headway_min": 15,
+          "hours": {
+            "start": "06:00",
+            "end": "22:30"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "stops": [
+            {
+              "name": "R.A Bazar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nadeem Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "T-Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Defence Morr",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Korray Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shareef Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "College Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Walton",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bab e Pakistan",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Workshop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Packages Mall",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Daroghawala",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "SpeedoRoutes: details.html",
+              "url": "https://github.com/Fahad741/SpeedoRoutes/blob/main/details.html"
+            }
+          ],
+          "notes": "Source: Fahad741/SpeedoRoutes details.html (student-style project page). Not an official PMA list; no licence or source stated. Route number is the page's own 'Route #26'; for the routes we already hold, the page's numbering disagrees with PMA's for most of them, so this id may not be PMA's. Page gives: Standard bus, every 15-20 minutes, approx 12 km, '13 stops' (list has 12). Timings look templated (all Standard 15-20 min, all Mini 20-25 min). Several stop sequences on this page are geographically implausible; stops_confidence low."
+        },
+        {
+          "id": "RT-29",
+          "name": "Niazi Interchange - Salamat Pura",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 10,
+          "headway_min": 15,
+          "hours": {
+            "start": "06:00",
+            "end": "22:45"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "stops": [
+            {
+              "name": "Niazi Interchange",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Niazi Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "METRO",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Timber Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Azadi Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lari Adda Gol Chakkar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lari Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kashmiri Gate",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Salamat Pura",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "SpeedoRoutes: details.html",
+              "url": "https://github.com/Fahad741/SpeedoRoutes/blob/main/details.html"
+            }
+          ],
+          "notes": "Source: Fahad741/SpeedoRoutes details.html (student-style project page). Not an official PMA list; no licence or source stated. Route number is the page's own 'Route #29'; for the routes we already hold, the page's numbering disagrees with PMA's for most of them, so this id may not be PMA's. Page gives: Standard bus, every 15-20 minutes, approx 10 km, '11 stops' (list has 9). Timings look templated (all Standard 15-20 min, all Mini 20-25 min). Several stop sequences on this page are geographically implausible; stops_confidence low."
+        },
+        {
+          "id": "RT-30",
+          "name": "Daroghawala - Airport",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 18,
+          "headway_min": 15,
+          "hours": {
+            "start": "05:30",
+            "end": "23:00"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "stops": [
+            {
+              "name": "Daroghawala",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bank Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Naqsha Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Karmabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Aab Para",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Canal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rehman Pura",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ichra",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shama",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "LOS",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Airport",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "SpeedoRoutes: details.html",
+              "url": "https://github.com/Fahad741/SpeedoRoutes/blob/main/details.html"
+            }
+          ],
+          "notes": "Source: Fahad741/SpeedoRoutes details.html (student-style project page). Not an official PMA list; no licence or source stated. Route number is the page's own 'Route #30'; for the routes we already hold, the page's numbering disagrees with PMA's for most of them, so this id may not be PMA's. Page gives: Standard bus, every 15-20 minutes, approx 18 km, '12 stops' (list has 11). Timings look templated (all Standard 15-20 min, all Mini 20-25 min). Several stop sequences on this page are geographically implausible; stops_confidence low."
+        },
+        {
+          "id": "RT-31",
+          "name": "Daroghawala - Lari Adda",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 8,
+          "headway_min": 20,
+          "hours": {
+            "start": "06:15",
+            "end": "22:30"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "stops": [
+            {
+              "name": "Daroghawala",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bank Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Naqsha Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Karmabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Aab Para",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Canal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lari Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "SpeedoRoutes: details.html",
+              "url": "https://github.com/Fahad741/SpeedoRoutes/blob/main/details.html"
+            }
+          ],
+          "notes": "Source: Fahad741/SpeedoRoutes details.html (student-style project page). Not an official PMA list; no licence or source stated. Route number is the page's own 'Route #31'; for the routes we already hold, the page's numbering disagrees with PMA's for most of them, so this id may not be PMA's. Page gives: Mini bus, every 20-25 minutes, approx 8 km, '10 stops' (list has 7). Timings look templated (all Standard 15-20 min, all Mini 20-25 min). Several stop sequences on this page are geographically implausible; stops_confidence low."
+        },
+        {
+          "id": "RT-32",
+          "name": "Shimla Pahari - Ek Moriya",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 4,
+          "headway_min": 20,
+          "hours": {
+            "start": "06:00",
+            "end": "22:15"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "stops": [
+            {
+              "name": "Shimla Pahari",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kashmiri Gate",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lari Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Azadi Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ek Moriya",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "SpeedoRoutes: details.html",
+              "url": "https://github.com/Fahad741/SpeedoRoutes/blob/main/details.html"
+            }
+          ],
+          "notes": "Source: Fahad741/SpeedoRoutes details.html (student-style project page). Not an official PMA list; no licence or source stated. Route number is the page's own 'Route #32'; for the routes we already hold, the page's numbering disagrees with PMA's for most of them, so this id may not be PMA's. Page gives: Mini bus, every 20-25 minutes, approx 4 km, '6 stops' (list has 5). Timings look templated (all Standard 15-20 min, all Mini 20-25 min). Several stop sequences on this page are geographically implausible; stops_confidence low."
+        },
+        {
+          "id": "RT-33",
+          "name": "Cooper Store - Mughalpura",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 7,
+          "headway_min": 20,
+          "hours": {
+            "start": "06:30",
+            "end": "22:00"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "stops": [
+            {
+              "name": "Cooper Store",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shadbagh",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Badami Bagh",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sabzi Mandi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Usman Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lohay Wali Pulley",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Madina Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rajput Park",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mughalpura",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "SpeedoRoutes: details.html",
+              "url": "https://github.com/Fahad741/SpeedoRoutes/blob/main/details.html"
+            }
+          ],
+          "notes": "Source: Fahad741/SpeedoRoutes details.html (student-style project page). Not an official PMA list; no licence or source stated. Route number is the page's own 'Route #33'; for the routes we already hold, the page's numbering disagrees with PMA's for most of them, so this id may not be PMA's. Page gives: Mini bus, every 20-25 minutes, approx 7 km, '9 stops' (list has 9). Timings look templated (all Standard 15-20 min, all Mini 20-25 min). Several stop sequences on this page are geographically implausible; stops_confidence low."
+        },
+        {
+          "id": "RT-34",
+          "name": "Singhpura - Mughalpura",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 6,
+          "headway_min": 20,
+          "hours": {
+            "start": "06:15",
+            "end": "22:45"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "stops": [
+            {
+              "name": "Singhpura",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shadbagh",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Badami Bagh",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sabzi Mandi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Usman Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lohay Wali Pulley",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Madina Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mughalpura",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "SpeedoRoutes: details.html",
+              "url": "https://github.com/Fahad741/SpeedoRoutes/blob/main/details.html"
+            }
+          ],
+          "notes": "Source: Fahad741/SpeedoRoutes details.html (student-style project page). Not an official PMA list; no licence or source stated. Route number is the page's own 'Route #34'; for the routes we already hold, the page's numbering disagrees with PMA's for most of them, so this id may not be PMA's. Page gives: Mini bus, every 20-25 minutes, approx 6 km, '8 stops' (list has 8). Timings look templated (all Standard 15-20 min, all Mini 20-25 min). Several stop sequences on this page are geographically implausible; stops_confidence low."
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    "SpeedoRoutes numbering does not follow PMA's: of our 23 held routes, only RT-04, RT-05 and RT-11 have the same terminals; 9 differ partly and 11 are entirely different (see termini_match_ours in lahore-speedo-timings.json). Its route list matches a 2019 terminal-pair list (daniyalaslam63/lahore-bus-routes), so it may reflect older routes.",
+    "RT-22 is a copy of the page's Route #21, and Route #16 copies Route #01.",
+    "Stop sequences such as #23, #28 and #30 are geographically implausible, and 'Total Stops' often disagrees with the list length.",
+    "No coordinates in the source."
+  ]
+}

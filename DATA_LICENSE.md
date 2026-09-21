@@ -32,7 +32,15 @@ Some routes and stop positions come from unofficial compilations. They are credi
 - **RastaYaar** (github.com/itsdeewankumar-tech/rastayaar): current Karachi minibus and coach stop lists (system `karachi-minibus`).
 - **Urban Resource Centre, Karachi**: the January 2010 list of minibus and coach routes (system `karachi-minibus-2010`, shown as old routes only).
 - **Punjab Transport Company**: Lahore wagon fare tables (system `lahore-ptc-lov`).
+- **mnzil.app (Cheeltech)**, via the scraped copy in github.com/naumanaarif/musafir: Karachi Chinchi/Qingqi routes (system `karachi-chinchi`) and five minibus routes.
+- **SpeedoRoutes** (github.com/Fahad741/SpeedoRoutes): eleven extra Lahore Speedo routes, low confidence because their numbering differs from PMA's.
+- **Rahnuma** (github.com/mabdullahamjad/Rahnuma): alternative R-series names for four Rawalpindi electric bus routes.
 
-None of these publish a data licence. If a rights holder objects, their data will be removed. [docs/OUTREACH.md](docs/OUTREACH.md) has the messages for asking each of them for permission.
+None of these publish a data licence. If a rights holder objects, their data will be removed.
+
+These two sources do have open licences and are credited as they require:
+
+- **Karachi bus network dataset**, Habib University, DOI 10.5281/zenodo.13951512, **CC-BY-4.0**: stop positions and 17 Karachi routes. Its authors placed the points on a web map by hand.
+- **Karachi Smart Transit System**, FAST semester project, **MIT licence**: stop positions for Pink Bus and EV routes. [docs/OUTREACH.md](docs/OUTREACH.md) has the messages for asking each of them for permission.
 
 This project is independent and is not endorsed by any transit authority. The data is provided as is, without warranty. Always confirm with the operator before travelling.
