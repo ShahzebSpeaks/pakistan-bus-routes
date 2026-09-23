@@ -9840,6 +9840,22 @@
           "is_station": false
         },
         {
+          "name": "Disco More - North Karachi",
+          "name_ur": "",
+          "lat": 24.971588,
+          "lon": 67.053133,
+          "coord_source": "auto:nominatim:node/4698964290",
+          "is_station": false
+        },
+        {
+          "name": "Baradari Bus Stop",
+          "name_ur": "",
+          "lat": 24.980007,
+          "lon": 67.051848,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
           "name": "Khawaja Ajmer Nagri",
           "name_ur": "",
           "lat": 24.988426,
@@ -9853,9 +9869,29 @@
         {
           "title": "Qingqi rickshaws allowed to operate at six routes in Karachi (ARY News, 2018-10-23)",
           "url": "https://arynews.tv/qingqi-chief-secretary-karachi-allowed"
+        },
+        {
+          "title": "Mnzil route used to infer the stops",
+          "url": "https://mnzil.app/vehicles/A-18"
+        },
+        {
+          "title": "Mnzil route used to infer the stops",
+          "url": "https://mnzil.app/vehicles/K-18"
+        },
+        {
+          "title": "Mnzil route used to infer the stops",
+          "url": "https://mnzil.app/vehicles/g7-chinchi"
+        },
+        {
+          "title": "Mnzil route used to infer the stops",
+          "url": "https://mnzil.app/vehicles/ND-1-Chinchi"
+        },
+        {
+          "title": "Mnzil route used to infer the stops",
+          "url": "https://mnzil.app/vehicles/V-1"
         }
       ],
-      "notes": "Terminals only. One of the Qingqi routes the Sindh transport secretary named as permitted (Chief Secretary meeting, ARY News 2018-10-23; the article says six routes but lists five). Official at the time, but 2018. Unnumbered; the id is ours, from the terminals. Check against the numbered Mnzil routes before import: Mnzil S-7 also starts at Khawaja Ajmer Nagri."
+      "notes": "Terminals only. One of the Qingqi routes the Sindh transport secretary named as permitted (Chief Secretary meeting, ARY News 2018-10-23; the article says six routes but lists five). Official at the time, but 2018. Unnumbered; the id is ours, from the terminals. Check against the numbered Mnzil routes before import: Mnzil S-7 also starts at Khawaja Ajmer Nagri. Stops inferred, not published for this route: Corridor segment, not a published stop list for this route. Five Mnzil Chinchi routes (A-18, K-18, G-7 Chinchi, ND-1, V-1) all run UP Mor > Disco More - North Karachi > Baradari Bus Stop > Khawaja Ajmer Nagri in the same order."
     },
     {
       "id": "Nagan Chowrangi - Iqra University North Campus",
@@ -10000,7 +10036,31 @@
           "is_station": false
         },
         {
-          "name": "Godhra Mor",
+          "name": "UP Mor",
+          "name_ur": "",
+          "lat": 24.973482,
+          "lon": 67.066738,
+          "coord_source": "auto:osm:node/8637079799",
+          "is_station": false
+        },
+        {
+          "name": "UP Sarafa Bazar",
+          "name_ur": "",
+          "lat": 24.972099,
+          "lon": 67.067407,
+          "coord_source": "auto:photon:N/5132720029",
+          "is_station": false
+        },
+        {
+          "name": "Nala Stop - New Karachi",
+          "name_ur": "",
+          "lat": 24.972536,
+          "lon": 67.066952,
+          "coord_source": "auto:osm:node/6773443094",
+          "is_station": false
+        },
+        {
+          "name": "Godhra",
           "name_ur": "",
           "lat": 24.967641,
           "lon": 67.082362,
@@ -10013,9 +10073,17 @@
         {
           "title": "Qingqi rickshaws allowed to operate at six routes in Karachi (ARY News, 2018-10-23)",
           "url": "https://arynews.tv/qingqi-chief-secretary-karachi-allowed"
+        },
+        {
+          "title": "Mnzil route used to infer the stops",
+          "url": "https://mnzil.app/vehicles/555"
+        },
+        {
+          "title": "Mnzil route used to infer the stops",
+          "url": "https://mnzil.app/vehicles/W-25"
         }
       ],
-      "notes": "Terminals only. One of the Qingqi routes the Sindh transport secretary named as permitted (Chief Secretary meeting, ARY News 2018-10-23; the article says six routes but lists five). Official at the time, but 2018. Unnumbered; the id is ours, from the terminals. Check against the numbered Mnzil routes before import: no Mnzil match found."
+      "notes": "Terminals only. One of the Qingqi routes the Sindh transport secretary named as permitted (Chief Secretary meeting, ARY News 2018-10-23; the article says six routes but lists five). Official at the time, but 2018. Unnumbered; the id is ours, from the terminals. Check against the numbered Mnzil routes before import: no Mnzil match found. Stops inferred, not published for this route: Corridor segment, not a published stop list for this route. Mnzil Chinchi 555 has Nagan Chowrangi > UP Mor > UP Sarafa Bazar > Nala Stop - New Karachi > Godhra; bus W-25 has Nagan Chowrangi > UP Mor > Godhra (same order)."
     },
     {
       "id": "Lines Area - Saddar",
@@ -10040,6 +10108,14 @@
           "is_station": false
         },
         {
+          "name": "Empress Market - Saddar",
+          "name_ur": "",
+          "lat": 24.859029,
+          "lon": 67.03117,
+          "coord_source": "auto:osm:node/6681673613",
+          "is_station": false
+        },
+        {
           "name": "Saddar",
           "name_ur": "",
           "lat": 24.860571,
@@ -10053,9 +10129,13 @@
         {
           "title": "Going places, Zafar Ahmed Khan (The News on Sunday, 2021-12-26)",
           "url": "https://www.thenews.com.pk/tns/detail/919747-going-places"
+        },
+        {
+          "title": "Mnzil route used to infer the stops",
+          "url": "https://mnzil.app/vehicles/2-J"
         }
       ],
-      "notes": "Terminals only, from a Qingqi news feature (The News on Sunday, 2021-12-26). Unnumbered; the id is ours. A six-seat rickshaw driver names this route (it is older; fare quoted from when he started)."
+      "notes": "Terminals only, from a Qingqi news feature (The News on Sunday, 2021-12-26). Unnumbered; the id is ours. A six-seat rickshaw driver names this route (it is older; fare quoted from when he started). Stops inferred, not published for this route: Corridor segment, not a published stop list for this route. Mnzil Chinchi 2-J runs Saddar > Empress Market - Saddar > Lines Area (reversed here)."
     },
     {
       "id": "Liaquatabad No. 10 - Khuda Ki Basti",
@@ -10072,7 +10152,7 @@
       "women_only": false,
       "stops": [
         {
-          "name": "Liaquatabad No. 10",
+          "name": "Liaquatabad No.10 - Lalukhet",
           "name_ur": "",
           "lat": null,
           "lon": null,
@@ -10080,7 +10160,151 @@
           "is_station": false
         },
         {
-          "name": "Khuda Ki Basti",
+          "name": "Karimabad - Meena Bazaar",
+          "name_ur": "",
+          "lat": 24.918445,
+          "lon": 67.054126,
+          "coord_source": "auto:osm:node/12145481411",
+          "is_station": false
+        },
+        {
+          "name": "Ayesha Manzil",
+          "name_ur": "",
+          "lat": 24.927679,
+          "lon": 67.064016,
+          "coord_source": "auto:osm:node/4166787368",
+          "is_station": false
+        },
+        {
+          "name": "Water Pump",
+          "name_ur": "",
+          "lat": 24.936895,
+          "lon": 67.07571,
+          "coord_source": "auto:osm:node/5112904033",
+          "is_station": false
+        },
+        {
+          "name": "Gulberg Chowrangi",
+          "name_ur": "",
+          "lat": 24.942086,
+          "lon": 67.071037,
+          "coord_source": "auto:osm:node/4166787210",
+          "is_station": false
+        },
+        {
+          "name": "Peoples Chowrangi",
+          "name_ur": "",
+          "lat": 24.947893,
+          "lon": 67.065678,
+          "coord_source": "auto:osm:node/290242048",
+          "is_station": false
+        },
+        {
+          "name": "DC Office Central",
+          "name_ur": "",
+          "lat": 24.953032,
+          "lon": 67.05326,
+          "coord_source": "auto:photon:N/12215817154",
+          "is_station": false
+        },
+        {
+          "name": "Sakhi Hasan Chowrangi",
+          "name_ur": "",
+          "lat": 24.954813,
+          "lon": 67.056037,
+          "coord_source": "auto:osm:node/12214232393",
+          "is_station": false
+        },
+        {
+          "name": "Erum Shopping - Shadman No 2",
+          "name_ur": "",
+          "lat": 24.960335,
+          "lon": 67.06134,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nagan Chowrangi",
+          "name_ur": "",
+          "lat": 24.965857,
+          "lon": 67.066642,
+          "coord_source": "auto:osm:node/5333549822",
+          "is_station": false
+        },
+        {
+          "name": "UP Mor",
+          "name_ur": "",
+          "lat": 24.973482,
+          "lon": 67.066738,
+          "coord_source": "auto:osm:node/8637079799",
+          "is_station": false
+        },
+        {
+          "name": "Road 4200 - Saleem Centre",
+          "name_ur": "",
+          "lat": 24.978746,
+          "lon": 67.066406,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Power House Chowrangi",
+          "name_ur": "",
+          "lat": 24.984011,
+          "lon": 67.066074,
+          "coord_source": "auto:osm:node/8637079797",
+          "is_station": false
+        },
+        {
+          "name": "2 Minute Chowrangi",
+          "name_ur": "",
+          "lat": 24.998514,
+          "lon": 67.065136,
+          "coord_source": "auto:osm:node/8637079795",
+          "is_station": false
+        },
+        {
+          "name": "Madeeha Stop",
+          "name_ur": "",
+          "lat": 25.00247,
+          "lon": 67.064785,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "4K Chowrangi",
+          "name_ur": "",
+          "lat": 25.006425,
+          "lon": 67.064435,
+          "coord_source": "auto:osm:way/488499372",
+          "is_station": false
+        },
+        {
+          "name": "KDA Flats- Surjani",
+          "name_ur": "",
+          "lat": 25.018094,
+          "lon": 67.063596,
+          "coord_source": "auto:osm:node/5112958729",
+          "is_station": false
+        },
+        {
+          "name": "Surjani Power House",
+          "name_ur": "",
+          "lat": 25.025391,
+          "lon": 67.063179,
+          "coord_source": "auto:osm:node/4807860019",
+          "is_station": false
+        },
+        {
+          "name": "Abdullah Mor - Surjani",
+          "name_ur": "",
+          "lat": 25.025906,
+          "lon": 67.071741,
+          "coord_source": "auto:photon:N/5160354705",
+          "is_station": false
+        },
+        {
+          "name": "Khuda Ki Basti - Taiser Town",
           "name_ur": "",
           "lat": 25.032615,
           "lon": 67.093743,
@@ -10093,9 +10317,21 @@
         {
           "title": "Going places, Zafar Ahmed Khan (The News on Sunday, 2021-12-26)",
           "url": "https://www.thenews.com.pk/tns/detail/919747-going-places"
+        },
+        {
+          "title": "Mnzil route used to infer the stops",
+          "url": "https://mnzil.app/vehicles/W-86"
+        },
+        {
+          "title": "Mnzil route used to infer the stops",
+          "url": "https://mnzil.app/vehicles/K-86"
+        },
+        {
+          "title": "Mnzil route used to infer the stops",
+          "url": "https://mnzil.app/vehicles/D-22"
         }
       ],
-      "notes": "Terminals only, from a Qingqi news feature (The News on Sunday, 2021-12-26). Unnumbered; the id is ours. About 35 km, Rs 70-80 per seat, according to a driver in Liaquatabad."
+      "notes": "Terminals only, from a Qingqi news feature (The News on Sunday, 2021-12-26). Unnumbered; the id is ours. About 35 km, Rs 70-80 per seat, according to a driver in Liaquatabad. Stops inferred, not published for this route: Corridor segment, not a published stop list for this route. Mnzil W-86 (Lyari Basti - Taiser Town > Teen Hatti) passes Liaquatabad No.10 and ends at Khuda Ki Basti - Taiser Town; K-86 is nearly identical; D-22 takes Nazimabad / Hyderi instead of Karimabad / Gulberg. The 2021 driver quote (about 35 km) fits this Surjani-side Khuda Ki Basti. Treat as one possible alignment."
     }
   ],
   "last_verified": "2026-09-21"

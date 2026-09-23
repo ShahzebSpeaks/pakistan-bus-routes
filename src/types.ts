@@ -99,6 +99,8 @@ export interface Route {
   stops: string[]; // stop ids, one direction
   /** cumulative km along the route for each stop */
   cum_km: number[];
+  /** Scheduled time ("HH:MM") at each stop, for timetabled services such as trains; null where unknown. */
+  stop_times?: (string | null)[];
   /** Google encoded polyline (precision 5) */
   shape: string;
   shape_source: 'osrm' | 'osm' | 'straight';

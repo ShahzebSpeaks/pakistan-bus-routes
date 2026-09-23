@@ -1,6 +1,6 @@
 # Sources
 
-Generated 2026-09-21 from `data/systems`. Facts (route numbers, stop names, fares, timings) were compiled from these public sources. Maps, images and text from them are not redistributed.
+Generated 2026-09-23 from `data/systems`. Facts (route numbers, stop names, fares, timings) were compiled from these public sources. Maps, images and text from them are not redistributed.
 
 ## Green Electric Bus Attock (attock)
 
@@ -445,6 +445,7 @@ Generated 2026-09-21 from `data/systems`. Facts (route numbers, stop names, fare
 - [Mnzil vehicle page k-1 (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/k-1)
 - [Mnzil vehicle page Salman Chohaan (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/salman-chohaan)
 - [Qingqi rickshaws allowed to operate at six routes in Karachi (ARY News, 2018-10-23)](https://arynews.tv/qingqi-chief-secretary-karachi-allowed)
+- [Mnzil route used to infer the stops](https://mnzil.app/vehicles/W-25)
 - [Going places, Zafar Ahmed Khan (The News on Sunday, 2021-12-26)](https://www.thenews.com.pk/tns/detail/919747-going-places)
 
 ## Karachi Circular Railway (karachi)

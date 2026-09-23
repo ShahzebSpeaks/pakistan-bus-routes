@@ -102,9 +102,14 @@ for (const city of cities) {
       coverage.push({ city: city.name, system: sys.name, systemId: sys.id, route: r.id, name: r.name, status: r.status, stops: r.stops.length, confidence: r.stops_confidence, counts });
       if (r.stops.length - withCoords.length) warnings.push(`${sys.id}/${r.id}: ${r.stops.length - withCoords.length} stop(s) without coordinates are left out of the map`);
       const cityStops = [];
+      // Scheduled times (trains): one "HH:MM" or null per listed stop, kept aligned with cityStops.
+      const times = Array.isArray(r.stop_times) && r.stop_times.length === r.stops.length ? r.stop_times : null;
+      const cityTimes = [];
       for (const s of withCoords) {
         const m = findOrCreateStop(s);
-        if (cityStops.at(-1) !== m) cityStops.push(m); // drop consecutive duplicates
+        if (cityStops.at(-1) === m) continue; // drop consecutive duplicates
+        cityStops.push(m);
+        cityTimes.push(times ? times[r.stops.indexOf(s)] || null : null);
       }
       const fare0 = r.fare_override || sys.fare_rules || { type: 'unknown', currency: 'PKR' };
       if (cityStops.length < 2) {
@@ -180,7 +185,7 @@ for (const city of cities) {
         status: r.status, length_km: r.length_km ?? +(cum.at(-1)).toFixed(1), headway_min: r.headway_min ?? null, hours,
         fare, women_only: Boolean(r.women_only), launched: r.launched || null, stops: cityStops.map((s) => s.id), cum_km: cum,
         shape: encodePolyline(line), shape_source: shapeSource, stops_confidence: r.stops_confidence || 'low',
-        sources: r.sources || [], notes: r.notes || '',
+        sources: r.sources || [], notes: r.notes || '', ...(times ? { stop_times: cityTimes } : {}),
       });
       for (const s of cityStops) if (!s.routes.includes(routeIndex)) s.routes.push(routeIndex);
 
@@ -200,6 +205,27 @@ for (const city of cities) {
           return h * 3600 + (m || 0) * 60;
         };
         const fmt = (sec) => `${String(Math.floor(sec / 3600)).padStart(2, '0')}:${String(Math.floor((sec % 3600) / 60)).padStart(2, '0')}:${String(Math.round(sec % 60)).padStart(2, '0')}`;
+        // A timetabled service (one train) becomes a single trip with its real times. Times after
+        // midnight continue past 24:00 as GTFS requires.
+        if (times && cityTimes[0] && cityTimes.at(-1)) {
+          const tripId = `${gRoute}:0`;
+          gtfs.trips.push({ route_id: gRoute, service_id: 'DAILY', trip_id: tripId, direction_id: 0, shape_id: tripId });
+          let day = 0;
+          let prev = -1;
+          cityStops.forEach((s, i) => {
+            let t = '';
+            if (cityTimes[i]) {
+              let sec = toSec(cityTimes[i]) + day * 86400;
+              if (sec < prev - 3600) { day++; sec += 86400; }
+              prev = sec;
+              t = fmt(sec);
+            }
+            gtfs.stop_times.push({ trip_id: tripId, arrival_time: t, departure_time: t, stop_id: `${city.id}:${s.id}`, stop_sequence: i + 1, timepoint: t ? 1 : 0 });
+          });
+          const shapeCum = cumulative(line);
+          line.forEach(([la, lo], i) => gtfs.shapes.push({ shape_id: tripId, shape_pt_lat: la.toFixed(6), shape_pt_lon: lo.toFixed(6), shape_pt_sequence: i + 1, shape_dist_traveled: (shapeCum[i] / 1000).toFixed(3) }));
+          continue;
+        }
         for (const dir of [0, 1]) {
           const tripId = `${gRoute}:${dir}`;
           const shapeId = `${gRoute}:${dir}`;

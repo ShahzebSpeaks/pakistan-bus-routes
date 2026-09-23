@@ -193,11 +193,14 @@ export default function App() {
       if (!m.has(c.province)) m.set(c.province, []);
       m.get(c.province)!.push(c);
     }
-    return [...m.entries()];
+    // The nationwide intercity network goes first, before the provinces.
+    return [...m.entries()].sort(([a], [b]) => Number(b === 'Pakistan') - Number(a === 'Pakistan'));
   }, [index]);
 
   const outsideCity = geo && city && !(geo.lat >= city.bbox[0] && geo.lat <= city.bbox[2] && geo.lon >= city.bbox[1] && geo.lon <= city.bbox[3]);
-  const cityForGeo = outsideCity ? index?.cities.find((c) => geo!.lat >= c.bbox[0] && geo!.lat <= c.bbox[2] && geo!.lon >= c.bbox[1] && geo!.lon <= c.bbox[3]) : null;
+  // The intercity box covers the whole country, so suggest it only when no city contains the location.
+  const inBox = (c: DatasetIndex['cities'][number]) => geo!.lat >= c.bbox[0] && geo!.lat <= c.bbox[2] && geo!.lon >= c.bbox[1] && geo!.lon <= c.bbox[3];
+  const cityForGeo = outsideCity ? (index?.cities.find((c) => c.id !== 'intercity' && inBox(c)) ?? index?.cities.find(inBox)) : null;
 
   let panel: React.ReactNode = <p className="hint pad">{error ? t.loadError : t.loading}</p>;
   if (cityData && index) {

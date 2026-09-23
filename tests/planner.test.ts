@@ -127,6 +127,15 @@ describe('planner', () => {
     expect(new Planner(pink, { womenOnlyAllowed: true }).plan({ lat: 24.9, lon: 67.0 }, { lat: 24.9, lon: 67.04 }).filter((r) => r.rides > 0).length).toBeGreaterThan(0);
   });
 
+  it('rides timetabled routes (trains) only in their listed direction', () => {
+    const train = { ...route('T', 'rail', A, flat), stop_times: ['07:00', '07:10', '07:20', '07:30', '07:40'] };
+    const oneWay = { ...city, routes: [train] };
+    const forward = new Planner(oneWay).plan({ lat: 24.9, lon: 67.0 }, { lat: 24.9, lon: 67.04 });
+    expect(forward.some((r) => r.rides === 1)).toBe(true);
+    const back = new Planner(oneWay).plan({ lat: 24.9, lon: 67.04 }, { lat: 24.9, lon: 67.0 });
+    expect(back.filter((r) => r.rides > 0)).toHaveLength(0);
+  });
+
   it('lets intercity trips start and end several km from a terminal', () => {
     const far = { lat: 24.9, lon: 67.07 }; // ~3 km east of A4
     expect(planner.plan({ lat: 24.9, lon: 67.0 }, far).filter((r) => r.rides > 0)).toHaveLength(0);

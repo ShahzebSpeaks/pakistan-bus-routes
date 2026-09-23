@@ -31,6 +31,12 @@ export default function PlanPanel(p: Props) {
     const s = id ? stops.get(id) : undefined;
     return s ? localName(lang, s) : '';
   };
+  /** Scheduled time at a stop of a timetabled route (trains), as " (07:30)". */
+  const at = (routeIndex: number, id?: string) => {
+    const r = data.routes[routeIndex];
+    const time = id && r.stop_times ? r.stop_times[r.stops.indexOf(id)] : null;
+    return time ? ` (${time})` : '';
+  };
   const money = (it: Itinerary) =>
     it.fare == null ? t.fareUnknown : `${it.fareIsApprox ? '~' : ''}${t.rs} ${num(lang, it.fare)}${it.fareIsPartial ? '+' : ''}`;
 
@@ -96,13 +102,14 @@ export default function PlanPanel(p: Props) {
                           </li>
                         ) : (
                           <li key={j} className="step ride" style={{ ['--route-color' as string]: data.routes[leg.routeIndex].color }}>
-                            <span className="step-icon">🚌</span>
+                            <span className="step-icon">{data.routes[leg.routeIndex].mode === 'rail' ? '🚆' : '🚌'}</span>
                             <div>
                               <button type="button" className="linklike" onClick={() => p.onRoute(leg.routeIndex)}>
                                 <RouteBadge route={data.routes[leg.routeIndex]} /> {localName(lang, data.routes[leg.routeIndex])}
                               </button>
                               <div>
                                 {t.board}: <strong>{stopName(leg.stopIds[0])}</strong>
+                                <span dir="ltr">{at(leg.routeIndex, leg.stopIds[0])}</span>
                               </div>
                               <div className="muted">
                                 {t.towards} {stopName(data.routes[leg.routeIndex].stops[leg.reverse ? 0 : data.routes[leg.routeIndex].stops.length - 1])}
@@ -120,6 +127,7 @@ export default function PlanPanel(p: Props) {
                               </details>
                               <div>
                                 {t.getOff}: <strong>{stopName(leg.stopIds[leg.stopIds.length - 1])}</strong>
+                                <span dir="ltr">{at(leg.routeIndex, leg.stopIds[leg.stopIds.length - 1])}</span>
                               </div>
                             </div>
                           </li>

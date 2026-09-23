@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Sikandrabad",
+    "name_ur": "سکندر آباد",
+    "lat": 36.2425421,
+    "lon": 74.3748436,
+    "coord_source": "osm:node/737324983",
+    "source_url": "https://www.openstreetmap.org/node/737324983",
+    "confidence": "high",
+    "note": "Sikandarabad, Nagar-II Tehsil, Nagar District, Gilgit-Baltistan, on the Karakoram Highway between Chalt and Nilt. OSM place=town node (name:en Sikandarabad). Agrees with Wikidata Q7513568 (36.24257, 74.37522; https://www.wikidata.org/wiki/Q7513568) and en.wikipedia 'Sikandarabad, Gilgit-Baltistan'. This is the village centre, not a mapped NATCO stop; the NATCO stop is presumably on the KKH through the village."
+  },
+  {
+    "name": "Marot",
+    "name_ur": "مروٹ",
+    "lat": 29.1770224,
+    "lon": 72.43446,
+    "coord_source": "osm:way/506998382",
+    "source_url": "https://www.openstreetmap.org/way/506998382",
+    "confidence": "medium",
+    "note": "Marot, Fort Abbas Tehsil, Bahawalnagar District (Cholistan edge, ~50 km SW of Fort Abbas). OSM has no place node for the town; this is the centre of the 'Marot Fort' ruins way (the town surrounds the fort). GeoNames 1170785 'Marot Fort' (alt names Marot, Marut; populated place, Bahawalnagar District) gives 29.176767, 72.434024, agreeing within 50 m (https://www.geonames.org/1170785/marot-fort.html). Conflicts: Wikidata Q15248566 gives 29.226944, 72.435833 (~5.5 km north, on the Fort Abbas-Mandi Yazman Road, which OSM places in Hasilpur Tehsil) and GeoNames 13431359 'Marot' gives 29.225927, 72.423416 in Bahawalpur District; en.wikipedia 'Marot' infobox (28.51, 71.5) is clearly wrong. Bus stand location in the town not found."
+  },
+  {
+    "name": "Jhangra",
+    "name_ur": "",
+    "lat": null,
+    "lon": null,
+    "coord_source": null,
+    "source_url": "https://tracktrainlive.com/pakistan/silk-line",
+    "confidence": "unresolved",
+    "candidate": {
+      "name": "Jangre Basti (GeoNames alt name 'Jhangra'), Bahawalpur District",
+      "lat": 29.382389,
+      "lon": 71.204316,
+      "source_url": "https://www.geonames.org/1175895/jangre-basti.html"
+    },
+    "note": "Not identified with certainty. Silk Line lists Lahore <-> Jhangra (bookme.pk/silk-line; tracktrainlive.com: Jhangra -> Lahore 20:30, PKR 2,150, the same fare as DG Khan, Jatoi and Alipur). Silk Line's own terminal lists (silkline.pk, pkbuses.com) do not include Jhangra, and no OSM place with that name exists in south Punjab (Overpass search 28.3-31.3N, 69.8-72.6E). The only south-Punjab gazetteer match is GeoNames 'Jangre Basti' (alt. Jhangra) in Bahawalpur District, between Jalalpur Pirwala and Uch Sharif, both of which are Silk Line destinations with a similar fare (PKR 2,110), so it is a plausible but UNCONFIRMED candidate; coordinates are therefore given only under 'candidate'. The Wikipedia/Wikidata 'Jhangra' (Q3246923, 34.0167, 73.1333) is a union council in Abbottabad District, KP, and is not the Silk Line stop. A Jhangra village in Tharparkar (OSM node 2723539791) is also unrelated. Ask Silk Line (0311 1254 333) where the Jhangra coach stops."
+  }
+]

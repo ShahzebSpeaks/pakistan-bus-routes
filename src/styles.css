@@ -1032,6 +1032,13 @@ html[dir='rtl'] .chain-sep {
   font-weight: 500;
 }
 
+.tl-time {
+  font-variant-numeric: tabular-nums;
+  font-size: 0.85em;
+  color: var(--muted);
+  min-width: 3.2em;
+}
+
 .tl-transfers {
   display: inline-flex;
   flex-wrap: wrap;

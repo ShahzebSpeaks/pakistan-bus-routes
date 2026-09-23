@@ -1,8 +1,8 @@
 # Data coverage
 
-Generated 2026-09-21 by `npm run data:build`. Do not edit by hand.
+Generated 2026-09-23 by `npm run data:build`. Do not edit by hand.
 
-**50 cities · 87 systems · 1285 published routes · 7192 stops**
+**50 cities · 87 systems · 1317 published routes · 7384 stops**
 
 Coordinate quality: **exact** = verified (OpenStreetMap element or Wikipedia, checked by a person), **guide** = position published by a route guide such as safar.fyi, **matched** = automatic OpenStreetMap name match, **geocoded** = Nominatim search, **estimated** = interpolated between neighbours, **missing** = not on the map yet.
 
@@ -204,106 +204,106 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Waraich Express | WR-LHR-MUX | Lahore - Multan | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
 | Waraich Express | WR-KHI-SKT | Karachi - Sialkot | unverified | 2 | 0% | 0% | 50% | 0% | 50% | 0 | low |
 | Waraich Express | WR-KHI-SWT | Karachi - Mingora (Swat) | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
-| Pakistan Railways | 10DN Allama Iqbal Express | Allama Iqbal Express (10DN): Sialkot Junction - Karachi Cantonment | operational | 37 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 9UP Allama Iqbal Express | Allama Iqbal Express (9UP): Karachi Cantonment - Sialkot Junction | operational | 38 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 202DN Attock Passenger | Attock Passenger (202DN): Attock City Junction - Mari Indus | operational | 18 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 201UP Attock Passenger | Attock Passenger (201UP): Mari Indus - Attock City Junction | operational | 18 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 14DN Awam Express | Awam Express (14DN): Peshawar Cantonment - Karachi Cantonment | operational | 62 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 13UP Awam Express | Awam Express (13UP): Karachi Cantonment - Peshawar Cantonment | operational | 62 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 112DN Badar Express | Badar Express (112DN): Lahore Junction - Faisalabad | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 111UP Badar Express | Badar Express (111UP): Faisalabad - Lahore Junction | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 26DN Bahauddin Zakria Express | Bahauddin Zakria Express (26DN): Multan Cantonment - Karachi City | operational | 26 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 25UP Bahauddin Zakria Express | Bahauddin Zakria Express (25UP): Karachi City - Multan Cantonment | operational | 26 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 4DN Bolan Mail | Bolan Mail (4DN): Quetta - Karachi City | operational | 25 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 3UP Bolan Mail | Bolan Mail (3UP): Karachi City - Quetta | operational | 24 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 350DN Chaman Mixed | Chaman Mixed (350DN): Chaman - Quetta | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 349UP Chaman Mixed | Chaman Mixed (349UP): Quetta - Chaman | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 136DN Chenab Express | Chenab Express (136DN): Lala Musa Junction - Sargodha Junction | operational | 17 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 135UP Chenab Express | Chenab Express (135UP): Sargodha Junction - Lala Musa Junction | operational | 18 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 210DN Faiz Ahmed Faiz Passenger | Faiz Ahmed Faiz Passenger (210DN): Narowal Junction - Lahore Junction | operational | 12 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 209UP Faiz Ahmed Faiz Passenger | Faiz Ahmed Faiz Passenger (209UP): Lahore Junction - Narowal Junction | operational | 12 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 38DN Fareed Express | Fareed Express (38DN): Lahore Junction - Karachi City | operational | 46 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 37UP Fareed Express | Fareed Express (37UP): Karachi City - Lahore Junction | operational | 45 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 114DN Ghouri Express | Ghouri Express (114DN): Lahore Junction - Faisalabad | operational | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 113UP Ghouri Express | Ghouri Express (113UP): Faisalabad - Lahore Junction | operational | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 5UP Green Line | Green Line (5UP): Karachi Cantonment - Margalla | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 6DN Green Line | Green Line (6DN): Margalla - Karachi Cantonment | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 12DN Hazara Express | Hazara Express (12DN): Havelian - Karachi City | operational | 54 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 11UP Hazara Express | Hazara Express (11UP): Karachi City - Havelian | operational | 54 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 108DN Islamabad Express | Islamabad Express (108DN): Margalla - Lahore Junction | operational | 4 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 107UP Islamabad Express | Islamabad Express (107UP): Lahore Junction - Rawalpindi | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 40DN Jaffar Express | Jaffar Express (40DN): Peshawar Cantonment - Quetta | operational | 43 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 39UP Jaffar Express | Jaffar Express (39UP): Quetta - Peshawar Cantonment | operational | 45 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 204DN Jand Passenger | Jand Passenger (204DN): Attock City Junction - Jand Junction | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 203UP Jand Passenger | Jand Passenger (203UP): Jand Junction - Attock City Junction | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 16DN Karachi Express | Karachi Express (16DN): Lahore Junction - Karachi Cantonment | operational | 13 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 15UP Karachi Express | Karachi Express (15UP): Karachi Cantonment - Lahore Junction | operational | 12 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 42DN Karakoram Express | Karakoram Express (42DN): Lahore Junction - Karachi Cantonment | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 41UP Karakoram Express | Karakoram Express (41UP): Karachi Cantonment - Lahore Junction | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 2DN Khyber Mail | Khyber Mail (2DN): Peshawar Cantonment - Karachi Cantonment | operational | 43 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 1UP Khyber Mail | Khyber Mail (1UP): Karachi Cantonment - Peshawar Cantonment | operational | 44 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 126DN Lasani Express | Lasani Express (126DN): Sialkot Junction - Lahore Junction | operational | 18 | 94% | 0% | 0% | 0% | 6% | 0 | high |
-| Pakistan Railways | 125UP Lasani Express | Lasani Express (125UP): Lahore Junction - Sialkot Junction | operational | 18 | 94% | 0% | 0% | 0% | 6% | 0 | high |
-| Pakistan Railways | 336DN Marvi Passenger | Marvi Passenger (336DN): Mirpur Khas - Khokhropar | operational | 17 | 88% | 0% | 0% | 0% | 12% | 0 | medium |
-| Pakistan Railways | 335UP Marvi Passenger | Marvi Passenger (335UP): Khokhropar - Mirpur Khas | operational | 18 | 94% | 0% | 0% | 0% | 6% | 0 | medium |
-| Pakistan Railways | 128DN Mehr Express | Mehr Express (128DN): Rawalpindi - Multan Cantonment | operational | 37 | 97% | 0% | 0% | 0% | 3% | 0 | high |
-| Pakistan Railways | 127UP Mehr Express | Mehr Express (127UP): Multan Cantonment - Rawalpindi | operational | 37 | 95% | 0% | 0% | 3% | 3% | 0 | high |
-| Pakistan Railways | 149UP Mehran Express | Mehran Express (149UP): Karachi City - Mirpur Khas | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 150DN Mehran Express | Mehran Express (150DN): Mirpur Khas - Karachi City | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 18DN Millat Express | Millat Express (18DN): Lala Musa Junction - Karachi Cantonment | operational | 36 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 17UP Millat Express | Millat Express (17UP): Karachi Cantonment - Lala Musa Junction | operational | 35 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 116DN Musa Pak Express | Musa Pak Express (116DN): Lahore Junction - Multan Cantonment | operational | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 115UP Musa Pak Express | Musa Pak Express (115UP): Multan Cantonment - Lahore Junction | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 44DN Shah Hussain Express | Shah Hussain Express (44DN): Lahore Junction - Karachi Cantonment | unverified | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 43UP Shah Hussain Express | Shah Hussain Express (43UP): Karachi Cantonment - Lahore Junction | unverified | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 46DN Pakistan Express | Pakistan Express (46DN): Rawalpindi - Karachi Cantonment | operational | 32 | 94% | 0% | 3% | 0% | 3% | 0 | high |
-| Pakistan Railways | 45UP Pakistan Express | Pakistan Express (45UP): Karachi Cantonment - Rawalpindi | operational | 33 | 94% | 0% | 3% | 0% | 3% | 0 | medium |
-| Pakistan Railways | 122DN Ravi Express | Ravi Express (122DN): Lahore Junction - Shorkot Cantonment Junction | operational | 15 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 121UP Ravi Express | Ravi Express (121UP): Shorkot Cantonment Junction - Lahore Junction | operational | 15 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 106DN Rawal Express | Rawal Express (106DN): Rawalpindi - Lahore Junction | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 105UP Rawal Express | Rawal Express (105UP): Lahore Junction - Rawalpindi | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 268DN Rawalpindi Passenger | Rawalpindi Passenger (268DN): Havelian - Rawalpindi | operational | 9 | 89% | 0% | 0% | 11% | 0% | 0 | medium |
-| Pakistan Railways | 267UP Rawalpindi Passenger | Rawalpindi Passenger (267UP): Rawalpindi - Havelian | operational | 9 | 89% | 0% | 0% | 11% | 0% | 0 | medium |
-| Pakistan Railways | 156DN Saman Sarkar Express | Saman Sarkar Express (156DN): Mirpur Khas - Hyderabad Junction | operational | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 155UP Saman Sarkar Express | Saman Sarkar Express (155UP): Hyderabad Junction - Mirpur Khas | operational | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 151UP Shah Latif Express | Shah Latif Express (151UP): Karachi City - Mirpur Khas | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 152DN Shah Latif Express | Shah Latif Express (152DN): Mirpur Khas - Karachi City | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 226DN Shaheen Passenger | Shaheen Passenger (226DN): Sialkot Junction - Wazirabad Junction | operational | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 225UP Shaheen Passenger | Shaheen Passenger (225UP): Wazirabad Junction - Sialkot Junction | operational | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 28DN Shalimar Express | Shalimar Express (28DN): Lahore Junction - Karachi Cantonment | operational | 14 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 27UP Shalimar Express | Shalimar Express (27UP): Karachi Cantonment - Lahore Junction | operational | 14 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 104DN Subak Kharam | Subak Kharam (104DN): Rawalpindi - Lahore Junction | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 103UP Subak Kharam | Subak Kharam (103UP): Lahore Junction - Rawalpindi | operational | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 102DN Subak Raftar | Subak Raftar (102DN): Rawalpindi - Lahore Junction | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 101UP Subak Raftar | Subak Raftar (101UP): Lahore Junction - Rawalpindi | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 146DN Sukkur Express | Sukkur Express (146DN): Jacobabad Junction - Karachi City | operational | 22 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 145UP Sukkur Express | Sukkur Express (145UP): Karachi City - Jacobabad Junction | operational | 22 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 8DN Tezgam | Tezgam (8DN): Rawalpindi - Karachi Cantonment | operational | 31 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 7UP Tezgam | Tezgam (7UP): Karachi Cantonment - Rawalpindi | operational | 30 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 130DN Thall Express | Thall Express (130DN): Rawalpindi - Multan Cantonment | operational | 40 | 95% | 0% | 0% | 5% | 0% | 0 | medium |
-| Pakistan Railways | 129UP Thall Express | Thall Express (129UP): Multan Cantonment - Rawalpindi | operational | 40 | 98% | 0% | 0% | 0% | 3% | 0 | medium |
-| Pakistan Railways | 211UP Narowal Passenger | Narowal Passenger (211UP): Lahore Junction - Narowal Junction | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 212DN Narowal Passenger | Narowal Passenger (212DN): Narowal Junction - Lahore Junction | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 133UP Kohat Express | Kohat Express (133UP): Rawalpindi - Kohat Cantonment | operational | 12 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 134DN Kohat Express | Kohat Express (134DN): Kohat Cantonment - Rawalpindi | operational | 13 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 47UP Rehman Baba Express | Rehman Baba Express (47UP): Karachi Cantonment - Peshawar Cantonment | operational | 38 | 97% | 0% | 0% | 0% | 3% | 0 | medium |
-| Pakistan Railways | 48DN Rehman Baba Express | Rehman Baba Express (48DN): Peshawar Cantonment - Karachi Cantonment | operational | 37 | 97% | 0% | 0% | 0% | 3% | 0 | medium |
-| Pakistan Railways | 213UP Mohinjo Daro Passenger | Mohinjo Daro Passenger (213UP): Kotri Junction - Rohri Junction | operational | 24 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 214DN Mohinjo Daro Passenger | Mohinjo Daro Passenger (214DN): Rohri Junction - Kotri Junction | operational | 24 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | PDK1UPDN PDK Shuttle | PDK Shuttle (PDK1UPDN): Pind Dadn Khan - Malakwal Junction | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | PDK2DN PDK Shuttle | PDK Shuttle (PDK2DN): Malakwal Junction - Pind Dadn Khan | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | PDK-3DN PDK Shuttle | PDK Shuttle (PDK-3DN): Pind Dadn Khan - Malakwal Junction | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | PDK-4DN PDK Shuttle | PDK Shuttle (PDK-4DN): Malakwal Junction - Pind Dadn Khan | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | PDK-5DN PDK Shuttle | PDK Shuttle (PDK-5DN): Pind Dadn Khan - Malakwal Junction | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | PDK-6DN PDK Shuttle | PDK Shuttle (PDK-6DN): Malakwal Junction - Pind Dadn Khan | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 33UP Pak Business Express | Pak Business Express (33UP): Karachi Cantonment - Lahore Junction | operational | 12 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 34DN Pak Business Express | Pak Business Express (34DN): Lahore Junction - Karachi Cantonment | operational | 14 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 31UP Jinnah Express | Jinnah Express (31UP): Karachi Cantonment - Lahore Junction | suspended | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 32DN Jinnah Express | Jinnah Express (32DN): Lahore Junction - Karachi Cantonment | suspended | 6 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 35UP Sir Sayyed Express | Sir Sayyed Express (35UP): Karachi Cantonment - Rawalpindi | suspended | 13 | 92% | 0% | 0% | 0% | 8% | 0 | medium |
-| Pakistan Railways | 36DN Sir Sayyed Express | Sir Sayyed Express (36DN): Rawalpindi - Karachi City | suspended | 14 | 93% | 0% | 0% | 0% | 7% | 0 | medium |
-| Pakistan Railways | 147UP Mianwali Express | Mianwali Express (147UP): Mari Indus - Lahore Junction | operational | 16 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 148DN Mianwali Express | Mianwali Express (148DN): Lahore Junction - Mari Indus | operational | 16 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 10DN | Allama Iqbal Express: Sialkot Junction - Karachi Cantonment | operational | 37 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 9UP | Allama Iqbal Express: Karachi Cantonment - Sialkot Junction | operational | 38 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 202DN | Attock Passenger: Attock City Junction - Mari Indus | operational | 18 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 201UP | Attock Passenger: Mari Indus - Attock City Junction | operational | 18 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 14DN | Awam Express: Peshawar Cantonment - Karachi Cantonment | operational | 62 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 13UP | Awam Express: Karachi Cantonment - Peshawar Cantonment | operational | 62 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 112DN | Badar Express: Lahore Junction - Faisalabad | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 111UP | Badar Express: Faisalabad - Lahore Junction | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 26DN | Bahauddin Zakria Express: Multan Cantonment - Karachi City | operational | 26 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 25UP | Bahauddin Zakria Express: Karachi City - Multan Cantonment | operational | 26 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 4DN | Bolan Mail: Quetta - Karachi City | operational | 25 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 3UP | Bolan Mail: Karachi City - Quetta | operational | 24 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 350DN | Chaman Mixed: Chaman - Quetta | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 349UP | Chaman Mixed: Quetta - Chaman | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 136DN | Chenab Express: Lala Musa Junction - Sargodha Junction | operational | 17 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 135UP | Chenab Express: Sargodha Junction - Lala Musa Junction | operational | 18 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 210DN | Faiz Ahmed Faiz Passenger: Narowal Junction - Lahore Junction | operational | 12 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 209UP | Faiz Ahmed Faiz Passenger: Lahore Junction - Narowal Junction | operational | 12 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 38DN | Fareed Express: Lahore Junction - Karachi City | operational | 46 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 37UP | Fareed Express: Karachi City - Lahore Junction | operational | 45 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 114DN | Ghouri Express: Lahore Junction - Faisalabad | operational | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 113UP | Ghouri Express: Faisalabad - Lahore Junction | operational | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 5UP | Green Line: Karachi Cantonment - Margalla | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 6DN | Green Line: Margalla - Karachi Cantonment | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 12DN | Hazara Express: Havelian - Karachi City | operational | 54 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 11UP | Hazara Express: Karachi City - Havelian | operational | 54 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 108DN | Islamabad Express: Margalla - Lahore Junction | operational | 4 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 107UP | Islamabad Express: Lahore Junction - Rawalpindi | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 40DN | Jaffar Express: Peshawar Cantonment - Quetta | operational | 43 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 39UP | Jaffar Express: Quetta - Peshawar Cantonment | operational | 45 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 204DN | Jand Passenger: Attock City Junction - Jand Junction | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 203UP | Jand Passenger: Jand Junction - Attock City Junction | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 16DN | Karachi Express: Lahore Junction - Karachi Cantonment | operational | 13 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 15UP | Karachi Express: Karachi Cantonment - Lahore Junction | operational | 12 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 42DN | Karakoram Express: Lahore Junction - Karachi Cantonment | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 41UP | Karakoram Express: Karachi Cantonment - Lahore Junction | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 2DN | Khyber Mail: Peshawar Cantonment - Karachi Cantonment | operational | 43 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 1UP | Khyber Mail: Karachi Cantonment - Peshawar Cantonment | operational | 44 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 126DN | Lasani Express: Sialkot Junction - Lahore Junction | operational | 18 | 94% | 0% | 0% | 0% | 6% | 0 | high |
+| Pakistan Railways | 125UP | Lasani Express: Lahore Junction - Sialkot Junction | operational | 18 | 94% | 0% | 0% | 0% | 6% | 0 | high |
+| Pakistan Railways | 336DN | Marvi Passenger: Mirpur Khas - Khokhropar | operational | 17 | 88% | 0% | 0% | 0% | 12% | 0 | medium |
+| Pakistan Railways | 335UP | Marvi Passenger: Khokhropar - Mirpur Khas | operational | 18 | 94% | 0% | 0% | 0% | 6% | 0 | medium |
+| Pakistan Railways | 128DN | Mehr Express: Rawalpindi - Multan Cantonment | operational | 37 | 97% | 0% | 0% | 0% | 3% | 0 | high |
+| Pakistan Railways | 127UP | Mehr Express: Multan Cantonment - Rawalpindi | operational | 37 | 95% | 0% | 0% | 3% | 3% | 0 | high |
+| Pakistan Railways | 149UP | Mehran Express: Karachi City - Mirpur Khas | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 150DN | Mehran Express: Mirpur Khas - Karachi City | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 18DN | Millat Express: Lala Musa Junction - Karachi Cantonment | operational | 36 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 17UP | Millat Express: Karachi Cantonment - Lala Musa Junction | operational | 35 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 116DN | Musa Pak Express: Lahore Junction - Multan Cantonment | operational | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 115UP | Musa Pak Express: Multan Cantonment - Lahore Junction | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 44DN | Shah Hussain Express: Lahore Junction - Karachi Cantonment | unverified | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 43UP | Shah Hussain Express: Karachi Cantonment - Lahore Junction | unverified | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 46DN | Pakistan Express: Rawalpindi - Karachi Cantonment | operational | 32 | 94% | 0% | 3% | 0% | 3% | 0 | high |
+| Pakistan Railways | 45UP | Pakistan Express: Karachi Cantonment - Rawalpindi | operational | 33 | 94% | 0% | 3% | 0% | 3% | 0 | medium |
+| Pakistan Railways | 122DN | Ravi Express: Lahore Junction - Shorkot Cantonment Junction | operational | 15 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 121UP | Ravi Express: Shorkot Cantonment Junction - Lahore Junction | operational | 15 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 106DN | Rawal Express: Rawalpindi - Lahore Junction | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 105UP | Rawal Express: Lahore Junction - Rawalpindi | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 268DN | Rawalpindi Passenger: Havelian - Rawalpindi | operational | 9 | 89% | 0% | 0% | 11% | 0% | 0 | medium |
+| Pakistan Railways | 267UP | Rawalpindi Passenger: Rawalpindi - Havelian | operational | 9 | 89% | 0% | 0% | 11% | 0% | 0 | medium |
+| Pakistan Railways | 156DN | Saman Sarkar Express: Mirpur Khas - Hyderabad Junction | operational | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 155UP | Saman Sarkar Express: Hyderabad Junction - Mirpur Khas | operational | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 151UP | Shah Latif Express: Karachi City - Mirpur Khas | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 152DN | Shah Latif Express: Mirpur Khas - Karachi City | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 226DN | Shaheen Passenger: Sialkot Junction - Wazirabad Junction | operational | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 225UP | Shaheen Passenger: Wazirabad Junction - Sialkot Junction | operational | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 28DN | Shalimar Express: Lahore Junction - Karachi Cantonment | operational | 14 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 27UP | Shalimar Express: Karachi Cantonment - Lahore Junction | operational | 14 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 104DN | Subak Kharam: Rawalpindi - Lahore Junction | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 103UP | Subak Kharam: Lahore Junction - Rawalpindi | operational | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 102DN | Subak Raftar: Rawalpindi - Lahore Junction | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 101UP | Subak Raftar: Lahore Junction - Rawalpindi | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 146DN | Sukkur Express: Jacobabad Junction - Karachi City | operational | 22 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 145UP | Sukkur Express: Karachi City - Jacobabad Junction | operational | 22 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 8DN | Tezgam: Rawalpindi - Karachi Cantonment | operational | 31 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 7UP | Tezgam: Karachi Cantonment - Rawalpindi | operational | 30 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 130DN | Thall Express: Rawalpindi - Multan Cantonment | operational | 40 | 95% | 0% | 0% | 5% | 0% | 0 | medium |
+| Pakistan Railways | 129UP | Thall Express: Multan Cantonment - Rawalpindi | operational | 40 | 98% | 0% | 0% | 0% | 3% | 0 | medium |
+| Pakistan Railways | 211UP | Narowal Passenger: Lahore Junction - Narowal Junction | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 212DN | Narowal Passenger: Narowal Junction - Lahore Junction | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 133UP | Kohat Express: Rawalpindi - Kohat Cantonment | operational | 12 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 134DN | Kohat Express: Kohat Cantonment - Rawalpindi | operational | 13 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 47UP | Rehman Baba Express: Karachi Cantonment - Peshawar Cantonment | operational | 38 | 97% | 0% | 0% | 0% | 3% | 0 | medium |
+| Pakistan Railways | 48DN | Rehman Baba Express: Peshawar Cantonment - Karachi Cantonment | operational | 37 | 97% | 0% | 0% | 0% | 3% | 0 | medium |
+| Pakistan Railways | 213UP | Mohinjo Daro Passenger: Kotri Junction - Rohri Junction | operational | 24 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 214DN | Mohinjo Daro Passenger: Rohri Junction - Kotri Junction | operational | 24 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | PDK1UPDN | PDK Shuttle: Pind Dadn Khan - Malakwal Junction | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | PDK2DN | PDK Shuttle: Malakwal Junction - Pind Dadn Khan | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | PDK-3DN | PDK Shuttle: Pind Dadn Khan - Malakwal Junction | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | PDK-4DN | PDK Shuttle: Malakwal Junction - Pind Dadn Khan | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | PDK-5DN | PDK Shuttle: Pind Dadn Khan - Malakwal Junction | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | PDK-6DN | PDK Shuttle: Malakwal Junction - Pind Dadn Khan | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 33UP | Pak Business Express: Karachi Cantonment - Lahore Junction | operational | 12 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 34DN | Pak Business Express: Lahore Junction - Karachi Cantonment | operational | 14 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 31UP | Jinnah Express: Karachi Cantonment - Lahore Junction | suspended | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 32DN | Jinnah Express: Lahore Junction - Karachi Cantonment | suspended | 6 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 35UP | Sir Sayyed Express: Karachi Cantonment - Rawalpindi | suspended | 13 | 92% | 0% | 0% | 0% | 8% | 0 | medium |
+| Pakistan Railways | 36DN | Sir Sayyed Express: Rawalpindi - Karachi City | suspended | 14 | 93% | 0% | 0% | 0% | 7% | 0 | medium |
+| Pakistan Railways | 147UP | Mianwali Express: Mari Indus - Lahore Junction | operational | 16 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 148DN | Mianwali Express: Lahore Junction - Mari Indus | operational | 16 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 
 ## Karachi
 
@@ -386,13 +386,13 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Chinchi (Qingqi) routes | Double Jhanda (Lee Market) | Teen Hatti - Lee Market | unverified | 8 | 0% | 0% | 75% | 0% | 25% | 0 | medium |
 | Chinchi (Qingqi) routes | K-1 | 4K Chowrangi - Chungi | unverified | 4 | 0% | 0% | 50% | 0% | 25% | 1 | low |
 | Chinchi (Qingqi) routes | Salman Chohaan | Teen Hatti - Tariq Road | unverified | 5 | 0% | 0% | 100% | 0% | 0% | 0 | low |
-| Chinchi (Qingqi) routes | UP Mor - Khawaja Ajmer Nagri | UP Mor - Khawaja Ajmer Nagri | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Chinchi (Qingqi) routes | UP Mor - Khawaja Ajmer Nagri | UP Mor - Khawaja Ajmer Nagri | unverified | 4 | 0% | 0% | 50% | 25% | 25% | 0 | low |
 | Chinchi (Qingqi) routes | Nagan Chowrangi - Iqra University North Campus | Nagan Chowrangi - Iqra University North Campus | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
 | Chinchi (Qingqi) routes | Bakra Mandi - Lee Market | Bakra Mandi - Lee Market | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
 | Chinchi (Qingqi) routes | Five Minute Chowrangi - North Karachi No. 6 | Five Minute Chowrangi - North Karachi No. 6 | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
-| Chinchi (Qingqi) routes | Nagan Chowrangi - Godhra Mor | Nagan Chowrangi - Godhra Mor | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
-| Chinchi (Qingqi) routes | Lines Area - Saddar | Lines Area - Saddar | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
-| Chinchi (Qingqi) routes | Liaquatabad No. 10 - Khuda Ki Basti | Liaquatabad No. 10 - Khuda Ki Basti | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Chinchi (Qingqi) routes | Nagan Chowrangi - Godhra Mor | Nagan Chowrangi - Godhra Mor | unverified | 5 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Chinchi (Qingqi) routes | Lines Area - Saddar | Lines Area - Saddar | unverified | 3 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Chinchi (Qingqi) routes | Liaquatabad No. 10 - Khuda Ki Basti | Liaquatabad No. 10 - Khuda Ki Basti | unverified | 20 | 0% | 0% | 80% | 0% | 15% | 1 | low |
 | Karachi Circular Railway | KCR-LOOP | Karachi City - Drigh Road - Liaquatabad - Orangi - SITE - Karachi City (loop) | planned | 19 | 68% | 0% | 16% | 5% | 11% | 0 | low |
 | Karachi Circular Railway | KCR-1UP | KCR-1 | operational | 0 | - | - | - | - | - | 0 | low |
 | Karachi Circular Railway | KCR-2DN | KCR-2 | operational | 0 | - | - | - | - | - | 0 | low |
@@ -781,6 +781,38 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Private minibuses and coaches | G-25 | Gulistan-e-johar No. 10 - Rasheedabad | unverified | 18 | 0% | 22% | 61% | 0% | 17% | 0 | low |
 | Private minibuses and coaches | Safari Coach | Maroora Goth - Mianwali | unverified | 28 | 0% | 4% | 82% | 0% | 11% | 1 | low |
 | Private minibuses and coaches | D-6 | Khokhrapar - Masjid-e-Quba | unverified | 20 | 0% | 0% | 70% | 10% | 20% | 0 | low |
+| Private minibuses and coaches | D-1 (Mnzil) | Pipri Goth - Abidabad | unverified | 40 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | D-7 (Mnzil) | New Muzaffarabad Colony Landhi - Khadim Hussain Solangi Goth | unverified | 34 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | F-11 (Mnzil) | Manghopir - Bhains Colony Mor | unverified | 48 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | G-3 (Mnzil) | University Road - Mohajir Camp No. 7 | unverified | 41 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | G-7 (Mnzil) | University Road - Mohajir Camp | unverified | 46 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | G-17 (Mnzil) | Saeedabad - University Road | unverified | 35 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | G-19 (Mnzil) | Hub filter plant - Madras chowk | unverified | 37 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | G-27 (Mnzil) | Afridi Chowk - Chisti Nagar - Safoora Chowrangi | unverified | 39 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | N-5 (Mnzil) | Naval Colony - Shaan Chowrangi (Chamra Chowrangi) | unverified | 33 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | W-22 (Mnzil) | Khawaja Ajmer Nagri - Korangi 2 | unverified | 34 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | W-25 (Mnzil) | New Karachi Industrial Area (Sector 6) - Khyber Chowk - Ittihad Town | unverified | 22 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | W-55 (Mnzil) | Khairabad - Gulshan-e-Zia - Lyari Basti - Taiser Town | unverified | 34 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | X-10 (Mnzil) | Ittehad Town - Khayaban-e-Ghalib - DHA Phase 8 | unverified | 33 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | X-23 (Mnzil) | Fareed Colony - Orangi Town - Hospital Chowrangi | unverified | 40 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | Z-2 (Mnzil) | Gulshan Ghazi - Khayaban-e-Ghalib - DHA Phase 8 | unverified | 18 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | Mashriq (Mnzil) | Bhains Colony Mor - Naval Colony | unverified | 30 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | Muslim (Mnzil) | Shireen Jinnah Colony - Pipri Goth | unverified | 51 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | Super Hasanzai (Mnzil) | Maymar Mor - Shireen Jinnah Colony | unverified | 37 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | Sheraz (Mnzil) | Check Post 6 Malir Cantt - Hawksbay Beach | unverified | 40 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | Abdullah (Mnzil) | Ittehad Town - Quaidabad | unverified | 47 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | 9-C (Mnzil) | Shireen Jinnah Colony - Model Colony Mor | unverified | 33 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | 4-L (Mnzil) | Al Asif Square - Bolton Market | unverified | 23 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | 4-Q (Mnzil) | Gulzar-e-hijri - Tower | unverified | 27 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | 11-C (Mnzil) | Azam Basti – Azam Town - University Road | unverified | 29 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | 51 (Mnzil) | Ghaghar Phatak - Bin Qasim Town - Lee Market | unverified | 34 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | Marwat (Mnzil) | Bhudni Goth - Shireen Jinnah Colony | unverified | 68 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | Bilal (Mnzil) | Ittehad Town - Labour Square - Landhi Town | unverified | 32 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | Gulistan (Mnzil) | PIA Society - Gulistan e Johar - Saudi Embassy - DHA Phase 5 | unverified | 49 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | Ilyas (Mnzil) | Ittehad Town - Quaidabad | unverified | 50 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | Masood (Mnzil) | Bhains Colony Mor - Lyari 36 | unverified | 41 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | Khan (Mnzil) | Surjani Power House - Abdullah Shah Ghazi | unverified | 43 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | G-11 (Mnzil) | Yousuf Goth - Maroora Goth Bus Stop | unverified | 37 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
 | Peoples Bus Service | R1 | Khokhrapar - Dockyard | operational | 25 | 52% | 4% | 40% | 0% | 4% | 0 | high |
 | Peoples Bus Service | R2 | Power House Chowrangi - Korangi Crossing | operational | 19 | 68% | 21% | 11% | 0% | 0% | 0 | medium |
 | Peoples Bus Service | R3 | Power House Chowrangi - Nasir Jump | operational | 21 | 57% | 10% | 29% | 0% | 5% | 0 | medium |
@@ -1634,7 +1666,6 @@ These routes have the most stops without a verified position. Adding real coordi
 - karachi-chinchi/Five Minute Chowrangi - North Karachi No. 6: 2 stop(s) without coordinates are left out of the map
 - karachi-chinchi/Five Minute Chowrangi - North Karachi No. 6: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/Liaquatabad No. 10 - Khuda Ki Basti: 1 stop(s) without coordinates are left out of the map
-- karachi-chinchi/Liaquatabad No. 10 - Khuda Ki Basti: fewer than 2 located stops, listed without a map line
 - karachi-circular-railway/KCR-1UP: fewer than 2 located stops, listed without a map line
 - karachi-circular-railway/KCR-2DN: fewer than 2 located stops, listed without a map line
 - karachi-circular-railway/KCR-3DNDN: fewer than 2 located stops, listed without a map line

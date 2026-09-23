@@ -50,6 +50,8 @@ Route:
   "women_only": false,
   "stops": [ Stop, ... ],                    // ordered from first terminal to last terminal, ONE direction
   "stops_confidence": "high" | "medium" | "low",   // high = official or 2+ agreeing sources
+  "stop_times": ["07:30", null, ...],       // optional, timetabled services only (trains): one "HH:MM" or null per stop.
+                                            // Such a route runs only in its listed direction; the return is its own route.
   "sources": [ { "title": "...", "url": "..." } ],
   "notes": "conflicts between sources, recent changes, extensions etc."
 }

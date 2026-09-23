@@ -5,7 +5,8 @@
  * Router): round k finds the best journeys that use exactly k rides. Pakistani
  * bus data rarely has schedules, so ride time is estimated from distance and a
  * typical speed per mode, and every boarding pays a waiting penalty of half the
- * headway. Routes are assumed to run in both directions along the same stops.
+ * headway. Routes are assumed to run in both directions along the same stops,
+ * except timetabled services (trains), whose return is a separate route.
  */
 import type { CityData, Mode, Route } from '../types';
 import { estimateFare } from './fare';
@@ -171,6 +172,7 @@ export class Planner {
       for (const si of marked) {
         for (const [ri, pos] of this.stopRoutes[si]) {
           for (const reverse of [false, true]) {
+            if (reverse && this.data.routes[ri].stop_times) continue;
             const key = `${ri}:${reverse ? 1 : 0}`;
             const q = queue.get(key);
             if (!q || (reverse ? pos > q.pos : pos < q.pos)) queue.set(key, { ri, reverse, pos });

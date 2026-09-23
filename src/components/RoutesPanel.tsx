@@ -169,6 +169,22 @@ export function RouteDetail({ data, route, lang, t, selectedStopId, onBack, onSt
   const system = data.systems.find((s) => s.id === route.system) as SystemInfo;
   const stops = new Map(data.stops.map((s) => [s.id, s]));
   const hours = route.hours ?? system?.hours;
+  // Times that go backwards mean the service has passed midnight: show "+1", "+2" days.
+  const timeLabels = (() => {
+    if (!route.stop_times) return null;
+    let day = 0;
+    let prev = -1;
+    return route.stop_times.map((hm) => {
+      if (!hm) return null;
+      const [h, m] = hm.split(':').map(Number);
+      const min = h * 60 + m;
+      if (prev >= 0 && min < prev - 60) day++;
+      prev = min;
+      return day ? `${hm} +${day}` : hm;
+    });
+  })();
+  const firstTime = timeLabels?.find(Boolean);
+  const lastTime = timeLabels?.at(-1);
   const approxStops = route.stops.filter((id) => {
     const q = stops.get(id)?.quality;
     return q === 'estimated' || q === 'geocoded';
@@ -202,6 +218,18 @@ export function RouteDetail({ data, route, lang, t, selectedStopId, onBack, onSt
             <dd>
               {num(lang, route.length_km)} {t.km}
             </dd>
+          </div>
+        )}
+        {firstTime && (
+          <div>
+            <dt>{t.departs}</dt>
+            <dd dir="ltr">{firstTime}</dd>
+          </div>
+        )}
+        {lastTime && (
+          <div>
+            <dt>{t.arrives}</dt>
+            <dd dir="ltr">{lastTime}</dd>
           </div>
         )}
         {hours && (hours.start || hours.end) && (
@@ -246,6 +274,11 @@ export function RouteDetail({ data, route, lang, t, selectedStopId, onBack, onSt
           return (
             <li key={`${id}-${i}`} className={`${selectedStopId === id ? 'selected' : ''} ${s.quality === 'estimated' ? 'approx' : ''}`}>
               <button type="button" className="tl-stop" onClick={() => onStop(id)}>
+                {timeLabels?.[i] && (
+                  <time className="tl-time" dir="ltr">
+                    {timeLabels[i]}
+                  </time>
+                )}
                 <span className="tl-name">{localName(lang, s)}</span>
                 {others.length > 0 && (
                   <span className="tl-transfers">
