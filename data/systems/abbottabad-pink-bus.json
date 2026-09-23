@@ -1,0 +1,244 @@
+{
+  "id": "abbottabad-pink-bus",
+  "city": "abbottabad",
+  "name": "Abbottabad Pink Bus (women only)",
+  "name_ur": "",
+  "operator": "Government of Khyber Pakhtunkhwa (Transport Dept.), privately operated",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "Suspended 2019"
+  },
+  "sources": [
+    {
+      "title": "Women-only buses gathering dust at Peshawar bus terminal",
+      "url": "https://www.dawn.com/news/1417736",
+      "publisher": "Dawn",
+      "date": "2018-07-04",
+      "official": false
+    },
+    {
+      "title": "KP launches Pink Bus Service to provide safe, hassle-free transport to women",
+      "url": "https://images.dawn.com/news/1182591",
+      "publisher": "Dawn Images",
+      "date": "2019-05-01",
+      "official": false
+    },
+    {
+      "title": "It's curtains for women bus service",
+      "url": "https://www.pakistangendernews.org/its-curtains-for-women-bus-service/",
+      "publisher": "Pakistan Gender News",
+      "date": "2021-02-10",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "pink-bus-atd",
+      "name": "Mansehra Bus Stop - Frontier Medical College",
+      "name_ur": "",
+      "variant": "pink",
+      "color": null,
+      "status": "suspended",
+      "launched": "2019-05",
+      "length_km": 18,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": true,
+      "stops": [
+        {
+          "name": "Mansehra Bus Stop",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Fawara Chowk",
+          "name_ur": "",
+          "lat": 34.141503,
+          "lon": 73.213568,
+          "coord_source": "auto:nominatim:node/6432327587",
+          "is_station": false
+        },
+        {
+          "name": "Gammi Adda Stop",
+          "name_ur": "",
+          "lat": 34.146158,
+          "lon": 73.214828,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lady Garden",
+          "name_ur": "",
+          "lat": 34.150814,
+          "lon": 73.216089,
+          "coord_source": "auto:nominatim:way/307321182",
+          "is_station": false
+        },
+        {
+          "name": "APS Abbottabad",
+          "name_ur": "",
+          "lat": 34.15359,
+          "lon": 73.217452,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Olympics Ground",
+          "name_ur": "",
+          "lat": 34.156366,
+          "lon": 73.218816,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "CMH",
+          "name_ur": "",
+          "lat": 34.159143,
+          "lon": 73.220179,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ghaurra Chowk",
+          "name_ur": "",
+          "lat": 34.161919,
+          "lon": 73.221542,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "CSD",
+          "name_ur": "",
+          "lat": 34.164695,
+          "lon": 73.222906,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Supply Road",
+          "name_ur": "",
+          "lat": 34.167471,
+          "lon": 73.224269,
+          "coord_source": "auto:nominatim:node/9579949693",
+          "is_station": false
+        },
+        {
+          "name": "Sethi Masjid",
+          "name_ur": "",
+          "lat": 34.176376,
+          "lon": 73.227758,
+          "coord_source": "auto:nominatim:way/306527076",
+          "is_station": false
+        },
+        {
+          "name": "Burn Hall",
+          "name_ur": "",
+          "lat": 34.189808,
+          "lon": 73.230668,
+          "coord_source": "auto:nominatim:way/303973681",
+          "is_station": false
+        },
+        {
+          "name": "Daewoo Bus Terminal",
+          "name_ur": "",
+          "lat": 34.193636,
+          "lon": 73.23386,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mandian Bus Stop",
+          "name_ur": "",
+          "lat": 34.197464,
+          "lon": 73.237052,
+          "coord_source": "auto:nominatim:node/9579916048",
+          "is_station": false
+        },
+        {
+          "name": "Ayub Medical College",
+          "name_ur": "",
+          "lat": 34.202573,
+          "lon": 73.236331,
+          "coord_source": "auto:nominatim:way/305379078",
+          "is_station": false
+        },
+        {
+          "name": "Women and Children Hospital",
+          "name_ur": "",
+          "lat": 34.207301,
+          "lon": 73.238117,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hazara Agriculture Research Center",
+          "name_ur": "",
+          "lat": 34.21203,
+          "lon": 73.239902,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Abbottabad Trade Centre",
+          "name_ur": "",
+          "lat": 34.216759,
+          "lon": 73.241687,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "UET Rest House",
+          "name_ur": "",
+          "lat": 34.221487,
+          "lon": 73.243473,
+          "coord_source": "auto:nominatim:node/5166536021",
+          "is_station": false
+        },
+        {
+          "name": "Frontier Medical College",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Women-only buses gathering dust at Peshawar bus terminal (Dawn, 2018-07-04)",
+          "url": "https://www.dawn.com/news/1417736"
+        },
+        {
+          "title": "KP launches Pink Bus Service (Dawn Images, 2019-05-01)",
+          "url": "https://images.dawn.com/news/1182591"
+        },
+        {
+          "title": "It's curtains for women bus service (2021-02-10)",
+          "url": "https://www.pakistangendernews.org/its-curtains-for-women-bus-service/"
+        }
+      ],
+      "notes": "KP government women-only Pink Bus (not a private service); suspended in 2019. Government/UNOPS women-only Pink Bus using buses donated by Japan, not a private route. The stop sequence comes from Dawn 2018, before launch. Dawn Images 2019 confirms both endpoints, the 18 km length, 7 buses and 15 UNOPS-built solar-lit stops, so not every named point may have had a built shelter. Launched around April-May 2019 and suspended a few months later. Pakistan Gender News (2021-02) says KP decided to shut it because no operator bid. Treat as defunct or historical, like the withdrawn Peshawar wagon route. Fare not stated for Abbottabad. The route runs along the main Abbottabad corridor (Mansehra Road/Supply/Mandian) that Suzukis also serve."
+    }
+  ],
+  "notes": "Found while searching for private routes; kept as a separate system because it is a government service. Status suspended.",
+  "last_verified": "2026-09-23"
+}

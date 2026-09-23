@@ -1,0 +1,360 @@
+{
+  "id": "hyderabad-private-wagons",
+  "city": "hyderabad",
+  "name": "Hyderabad private wagons, minibuses and paratransit",
+  "name_ur": "",
+  "operator": "Private operators (route permits by RTA Hyderabad)",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "No fare figures found for private coaches, Suzukis, mini taxis or chingchis in Hyderabad.",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Memon et al. 2025, 'Evaluation of commuter perception and optimization of public transit routes in Hyderabad using TOD applications', MURJET 44(2):71-84, doi:10.22581/muet1982.0142 (Table 1 + Fig. 13)",
+      "url": "https://murjet.muet.edu.pk/index.php/home/article/view/142",
+      "publisher": "Mehran University Research Journal of Engineering and Technology",
+      "date": "2025-04-01",
+      "official": false
+    },
+    {
+      "title": "Measuring GIS-based pedestrian accessibility to bus stops ... Hyderabad, Pakistan (Discover Cities 1:28). Table 5 lists 42 named PT stops; Table 6 lists 66 road segments on PT routes (135.08 km). Road-level, not service routes",
+      "url": "https://link.springer.com/article/10.1007/s44327-024-00031-5",
+      "publisher": "Springer Nature (Discover Cities)",
+      "date": "2024",
+      "official": false
+    },
+    {
+      "title": "Daily Pakistan: Peoples Bus not extended; Latifabad/Qasimabad residents depend on private transporters",
+      "url": "https://dailypakistan.com.pk/25-Jun-2024/1726322",
+      "publisher": "Daily Pakistan",
+      "date": "2024-06-25",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "channel-mori-lmc-jamshoro",
+      "name": "Channel Mori - LMC Jamshoro",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Channel Mori",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "LMC Jamshoro",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Memon et al. 2025, 'Evaluation of commuter perception and optimization of public transit routes in Hyderabad using TOD applications', MURJET 44(2):71-84, doi:10.22581/muet1982.0142 (Table 1 + Fig. 13)",
+          "url": "https://murjet.muet.edu.pk/index.php/home/article/view/142"
+        },
+        {
+          "title": "Same paper, full-text PDF",
+          "url": "https://murjet.muet.edu.pk/index.php/home/article/download/142/11"
+        }
+      ],
+      "notes": "Vehicle: Coaster. Listed as survey corridor 02 in Table 1 (From/To/Type) and as 'Route_02' in the Fig. 13 map legend of a 2025 MUET paper; the paper says route info came from the RTA and site surveys. '02' is the paper's serial number, NOT an operator/RTA route number, so a slug id is used. Only endpoints given; intermediate stops unknown. LMC Jamshoro (Liaquat Medical University campus) is in adjacent Jamshoro district; corridor crosses the Indus."
+    },
+    {
+      "id": "gol-building-khuda-ki-basti",
+      "name": "Gol Building - Khuda Ki Basti",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Gol Building",
+          "name_ur": "",
+          "lat": 25.389108,
+          "lon": 68.366654,
+          "coord_source": "auto:osm:way/93892845",
+          "is_station": false
+        },
+        {
+          "name": "Khuda Ki Basti",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Memon et al. 2025, 'Evaluation of commuter perception and optimization of public transit routes in Hyderabad using TOD applications', MURJET 44(2):71-84, doi:10.22581/muet1982.0142 (Table 1 + Fig. 13)",
+          "url": "https://murjet.muet.edu.pk/index.php/home/article/view/142"
+        },
+        {
+          "title": "Same paper, full-text PDF",
+          "url": "https://murjet.muet.edu.pk/index.php/home/article/download/142/11"
+        }
+      ],
+      "notes": "Vehicle: Suzuki van. Listed as survey corridor 03 in Table 1 (From/To/Type) and as 'Route_03' in the Fig. 13 map legend of a 2025 MUET paper; the paper says route info came from the RTA and site surveys. '03' is the paper's serial number, NOT an operator/RTA route number, so a slug id is used. Only endpoints given; intermediate stops unknown."
+    },
+    {
+      "id": "giddu-chowk-latifabad",
+      "name": "Giddu Chowk - Latifabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Giddu Chowk",
+          "name_ur": "",
+          "lat": 25.378138,
+          "lon": 68.332122,
+          "coord_source": "auto:osm:node/2941370721",
+          "is_station": false
+        },
+        {
+          "name": "Latifabad",
+          "name_ur": "",
+          "lat": 25.362063,
+          "lon": 68.349164,
+          "coord_source": "auto:osm:node/1094696681",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Memon et al. 2025, 'Evaluation of commuter perception and optimization of public transit routes in Hyderabad using TOD applications', MURJET 44(2):71-84, doi:10.22581/muet1982.0142 (Table 1 + Fig. 13)",
+          "url": "https://murjet.muet.edu.pk/index.php/home/article/view/142"
+        },
+        {
+          "title": "Same paper, full-text PDF",
+          "url": "https://murjet.muet.edu.pk/index.php/home/article/download/142/11"
+        }
+      ],
+      "notes": "Vehicle: Suzuki van. Listed as survey corridor 04 in Table 1 (From/To/Type) and as 'Route_04' in the Fig. 13 map legend of a 2025 MUET paper; the paper says route info came from the RTA and site surveys. '04' is the paper's serial number, NOT an operator/RTA route number, so a slug id is used. Only endpoints given; intermediate stops unknown. Latifabad endpoint not specified by unit number."
+    },
+    {
+      "id": "gari-khata-naseem-nagar",
+      "name": "Gari Khata - Naseem Nagar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Gari Khata",
+          "name_ur": "",
+          "lat": 25.383888,
+          "lon": 68.369294,
+          "coord_source": "auto:nominatim:way/71553823",
+          "is_station": false
+        },
+        {
+          "name": "Naseem Nagar",
+          "name_ur": "",
+          "lat": 25.400921,
+          "lon": 68.339373,
+          "coord_source": "auto:osm:node/4129572089",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Memon et al. 2025, 'Evaluation of commuter perception and optimization of public transit routes in Hyderabad using TOD applications', MURJET 44(2):71-84, doi:10.22581/muet1982.0142 (Table 1 + Fig. 13)",
+          "url": "https://murjet.muet.edu.pk/index.php/home/article/view/142"
+        },
+        {
+          "title": "Same paper, full-text PDF",
+          "url": "https://murjet.muet.edu.pk/index.php/home/article/download/142/11"
+        }
+      ],
+      "notes": "Vehicle: Suzuki van. Listed as survey corridor 05 in Table 1 (From/To/Type) and as 'Route_05' in the Fig. 13 map legend of a 2025 MUET paper; the paper says route info came from the RTA and site surveys. '05' is the paper's serial number, NOT an operator/RTA route number, so a slug id is used. Only endpoints given; intermediate stops unknown."
+    },
+    {
+      "id": "civil-hospital-lmc-jamshoro",
+      "name": "Civil Hospital - LMC Jamshoro",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Civil Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "LMC Jamshoro",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Memon et al. 2025, 'Evaluation of commuter perception and optimization of public transit routes in Hyderabad using TOD applications', MURJET 44(2):71-84, doi:10.22581/muet1982.0142 (Table 1 + Fig. 13)",
+          "url": "https://murjet.muet.edu.pk/index.php/home/article/view/142"
+        },
+        {
+          "title": "Same paper, full-text PDF",
+          "url": "https://murjet.muet.edu.pk/index.php/home/article/download/142/11"
+        }
+      ],
+      "notes": "Vehicle: Suzuki van. Listed as survey corridor 06 in Table 1 (From/To/Type) and as 'Route_06' in the Fig. 13 map legend of a 2025 MUET paper; the paper says route info came from the RTA and site surveys. '06' is the paper's serial number, NOT an operator/RTA route number, so a slug id is used. Only endpoints given; intermediate stops unknown."
+    },
+    {
+      "id": "civil-hospital-miani-goth",
+      "name": "Civil Hospital - Miani Goth",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Civil Hospital",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Miani Goth",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Memon et al. 2025, 'Evaluation of commuter perception and optimization of public transit routes in Hyderabad using TOD applications', MURJET 44(2):71-84, doi:10.22581/muet1982.0142 (Table 1 + Fig. 13)",
+          "url": "https://murjet.muet.edu.pk/index.php/home/article/view/142"
+        },
+        {
+          "title": "Same paper, full-text PDF",
+          "url": "https://murjet.muet.edu.pk/index.php/home/article/download/142/11"
+        }
+      ],
+      "notes": "Vehicle: Suzuki van. Listed as survey corridor 07 in Table 1 (From/To/Type) and as 'Route_07' in the Fig. 13 map legend of a 2025 MUET paper; the paper says route info came from the RTA and site surveys. '07' is the paper's serial number, NOT an operator/RTA route number, so a slug id is used. Only endpoints given; intermediate stops unknown. Table 1 gives endpoints as 'Tower market/civil hospital' to 'Miani Goth/Hyderabad Bypass'; map legend says Civil Hospital-Miani Goth."
+    },
+    {
+      "id": "badin-stop-hala-naka",
+      "name": "Badin Stop - Hala Naka",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Badin Stop",
+          "name_ur": "",
+          "lat": 25.372188,
+          "lon": 68.37905,
+          "coord_source": "auto:osm:node/1097703640",
+          "is_station": false
+        },
+        {
+          "name": "Hala Naka",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Memon et al. 2025, 'Evaluation of commuter perception and optimization of public transit routes in Hyderabad using TOD applications', MURJET 44(2):71-84, doi:10.22581/muet1982.0142 (Table 1 + Fig. 13)",
+          "url": "https://murjet.muet.edu.pk/index.php/home/article/view/142"
+        },
+        {
+          "title": "Same paper, full-text PDF",
+          "url": "https://murjet.muet.edu.pk/index.php/home/article/download/142/11"
+        }
+      ],
+      "notes": "Vehicle: Mini taxi. Listed as survey corridor 08 in Table 1 (From/To/Type) and as 'Route_08' in the Fig. 13 map legend of a 2025 MUET paper; the paper says route info came from the RTA and site surveys. '08' is the paper's serial number, NOT an operator/RTA route number, so a slug id is used. Only endpoints given; intermediate stops unknown. Table 1 calls the origin 'Badin General Bus station'; map legend says 'BadinStop'."
+    }
+  ],
+  "notes": "Searched in English, Urdu and Sindhi (coach/minibus/Suzuki/chingchi route numbers, Latifabad No. 7/8/10/11, Qasimabad, Hala Naka, Kohsar, Paretabad, fares, RTA permits), Dawn/Tribune/Daily Pakistan/Express, Wikipedia/Wikivoyage, Scribd/SlideShare (their 'Hyderabad bus routes' docs are Hyderabad, India, so not usable), MUET/Springer/ETASR/SJESR papers and OSM Overpass. No source gave numbered local coach routes (e.g. Latifabad No. 7/8) with ordered stops. The only named private corridors are the 7 from the 2025 MUET paper, endpoints only. Its corridor 01 (Haider Chowk - Ayubia restaurant, 'Red Buses/Pink bus') is the Peoples Bus, so it is left out. OSM has about 60 named bus_stop nodes in Hyderabad (e.g. 'Latifabad Unit No 7', '10 Number Bus Stop', 'Ponay 7 Bus Stop', Paretabad, Hala Naka) but no private route relations; they could help geocode stops later. Gaps: numbered coach routes, chingchi routes, fares.",
+  "last_verified": "2026-09-23"
+}

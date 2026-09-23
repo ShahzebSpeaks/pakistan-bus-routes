@@ -39,6 +39,8 @@ Some routes and stop positions come from unofficial compilations. They are credi
 - **SpeedoRoutes** (github.com/Fahad741/SpeedoRoutes): eleven extra Lahore Speedo routes, low confidence because their numbering differs from PMA's.
 - **Rahnuma** (github.com/mabdullahamjad/Rahnuma): alternative R-series names for four Rawalpindi electric bus routes.
 
+- **Other private routes**: Faisalabad routes come from a 2003 WEDC (Loughborough University) case report and from Wikiroutes, a crowdsourced site. Hyderabad, Gujranwala and Bahawalpur routes come from university papers (MUET) and Urban Unit city profiles. Routes marked "(Mnzil)" in Karachi are Mnzil's version of a route that our other sources describe differently. The station positions on those routes also come from Mnzil.
+
 None of these publish a data licence. If a rights holder objects, their data will be removed.
 
 These two sources do have open licences and are credited as they require:

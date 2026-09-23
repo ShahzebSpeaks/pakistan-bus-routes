@@ -1,0 +1,220 @@
+{
+  "id": "mardan-pink-bus",
+  "city": "mardan",
+  "name": "Mardan Pink Bus (women only)",
+  "name_ur": "",
+  "operator": "Government of Khyber Pakhtunkhwa (Transport Dept.), privately operated",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "Only fare figure found: Pink Bus (women only, government, now suspended) flat Rs20 in April 2019 (PakWheels). No fares found for private wagon, Suzuki or Qingqi services.",
+    "as_of": "2019-04",
+    "source_url": "https://www.pakwheels.com/blog/pink-bus-service-launched-mardan/"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": "Suspended 2019"
+  },
+  "sources": [
+    {
+      "title": "Pink Bus Service launched in Mardan",
+      "url": "https://www.pakwheels.com/blog/pink-bus-service-launched-mardan/",
+      "publisher": "PakWheels Blog",
+      "date": "2019-04",
+      "official": false
+    },
+    {
+      "title": "Women-only buses gathering dust at Peshawar bus terminal",
+      "url": "https://www.dawn.com/news/1417736",
+      "publisher": "Dawn",
+      "date": "2018-07-04",
+      "official": false
+    },
+    {
+      "title": "It's curtains for women bus service",
+      "url": "https://www.pakistangendernews.org/its-curtains-for-women-bus-service/",
+      "publisher": "Pakistan Gender News",
+      "date": "2021-02-10",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "pink-bus-mdn",
+      "name": "Baghdada Chowk - Abdul Wali Khan University Garden Campus",
+      "name_ur": "",
+      "variant": "pink",
+      "color": null,
+      "status": "suspended",
+      "launched": "2019-04",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 20,
+        "slabs": [],
+        "concessions": "",
+        "as_of": "2019-04",
+        "source_url": "https://www.pakwheels.com/blog/pink-bus-service-launched-mardan/"
+      },
+      "women_only": true,
+      "stops": [
+        {
+          "name": "Baghdada Chowk",
+          "name_ur": "",
+          "lat": 34.208467,
+          "lon": 72.038347,
+          "coord_source": "auto:osm:node/299115108",
+          "is_station": false
+        },
+        {
+          "name": "Girls Primary School",
+          "name_ur": "",
+          "lat": 34.192709,
+          "lon": 72.048469,
+          "coord_source": "auto:osm:node/8280575118",
+          "is_station": false
+        },
+        {
+          "name": "Government Girls Degree College",
+          "name_ur": "",
+          "lat": 34.193091,
+          "lon": 72.036516,
+          "coord_source": "auto:osm:way/480306062",
+          "is_station": false
+        },
+        {
+          "name": "Muqam Chowk",
+          "name_ur": "",
+          "lat": 34.206557,
+          "lon": 72.027344,
+          "coord_source": "auto:osm:node/299115103",
+          "is_station": false
+        },
+        {
+          "name": "Malakand Chowk",
+          "name_ur": "",
+          "lat": 34.20707,
+          "lon": 72.026408,
+          "coord_source": "auto:osm:way/302966241",
+          "is_station": false
+        },
+        {
+          "name": "Abdul Qadeer Khan Chowk",
+          "name_ur": "",
+          "lat": 34.195788,
+          "lon": 72.032893,
+          "coord_source": "auto:photon:N/3154832581",
+          "is_station": false
+        },
+        {
+          "name": "College Chowk",
+          "name_ur": "",
+          "lat": 34.192613,
+          "lon": 72.034414,
+          "coord_source": "auto:osm:node/3072544376",
+          "is_station": false
+        },
+        {
+          "name": "Bacha Khan Chowk",
+          "name_ur": "",
+          "lat": 34.192033,
+          "lon": 72.034722,
+          "coord_source": "auto:osm:node/2932155125",
+          "is_station": false
+        },
+        {
+          "name": "Ansi College Chowk",
+          "name_ur": "",
+          "lat": 34.190151,
+          "lon": 72.040688,
+          "coord_source": "auto:photon:W/686662710",
+          "is_station": false
+        },
+        {
+          "name": "BISE Mardan",
+          "name_ur": "",
+          "lat": 34.189024,
+          "lon": 72.03915,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bacha Khan Medical College",
+          "name_ur": "",
+          "lat": 34.187896,
+          "lon": 72.037612,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sports Complex Mardan",
+          "name_ur": "",
+          "lat": 34.186769,
+          "lon": 72.036074,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Peshawar Model School",
+          "name_ur": "",
+          "lat": 34.185641,
+          "lon": 72.034536,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mardan Bus Stop",
+          "name_ur": "",
+          "lat": 34.184514,
+          "lon": 72.032998,
+          "coord_source": "auto:osm:node/4732673362",
+          "is_station": false
+        },
+        {
+          "name": "Toru CNG Bus Stop",
+          "name_ur": "",
+          "lat": 34.187598,
+          "lon": 72.034898,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Abdul Wali Khan University (Garden Campus)",
+          "name_ur": "",
+          "lat": 34.190682,
+          "lon": 72.036798,
+          "coord_source": "auto:nominatim:node/3072544364",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Pink Bus Service launched in Mardan (PakWheels, 2019-04)",
+          "url": "https://www.pakwheels.com/blog/pink-bus-service-launched-mardan/"
+        },
+        {
+          "title": "Women-only buses gathering dust at Peshawar bus terminal (Dawn, 2018-07-04)",
+          "url": "https://www.dawn.com/news/1417736"
+        },
+        {
+          "title": "It's curtains for women bus service (2021-02-10)",
+          "url": "https://www.pakistangendernews.org/its-curtains-for-women-bus-service/"
+        }
+      ],
+      "notes": "KP government women-only Pink Bus (not a private service); suspended in 2019. Government women-only Pink Bus using buses donated by Japan, launched 2019-04-04, not a private route. Stop order merges two sources that agree on the core sequence. PakWheels (2019) adds 'Girls Primary School' after Baghdada Chowk. Dawn (2018, pre-launch plan) adds 'Mardan Bus Stop' and 'Toru CNG Bus Stop' before the Garden Campus terminus, and PakWheels omits them. Sources name 15-16 bus stops. PakWheels gives 3 buses at launch plus 4 from 2019-04-08 and a Rs20 fare. Geo says 10 buses, which conflicts. Suspended a few months after launch, and the 2021 report says KP shut it for lack of an operator. Treat as defunct or historical."
+    }
+  ],
+  "notes": "Found while searching for private routes; kept as a separate system because it is a government service. Status suspended.",
+  "last_verified": "2026-09-23"
+}

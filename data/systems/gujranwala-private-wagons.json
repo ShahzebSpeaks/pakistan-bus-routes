@@ -1,0 +1,228 @@
+{
+  "id": "gujranwala-private-wagons",
+  "city": "gujranwala",
+  "name": "Gujranwala private wagons, minibuses and paratransit",
+  "name_ur": "",
+  "operator": "Private operators (route permits by RTA Gujranwala)",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "No wagon/Qingqi/bus fare table found. The 2017 MUET paper gives only City Tour per-trip cost and revenue (e.g. B1 average revenue Rs 1,221 per trip), not passenger fares.",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Aslam & Batool, 'Evaluation of Urban Bus Transport Failure in Gujranwala City of Pakistan', Mehran Univ. Research J. Eng. & Tech. 36(3), July 2017 (Tables 1-2, Fig. 1)",
+      "url": "https://publications.muet.edu.pk/index.php/muetrj/article/view/252",
+      "publisher": "Mehran University of Engineering & Technology (authors: UET Lahore)",
+      "date": "2017-07",
+      "official": false
+    },
+    {
+      "title": "Improvement of Urban Transport in Gujranwala City (study summary, no route list)",
+      "url": "https://tpu.punjab.gov.pk/urban_transport_gujranwala_city",
+      "publisher": "Transport Planning Unit, Govt of Punjab",
+      "date": null,
+      "official": false
+    },
+    {
+      "title": "Gujranwala Regional Plan - Connectivity Plan (2021)",
+      "url": "https://urbanunit.gov.pk/Download/publications/Files/13/2021/Gujranwala%20Regional%20Plan%20-%20Connectivity%20Plan.pdf",
+      "publisher": "The Urban Unit",
+      "date": "2021",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "B1",
+      "name": "Kamonki - Aziz Cross",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 30,
+      "headway_min": 8,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Kamonki",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Aziz Cross",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Aslam & Batool, 'Evaluation of Urban Bus Transport Failure in Gujranwala City of Pakistan', Mehran Univ. Research J. Eng. & Tech. 36(3), July 2017 (Tables 1-2, Fig. 1)",
+          "url": "https://publications.muet.edu.pk/index.php/muetrj/article/view/252"
+        },
+        {
+          "title": "Same paper, PDF",
+          "url": "https://publications.muet.edu.pk/index.php/muetrj/article/download/252/97"
+        }
+      ],
+      "notes": "Private urban bus (full-size buses; operator 'City Tour', fleet 83 buses: 70 diesel, 13 CNG) on a stage-carriage route gazetted in the Punjab Gazette of June 2006 (route data from DRTA Gujranwala). Marked 'Operational' in the 2017 paper; survey figures: 35 buses, avg headway 8 min, 235 trips/day, 18,051 passengers/day (bus count at General Bus Stand). Only endpoints are given (Fig. 1 map shows the alignment but lists no stops). Current status unknown - probably defunct or replaced, as the paper describes the service as failing; check before publishing. Not a wagon/Qingqi route."
+    },
+    {
+      "id": "B2",
+      "name": "Chan Da Qilla - Gakhar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 24,
+      "headway_min": 19,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Chan Da Qilla",
+          "name_ur": "",
+          "lat": 32.093126,
+          "lon": 74.202085,
+          "coord_source": "auto:photon:N/2911480985",
+          "is_station": false
+        },
+        {
+          "name": "Gakhar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Aslam & Batool, 'Evaluation of Urban Bus Transport Failure in Gujranwala City of Pakistan', Mehran Univ. Research J. Eng. & Tech. 36(3), July 2017 (Tables 1-2, Fig. 1)",
+          "url": "https://publications.muet.edu.pk/index.php/muetrj/article/view/252"
+        },
+        {
+          "title": "Same paper, PDF",
+          "url": "https://publications.muet.edu.pk/index.php/muetrj/article/download/252/97"
+        }
+      ],
+      "notes": "Private urban bus (full-size buses; operator 'City Tour', fleet 83 buses: 70 diesel, 13 CNG) on a stage-carriage route gazetted in the Punjab Gazette of June 2006 (route data from DRTA Gujranwala). Marked 'Operational' in the 2017 paper; survey figures: 14 buses, avg headway 19 min, 118 trips/day, 6,016 passengers/day (bus count at General Bus Stand). Only endpoints are given (Fig. 1 map shows the alignment but lists no stops). Current status unknown - probably defunct or replaced, as the paper describes the service as failing; check before publishing. Not a wagon/Qingqi route."
+    },
+    {
+      "id": "B4",
+      "name": "Sheikhupura Morr - Wazirabad Railway Station",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 34,
+      "headway_min": 10,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Sheikhupura Morr",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Wazirabad Railway Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Aslam & Batool, 'Evaluation of Urban Bus Transport Failure in Gujranwala City of Pakistan', Mehran Univ. Research J. Eng. & Tech. 36(3), July 2017 (Tables 1-2, Fig. 1)",
+          "url": "https://publications.muet.edu.pk/index.php/muetrj/article/view/252"
+        },
+        {
+          "title": "Same paper, PDF",
+          "url": "https://publications.muet.edu.pk/index.php/muetrj/article/download/252/97"
+        }
+      ],
+      "notes": "Private urban bus (full-size buses; operator 'City Tour', fleet 83 buses: 70 diesel, 13 CNG) on a stage-carriage route gazetted in the Punjab Gazette of June 2006 (route data from DRTA Gujranwala). Marked 'Operational' in the 2017 paper; survey figures: 22 buses, avg headway 10 min, 198 trips/day, 17,435 passengers/day (bus count at General Bus Stand). Only endpoints are given (Fig. 1 map shows the alignment but lists no stops). Current status unknown - probably defunct or replaced, as the paper describes the service as failing; check before publishing. Not a wagon/Qingqi route."
+    },
+    {
+      "id": "B5",
+      "name": "Daska - Gulshan Iqbal Park Mor",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 22,
+      "headway_min": 24,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daska",
+          "name_ur": "",
+          "lat": 32.327094,
+          "lon": 74.344107,
+          "coord_source": "auto:nominatim:node/3552554438",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Iqbal Park Mor",
+          "name_ur": "",
+          "lat": 32.189855,
+          "lon": 74.177954,
+          "coord_source": "auto:photon:W/285935896",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Aslam & Batool, 'Evaluation of Urban Bus Transport Failure in Gujranwala City of Pakistan', Mehran Univ. Research J. Eng. & Tech. 36(3), July 2017 (Tables 1-2, Fig. 1)",
+          "url": "https://publications.muet.edu.pk/index.php/muetrj/article/view/252"
+        },
+        {
+          "title": "Same paper, PDF",
+          "url": "https://publications.muet.edu.pk/index.php/muetrj/article/download/252/97"
+        }
+      ],
+      "notes": "Private urban bus (full-size buses; operator 'City Tour', fleet 83 buses: 70 diesel, 13 CNG) on a stage-carriage route gazetted in the Punjab Gazette of June 2006 (route data from DRTA Gujranwala). Marked 'Operational' in the 2017 paper; survey figures: 10 buses, avg headway 24 min, 73 trips/day, 5,378 passengers/day (bus count at General Bus Stand). Only endpoints are given (Fig. 1 map shows the alignment but lists no stops). Current status unknown - probably defunct or replaced, as the paper describes the service as failing; check before publishing. Not a wagon/Qingqi route."
+    }
+  ],
+  "notes": "Only source with route IDs: the 2017 MUET paper (Table 1). It lists 8 stage-carriage routes gazetted June 2006. Four were operational in 2017 and are included above. The four listed as NON-OPERATIONAL in 2017 are left out of routes: B3 Aziz Cross (Pindi Bye-pass) - WAPDA Town; B6 Behari Colony - Rahwali Cantt; B7 Zamindara Stand - Dharam Kot Chowk; B8 Tatley Aali - Aziz Cross. Same paper: Qingqis have 'no specified routes'. About 16,000 passengers/day use Qingqis/rickshaws illegally along GT Road between Chanda Qilla and Pindi Bypass, with most boarding between Sheikhupura Morr and Gondlanwala. Urban Unit 2021 Connectivity Plan (83 pp, text extracted): has no intra-city route table. Its data-request annex only lists items it asked the Secretary DRTA for (intra-city route map, route permits by mode, bus stops, Qingqi route details); none of these are published in the plan. TPU Gujranwala study page: summary only, no routes and no PDF. Transport Dept bus-terminal PDFs (transport.punjab.gov.pk/system/files/Gujranwala.pdf and 'Gujranwala Bus Stand_0.pdf') returned 403. punjabtransport.org route-notification page refused connection. MUET article HTML/PDF blocks WebFetch (403) but opens with a browser user agent. OSM Overpass: no bus/minibus/share_taxi route relations in the Gujranwala bbox. English/Urdu searches found no numbered wagon/Hiace/Qingqi route lists or stop sequences (Dawn 2004 archive, Dunya city pages, Nawa-i-Waqt, Graana, UrduPoint). Excluded: Gujranwala Mass Transit/metro feeder (government), UMT university shuttle.",
+  "last_verified": "2026-09-23"
+}

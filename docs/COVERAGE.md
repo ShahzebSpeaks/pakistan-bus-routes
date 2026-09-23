@@ -2,7 +2,7 @@
 
 Generated 2026-09-23 by `npm run data:build`. Do not edit by hand.
 
-**50 cities · 87 systems · 1317 published routes · 7384 stops**
+**53 cities · 93 systems · 1365 published routes · 7487 stops**
 
 Coordinate quality: **exact** = verified (OpenStreetMap element or Wikipedia, checked by a person), **guide** = position published by a route guide such as safar.fyi, **matched** = automatic OpenStreetMap name match, **geocoded** = Nominatim search, **estimated** = interpolated between neighbours, **missing** = not on the map yet.
 
@@ -91,7 +91,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | NATCO | NT-RWP-TAN | Rawalpindi - Tangir | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | NATCO | NT-RWP-DAN | Rawalpindi - Danyor | operational | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
 | NATCO | NT-RWP-GUL | Rawalpindi - Gulmit | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
-| NATCO | NT-RWP-SIK | Rawalpindi - Sikandrabad | operational | 2 | 50% | 0% | 0% | 0% | 0% | 1 | low |
+| NATCO | NT-RWP-SIK | Rawalpindi - Sikandrabad | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | NATCO | NT-RWP-NAR | Rawalpindi - Naran | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | NATCO | NT-RWP-LHR | Rawalpindi - Lahore | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
 | NATCO | NT-GLT-KHI | Gilgit - Karachi | operational | 18 | 6% | 0% | 17% | 72% | 6% | 0 | low |
@@ -112,7 +112,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Niazi Express | NZ-LHR-LAKKIMAR | Lahore - Lakki Marwat | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Niazi Express | NZ-LHR-MUZAFFAR | Lahore - Muzaffarabad | operational | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
 | Niazi Express | NZ-LHR-DAHRANWA | Lahore - Dahranwala | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
-| Niazi Express | NZ-LHR-MAROT | Lahore - Marot | operational | 2 | 50% | 0% | 0% | 0% | 0% | 1 | low |
+| Niazi Express | NZ-LHR-MAROT | Lahore - Marot | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Niazi Express | NZ-LHR-THAKOT | Lahore - Thakot | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Niazi Express | NZ-LHR-KHI | Lahore - Karachi | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Niazi Express | NZ-LHR-MUX | Lahore - Multan | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
@@ -1156,6 +1156,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | System | Route | Name | Status | Stops | Exact | Guide | Matched | Geocoded | Estimated | Missing | Stop list confidence |
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
 | Peshawar private wagons and minibuses | FORD-HAJICAMP-KARKHANO | Haji Camp - Karkhano Market | historical | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Peshawar private wagons and minibuses | haji-camp-kohat-adda | Haji Camp Adda - Kohat Adda | unverified | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
 | Zu Peshawar (TransPeshawar BRT) | ER01 | Chamkani - Karkhano Market | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Zu Peshawar (TransPeshawar BRT) | SR02 | Chamkani - Karkhano Market (all stops) | operational | 30 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Zu Peshawar (TransPeshawar BRT) | DR03A | Dabgari Gardens - Kohat Adda | operational | 10 | 20% | 0% | 40% | 0% | 40% | 0 | high |
@@ -1249,6 +1250,43 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
 | Green Electric Bus Faisalabad | kamal-pur-to-roshan-wala-bypass | Kamal Pur to Roshan Wala Bypass | operational | 27 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
 | Green Electric Bus Faisalabad | uaf-to-sadhaar-bypass | UAF to Sadhaar Bypass | operational | 20 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Faisalabad private wagons, minibuses and paratransit | 1 | Ghulamabad - Makkuana Bypass | unverified | 7 | 0% | 0% | 57% | 0% | 14% | 2 | medium |
+| Faisalabad private wagons, minibuses and paratransit | 2 | Bholewal - Waris Pura | unverified | 7 | 0% | 0% | 43% | 0% | 29% | 2 | medium |
+| Faisalabad private wagons, minibuses and paratransit | 3 | Mandi Quarter - Sheikhupura Road | unverified | 6 | 0% | 0% | 33% | 17% | 33% | 1 | medium |
+| Faisalabad private wagons, minibuses and paratransit | 5 | D-Type Colony - Gulistan Colony | unverified | 8 | 0% | 0% | 50% | 13% | 38% | 0 | medium |
+| Faisalabad private wagons, minibuses and paratransit | 6 | Tulia Wala - Chak 204 Gutwala | unverified | 8 | 0% | 0% | 63% | 0% | 13% | 2 | medium |
+| Faisalabad private wagons, minibuses and paratransit | 7 | Jhang Road Bypass - Chowk Arif (Sheikhupura Road) | unverified | 3 | 0% | 0% | 0% | 0% | 0% | 3 | low |
+| Faisalabad private wagons, minibuses and paratransit | 7-A | New Sabzi Mandi - Dry Port Gatti | unverified | 3 | 0% | 0% | 33% | 0% | 0% | 2 | low |
+| Faisalabad private wagons, minibuses and paratransit | 7-B | Dhandra (Jhang Road) - Dry Port | unverified | 3 | 0% | 0% | 0% | 67% | 33% | 0 | low |
+| Faisalabad private wagons, minibuses and paratransit | 8 | Makkuana - Ram Diwali | unverified | 3 | 0% | 0% | 33% | 0% | 0% | 2 | low |
+| Faisalabad private wagons, minibuses and paratransit | 9 | Dalowal Darbar - Dial Garh | unverified | 3 | 0% | 0% | 0% | 0% | 0% | 3 | low |
+| Faisalabad private wagons, minibuses and paratransit | 11 | Lathian Wala - Nawaban Wala | unverified | 3 | 0% | 0% | 33% | 0% | 0% | 2 | low |
+| Faisalabad private wagons, minibuses and paratransit | 12 | Dry Port Gatti - Narwala Bungalow | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Faisalabad private wagons, minibuses and paratransit | 13 | Malik Wala - Barian Bungalow | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Faisalabad private wagons, minibuses and paratransit | 14 | Nigehban Pura - Sher Singh Wala | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Faisalabad private wagons, minibuses and paratransit | 1 No. Wagon | Narwala Chowk - Allied Hospital | unverified | 6 | 0% | 0% | 83% | 0% | 17% | 0 | low |
+| Faisalabad private wagons, minibuses and paratransit | 20 No. Wagon | Chenab Chowk - Railway Station | unverified | 7 | 0% | 0% | 71% | 0% | 29% | 0 | low |
+| Faisalabad private wagons, minibuses and paratransit | 11b | Kotwali - Khurrianwala | unverified | 16 | 0% | 0% | 56% | 0% | 38% | 1 | low |
+| Faisalabad private wagons, minibuses and paratransit | suzuki-gma-warispura | Ghulam Muhammad Abad - Waris Pura | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Faisalabad private wagons, minibuses and paratransit | suzuki-gma-mansoorabad | Ghulam Muhammad Abad - Mansoorabad | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Faisalabad private wagons, minibuses and paratransit | suzuki-gma-makkuana | Ghulam Muhammad Abad - Makkuana | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Faisalabad private wagons, minibuses and paratransit | suzuki-pmc-shadabcolony | Punjab Medical College - Shadab Colony | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Faisalabad private wagons, minibuses and paratransit | ubus-gma-puldhingroo | Ghulam Muhammad Abad - Pul Dhingroo | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Faisalabad private wagons, minibuses and paratransit | ubus-gma-fawarachowk | Ghulam Muhammad Abad - Fawara Chowk | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Faisalabad private wagons, minibuses and paratransit | ubus-jhangbazaar-billoomore | Jhang Bazaar - Billoo More | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Faisalabad private wagons, minibuses and paratransit | ubus-busstand-khurrianwala | General Bus Stand - Khurrianwala | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Faisalabad private wagons, minibuses and paratransit | ubus-gma-peoplescolony2 | Ghulam Muhammad Abad - People's Colony No. 2 | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Faisalabad private wagons, minibuses and paratransit | ubus-ayub-chak188rb | Ayub Research Institute - Chak 188/RB | unverified | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
+| Faisalabad private wagons, minibuses and paratransit | ubus-gma-makkuana | Ghulam Muhammad Abad - Makkuana | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+
+## Gujranwala
+
+| System | Route | Name | Status | Stops | Exact | Guide | Matched | Geocoded | Estimated | Missing | Stop list confidence |
+|---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
+| Gujranwala private wagons, minibuses and paratransit | B1 | Kamonki - Aziz Cross | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Gujranwala private wagons, minibuses and paratransit | B2 | Chan Da Qilla - Gakhar | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Gujranwala private wagons, minibuses and paratransit | B4 | Sheikhupura Morr - Wazirabad Railway Station | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Gujranwala private wagons, minibuses and paratransit | B5 | Daska - Gulshan Iqbal Park Mor | unverified | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
 
 ## Sialkot
 
@@ -1275,6 +1313,12 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Green Electric Bus Bahawalpur | bhatta-1-to-goth-lashkar | Bhatta 1 to Goth Lashkar | operational | 20 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
 | Green Electric Bus Bahawalpur | dera-bakha-to-lodhran-entrance-gate | Dera Bakha to Lodhran entrance gate | operational | 47 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
 | Green Electric Bus Bahawalpur | talha-town-to-al-raheem-town | Talha Town to Al Raheem Town | operational | 22 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Bahawalpur private wagons, minibuses and paratransit | pciip-university-welcome | University Road - Welcome Chowk | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Bahawalpur private wagons, minibuses and paratransit | pciip-university-yazman | University Road - Yazman Road | unverified | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
+| Bahawalpur private wagons, minibuses and paratransit | pciip-cityhotel-faridgate | City Hotel Chowk - Farid Gate | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Bahawalpur private wagons, minibuses and paratransit | pciip-faridgate-dubai | Farid Gate - Dubai Chowk | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Bahawalpur private wagons, minibuses and paratransit | pciip-dubai-welcome | Dubai Chowk - Welcome Chowk | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Bahawalpur private wagons, minibuses and paratransit | pciip-cityhotel-welcome | City Hotel Chowk - Welcome Chowk | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
 
 ## Dera Ghazi Khan
 
@@ -1325,6 +1369,13 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Peoples Bus Service Hyderabad | HYD-01 | Hyder Chowk - Hatri Police Station | operational | 8 | 38% | 0% | 25% | 0% | 38% | 0 | medium |
 | Peoples Bus Service Hyderabad | HYD-02 | Hala Naka - Tando Allahyar | operational | 10 | 10% | 0% | 30% | 0% | 20% | 4 | medium |
 | Peoples Bus Service Hyderabad | HYD-03 | Hyder Chowk - Kohsar Colony | suspended | 6 | 0% | 0% | 67% | 0% | 17% | 1 | low |
+| Hyderabad private wagons, minibuses and paratransit | channel-mori-lmc-jamshoro | Channel Mori - LMC Jamshoro | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Hyderabad private wagons, minibuses and paratransit | gol-building-khuda-ki-basti | Gol Building - Khuda Ki Basti | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Hyderabad private wagons, minibuses and paratransit | giddu-chowk-latifabad | Giddu Chowk - Latifabad | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Hyderabad private wagons, minibuses and paratransit | gari-khata-naseem-nagar | Gari Khata - Naseem Nagar | unverified | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Hyderabad private wagons, minibuses and paratransit | civil-hospital-lmc-jamshoro | Civil Hospital - LMC Jamshoro | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Hyderabad private wagons, minibuses and paratransit | civil-hospital-miani-goth | Civil Hospital - Miani Goth | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Hyderabad private wagons, minibuses and paratransit | badin-stop-hala-naka | Badin Stop - Hala Naka | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
 
 ## Sukkur
 
@@ -1358,6 +1409,18 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Green Bus Service Quetta (incl. Pink Bus) | GB-1 | BUITEMS - University of Balochistan | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
 | Green Bus Service Quetta (incl. Pink Bus) | PINK | Pink Bus (women only) | unverified | 0 | - | - | - | - | - | 0 | low |
 | Green Bus Service Quetta (incl. Pink Bus) | KUCHLAK | Kuchlak (AC Office) - Mian Ghundi (Sariab) | planned | 0 | - | - | - | - | - | 0 | low |
+
+## Abbottabad
+
+| System | Route | Name | Status | Stops | Exact | Guide | Matched | Geocoded | Estimated | Missing | Stop list confidence |
+|---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
+| Abbottabad Pink Bus (women only) | pink-bus-atd | Mansehra Bus Stop - Frontier Medical College | suspended | 20 | 0% | 0% | 0% | 40% | 50% | 2 | medium |
+
+## Mardan
+
+| System | Route | Name | Status | Stops | Exact | Guide | Matched | Geocoded | Estimated | Missing | Stop list confidence |
+|---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
+| Mardan Pink Bus (women only) | pink-bus-mdn | Baghdada Chowk - Abdul Wali Khan University Garden Campus | suspended | 16 | 0% | 0% | 63% | 6% | 31% | 0 | medium |
 
 ## Attock
 
@@ -1595,6 +1658,7 @@ These routes have the most stops without a verified position. Adding real coordi
 | Karachi | Minibus and coach routes (2010 list) | S-6 | 23 | 0 | 13 |
 | Peshawar | Zu Peshawar (TransPeshawar BRT) | DR14 | 20 | 2 | 11 |
 | Karachi | Minibus and coach routes (2010 list) | Karachi Coach | 16 | 4 | 8 |
+| Abbottabad | Abbottabad Pink Bus (women only) | pink-bus-atd | 20 | 2 | 10 |
 | Shikarpur | Peoples Bus Service Sukkur-Shikarpur | SHIKARPUR | 14 | 8 | 4 |
 | Karachi | Minibus and coach routes (2010 list) | 5-C | 17 | 1 | 10 |
 | Karachi | Minibus and coach routes (2010 list) | 53-B | 13 | 6 | 5 |
@@ -1611,14 +1675,9 @@ These routes have the most stops without a verified position. Adding real coordi
 | Karachi | Minibus and coach routes (2010 list) | 52-A | 16 | 0 | 9 |
 | Karachi | Minibus and coach routes (2010 list) | D-14 | 17 | 2 | 7 |
 | Karachi | Minibus and coach routes (2010 list) | W-35 | 17 | 2 | 7 |
-| Karachi | Minibus and coach routes (2010 list) | 17-J | 15 | 2 | 6 |
 
 ## Build warnings
 
-- intercity-natco/NT-RWP-SIK: 1 stop(s) without coordinates are left out of the map
-- intercity-natco/NT-RWP-SIK: fewer than 2 located stops, listed without a map line
-- intercity-niazi-express/NZ-LHR-MAROT: 1 stop(s) without coordinates are left out of the map
-- intercity-niazi-express/NZ-LHR-MAROT: fewer than 2 located stops, listed without a map line
 - intercity-silk-line/SL-LHR-JHANGRA: 1 stop(s) without coordinates are left out of the map
 - intercity-silk-line/SL-LHR-JHANGRA: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/2-J: 1 stop(s) without coordinates are left out of the map
@@ -2011,6 +2070,8 @@ These routes have the most stops without a verified position. Adding real coordi
 - islamabad-rawalpindi-private-wagons/SZ-FAWARA-CHAKLALAAIRPORT: fewer than 2 located stops, listed without a map line
 - islamabad-rawalpindi-private-wagons/W-SADDAR-ADIALA: 1 stop(s) without coordinates are left out of the map
 - islamabad-rawalpindi-private-wagons/W-SADDAR-ADIALA: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/haji-camp-kohat-adda: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/haji-camp-kohat-adda: fewer than 2 located stops, listed without a map line
 - peshawar-zu-brt/DR03B: 2 stop(s) without coordinates are left out of the map
 - peshawar-zu-brt/ER12: 1 stop(s) without coordinates are left out of the map
 - peshawar-zu-brt/DR13: 3 stop(s) without coordinates are left out of the map
@@ -2063,8 +2124,77 @@ These routes have the most stops without a verified position. Adding real coordi
 - multan-iptn-planned/MBS-ORANGE: 1 stop(s) without coordinates are left out of the map
 - multan-iptn-planned/MBS-PURPLE: 2 stop(s) without coordinates are left out of the map
 - multan-iptn-planned/MBS-BLUE: 1 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/1: 2 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/2: 2 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/3: 1 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/6: 2 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/7: 3 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/7: fewer than 2 located stops, listed without a map line
+- faisalabad-private-wagons/7-A: 2 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/7-A: fewer than 2 located stops, listed without a map line
+- faisalabad-private-wagons/8: 2 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/8: fewer than 2 located stops, listed without a map line
+- faisalabad-private-wagons/9: 3 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/9: fewer than 2 located stops, listed without a map line
+- faisalabad-private-wagons/11: 2 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/11: fewer than 2 located stops, listed without a map line
+- faisalabad-private-wagons/12: 1 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/12: fewer than 2 located stops, listed without a map line
+- faisalabad-private-wagons/13: 2 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/13: fewer than 2 located stops, listed without a map line
+- faisalabad-private-wagons/14: 2 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/14: fewer than 2 located stops, listed without a map line
+- faisalabad-private-wagons/11b: 1 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/suzuki-gma-warispura: 1 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/suzuki-gma-warispura: fewer than 2 located stops, listed without a map line
+- faisalabad-private-wagons/suzuki-gma-mansoorabad: 1 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/suzuki-gma-mansoorabad: fewer than 2 located stops, listed without a map line
+- faisalabad-private-wagons/suzuki-gma-makkuana: 1 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/suzuki-gma-makkuana: fewer than 2 located stops, listed without a map line
+- faisalabad-private-wagons/suzuki-pmc-shadabcolony: 1 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/suzuki-pmc-shadabcolony: fewer than 2 located stops, listed without a map line
+- faisalabad-private-wagons/ubus-gma-puldhingroo: 1 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/ubus-gma-puldhingroo: fewer than 2 located stops, listed without a map line
+- faisalabad-private-wagons/ubus-gma-fawarachowk: 1 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/ubus-gma-fawarachowk: fewer than 2 located stops, listed without a map line
+- faisalabad-private-wagons/ubus-jhangbazaar-billoomore: 1 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/ubus-jhangbazaar-billoomore: fewer than 2 located stops, listed without a map line
+- faisalabad-private-wagons/ubus-busstand-khurrianwala: 1 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/ubus-busstand-khurrianwala: fewer than 2 located stops, listed without a map line
+- faisalabad-private-wagons/ubus-gma-peoplescolony2: 1 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/ubus-gma-peoplescolony2: fewer than 2 located stops, listed without a map line
+- faisalabad-private-wagons/ubus-ayub-chak188rb: 1 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/ubus-ayub-chak188rb: fewer than 2 located stops, listed without a map line
+- faisalabad-private-wagons/ubus-gma-makkuana: 1 stop(s) without coordinates are left out of the map
+- faisalabad-private-wagons/ubus-gma-makkuana: fewer than 2 located stops, listed without a map line
+- gujranwala-private-wagons/B1: 2 stop(s) without coordinates are left out of the map
+- gujranwala-private-wagons/B1: fewer than 2 located stops, listed without a map line
+- gujranwala-private-wagons/B2: 1 stop(s) without coordinates are left out of the map
+- gujranwala-private-wagons/B2: fewer than 2 located stops, listed without a map line
+- gujranwala-private-wagons/B4: 2 stop(s) without coordinates are left out of the map
+- gujranwala-private-wagons/B4: fewer than 2 located stops, listed without a map line
+- bahawalpur-private-wagons/pciip-university-welcome: 2 stop(s) without coordinates are left out of the map
+- bahawalpur-private-wagons/pciip-university-welcome: fewer than 2 located stops, listed without a map line
+- bahawalpur-private-wagons/pciip-university-yazman: 1 stop(s) without coordinates are left out of the map
+- bahawalpur-private-wagons/pciip-university-yazman: fewer than 2 located stops, listed without a map line
+- bahawalpur-private-wagons/pciip-cityhotel-faridgate: 1 stop(s) without coordinates are left out of the map
+- bahawalpur-private-wagons/pciip-cityhotel-faridgate: fewer than 2 located stops, listed without a map line
+- bahawalpur-private-wagons/pciip-dubai-welcome: 1 stop(s) without coordinates are left out of the map
+- bahawalpur-private-wagons/pciip-dubai-welcome: fewer than 2 located stops, listed without a map line
+- bahawalpur-private-wagons/pciip-cityhotel-welcome: 2 stop(s) without coordinates are left out of the map
+- bahawalpur-private-wagons/pciip-cityhotel-welcome: fewer than 2 located stops, listed without a map line
 - hyderabad-pbs/HYD-02: 4 stop(s) without coordinates are left out of the map
 - hyderabad-pbs/HYD-03: 1 stop(s) without coordinates are left out of the map
+- hyderabad-private-wagons/channel-mori-lmc-jamshoro: 2 stop(s) without coordinates are left out of the map
+- hyderabad-private-wagons/channel-mori-lmc-jamshoro: fewer than 2 located stops, listed without a map line
+- hyderabad-private-wagons/gol-building-khuda-ki-basti: 1 stop(s) without coordinates are left out of the map
+- hyderabad-private-wagons/gol-building-khuda-ki-basti: fewer than 2 located stops, listed without a map line
+- hyderabad-private-wagons/civil-hospital-lmc-jamshoro: 2 stop(s) without coordinates are left out of the map
+- hyderabad-private-wagons/civil-hospital-lmc-jamshoro: fewer than 2 located stops, listed without a map line
+- hyderabad-private-wagons/civil-hospital-miani-goth: 2 stop(s) without coordinates are left out of the map
+- hyderabad-private-wagons/civil-hospital-miani-goth: fewer than 2 located stops, listed without a map line
+- hyderabad-private-wagons/badin-stop-hala-naka: 1 stop(s) without coordinates are left out of the map
+- hyderabad-private-wagons/badin-stop-hala-naka: fewer than 2 located stops, listed without a map line
 - sukkur-pbs/SUK-01: 3 stop(s) without coordinates are left out of the map
 - larkana-pbs/LRK-01: 5 stop(s) without coordinates are left out of the map
 - larkana-pbs/LRK-QMB: fewer than 2 located stops, listed without a map line
@@ -2074,6 +2204,7 @@ These routes have the most stops without a verified position. Adding real coordi
 - mirpurkhas-pbs/MIRPURKHAS: fewer than 2 located stops, listed without a map line
 - quetta-green-bus/PINK: fewer than 2 located stops, listed without a map line
 - quetta-green-bus/KUCHLAK: fewer than 2 located stops, listed without a map line
+- abbottabad-pink-bus/pink-bus-atd: 2 stop(s) without coordinates are left out of the map
 - shikarpur-pbs/SHIKARPUR: 8 stop(s) without coordinates are left out of the map
 - khairpur-pbs/KHAIRPUR-01: 5 stop(s) without coordinates are left out of the map
 - khairpur-pbs/KHAIRPUR-02: 1 stop(s) without coordinates are left out of the map

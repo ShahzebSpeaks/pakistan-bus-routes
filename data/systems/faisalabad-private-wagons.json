@@ -1,0 +1,1686 @@
+{
+  "id": "faisalabad-private-wagons",
+  "city": "faisalabad",
+  "name": "Faisalabad private wagons, minibuses and paratransit",
+  "name_ur": "",
+  "operator": "Private operators (route permits by RTA Faisalabad)",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "(Source fare basis: distance.) FUTS wagons (2002): minimum fare Rs3, full-route maximum Rs12-15, no student/government-servant concession (WEDC 2003). Suzuki pick-ups Rs2-5 (post-1997). Wikiroutes 2018: 20 No. Wagon Rs20, 1 No. Wagon Rs30, bus 11b Rs10-40. All historic.",
+    "as_of": "2002",
+    "source_url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003)",
+      "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf",
+      "publisher": "WEDC, Loughborough University",
+      "date": "2003 (data 2002)",
+      "official": false
+    },
+    {
+      "title": "Wikiroutes - Faisalabad catalog (crowdsourced)",
+      "url": "https://wikiroutes.info/en/faisalabad/catalog",
+      "publisher": "Wikiroutes",
+      "date": "2018-03-12",
+      "official": false
+    },
+    {
+      "title": "FAISALABAD: Dist govt rapped for ban on wagons",
+      "url": "https://www.dawn.com/news/365599/faisalabad-dist-govt-rapped-for-ban-on-wagons",
+      "publisher": "Dawn",
+      "date": "2004-07-27",
+      "official": false
+    },
+    {
+      "title": "Commissioner launches reforms to turn FUTS into self-sustaining welfare institution",
+      "url": "https://www.app.com.pk/punjab/commissioner-launches-reforms-to-turn-futs-into-self-sustaining-welfare-institution/",
+      "publisher": "APP",
+      "date": "2026-06",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "1",
+      "name": "Ghulamabad - Makkuana Bypass",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 27,
+      "headway_min": null,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Ghulamabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Raza Abad",
+          "name_ur": "",
+          "lat": 31.428818,
+          "lon": 73.044604,
+          "coord_source": "auto:osm:way/287549948",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah Colony",
+          "name_ur": "",
+          "lat": 31.420427,
+          "lon": 73.066526,
+          "coord_source": "auto:osm:way/287551629",
+          "is_station": false
+        },
+        {
+          "name": "FUTS Main Terminal (Aminpur Bazaar, Allama Iqbal Road)",
+          "name_ur": "",
+          "lat": 31.418853,
+          "lon": 73.081588,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": 31.417279,
+          "lon": 73.09665,
+          "coord_source": "auto:osm:way/1370365121",
+          "is_station": false
+        },
+        {
+          "name": "Jaranwala Road",
+          "name_ur": "",
+          "lat": 31.411423,
+          "lon": 73.117626,
+          "coord_source": "auto:osm:way/23413551",
+          "is_station": false
+        },
+        {
+          "name": "Makkuana Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 3.1 (data: FUTS Administrator's Office, June 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "FUTS 15-seater wagon (Hiace-type stage carrier). 100 wagons (June 2002). Stops = 'route assignment' list in source order (mix of localities and road names, not a formal stop list). Length = sum of the two leg lengths printed in the table (sums match table total 379 km). Spellings lightly normalised (e.g. Gulamabad->Ghulamabad, Sammundary->Samundri). Historic 2002 data; route may have changed or been renumbered since."
+    },
+    {
+      "id": "2",
+      "name": "Bholewal - Waris Pura",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 22,
+      "headway_min": null,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Bholewal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Guru Nanakpura",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jinnah Colony",
+          "name_ur": "",
+          "lat": 31.420427,
+          "lon": 73.066526,
+          "coord_source": "auto:osm:way/287551629",
+          "is_station": false
+        },
+        {
+          "name": "FUTS Main Terminal (Aminpur Bazaar, Allama Iqbal Road)",
+          "name_ur": "",
+          "lat": 31.418853,
+          "lon": 73.081588,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": 31.417279,
+          "lon": 73.09665,
+          "coord_source": "auto:osm:way/1370365121",
+          "is_station": false
+        },
+        {
+          "name": "People's Colony",
+          "name_ur": "",
+          "lat": 31.398478,
+          "lon": 73.092844,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Waris Pura",
+          "name_ur": "",
+          "lat": 31.379678,
+          "lon": 73.089037,
+          "coord_source": "auto:osm:way/287518522",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 3.1 (data: FUTS Administrator's Office, June 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "FUTS 15-seater wagon (Hiace-type stage carrier). 130 wagons (June 2002). Stops = 'route assignment' list in source order (mix of localities and road names, not a formal stop list). Length = sum of the two leg lengths printed in the table (sums match table total 379 km). Spellings lightly normalised (e.g. Gulamabad->Ghulamabad, Sammundary->Samundri). Historic 2002 data; route may have changed or been renumbered since."
+    },
+    {
+      "id": "3",
+      "name": "Mandi Quarter - Sheikhupura Road",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 23,
+      "headway_min": null,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Mandi Quarter",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Samundri Road",
+          "name_ur": "",
+          "lat": 31.279408,
+          "lon": 73.086185,
+          "coord_source": "auto:osm:way/389027711",
+          "is_station": false
+        },
+        {
+          "name": "Dijkot Road",
+          "name_ur": "",
+          "lat": 31.337768,
+          "lon": 73.098275,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "FUTS Main Terminal (Aminpur Bazaar, Allama Iqbal Road)",
+          "name_ur": "",
+          "lat": 31.396129,
+          "lon": 73.110364,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Nishatabad",
+          "name_ur": "",
+          "lat": 31.454489,
+          "lon": 73.122454,
+          "coord_source": "auto:osm:way/23408192",
+          "is_station": false
+        },
+        {
+          "name": "Sheikhupura Road",
+          "name_ur": "",
+          "lat": 31.449436,
+          "lon": 73.104973,
+          "coord_source": "auto:nominatim:way/23408193",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 3.1 (data: FUTS Administrator's Office, June 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "FUTS 15-seater wagon (Hiace-type stage carrier). 105 wagons (June 2002). Stops = 'route assignment' list in source order (mix of localities and road names, not a formal stop list). Length = sum of the two leg lengths printed in the table (sums match table total 379 km). Spellings lightly normalised (e.g. Gulamabad->Ghulamabad, Sammundary->Samundri). Historic 2002 data; route may have changed or been renumbered since."
+    },
+    {
+      "id": "5",
+      "name": "D-Type Colony - Gulistan Colony",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 20,
+      "headway_min": null,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "D-Type Colony",
+          "name_ur": "",
+          "lat": 31.380729,
+          "lon": 73.07915,
+          "coord_source": "auto:osm:node/2758021939",
+          "is_station": false
+        },
+        {
+          "name": "Samundri Road",
+          "name_ur": "",
+          "lat": 31.385341,
+          "lon": 73.073144,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Samanabad",
+          "name_ur": "",
+          "lat": 31.389954,
+          "lon": 73.067139,
+          "coord_source": "auto:osm:node/5273202182",
+          "is_station": false
+        },
+        {
+          "name": "Dijkot Road",
+          "name_ur": "",
+          "lat": 31.39797,
+          "lon": 73.074978,
+          "coord_source": "auto:osm:way/23408048",
+          "is_station": false
+        },
+        {
+          "name": "FUTS Main Terminal (Aminpur Bazaar, Allama Iqbal Road)",
+          "name_ur": "",
+          "lat": 31.41304,
+          "lon": 73.085056,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Lari Adda",
+          "name_ur": "",
+          "lat": 31.42811,
+          "lon": 73.095133,
+          "coord_source": "auto:nominatim:node/5273603416",
+          "is_station": false
+        },
+        {
+          "name": "Bole Di Jhuggi",
+          "name_ur": "",
+          "lat": 31.433478,
+          "lon": 73.09809,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gulistan Colony",
+          "name_ur": "",
+          "lat": 31.438846,
+          "lon": 73.101047,
+          "coord_source": "auto:osm:way/287520136",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 3.1 (data: FUTS Administrator's Office, June 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "FUTS 15-seater wagon (Hiace-type stage carrier). 140 wagons (June 2002). Stops = 'route assignment' list in source order (mix of localities and road names, not a formal stop list). Length = sum of the two leg lengths printed in the table (sums match table total 379 km). Spellings lightly normalised (e.g. Gulamabad->Ghulamabad, Sammundary->Samundri). Historic 2002 data; route may have changed or been renumbered since."
+    },
+    {
+      "id": "6",
+      "name": "Tulia Wala - Chak 204 Gutwala",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 27,
+      "headway_min": null,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Tulia Wala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Narwala Road",
+          "name_ur": "",
+          "lat": 31.430449,
+          "lon": 73.04963,
+          "coord_source": "auto:osm:way/287280887",
+          "is_station": false
+        },
+        {
+          "name": "Raza Abad",
+          "name_ur": "",
+          "lat": 31.428818,
+          "lon": 73.044604,
+          "coord_source": "auto:osm:way/287549948",
+          "is_station": false
+        },
+        {
+          "name": "FUTS Main Terminal (Aminpur Bazaar, Allama Iqbal Road)",
+          "name_ur": "",
+          "lat": 31.422821,
+          "lon": 73.067877,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "GTS",
+          "name_ur": "",
+          "lat": 31.416824,
+          "lon": 73.09115,
+          "coord_source": "auto:osm:way/23413697",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": 31.417279,
+          "lon": 73.09665,
+          "coord_source": "auto:osm:way/1370365121",
+          "is_station": false
+        },
+        {
+          "name": "Madina Town",
+          "name_ur": "",
+          "lat": 31.420033,
+          "lon": 73.119118,
+          "coord_source": "auto:osm:way/287519793",
+          "is_station": false
+        },
+        {
+          "name": "Chak 204 Gutwala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 3.1 (data: FUTS Administrator's Office, June 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "FUTS 15-seater wagon (Hiace-type stage carrier). 50 wagons (June 2002). Stops = 'route assignment' list in source order (mix of localities and road names, not a formal stop list). Length = sum of the two leg lengths printed in the table (sums match table total 379 km). Spellings lightly normalised (e.g. Gulamabad->Ghulamabad, Sammundary->Samundri). Historic 2002 data; route may have changed or been renumbered since."
+    },
+    {
+      "id": "7",
+      "name": "Jhang Road Bypass - Chowk Arif (Sheikhupura Road)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 30,
+      "headway_min": null,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Jhang Road Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "FUTS Main Terminal (Aminpur Bazaar, Allama Iqbal Road)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Chowk Arif (Sheikhupura Road)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 3.1 (data: FUTS Administrator's Office, June 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "FUTS 15-seater wagon (Hiace-type stage carrier). 155 wagons (June 2002). Stops = 'route assignment' list in source order (mix of localities and road names, not a formal stop list). Length = sum of the two leg lengths printed in the table (sums match table total 379 km). Spellings lightly normalised (e.g. Gulamabad->Ghulamabad, Sammundary->Samundri). Historic 2002 data; route may have changed or been renumbered since."
+    },
+    {
+      "id": "7-A",
+      "name": "New Sabzi Mandi - Dry Port Gatti",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 29,
+      "headway_min": null,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "New Sabzi Mandi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "FUTS Main Terminal (Aminpur Bazaar, Allama Iqbal Road)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dry Port Gatti",
+          "name_ur": "",
+          "lat": 31.490913,
+          "lon": 73.143048,
+          "coord_source": "auto:photon:W/1370688641",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 3.1 (data: FUTS Administrator's Office, June 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "FUTS 15-seater wagon (Hiace-type stage carrier). 85 wagons (June 2002). Stops = 'route assignment' list in source order (mix of localities and road names, not a formal stop list). Length = sum of the two leg lengths printed in the table (sums match table total 379 km). Spellings lightly normalised (e.g. Gulamabad->Ghulamabad, Sammundary->Samundri). Historic 2002 data; route may have changed or been renumbered since."
+    },
+    {
+      "id": "7-B",
+      "name": "Dhandra (Jhang Road) - Dry Port",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 32,
+      "headway_min": null,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Dhandra (Jhang Road)",
+          "name_ur": "",
+          "lat": 31.562497,
+          "lon": 73.026707,
+          "coord_source": "auto:nominatim:node/893971633",
+          "is_station": false
+        },
+        {
+          "name": "FUTS Main Terminal (Aminpur Bazaar, Allama Iqbal Road)",
+          "name_ur": "",
+          "lat": 31.526224,
+          "lon": 73.084024,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dry Port",
+          "name_ur": "",
+          "lat": 31.489952,
+          "lon": 73.141342,
+          "coord_source": "auto:nominatim:node/6165259385",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 3.1 (data: FUTS Administrator's Office, June 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "FUTS 15-seater wagon (Hiace-type stage carrier). 20 wagons (June 2002). Stops = 'route assignment' list in source order (mix of localities and road names, not a formal stop list). Length = sum of the two leg lengths printed in the table (sums match table total 379 km). Spellings lightly normalised (e.g. Gulamabad->Ghulamabad, Sammundary->Samundri). Historic 2002 data; route may have changed or been renumbered since."
+    },
+    {
+      "id": "8",
+      "name": "Makkuana - Ram Diwali",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 30,
+      "headway_min": null,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Makkuana",
+          "name_ur": "",
+          "lat": 31.38696,
+          "lon": 73.202667,
+          "coord_source": "auto:osm:node/9930612808",
+          "is_station": false
+        },
+        {
+          "name": "FUTS Main Terminal (Aminpur Bazaar, Allama Iqbal Road)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ram Diwali",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 3.1 (data: FUTS Administrator's Office, June 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "FUTS 15-seater wagon (Hiace-type stage carrier). 40 wagons (June 2002). Stops = 'route assignment' list in source order (mix of localities and road names, not a formal stop list). Length = sum of the two leg lengths printed in the table (sums match table total 379 km). Spellings lightly normalised (e.g. Gulamabad->Ghulamabad, Sammundary->Samundri). Historic 2002 data; route may have changed or been renumbered since."
+    },
+    {
+      "id": "9",
+      "name": "Dalowal Darbar - Dial Garh",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 31,
+      "headway_min": null,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Dalowal Darbar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "FUTS Main Terminal (Aminpur Bazaar, Allama Iqbal Road)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dial Garh",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 3.1 (data: FUTS Administrator's Office, June 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "FUTS 15-seater wagon (Hiace-type stage carrier). 100 wagons (June 2002). Stops = 'route assignment' list in source order (mix of localities and road names, not a formal stop list). Length = sum of the two leg lengths printed in the table (sums match table total 379 km). Spellings lightly normalised (e.g. Gulamabad->Ghulamabad, Sammundary->Samundri). Historic 2002 data; route may have changed or been renumbered since."
+    },
+    {
+      "id": "11",
+      "name": "Lathian Wala - Nawaban Wala",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 28,
+      "headway_min": null,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lathian Wala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "FUTS Main Terminal (Aminpur Bazaar, Allama Iqbal Road)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nawaban Wala",
+          "name_ur": "",
+          "lat": 31.383577,
+          "lon": 73.058701,
+          "coord_source": "auto:osm:node/5273202177",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 3.1 (data: FUTS Administrator's Office, June 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "FUTS 15-seater wagon (Hiace-type stage carrier). 60 wagons (June 2002). Stops = 'route assignment' list in source order (mix of localities and road names, not a formal stop list). Length = sum of the two leg lengths printed in the table (sums match table total 379 km). Spellings lightly normalised (e.g. Gulamabad->Ghulamabad, Sammundary->Samundri). Historic 2002 data; route may have changed or been renumbered since."
+    },
+    {
+      "id": "12",
+      "name": "Dry Port Gatti - Narwala Bungalow",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 28,
+      "headway_min": null,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Dry Port Gatti",
+          "name_ur": "",
+          "lat": 31.490913,
+          "lon": 73.143048,
+          "coord_source": "auto:photon:W/1370688641",
+          "is_station": false
+        },
+        {
+          "name": "Narwala Bungalow",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 3.1 (data: FUTS Administrator's Office, June 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "FUTS 15-seater wagon (Hiace-type stage carrier). 10 wagons (June 2002). Stops = 'route assignment' list in source order (mix of localities and road names, not a formal stop list). Length = sum of the two leg lengths printed in the table (sums match table total 379 km). Spellings lightly normalised (e.g. Gulamabad->Ghulamabad, Sammundary->Samundri). Historic 2002 data; route may have changed or been renumbered since. Table gives no 'via main terminal' for this route, although the report says every FUTS route converges on the main terminal; terminal not added as a stop."
+    },
+    {
+      "id": "13",
+      "name": "Malik Wala - Barian Bungalow",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 30,
+      "headway_min": null,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Malik Wala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Barian Bungalow",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 3.1 (data: FUTS Administrator's Office, June 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "FUTS 15-seater wagon (Hiace-type stage carrier). 15 wagons (June 2002). Stops = 'route assignment' list in source order (mix of localities and road names, not a formal stop list). Length = sum of the two leg lengths printed in the table (sums match table total 379 km). Spellings lightly normalised (e.g. Gulamabad->Ghulamabad, Sammundary->Samundri). Historic 2002 data; route may have changed or been renumbered since. Table gives no 'via main terminal' for this route, although the report says every FUTS route converges on the main terminal; terminal not added as a stop."
+    },
+    {
+      "id": "14",
+      "name": "Nigehban Pura - Sher Singh Wala",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 22,
+      "headway_min": null,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Nigehban Pura",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sher Singh Wala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 3.1 (data: FUTS Administrator's Office, June 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "FUTS 15-seater wagon (Hiace-type stage carrier). 20 wagons (June 2002). Stops = 'route assignment' list in source order (mix of localities and road names, not a formal stop list). Length = sum of the two leg lengths printed in the table (sums match table total 379 km). Spellings lightly normalised (e.g. Gulamabad->Ghulamabad, Sammundary->Samundri). Historic 2002 data; route may have changed or been renumbered since. Table gives no 'via main terminal' for this route, although the report says every FUTS route converges on the main terminal; terminal not added as a stop."
+    },
+    {
+      "id": "1 No. Wagon",
+      "name": "Narwala Chowk - Allied Hospital",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 25,
+      "hours": {
+        "start": "07:00",
+        "end": "22:00"
+      },
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 30,
+        "slabs": [],
+        "concessions": "",
+        "as_of": "2018-03",
+        "source_url": "https://wikiroutes.info/en/faisalabad?routes=44786"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Narwala Chowk",
+          "name_ur": "",
+          "lat": 31.418636,
+          "lon": 73.073896,
+          "coord_source": "auto:osm:node/2913746652",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah Colony",
+          "name_ur": "",
+          "lat": 31.420427,
+          "lon": 73.066526,
+          "coord_source": "auto:osm:way/287551629",
+          "is_station": false
+        },
+        {
+          "name": "Agriculture University",
+          "name_ur": "",
+          "lat": 31.434729,
+          "lon": 73.068579,
+          "coord_source": "auto:osm:way/72617195",
+          "is_station": false
+        },
+        {
+          "name": "Sarfaraz Colony",
+          "name_ur": "",
+          "lat": 31.439136,
+          "lon": 73.072241,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ganda Nala",
+          "name_ur": "",
+          "lat": 31.443543,
+          "lon": 73.075904,
+          "coord_source": "auto:osm:way/286785022",
+          "is_station": false
+        },
+        {
+          "name": "Allied Hospital",
+          "name_ur": "",
+          "lat": 31.448384,
+          "lon": 73.079764,
+          "coord_source": "auto:osm:way/822621160",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Wikiroutes (crowdsourced) - Faisalabad minibus '1 No. Wagon', last updated 2018-03-12",
+          "url": "https://wikiroutes.info/en/faisalabad?routes=44786"
+        }
+      ],
+      "notes": "Wagon/minibus. Wikiroutes lists a loop Narwala Chowk -> Allied Hospital, returning via Ganda Nala, Sarfaraz Colony, Agriculture University, Model Colony to 'Kotwali/Narwala'; outbound direction given. Fare Rs30, every 25 min, 07:00-22:00 (as entered 2018). Not the same as OSM B-10 (Kotwali-Narwala via Millat Road). Relation to FUTS route 1 (2002) unknown."
+    },
+    {
+      "id": "20 No. Wagon",
+      "name": "Chenab Chowk - Railway Station",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 15,
+      "hours": {
+        "start": "07:00",
+        "end": "22:00"
+      },
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 20,
+        "slabs": [],
+        "concessions": "",
+        "as_of": "2018-03",
+        "source_url": "https://wikiroutes.info/en/faisalabad?routes=44785"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Chenab Chowk",
+          "name_ur": "",
+          "lat": 31.413406,
+          "lon": 73.067653,
+          "coord_source": "auto:osm:node/6711730387",
+          "is_station": false
+        },
+        {
+          "name": "Jhang Bazaar",
+          "name_ur": "",
+          "lat": 31.415254,
+          "lon": 73.075598,
+          "coord_source": "auto:osm:way/44039569",
+          "is_station": false
+        },
+        {
+          "name": "Main Jhang Bazaar",
+          "name_ur": "",
+          "lat": 31.417427,
+          "lon": 73.077796,
+          "coord_source": "auto:osm:way/23413731",
+          "is_station": false
+        },
+        {
+          "name": "Montgomery Bazaar",
+          "name_ur": "",
+          "lat": 31.417212,
+          "lon": 73.079578,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Karkhana Bazaar Mor",
+          "name_ur": "",
+          "lat": 31.416998,
+          "lon": 73.08136,
+          "coord_source": "auto:osm:way/23413733",
+          "is_station": false
+        },
+        {
+          "name": "Old GTS",
+          "name_ur": "",
+          "lat": 31.417139,
+          "lon": 73.089005,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": 31.417279,
+          "lon": 73.09665,
+          "coord_source": "auto:osm:way/1370365121",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Wikiroutes (crowdsourced) - Faisalabad minibus '20 No. Wagon', last updated 2018-03-12",
+          "url": "https://wikiroutes.info/en/faisalabad?routes=44785"
+        }
+      ],
+      "notes": "Wagon/minibus, operator 'Local'. Wikiroutes shows a loop Chenab Chowk -> Railway Station returning via Karkhana Bazaar Mor, Montgomery Bazaar, Landa Bazaar, Jhang Bazaar, Chenab Chowk Monument, Imam Bargah; outbound direction given. Fare Rs20, every 15 min, 07:00-22:00 (as entered 2018)."
+    },
+    {
+      "id": "11b",
+      "name": "Kotwali - Khurrianwala",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 30,
+      "hours": {
+        "start": "07:00",
+        "end": "22:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Kotwali",
+          "name_ur": "",
+          "lat": 31.418889,
+          "lon": 73.074115,
+          "coord_source": "auto:osm:node/5263409090",
+          "is_station": false
+        },
+        {
+          "name": "Aminpur Bazaar",
+          "name_ur": "",
+          "lat": 31.419832,
+          "lon": 73.077561,
+          "coord_source": "auto:osm:way/1149324728",
+          "is_station": false
+        },
+        {
+          "name": "Chiniot Bazaar",
+          "name_ur": "",
+          "lat": 31.420952,
+          "lon": 73.079053,
+          "coord_source": "auto:osm:way/1149324727",
+          "is_station": false
+        },
+        {
+          "name": "Kutchery Bazaar",
+          "name_ur": "",
+          "lat": 31.419576,
+          "lon": 73.083085,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kutchery Road",
+          "name_ur": "",
+          "lat": 31.4182,
+          "lon": 73.087118,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "GTS Chowk",
+          "name_ur": "",
+          "lat": 31.416824,
+          "lon": 73.09115,
+          "coord_source": "auto:osm:way/23413697",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": 31.417279,
+          "lon": 73.09665,
+          "coord_source": "auto:osm:way/1370365121",
+          "is_station": false
+        },
+        {
+          "name": "Abdullahpur",
+          "name_ur": "",
+          "lat": 31.419633,
+          "lon": 73.097015,
+          "coord_source": "auto:osm:way/438526041",
+          "is_station": false
+        },
+        {
+          "name": "Usman Travels Bus Stop",
+          "name_ur": "",
+          "lat": 31.428452,
+          "lon": 73.128367,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pipe Wala Pul",
+          "name_ur": "",
+          "lat": 31.437272,
+          "lon": 73.159718,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kashmir Bridge",
+          "name_ur": "",
+          "lat": 31.446092,
+          "lon": 73.19107,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bhaiwala",
+          "name_ur": "",
+          "lat": 31.454911,
+          "lon": 73.222422,
+          "coord_source": "auto:osm:node/9913564122",
+          "is_station": false
+        },
+        {
+          "name": "Shakargarh Mor",
+          "name_ur": "",
+          "lat": 31.466523,
+          "lon": 73.21623,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gatwala",
+          "name_ur": "",
+          "lat": 31.478135,
+          "lon": 73.210038,
+          "coord_source": "auto:photon:W/287817056",
+          "is_station": false
+        },
+        {
+          "name": "Lathianwala",
+          "name_ur": "",
+          "lat": 31.468088,
+          "lon": 73.23486,
+          "coord_source": "auto:osm:node/893971621",
+          "is_station": false
+        },
+        {
+          "name": "Khurrianwala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Wikiroutes (crowdsourced) - Faisalabad bus '11b', last updated 2018-03-12",
+          "url": "https://wikiroutes.info/en/faisalabad?routes=44784"
+        }
+      ],
+      "notes": "Bus, operator listed as 'Metro' (2018) - presumably the private CNG 'Metro' city-bus operators of the 2000s (Dawn 2004 mentions a private metro bus operator; district website mentions 'Brothers Metro' CNG buses), NOT a government metro. Wikiroutes start stop is 'Kotwali/Narwala'; loop returns via Gumti, Bhawana Bazaar, Imam Bargah to Narwala Chowk; outbound to Khurrianwala given. Fare Rs10-40 (distance-based), every 30 min, 07:00-22:00 (as entered 2018). May be defunct."
+    },
+    {
+      "id": "suzuki-gma-warispura",
+      "name": "Ghulam Muhammad Abad - Waris Pura",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Ghulam Muhammad Abad",
+          "name_ur": "",
+          "lat": 31.440872,
+          "lon": 73.046427,
+          "coord_source": "auto:osm:way/287548515",
+          "is_station": false
+        },
+        {
+          "name": "Waris Pura",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 2.6 Suzuki pick-up routes (active, 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "Suzuki pick-up (10-seat). One of 4 routes listed as active in 2002 (54 pick-ups city-wide). Endpoints only. Source also lists 26 routes defunct since 1996 (not included). Historic; likely changed."
+    },
+    {
+      "id": "suzuki-gma-mansoorabad",
+      "name": "Ghulam Muhammad Abad - Mansoorabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Ghulam Muhammad Abad",
+          "name_ur": "",
+          "lat": 31.440872,
+          "lon": 73.046427,
+          "coord_source": "auto:osm:way/287548515",
+          "is_station": false
+        },
+        {
+          "name": "Mansoorabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 2.6 Suzuki pick-up routes (active, 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "Suzuki pick-up (10-seat). One of 4 routes listed as active in 2002 (54 pick-ups city-wide). Endpoints only. Source also lists 26 routes defunct since 1996 (not included). Historic; likely changed."
+    },
+    {
+      "id": "suzuki-gma-makkuana",
+      "name": "Ghulam Muhammad Abad - Makkuana",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Ghulam Muhammad Abad",
+          "name_ur": "",
+          "lat": 31.440872,
+          "lon": 73.046427,
+          "coord_source": "auto:osm:way/287548515",
+          "is_station": false
+        },
+        {
+          "name": "Makkuana",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 2.6 Suzuki pick-up routes (active, 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "Suzuki pick-up (10-seat). One of 4 routes listed as active in 2002 (54 pick-ups city-wide). Endpoints only. Source also lists 26 routes defunct since 1996 (not included). Historic; likely changed."
+    },
+    {
+      "id": "suzuki-pmc-shadabcolony",
+      "name": "Punjab Medical College - Shadab Colony",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Punjab Medical College",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shadab Colony",
+          "name_ur": "",
+          "lat": 31.401419,
+          "lon": 73.014971,
+          "coord_source": "auto:osm:way/287656445",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 2.6 Suzuki pick-up routes (active, 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "Suzuki pick-up (10-seat). One of 4 routes listed as active in 2002 (54 pick-ups city-wide). Endpoints only. Source also lists 26 routes defunct since 1996 (not included). Historic; likely changed."
+    },
+    {
+      "id": "ubus-gma-puldhingroo",
+      "name": "Ghulam Muhammad Abad - Pul Dhingroo",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Ghulam Muhammad Abad",
+          "name_ur": "",
+          "lat": 31.440872,
+          "lon": 73.046427,
+          "coord_source": "auto:osm:way/287548515",
+          "is_station": false
+        },
+        {
+          "name": "Pul Dhingroo",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 2.8 Routes and volume of urban buses (source: Secretary RTA Faisalabad, 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "Private urban bus (50-seat, origin on urban periphery), 32 vehicles per RTA 2002. Endpoints only. Historic 2002 data."
+    },
+    {
+      "id": "ubus-gma-fawarachowk",
+      "name": "Ghulam Muhammad Abad - Fawara Chowk",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Ghulam Muhammad Abad",
+          "name_ur": "",
+          "lat": 31.440872,
+          "lon": 73.046427,
+          "coord_source": "auto:osm:way/287548515",
+          "is_station": false
+        },
+        {
+          "name": "Fawara Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 2.8 Routes and volume of urban buses (source: Secretary RTA Faisalabad, 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "Private urban bus (50-seat, origin on urban periphery), 4 vehicles per RTA 2002. Endpoints only. Historic 2002 data."
+    },
+    {
+      "id": "ubus-jhangbazaar-billoomore",
+      "name": "Jhang Bazaar - Billoo More",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Jhang Bazaar",
+          "name_ur": "",
+          "lat": 31.415254,
+          "lon": 73.075598,
+          "coord_source": "auto:osm:way/44039569",
+          "is_station": false
+        },
+        {
+          "name": "Billoo More",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 2.8 Routes and volume of urban buses (source: Secretary RTA Faisalabad, 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "Private urban bus (50-seat, origin on urban periphery), 20 vehicles per RTA 2002. Endpoints only. Historic 2002 data."
+    },
+    {
+      "id": "ubus-busstand-khurrianwala",
+      "name": "General Bus Stand - Khurrianwala",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "General Bus Stand",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Khurrianwala",
+          "name_ur": "",
+          "lat": 31.496541,
+          "lon": 73.272599,
+          "coord_source": "auto:osm:node/870738113",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 2.8 Routes and volume of urban buses (source: Secretary RTA Faisalabad, 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "Private urban bus (50-seat, origin on urban periphery), 7 vehicles per RTA 2002. Endpoints only. Historic 2002 data."
+    },
+    {
+      "id": "ubus-gma-peoplescolony2",
+      "name": "Ghulam Muhammad Abad - People's Colony No. 2",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Ghulam Muhammad Abad",
+          "name_ur": "",
+          "lat": 31.440872,
+          "lon": 73.046427,
+          "coord_source": "auto:osm:way/287548515",
+          "is_station": false
+        },
+        {
+          "name": "People's Colony No. 2",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 2.8 Routes and volume of urban buses (source: Secretary RTA Faisalabad, 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "Private urban bus (50-seat, origin on urban periphery), 2 vehicles per RTA 2002. Endpoints only. Historic 2002 data."
+    },
+    {
+      "id": "ubus-ayub-chak188rb",
+      "name": "Ayub Research Institute - Chak 188/RB",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Ayub Research Institute",
+          "name_ur": "",
+          "lat": 31.403127,
+          "lon": 73.045842,
+          "coord_source": "auto:nominatim:node/2913756943",
+          "is_station": false
+        },
+        {
+          "name": "Chak 188/RB",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 2.8 Routes and volume of urban buses (source: Secretary RTA Faisalabad, 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "Private urban bus (50-seat, origin on urban periphery), 6 vehicles per RTA 2002. Endpoints only. Historic 2002 data."
+    },
+    {
+      "id": "ubus-gma-makkuana",
+      "name": "Ghulam Muhammad Abad - Makkuana",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Ghulam Muhammad Abad",
+          "name_ur": "",
+          "lat": 31.440872,
+          "lon": 73.046427,
+          "coord_source": "auto:osm:way/287548515",
+          "is_station": false
+        },
+        {
+          "name": "Makkuana",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003) - Table 2.8 Routes and volume of urban buses (source: Secretary RTA Faisalabad, 2002)",
+          "url": "https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf"
+        }
+      ],
+      "notes": "Private urban bus (50-seat, origin on urban periphery), 10 vehicles per RTA 2002. Endpoints only. Historic 2002 data."
+    }
+  ],
+  "notes": "Main source is the WEDC 2003 case report: FUTS wagon table (14 routes, 1,030 wagons, June 2002; route numbers 4 and 10 absent from table), Suzuki pick-up table (4 active routes), RTA urban bus table (7 routes). FUTS still exists (terminal outside Aminpur Bazaar, APP June 2026; FUTS overseeing a 2026 tracking app incl. registered urban Hiace per ProPakistani Jul 2026) but no current published route list was found. Wikiroutes has 3 crowdsourced Faisalabad routes (2018). Excluded: government Green e-bus routes (urdupoint 2025, safar.fyi), proposed PMA/metro plans, intercity buses (WEDC Table 2.7). OSM only has B-10 (14168850), not duplicated. Gaps: current (2020s) FUTS route numbering and ordered stops; Qingqi routes (WEDC says no fixed routes).",
+  "last_verified": "2026-09-23"
+}

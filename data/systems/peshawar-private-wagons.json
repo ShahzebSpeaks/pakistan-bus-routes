@@ -85,6 +85,46 @@
         }
       ],
       "notes": "Ford wagon route, 40+ years old; ran via Khyber Road until ~2000, then via Sher Shah Suri Road joining University Road at Gora Qabristan. Dawn (Jul 2019): about 640 wagons, down to ~200, being withdrawn with compensation for the Peshawar BRT; probably no longer running. Karkhano Market coordinate is the OSM BRT-station way used in peshawar-sindh-quetta.json. Wagons were withdrawn from the BRT corridor from 2019; kept as an old route."
+    },
+    {
+      "id": "haji-camp-kohat-adda",
+      "name": "Haji Camp Adda - Kohat Adda",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Haji Camp Adda",
+          "name_ur": "",
+          "lat": 34.01731,
+          "lon": 71.600503,
+          "coord_source": "auto:nominatim:node/9491687158",
+          "is_station": false
+        },
+        {
+          "name": "Kohat Adda (Kohat Road bus stand)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Kohat Bus Stand Peshawar (listing)",
+          "url": "https://pakistanplaces.com/listing/kohat-bus-stand-peshawar"
+        }
+      ],
+      "notes": "Undated directory listing says a connecting vehicle service runs between Haji Camp Adda and Kohat Adda; vehicle type not stated (the listing mentions Suzukis and rickshaws for local connections). Endpoints only, no intermediate stops. Not known whether it still runs after BRT; Haji Camp is on the BRT corridor, but the link toward Kohat Road is off-corridor. Check for overlap with any BRT feeder route before adding."
     }
   ],
   "last_verified": "2026-09-21"

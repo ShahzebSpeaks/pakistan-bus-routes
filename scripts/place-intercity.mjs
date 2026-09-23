@@ -26,6 +26,10 @@ const FIXES = {
   Haroonabad: [29.6106, 73.1361], Kunri: [25.1783, 69.5658], Alipur: [29.3813, 70.9111],
   Jatoi: [29.5183, 70.8442], Jalalpur: [29.5053, 71.2224], Badin: [24.6558, 68.8383],
   Sanghar: [26.0464, 68.9481], 'Mandi Yazman': [29.1167, 71.75],
+  // research/incoming/intercity-places.json: OSM node 737324983 (Wikidata Q7513568 agrees)
+  Sikandrabad: [36.24254, 74.37484],
+  // OSM way 506998382 (Marot Fort); the town has no point of its own in OSM
+  Marot: [29.17702, 72.43446],
 };
 
 const known = new Map();

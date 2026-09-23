@@ -2,6 +2,12 @@
 
 Generated 2026-09-23 from `data/systems`. Facts (route numbers, stop names, fares, timings) were compiled from these public sources. Maps, images and text from them are not redistributed.
 
+## Abbottabad Pink Bus (women only) (abbottabad)
+
+- [Women-only buses gathering dust at Peshawar bus terminal](https://www.dawn.com/news/1417736) · Dawn · 2018-07-04
+- [KP launches Pink Bus Service to provide safe, hassle-free transport to women](https://images.dawn.com/news/1182591) · Dawn Images · 2019-05-01
+- [It's curtains for women bus service](https://www.pakistangendernews.org/its-curtains-for-women-bus-service/) · Pakistan Gender News · 2021-02-10
+
 ## Green Electric Bus Attock (attock)
 
 - [Electric bus service starts on 13 new routes](https://www.thenews.pk/print/1424248-electric-bus-service-starts-on-13-new-routes) · The News · 2026-07-06
@@ -29,6 +35,10 @@ Generated 2026-09-23 from `data/systems`. Facts (route numbers, stop names, fare
 - [safar.fyi Bahawalpur route](https://www.safar.fyi/bahawalpur/transit-lines/bwp%3A229)
 - [safar.fyi Bahawalpur route](https://www.safar.fyi/bahawalpur/transit-lines/bwp%3A226)
 - [safar.fyi Bahawalpur route](https://www.safar.fyi/bahawalpur/transit-lines/bwp%3A228)
+
+## Bahawalpur private wagons, minibuses and paratransit (bahawalpur)
+
+- [Punjab Cities Improvement Investment Program - Bahawalpur City Profile (Urban Unit / GHK, ADB-funded, c.2010)](https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Bahawalpur.pdf) · The Urban Unit, P&D Department Punjab (consultant GHK) · c.2010 (hosted 2021)
 
 ## Green Electric Bus Bhakkar (bhakkar)
 
@@ -78,6 +88,16 @@ Generated 2026-09-23 from `data/systems`. Facts (route numbers, stop names, fare
 - [safar.fyi Faisalabad route](https://www.safar.fyi/faisalabad/transit-lines/fsd%3A130)
 - [safar.fyi Faisalabad route](https://www.safar.fyi/faisalabad/transit-lines/fsd%3A131)
 
+## Faisalabad private wagons, minibuses and paratransit (faisalabad)
+
+- [Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003)](https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf) · WEDC, Loughborough University · 2003 (data 2002)
+- [Wikiroutes - Faisalabad catalog (crowdsourced)](https://wikiroutes.info/en/faisalabad/catalog) · Wikiroutes · 2018-03-12
+- [FAISALABAD: Dist govt rapped for ban on wagons](https://www.dawn.com/news/365599/faisalabad-dist-govt-rapped-for-ban-on-wagons) · Dawn · 2004-07-27
+- [Commissioner launches reforms to turn FUTS into self-sustaining welfare institution](https://www.app.com.pk/punjab/commissioner-launches-reforms-to-turn-futs-into-self-sustaining-welfare-institution/) · APP · 2026-06
+- [Wikiroutes (crowdsourced) - Faisalabad minibus '1 No. Wagon', last updated 2018-03-12](https://wikiroutes.info/en/faisalabad?routes=44786)
+- [Wikiroutes (crowdsourced) - Faisalabad minibus '20 No. Wagon', last updated 2018-03-12](https://wikiroutes.info/en/faisalabad?routes=44785)
+- [Wikiroutes (crowdsourced) - Faisalabad bus '11b', last updated 2018-03-12](https://wikiroutes.info/en/faisalabad?routes=44784)
+
 ## Green Electric Bus Gujar Khan (gujar-khan)
 
 - [Punjab expands electric bus service into ten new cities](https://minutemirror.com.pk/punjab-expands-electric-bus-service-into-ten-new-cities-463865/) · Minute Mirror · 2025-11-18
@@ -85,6 +105,13 @@ Generated 2026-09-23 from `data/systems`. Facts (route numbers, stop names, fare
 - [All Gujar Khan Green Electric Bus routes](https://www.safar.fyi/gujar-khan/transit-lines) · safar.fyi
 - [safar.fyi Gujar Khan route](https://www.safar.fyi/gujar-khan/transit-lines/gjk%3A264)
 - [safar.fyi Gujar Khan route](https://www.safar.fyi/gujar-khan/transit-lines/gjk%3A268)
+
+## Gujranwala private wagons, minibuses and paratransit (gujranwala)
+
+- [Aslam & Batool, 'Evaluation of Urban Bus Transport Failure in Gujranwala City of Pakistan', Mehran Univ. Research J. Eng. & Tech. 36(3), July 2017 (Tables 1-2, Fig. 1)](https://publications.muet.edu.pk/index.php/muetrj/article/view/252) · Mehran University of Engineering & Technology (authors: UET Lahore) · 2017-07
+- [Improvement of Urban Transport in Gujranwala City (study summary, no route list)](https://tpu.punjab.gov.pk/urban_transport_gujranwala_city) · Transport Planning Unit, Govt of Punjab
+- [Gujranwala Regional Plan - Connectivity Plan (2021)](https://urbanunit.gov.pk/Download/publications/Files/13/2021/Gujranwala%20Regional%20Plan%20-%20Connectivity%20Plan.pdf) · The Urban Unit · 2021
+- [Same paper, PDF](https://publications.muet.edu.pk/index.php/muetrj/article/download/252/97)
 
 ## Green Electric Bus Gujrat (gujrat)
 
@@ -111,6 +138,13 @@ Generated 2026-09-23 from `data/systems`. Facts (route numbers, stop names, fare
 - [HYD-02](https://smta.gos.pk/routes/22)
 - [Peoples Bus Service between Tando Allahyar, Hyderabad from tomorrow](https://www.dawn.com/news/1993595/peoples-bus-service-between-tando-allahyar-hyderabad-from-tomorrow)
 - [HYD-03](https://smta.gos.pk/routes/23)
+
+## Hyderabad private wagons, minibuses and paratransit (hyderabad)
+
+- [Memon et al. 2025, 'Evaluation of commuter perception and optimization of public transit routes in Hyderabad using TOD applications', MURJET 44(2):71-84, doi:10.22581/muet1982.0142 (Table 1 + Fig. 13)](https://murjet.muet.edu.pk/index.php/home/article/view/142) · Mehran University Research Journal of Engineering and Technology · 2025-04-01
+- [Measuring GIS-based pedestrian accessibility to bus stops ... Hyderabad, Pakistan (Discover Cities 1:28). Table 5 lists 42 named PT stops; Table 6 lists 66 road segments on PT routes (135.08 km). Road-level, not service routes](https://link.springer.com/article/10.1007/s44327-024-00031-5) · Springer Nature (Discover Cities) · 2024
+- [Daily Pakistan: Peoples Bus not extended; Latifabad/Qasimabad residents depend on private transporters](https://dailypakistan.com.pk/25-Jun-2024/1726322) · Daily Pakistan · 2024-06-25
+- [Same paper, full-text PDF](https://murjet.muet.edu.pk/index.php/home/article/download/142/11)
 
 ## Bilal Travels (Bilal Daewoo) (intercity)
 
@@ -745,6 +779,12 @@ Generated 2026-09-23 from `data/systems`. Facts (route numbers, stop names, fare
 - [safar.fyi Mandi Bahauddin route](https://www.safar.fyi/mandi-bahauddin/transit-lines/etransit-mandi-bahauddin%3A286)
 - [safar.fyi Mandi Bahauddin route](https://www.safar.fyi/mandi-bahauddin/transit-lines/etransit-mandi-bahauddin%3A287)
 
+## Mardan Pink Bus (women only) (mardan)
+
+- [Pink Bus Service launched in Mardan](https://www.pakwheels.com/blog/pink-bus-service-launched-mardan/) · PakWheels Blog · 2019-04
+- [Women-only buses gathering dust at Peshawar bus terminal](https://www.dawn.com/news/1417736) · Dawn · 2018-07-04
+- [It's curtains for women bus service](https://www.pakistangendernews.org/its-curtains-for-women-bus-service/) · Pakistan Gender News · 2021-02-10
+
 ## Green Electric Bus Mianwali (mianwali)
 
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
@@ -980,6 +1020,7 @@ Generated 2026-09-23 from `data/systems`. Facts (route numbers, stop names, fare
 - [Urbanscape: A farewell to wagons](https://www.dawn.com/news/1496631) · Dawn (Sohail Khattak) · 2019-07-28
 - [Peshawar fare increase (Peshawar se mukhtalif shehron ke kirayon mein izafa)](https://jang.com.pk/news/1564243) · Daily Jang · 2026-03-12
 - [New fares announced for passenger vehicles in Peshawar](https://mmnews.tv/new-fares-announced-for-passenger-vehicles-in-peshawar/) · MM News · 2026-08-13
+- [Kohat Bus Stand Peshawar (listing)](https://pakistanplaces.com/listing/kohat-bus-stand-peshawar)
 
 ## Zu Peshawar (TransPeshawar BRT) (peshawar)
 
