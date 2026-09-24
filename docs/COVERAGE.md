@@ -1,8 +1,8 @@
 # Data coverage
 
-Generated 2026-09-23 by `npm run data:build`. Do not edit by hand.
+Generated 2026-09-24 by `npm run data:build`. Do not edit by hand.
 
-**53 cities · 93 systems · 1365 published routes · 7487 stops**
+**53 cities · 93 systems · 1367 published routes · 7514 stops**
 
 Coordinate quality: **exact** = verified (OpenStreetMap element or Wikipedia, checked by a person), **guide** = position published by a route guide such as safar.fyi, **matched** = automatic OpenStreetMap name match, **geocoded** = Nominatim search, **estimated** = interpolated between neighbours, **missing** = not on the map yet.
 
@@ -1369,6 +1369,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Peoples Bus Service Hyderabad | HYD-01 | Hyder Chowk - Hatri Police Station | operational | 8 | 38% | 0% | 25% | 0% | 38% | 0 | medium |
 | Peoples Bus Service Hyderabad | HYD-02 | Hala Naka - Tando Allahyar | operational | 10 | 10% | 0% | 30% | 0% | 20% | 4 | medium |
 | Peoples Bus Service Hyderabad | HYD-03 | Hyder Chowk - Kohsar Colony | suspended | 6 | 0% | 0% | 67% | 0% | 17% | 1 | low |
+| Peoples Bus Service Hyderabad | HYD-PINK | Hyder Chowk - Hatri Bypass (Pink Bus, women only) | unverified | 11 | 82% | 0% | 18% | 0% | 0% | 0 | medium |
 | Hyderabad private wagons, minibuses and paratransit | channel-mori-lmc-jamshoro | Channel Mori - LMC Jamshoro | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
 | Hyderabad private wagons, minibuses and paratransit | gol-building-khuda-ki-basti | Gol Building - Khuda Ki Basti | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
 | Hyderabad private wagons, minibuses and paratransit | giddu-chowk-latifabad | Giddu Chowk - Latifabad | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
@@ -1388,7 +1389,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | System | Route | Name | Status | Stops | Exact | Guide | Matched | Geocoded | Estimated | Missing | Stop list confidence |
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
 | Peoples Bus Service Larkana | LRK-01 | New Bus Stand - Dokri | operational | 8 | 0% | 0% | 25% | 0% | 13% | 5 | medium |
-| Peoples Bus Service Larkana | LRK-QMB | Larkana - Qambar - Shahdadkot | planned | 0 | - | - | - | - | - | 0 | low |
+| Peoples Bus Service Larkana | LRK-QMB | Larkana - Qambar - Shahdadkot | operational | 3 | 67% | 0% | 0% | 0% | 0% | 1 | low |
 
 ## Nawabshah (Shaheed Benazirabad)
 
@@ -1406,9 +1407,10 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 
 | System | Route | Name | Status | Stops | Exact | Guide | Matched | Geocoded | Estimated | Missing | Stop list confidence |
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| Green Bus Service Quetta (incl. Pink Bus) | GB-1 | BUITEMS - University of Balochistan | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
-| Green Bus Service Quetta (incl. Pink Bus) | PINK | Pink Bus (women only) | unverified | 0 | - | - | - | - | - | 0 | low |
-| Green Bus Service Quetta (incl. Pink Bus) | KUCHLAK | Kuchlak (AC Office) - Mian Ghundi (Sariab) | planned | 0 | - | - | - | - | - | 0 | low |
+| Green Bus Service Quetta (incl. Pink Bus) | GB-1 | University of Balochistan - Baleli Custom (via BUITEMS) | operational | 17 | 35% | 0% | 12% | 0% | 41% | 2 | medium |
+| Green Bus Service Quetta (incl. Pink Bus) | PINK | Pink Bus (women only): Kuchlak - Sona Khan Chowk | unverified | 2 | 50% | 0% | 0% | 0% | 0% | 1 | low |
+| Green Bus Service Quetta (incl. Pink Bus) | KUCHLAK | Kuchlak - Sona Khan Chowk | operational | 2 | 50% | 0% | 0% | 0% | 0% | 1 | low |
+| Green Bus Service Quetta (incl. Pink Bus) | GL-CARDIO | Green Line: BA Mall - SMBZAN Institute of Cardiology | operational | 13 | 23% | 0% | 0% | 0% | 23% | 7 | high |
 
 ## Abbottabad
 
@@ -1671,10 +1673,10 @@ These routes have the most stops without a verified position. Adding real coordi
 | Karachi | Minibus and coach routes (2010 list) | Dawn Coach | 19 | 1 | 9 |
 | Karachi | Minibus and coach routes (2010 list) | Prime Coach | 16 | 1 | 9 |
 | Peshawar | Zu Peshawar (TransPeshawar BRT) | DR04B | 19 | 0 | 10 |
+| Quetta | Green Bus Service Quetta (incl. Pink Bus) | GL-CARDIO | 13 | 7 | 3 |
 | Karachi | Minibus and coach routes (2010 list) | 51-A | 12 | 7 | 2 |
 | Karachi | Minibus and coach routes (2010 list) | 52-A | 16 | 0 | 9 |
 | Karachi | Minibus and coach routes (2010 list) | D-14 | 17 | 2 | 7 |
-| Karachi | Minibus and coach routes (2010 list) | W-35 | 17 | 2 | 7 |
 
 ## Build warnings
 
@@ -2197,13 +2199,17 @@ These routes have the most stops without a verified position. Adding real coordi
 - hyderabad-private-wagons/badin-stop-hala-naka: fewer than 2 located stops, listed without a map line
 - sukkur-pbs/SUK-01: 3 stop(s) without coordinates are left out of the map
 - larkana-pbs/LRK-01: 5 stop(s) without coordinates are left out of the map
-- larkana-pbs/LRK-QMB: fewer than 2 located stops, listed without a map line
+- larkana-pbs/LRK-QMB: 1 stop(s) without coordinates are left out of the map
 - nawabshah-pbs/SBA: 7 stop(s) without coordinates are left out of the map
 - nawabshah-pbs/SBA: fewer than 2 located stops, listed without a map line
 - mirpurkhas-pbs/MIRPURKHAS: 8 stop(s) without coordinates are left out of the map
 - mirpurkhas-pbs/MIRPURKHAS: fewer than 2 located stops, listed without a map line
+- quetta-green-bus/GB-1: 2 stop(s) without coordinates are left out of the map
+- quetta-green-bus/PINK: 1 stop(s) without coordinates are left out of the map
 - quetta-green-bus/PINK: fewer than 2 located stops, listed without a map line
+- quetta-green-bus/KUCHLAK: 1 stop(s) without coordinates are left out of the map
 - quetta-green-bus/KUCHLAK: fewer than 2 located stops, listed without a map line
+- quetta-green-bus/GL-CARDIO: 7 stop(s) without coordinates are left out of the map
 - abbottabad-pink-bus/pink-bus-atd: 2 stop(s) without coordinates are left out of the map
 - shikarpur-pbs/SHIKARPUR: 8 stop(s) without coordinates are left out of the map
 - khairpur-pbs/KHAIRPUR-01: 5 stop(s) without coordinates are left out of the map

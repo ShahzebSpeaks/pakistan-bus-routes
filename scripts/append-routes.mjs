@@ -2,8 +2,9 @@
 // Routes whose number is already present (ignoring spaces, dashes and case) are skipped, so the
 // script can be re-run safely. Systems that do not exist yet are created as they are.
 //   node scripts/append-routes.mjs research/incoming/<file>.json [--dry] [--replace-weak]
-// --replace-weak: an existing route that lists only its two terminals is replaced by an incoming
-// route with the same number and a fuller stop list. Known stop positions are kept.
+// --replace-weak: an existing route that lists at most its two terminals is replaced by an incoming
+// route with the same number and a longer stop list (status and notes come from the incoming
+// route). Known stop positions are kept.
 import fs from 'node:fs';
 import path from 'node:path';
 import { ROOT, SYSTEMS_DIR, readJSON, writeJSON } from './lib.mjs';
@@ -50,7 +51,7 @@ for (const incoming of doc.systems || []) {
     if (have.has(norm(r.id))) {
       const i = system.routes.findIndex((x) => norm(x.id) === norm(r.id));
       const old = system.routes[i];
-      if (replaceWeak && old && old.stops.length <= 2 && r.stops.length > 2) {
+      if (replaceWeak && old && old.stops.length <= 2 && r.stops.length > old.stops.length) {
         const known = new Map(old.stops.filter((st) => st.lat != null).map((st) => [stopKey(st.name), st]));
         const stops = r.stops.map((st) => (st.lat == null && known.has(stopKey(st.name)) ? { ...st, ...known.get(stopKey(st.name)), name: st.name } : st));
         system.routes[i] = { ...old, ...r, color: r.color || old.color, stops, sources: [...(old.sources || []), ...r.sources.filter((x) => !(old.sources || []).some((o) => o.url === x.url))] };

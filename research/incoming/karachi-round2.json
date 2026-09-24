@@ -1,0 +1,1425 @@
+{
+  "assignment": "karachi-round2",
+  "researched_on": "2026-09-24",
+  "systems": [
+    {
+      "id": "karachi-minibus",
+      "city": "karachi",
+      "name": "Private minibuses and coaches",
+      "name_ur": "نجی منی بسیں اور کوچز",
+      "operator": "Private operators (route list compiled by the RastaYaar project)",
+      "mode": "bus",
+      "website": null,
+      "helpline": null,
+      "payment": "Cash to the conductor",
+      "fare_rules": {
+        "type": "distance_slab",
+        "currency": "PKR",
+        "slabs": [
+          {
+            "up_to_km": 10,
+            "fare": 40
+          },
+          {
+            "up_to_km": 30,
+            "fare": 70
+          },
+          {
+            "up_to_km": null,
+            "fare": 110
+          }
+        ],
+        "concessions": "Official provisional fares, notified 4 April 2026: large bus Rs 40 up to 10 km, Rs 70 up to 30 km, Rs 110 above that. Minibus and coach: Rs 50, Rs 80 and Rs 120 for the same distances. The notice says fares remain as they were before 27 February 2026. Route lists for private services are not published officially; help add them.",
+        "as_of": "2026-04-04",
+        "source_url": "https://mwb.sindh.gov.pk/storage/Transport/intracity.jpeg"
+      },
+      "hours": null,
+      "last_verified": "2026-09-19",
+      "sources": [
+        {
+          "title": "RastaYaar: Karachi bus route finder, src/data/routes.ts",
+          "url": "https://github.com/itsdeewankumar-tech/rastayaar",
+          "publisher": "itsdeewankumar-tech (GitHub)",
+          "date": "2026-09-07",
+          "official": false
+        },
+        {
+          "title": "Intra-city provisional fare list for buses, minibuses and coaches",
+          "url": "https://mwb.sindh.gov.pk/storage/Transport/intracity.jpeg",
+          "publisher": "Regional Transport Authority Karachi",
+          "date": "2026-04-04",
+          "official": true
+        }
+      ],
+      "routes": [
+        {
+          "id": "Z-22",
+          "name": "Pakhtoonabad (Nazimabad) - Zafar Town (Landhi)",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Pakhtoonabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kawari Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Qasba Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Banaras",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Abdullah College",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Paposh Nagar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Abbasi Shaheed Hospital",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nazimabad No. 7",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Petrol Pump (Nazimabad)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Liaquatabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Post Office (Liaquatabad)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Teen Hatti",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jail Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shaheed-e-Millat Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Tariq Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shahrah-e-Quaideen",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nursery",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Baloch Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Qayyumabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Korangi Crossing",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Korangi No. 1",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Korangi No. 6",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Landhi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Landhi Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dawood Chowrangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Quaidabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Zafar Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Z 22 Mini Bus Karachi || Local Transport Karachi Route Detail (Lets Go Pk, YouTube, uploaded 2025-08-31)",
+              "url": "https://www.youtube.com/watch?v=1MXIpOhYJQQ"
+            }
+          ],
+          "notes": "New route id, not in karachi-minibus.json, karachi-minibus-2010.json, Mnzil or the Zenodo 2024 set. Single unofficial source: the video description says the bus starts at Pakhtoonabad, Nazimabad and ends at Zafar Town, Landhi, then lists 28 areas as hashtags in travel order; the 27 stops here are those hashtags turned into names (#korangi1 and #korangino1 merged into one Korangi No. 1; #landhi and #landhitown kept as written, they may be the same place; #petrolpump read as Nazimabad Petrol Pump and #postoffice as Liaquatabad Daak Khana from context). Areas, not exact stop points. One direction only. Evidence the route ran in 2025."
+        }
+      ]
+    },
+    {
+      "id": "karachi-pbs",
+      "city": "karachi",
+      "name": "Peoples Bus Service",
+      "name_ur": "پیپلز بس سروس",
+      "operator": "Sindh Mass Transit Authority (Transport & Mass Transit Dept, Govt of Sindh); operated by NRTC",
+      "mode": "bus",
+      "website": "https://smta.gos.pk/route-map",
+      "helpline": "0800-07682",
+      "payment": "Cash to on-board conductor; contactless Sindh Mass Transit card (Zindigi/Mastercard open-loop, automated fare collection launched May 2024, initially on Model Colony-Tower and Gulshan-e-Hadeed-Tower, rolled out in phases). Breeze (BRT) card not documented for PBS.",
+      "fare_rules": {
+        "type": "distance_slab",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [
+          {
+            "up_to_km": 15,
+            "fare": 80
+          },
+          {
+            "up_to_km": null,
+            "fare": 120
+          }
+        ],
+        "concessions": "Children under 3 free (rehbar.pk). No student concession confirmed (rehbar.pk says none; INCPak claims student/senior discounts). Before 1 Feb 2025: Rs 50 minimum (up to about Rs 100). The same slab is reported for red, EV and double-decker buses (INCPak; Dawn Dec 2025 for double-decker). No further change found up to Sep 2026.",
+        "as_of": "2025-02-01",
+        "source_url": "https://www.dawn.com/news/1888967"
+      },
+      "hours": {
+        "start": "07:00",
+        "end": "22:00",
+        "notes": "Think Transportation/redbus.shop/rehbar.pk: 07:00-22:00, headway about 15 min in peaks (08-10, 17-20) and 30 min off-peak. INCPak says 07:00-20:00; Wikipedia (2022) 08:00-20:00. Not confirmed by SMTA."
+      },
+      "last_verified": "2026-09-16",
+      "sources": [
+        {
+          "title": "Karachi Bus Route Map & Full Provincial Route Directory",
+          "url": "https://smta.gos.pk/route-map",
+          "publisher": "Sindh Mass Transit Authority",
+          "date": "2026",
+          "official": true
+        },
+        {
+          "title": "People Bus Service project page",
+          "url": "https://smta.sindh.gov.pk/people-bus-service",
+          "publisher": "Sindh Mass Transit Authority",
+          "date": null,
+          "official": true
+        },
+        {
+          "title": "New Red Bus Karachi (Peoples Bus Service) Route Maps",
+          "url": "https://thinktransportation.net/red-bus-karachi/",
+          "publisher": "Think Transportation",
+          "date": "2025-02-03",
+          "official": false
+        },
+        {
+          "title": "Karachi Red Bus routes",
+          "url": "https://redbus.shop/karachi-red-bus-routes",
+          "publisher": "redbus.shop",
+          "date": "2026-07",
+          "official": false
+        },
+        {
+          "title": "Karachi Peoples Bus Service Routes & Timings",
+          "url": "https://rehbar.pk/info/karachi-peoples-bus-service-routes-and-timings/",
+          "publisher": "Rehbar",
+          "date": null,
+          "official": false
+        },
+        {
+          "title": "Sindh govt raises fare of Peoples Bus Service from today",
+          "url": "https://www.dawn.com/news/1888967",
+          "publisher": "Dawn",
+          "date": "2025-02-01",
+          "official": false
+        },
+        {
+          "title": "Peoples Bus Service announces fare hike starting February 1",
+          "url": "https://tribune.com.pk/story/2524010/govt-increases-fares-for-peoples-bus-service",
+          "publisher": "The Express Tribune",
+          "date": "2025-01",
+          "official": false
+        },
+        {
+          "title": "Automated fare collection system for Peoples Buses launched in Karachi",
+          "url": "https://www.dawn.com/news/1831510",
+          "publisher": "Dawn",
+          "date": "2024-05",
+          "official": false
+        },
+        {
+          "title": "Zindigi, Sindh Govt, Mastercard & People Bus Service launch open loop transit solution",
+          "url": "https://propakistani.pk/2024/05/06/zindigi-sindh-govt-mastercard-people-bus-service-launch-pakistans-first-open-loop-transit-solution/",
+          "publisher": "ProPakistani",
+          "date": "2024-05-06",
+          "official": false
+        },
+        {
+          "title": "New Routes Announced for Peoples Bus Service Karachi",
+          "url": "https://propakistani.pk/2024/07/19/peoples-bus-service-gets-new-routes-in-karachi/",
+          "publisher": "ProPakistani",
+          "date": "2024-07-19",
+          "official": false
+        },
+        {
+          "title": "Double-decker buses introduced in Karachi",
+          "url": "https://www.dawn.com/news/1964276",
+          "publisher": "Dawn",
+          "date": "2025-12-31",
+          "official": false
+        },
+        {
+          "title": "Karachi Expands Double-Decker Bus Route",
+          "url": "https://propakistani.pk/2026/02/16/karachi-expands-double-decker-bus-route/",
+          "publisher": "ProPakistani",
+          "date": "2026-02-16",
+          "official": false
+        },
+        {
+          "title": "New Electric Bus Route Announced in Karachi",
+          "url": "https://propakistani.pk/2026/03/16/new-electric-bus-route-announced-in-karachi/",
+          "publisher": "ProPakistani",
+          "date": "2026-03-16",
+          "official": false
+        },
+        {
+          "title": "Purchase of 500 EV buses for Karachi routes approved: Sharjeel",
+          "url": "https://www.brecorder.com/news/40421844/purchase-of-500-ev-buses-for-karachi-routes-approved-sharjeel",
+          "publisher": "Business Recorder",
+          "date": "2026",
+          "official": false
+        },
+        {
+          "title": "Peoples Bus Service (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Peoples_Bus_Service",
+          "publisher": "Wikipedia",
+          "date": null,
+          "official": false
+        },
+        {
+          "title": "Peoples Bus Service Karachi Routes & Fare [Updated]",
+          "url": "https://www.incpak.com/national/peoples-bus-service-karachi-routes-fare/",
+          "publisher": "INCPak",
+          "date": "2026",
+          "official": false
+        },
+        {
+          "title": "Peoples Bus Service in Karachi: Routes, Fare & More",
+          "url": "https://www.zameen.com/blog/peoples-bus-service-karachi.html",
+          "publisher": "Zameen",
+          "date": "2022-11-01",
+          "official": false
+        }
+      ],
+      "routes": [
+        {
+          "id": "EV-PLAN-ITTEHAD-CANTT",
+          "name": "Ittehad Town - Cantt Station (planned EV corridor)",
+          "name_ur": "",
+          "variant": "ev",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Ittehad Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Banaras Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Liaquatabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jahangir Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Cantt Station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Purchase of 500 EV buses for Karachi routes approved: Sharjeel (Business Recorder, 2026-05-19)",
+              "url": "https://www.brecorder.com/news/40421844/purchase-of-500-ev-buses-for-karachi-routes-approved-sharjeel"
+            },
+            {
+              "title": "Sindh moves to add 500 EV buses as transport network expansion accelerates (Profit, 2026-05-19)",
+              "url": "https://profit.pakistantoday.com.pk/2026/05/19/sindh-moves-to-add-500-ev-buses-as-transport-network-expansion-accelerates/"
+            }
+          ],
+          "notes": "Placeholder id (ours): no route code published. Sindh Senior Minister Sharjeel Inam Memon told the Sindh Assembly (May 2026) that the Policy Board approved 500 EV buses: 450 on 25 Karachi routes and 50 on 5 Hyderabad routes, with 4 Karachi EV depots. Corridor areas are listed in the press in this order; they are areas, not stops. Not launched as of 2026-09-24 (the SMTA directory https://smta.gos.pk/route-map still lists 20 Karachi routes: R1-R14 incl. inactive R5-R7, EV1-EV5, DD01). Aug 2026 reports speak of 1,000 EV buses by end-2026 and 50 double-deckers arriving in October 2026, without routes."
+        },
+        {
+          "id": "EV-PLAN-ORANGI-ZAHOOR",
+          "name": "Orangi Ghaziabad - Zahoor Chowk (planned EV corridor)",
+          "name_ur": "",
+          "variant": "ev",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Purchase of 500 EV buses for Karachi routes approved: Sharjeel (Business Recorder, 2026-05-19)",
+              "url": "https://www.brecorder.com/news/40421844/purchase-of-500-ev-buses-for-karachi-routes-approved-sharjeel"
+            },
+            {
+              "title": "Sindh moves to add 500 EV buses as transport network expansion accelerates (Profit, 2026-05-19)",
+              "url": "https://profit.pakistantoday.com.pk/2026/05/19/sindh-moves-to-add-500-ev-buses-as-transport-network-expansion-accelerates/"
+            }
+          ],
+          "notes": "Placeholder id (ours). Business Recorder lists the areas of the additional proposed routes as Orangi Ghaziabad, Iqbal Market, Walika, Nazimabad No. 2, Ayesha Manzil and Zahoor Chowk; Profit describes it as an Orangi Ghaziabad to Zahoor Chowk corridor covering Iqbal Market, Walika and Nazimabad No. 2, with Ayesha Manzil included. That list does not read as one ordered line (Zahoor Chowk and Ghaziabad are both in Orangi), so no stop order is given; it may be more than one route. Not launched as of 2026-09-24."
+        }
+      ]
+    }
+  ],
+  "corroboration": [
+    {
+      "system": "karachi-minibus",
+      "route_id": "Masood",
+      "exists_in_data": true,
+      "existing_name": "Bhains Colony - Khuda Ki Basti",
+      "source": {
+        "title": "Masood Coach Mini Bus Karachi Route Detail || Local Transport In Karachi || Lets Go Pk",
+        "url": "https://www.youtube.com/watch?v=M1JCUOsGx_0",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2026-09-20",
+        "official": false
+      },
+      "video_terminals": [
+        "Bhains Colony",
+        "Khuda Ki Basti"
+      ],
+      "description_hashtags_in_order": [
+        "bhainscolony",
+        "laboursquare",
+        "manzilpump",
+        "quaidabad",
+        "malir15",
+        "malirhalt",
+        "modelcolony",
+        "safoora",
+        "mosmiat",
+        "karachiuniversity",
+        "nipachowrangi",
+        "gulshanchowrangi",
+        "luckyonemallkarachi",
+        "luckytextile",
+        "sohrabgoth",
+        "andamor",
+        "powerhousechowrangi",
+        "4kchowrangi",
+        "kdachowrangi",
+        "khudakibasti"
+      ],
+      "notes": "Matches RastaYaar Masood (Bhains Colony - Khuda Ki Basti); Mnzil Masood ends at Lyari 36 instead."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "Z-18",
+      "exists_in_data": true,
+      "existing_name": "Fareed Colony - Itihad Town",
+      "source": {
+        "title": "Z 18 Mini Bus Karachi Route Detail || Local Transport In Karachi || Fareed Colony || Lets Go Pk",
+        "url": "https://www.youtube.com/watch?v=WcYodpdwXNE",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2026-03-18",
+        "official": false
+      },
+      "video_terminals": [
+        "Fareed Colony",
+        "Ittehad Town"
+      ],
+      "description_hashtags_in_order": [
+        "fareedcolony",
+        "gulshanghazi",
+        "jangalschool",
+        "saeedabad",
+        "machmor",
+        "muhajircamp",
+        "shershah",
+        "gulbai",
+        "kharadar",
+        "leemarket",
+        "kakriground",
+        "puranahajicamp",
+        "garden",
+        "raiksar",
+        "banaras",
+        "baraborad",
+        "habibbankchowrangi",
+        "valika",
+        "orangino5",
+        "orangi11",
+        "islamchowk",
+        "noorichowk",
+        "itehadtown"
+      ],
+      "notes": "Matches existing Z-18 terminals."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "D-11",
+      "exists_in_data": true,
+      "existing_name": "Qayoomabad - Itihad Town",
+      "source": {
+        "title": "D 11 Mini Bus Karachi Route Detail || Local Transport In Karachi || Bilal Colony || Lets Go Pk",
+        "url": "https://www.youtube.com/watch?v=xLiyF5yoQZk",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2026-03-15",
+        "official": false
+      },
+      "video_terminals": [
+        "Bilal Colony",
+        "Muhammad Khan Colony"
+      ],
+      "description_hashtags_in_order": [
+        "bilalcolony",
+        "millasareakarachi",
+        "mansehracolony",
+        "dawoodchowrangi",
+        "quaidabad",
+        "malirhalt",
+        "malir15",
+        "wirlessgate",
+        "colonygate",
+        "nathakhan",
+        "drigroad",
+        "karsaz",
+        "nationalstadiumkarachi",
+        "hassansquare",
+        "liaqatabad",
+        "nazimabad",
+        "habibbankchowrangi",
+        "valikamills",
+        "muhammadkhancolony"
+      ],
+      "notes": "Existing D-11 is Qayoomabad - Itihad Town (RastaYaar) and Mnzil D-11 is Ittehad Town - Qayyumabad; the video runs Bilal Colony (Korangi) via Dawood Chowrangi, Malir Halt, Shahrah-e-Faisal, Hassan Square, Liaquatabad, Nazimabad, Habib Bank Chowrangi, Valika to Muhammad Khan Colony (Orangi side). Eastern end differs."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "Safari Coach",
+      "exists_in_data": true,
+      "existing_name": "Maroora Goth - Mianwali",
+      "source": {
+        "title": "Safari Coach Route Detail || Maroora Goth To Mianwali Colony || Local Transport Karachi | Lets Go Pk",
+        "url": "https://www.youtube.com/watch?v=DB8yUtIofAM",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2026-02-14",
+        "official": false
+      },
+      "video_terminals": [
+        "Maroora Goth",
+        "Mianwali Colony"
+      ],
+      "description_hashtags_in_order": [
+        "marooragoth",
+        "safooragoth",
+        "gulistanejohar",
+        "nipachowrangi",
+        "hassansquare",
+        "puranisabzimandi",
+        "tariqroad",
+        "shahrahequaideen",
+        "goraqabaristan",
+        "kalapul",
+        "defencemor",
+        "punjabcolony",
+        "gizri",
+        "saudiembesi",
+        "abdullahshahghazi",
+        "bilawalchowrangi",
+        "boatbasin",
+        "maikalachi",
+        "tower",
+        "agrataj",
+        "gulbai",
+        "shershah",
+        "habibbankchowrangi",
+        "banaras",
+        "qasbacolony",
+        "mianwalicolony"
+      ],
+      "notes": "Matches existing Safari Coach terminals."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "G-27",
+      "exists_in_data": true,
+      "existing_name": "Safoora Chorangi - Hub River Road",
+      "source": {
+        "title": "G 27 Mini Bus Karachi Route Detail || Local Transport Kci | Safoora Goth To Yousaf Goth | Lets Go Pk",
+        "url": "https://www.youtube.com/watch?v=_o9K_vDH0xY",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2026-01-11",
+        "official": false
+      },
+      "video_terminals": [
+        "Safoora Goth",
+        "Yousuf Goth (Hub River Road)"
+      ],
+      "description_hashtags_in_order": [
+        "gulcitykarachi",
+        "bakhtawargoth",
+        "PIASociety",
+        "pehlwangoth",
+        "joharmor",
+        "safariparkkarachi",
+        "nipachowrangi",
+        "sohrabgoth",
+        "powerhouse",
+        "fazalmills",
+        "bufferzone",
+        "peopleschowrangi",
+        "landikotal",
+        "ziauldinhospital",
+        "KDAChowrangi",
+        "boardoffice",
+        "abdullahcollege",
+        "banaras",
+        "metrocienma",
+        "orangitown",
+        "orangi5",
+        "orangi4",
+        "orangi10",
+        "jamiamahmoodia",
+        "eidgahmorr",
+        "afridichowk",
+        "bakramandi",
+        "hubriverroad"
+      ],
+      "notes": "Matches RastaYaar G-27 (Safoora Chorangi - Hub River Road); Mnzil G-27 starts at Afridi Chowk."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "Bilal",
+      "exists_in_data": true,
+      "existing_name": "Itihad Town - BMDF Colony",
+      "source": {
+        "title": "Bilal Coach Route Detail || Mini Bus Karachi || Local Transport Karachi || Lets Go Pk",
+        "url": "https://www.youtube.com/watch?v=ZXHQXNGmhaI",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2025-12-09",
+        "official": false
+      },
+      "video_terminals": [
+        "Ittehad Town",
+        "PMTF Colony, Landhi"
+      ],
+      "description_hashtags_in_order": [],
+      "notes": "No hashtags; prose says via Orangi, Nazimabad, Liaquatabad, Qayyumabad, Korangi and Landhi. Close to Mnzil Bilal (Ittehad Town - Labour Square - Landhi Town)."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "A-3",
+      "exists_in_data": true,
+      "existing_name": "New Sabzi Mandi - Dockyard",
+      "source": {
+        "title": "A3 Mini Bus Karachi Route Detail || Local Transport In Karachi || Mazda Karachi || Lets go pk",
+        "url": "https://www.youtube.com/watch?v=nEAdn35fpZo",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2025-09-27",
+        "official": false
+      },
+      "video_terminals": [
+        "New Sabzi Mandi",
+        "Dockyard"
+      ],
+      "description_hashtags_in_order": [
+        "newsabzimandi",
+        "maskanchowrangi",
+        "gulshanpolicestation",
+        "gulshanchowrangi",
+        "nipachowrangi",
+        "hassansquare",
+        "ghareebabad",
+        "liaqatabad",
+        "petrolpumpchowrangi",
+        "habibbankchowrangi",
+        "site",
+        "siemenchowrangi",
+        "ghanichowrangi",
+        "shershah",
+        "gulbai",
+        "agrataj",
+        "ICpull",
+        "fishries",
+        "westwharf",
+        "shipyard",
+        "dockyard"
+      ],
+      "notes": "Matches existing A-3 terminals."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "Sheraz",
+      "exists_in_data": true,
+      "existing_name": "Malir Cantt - Musharaf Colony",
+      "source": {
+        "title": "Shiraz Coach Mini Bus Karachi | Safoora Goth To Hawks Bay Route Detail Local Transport | Lets Go pk",
+        "url": "https://www.youtube.com/watch?v=f4u2IbCrPEA",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2025-08-25",
+        "official": false
+      },
+      "video_terminals": [
+        "Safoora Goth",
+        "Hawks Bay"
+      ],
+      "description_hashtags_in_order": [],
+      "notes": "Prose only: via Hassan Square, University Road, Safari Park, Numaish, Jail Chowrangi, Bolton Market, Tower, Kharadar, Agra Taj, Budhni Goth. Close to Mnzil Shiraz (Check Post 6 Malir Cantt - Hawksbay Beach); RastaYaar Sheraz (Malir Cantt - Musharaf Colony) is a different end."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "D-7",
+      "exists_in_data": true,
+      "existing_name": "Landhi Majeed Colony 2 - New Sabzi Mandi",
+      "source": {
+        "title": "D7 Mini Bus Karachi Route Detail || Local Transport In Karachi || Mazda Krachi || Lets go pk",
+        "url": "https://www.youtube.com/watch?v=0vfoEytYREA",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2025-08-04",
+        "official": false
+      },
+      "video_terminals": [
+        "Majeed Colony, Landhi",
+        "New Sabzi Mandi"
+      ],
+      "description_hashtags_in_order": [
+        "landhi",
+        "malircattlemandi",
+        "malirhalt",
+        "malir15",
+        "airport",
+        "wirelessgate",
+        "colonygate",
+        "nathakhan",
+        "drigroad",
+        "joharmor",
+        "nipachowrangi",
+        "sohrabgoth_mandi",
+        "alasifsquare",
+        "sabzimandikarachi"
+      ],
+      "notes": "Matches RastaYaar D-7 (Landhi Majeed Colony 2 - New Sabzi Mandi)."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "X-10",
+      "exists_in_data": true,
+      "existing_name": "Itihad Town - Misri Shah",
+      "source": {
+        "title": "X10 Karachi Mini Bus Route Detail || Karachi Local Transport || Lets Go Pk",
+        "url": "https://www.youtube.com/watch?v=djkDtmOsXqI",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2025-07-29",
+        "official": false
+      },
+      "video_terminals": [
+        "Muhajir Camp",
+        "Gizri / Delhi Colony"
+      ],
+      "description_hashtags_in_order": [
+        "muhajircamp",
+        "baldiatown",
+        "shershah",
+        "habibbankchowrangi",
+        "nazimabad",
+        "liaqatabad",
+        "teenhatti",
+        "gurumandar",
+        "mizarequaid",
+        "numaish2025",
+        "sadarbazar",
+        "canttstation",
+        "racecoursepark",
+        "dehlicolony",
+        "gizri"
+      ],
+      "notes": "Existing X-10: Itihad Town - Misri Shah (RastaYaar), Ittehad Town - Khayaban-e-Ghalib DHA 8 (Mnzil). Video hashtags start at Muhajir Camp and end at Delhi Colony / Gizri. Terminal conflict remains."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "Ilyas",
+      "exists_in_data": true,
+      "existing_name": "Landhi 1 - Itihad Town",
+      "source": {
+        "title": "Ilyas Coach Route Detail || Karachi Mini Bus Karachi || Local Transport In Karachi || Lets Go Pk",
+        "url": "https://www.youtube.com/watch?v=0KX0RyyJLiU",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2025-07-28",
+        "official": false
+      },
+      "video_terminals": [
+        "Ittehad Town",
+        "Landhi"
+      ],
+      "description_hashtags_in_order": [
+        "itehadtownkarachi",
+        "baldiatown",
+        "Hubriverroad",
+        "shershah",
+        "gulbai",
+        "agrataj",
+        "kharadar",
+        "tower",
+        "bolton",
+        "shaheencomplex",
+        "PIDC",
+        "canttstation",
+        "punjabcolony",
+        "akhtarcoloney",
+        "qayyumabad",
+        "korangicrossing",
+        "koranginumber6",
+        "korangino1",
+        "landhi"
+      ],
+      "notes": "Consistent with RastaYaar (Landhi 1 - Itihad Town, reversed) and Mnzil (Ittehad Town - Quaidabad)."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "G-3",
+      "exists_in_data": true,
+      "existing_name": "Sachal Goth - Muhajir Camp 8½",
+      "source": {
+        "title": "G 3 Mini Bus Karachi || Local Transport Karachi || Sachal Goth To Kokan Colony || Lets Go Pk",
+        "url": "https://www.youtube.com/watch?v=SSuUBZUn10U",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2025-01-01",
+        "official": false
+      },
+      "video_terminals": [
+        "Sachal Goth",
+        "Kokan Colony"
+      ],
+      "description_hashtags_in_order": [
+        "sachalgoth",
+        "marooragoth",
+        "safooragoth",
+        "jailchowrangi",
+        "hassansquare",
+        "nipachowrangi",
+        "karachiuniversity",
+        "jamshaidroad",
+        "mizarquaid",
+        "rainbocentre",
+        "empress",
+        "reegal",
+        "bunrsroad",
+        "jamaclothmarket",
+        "boltonmarketkarachi",
+        "lighthouse",
+        "tower",
+        "kharadar",
+        "agrataj",
+        "shershah",
+        "muhajircamp",
+        "kokancolony"
+      ],
+      "notes": "RastaYaar G-3 ends at Muhajir Camp 8 1/2; the video continues one stop to Kokan Colony."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "Imran",
+      "exists_in_data": true,
+      "existing_name": "Hawksbay Beach - Qayyumabad",
+      "source": {
+        "title": "Imran Coach Mini Bus Karachi || Local Transport Karachi || Model Colony To Machli Chowk || Lets go",
+        "url": "https://www.youtube.com/watch?v=HZw0KYmkGAg",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2024-11-08",
+        "official": false
+      },
+      "video_terminals": [
+        "Model Colony (Malir Cantt)",
+        "Machli Chowk, Younusabad"
+      ],
+      "description_hashtags_in_order": [
+        "malirkarachi",
+        "wirelessgate",
+        "chotagate",
+        "stargate",
+        "colonygate",
+        "nathakhan",
+        "drighroad",
+        "karsaz",
+        "awamimarkaz",
+        "balochcolony",
+        "nursery",
+        "shahraefaisal",
+        "shahraeqauideen",
+        "tariqroad",
+        "noranikabab",
+        "numaish",
+        "tajcomplex",
+        "tibetcentre",
+        "jamaclothmarket",
+        "lighthouse",
+        "boltonmarketkarachi",
+        "tower",
+        "agrataj",
+        "gulbai",
+        "tarakadakarachi",
+        "mauripur",
+        "younasabad",
+        "pakistanmarineacademy"
+      ],
+      "notes": "Conflict: existing Imran (from Mnzil) is Hawksbay Beach - Qayyumabad; the video runs Model Colony via Shahrah-e-Faisal, Tariq Road, Numaish, Tower, Gulbai, Mauripur to Younusabad (Machli Chowk)."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "Khan",
+      "exists_in_data": true,
+      "existing_name": "Abdullah Chowk - Abdullah Shah Ghazi",
+      "source": {
+        "title": "Khan Coach Mini Bus Karachi || Local Transport Karachi || Surjani Town To Clifton || Lets Go Pk",
+        "url": "https://www.youtube.com/watch?v=yjWHHIp5nXY",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2024-10-30",
+        "official": false
+      },
+      "video_terminals": [
+        "Surjani Town",
+        "Sea View, Clifton"
+      ],
+      "description_hashtags_in_order": [
+        "surjanitownkarachi",
+        "kdachowrangi",
+        "4kchowrangi",
+        "powerhousechowrangi",
+        "upmore",
+        "naganchowrangi",
+        "sakhihassan",
+        "haideri",
+        "boardoffice",
+        "nazimabad",
+        "golimar",
+        "lasbela",
+        "goroumandar",
+        "mizarequaid",
+        "palaza",
+        "civilhospital",
+        "boltonmarketkarachi",
+        "tower",
+        "behriacollege",
+        "maicolochi",
+        "boatbasin",
+        "bilawalchowrangi",
+        "abdullahshahghazi",
+        "seaview"
+      ],
+      "notes": "Matches Mnzil Khan (Surjani Power House - Abdullah Shah Ghazi) better than RastaYaar (Abdullah Chowk - Abdullah Shah Ghazi)."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "Z-2",
+      "exists_in_data": true,
+      "existing_name": "Gulshan Ghazi - Khayaban-e-Shaheed",
+      "source": {
+        "title": "Z-2 Mini Bus Karachi Detailed Route || Gulshan Gazi To Khayaban e Ghalib Bus Route || Lets Go Pk",
+        "url": "https://www.youtube.com/watch?v=RYfxfq4laSU",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2024-10-23",
+        "official": false
+      },
+      "video_terminals": [
+        "Gulshan Ghazi",
+        "Khayaban-e-Ghalib, Clifton"
+      ],
+      "description_hashtags_in_order": [
+        "gulshaneghazi",
+        "fareedcolony",
+        "orangi10number",
+        "orangi5number",
+        "banarascolony",
+        "valika",
+        "baraboard",
+        "makkimasjid",
+        "garden",
+        "tibatcentre",
+        "preedystreet",
+        "saddarkarachi",
+        "mirtalpurroad",
+        "luckystar",
+        "drdaudpotaroad",
+        "canttstation",
+        "lillybridge",
+        "khaliquzamanroad",
+        "punjabcolony",
+        "benazirpark",
+        "boatbasin",
+        "khayabaneghalib"
+      ],
+      "notes": "Matches Mnzil Z-2; RastaYaar ends at Khayaban-e-Shaheed."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "MashAllah",
+      "exists_in_data": true,
+      "existing_name": "Hijrat Colony - Khairabad",
+      "source": {
+        "title": "MashaAllah Coach Mini Bus Karachi || Local Transport route detail || Lets go pk",
+        "url": "https://www.youtube.com/watch?v=4A2YFjKxqmU",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2024-05-28",
+        "official": false
+      },
+      "video_terminals": [
+        "Hijrat Colony",
+        "Khairabad"
+      ],
+      "description_hashtags_in_order": [
+        "Hijratcoloney",
+        "sultanabad",
+        "lalazar",
+        "tower",
+        "boltonmarketkarachi",
+        "lighthouse",
+        "jamacloth",
+        "garden",
+        "banaras",
+        "valika",
+        "habibbankchowrangi",
+        "orangitown",
+        "baraboard",
+        "khairabad"
+      ],
+      "notes": "Matches existing MashAllah terminals."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "Marwat",
+      "exists_in_data": true,
+      "existing_name": "Hawksbay Beach - Shireen Jinnah Colony",
+      "source": {
+        "title": "Marwat 11 Karachi Mini Bus Karachi | bhainse  colony to Naval Colony | Lets Go Pk",
+        "url": "https://www.youtube.com/watch?v=Rf9VB2yZm8o",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2024-05-18",
+        "official": false
+      },
+      "video_terminals": [
+        "Bhains Colony",
+        "Naval Colony"
+      ],
+      "description_hashtags_in_order": [
+        "laboursquare",
+        "Pmtfcolony",
+        "sessihospital",
+        "dawoodchowrangi",
+        "quaidabad",
+        "malir15",
+        "malirhalt",
+        "wirelessgate",
+        "airport",
+        "colonygate",
+        "shafaisalcolony",
+        "drigroad",
+        "karsaz",
+        "drigroad",
+        "nursery",
+        "tariqroad",
+        "numaish",
+        "majinnahroad",
+        "tajcomplex",
+        "jamacloth",
+        "tower",
+        "bolton",
+        "shershah",
+        "gulbai",
+        "baldiatown",
+        "moachgoth",
+        "navalcolony"
+      ],
+      "notes": "Titled \"Marwat 11\". Conflict: existing Marwat is Hawksbay Beach - Shireen Jinnah Colony (RastaYaar) / Bhudni Goth - Shireen Jinnah Colony (Mnzil). The video alignment (Bhains Colony > Labour Square > Dawood Chowrangi > Malir Halt > Shahrah-e-Faisal > Numaish > Tower > Shershah > Baldia > Moach Goth > Naval Colony) matches Mnzil Mashriq (Bhains Colony Mor - Naval Colony). \"Marwat 11\" may be a separate Marwat variant."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "New Afridi",
+      "exists_in_data": true,
+      "existing_name": "Bhains Colony - Gulshan-e-Ghazi",
+      "source": {
+        "title": "Afridi coach || Mini buses Karachi || Bhainse Colony To Gulshan Ghazi || Lets Go Pk",
+        "url": "https://www.youtube.com/watch?v=irNCQW6pS8s",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2024-05-13",
+        "official": false
+      },
+      "video_terminals": [
+        "Landhi / Bhains Colony",
+        "Mominabad, Gulshan Ghazi"
+      ],
+      "description_hashtags_in_order": [],
+      "notes": "Prose only: via Korangi, Qayyumabad, Defence, Gizri, Clifton, Keamari, Tower, Agra Taj, Shershah, SITE, Habib Bank, Metroville, Faqir Colony. Matches existing terminals."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "Mashriq",
+      "exists_in_data": true,
+      "existing_name": "Muzafarabad Colony - Itihad Town",
+      "source": {
+        "title": "Mashriq Coach Karachi Mini Bus || Rout detail || Lets go pk",
+        "url": "https://www.youtube.com/watch?v=_DO8mwTlPGU",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2024-04-29",
+        "official": false
+      },
+      "video_terminals": [
+        "Muzaffarabad Colony",
+        "Faqir Colony Nai Abadi"
+      ],
+      "description_hashtags_in_order": [],
+      "notes": "Prose only: via Landhi, Defence, Saddar, Metroville, Garden, Nazimabad. Close to RastaYaar Mashriq (Muzafarabad Colony - Itihad Town); Mnzil Mashriq (Bhains Colony Mor - Naval Colony) looks like a different service (see Marwat 11)."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "W-55",
+      "exists_in_data": true,
+      "existing_name": "Khaibarabad - New Lyari",
+      "source": {
+        "title": "W 55 Karachi Mini Bus Route || Tours and Travelling || Lets Go Pk",
+        "url": "https://www.youtube.com/watch?v=B6WFQQd8scc",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2024-05-07",
+        "official": false
+      },
+      "video_terminals": [
+        "Khairabad",
+        "Lyari Basti"
+      ],
+      "description_hashtags_in_order": [],
+      "notes": "Prose only: via Orangi, Nazimabad, Banaras, Nagan Chowrangi, Khuda Ki Basti, 2 Minute Chowrangi, 4K Chowrangi. Matches Mnzil W-55."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "Muslim",
+      "exists_in_data": true,
+      "existing_name": "Steel Town - Shereen Jinnah Colony",
+      "source": {
+        "title": "Muslim Coach Mini Bus Karachi | Complete Review Fare Distance And Timing | Lets go pk",
+        "url": "https://www.youtube.com/watch?v=M5FMnY7owKo",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2024-01-08",
+        "official": false
+      },
+      "video_terminals": [
+        "Keamari",
+        "Gulshan-e-Hadeed"
+      ],
+      "description_hashtags_in_order": [
+        "drighroad",
+        "quaidabad",
+        "portqasim",
+        "steelmill"
+      ],
+      "notes": "Prose: from Keamari via Tower, Cantt Station, Shahrah-e-Faisal, Malir, Quaidabad, Port Qasim, Steel Mill to Gulshan-e-Hadeed. Existing: Steel Town - Shireen Jinnah Colony (RastaYaar), Shireen Jinnah Colony - Pipri Goth (Mnzil). Same corridor."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "N-5",
+      "exists_in_data": true,
+      "existing_name": "Naval Colony - Bilal Colony",
+      "source": {
+        "title": "N5 Mini Bus Karachi Route || Local Transport Karachi || Naval Colony To Shan Chowrangi || Lets Go Pk",
+        "url": "https://www.youtube.com/watch?v=9GrcWRR7JGQ",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2024-12-25",
+        "official": false
+      },
+      "video_terminals": [
+        "Naval Colony",
+        "Shan Chowrangi"
+      ],
+      "description_hashtags_in_order": [
+        "navalcolony",
+        "fareedcolony",
+        "urduchowk",
+        "orangitown",
+        "banaras",
+        "habibbankchowrangi",
+        "shershaah",
+        "gulbai",
+        "agrataj",
+        "kharadar",
+        "tower",
+        "sultanabad",
+        "mtkhanroad",
+        "pidcontroller",
+        "canttstation",
+        "jinnahhospital",
+        "kalapul",
+        "defenceviewkarachi",
+        "akhtarcolony",
+        "qayyumabad",
+        "brookschowrangi",
+        "shanchowrangi"
+      ],
+      "notes": "Matches Mnzil N-5 (Naval Colony - Shaan Chowrangi); RastaYaar ends at Bilal Colony."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "X-8",
+      "exists_in_data": true,
+      "existing_name": "Itihad Town - Rohri Goth",
+      "source": {
+        "title": "X 8 Mini Bus Karachi || Rout Detail From Ittehad Town To Qayyum Abad || Lets Go Pk",
+        "url": "https://www.youtube.com/watch?v=mINhlxyNHKk",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2024-09-12",
+        "official": false
+      },
+      "video_terminals": [
+        "Ittehad Town",
+        "Qayyumabad"
+      ],
+      "description_hashtags_in_order": [
+        "ittehadtown",
+        "daudgoth",
+        "navalcolony",
+        "Moachgoth",
+        "baldiatown",
+        "shershaah",
+        "gulbai",
+        "agrataj",
+        "lyari",
+        "macharcolony",
+        "kharadar",
+        "tower",
+        "kemari",
+        "massanchowk",
+        "shirinjinnahcolony",
+        "bilawalchowrangi",
+        "abdullahshahghazi",
+        "26street",
+        "sabaavenue",
+        "khayabaneshamsheer",
+        "khayabaneittehad",
+        "ayshamasjid",
+        "rahatpark",
+        "bilalmasjid",
+        "akhtarcolony",
+        "dhakarachi",
+        "qayyumabad"
+      ],
+      "notes": "Existing X-8: Itihad Town - Rohri Goth (RastaYaar), Ittehad Town - Rohri Goth Landhi (Mnzil). Video ends at Qayyumabad via Keamari, Shireen Jinnah Colony, Clifton, DHA."
+    },
+    {
+      "system": "karachi-minibus",
+      "route_id": "G-17",
+      "exists_in_data": true,
+      "existing_name": "Mwach Goth - Gul City",
+      "source": {
+        "title": "G17 Mini Bus Karachi Route Detail",
+        "url": "https://www.youtube.com/watch?v=9lXDq-7_04A",
+        "publisher": "Lets go pk (YouTube channel UCqfh-QDg4lCcYzjqSN8NYkw)",
+        "date": "2025-12-27",
+        "official": false
+      },
+      "video_terminals": null,
+      "description_hashtags_in_order": [],
+      "notes": "Video exists (uploaded 2025-12-27) but has no description; only evidence that G-17 still runs."
+    }
+  ],
+  "chinchi_candidates": [
+    {
+      "system": "karachi-chinchi",
+      "route_ids": [
+        "F-18",
+        "U-18",
+        "G-18",
+        "M-18"
+      ],
+      "terminals_hint": "UP Mor / Disco Mor / Baradari (North Karachi) - Millennium Mall / NIPA (Gulshan-e-Iqbal)",
+      "stops": [],
+      "source": {
+        "title": "Karachi chingchi / extended rickshaw routes (PakWheels Forums thread, posts 2019-05-09, 2021-04-21, 2021-12-26)",
+        "url": "https://www.pakwheels.com/forums/t/karachi-chingchi-extended-rickshaw-routes/245226",
+        "official": false
+      },
+      "notes": "Forum users name these Chinchi numbers alongside A-18, K-18 and FM on the UP Mor - Millennium Mall - NIPA corridor. Not in Mnzil or karachi-chinchi.json. 2019-2021 evidence only; no stop lists. Not added as routes."
+    }
+  ],
+  "open_questions": [
+    "Chinchi M-5, MK 081 and P-1: still no stop list anywhere. Mnzil vehicle pages (re-checked through the station gazetteer, 2026-09-24): M-5 has one station (Expo Center), MK-081 and P-1 none, and no Mnzil station page lists MK-081 or P-1. Web (English/Urdu), YouTube search, TikTok search and the PakWheels forum thread gave nothing. Wikiroutes has no Karachi routes (its Pakistan page lists only Faisalabad, Islamabad, Lahore, Peshawar).",
+    "Terminal-only Qingqi routes from ARY 2018 (Nagan Chowrangi - Iqra University North Campus, Bakra Mandi - Lee Market, Five Minute Chowrangi - North Karachi No. 6): still no stop lists. The Mnzil gazetteer has no station named Bakra Mandi, Cattle Colony or Five Minute Chowrangi. The G-27 minibus video (Lets Go Pk, 2026-01) lists #bakramandi between Afridi Chowk and Hub River Road (Orangi/Baldia side); whether that is the Bakra Mandi of the 2018 Qingqi list is unknown.",
+    "Terminal conflicts (RastaYaar vs Mnzil vs 2024-26 videos) for D-11, X-10, X-8, Imran, Marwat/Mashriq, Sheraz and Muslim; see corroboration[]. A field check or a second 2025-26 source is needed before editing data/systems.",
+    "Planned EV corridors: no route codes, no stop lists and no launch dates; the second corridor is only an area list.",
+    "Lets Go Pk hashtags are areas in travel order, not official stop points, and spellings are run together (#habibbankchowrangi). They were kept raw in corroboration[] so a person can compare them with the existing stop lists."
+  ]
+}

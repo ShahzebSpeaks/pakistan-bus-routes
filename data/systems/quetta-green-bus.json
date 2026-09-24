@@ -56,7 +56,7 @@
   "routes": [
     {
       "id": "GB-1",
-      "name": "BUITEMS - University of Balochistan",
+      "name": "University of Balochistan - Baleli Custom (via BUITEMS)",
       "name_ur": "",
       "variant": "regular",
       "color": null,
@@ -67,8 +67,120 @@
       "hours": null,
       "fare_override": null,
       "women_only": false,
-      "stops_confidence": "low",
+      "stops_confidence": "medium",
       "stops": [
+        {
+          "name": "University of Balochistan",
+          "name_ur": "",
+          "lat": 30.164572,
+          "lon": 66.99418,
+          "coord_source": "osm:way/995134260",
+          "is_station": false
+        },
+        {
+          "name": "QDA Office",
+          "name_ur": "",
+          "lat": 30.169726,
+          "lon": 66.994154,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Helpers Eye Hospital",
+          "name_ur": "",
+          "lat": 30.174881,
+          "lon": 66.994128,
+          "coord_source": "osm:node/6124652300",
+          "is_station": false
+        },
+        {
+          "name": "Imdad Chowk",
+          "name_ur": "",
+          "lat": 30.189255,
+          "lon": 67.002131,
+          "coord_source": "osm:node/12553515978",
+          "is_station": false
+        },
+        {
+          "name": "Hockey Chowk",
+          "name_ur": "",
+          "lat": 30.193183,
+          "lon": 67.003836,
+          "coord_source": "auto:osm:way/1356365345",
+          "is_station": false
+        },
+        {
+          "name": "Commissioner Office",
+          "name_ur": "",
+          "lat": 30.197585,
+          "lon": 67.009882,
+          "coord_source": "osm:way/653789723",
+          "is_station": false
+        },
+        {
+          "name": "GPO Chowk",
+          "name_ur": "",
+          "lat": 30.200379,
+          "lon": 67.008719,
+          "coord_source": "osm:node/12657371343",
+          "is_station": false
+        },
+        {
+          "name": "Ufone Chowk",
+          "name_ur": "",
+          "lat": 30.207794,
+          "lon": 67.007586,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Koila Phatak (Kohla Pattak)",
+          "name_ur": "",
+          "lat": 30.21521,
+          "lon": 67.006453,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Askari Park DHA",
+          "name_ur": "",
+          "lat": 30.222625,
+          "lon": 67.00532,
+          "coord_source": "auto:osm:way/463545562",
+          "is_station": false
+        },
+        {
+          "name": "Kasi Bahria Office",
+          "name_ur": "",
+          "lat": 30.232012,
+          "lon": 66.992302,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ali Mehmood Super Mart",
+          "name_ur": "",
+          "lat": 30.241399,
+          "lon": 66.979284,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Killi Gul Mohammad",
+          "name_ur": "",
+          "lat": 30.250786,
+          "lon": 66.966265,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Killi Almas",
+          "name_ur": "",
+          "lat": 30.260173,
+          "lon": 66.953247,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
         {
           "name": "BUITEMS",
           "name_ur": "",
@@ -78,11 +190,19 @@
           "is_station": false
         },
         {
-          "name": "University of Balochistan",
+          "name": "Agriculture University",
           "name_ur": "",
-          "lat": 30.164572,
-          "lon": 66.99418,
-          "coord_source": "osm:way/995134260",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Baleli Custom",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
           "is_station": false
         }
       ],
@@ -90,14 +210,18 @@
         {
           "title": "First ever Green Bus Service launched in Quetta",
           "url": "https://www.dawn.com/news/1765358"
+        },
+        {
+          "title": "From Quetta's heart to every corner (Express Tribune, 27 Aug 2023)",
+          "url": "https://tribune.com.pk/story/2432520/from-quettas-heart-to-every-corner"
         }
       ],
-      "notes": "No official route code found (GB-1 is a placeholder). 18 stops reported but names not published; route runs via Airport Road, Zarghoon Road, Anscomb Road, Koila Phatak and Sariab Road. Only terminals listed; their coordinates are OSM campus centroids, not stop positions. Reportedly extended to Sariab Customs (Sept 2025, after Balochistan High Court orders); Dec 2025 reports describe routes Sariab Road - Airport Chowk and University Road - Sariab Mill. OSM node 12699227422 'Green Bus Stop' (30.19336, 67.0044) exists."
+      "notes": "UPDATE to existing GB-1 (which had terminals only). Ordered stop list from the Express Tribune feature (Aug 2023): route starts at Balochistan University and ends at Baleli Custom; the article says 18 stops but names 17. Spellings as printed except Kohla Pattak = Koila Phatak. Single source, 2023; Sept 2026 reports say the network was extended (Sariab Customs at the south end), so the current terminals may differ. Coordinates only where an unambiguous OSM element exists; UoB and BUITEMS are campus centroids, not stop positions."
     },
     {
       "id": "PINK",
-      "name": "Pink Bus (women only)",
-      "name_ur": "",
+      "name": "Pink Bus (women only): Kuchlak - Sona Khan Chowk",
+      "name_ur": "پنک بس",
       "variant": "pink",
       "color": null,
       "status": "unverified",
@@ -108,37 +232,226 @@
       "fare_override": null,
       "women_only": true,
       "stops_confidence": "low",
-      "stops": [],
+      "stops": [
+        {
+          "name": "Kuchlak",
+          "name_ur": "کچلاک",
+          "lat": 30.36282,
+          "lon": 66.94968,
+          "coord_source": "osm:node/301263201",
+          "is_station": false
+        },
+        {
+          "name": "Sona Khan Chowk",
+          "name_ur": "سونا خان چوک",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
       "sources": [
         {
           "title": "CM Balochistan inaugurates Pink Bus Service",
           "url": "https://www.app.com.pk/domestic/cm-balochistan-inaugurates-pink-bus-service-for-women-expanding-green-bus-routes/"
+        },
+        {
+          "title": "کوئٹہ میں پہلی بار پنک بس سروس کا آغاز (City42)",
+          "url": "https://www.city42.tv/10-Dec-2025/186761"
+        },
+        {
+          "title": "17 more e-buses to be added to Quetta fleet (Dawn, Sept 2026)",
+          "url": "https://www.dawn.com/news/2031018/17-more-e-buses-to-be-added-to-quetta-fleet"
         }
       ],
-      "notes": "4-5 pink buses inaugurated Dec 2025; route not published (likely on green bus corridor)."
+      "notes": "UPDATE to existing PINK: City42 (launch day) says pink and green buses will run from Kuchlak to Sona Khan Chowk. Dawn (Sept 2026) says four of the 25 buses are women-only, without naming their route. Endpoints only."
     },
     {
       "id": "KUCHLAK",
-      "name": "Kuchlak (AC Office) - Mian Ghundi (Sariab)",
-      "name_ur": "",
+      "name": "Kuchlak - Sona Khan Chowk",
+      "name_ur": "کچلاک - سونا خان چوک",
       "variant": "regular",
       "color": null,
-      "status": "planned",
+      "status": "operational",
       "launched": null,
-      "length_km": 38,
+      "length_km": 40,
       "headway_min": null,
       "hours": null,
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "low",
-      "stops": [],
+      "stops": [
+        {
+          "name": "Kuchlak",
+          "name_ur": "کچلاک",
+          "lat": 30.36282,
+          "lon": 66.94968,
+          "coord_source": "osm:node/301263201",
+          "is_station": false
+        },
+        {
+          "name": "Sona Khan Chowk",
+          "name_ur": "سونا خان چوک",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
       "sources": [
         {
           "title": "Balochistan expands Green Bus fleet to 25 in Quetta",
           "url": "https://www.app.com.pk/domestic/balochistan-expands-green-bus-fleet-to-25-in-quetta-with-17-new-additions/"
+        },
+        {
+          "title": "17 more e-buses to be added to Quetta fleet (Dawn, Sept 2026)",
+          "url": "https://www.dawn.com/news/2031018/17-more-e-buses-to-be-added-to-quetta-fleet"
+        },
+        {
+          "title": "Quetta Green Bus Service to Add 17 Electric Buses, Expand Feeder Routes (Daily Independent)",
+          "url": "https://www.dailyindependent.com.pk/2026/09/17/quetta-green-bus-service-to-add-17-electric-buses-expand-feeder-routes/"
+        },
+        {
+          "title": "کوئٹہ میں پہلی بار پنک بس سروس کا آغاز (City42)",
+          "url": "https://www.city42.tv/10-Dec-2025/186761"
         }
       ],
-      "notes": "Planned network extension from 18 km to ~40 km (Sona Khan/Mian Ghundi - Kuchlak) covering Hazara Town, Marriabad, Samungli Road, Sariab Custom, Nawan Killi. Operational status in Sept 2026 not confirmed."
+      "notes": "UPDATE to existing planned KUCHLAK: Dawn and Daily Independent (Sept 2026) say about 40 stops are now established on the Kuchlak route and the service runs on four routes 07:00-21:00, so it is treated as operational. City42 (Dec 2025) gives the corridor as Kuchlak to Sona Khan Chowk; APP gives about 40 km \"from Sona Khan to Kuchlak\"; the earlier plan named Kuchlak AC Office - Mian Ghundi (Sariab), 38 km. None of the ~40 stop names are published. Kuchlak coordinate is the town place node."
+    },
+    {
+      "id": "GL-CARDIO",
+      "name": "Green Line: BA Mall - SMBZAN Institute of Cardiology",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": "2026-04-29",
+      "length_km": null,
+      "headway_min": 45,
+      "hours": {
+        "start": "07:00",
+        "end": "23:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "BA Mall",
+          "name_ur": "",
+          "lat": 30.219861,
+          "lon": 67.00813,
+          "coord_source": "osm:way/1267592732",
+          "is_station": false
+        },
+        {
+          "name": "FC Hospital",
+          "name_ur": "",
+          "lat": 30.223697,
+          "lon": 67.008732,
+          "coord_source": "osm:node/4346713920",
+          "is_station": false
+        },
+        {
+          "name": "Nawan Killi",
+          "name_ur": "",
+          "lat": 30.229219,
+          "lon": 67.012762,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Zarghoonabad",
+          "name_ur": "",
+          "lat": 30.234741,
+          "lon": 67.016792,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Haji Manan",
+          "name_ur": "",
+          "lat": 30.240263,
+          "lon": 67.020822,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Labour Colony",
+          "name_ur": "",
+          "lat": 30.245785,
+          "lon": 67.024852,
+          "coord_source": "osm:node/5629193285",
+          "is_station": false
+        },
+        {
+          "name": "Abdul Khaliq Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Christian Colony",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Highway Mart",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Malezai",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nasran",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "NUST",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sheikh Mohammed Bin Zayed Al Nahyan Institute of Cardiology",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "high",
+      "sources": [
+        {
+          "title": "Green Line Bus Service Launched in Quetta to Connect SMBZAN Institute of Cardiology (Daily Qudrat English)",
+          "url": "https://en.dailyqudrat.pk/81381/"
+        },
+        {
+          "title": "Balochistan Launches Green Line Bus Service to Cardiology Institute in Quetta (ProPakistani)",
+          "url": "https://propakistani.pk/2026/04/30/balochistan-launches-green-line-bus-service-to-cardiology-institute-in-quetta/"
+        }
+      ],
+      "notes": "New route not in data/systems. Two sources agree on all 13 stops in the same order; spellings differ (Nawab Killi/Nawan Killi, Zarghoon Abad/Zarghoonabad, Haji Munan/Haji Manan, Malezai/Maleezai). Launch 29 Apr 2026 (ProPakistani published 30 Apr). Buses every 45 min, 07:00-23:00. Fare and fleet not published. GL-CARDIO is a placeholder id; it is probably one of the \"four routes\" Dawn counts in Sept 2026. BA Mall and Labour Colony coordinates are OSM area/neighbourhood points, not stop positions."
     }
   ]
 }

@@ -135,25 +135,70 @@
     {
       "id": "LRK-QMB",
       "name": "Larkana - Qambar - Shahdadkot",
-      "name_ur": "",
+      "name_ur": "لاڑکانہ - قمبر - شہدادکوٹ",
       "variant": "red",
       "color": null,
-      "status": "planned",
-      "launched": null,
+      "status": "operational",
+      "launched": "2026-09-18",
       "length_km": null,
       "headway_min": null,
       "hours": null,
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "low",
-      "stops": [],
+      "stops": [
+        {
+          "name": "Larkana",
+          "name_ur": "لاڑکانہ",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Qambar",
+          "name_ur": "قمبر",
+          "lat": 27.58924,
+          "lon": 67.99967,
+          "coord_source": "osm:node/1934240007",
+          "is_station": false
+        },
+        {
+          "name": "Shahdadkot",
+          "name_ur": "شہدادکوٹ",
+          "lat": 27.8468,
+          "lon": 67.90812,
+          "coord_source": "osm:node/1934240459",
+          "is_station": false
+        }
+      ],
       "sources": [
         {
           "title": "Date Announced for New Peoples Bus Service Route Launch",
           "url": "https://propakistani.pk/2026/09/15/date-announced-for-new-peoples-bus-service-route-launch/"
+        },
+        {
+          "title": "New route for Peoples Bus Service launched for Larkana, Qambar, Shahdadkot (The Nation)",
+          "url": "https://www.nation.com.pk/19-Sep-2026/new-route-peoples-bus-service-launched-larkana-qambar-shahdadkot"
+        },
+        {
+          "title": "New Peoples Bus Service Route Launched (ProPakistani)",
+          "url": "https://propakistani.pk/2026/09/19/new-peoples-bus-service-route-launched/"
+        },
+        {
+          "title": "لاڑکانہ، قمبر اور شہدادکوٹ کے لیے پیپلز بس سروس کا نیا روٹ شروع (Express Urdu)",
+          "url": "https://www.express.pk/story/2833407/new-peoples-bus-service-route-launched-for-residents-of-larkana-qambar-and-shahdadkot-2833407"
+        },
+        {
+          "title": "Larkana-Shahdadkot People Bus Service route launched (Daily Times)",
+          "url": "https://dailytimes.com.pk/1554949/larkana-shahdadkot-people-bus-service-route-launched/"
+        },
+        {
+          "title": "2 New Peoples Bus Service Routes Announced (ProPakistani)",
+          "url": "https://propakistani.pk/2026/08/04/2-new-peoples-bus-service-routes-announced/"
         }
       ],
-      "notes": "Announced to start 18 Sep 2026; no stops or code published yet (LRK-QMB is a placeholder id)."
+      "notes": "UPDATE to existing planned LRK-QMB: launched 18 Sep 2026 (Express Urdu, Ummat and The Nation report the launch; Daily Times dates it 19 Sep). Stops are the three towns only; no intermediate stops, Larkana terminal, fare, fleet or length published. Aug 2026 approval described it as two routes (Larkana-Qambar and Qambar-Shahdadkot); launch coverage describes one route Larkana - Qambar - Shahdadkot. Run under a PPP model per Jang. Qambar and Shahdadkot coordinates are OSM town place nodes, not stop positions."
     }
   ]
 }

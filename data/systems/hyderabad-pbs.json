@@ -311,6 +311,134 @@
         }
       ],
       "notes": "Listed as Inactive in SMTA directory (2026). Via items are areas/roads rather than exact stops."
+    },
+    {
+      "id": "HYD-PINK",
+      "name": "Hyder Chowk - Hatri Bypass (Pink Bus, women only)",
+      "name_ur": "پنک بس حیدر چوک تا ہٹڑی بائی پاس",
+      "variant": "pink",
+      "color": null,
+      "status": "unverified",
+      "launched": "2023-02-19",
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 50,
+        "slabs": [],
+        "concessions": "",
+        "as_of": "2023-02",
+        "source_url": "https://dailytimes.com.pk/1064501/pink-peoples-bus-service-for-women-inaugurated-in-hyderabad/"
+      },
+      "women_only": true,
+      "stops": [
+        {
+          "name": "Hyder Chowk",
+          "name_ur": "حیدر چوک",
+          "lat": 25.385903,
+          "lon": 68.367293,
+          "coord_source": "osm:node/1119635453",
+          "is_station": false
+        },
+        {
+          "name": "Gul Center",
+          "name_ur": "",
+          "lat": 25.385362,
+          "lon": 68.361064,
+          "coord_source": "osm:node/5285951856",
+          "is_station": false
+        },
+        {
+          "name": "Thandi Sarak",
+          "name_ur": "",
+          "lat": 25.384505,
+          "lon": 68.358272,
+          "coord_source": "auto:osm:way/98585466",
+          "is_station": false
+        },
+        {
+          "name": "Wahdat Colony",
+          "name_ur": "",
+          "lat": 25.388984,
+          "lon": 68.330468,
+          "coord_source": "auto:osm:node/8356320745",
+          "is_station": false
+        },
+        {
+          "name": "Sindh Museum",
+          "name_ur": "",
+          "lat": 25.385002,
+          "lon": 68.337772,
+          "coord_source": "osm:way/93841136",
+          "is_station": false
+        },
+        {
+          "name": "Qasim Chowk",
+          "name_ur": "",
+          "lat": 25.405564,
+          "lon": 68.356424,
+          "coord_source": "osm:node/10959283278",
+          "is_station": false
+        },
+        {
+          "name": "Pathan Colony",
+          "name_ur": "",
+          "lat": 25.407011,
+          "lon": 68.36296,
+          "coord_source": "osm:node/10959283279",
+          "is_station": false
+        },
+        {
+          "name": "Central Jail",
+          "name_ur": "",
+          "lat": 25.411093,
+          "lon": 68.367766,
+          "coord_source": "osm:way/95497289",
+          "is_station": false
+        },
+        {
+          "name": "Hala Naka",
+          "name_ur": "",
+          "lat": 25.418355,
+          "lon": 68.378919,
+          "coord_source": "osm:node/5285951834",
+          "is_station": false
+        },
+        {
+          "name": "Isra Hospital",
+          "name_ur": "",
+          "lat": 25.434852,
+          "lon": 68.382564,
+          "coord_source": "osm:node/10959283291",
+          "is_station": false
+        },
+        {
+          "name": "Hatri Bypass",
+          "name_ur": "",
+          "lat": 25.45518,
+          "lon": 68.387725,
+          "coord_source": "osm:node/10959297433",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Pink People's Bus Service for women inaugurated in Hyderabad (Daily Times)",
+          "url": "https://dailytimes.com.pk/1064501/pink-peoples-bus-service-for-women-inaugurated-in-hyderabad/"
+        },
+        {
+          "title": "Pink People's Bus Service launched in Hyderabad (Zameen News)",
+          "url": "https://www.zameen.com/news/pink-peoples-bus-service-launched-in-hyderabad.html"
+        },
+        {
+          "title": "Pink Bus Service begins in Hyderabad (Express Tribune)",
+          "url": "https://tribune.com.pk/story/2401996/pink-bus-service-begins-in-hyderabad"
+        }
+      ],
+      "notes": "Launched 19 Feb 2023 with 2 pink buses from SRTC terminal Qasimabad; fare Rs 50. Stop order follows Daily Times (geographically consistent: Thandi Sarak west to Sindh Museum, north to Qasim Chowk, east via Pathan Colony/Central Jail to Hala Naka, then north to Isra and Hatri). Zameen News lists the same 11 names in a scrambled order. Not listed in the 2026 SMTA provincial route directory, so current operation is unconfirmed (status unverified). Corridor is the same as HYD-01 (Hyder Chowk - Hatri Police Station). HYD-PINK is a placeholder id. Thandi Sarak and Wahdat Colony are road/area names with no single OSM stop node. Sindh Museum and Central Jail coordinates are OSM area centroids; Hyder Chowk uses the same node as existing HYD-01."
     }
   ]
 }

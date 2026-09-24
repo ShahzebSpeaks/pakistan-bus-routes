@@ -1,6 +1,6 @@
 # Sources
 
-Generated 2026-09-23 from `data/systems`. Facts (route numbers, stop names, fares, timings) were compiled from these public sources. Maps, images and text from them are not redistributed.
+Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fares, timings) were compiled from these public sources. Maps, images and text from them are not redistributed.
 
 ## Abbottabad Pink Bus (women only) (abbottabad)
 
@@ -138,6 +138,9 @@ Generated 2026-09-23 from `data/systems`. Facts (route numbers, stop names, fare
 - [HYD-02](https://smta.gos.pk/routes/22)
 - [Peoples Bus Service between Tando Allahyar, Hyderabad from tomorrow](https://www.dawn.com/news/1993595/peoples-bus-service-between-tando-allahyar-hyderabad-from-tomorrow)
 - [HYD-03](https://smta.gos.pk/routes/23)
+- [Pink People's Bus Service for women inaugurated in Hyderabad (Daily Times)](https://dailytimes.com.pk/1064501/pink-peoples-bus-service-for-women-inaugurated-in-hyderabad/)
+- [Pink People's Bus Service launched in Hyderabad (Zameen News)](https://www.zameen.com/news/pink-peoples-bus-service-launched-in-hyderabad.html)
+- [Pink Bus Service begins in Hyderabad (Express Tribune)](https://tribune.com.pk/story/2401996/pink-bus-service-begins-in-hyderabad)
 
 ## Hyderabad private wagons, minibuses and paratransit (hyderabad)
 
@@ -754,6 +757,11 @@ Generated 2026-09-23 from `data/systems`. Facts (route numbers, stop names, fare
 - [Peoples Bus Service](https://en.wikipedia.org/wiki/Peoples_Bus_Service) · Wikipedia
 - [Peoples Bus Service set to be launched in Larkana district](https://www.dawn.com/news/1703571)
 - [Date Announced for New Peoples Bus Service Route Launch](https://propakistani.pk/2026/09/15/date-announced-for-new-peoples-bus-service-route-launch/)
+- [New route for Peoples Bus Service launched for Larkana, Qambar, Shahdadkot (The Nation)](https://www.nation.com.pk/19-Sep-2026/new-route-peoples-bus-service-launched-larkana-qambar-shahdadkot)
+- [New Peoples Bus Service Route Launched (ProPakistani)](https://propakistani.pk/2026/09/19/new-peoples-bus-service-route-launched/)
+- [لاڑکانہ، قمبر اور شہدادکوٹ کے لیے پیپلز بس سروس کا نیا روٹ شروع (Express Urdu)](https://www.express.pk/story/2833407/new-peoples-bus-service-route-launched-for-residents-of-larkana-qambar-and-shahdadkot-2833407)
+- [Larkana-Shahdadkot People Bus Service route launched (Daily Times)](https://dailytimes.com.pk/1554949/larkana-shahdadkot-people-bus-service-route-launched/)
+- [2 New Peoples Bus Service Routes Announced (ProPakistani)](https://propakistani.pk/2026/08/04/2-new-peoples-bus-service-routes-announced/)
 
 ## Green Electric Bus Layyah (layyah)
 
@@ -1047,6 +1055,12 @@ Generated 2026-09-23 from `data/systems`. Facts (route numbers, stop names, fare
 - [Balochistan expands Green Bus fleet to 25 in Quetta with 17 new additions](https://www.app.com.pk/domestic/balochistan-expands-green-bus-fleet-to-25-in-quetta-with-17-new-additions/) · APP · 2025
 - [CM Balochistan inaugurates Pink Bus Service for women, expanding Green Bus routes](https://www.app.com.pk/domestic/cm-balochistan-inaugurates-pink-bus-service-for-women-expanding-green-bus-routes/) · APP · 2025-12-10
 - [Pink fleet expands Quetta's bus network](https://www.gwadarpro.pk/1997545188923703298/pink-fleet-expands-quettas-bus-network) · Gwadar Pro · 2025-12-07
+- [From Quetta's heart to every corner (Express Tribune, 27 Aug 2023)](https://tribune.com.pk/story/2432520/from-quettas-heart-to-every-corner)
+- [کوئٹہ میں پہلی بار پنک بس سروس کا آغاز (City42)](https://www.city42.tv/10-Dec-2025/186761)
+- [17 more e-buses to be added to Quetta fleet (Dawn, Sept 2026)](https://www.dawn.com/news/2031018/17-more-e-buses-to-be-added-to-quetta-fleet)
+- [Quetta Green Bus Service to Add 17 Electric Buses, Expand Feeder Routes (Daily Independent)](https://www.dailyindependent.com.pk/2026/09/17/quetta-green-bus-service-to-add-17-electric-buses-expand-feeder-routes/)
+- [Green Line Bus Service Launched in Quetta to Connect SMBZAN Institute of Cardiology (Daily Qudrat English)](https://en.dailyqudrat.pk/81381/)
+- [Balochistan Launches Green Line Bus Service to Cardiology Institute in Quetta (ProPakistani)](https://propakistani.pk/2026/04/30/balochistan-launches-green-line-bus-service-to-cardiology-institute-in-quetta/)
 
 ## Green Electric Bus Rahim Yar Khan (rahim-yar-khan)
 
