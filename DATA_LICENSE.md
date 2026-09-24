@@ -45,7 +45,12 @@ Some routes and stop positions come from unofficial compilations. They are credi
 - **Mnzil station positions** for Karachi stops where we had only an estimate (coord_source `ext:mnzil:...`), and the "Lets go pk" YouTube channel for route Z-22 and for evidence that routes still run.
 - **Urban Unit city profiles** (about 2010): Qingqi and wagon corridors in Sargodha, Sahiwal, Gujrat and Jhang.
 
-None of these publish a data licence. If a rights holder objects, their data will be removed.
+- **Pakistan Railways train schedule** (pakrailways.gov.pk/train): official station order and times for 70 trains. This is a government work; only facts (times and station order) are used.
+- **Intercity bus departure times**: NATCO's own booking search, and pkbuses.com, a third-party listing that is often incomplete. Routes from pkbuses.com name only towns, not terminals, and are marked unverified.
+
+None of these publish a data licence.
+
+Wikiroutes is not used. Its terms forbid extracting or republishing its data. If a rights holder objects, their data will be removed.
 
 These two sources do have open licences and are credited as they require:
 

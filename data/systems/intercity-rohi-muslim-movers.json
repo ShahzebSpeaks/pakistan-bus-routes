@@ -1,0 +1,288 @@
+{
+  "id": "intercity-rohi-muslim-movers",
+  "city": "intercity",
+  "name": "Rohi Muslim Movers",
+  "name_ur": "",
+  "operator": "Rohi Muslim Movers",
+  "mode": "intercity_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash or online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": null,
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "last_verified": "2026-09-24",
+  "sources": [
+    {
+      "title": "Rohi Muslim Movers timetable",
+      "url": "https://pkbuses.com/bus-timings/rohi-muslim-movers",
+      "publisher": "pkbuses.com",
+      "date": "2026-09-24",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "HASILPUR-VEHARI",
+      "name": "Hasilpur - Vehari",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Hasilpur",
+          "name_ur": "",
+          "lat": 29.68898,
+          "lon": 72.55254,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Vehari",
+          "name_ur": "",
+          "lat": 30.0449,
+          "lon": 72.3501,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Rohi Muslim Movers timetable",
+          "url": "https://pkbuses.com/bus-timings/rohi-muslim-movers"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Hasilpur",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/rohi-muslim-movers",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "LAHORE-BUREWALA",
+      "name": "Lahore - Burewala",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Burewala",
+          "name_ur": "",
+          "lat": 30.1588,
+          "lon": 72.6797,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Rohi Muslim Movers timetable",
+          "url": "https://pkbuses.com/bus-timings/rohi-muslim-movers"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "14:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/rohi-muslim-movers",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "LAHORE-HASILPUR",
+      "name": "Lahore - Hasilpur",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Hasilpur",
+          "name_ur": "",
+          "lat": 29.68898,
+          "lon": 72.55254,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Rohi Muslim Movers timetable",
+          "url": "https://pkbuses.com/bus-timings/rohi-muslim-movers"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "12:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/rohi-muslim-movers",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "LAHORE-MAILSI",
+      "name": "Lahore - Mailsi",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Mailsi",
+          "name_ur": "",
+          "lat": 29.79894,
+          "lon": 72.17824,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Rohi Muslim Movers timetable",
+          "url": "https://pkbuses.com/bus-timings/rohi-muslim-movers"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "16:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/rohi-muslim-movers",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "LAHORE-VEHARI",
+      "name": "Lahore - Vehari",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Vehari",
+          "name_ur": "",
+          "lat": 30.0449,
+          "lon": 72.3501,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Rohi Muslim Movers timetable",
+          "url": "https://pkbuses.com/bus-timings/rohi-muslim-movers"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/rohi-muslim-movers",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    }
+  ]
+}

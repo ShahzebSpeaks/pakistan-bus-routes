@@ -1,0 +1,135 @@
+{
+  "id": "intercity-gn-movers",
+  "city": "intercity",
+  "name": "GN Movers",
+  "name_ur": "",
+  "operator": "GN Movers",
+  "mode": "intercity_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash or online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": null,
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "last_verified": "2026-09-24",
+  "sources": [
+    {
+      "title": "GN Movers timetable",
+      "url": "https://pkbuses.com/bus-timings/gn-movers",
+      "publisher": "pkbuses.com",
+      "date": "2026-09-24",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "KARACHI-DADU",
+      "name": "Karachi - Dadu",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Dadu",
+          "name_ur": "",
+          "lat": 26.72748,
+          "lon": 67.7805,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "GN Movers timetable",
+          "url": "https://pkbuses.com/bus-timings/gn-movers"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Karachi",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/gn-movers",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "KARACHI-LARKANA",
+      "name": "Karachi - Larkana",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Larkana",
+          "name_ur": "",
+          "lat": 27.557,
+          "lon": 68.2264,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "GN Movers timetable",
+          "url": "https://pkbuses.com/bus-timings/gn-movers"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Karachi",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/gn-movers",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    }
+  ]
+}

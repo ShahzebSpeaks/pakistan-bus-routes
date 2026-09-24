@@ -1,0 +1,195 @@
+{
+  "id": "intercity-new-shandar",
+  "city": "intercity",
+  "name": "New Shandar",
+  "name_ur": "",
+  "operator": "New Shandar",
+  "mode": "intercity_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash or online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": null,
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "last_verified": "2026-09-24",
+  "sources": [
+    {
+      "title": "New Shandar timetable",
+      "url": "https://pkbuses.com/bus-timings/new-shandar",
+      "publisher": "pkbuses.com",
+      "date": "2026-09-24",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "KARACHI-QUETTA",
+      "name": "Karachi - Quetta",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Quetta",
+          "name_ur": "",
+          "lat": 30.1798,
+          "lon": 66.975,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "New Shandar timetable",
+          "url": "https://pkbuses.com/bus-timings/new-shandar"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Karachi",
+          "times": [
+            "21:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/new-shandar",
+          "as_of": "6 Jun 2026"
+        },
+        {
+          "from": "Quetta",
+          "times": [
+            "20:30"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/new-shandar",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "KHUZDAR-KARACHI",
+      "name": "Khuzdar - Karachi",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Khuzdar",
+          "name_ur": "",
+          "lat": 27.80001,
+          "lon": 66.61665,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "New Shandar timetable",
+          "url": "https://pkbuses.com/bus-timings/new-shandar"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Khuzdar",
+          "times": [
+            "02:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/new-shandar",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "QUETTA-KHUZDAR",
+      "name": "Quetta - Khuzdar",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Quetta",
+          "name_ur": "",
+          "lat": 30.1798,
+          "lon": 66.975,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Khuzdar",
+          "name_ur": "",
+          "lat": 27.80001,
+          "lon": 66.61665,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "New Shandar timetable",
+          "url": "https://pkbuses.com/bus-timings/new-shandar"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Quetta",
+          "times": [
+            "20:30"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/new-shandar",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    }
+  ]
+}

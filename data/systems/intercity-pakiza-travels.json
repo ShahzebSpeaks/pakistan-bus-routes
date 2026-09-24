@@ -1,0 +1,93 @@
+{
+  "id": "intercity-pakiza-travels",
+  "city": "intercity",
+  "name": "Pakiza Travels",
+  "name_ur": "",
+  "operator": "Pakiza Travels",
+  "mode": "intercity_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash or online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": null,
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "last_verified": "2026-09-24",
+  "sources": [
+    {
+      "title": "Pakiza Travels timetable",
+      "url": "https://pkbuses.com/bus-timings/pakiza-travels",
+      "publisher": "pkbuses.com",
+      "date": "2026-09-24",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "CHITRALBUNI-ISLAMABAD",
+      "name": "Chitral Buni - Islamabad",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Chitral Buni",
+          "name_ur": "",
+          "lat": 36.27006,
+          "lon": 72.26251,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Pakiza Travels timetable",
+          "url": "https://pkbuses.com/bus-timings/pakiza-travels"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Chitral Buni",
+          "times": [
+            "08:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/pakiza-travels",
+          "as_of": "6 Jun 2026"
+        },
+        {
+          "from": "Islamabad",
+          "times": [
+            "08:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/pakiza-travels",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    }
+  ]
+}

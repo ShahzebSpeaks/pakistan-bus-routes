@@ -1,0 +1,447 @@
+{
+  "id": "intercity-motorway-express",
+  "city": "intercity",
+  "name": "Motorway Express",
+  "name_ur": "",
+  "operator": "Motorway Express",
+  "mode": "intercity_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash or online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": null,
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "last_verified": "2026-09-24",
+  "sources": [
+    {
+      "title": "Motorway Express timetable",
+      "url": "https://pkbuses.com/bus-timings/motorway-express",
+      "publisher": "pkbuses.com",
+      "date": "2026-09-24",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "ABBOTTABAD-ISLAMABAD",
+      "name": "Abbottabad - Islamabad",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Abbottabad",
+          "name_ur": "",
+          "lat": 34.1688,
+          "lon": 73.2215,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Motorway Express timetable",
+          "url": "https://pkbuses.com/bus-timings/motorway-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Abbottabad",
+          "times": [
+            "06:30",
+            "07:00",
+            "09:00",
+            "15:15"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/motorway-express",
+          "as_of": "30 Jul 2026"
+        },
+        {
+          "from": "Islamabad",
+          "times": [
+            "12:15",
+            "17:45"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/motorway-express",
+          "as_of": "30 Jul 2026"
+        }
+      ]
+    },
+    {
+      "id": "ABBOTTABAD-PESHAWAR",
+      "name": "Abbottabad - Peshawar",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Abbottabad",
+          "name_ur": "",
+          "lat": 34.1688,
+          "lon": 73.2215,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Peshawar",
+          "name_ur": "",
+          "lat": 34,
+          "lon": 71.54,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Motorway Express timetable",
+          "url": "https://pkbuses.com/bus-timings/motorway-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Abbottabad",
+          "times": [
+            "05:30",
+            "06:00",
+            "07:10",
+            "10:10",
+            "12:10",
+            "13:40",
+            "15:40",
+            "17:20",
+            "19:20"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/motorway-express",
+          "as_of": "30 Jul 2026"
+        },
+        {
+          "from": "Peshawar",
+          "times": [
+            "06:10",
+            "07:10",
+            "10:10",
+            "12:10",
+            "13:40",
+            "15:40",
+            "17:20",
+            "19:20",
+            "19:21"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/motorway-express",
+          "as_of": "30 Jul 2026"
+        }
+      ]
+    },
+    {
+      "id": "ISLAMABAD-PESHAWAR",
+      "name": "Islamabad - Peshawar",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Peshawar",
+          "name_ur": "",
+          "lat": 34,
+          "lon": 71.54,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Motorway Express timetable",
+          "url": "https://pkbuses.com/bus-timings/motorway-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "06:00",
+            "06:30",
+            "07:00",
+            "07:30",
+            "08:00",
+            "08:30",
+            "09:00",
+            "09:30",
+            "10:00",
+            "10:30",
+            "11:00",
+            "11:30",
+            "12:00",
+            "12:30",
+            "13:00",
+            "13:30",
+            "14:00",
+            "14:30",
+            "15:00",
+            "15:30",
+            "16:00",
+            "16:30",
+            "16:45",
+            "17:00",
+            "17:15",
+            "17:30",
+            "18:00",
+            "18:15",
+            "18:30",
+            "19:00",
+            "19:30",
+            "19:35",
+            "20:00",
+            "20:30",
+            "21:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/motorway-express",
+          "as_of": "30 Jul 2026"
+        },
+        {
+          "from": "Peshawar",
+          "times": [
+            "05:30",
+            "06:00",
+            "06:15",
+            "06:30",
+            "06:45",
+            "07:00",
+            "07:15",
+            "07:30",
+            "08:00",
+            "08:30",
+            "09:00",
+            "09:30",
+            "10:00",
+            "10:30",
+            "11:00",
+            "11:30",
+            "12:00",
+            "12:30",
+            "13:00",
+            "13:30",
+            "14:00",
+            "14:15",
+            "14:30",
+            "15:00",
+            "15:15",
+            "15:30",
+            "16:00",
+            "16:30",
+            "17:00",
+            "17:30",
+            "18:00",
+            "18:30",
+            "19:00",
+            "20:00",
+            "21:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/motorway-express",
+          "as_of": "30 Jul 2026"
+        }
+      ]
+    },
+    {
+      "id": "ISLAMABAD-SWAT",
+      "name": "Islamabad - Swat (Mingora)",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Swat (Mingora)",
+          "name_ur": "",
+          "lat": 34.7717,
+          "lon": 72.3602,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Motorway Express timetable",
+          "url": "https://pkbuses.com/bus-timings/motorway-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "09:15",
+            "11:15",
+            "13:15",
+            "17:30",
+            "17:45"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/motorway-express",
+          "as_of": "30 Jul 2026"
+        },
+        {
+          "from": "Swat (Mingora)",
+          "times": [
+            "09:00",
+            "09:15",
+            "13:30",
+            "15:15",
+            "17:45"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/motorway-express",
+          "as_of": "30 Jul 2026"
+        }
+      ]
+    },
+    {
+      "id": "PESHAWAR-SWAT",
+      "name": "Peshawar - Swat (Mingora)",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Peshawar",
+          "name_ur": "",
+          "lat": 34,
+          "lon": 71.54,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Swat (Mingora)",
+          "name_ur": "",
+          "lat": 34.7717,
+          "lon": 72.3602,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Motorway Express timetable",
+          "url": "https://pkbuses.com/bus-timings/motorway-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Peshawar",
+          "times": [
+            "07:30",
+            "08:15",
+            "08:20",
+            "11:15",
+            "13:15",
+            "15:15",
+            "17:15",
+            "19:15",
+            "19:16"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/motorway-express",
+          "as_of": "30 Jul 2026"
+        },
+        {
+          "from": "Swat (Mingora)",
+          "times": [
+            "07:30",
+            "08:15",
+            "08:20",
+            "11:15",
+            "13:15",
+            "13:20",
+            "15:15",
+            "16:15",
+            "17:15",
+            "18:45",
+            "19:15"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/motorway-express",
+          "as_of": "30 Jul 2026"
+        }
+      ]
+    }
+  ]
+}

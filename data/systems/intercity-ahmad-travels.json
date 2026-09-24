@@ -1,0 +1,448 @@
+{
+  "id": "intercity-ahmad-travels",
+  "city": "intercity",
+  "name": "Ahmad Travels",
+  "name_ur": "",
+  "operator": "Ahmad Travels",
+  "mode": "intercity_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash or online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": null,
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "last_verified": "2026-09-24",
+  "sources": [
+    {
+      "title": "Ahmad Travels timetable",
+      "url": "https://pkbuses.com/bus-timings/ahmad-travels",
+      "publisher": "pkbuses.com",
+      "date": "2026-09-24",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "LAHORE-BAJAUR",
+      "name": "Lahore - Bajaur",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Bajaur",
+          "name_ur": "",
+          "lat": 34.77639,
+          "lon": 71.51442,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Ahmad Travels timetable",
+          "url": "https://pkbuses.com/bus-timings/ahmad-travels"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "00:00",
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/ahmad-travels",
+          "as_of": "9 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "LAHORE-BUNER",
+      "name": "Lahore - Buner",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Buner",
+          "name_ur": "",
+          "lat": 34.4947,
+          "lon": 72.4739,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Ahmad Travels timetable",
+          "url": "https://pkbuses.com/bus-timings/ahmad-travels"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "09:00",
+            "22:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/ahmad-travels",
+          "as_of": "9 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "LAHORE-DIR",
+      "name": "Lahore - Dir",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Dir",
+          "name_ur": "",
+          "lat": 35.20801,
+          "lon": 71.87798,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Ahmad Travels timetable",
+          "url": "https://pkbuses.com/bus-timings/ahmad-travels"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "20:30"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/ahmad-travels",
+          "as_of": "9 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "LAHORE-KOHAT",
+      "name": "Lahore - Kohat",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Kohat",
+          "name_ur": "",
+          "lat": 33.59671,
+          "lon": 71.43999,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Ahmad Travels timetable",
+          "url": "https://pkbuses.com/bus-timings/ahmad-travels"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "00:00",
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/ahmad-travels",
+          "as_of": "9 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "LAHORE-MARDAN",
+      "name": "Lahore - Mardan",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Mardan",
+          "name_ur": "",
+          "lat": 34.1986,
+          "lon": 72.0404,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Ahmad Travels timetable",
+          "url": "https://pkbuses.com/bus-timings/ahmad-travels"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "09:15",
+            "23:30"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/ahmad-travels",
+          "as_of": "9 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "LAHORE-SWABI",
+      "name": "Lahore - Swabi",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Swabi",
+          "name_ur": "",
+          "lat": 34.12621,
+          "lon": 72.47432,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Ahmad Travels timetable",
+          "url": "https://pkbuses.com/bus-timings/ahmad-travels"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "00:00",
+            "08:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/ahmad-travels",
+          "as_of": "9 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "LAHORE-SWAT",
+      "name": "Lahore - Swat (Mingora)",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Swat (Mingora)",
+          "name_ur": "",
+          "lat": 34.7717,
+          "lon": 72.3602,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Ahmad Travels timetable",
+          "url": "https://pkbuses.com/bus-timings/ahmad-travels"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "06:00",
+            "23:30"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/ahmad-travels",
+          "as_of": "9 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "LAHORE-TARBELA",
+      "name": "Lahore - Tarbela",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Tarbela",
+          "name_ur": "",
+          "lat": 34.0706,
+          "lon": 72.6931,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Ahmad Travels timetable",
+          "url": "https://pkbuses.com/bus-timings/ahmad-travels"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "08:00",
+            "22:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/ahmad-travels",
+          "as_of": "9 Jun 2026"
+        }
+      ]
+    }
+  ]
+}

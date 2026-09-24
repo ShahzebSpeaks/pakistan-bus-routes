@@ -142,9 +142,24 @@
         {
           "title": "pkbuses.com Niazi Express (Aug 2026)",
           "url": "https://pkbuses.com/bus-services/niazi-express"
+        },
+        {
+          "title": "Niazi Express 99 departure times",
+          "url": "https://pkbuses.com/bus-timings/niazi-express-99"
         }
       ],
-      "notes": "Sold on Bookme; intermediate stops not published."
+      "notes": "Sold on Bookme; intermediate stops not published.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/niazi-express-99",
+          "as_of": "6 Jun 2026"
+        }
+      ]
     },
     {
       "id": "NZ-LHR-DERAISMA",
@@ -579,9 +594,9 @@
         {
           "name": "Muzaffarabad",
           "name_ur": "",
-          "lat": 34.316405,
-          "lon": 73.584111,
-          "coord_source": "auto:photon:R/8191414",
+          "lat": 34.37,
+          "lon": 73.4711,
+          "coord_source": "auto:nominatim",
           "is_station": false
         }
       ],
@@ -966,9 +981,24 @@
         {
           "title": "pkbuses.com Niazi Express (Aug 2026)",
           "url": "https://pkbuses.com/bus-services/niazi-express"
+        },
+        {
+          "title": "Niazi Express departure times",
+          "url": "https://pkbuses.com/bus-timings/niazi-express"
         }
       ],
-      "notes": "Third-party listing only."
+      "notes": "Third-party listing only.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "09:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/niazi-express",
+          "as_of": "25 May 2026"
+        }
+      ]
     }
   ],
   "last_verified": "2026-09-21"

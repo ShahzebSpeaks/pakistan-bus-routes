@@ -190,7 +190,29 @@
           "url": "https://natco.gov.pk/times"
         }
       ],
-      "notes": "Intermediate stops are the KKH/Hazara stops NATCO sells from Gilgit (Hasan Abdal ... Chilas), put in geographic order; NATCO does not publish stop order. Jaglot is not a listed stop. Live search showed 2 departures each way on 25 Sep 2026. Journey time not published (about 18-24h by KKH)."
+      "notes": "Intermediate stops are the KKH/Hazara stops NATCO sells from Gilgit (Hasan Abdal ... Chilas), put in geographic order; NATCO does not publish stop order. Jaglot is not a listed stop. Live search showed 2 departures each way on 25 Sep 2026. Journey time not published (about 18-24h by KKH).",
+      "departures": [
+        {
+          "from": "Gilgit",
+          "times": [
+            "10:00",
+            "11:00"
+          ],
+          "official": true,
+          "source_url": "https://natco.gov.pk/times",
+          "as_of": "2026-09-26"
+        },
+        {
+          "from": "Rawalpindi",
+          "times": [
+            "14:00",
+            "15:00"
+          ],
+          "official": true,
+          "source_url": "https://natco.gov.pk/times",
+          "as_of": "2026-09-26"
+        }
+      ]
     },
     {
       "id": "NT-RWP-HNZ",
@@ -330,7 +352,27 @@
           "url": "https://natco.gov.pk/times"
         }
       ],
-      "notes": "Intermediate stops are the KKH/Hazara stops NATCO sells from Gilgit (Hasan Abdal ... Chilas), put in geographic order; NATCO does not publish stop order. Jaglot is not a listed stop."
+      "notes": "Intermediate stops are the KKH/Hazara stops NATCO sells from Gilgit (Hasan Abdal ... Chilas), put in geographic order; NATCO does not publish stop order. Jaglot is not a listed stop.",
+      "departures": [
+        {
+          "from": "Hunza",
+          "times": [
+            "08:00"
+          ],
+          "official": true,
+          "source_url": "https://natco.gov.pk/times",
+          "as_of": "2026-09-26"
+        },
+        {
+          "from": "Rawalpindi",
+          "times": [
+            "14:00"
+          ],
+          "official": true,
+          "source_url": "https://natco.gov.pk/times",
+          "as_of": "2026-09-26"
+        }
+      ]
     },
     {
       "id": "NT-RWP-CLS",
@@ -454,7 +496,18 @@
           "url": "https://natco.gov.pk/times"
         }
       ],
-      "notes": "Intermediate stops are the KKH/Hazara stops NATCO sells from Gilgit (Hasan Abdal ... Chilas), put in geographic order; NATCO does not publish stop order. Jaglot is not a listed stop."
+      "notes": "Intermediate stops are the KKH/Hazara stops NATCO sells from Gilgit (Hasan Abdal ... Chilas), put in geographic order; NATCO does not publish stop order. Jaglot is not a listed stop.",
+      "departures": [
+        {
+          "from": "Rawalpindi",
+          "times": [
+            "15:00"
+          ],
+          "official": true,
+          "source_url": "https://natco.gov.pk/times",
+          "as_of": "2026-09-26"
+        }
+      ]
     },
     {
       "id": "NT-RWP-KHI",
@@ -506,7 +559,18 @@
           "url": "https://natco.gov.pk/times"
         }
       ],
-      "notes": "Intermediate stops not published."
+      "notes": "Intermediate stops not published.",
+      "departures": [
+        {
+          "from": "Rawalpindi",
+          "times": [
+            "22:30"
+          ],
+          "official": true,
+          "source_url": "https://natco.gov.pk/times",
+          "as_of": "2026-09-26"
+        }
+      ]
     },
     {
       "id": "NT-RWP-SKD",
@@ -668,9 +732,24 @@
         {
           "title": "NATCO online booking (route list)",
           "url": "https://natco.gov.pk"
+        },
+        {
+          "title": "NATCO (Northern Areas Transport Corporation) departure times",
+          "url": "https://natco.gov.pk/times"
         }
       ],
-      "notes": "Route listed as active on natco.gov.pk (schedule window 2026-09-20 to 2026-10-20); no fare or times retrieved; intermediate stops not published."
+      "notes": "Route listed as active on natco.gov.pk (schedule window 2026-09-20 to 2026-10-20); no fare or times retrieved; intermediate stops not published.",
+      "departures": [
+        {
+          "from": "Rawalpindi",
+          "times": [
+            "16:00"
+          ],
+          "official": true,
+          "source_url": "https://natco.gov.pk/times",
+          "as_of": "2026-09-26"
+        }
+      ]
     },
     {
       "id": "NT-RWP-KHA",

@@ -1,0 +1,93 @@
+{
+  "id": "intercity-fateh-sons",
+  "city": "intercity",
+  "name": "Fateh Sons",
+  "name_ur": "",
+  "operator": "Fateh Sons",
+  "mode": "intercity_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash or online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": null,
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "last_verified": "2026-09-24",
+  "sources": [
+    {
+      "title": "Fateh Sons timetable",
+      "url": "https://pkbuses.com/bus-timings/fateh-sons",
+      "publisher": "pkbuses.com",
+      "date": "2026-09-24",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "GUJRAT-LAHORE",
+      "name": "Gujrat - Lahore",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Gujrat",
+          "name_ur": "",
+          "lat": 32.5731,
+          "lon": 74.0789,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Fateh Sons timetable",
+          "url": "https://pkbuses.com/bus-timings/fateh-sons"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Gujrat",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/fateh-sons",
+          "as_of": "6 Jun 2026"
+        },
+        {
+          "from": "Lahore",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/fateh-sons",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    }
+  ]
+}

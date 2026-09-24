@@ -172,9 +172,33 @@
         {
           "title": "buses.pk - Daewoo Islamabad to Lahore",
           "url": "https://buses.pk/bus-service/daewoo-express/islamabad-to-lahore-bus"
+        },
+        {
+          "title": "Daewoo Express departure times",
+          "url": "https://pkbuses.com/bus-timings/daewoo-express"
         }
       ],
-      "notes": "Via M-2 motorway, non-stop. Journey about 4h15m-5h. Also sold from Kalma Chowk terminal. First/last departure from sastaticket (undated). Classes: Luxury, Gold."
+      "notes": "Via M-2 motorway, non-stop. Journey about 4h15m-5h. Also sold from Kalma Chowk terminal. First/last departure from sastaticket (undated). Classes: Luxury, Gold.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "07:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/daewoo-express",
+          "as_of": "3 Jul 2026"
+        },
+        {
+          "from": "Lahore",
+          "times": [
+            "06:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/daewoo-express",
+          "as_of": "3 Jul 2026"
+        }
+      ]
     },
     {
       "id": "DW-LHR-KHI",
@@ -272,9 +296,38 @@
         {
           "title": "pkbuses.com - Daewoo Express sleeper bus (6 Jun 2026)",
           "url": "https://pkbuses.com/daewoo-express-sleeper-bus/"
+        },
+        {
+          "title": "Daewoo Express departure times",
+          "url": "https://pkbuses.com/bus-timings/daewoo-express"
         }
       ],
-      "notes": "Journey 14-16h (sleeper 16h). Intermediate stops Khanewal, Sukkur (meal stop), Moro, Hyderabad from pkbuses sleeper page; Multan not confirmed. Sleeper departure times conflict between sources (bookme 10:30/12:00/14:00 vs pkbuses 17:00/18:00/21:00/23:00). Classes: Luxury, Gold, Sleeper."
+      "notes": "Journey 14-16h (sleeper 16h). Intermediate stops Khanewal, Sukkur (meal stop), Moro, Hyderabad from pkbuses sleeper page; Multan not confirmed. Sleeper departure times conflict between sources (bookme 10:30/12:00/14:00 vs pkbuses 17:00/18:00/21:00/23:00). Classes: Luxury, Gold, Sleeper.",
+      "departures": [
+        {
+          "from": "Karachi",
+          "times": [
+            "20:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/daewoo-express",
+          "as_of": "3 Jul 2026"
+        },
+        {
+          "from": "Lahore",
+          "times": [
+            "09:15",
+            "15:15",
+            "16:00",
+            "19:00",
+            "22:15",
+            "23:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/daewoo-express",
+          "as_of": "3 Jul 2026"
+        }
+      ]
     },
     {
       "id": "DW-LHR-MUX",
@@ -335,9 +388,53 @@
         {
           "title": "sastaticket.pk - Daewoo Express route page",
           "url": "https://www.sastaticket.pk/bus-tickets/daewoo-express"
+        },
+        {
+          "title": "Daewoo Express departure times",
+          "url": "https://pkbuses.com/bus-timings/daewoo-express"
         }
       ],
-      "notes": "Journey about 3h50m-4h (M-3/M-4 motorway). A newer Multan terminal at Vehari Chowk is mentioned by pkbuses (undated)."
+      "notes": "Journey about 3h50m-4h (M-3/M-4 motorway). A newer Multan terminal at Vehari Chowk is mentioned by pkbuses (undated).",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "00:45",
+            "01:45",
+            "05:45",
+            "06:45",
+            "07:00",
+            "07:45",
+            "08:45",
+            "09:45",
+            "10:45",
+            "11:45",
+            "12:45",
+            "13:45",
+            "14:45",
+            "15:45",
+            "16:45",
+            "17:45",
+            "19:45",
+            "20:45",
+            "21:45",
+            "22:45",
+            "23:45"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/daewoo-express",
+          "as_of": "3 Jul 2026"
+        },
+        {
+          "from": "Multan",
+          "times": [
+            "08:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/daewoo-express",
+          "as_of": "3 Jul 2026"
+        }
+      ]
     },
     {
       "id": "DW-LHR-FSD",
@@ -917,9 +1014,31 @@
         {
           "title": "daewooinfo.pk - Daewoo ticket price (Jul 2026)",
           "url": "https://daewooinfo.pk/daewoo-ticket-price/"
+        },
+        {
+          "title": "Daewoo Express departure times",
+          "url": "https://pkbuses.com/bus-timings/daewoo-express"
         }
       ],
-      "notes": "Journey about 10h20m. Intermediate stops not confirmed."
+      "notes": "Journey about 10h20m. Intermediate stops not confirmed.",
+      "departures": [
+        {
+          "from": "Multan",
+          "times": [
+            "02:40",
+            "02:50",
+            "09:00",
+            "13:30",
+            "15:20",
+            "19:00",
+            "19:30",
+            "23:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/daewoo-express",
+          "as_of": "3 Jul 2026"
+        }
+      ]
     },
     {
       "id": "DW-PEW-RWP",
@@ -969,9 +1088,33 @@
         {
           "title": "pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)",
           "url": "https://pkbuses.com/daewoo-express-ticket-price"
+        },
+        {
+          "title": "Daewoo Express departure times",
+          "url": "https://pkbuses.com/bus-timings/daewoo-express"
         }
       ],
-      "notes": ""
+      "notes": "",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "07:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/daewoo-express",
+          "as_of": "3 Jul 2026"
+        },
+        {
+          "from": "Peshawar",
+          "times": [
+            "08:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/daewoo-express",
+          "as_of": "3 Jul 2026"
+        }
+      ]
     },
     {
       "id": "DW-LHR-SKT",
@@ -1073,9 +1216,31 @@
         {
           "title": "pkbuses.com - Daewoo Express ticket price (fares verified 30 Aug 2026)",
           "url": "https://pkbuses.com/daewoo-express-ticket-price"
+        },
+        {
+          "title": "Daewoo Express departure times",
+          "url": "https://pkbuses.com/bus-timings/daewoo-express"
         }
       ],
-      "notes": ""
+      "notes": "",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "00:00",
+            "10:00",
+            "12:00",
+            "14:00",
+            "16:00",
+            "18:00",
+            "20:00",
+            "22:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/daewoo-express",
+          "as_of": "3 Jul 2026"
+        }
+      ]
     },
     {
       "id": "DW-RWP-SWT",
@@ -1735,6 +1900,168 @@
         }
       ],
       "notes": ""
+    },
+    {
+      "id": "ISLAMABAD-SAKRAND",
+      "name": "Islamabad - Sakrand",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Sakrand",
+          "name_ur": "",
+          "lat": 26.13691,
+          "lon": 68.2752,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express timetable",
+          "url": "https://pkbuses.com/bus-timings/daewoo-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "09:00",
+            "12:30",
+            "15:30",
+            "18:45",
+            "19:00",
+            "20:30",
+            "21:00",
+            "21:45",
+            "23:30"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/daewoo-express",
+          "as_of": "3 Jul 2026"
+        }
+      ]
+    },
+    {
+      "id": "ISLAMABAD-SIALKOT",
+      "name": "Islamabad - Sialkot",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Sialkot",
+          "name_ur": "",
+          "lat": 32.4945,
+          "lon": 74.5229,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express timetable",
+          "url": "https://pkbuses.com/bus-timings/daewoo-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "05:00",
+            "08:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/daewoo-express",
+          "as_of": "3 Jul 2026"
+        }
+      ]
+    },
+    {
+      "id": "JAHANIAN-ISLAMABAD",
+      "name": "Jahanian - Islamabad",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Jahanian",
+          "name_ur": "",
+          "lat": 30.03802,
+          "lon": 71.81845,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Daewoo Express timetable",
+          "url": "https://pkbuses.com/bus-timings/daewoo-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Jahanian",
+          "times": [
+            "15:15"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/daewoo-express",
+          "as_of": "3 Jul 2026"
+        }
+      ]
     }
   ],
   "last_verified": "2026-09-21"

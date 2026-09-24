@@ -1,0 +1,339 @@
+{
+  "id": "intercity-shalimar-express",
+  "city": "intercity",
+  "name": "Shalimar Express",
+  "name_ur": "",
+  "operator": "Shalimar Express",
+  "mode": "intercity_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash or online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": null,
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "last_verified": "2026-09-24",
+  "sources": [
+    {
+      "title": "Shalimar Express timetable",
+      "url": "https://pkbuses.com/bus-timings/shalimar-express",
+      "publisher": "pkbuses.com",
+      "date": "2026-09-24",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "DIR-ISLAMABAD",
+      "name": "Dir - Islamabad",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Dir",
+          "name_ur": "",
+          "lat": 35.20801,
+          "lon": 71.87798,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Shalimar Express timetable",
+          "url": "https://pkbuses.com/bus-timings/shalimar-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Dir",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/shalimar-express",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "DIR-LAHORE",
+      "name": "Dir - Lahore",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Dir",
+          "name_ur": "",
+          "lat": 35.20801,
+          "lon": 71.87798,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Shalimar Express timetable",
+          "url": "https://pkbuses.com/bus-timings/shalimar-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Dir",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/shalimar-express",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "JHANG-LAHORE",
+      "name": "Jhang - Lahore",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Jhang",
+          "name_ur": "",
+          "lat": 31.2729,
+          "lon": 72.3103,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Shalimar Express timetable",
+          "url": "https://pkbuses.com/bus-timings/shalimar-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Jhang",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/shalimar-express",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "MURREE-SWAT",
+      "name": "Murree - Swat (Mingora)",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Murree",
+          "name_ur": "",
+          "lat": 33.907,
+          "lon": 73.3943,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Swat (Mingora)",
+          "name_ur": "",
+          "lat": 34.7717,
+          "lon": 72.3602,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Shalimar Express timetable",
+          "url": "https://pkbuses.com/bus-timings/shalimar-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Murree",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/shalimar-express",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "SARGODHA-ISLAMABAD",
+      "name": "Sargodha - Islamabad",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Sargodha",
+          "name_ur": "",
+          "lat": 32.0836,
+          "lon": 72.6711,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Shalimar Express timetable",
+          "url": "https://pkbuses.com/bus-timings/shalimar-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Sargodha",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/shalimar-express",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "SARGODHA-MULTAN",
+      "name": "Sargodha - Multan",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Sargodha",
+          "name_ur": "",
+          "lat": 32.0836,
+          "lon": 72.6711,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Multan",
+          "name_ur": "",
+          "lat": 30.198,
+          "lon": 71.469,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Shalimar Express timetable",
+          "url": "https://pkbuses.com/bus-timings/shalimar-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Sargodha",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/shalimar-express",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    }
+  ]
+}

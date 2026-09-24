@@ -79,9 +79,25 @@
         {
           "title": "sastaticket.pk Kainat Travels",
           "url": "https://www.sastaticket.pk/bus-tickets/kainat-travels"
+        },
+        {
+          "title": "Kainat Travels departure times",
+          "url": "https://pkbuses.com/bus-timings/kainat-travels"
         }
       ],
-      "notes": "Operator terminals in Karachi, Lahore, Multan, Rawalpindi; exact city pairs not published. Sastaticket fares look stale and timetable is template filler."
+      "notes": "Operator terminals in Karachi, Lahore, Multan, Rawalpindi; exact city pairs not published. Sastaticket fares look stale and timetable is template filler.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "15:30",
+            "23:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/kainat-travels",
+          "as_of": "22 Jun 2026"
+        }
+      ]
     },
     {
       "id": "KT-KHI-MUX",
@@ -119,9 +135,34 @@
         {
           "title": "sastaticket.pk Kainat Travels",
           "url": "https://www.sastaticket.pk/bus-tickets/kainat-travels"
+        },
+        {
+          "title": "Kainat Travels departure times",
+          "url": "https://pkbuses.com/bus-timings/kainat-travels"
         }
       ],
-      "notes": ""
+      "notes": "",
+      "departures": [
+        {
+          "from": "Karachi",
+          "times": [
+            "00:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/kainat-travels",
+          "as_of": "22 Jun 2026"
+        },
+        {
+          "from": "Multan",
+          "times": [
+            "03:30",
+            "20:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/kainat-travels",
+          "as_of": "22 Jun 2026"
+        }
+      ]
     },
     {
       "id": "KT-KHI-FSD",
@@ -159,9 +200,24 @@
         {
           "title": "sastaticket.pk Kainat Travels",
           "url": "https://www.sastaticket.pk/bus-tickets/kainat-travels"
+        },
+        {
+          "title": "Kainat Travels departure times",
+          "url": "https://pkbuses.com/bus-timings/kainat-travels"
         }
       ],
-      "notes": ""
+      "notes": "",
+      "departures": [
+        {
+          "from": "Karachi",
+          "times": [
+            "00:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/kainat-travels",
+          "as_of": "22 Jun 2026"
+        }
+      ]
     },
     {
       "id": "KT-LRK-RWP",
@@ -188,8 +244,8 @@
         {
           "name": "Rawalpindi",
           "name_ur": "",
-          "lat": 33.47408,
-          "lon": 73.25229,
+          "lat": 33.5973,
+          "lon": 73.0479,
           "coord_source": "auto:nominatim",
           "is_station": false
         }
@@ -202,6 +258,372 @@
         }
       ],
       "notes": ""
+    },
+    {
+      "id": "BALKASAR-SUKKUR",
+      "name": "Balkasar - Sukkur",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Balkasar",
+          "name_ur": "",
+          "lat": 32.93924,
+          "lon": 72.64493,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Sukkur",
+          "name_ur": "",
+          "lat": 27.7052,
+          "lon": 68.8574,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Kainat Travels timetable",
+          "url": "https://pkbuses.com/bus-timings/kainat-travels"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Balkasar",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/kainat-travels",
+          "as_of": "22 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "FAISALABAD-MORO",
+      "name": "Faisalabad - Moro",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Faisalabad",
+          "name_ur": "",
+          "lat": 31.418,
+          "lon": 73.079,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Moro",
+          "name_ur": "",
+          "lat": 26.66362,
+          "lon": 68.00244,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Kainat Travels timetable",
+          "url": "https://pkbuses.com/bus-timings/kainat-travels"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Faisalabad",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/kainat-travels",
+          "as_of": "22 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "ISLAMABAD-FAISALABAD",
+      "name": "Islamabad - Faisalabad",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Faisalabad",
+          "name_ur": "",
+          "lat": 31.418,
+          "lon": 73.079,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Kainat Travels timetable",
+          "url": "https://pkbuses.com/bus-timings/kainat-travels"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "00:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/kainat-travels",
+          "as_of": "22 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "ISLAMABAD-GILGIT",
+      "name": "Islamabad - Gilgit",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Gilgit",
+          "name_ur": "",
+          "lat": 35.92081,
+          "lon": 74.31404,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Kainat Travels timetable",
+          "url": "https://pkbuses.com/bus-timings/kainat-travels"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "16:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/kainat-travels",
+          "as_of": "22 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "ISLAMABAD-KARACHI",
+      "name": "Islamabad - Karachi",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Kainat Travels timetable",
+          "url": "https://pkbuses.com/bus-timings/kainat-travels"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "05:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/kainat-travels",
+          "as_of": "22 Jun 2026"
+        },
+        {
+          "from": "Karachi",
+          "times": [
+            "18:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/kainat-travels",
+          "as_of": "22 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "KARACHI-BALKASAR",
+      "name": "Karachi - Balkasar",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Balkasar",
+          "name_ur": "",
+          "lat": 32.93924,
+          "lon": 72.64493,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Kainat Travels timetable",
+          "url": "https://pkbuses.com/bus-timings/kainat-travels"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Karachi",
+          "times": [
+            "00:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/kainat-travels",
+          "as_of": "22 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "SUKKUR-FAISALABAD",
+      "name": "Sukkur - Faisalabad",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Sukkur",
+          "name_ur": "",
+          "lat": 27.7052,
+          "lon": 68.8574,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Faisalabad",
+          "name_ur": "",
+          "lat": 31.418,
+          "lon": 73.079,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Kainat Travels timetable",
+          "url": "https://pkbuses.com/bus-timings/kainat-travels"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Sukkur",
+          "times": [
+            "05:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/kainat-travels",
+          "as_of": "22 Jun 2026"
+        }
+      ]
     }
   ],
   "last_verified": "2026-09-21"

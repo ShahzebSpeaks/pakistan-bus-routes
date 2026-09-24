@@ -101,9 +101,35 @@
         {
           "title": "pkbuses.com Q Connect",
           "url": "https://pkbuses.com/bus-services/q-connect"
+        },
+        {
+          "title": "Q Connect departure times",
+          "url": "https://pkbuses.com/bus-timings/q-connect"
         }
       ],
-      "notes": "Only route in Q Connect's own route data (active, schedule to 2026-09-30). Non-stop via M-2, about 4h30. Departures/fare from aggregator; live search returned no trips."
+      "notes": "Only route in Q Connect's own route data (active, schedule to 2026-09-30). Non-stop via M-2, about 4h30. Departures/fare from aggregator; live search returned no trips.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "15:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/q-connect",
+          "as_of": "18 Jun 2026"
+        },
+        {
+          "from": "Lahore",
+          "times": [
+            "08:00",
+            "10:00",
+            "17:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/q-connect",
+          "as_of": "18 Jun 2026"
+        }
+      ]
     }
   ],
   "last_verified": "2026-09-21"

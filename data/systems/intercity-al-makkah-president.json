@@ -1,0 +1,400 @@
+{
+  "id": "intercity-al-makkah-president",
+  "city": "intercity",
+  "name": "AL Makkah President",
+  "name_ur": "",
+  "operator": "AL Makkah President",
+  "mode": "intercity_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash or online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": null,
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "last_verified": "2026-09-24",
+  "sources": [
+    {
+      "title": "AL Makkah President timetable",
+      "url": "https://pkbuses.com/bus-timings/al-makkah-president",
+      "publisher": "pkbuses.com",
+      "date": "2026-09-24",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "BAHAWALPUR-KARACHI",
+      "name": "Bahawalpur - Karachi",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Bahawalpur",
+          "name_ur": "",
+          "lat": 29.3956,
+          "lon": 71.6836,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "AL Makkah President timetable",
+          "url": "https://pkbuses.com/bus-timings/al-makkah-president"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Bahawalpur",
+          "times": [
+            "09:30"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/al-makkah-president",
+          "as_of": "22 Jun 2026"
+        },
+        {
+          "from": "Karachi",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/al-makkah-president",
+          "as_of": "22 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "FAISALABAD-KARACHI",
+      "name": "Faisalabad - Karachi",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Faisalabad",
+          "name_ur": "",
+          "lat": 31.418,
+          "lon": 73.079,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "AL Makkah President timetable",
+          "url": "https://pkbuses.com/bus-timings/al-makkah-president"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Faisalabad",
+          "times": [
+            "09:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/al-makkah-president",
+          "as_of": "22 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "LAHORE-LARKANA",
+      "name": "Lahore - Larkana",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Larkana",
+          "name_ur": "",
+          "lat": 27.557,
+          "lon": 68.2264,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "AL Makkah President timetable",
+          "url": "https://pkbuses.com/bus-timings/al-makkah-president"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "08:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/al-makkah-president",
+          "as_of": "22 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "MULTAN-FAISALABAD",
+      "name": "Multan - Faisalabad",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Multan",
+          "name_ur": "",
+          "lat": 30.198,
+          "lon": 71.469,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Faisalabad",
+          "name_ur": "",
+          "lat": 31.418,
+          "lon": 73.079,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "AL Makkah President timetable",
+          "url": "https://pkbuses.com/bus-timings/al-makkah-president"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Multan",
+          "times": [
+            "06:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/al-makkah-president",
+          "as_of": "22 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "MULTAN-ISLAMABAD",
+      "name": "Multan - Islamabad",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Multan",
+          "name_ur": "",
+          "lat": 30.198,
+          "lon": 71.469,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "AL Makkah President timetable",
+          "url": "https://pkbuses.com/bus-timings/al-makkah-president"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Multan",
+          "times": [
+            "07:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/al-makkah-president",
+          "as_of": "22 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "MULTAN-KARACHI",
+      "name": "Multan - Karachi",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Multan",
+          "name_ur": "",
+          "lat": 30.198,
+          "lon": 71.469,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "AL Makkah President timetable",
+          "url": "https://pkbuses.com/bus-timings/al-makkah-president"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Multan",
+          "times": [
+            "19:00",
+            "22:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/al-makkah-president",
+          "as_of": "22 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "MULTAN-LARKANA",
+      "name": "Multan - Larkana",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Multan",
+          "name_ur": "",
+          "lat": 30.198,
+          "lon": 71.469,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Larkana",
+          "name_ur": "",
+          "lat": 27.557,
+          "lon": 68.2264,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "AL Makkah President timetable",
+          "url": "https://pkbuses.com/bus-timings/al-makkah-president"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Multan",
+          "times": [
+            "11:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/al-makkah-president",
+          "as_of": "22 Jun 2026"
+        }
+      ]
+    }
+  ]
+}

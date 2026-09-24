@@ -87,9 +87,26 @@
         {
           "title": "buses.pk Waraich Express",
           "url": "https://buses.pk/bus-service/waraich-express"
+        },
+        {
+          "title": "Waraich Express departure times",
+          "url": "https://pkbuses.com/bus-timings/waraich-express"
         }
       ],
-      "notes": "Journey about 16h (buses.pk). No official Waraich website; third-party data only."
+      "notes": "Journey about 16h (buses.pk). No official Waraich website; third-party data only.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "10:00",
+            "13:00",
+            "21:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/waraich-express",
+          "as_of": "23 Jun 2026"
+        }
+      ]
     },
     {
       "id": "WR-KHI-ISB",
@@ -139,9 +156,30 @@
         {
           "title": "buses.pk Waraich Express",
           "url": "https://buses.pk/bus-service/waraich-express"
+        },
+        {
+          "title": "Waraich Express departure times",
+          "url": "https://pkbuses.com/bus-timings/waraich-express"
         }
       ],
-      "notes": "No official Waraich website; third-party data only."
+      "notes": "No official Waraich website; third-party data only.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "11:25",
+            "14:25",
+            "17:26",
+            "17:30",
+            "19:40",
+            "21:00",
+            "21:55"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/waraich-express",
+          "as_of": "23 Jun 2026"
+        }
+      ]
     },
     {
       "id": "WR-LHR-SKR",

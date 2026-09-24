@@ -154,10 +154,64 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [Daily Pakistan: Peoples Bus not extended; Latifabad/Qasimabad residents depend on private transporters](https://dailypakistan.com.pk/25-Jun-2024/1726322) · Daily Pakistan · 2024-06-25
 - [Same paper, full-text PDF](https://murjet.muet.edu.pk/index.php/home/article/download/142/11)
 
+## Adil Express (intercity)
+
+- [Adil Express timetable](https://pkbuses.com/bus-timings/adil-express) · pkbuses.com · 2026-09-24
+
+## Afsar Khan Travels (intercity)
+
+- [Afsar Khan Travels timetable](https://pkbuses.com/bus-timings/afsar-khan-travels) · pkbuses.com · 2026-09-24
+
+## Ahbab Express (intercity)
+
+- [Ahbab Express timetable](https://pkbuses.com/bus-timings/ahbab-express) · pkbuses.com · 2026-09-24
+
+## Ahmad Travels (intercity)
+
+- [Ahmad Travels timetable](https://pkbuses.com/bus-timings/ahmad-travels) · pkbuses.com · 2026-09-24
+
+## AK Movers (intercity)
+
+- [AK Movers timetable](https://pkbuses.com/bus-timings/ak-movers) · pkbuses.com · 2026-09-24
+
+## AKG Movers (intercity)
+
+- [AKG Movers timetable](https://pkbuses.com/bus-timings/akg-movers) · pkbuses.com · 2026-09-24
+
+## Al Aziz Coaches (intercity)
+
+- [Al Aziz Coaches timetable](https://pkbuses.com/bus-timings/al-aziz-coaches) · pkbuses.com · 2026-09-24
+
+## AL Makkah President (intercity)
+
+- [AL Makkah President timetable](https://pkbuses.com/bus-timings/al-makkah-president) · pkbuses.com · 2026-09-24
+
+## AL Sanober Express (intercity)
+
+- [AL Sanober Express timetable](https://pkbuses.com/bus-timings/al-sanober-express) · pkbuses.com · 2026-09-24
+
+## Ali Express (intercity)
+
+- [Ali Express timetable](https://pkbuses.com/bus-timings/ali-express) · pkbuses.com · 2026-09-24
+
+## Bahawalpur Express (intercity)
+
+- [Bahawalpur Express timetable](https://pkbuses.com/bus-timings/bahawalpur-express) · pkbuses.com · 2026-09-24
+
+## Baloch Transport (intercity)
+
+- [Baloch Transport timetable](https://pkbuses.com/bus-timings/baloch-transport) · pkbuses.com · 2026-09-24
+
 ## Bilal Travels (Bilal Daewoo) (intercity)
 
 - [Bilal Travels website (JavaScript-only, not readable)](https://bilaltravels.pk) · Bilal Travels · 2026-09-21 · official
 - [pkbuses.com Bilal Travels (Aug 2026)](https://pkbuses.com/bus-services/bilal-travels) · pkbuses.com · 2026-08
+- [FM Bilal Travels departure times](https://pkbuses.com/bus-timings/fm-bilal-travels)
+- [Bilal Travels departure times](https://pkbuses.com/bus-timings/bilal-travels)
+
+## Crystal Lines (intercity)
+
+- [Crystal Lines timetable](https://pkbuses.com/bus-timings/crystal-lines) · pkbuses.com · 2026-09-24
 
 ## Daewoo Express (intercity)
 
@@ -173,6 +227,7 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [buses.pk - Daewoo Islamabad to Lahore](https://buses.pk/bus-service/daewoo-express/islamabad-to-lahore-bus) · buses.pk
 - [pkbuses.com - Daewoo Lahore to Swat](https://pkbuses.com/bus-services/daewoo-express/lahore-to-swat) · pkbuses.com
 - [Daewoo Express (Wikipedia)](https://en.wikipedia.org/wiki/Daewoo_Express) · Wikipedia · 2026-09-21
+- [Daewoo Express departure times](https://pkbuses.com/bus-timings/daewoo-express)
 
 ## Faisal Movers (intercity)
 
@@ -181,22 +236,98 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [Faisal Movers route map / stop list](https://www.faisalmovers.com/route-map/) · Faisal Movers · 2026-09-21 · official
 - [pkbuses.com Faisal Movers fare list (30 Aug 2026)](https://pkbuses.com/faisal-movers-fare-list/) · pkbuses.com · 2026-08-30
 - [sastaticket.pk Faisal Movers](https://www.sastaticket.pk/bus-tickets/faisal-movers) · sastaticket.pk
+- [Faisal Movers departure times](https://pkbuses.com/bus-timings/faisal-movers)
+
+## Fateh Sons (Gujrat Express) (intercity)
+
+- [Fateh Sons (Gujrat Express) timetable](https://pkbuses.com/bus-timings/fateh-sons-gujrat-express) · pkbuses.com · 2026-09-24
+
+## Fateh Sons (intercity)
+
+- [Fateh Sons timetable](https://pkbuses.com/bus-timings/fateh-sons) · pkbuses.com · 2026-09-24
+
+## Geo Javed Coaches (intercity)
+
+- [Geo Javed Coaches timetable](https://pkbuses.com/bus-timings/geo-javed-coaches) · pkbuses.com · 2026-09-24
+
+## Geo Swat Express (intercity)
+
+- [Geo Swat Express timetable](https://pkbuses.com/bus-timings/geo-swat-express) · pkbuses.com · 2026-09-24
+
+## GN Movers (intercity)
+
+- [GN Movers timetable](https://pkbuses.com/bus-timings/gn-movers) · pkbuses.com · 2026-09-24
+
+## Iqbal Sons (intercity)
+
+- [Iqbal Sons timetable](https://pkbuses.com/bus-timings/iqbal-sons) · pkbuses.com · 2026-09-24
+
+## ITC Cruzer (intercity)
+
+- [ITC Cruzer timetable](https://pkbuses.com/bus-timings/itc-cruzer) · pkbuses.com · 2026-09-24
+
+## Jeddah Express (intercity)
+
+- [Jeddah Express timetable](https://pkbuses.com/bus-timings/jeddah-express) · pkbuses.com · 2026-09-24
 
 ## Kainat Travels (intercity)
 
 - [bookme.pk Kainat Travels](https://bookme.pk/kainat-travels) · bookme.pk · 2026-09-21
 - [sastaticket.pk Kainat Travels](https://www.sastaticket.pk/bus-tickets/kainat-travels) · sastaticket.pk · 2026-09-21
+- [Kainat Travels departure times](https://pkbuses.com/bus-timings/kainat-travels)
+
+## Karachi Coach Service (intercity)
+
+- [Karachi Coach Service timetable](https://pkbuses.com/bus-timings/karachi-coach-service) · pkbuses.com · 2026-09-24
+
+## Kashif Ansar Flying Coach (intercity)
+
+- [Kashif Ansar Flying Coach timetable](https://pkbuses.com/bus-timings/kashif-ansar-flying-coach) · pkbuses.com · 2026-09-24
+
+## Kohistan Al Amin (intercity)
+
+- [Kohistan Al Amin timetable](https://pkbuses.com/bus-timings/kohistan-al-amin) · pkbuses.com · 2026-09-24
 
 ## Kohistan Express (intercity)
 
 - [Kohistan Express official Facebook](https://www.facebook.com/KohistanXpress/) · Kohistan Express · official
 - [pkbuses.com Kohistan Express](https://pkbuses.com/kohistan-express-contact-numbers-helpline) · pkbuses.com
+- [Kohistan Express timetable](https://pkbuses.com/bus-timings/kohistan-express)
+
+## Madina Flying Coach (intercity)
+
+- [Madina Flying Coach timetable](https://pkbuses.com/bus-timings/madina-flying-coach) · pkbuses.com · 2026-09-24
 
 ## Manthar Transport (intercity)
 
 - [Manthar Group Facebook](https://www.facebook.com/manthargroup/) · Manthar Group · official
 - [sastaticket.pk Manthar Transport](https://www.sastaticket.pk/bus-tickets/manthar-transport) · sastaticket.pk · 2026-09-21
 - [pkbuses.com Manthar contact](https://pkbuses.com/manthar-transport-contact-numbers/) · pkbuses.com
+- [Manthar Transport departure times](https://pkbuses.com/bus-timings/manthar-transport)
+
+## Moon Ways (intercity)
+
+- [Moon Ways timetable](https://pkbuses.com/bus-timings/moon-ways) · pkbuses.com · 2026-09-24
+
+## Motorway Express (intercity)
+
+- [Motorway Express timetable](https://pkbuses.com/bus-timings/motorway-express) · pkbuses.com · 2026-09-24
+
+## Muslim Movers (intercity)
+
+- [Muslim Movers timetable](https://pkbuses.com/bus-timings/muslim-movers) · pkbuses.com · 2026-09-24
+
+## Muzaffarabad Express (intercity)
+
+- [Muzaffarabad Express timetable](https://pkbuses.com/bus-timings/muzaffarabad-express) · pkbuses.com · 2026-09-24
+
+## Naeem Movers (intercity)
+
+- [Naeem Movers timetable](https://pkbuses.com/bus-timings/naeem-movers) · pkbuses.com · 2026-09-24
+
+## NATCO Express (intercity)
+
+- [NATCO Express timetable](https://pkbuses.com/bus-timings/natco-express) · pkbuses.com · 2026-09-24
 
 ## NATCO (intercity)
 
@@ -208,11 +339,37 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [NATCO timetable search, 25 Sep 2026](https://natco.gov.pk/times)
 - [bookme.pk NATCO page (old fares)](https://bookme.pk/natco-online-booking)
 
+## New Faizan Coach (intercity)
+
+- [New Faizan Coach timetable](https://pkbuses.com/bus-timings/new-faizan-coach) · pkbuses.com · 2026-09-24
+
+## New Shandar (intercity)
+
+- [New Shandar timetable](https://pkbuses.com/bus-timings/new-shandar) · pkbuses.com · 2026-09-24
+
+## New Subhan (intercity)
+
+- [New Subhan timetable](https://pkbuses.com/bus-timings/new-subhan) · pkbuses.com · 2026-09-24
+
 ## Niazi Express (intercity)
 
 - [Niazi Express - Our terminals](https://www.niaziexpress.com.pk/our-terminals/) · Niazi Express · 2026-09-21 · official
 - [bookme.pk Niazi Express](https://bookme.pk/niazi-express) · bookme.pk · 2026-09-21
 - [pkbuses.com Niazi Express (Aug 2026)](https://pkbuses.com/bus-services/niazi-express) · pkbuses.com · 2026-08
+- [Niazi Express 99 departure times](https://pkbuses.com/bus-timings/niazi-express-99)
+- [Niazi Express departure times](https://pkbuses.com/bus-timings/niazi-express)
+
+## Pakistan Express (intercity)
+
+- [Pakistan Express timetable](https://pkbuses.com/bus-timings/pakistan-express) · pkbuses.com · 2026-09-24
+
+## Pakiza Travels (intercity)
+
+- [Pakiza Travels timetable](https://pkbuses.com/bus-timings/pakiza-travels) · pkbuses.com · 2026-09-24
+
+## Potohar Express (intercity)
+
+- [Potohar Express timetable](https://pkbuses.com/bus-timings/potohar-express) · pkbuses.com · 2026-09-24
 
 ## Sindh intercity provisional fares (PTA Sindh) (intercity)
 
@@ -237,6 +394,23 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [Q Connect homepage and route data](https://qconnect.pk) · Q Connect · 2026-09-21 · official
 - [Q Connect contact](https://qconnect.pk/contact) · Q Connect · 2026-09-21 · official
 - [pkbuses.com Q Connect](https://pkbuses.com/bus-services/q-connect) · pkbuses.com
+- [Q Connect departure times](https://pkbuses.com/bus-timings/q-connect)
+
+## Qadri Travels (intercity)
+
+- [Qadri Travels timetable](https://pkbuses.com/bus-timings/qadri-travels) · pkbuses.com · 2026-09-24
+
+## Rajput Travels (intercity)
+
+- [Rajput Travels timetable](https://pkbuses.com/bus-timings/rajput-travels) · pkbuses.com · 2026-09-24
+
+## Rana Asghar Transport (intercity)
+
+- [Rana Asghar Transport timetable](https://pkbuses.com/bus-timings/rana-asghar-transport) · pkbuses.com · 2026-09-24
+
+## Rana Jahanzaib Travels (intercity)
+
+- [Rana Jahanzaib Travels timetable](https://pkbuses.com/bus-timings/rana-jahanzaib-travels) · pkbuses.com · 2026-09-24
 
 ## Road Master (intercity)
 
@@ -244,6 +418,47 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [bookme.pk Road Master](https://bookme.pk/road-master) · bookme.pk · 2026-09-21
 - [pkbuses.com Road Master ticket price (30 Aug 2026)](https://pkbuses.com/road-master-bus-ticket-price-list/) · pkbuses.com · 2026-08-30
 - [pkbuses.com Road Master timings (schedule 11 Apr 2023)](https://pkbuses.com/road-master-bus-timings) · pkbuses.com · 2023-04-11
+- [Road Master departure times](https://pkbuses.com/bus-timings/road-master)
+
+## Rohi Muslim Movers (intercity)
+
+- [Rohi Muslim Movers timetable](https://pkbuses.com/bus-timings/rohi-muslim-movers) · pkbuses.com · 2026-09-24
+
+## Royal Movers (intercity)
+
+- [Royal Movers timetable](https://pkbuses.com/bus-timings/royal-movers) · pkbuses.com · 2026-09-24
+
+## Sada Bahar (intercity)
+
+- [Sada Bahar timetable](https://pkbuses.com/bus-timings/sada-bahar) · pkbuses.com · 2026-09-24
+
+## Sadat Travels (intercity)
+
+- [Sadat Travels timetable](https://pkbuses.com/bus-timings/sadat-travels) · pkbuses.com · 2026-09-24
+
+## Sandhu Power (intercity)
+
+- [Sandhu Power timetable](https://pkbuses.com/bus-timings/sandhu-power) · pkbuses.com · 2026-09-24
+
+## Sania Express (intercity)
+
+- [Sania Express timetable](https://pkbuses.com/bus-timings/sania-express) · pkbuses.com · 2026-09-24
+
+## Shadi Khail Daewoo (intercity)
+
+- [Shadi Khail Daewoo timetable](https://pkbuses.com/bus-timings/shadi-khail-daewoo) · pkbuses.com · 2026-09-24
+
+## Shaheen Express (intercity)
+
+- [Shaheen Express timetable](https://pkbuses.com/bus-timings/shaheen-express) · pkbuses.com · 2026-09-24
+
+## Shahid Coach (intercity)
+
+- [Shahid Coach timetable](https://pkbuses.com/bus-timings/shahid-coach) · pkbuses.com · 2026-09-24
+
+## Shalimar Express (intercity)
+
+- [Shalimar Express timetable](https://pkbuses.com/bus-timings/shalimar-express) · pkbuses.com · 2026-09-24
 
 ## Silk Line (intercity)
 
@@ -256,11 +471,29 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [Skyways destinations](https://www.skywaysonline.pk/destandfares) · Skyways · 2026-09-21 · official
 - [bookme.pk Skyways online booking](https://bookme.pk/skyways-online-booking) · bookme.pk · 2026-09-21
 - [pkbuses.com Skyways (Aug 2026)](https://pkbuses.com/bus-services/skyways) · pkbuses.com · 2026-08
+- [Skyways departure times](https://pkbuses.com/bus-timings/skyways)
+
+## STC Transit (intercity)
+
+- [STC Transit timetable](https://pkbuses.com/bus-timings/stc-transit) · pkbuses.com · 2026-09-24
+
+## Sufi Coaches (intercity)
+
+- [Sufi Coaches timetable](https://pkbuses.com/bus-timings/sufi-coaches) · pkbuses.com · 2026-09-24
+
+## Umair Movers (intercity)
+
+- [Umair Movers timetable](https://pkbuses.com/bus-timings/umair-movers) · pkbuses.com · 2026-09-24
 
 ## Waraich Express (intercity)
 
 - [pkbuses.com Waraich Express ticket price (30 Aug 2026)](https://pkbuses.com/waraich-express-ticket-price) · pkbuses.com · 2026-08-30
 - [buses.pk Waraich Express](https://buses.pk/bus-service/waraich-express) · buses.pk · 2026
+- [Waraich Express departure times](https://pkbuses.com/bus-timings/waraich-express)
+
+## Yousaf Transport Company (intercity)
+
+- [Yousaf Transport Company timetable](https://pkbuses.com/bus-timings/yousaf-transport-company) · pkbuses.com · 2026-09-24
 
 ## Rawalpindi–Islamabad Metrobus (islamabad-rawalpindi)
 
@@ -993,6 +1226,7 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [OpenStreetMap train route relations](https://www.openstreetmap.org/) · OpenStreetMap contributors (ODbL) · 2026-09-16
 - [OpenStreetMap railway=station/halt nodes via Overpass (overpass.private.coffee)](https://overpass.private.coffee/api/interpreter) · OpenStreetMap contributors (ODbL) · 2026-07-15
 - [Wikidata railway stations in Pakistan](https://query.wikidata.org/) · Wikidata (CC0) · 2026-09-16
+- [Pakistan Railways train schedule (pakrailways.gov.pk)](https://pakrailways.gov.pk/train)
 - [pakinformation.com - Allama Iqbal Express time table](https://www.pakinformation.com/railway-timings/allama-iqbal-express.html) · pakinformation.com
 - [Wikipedia - Allama Iqbal Express](https://en.wikipedia.org/wiki/Allama_Iqbal_Express) · Wikipedia
 - [pakinformation.com - Attock Passenger time table](https://www.pakinformation.com/railway-timings/attock-passenger.html) · pakinformation.com

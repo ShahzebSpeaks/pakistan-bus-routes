@@ -1,0 +1,84 @@
+{
+  "id": "intercity-ahbab-express",
+  "city": "intercity",
+  "name": "Ahbab Express",
+  "name_ur": "",
+  "operator": "Ahbab Express",
+  "mode": "intercity_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash or online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": null,
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "last_verified": "2026-09-24",
+  "sources": [
+    {
+      "title": "Ahbab Express timetable",
+      "url": "https://pkbuses.com/bus-timings/ahbab-express",
+      "publisher": "pkbuses.com",
+      "date": "2026-09-24",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "KARACHI-MULTAN",
+      "name": "Karachi - Multan",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Multan",
+          "name_ur": "",
+          "lat": 30.198,
+          "lon": 71.469,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Ahbab Express timetable",
+          "url": "https://pkbuses.com/bus-timings/ahbab-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Karachi",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/ahbab-express",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    }
+  ]
+}

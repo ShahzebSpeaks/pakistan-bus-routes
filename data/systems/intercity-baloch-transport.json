@@ -1,0 +1,307 @@
+{
+  "id": "intercity-baloch-transport",
+  "city": "intercity",
+  "name": "Baloch Transport",
+  "name_ur": "",
+  "operator": "Baloch Transport",
+  "mode": "intercity_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash or online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": null,
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "last_verified": "2026-09-24",
+  "sources": [
+    {
+      "title": "Baloch Transport timetable",
+      "url": "https://pkbuses.com/bus-timings/baloch-transport",
+      "publisher": "pkbuses.com",
+      "date": "2026-09-24",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "LAHORE-AHMADPURSIAL",
+      "name": "Lahore - Ahmadpur Sial",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Ahmadpur Sial",
+          "name_ur": "",
+          "lat": 30.68363,
+          "lon": 71.76117,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Baloch Transport timetable",
+          "url": "https://pkbuses.com/bus-timings/baloch-transport"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "13:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/baloch-transport",
+          "as_of": "23 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "LAHORE-BHAKKAR",
+      "name": "Lahore - Bhakkar",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Bhakkar",
+          "name_ur": "",
+          "lat": 31.6221,
+          "lon": 71.0651,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Baloch Transport timetable",
+          "url": "https://pkbuses.com/bus-timings/baloch-transport"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "10:00",
+            "23:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/baloch-transport",
+          "as_of": "23 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "LAHORE-CHOWKMUNDA",
+      "name": "Lahore - Chowk Munda",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Chowk Munda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Baloch Transport timetable",
+          "url": "https://pkbuses.com/bus-timings/baloch-transport"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "15:30"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/baloch-transport",
+          "as_of": "23 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "LAHORE-KARORLALESAN",
+      "name": "Lahore - Karor Lal Esan",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Karor Lal Esan",
+          "name_ur": "",
+          "lat": 31.23011,
+          "lon": 70.94755,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Baloch Transport timetable",
+          "url": "https://pkbuses.com/bus-timings/baloch-transport"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "08:00",
+            "11:30",
+            "14:15",
+            "16:45",
+            "19:30",
+            "22:30"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/baloch-transport",
+          "as_of": "23 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "LAHORE-LAYYAH",
+      "name": "Lahore - Layyah",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Layyah",
+          "name_ur": "",
+          "lat": 30.9681,
+          "lon": 70.9434,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Baloch Transport timetable",
+          "url": "https://pkbuses.com/bus-timings/baloch-transport"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Lahore",
+          "times": [
+            "00:30",
+            "07:15",
+            "09:00",
+            "10:00",
+            "11:00",
+            "12:15",
+            "13:30",
+            "15:00",
+            "16:00",
+            "17:30",
+            "18:45",
+            "20:15",
+            "21:45",
+            "23:30"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/baloch-transport",
+          "as_of": "23 Jun 2026"
+        }
+      ]
+    }
+  ]
+}

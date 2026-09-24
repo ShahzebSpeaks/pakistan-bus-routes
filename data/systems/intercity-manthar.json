@@ -71,8 +71,8 @@
         {
           "name": "Rawalpindi",
           "name_ur": "",
-          "lat": 33.47408,
-          "lon": 73.25229,
+          "lat": 33.5973,
+          "lon": 73.0479,
           "coord_source": "auto:nominatim",
           "is_station": false
         }
@@ -130,9 +130,33 @@
         {
           "title": "pkbuses.com Manthar contact",
           "url": "https://pkbuses.com/manthar-transport-contact-numbers/"
+        },
+        {
+          "title": "Manthar Transport departure times",
+          "url": "https://pkbuses.com/bus-timings/manthar-transport"
         }
       ],
-      "notes": ""
+      "notes": "",
+      "departures": [
+        {
+          "from": "Karachi",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/manthar-transport",
+          "as_of": "18 Jun 2026"
+        },
+        {
+          "from": "Lahore",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/manthar-transport",
+          "as_of": "18 Jun 2026"
+        }
+      ]
     },
     {
       "id": "MN-SDQ-LHR",
@@ -178,9 +202,24 @@
         {
           "title": "pkbuses.com Manthar contact",
           "url": "https://pkbuses.com/manthar-transport-contact-numbers/"
+        },
+        {
+          "title": "Manthar Transport departure times",
+          "url": "https://pkbuses.com/bus-timings/manthar-transport"
         }
       ],
-      "notes": ""
+      "notes": "",
+      "departures": [
+        {
+          "from": "Sadiqabad",
+          "times": [
+            "09:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/manthar-transport",
+          "as_of": "18 Jun 2026"
+        }
+      ]
     },
     {
       "id": "MN-LHR-FSD",
@@ -327,9 +366,9 @@
         {
           "name": "Rawalpindi",
           "name_ur": "",
-          "lat": 33.474083,
-          "lon": 73.252285,
-          "coord_source": "auto:photon:R/8161545",
+          "lat": 33.5973,
+          "lon": 73.0479,
+          "coord_source": "auto:nominatim",
           "is_station": false
         }
       ],
@@ -367,8 +406,8 @@
         {
           "name": "Rawalpindi",
           "name_ur": "",
-          "lat": 33.47408,
-          "lon": 73.25229,
+          "lat": 33.5973,
+          "lon": 73.0479,
           "coord_source": "auto:nominatim",
           "is_station": false
         }
@@ -381,6 +420,363 @@
         }
       ],
       "notes": ""
+    },
+    {
+      "id": "BAHAWALPUR-NAROWAL",
+      "name": "Bahawalpur - Narowal",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Bahawalpur",
+          "name_ur": "",
+          "lat": 29.3956,
+          "lon": 71.6836,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Narowal",
+          "name_ur": "",
+          "lat": 32.101,
+          "lon": 74.8722,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Manthar Transport timetable",
+          "url": "https://pkbuses.com/bus-timings/manthar-transport"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Bahawalpur",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/manthar-transport",
+          "as_of": "18 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "BAHAWALPUR-QUETTA",
+      "name": "Bahawalpur - Quetta",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Bahawalpur",
+          "name_ur": "",
+          "lat": 29.3956,
+          "lon": 71.6836,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Quetta",
+          "name_ur": "",
+          "lat": 30.1798,
+          "lon": 66.975,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Manthar Transport timetable",
+          "url": "https://pkbuses.com/bus-timings/manthar-transport"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Bahawalpur",
+          "times": [
+            "09:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/manthar-transport",
+          "as_of": "18 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "ISLAMABAD-SADIQABAD",
+      "name": "Islamabad - Sadiqabad",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Sadiqabad",
+          "name_ur": "",
+          "lat": 28.3091,
+          "lon": 70.1307,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Manthar Transport timetable",
+          "url": "https://pkbuses.com/bus-timings/manthar-transport"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "08:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/manthar-transport",
+          "as_of": "18 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "KHANPUR-NAROWAL",
+      "name": "Khanpur - Narowal",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Khanpur",
+          "name_ur": "",
+          "lat": 28.64774,
+          "lon": 70.65601,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Narowal",
+          "name_ur": "",
+          "lat": 32.101,
+          "lon": 74.8722,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Manthar Transport timetable",
+          "url": "https://pkbuses.com/bus-timings/manthar-transport"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Khanpur",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/manthar-transport",
+          "as_of": "18 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "LIAQUATPUR-GUJRAT",
+      "name": "Liaquatpur - Gujrat",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Liaquatpur",
+          "name_ur": "",
+          "lat": 28.93493,
+          "lon": 70.95159,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Gujrat",
+          "name_ur": "",
+          "lat": 32.5731,
+          "lon": 74.0789,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Manthar Transport timetable",
+          "url": "https://pkbuses.com/bus-timings/manthar-transport"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Liaquatpur",
+          "times": [
+            "09:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/manthar-transport",
+          "as_of": "18 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "SADIQABAD-SARGODHA",
+      "name": "Sadiqabad - Sargodha",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Sadiqabad",
+          "name_ur": "",
+          "lat": 28.3091,
+          "lon": 70.1307,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Sargodha",
+          "name_ur": "",
+          "lat": 32.0836,
+          "lon": 72.6711,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Manthar Transport timetable",
+          "url": "https://pkbuses.com/bus-timings/manthar-transport"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Sadiqabad",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/manthar-transport",
+          "as_of": "18 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "SADIQABAD-SIALKOT",
+      "name": "Sadiqabad - Sialkot",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Sadiqabad",
+          "name_ur": "",
+          "lat": 28.3091,
+          "lon": 70.1307,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Sialkot",
+          "name_ur": "",
+          "lat": 32.4945,
+          "lon": 74.5229,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Manthar Transport timetable",
+          "url": "https://pkbuses.com/bus-timings/manthar-transport"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Sadiqabad",
+          "times": [
+            "09:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/manthar-transport",
+          "as_of": "18 Jun 2026"
+        }
+      ]
     }
   ],
   "last_verified": "2026-09-21"

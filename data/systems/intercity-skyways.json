@@ -105,9 +105,33 @@
         {
           "title": "pkbuses.com Skyways (Aug 2026)",
           "url": "https://pkbuses.com/bus-services/skyways"
+        },
+        {
+          "title": "Skyways departure times",
+          "url": "https://pkbuses.com/bus-timings/skyways"
         }
       ],
-      "notes": "Journey about 3h50."
+      "notes": "Journey about 3h50.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "09:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/skyways",
+          "as_of": "18 Jun 2026"
+        },
+        {
+          "from": "Lahore",
+          "times": [
+            "08:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/skyways",
+          "as_of": "18 Jun 2026"
+        }
+      ]
     },
     {
       "id": "SK-LHR-MZD",
@@ -134,9 +158,9 @@
         {
           "name": "Muzaffarabad",
           "name_ur": "",
-          "lat": 34.316405,
-          "lon": 73.584111,
-          "coord_source": "auto:photon:R/8191414",
+          "lat": 34.37,
+          "lon": 73.4711,
+          "coord_source": "auto:nominatim",
           "is_station": false
         }
       ],
@@ -617,9 +641,33 @@
         {
           "title": "pkbuses.com Skyways (Aug 2026)",
           "url": "https://pkbuses.com/bus-services/skyways"
+        },
+        {
+          "title": "Skyways departure times",
+          "url": "https://pkbuses.com/bus-timings/skyways"
         }
       ],
-      "notes": "Departs 19:30; journey about 13h50."
+      "notes": "Departs 19:30; journey about 13h50.",
+      "departures": [
+        {
+          "from": "Karachi",
+          "times": [
+            "19:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/skyways",
+          "as_of": "18 Jun 2026"
+        },
+        {
+          "from": "Lahore",
+          "times": [
+            "19:30"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/skyways",
+          "as_of": "18 Jun 2026"
+        }
+      ]
     },
     {
       "id": "SK-PEW-ISB",
@@ -669,9 +717,33 @@
         {
           "title": "pkbuses.com Skyways (Aug 2026)",
           "url": "https://pkbuses.com/bus-services/skyways"
+        },
+        {
+          "title": "Skyways departure times",
+          "url": "https://pkbuses.com/bus-timings/skyways"
         }
       ],
-      "notes": "Journey about 2h."
+      "notes": "Journey about 2h.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "08:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/skyways",
+          "as_of": "18 Jun 2026"
+        },
+        {
+          "from": "Peshawar",
+          "times": [
+            "09:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/skyways",
+          "as_of": "18 Jun 2026"
+        }
+      ]
     },
     {
       "id": "SK-ISB-MZD",
@@ -706,9 +778,9 @@
         {
           "name": "Muzaffarabad",
           "name_ur": "",
-          "lat": 34.316405,
-          "lon": 73.584111,
-          "coord_source": "auto:photon:R/8191414",
+          "lat": 34.37,
+          "lon": 73.4711,
+          "coord_source": "auto:nominatim",
           "is_station": false
         }
       ],

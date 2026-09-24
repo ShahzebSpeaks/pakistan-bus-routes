@@ -2,7 +2,7 @@
 
 Generated 2026-09-24 by `npm run data:build`. Do not edit by hand.
 
-**53 cities · 97 systems · 1405 published routes · 7549 stops**
+**53 cities · 152 systems · 1626 published routes · 7589 stops**
 
 Coordinate quality: **exact** = verified (OpenStreetMap element or Wikipedia, checked by a person), **guide** = position published by a route guide such as safar.fyi, **matched** = automatic OpenStreetMap name match, **geocoded** = Nominatim search, **estimated** = interpolated between neighbours, **missing** = not on the map yet.
 
@@ -13,6 +13,48 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 
 | System | Route | Name | Status | Stops | Exact | Guide | Matched | Geocoded | Estimated | Missing | Stop list confidence |
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
+| Adil Express | ISLAMABAD-KARACHI | Islamabad - Karachi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Afsar Khan Travels | BUNER-KARACHI | Buner - Karachi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Ahbab Express | KARACHI-MULTAN | Karachi - Multan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Ahmad Travels | LAHORE-BAJAUR | Lahore - Bajaur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Ahmad Travels | LAHORE-BUNER | Lahore - Buner | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Ahmad Travels | LAHORE-DIR | Lahore - Dir | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Ahmad Travels | LAHORE-KOHAT | Lahore - Kohat | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Ahmad Travels | LAHORE-MARDAN | Lahore - Mardan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Ahmad Travels | LAHORE-SWABI | Lahore - Swabi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Ahmad Travels | LAHORE-SWAT | Lahore - Swat (Mingora) | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Ahmad Travels | LAHORE-TARBELA | Lahore - Tarbela | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| AK Movers | QUETTA-BAHAWALPUR | Quetta - Bahawalpur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| AK Movers | QUETTA-FAISALABAD | Quetta - Faisalabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| AK Movers | QUETTA-ISLAMABAD | Quetta - Islamabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| AK Movers | QUETTA-KARACHI | Quetta - Karachi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| AK Movers | QUETTA-LAHORE | Quetta - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| AK Movers | QUETTA-MULTAN | Quetta - Multan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| AK Movers | QUETTA-PESHAWAR | Quetta - Peshawar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| AKG Movers | KARACHI-LARKANA | Karachi - Larkana | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Al Aziz Coaches | PESHAWAR-QUETTA | Peshawar - Quetta | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| AL Makkah President | BAHAWALPUR-KARACHI | Bahawalpur - Karachi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| AL Makkah President | FAISALABAD-KARACHI | Faisalabad - Karachi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| AL Makkah President | LAHORE-LARKANA | Lahore - Larkana | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| AL Makkah President | MULTAN-FAISALABAD | Multan - Faisalabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| AL Makkah President | MULTAN-ISLAMABAD | Multan - Islamabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| AL Makkah President | MULTAN-KARACHI | Multan - Karachi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| AL Makkah President | MULTAN-LARKANA | Multan - Larkana | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| AL Sanober Express | ATTOCK-KARACHI | Attock - Karachi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Ali Express | LAHORE-MULTAN | Lahore - Multan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Bahawalpur Express | ISLAMABAD-BAHAWALPUR | Islamabad - Bahawalpur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Bahawalpur Express | ISLAMABAD-BUREWALA | Islamabad - Burewala | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Bahawalpur Express | ISLAMABAD-HASILPUR | Islamabad - Hasilpur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Bahawalpur Express | ISLAMABAD-KHANPUR | Islamabad - Khanpur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Bahawalpur Express | ISLAMABAD-MAILSI | Islamabad - Mailsi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Bahawalpur Express | ISLAMABAD-MULTAN | Islamabad - Multan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Bahawalpur Express | ISLAMABAD-SADIQABAD | Islamabad - Sadiqabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Bahawalpur Express | ISLAMABAD-VEHARI | Islamabad - Vehari | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Baloch Transport | LAHORE-AHMADPURSIAL | Lahore - Ahmadpur Sial | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Baloch Transport | LAHORE-BHAKKAR | Lahore - Bhakkar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Baloch Transport | LAHORE-CHOWKMUNDA | Lahore - Chowk Munda | unverified | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
+| Baloch Transport | LAHORE-KARORLALESAN | Lahore - Karor Lal Esan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Baloch Transport | LAHORE-LAYYAH | Lahore - Layyah | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Bilal Travels (Bilal Daewoo) | BT-LHR-MUX | Lahore - Multan | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
 | Bilal Travels (Bilal Daewoo) | BT-LHR-FSD | Lahore - Faisalabad | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
 | Bilal Travels (Bilal Daewoo) | BT-LHR-SKT | Lahore - Sialkot | unverified | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
@@ -24,6 +66,24 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Bilal Travels (Bilal Daewoo) | BT-KHI-MNS | Karachi - Mansehra | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Bilal Travels (Bilal Daewoo) | BT-KHI-HRP | Karachi - Haripur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Bilal Travels (Bilal Daewoo) | BT-LHR-RWP | Lahore - Rawalpindi | unverified | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| Bilal Travels (Bilal Daewoo) | LAHORE-BAHAWALPUR | Lahore - Bahawalpur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Bilal Travels (Bilal Daewoo) | LAHORE-MANSEHRA | Lahore - Mansehra | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Bilal Travels (Bilal Daewoo) | LAHORE-MIANWALI | Lahore - Mianwali | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Bilal Travels (Bilal Daewoo) | LAHORE-SARGODHA | Lahore - Sargodha | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Crystal Lines | ISLAMABAD-BHAKKAR | Islamabad - Bhakkar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Crystal Lines | ISLAMABAD-CHITRAL | Islamabad - Chitral | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Crystal Lines | ISLAMABAD-DERAISMAILKH | Islamabad - Dera Ismail Khan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Crystal Lines | ISLAMABAD-GILGIT | Islamabad - Gilgit | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Crystal Lines | ISLAMABAD-KARACHI | Islamabad - Karachi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Crystal Lines | ISLAMABAD-KARORPAKA | Islamabad - Karor Paka | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Crystal Lines | ISLAMABAD-LAHORE | Islamabad - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Crystal Lines | ISLAMABAD-LAYYAH | Islamabad - Layyah | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Crystal Lines | ISLAMABAD-MIANWALI | Islamabad - Mianwali | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Crystal Lines | ISLAMABAD-MULTAN | Islamabad - Multan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Crystal Lines | ISLAMABAD-QUETTA | Islamabad - Quetta | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Crystal Lines | ISLAMABAD-SADIQABAD | Islamabad - Sadiqabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Crystal Lines | ISLAMABAD-SIBI | Islamabad - Sibi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Crystal Lines | ISLAMABAD-SKARDU | Islamabad - Skardu | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Daewoo Express | DW-LHR-RWP | Lahore - Rawalpindi/Islamabad | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Daewoo Express | DW-LHR-KHI | Lahore - Karachi | operational | 6 | 67% | 0% | 0% | 0% | 33% | 0 | low |
 | Daewoo Express | DW-LHR-MUX | Lahore - Multan | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | medium |
@@ -53,6 +113,9 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Daewoo Express | DW-MUX-KWL | Multan - Khanewal | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
 | Daewoo Express | DW-BWP-LDN | Bahawalpur - Lodhran | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
 | Daewoo Express | DW-LHR-SGD | Lahore - Sargodha | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Daewoo Express | ISLAMABAD-SAKRAND | Islamabad - Sakrand | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Daewoo Express | ISLAMABAD-SIALKOT | Islamabad - Sialkot | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Daewoo Express | JAHANIAN-ISLAMABAD | Jahanian - Islamabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Faisal Movers | FM-MUX-KHI | Multan - Karachi | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | medium |
 | Faisal Movers | FM-LHR-FSD | Lahore - Faisalabad | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Faisal Movers | FM-MUX-LHR | Multan - Lahore | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
@@ -63,22 +126,106 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Faisal Movers | FM-ISB-KHI | Islamabad - Karachi | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
 | Faisal Movers | FM-ISB-MUX | Islamabad - Multan | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
 | Faisal Movers | FM-ISB-TXK | Islamabad - Tashkurgan (China) | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Faisal Movers | ISLAMABAD-GILGIT | Islamabad - Gilgit | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Faisal Movers | KARACHI-BAHAWALPUR | Karachi - Bahawalpur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Faisal Movers | KARACHI-DERAGHAZIKHA | Karachi - Dera Ghazi Khan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Faisal Movers | KARACHI-PESHAWAR | Karachi - Peshawar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Faisal Movers | KARACHI-SADIQABAD | Karachi - Sadiqabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Faisal Movers | KARACHI-SWAT | Karachi - Swat (Mingora) | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Faisal Movers | LAHORE-BAHAWALPUR | Lahore - Bahawalpur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Faisal Movers | LAHORE-JAHANIAN | Lahore - Jahanian | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Faisal Movers | LAHORE-SADIQABAD | Lahore - Sadiqabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Faisal Movers | MULTAN-BAHAWALPUR | Multan - Bahawalpur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Fateh Sons (Gujrat Express) | LAHORE-GUJRAT | Lahore - Gujrat | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Fateh Sons | GUJRAT-LAHORE | Gujrat - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Geo Javed Coaches | GWADAR-KARACHI | Gwadar - Karachi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Geo Javed Coaches | KARACHI-TURBAT | Karachi - Turbat | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Geo Swat Express | KARACHI-SWAT | Karachi - Swat (Mingora) | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Geo Swat Express | SWAT-MINGORA | Swat (Mingora) - Mingora | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| GN Movers | KARACHI-DADU | Karachi - Dadu | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| GN Movers | KARACHI-LARKANA | Karachi - Larkana | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Iqbal Sons | LAHORE-FAISALABAD | Lahore - Faisalabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Iqbal Sons | LAHORE-JHANG | Lahore - Jhang | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Iqbal Sons | LAHORE-SHORKOT | Lahore - Shorkot | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| ITC Cruzer | KARACHI-LAHORE | Karachi - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Jeddah Express | KARACHI-PESHAWAR | Karachi - Peshawar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Kainat Travels | KT-KHI-LHR | Karachi - Lahore | unverified | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
 | Kainat Travels | KT-KHI-MUX | Karachi - Multan | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
 | Kainat Travels | KT-KHI-FSD | Karachi - Faisalabad | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
 | Kainat Travels | KT-LRK-RWP | Larkana - Rawalpindi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Kainat Travels | BALKASAR-SUKKUR | Balkasar - Sukkur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Kainat Travels | FAISALABAD-MORO | Faisalabad - Moro | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Kainat Travels | ISLAMABAD-FAISALABAD | Islamabad - Faisalabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Kainat Travels | ISLAMABAD-GILGIT | Islamabad - Gilgit | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Kainat Travels | ISLAMABAD-KARACHI | Islamabad - Karachi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Kainat Travels | KARACHI-BALKASAR | Karachi - Balkasar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Kainat Travels | SUKKUR-FAISALABAD | Sukkur - Faisalabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Karachi Coach Service | KARACHI-ABBOTTABAD | Karachi - Abbottabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Karachi Coach Service | KARACHI-ISLAMABAD | Karachi - Islamabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Karachi Coach Service | KARACHI-LAHORE | Karachi - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Karachi Coach Service | KARACHI-LARKANA | Karachi - Larkana | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Karachi Coach Service | KARACHI-MANSEHRA | Karachi - Mansehra | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Karachi Coach Service | KARACHI-SUKKUR | Karachi - Sukkur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Kashif Ansar Flying Coach | PAKPATTAN-SAHIWAL | Pakpattan - Sahiwal | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Kohistan Al Amin | ABBOTTABAD-FAISALABAD | Abbottabad - Faisalabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Kohistan Al Amin | FAISALABAD-HARIPURHAZAR | Faisalabad - Haripur Hazara | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Kohistan Al Amin | FAISALABAD-MANSEHRA | Faisalabad - Mansehra | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Kohistan Express | KH-FSD-RWP | Faisalabad - Rawalpindi | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
 | Kohistan Express | KH-FSD-SDQ | Faisalabad - Sadiqabad | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Kohistan Express | KH-FSD-LHR | Faisalabad - Lahore | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Kohistan Express | KH-FSD-SGD | Faisalabad - Sargodha | unverified | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| Kohistan Express | FAISALABAD-MURREE | Faisalabad - Murree | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Madina Flying Coach | MULTAN-ARIFWALA | Multan - Arifwala | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Madina Flying Coach | MULTAN-BAHAWALPUR | Multan - Bahawalpur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Madina Flying Coach | MULTAN-BUREWALA | Multan - Burewala | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Madina Flying Coach | MULTAN-DERAGHAZIKHA | Multan - Dera Ghazi Khan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Madina Flying Coach | MULTAN-KARACHI | Multan - Karachi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Madina Flying Coach | MULTAN-KASUR | Multan - Kasur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Madina Flying Coach | MULTAN-LAHORE | Multan - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Madina Flying Coach | MULTAN-PAKPATTAN | Multan - Pakpattan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Madina Flying Coach | MULTAN-SADIQABAD | Multan - Sadiqabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Madina Flying Coach | MULTAN-SAHIWAL | Multan - Sahiwal | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Madina Flying Coach | MULTAN-VEHARI | Multan - Vehari | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Manthar Transport | MN-KHI-RWP | Karachi - Rawalpindi | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Manthar Transport | MN-KHI-LHR | Karachi - Lahore | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Manthar Transport | MN-SDQ-LHR | Sadiqabad - Lahore | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
 | Manthar Transport | MN-LHR-FSD | Lahore - Faisalabad | operational | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
 | Manthar Transport | MN-LHR-SGD | Lahore - Sargodha | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Manthar Transport | MN-LHR-MUX | Lahore - Multan | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
-| Manthar Transport | MN-LHR-RWP | Lahore - Rawalpindi | operational | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Manthar Transport | MN-LHR-RWP | Lahore - Rawalpindi | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Manthar Transport | MN-MUX-RWP | Multan - Rawalpindi | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Manthar Transport | BAHAWALPUR-NAROWAL | Bahawalpur - Narowal | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Manthar Transport | BAHAWALPUR-QUETTA | Bahawalpur - Quetta | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Manthar Transport | ISLAMABAD-SADIQABAD | Islamabad - Sadiqabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Manthar Transport | KHANPUR-NAROWAL | Khanpur - Narowal | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Manthar Transport | LIAQUATPUR-GUJRAT | Liaquatpur - Gujrat | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Manthar Transport | SADIQABAD-SARGODHA | Sadiqabad - Sargodha | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Manthar Transport | SADIQABAD-SIALKOT | Sadiqabad - Sialkot | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Moon Ways | ISLAMABAD-SADIQABAD | Islamabad - Sadiqabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Moon Ways | KARACHI-LAHORE | Karachi - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Moon Ways | KARACHI-RAHIMYARKHAN | Karachi - Rahim Yar Khan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Moon Ways | KARACHI-SADIQABAD | Karachi - Sadiqabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Moon Ways | LAHORE-SADIQABAD | Lahore - Sadiqabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Moon Ways | LAHORE-SUKKUR | Lahore - Sukkur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Moon Ways | MULTAN-SADIQABAD | Multan - Sadiqabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Motorway Express | ABBOTTABAD-ISLAMABAD | Abbottabad - Islamabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Motorway Express | ABBOTTABAD-PESHAWAR | Abbottabad - Peshawar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Motorway Express | ISLAMABAD-PESHAWAR | Islamabad - Peshawar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Motorway Express | ISLAMABAD-SWAT | Islamabad - Swat (Mingora) | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Motorway Express | PESHAWAR-SWAT | Peshawar - Swat (Mingora) | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Muslim Movers | LAHORE-HASILPUR | Lahore - Hasilpur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Muslim Movers | LAHORE-MAILSI | Lahore - Mailsi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Muslim Movers | LAHORE-VEHARI | Lahore - Vehari | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Muslim Movers | VEHARI-MAILSI | Vehari - Mailsi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Muzaffarabad Express | ISLAMABAD-MUZAFFARABAD | Islamabad - Muzaffarabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Muzaffarabad Express | LAHORE-KARACHI | Lahore - Karachi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Muzaffarabad Express | MUZAFFARABAD-LAHORE | Muzaffarabad - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Naeem Movers | FORTABBAS-BAHAWALNAGAR | Fort Abbas - Bahawalnagar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Naeem Movers | LAHORE-FORTABBAS | Lahore - FortAbbas | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Naeem Movers | MAROT-FORTABBAS | Marot - FortAbbas | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| NATCO Express | GILGIT-HUNZA | Gilgit - Hunza | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| NATCO Express | GILGIT-ISLAMABAD | Gilgit - Islamabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| NATCO Express | ISLAMABAD-SKARDU | Islamabad - Skardu | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | NATCO | NT-RWP-GLT | Rawalpindi - Gilgit | operational | 12 | 17% | 0% | 17% | 67% | 0% | 0 | medium |
 | NATCO | NT-RWP-HNZ | Rawalpindi - Hunza (Aliabad) | operational | 13 | 23% | 0% | 15% | 62% | 0% | 0 | low |
 | NATCO | NT-RWP-CLS | Rawalpindi - Chilas | operational | 11 | 9% | 0% | 18% | 73% | 0% | 0 | low |
@@ -99,6 +246,11 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | NATCO | NT-SST-KHI | Sost - Karachi | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
 | NATCO | NT-SST-TXK | Sost - Tashkurgan (China) | unverified | 3 | 33% | 0% | 33% | 33% | 0% | 0 | low |
 | NATCO | NT-GLT-KSH | Gilgit - Kashgar (China) | unverified | 5 | 40% | 0% | 20% | 40% | 0% | 0 | low |
+| New Faizan Coach | KARACHI-LARKANA | Karachi - Larkana | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| New Shandar | KARACHI-QUETTA | Karachi - Quetta | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| New Shandar | KHUZDAR-KARACHI | Khuzdar - Karachi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| New Shandar | QUETTA-KHUZDAR | Quetta - Khuzdar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| New Subhan | FAISALABAD-MURREE | Faisalabad - Murree | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Niazi Express | NZ-LHR-BAHAWALP | Lahore - Bahawalpur | operational | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
 | Niazi Express | NZ-LHR-PESHAWAR | Lahore - Peshawar | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
 | Niazi Express | NZ-LHR-DERAISMA | Lahore - Dera Ismail Khan | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
@@ -110,7 +262,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Niazi Express | NZ-LHR-MANSEHRA | Lahore - Mansehra | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Niazi Express | NZ-LHR-ISAKHEL | Lahore - Isa Khel | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Niazi Express | NZ-LHR-LAKKIMAR | Lahore - Lakki Marwat | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
-| Niazi Express | NZ-LHR-MUZAFFAR | Lahore - Muzaffarabad | operational | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
+| Niazi Express | NZ-LHR-MUZAFFAR | Lahore - Muzaffarabad | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Niazi Express | NZ-LHR-DAHRANWA | Lahore - Dahranwala | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Niazi Express | NZ-LHR-MAROT | Lahore - Marot | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Niazi Express | NZ-LHR-THAKOT | Lahore - Thakot | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
@@ -119,6 +271,18 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Niazi Express | NZ-LHR-UET | Lahore - Quetta | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Niazi Express | NZ-LHR-FSD | Lahore - Faisalabad | unverified | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
 | Niazi Express | NZ-PEW-ISB | Peshawar - Islamabad | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Pakistan Express | DIR-BAHAWALPUR | Dir - Bahawalpur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Pakistan Express | DIR-ISLAMABAD | Dir - Islamabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Pakistan Express | DIR-LAHORE | Dir - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Pakistan Express | FAISALABAD-LAHORE | Faisalabad - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Pakistan Express | ISLAMABAD-KARACHI | Islamabad - Karachi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Pakiza Travels | CHITRALBUNI-ISLAMABAD | Chitral Buni - Islamabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Potohar Express | ISLAMABAD-BHAKKAR | Islamabad - Bhakkar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Potohar Express | ISLAMABAD-DERAISMAILKH | Islamabad - Dera Ismail Khan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Potohar Express | ISLAMABAD-KARORLALESAN | Islamabad - Karor Lal Esan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Potohar Express | ISLAMABAD-KOTADDU | Islamabad - Kot Addu | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Potohar Express | ISLAMABAD-LAYYAH | Islamabad - Layyah | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Potohar Express | ISLAMABAD-MIANWALI | Islamabad - Mianwali | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Sindh intercity provisional fares (PTA Sindh) | PTA-01 | Karachi - Hyderabad | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Sindh intercity provisional fares (PTA Sindh) | PTA-02 | Karachi - Jamshoro | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Sindh intercity provisional fares (PTA Sindh) | PTA-03 | Karachi - Sehwan Sharif | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
@@ -154,16 +318,63 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Punjab intercity approved fares | PB-LHR-ATD | Lahore - Abbottabad | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Punjab intercity approved fares | PB-LHR-SDQ | Lahore - Sadiqabad | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Punjab intercity approved fares | PB-LHR-SKR | Lahore - Sukkur | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
-| Punjab intercity approved fares | PB-RWP-KHI | Rawalpindi - Karachi | operational | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
-| Punjab intercity approved fares | PB-RWP-GRT | Rawalpindi - Gujrat | operational | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
-| Punjab intercity approved fares | PB-RWP-CKW | Rawalpindi - Chakwal | operational | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-RWP-KHI | Rawalpindi - Karachi | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-RWP-GRT | Rawalpindi - Gujrat | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Punjab intercity approved fares | PB-RWP-CKW | Rawalpindi - Chakwal | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Punjab intercity approved fares | PB-ISB-MUX | Islamabad - Multan | operational | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Q Connect | QC-LHR-ISB | Lahore - Islamabad | operational | 2 | 0% | 0% | 0% | 0% | 100% | 0 | medium |
+| Qadri Travels | ISLAMABAD-MUZAFFARABAD | Islamabad - Muzaffarabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Rajput Travels | LAHORE-KHANEWAL | Lahore - Khanewal | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Rajput Travels | LAHORE-MULTAN | Lahore - Multan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Rana Asghar Transport | KASUR-LAHORE | Kasur - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Rana Asghar Transport | KASUR-MULTAN | Kasur - Multan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Rana Jahanzaib Travels | DERAGHAZIKHA-ISLAMABAD | Dera Ghazi Khan - Islamabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Rana Jahanzaib Travels | ISLAMABAD-BHAKKAR | Islamabad - Bhakkar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Rana Jahanzaib Travels | ISLAMABAD-DERAISMAILKH | Islamabad - Dera Ismail Khan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Rana Jahanzaib Travels | ISLAMABAD-LAYYAH | Islamabad - Layyah | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Rana Jahanzaib Travels | ISLAMABAD-MIANWALI | Islamabad - Mianwali | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Rana Jahanzaib Travels | LAHORE-MULTAN | Lahore - Multan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Road Master | RM-LHR-FZB | Lahore - Islamabad (Faizabad) | operational | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
 | Road Master | RM-LHR-RWP | Lahore - Rawalpindi (Pir Wadhai) | operational | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
 | Road Master | RM-LHR-MUX | Lahore - Multan | operational | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
 | Road Master | RM-FZB-MUX | Islamabad (Faizabad) - Multan | operational | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
 | Road Master | RM-RWP-MUX | Rawalpindi - Multan | operational | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
+| Rohi Muslim Movers | HASILPUR-VEHARI | Hasilpur - Vehari | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Rohi Muslim Movers | LAHORE-BUREWALA | Lahore - Burewala | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Rohi Muslim Movers | LAHORE-HASILPUR | Lahore - Hasilpur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Rohi Muslim Movers | LAHORE-MAILSI | Lahore - Mailsi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Rohi Muslim Movers | LAHORE-VEHARI | Lahore - Vehari | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Royal Movers | KARACHI-LAHORE | Karachi - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Royal Movers | LAHORE-SADIQABAD | Lahore - Sadiqabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sada Bahar | DIR-BAHAWALPUR | Dir - Bahawalpur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sada Bahar | DIR-PESHAWAR | Dir - Peshawar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sada Bahar | KARACHI-LAHORE | Karachi - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sada Bahar | QUETTA-ISLAMABAD | Quetta - Islamabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sada Bahar | QUETTA-KARACHI | Quetta - Karachi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sada Bahar | QUETTA-LAHORE | Quetta - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sada Bahar | VEHARI-MULTAN | Vehari - Multan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sadat Travels | LAHORE-MARDAN | Lahore - Mardan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sandhu Power | BAHAWALPUR-LAHORE | Bahawalpur - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sandhu Power | BUREWALA-LAHORE | Burewala - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sandhu Power | KARORPAKA-LAHORE | Karor Paka - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sandhu Power | LAHORE-LODHRAN | Lahore - Lodhran | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sandhu Power | LAHORE-MAILSI | Lahore - Mailsi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sandhu Power | LAHORE-MANDIYAZMAN | Lahore - Mandi Yazman | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sandhu Power | LAHORE-VEHARI | Lahore - Vehari | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sandhu Power | MAILSI-LODHRAN | Mailsi - Lodhran | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sania Express | DIR-ISLAMABAD | Dir - Islamabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sania Express | LAHORE-PESHAWAR | Lahore - Peshawar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Shadi Khail Daewoo | LAHORE-MULTAN | Lahore - Multan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Shaheen Express | KARACHI-KOHAT | Karachi - Kohat | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Shaheen Express | LAHORE-KOHAT | Lahore - Kohat | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Shahid Coach | SWAT-KARACHI | Swat (Mingora) - Karachi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Shahid Coach | SWAT-LAHORE | Swat (Mingora) - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Shalimar Express | DIR-ISLAMABAD | Dir - Islamabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Shalimar Express | DIR-LAHORE | Dir - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Shalimar Express | JHANG-LAHORE | Jhang - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Shalimar Express | MURREE-SWAT | Murree - Swat (Mingora) | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Shalimar Express | SARGODHA-ISLAMABAD | Sargodha - Islamabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Shalimar Express | SARGODHA-MULTAN | Sargodha - Multan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Silk Line | SL-LHR-MULTAN | Lahore - Multan | operational | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
 | Silk Line | SL-LHR-DERAGHAZ | Lahore - Dera Ghazi Khan | operational | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
 | Silk Line | SL-LHR-BAHAWALP | Lahore - Bahawalpur | operational | 2 | 0% | 0% | 50% | 0% | 50% | 0 | low |
@@ -182,7 +393,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Silk Line | SL-LHR-JALALPUR | Lahore - Jalalpur | operational | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
 | Silk Line | SL-LHR-JHANGRA | Lahore - Jhangra | operational | 2 | 0% | 0% | 0% | 0% | 50% | 1 | low |
 | Skyways | SK-LHR-ISB | Lahore - Islamabad | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
-| Skyways | SK-LHR-MZD | Lahore - Muzaffarabad | operational | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
+| Skyways | SK-LHR-MZD | Lahore - Muzaffarabad | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Skyways | SK-LHR-KHW | Lahore - Khanewal - Bahawalpur | operational | 3 | 33% | 0% | 33% | 33% | 0% | 0 | low |
 | Skyways | SK-ISB-KHI | Islamabad - Karachi | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
 | Skyways | SK-ISB-MUX | Islamabad - Multan | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
@@ -194,8 +405,12 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Skyways | SK-SWL-KHI | Sahiwal - Karachi | operational | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
 | Skyways | SK-LHR-KHI | Lahore - Karachi | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
 | Skyways | SK-PEW-ISB | Peshawar - Islamabad | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
-| Skyways | SK-ISB-MZD | Islamabad - Muzaffarabad | operational | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
+| Skyways | SK-ISB-MZD | Islamabad - Muzaffarabad | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Skyways | SK-LHR-SGD | Lahore - Sargodha | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| STC Transit | KARACHI-ISLAMABAD | Karachi - Islamabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| STC Transit | KARACHI-MULTAN | Karachi - Multan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sufi Coaches | LAHORE-MARDAN | Lahore - Mardan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Umair Movers | KARACHI-KHAIRPUR | Karachi - Khairpur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Waraich Express | WR-LHR-KHI | Lahore - Karachi | unverified | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
 | Waraich Express | WR-KHI-ISB | Karachi - Islamabad | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
 | Waraich Express | WR-LHR-SKR | Lahore - Sukkur | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
@@ -204,32 +419,33 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Waraich Express | WR-LHR-MUX | Lahore - Multan | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
 | Waraich Express | WR-KHI-SKT | Karachi - Sialkot | unverified | 2 | 0% | 0% | 50% | 0% | 50% | 0 | low |
 | Waraich Express | WR-KHI-SWT | Karachi - Mingora (Swat) | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
-| Pakistan Railways | 10DN | Allama Iqbal Express: Sialkot Junction - Karachi Cantonment | operational | 37 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 9UP | Allama Iqbal Express: Karachi Cantonment - Sialkot Junction | operational | 38 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Yousaf Transport Company | LAHORE-MARDAN | Lahore - Mardan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Pakistan Railways | 10DN | Allama Iqbal Express: Sialkot Junction - Karachi Cantonment | operational | 36 | 97% | 0% | 0% | 3% | 0% | 0 | high |
+| Pakistan Railways | 9UP | Allama Iqbal Express: Karachi Cantonment - Sialkot Junction | operational | 37 | 97% | 0% | 0% | 3% | 0% | 0 | high |
 | Pakistan Railways | 202DN | Attock Passenger: Attock City Junction - Mari Indus | operational | 18 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 201UP | Attock Passenger: Mari Indus - Attock City Junction | operational | 18 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 14DN | Awam Express: Peshawar Cantonment - Karachi Cantonment | operational | 62 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 13UP | Awam Express: Karachi Cantonment - Peshawar Cantonment | operational | 62 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 14DN | Awam Express: Peshawar Cantonment - Karachi Cantonment | operational | 62 | 97% | 0% | 0% | 2% | 2% | 0 | medium |
+| Pakistan Railways | 13UP | Awam Express: Karachi Cantonment - Peshawar Cantonment | operational | 63 | 97% | 0% | 0% | 2% | 2% | 0 | medium |
 | Pakistan Railways | 112DN | Badar Express: Lahore Junction - Faisalabad | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 111UP | Badar Express: Faisalabad - Lahore Junction | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 26DN | Bahauddin Zakria Express: Multan Cantonment - Karachi City | operational | 26 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 25UP | Bahauddin Zakria Express: Karachi City - Multan Cantonment | operational | 26 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 26DN | Bahauddin Zakria Express: Multan Cantonment - Karachi City | operational | 26 | 96% | 0% | 0% | 0% | 4% | 0 | high |
+| Pakistan Railways | 25UP | Bahauddin Zakria Express: Karachi City - Multan Cantonment | operational | 27 | 96% | 0% | 0% | 0% | 4% | 0 | high |
 | Pakistan Railways | 4DN | Bolan Mail: Quetta - Karachi City | operational | 25 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 3UP | Bolan Mail: Karachi City - Quetta | operational | 24 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 350DN | Chaman Mixed: Chaman - Quetta | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 349UP | Chaman Mixed: Quetta - Chaman | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 136DN | Chenab Express: Lala Musa Junction - Sargodha Junction | operational | 17 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 135UP | Chenab Express: Sargodha Junction - Lala Musa Junction | operational | 18 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 210DN | Faiz Ahmed Faiz Passenger: Narowal Junction - Lahore Junction | operational | 12 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 209UP | Faiz Ahmed Faiz Passenger: Lahore Junction - Narowal Junction | operational | 12 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 38DN | Fareed Express: Lahore Junction - Karachi City | operational | 46 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 37UP | Fareed Express: Karachi City - Lahore Junction | operational | 45 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 136DN | Chenab Express: Lala Musa Junction - Sargodha Junction | operational | 18 | 94% | 0% | 0% | 0% | 6% | 0 | high |
+| Pakistan Railways | 135UP | Chenab Express: Sargodha Junction - Lala Musa Junction | operational | 18 | 94% | 0% | 0% | 0% | 6% | 0 | high |
+| Pakistan Railways | 210DN | Faiz Ahmed Faiz Passenger: Narowal Junction - Lahore Junction | operational | 12 | 92% | 0% | 0% | 8% | 0% | 0 | high |
+| Pakistan Railways | 209UP | Faiz Ahmed Faiz Passenger: Lahore Junction - Narowal Junction | operational | 12 | 92% | 0% | 0% | 8% | 0% | 0 | high |
+| Pakistan Railways | 38DN | Fareed Express: Lahore Junction - Karachi City | operational | 46 | 98% | 0% | 0% | 2% | 0% | 0 | high |
+| Pakistan Railways | 37UP | Fareed Express: Karachi City - Lahore Junction | operational | 45 | 98% | 0% | 0% | 2% | 0% | 0 | high |
 | Pakistan Railways | 114DN | Ghouri Express: Lahore Junction - Faisalabad | operational | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 113UP | Ghouri Express: Faisalabad - Lahore Junction | operational | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 5UP | Green Line: Karachi Cantonment - Margalla | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 6DN | Green Line: Margalla - Karachi Cantonment | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 12DN | Hazara Express: Havelian - Karachi City | operational | 54 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 11UP | Hazara Express: Karachi City - Havelian | operational | 54 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 12DN | Hazara Express: Havelian - Karachi City | operational | 56 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 11UP | Hazara Express: Karachi City - Havelian | operational | 55 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 108DN | Islamabad Express: Margalla - Lahore Junction | operational | 4 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 107UP | Islamabad Express: Lahore Junction - Rawalpindi | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 40DN | Jaffar Express: Peshawar Cantonment - Quetta | operational | 43 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
@@ -242,30 +458,30 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Pakistan Railways | 41UP | Karakoram Express: Karachi Cantonment - Lahore Junction | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 2DN | Khyber Mail: Peshawar Cantonment - Karachi Cantonment | operational | 43 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 1UP | Khyber Mail: Karachi Cantonment - Peshawar Cantonment | operational | 44 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 126DN | Lasani Express: Sialkot Junction - Lahore Junction | operational | 18 | 94% | 0% | 0% | 0% | 6% | 0 | high |
-| Pakistan Railways | 125UP | Lasani Express: Lahore Junction - Sialkot Junction | operational | 18 | 94% | 0% | 0% | 0% | 6% | 0 | high |
+| Pakistan Railways | 126DN | Lasani Express: Sialkot Junction - Lahore Junction | operational | 18 | 83% | 0% | 0% | 11% | 6% | 0 | high |
+| Pakistan Railways | 125UP | Lasani Express: Lahore Junction - Sialkot Junction | operational | 18 | 83% | 0% | 0% | 11% | 6% | 0 | high |
 | Pakistan Railways | 336DN | Marvi Passenger: Mirpur Khas - Khokhropar | operational | 17 | 88% | 0% | 0% | 0% | 12% | 0 | medium |
 | Pakistan Railways | 335UP | Marvi Passenger: Khokhropar - Mirpur Khas | operational | 18 | 94% | 0% | 0% | 0% | 6% | 0 | medium |
-| Pakistan Railways | 128DN | Mehr Express: Rawalpindi - Multan Cantonment | operational | 37 | 97% | 0% | 0% | 0% | 3% | 0 | high |
-| Pakistan Railways | 127UP | Mehr Express: Multan Cantonment - Rawalpindi | operational | 37 | 95% | 0% | 0% | 3% | 3% | 0 | high |
+| Pakistan Railways | 128DN | Mehr Express: Rawalpindi - Multan Cantonment | operational | 37 | 92% | 0% | 0% | 3% | 5% | 0 | high |
+| Pakistan Railways | 127UP | Mehr Express: Multan Cantonment - Rawalpindi | operational | 37 | 92% | 0% | 0% | 3% | 5% | 0 | high |
 | Pakistan Railways | 149UP | Mehran Express: Karachi City - Mirpur Khas | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | 150DN | Mehran Express: Mirpur Khas - Karachi City | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 18DN | Millat Express: Lala Musa Junction - Karachi Cantonment | operational | 36 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 17UP | Millat Express: Karachi Cantonment - Lala Musa Junction | operational | 35 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 18DN | Millat Express: Lala Musa Junction - Karachi Cantonment | operational | 36 | 97% | 0% | 0% | 0% | 3% | 0 | medium |
+| Pakistan Railways | 17UP | Millat Express: Karachi Cantonment - Lala Musa Junction | operational | 35 | 97% | 0% | 0% | 0% | 3% | 0 | medium |
 | Pakistan Railways | 116DN | Musa Pak Express: Lahore Junction - Multan Cantonment | operational | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 115UP | Musa Pak Express: Multan Cantonment - Lahore Junction | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 44DN | Shah Hussain Express: Lahore Junction - Karachi Cantonment | unverified | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 43UP | Shah Hussain Express: Karachi Cantonment - Lahore Junction | unverified | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 46DN | Pakistan Express: Rawalpindi - Karachi Cantonment | operational | 32 | 94% | 0% | 3% | 0% | 3% | 0 | high |
-| Pakistan Railways | 45UP | Pakistan Express: Karachi Cantonment - Rawalpindi | operational | 33 | 94% | 0% | 3% | 0% | 3% | 0 | medium |
+| Pakistan Railways | 46DN | Pakistan Express: Rawalpindi - Karachi Cantonment | operational | 33 | 94% | 0% | 3% | 0% | 3% | 0 | high |
+| Pakistan Railways | 45UP | Pakistan Express: Karachi Cantonment - Rawalpindi | operational | 34 | 94% | 0% | 3% | 0% | 3% | 0 | medium |
 | Pakistan Railways | 122DN | Ravi Express: Lahore Junction - Shorkot Cantonment Junction | operational | 15 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | 121UP | Ravi Express: Shorkot Cantonment Junction - Lahore Junction | operational | 15 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | 106DN | Rawal Express: Rawalpindi - Lahore Junction | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | 105UP | Rawal Express: Lahore Junction - Rawalpindi | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | 268DN | Rawalpindi Passenger: Havelian - Rawalpindi | operational | 9 | 89% | 0% | 0% | 11% | 0% | 0 | medium |
 | Pakistan Railways | 267UP | Rawalpindi Passenger: Rawalpindi - Havelian | operational | 9 | 89% | 0% | 0% | 11% | 0% | 0 | medium |
-| Pakistan Railways | 156DN | Saman Sarkar Express: Mirpur Khas - Hyderabad Junction | operational | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 155UP | Saman Sarkar Express: Hyderabad Junction - Mirpur Khas | operational | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 156DN | Saman Sarkar Express: Mirpur Khas - Hyderabad Junction | operational | 5 | 80% | 0% | 0% | 0% | 20% | 0 | medium |
+| Pakistan Railways | 155UP | Saman Sarkar Express: Hyderabad Junction - Mirpur Khas | operational | 5 | 80% | 0% | 0% | 0% | 20% | 0 | medium |
 | Pakistan Railways | 151UP | Shah Latif Express: Karachi City - Mirpur Khas | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | 152DN | Shah Latif Express: Mirpur Khas - Karachi City | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | 226DN | Shaheen Passenger: Sialkot Junction - Wazirabad Junction | operational | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
@@ -273,21 +489,21 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Pakistan Railways | 28DN | Shalimar Express: Lahore Junction - Karachi Cantonment | operational | 14 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 27UP | Shalimar Express: Karachi Cantonment - Lahore Junction | operational | 14 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 104DN | Subak Kharam: Rawalpindi - Lahore Junction | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 103UP | Subak Kharam: Lahore Junction - Rawalpindi | operational | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 103UP | Subak Kharam: Lahore Junction - Rawalpindi | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 102DN | Subak Raftar: Rawalpindi - Lahore Junction | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 101UP | Subak Raftar: Lahore Junction - Rawalpindi | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 146DN | Sukkur Express: Jacobabad Junction - Karachi City | operational | 22 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 145UP | Sukkur Express: Karachi City - Jacobabad Junction | operational | 22 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 146DN | Sukkur Express: Jacobabad Junction - Karachi City | operational | 22 | 95% | 0% | 0% | 5% | 0% | 0 | high |
+| Pakistan Railways | 145UP | Sukkur Express: Karachi City - Jacobabad Junction | operational | 23 | 96% | 0% | 0% | 4% | 0% | 0 | high |
 | Pakistan Railways | 8DN | Tezgam: Rawalpindi - Karachi Cantonment | operational | 31 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 7UP | Tezgam: Karachi Cantonment - Rawalpindi | operational | 30 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 130DN | Thall Express: Rawalpindi - Multan Cantonment | operational | 40 | 95% | 0% | 0% | 5% | 0% | 0 | medium |
-| Pakistan Railways | 129UP | Thall Express: Multan Cantonment - Rawalpindi | operational | 40 | 98% | 0% | 0% | 0% | 3% | 0 | medium |
+| Pakistan Railways | 130DN | Thall Express: Rawalpindi - Multan Cantonment | operational | 40 | 93% | 0% | 0% | 3% | 5% | 0 | medium |
+| Pakistan Railways | 129UP | Thall Express: Multan Cantonment - Rawalpindi | operational | 40 | 93% | 0% | 0% | 3% | 5% | 0 | medium |
 | Pakistan Railways | 211UP | Narowal Passenger: Lahore Junction - Narowal Junction | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | 212DN | Narowal Passenger: Narowal Junction - Lahore Junction | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 133UP | Kohat Express: Rawalpindi - Kohat Cantonment | operational | 12 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 133UP | Kohat Express: Rawalpindi - Kohat Cantonment | operational | 12 | 83% | 0% | 0% | 0% | 17% | 0 | high |
 | Pakistan Railways | 134DN | Kohat Express: Kohat Cantonment - Rawalpindi | operational | 13 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 47UP | Rehman Baba Express: Karachi Cantonment - Peshawar Cantonment | operational | 38 | 97% | 0% | 0% | 0% | 3% | 0 | medium |
-| Pakistan Railways | 48DN | Rehman Baba Express: Peshawar Cantonment - Karachi Cantonment | operational | 37 | 97% | 0% | 0% | 0% | 3% | 0 | medium |
+| Pakistan Railways | 47UP | Rehman Baba Express: Karachi Cantonment - Peshawar Cantonment | operational | 39 | 97% | 0% | 0% | 0% | 3% | 0 | medium |
+| Pakistan Railways | 48DN | Rehman Baba Express: Peshawar Cantonment - Karachi Cantonment | operational | 39 | 97% | 0% | 0% | 0% | 3% | 0 | medium |
 | Pakistan Railways | 213UP | Mohinjo Daro Passenger: Kotri Junction - Rohri Junction | operational | 24 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | 214DN | Mohinjo Daro Passenger: Rohri Junction - Kotri Junction | operational | 24 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | PDK1UPDN | PDK Shuttle: Pind Dadn Khan - Malakwal Junction | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
@@ -304,6 +520,11 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Pakistan Railways | 36DN | Sir Sayyed Express: Rawalpindi - Karachi City | suspended | 14 | 93% | 0% | 0% | 0% | 7% | 0 | medium |
 | Pakistan Railways | 147UP | Mianwali Express: Mari Indus - Lahore Junction | operational | 16 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 148DN | Mianwali Express: Lahore Junction - Mari Indus | operational | 16 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | S2DN | Shuttle: Lala Musa Junction - Sargodha Junction | operational | 16 | 94% | 0% | 0% | 0% | 6% | 0 | high |
+| Pakistan Railways | S3UP | Shuttle: Pind Dadn Khan - Lala Musa Junction | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | S4DN | Shuttle: Malakwal Junction - Pind Dadn Khan | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 171UP | Passenger: Lahore Junction - Wazirabad Junction | operational | 13 | 92% | 0% | 0% | 8% | 0% | 0 | high |
+| Pakistan Railways | 172DN | Passenger: Wazirabad Junction - Lahore Junction | operational | 15 | 93% | 0% | 0% | 7% | 0% | 0 | high |
 
 ## Karachi
 
@@ -1718,6 +1939,9 @@ These routes have the most stops without a verified position. Adding real coordi
 
 ## Build warnings
 
+- intercity-baloch-transport/LAHORE-CHOWKMUNDA: 1 stop(s) without coordinates are left out of the map
+- intercity-baloch-transport/LAHORE-CHOWKMUNDA: fewer than 2 located stops, listed without a map line
+- intercity-geo-swat-express/SWAT-MINGORA: located stops are too close together to draw a line; listed as information only
 - intercity-silk-line/SL-LHR-JHANGRA: 1 stop(s) without coordinates are left out of the map
 - intercity-silk-line/SL-LHR-JHANGRA: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/J-1: stops do not follow the routed shape in order; using straight segments

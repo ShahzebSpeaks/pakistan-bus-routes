@@ -1,0 +1,93 @@
+{
+  "id": "intercity-afsar-khan-travels",
+  "city": "intercity",
+  "name": "Afsar Khan Travels",
+  "name_ur": "",
+  "operator": "Afsar Khan Travels",
+  "mode": "intercity_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash or online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": null,
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "last_verified": "2026-09-24",
+  "sources": [
+    {
+      "title": "Afsar Khan Travels timetable",
+      "url": "https://pkbuses.com/bus-timings/afsar-khan-travels",
+      "publisher": "pkbuses.com",
+      "date": "2026-09-24",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "BUNER-KARACHI",
+      "name": "Buner - Karachi",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Buner",
+          "name_ur": "",
+          "lat": 34.4947,
+          "lon": 72.4739,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Afsar Khan Travels timetable",
+          "url": "https://pkbuses.com/bus-timings/afsar-khan-travels"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Buner",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/afsar-khan-travels",
+          "as_of": "6 Jun 2026"
+        },
+        {
+          "from": "Karachi",
+          "times": [
+            "10:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/afsar-khan-travels",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    }
+  ]
+}

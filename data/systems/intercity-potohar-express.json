@@ -1,0 +1,346 @@
+{
+  "id": "intercity-potohar-express",
+  "city": "intercity",
+  "name": "Potohar Express",
+  "name_ur": "",
+  "operator": "Potohar Express",
+  "mode": "intercity_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash or online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": null,
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "last_verified": "2026-09-24",
+  "sources": [
+    {
+      "title": "Potohar Express timetable",
+      "url": "https://pkbuses.com/bus-timings/potohar-express",
+      "publisher": "pkbuses.com",
+      "date": "2026-09-24",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "ISLAMABAD-BHAKKAR",
+      "name": "Islamabad - Bhakkar",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Bhakkar",
+          "name_ur": "",
+          "lat": 31.6221,
+          "lon": 71.0651,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Potohar Express timetable",
+          "url": "https://pkbuses.com/bus-timings/potohar-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "08:00",
+            "20:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/potohar-express",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "ISLAMABAD-DERAISMAILKH",
+      "name": "Islamabad - Dera Ismail Khan",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Dera Ismail Khan",
+          "name_ur": "",
+          "lat": 31.82753,
+          "lon": 70.90909,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Potohar Express timetable",
+          "url": "https://pkbuses.com/bus-timings/potohar-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "07:00",
+            "21:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/potohar-express",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "ISLAMABAD-KARORLALESAN",
+      "name": "Islamabad - Karor Lal Esan",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Karor Lal Esan",
+          "name_ur": "",
+          "lat": 31.23011,
+          "lon": 70.94755,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Potohar Express timetable",
+          "url": "https://pkbuses.com/bus-timings/potohar-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "07:30",
+            "19:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/potohar-express",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "ISLAMABAD-KOTADDU",
+      "name": "Islamabad - Kot Addu",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Kot Addu",
+          "name_ur": "",
+          "lat": 30.46926,
+          "lon": 70.96788,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Potohar Express timetable",
+          "url": "https://pkbuses.com/bus-timings/potohar-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "06:30",
+            "22:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/potohar-express",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "ISLAMABAD-LAYYAH",
+      "name": "Islamabad - Layyah",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Layyah",
+          "name_ur": "",
+          "lat": 30.9681,
+          "lon": 70.9434,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Potohar Express timetable",
+          "url": "https://pkbuses.com/bus-timings/potohar-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "06:00",
+            "10:00",
+            "21:30"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/potohar-express",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "ISLAMABAD-MIANWALI",
+      "name": "Islamabad - Mianwali",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Mianwali",
+          "name_ur": "",
+          "lat": 32.5794,
+          "lon": 71.5353,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Potohar Express timetable",
+          "url": "https://pkbuses.com/bus-timings/potohar-express"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Islamabad",
+          "times": [
+            "08:30",
+            "18:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/potohar-express",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    }
+  ]
+}

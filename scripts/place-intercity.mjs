@@ -2,7 +2,8 @@
 // Stops are named like "Road Master Terminal, Faizabad, Islamabad" or just "Larkana". The place
 // name (last comma part, brackets removed) is looked up in data/cities.json, then Nominatim
 // (towns and cities only, cached in data/cache/places.json). The same check also corrects
-// automatic positions that ended up more than 25 km from the town the stop is named after
+// automatic positions that ended up far from the town the stop is named after (10 km for a bare
+// town name, 25 km for a named terminal)
 // (bare names like "Hyderabad" often match a village elsewhere).
 //   plain place name        -> coord_source "auto:nominatim" (the stop is the town itself)
 //   named terminal/address  -> coord_source "auto:city" (shown as estimated: town centre, not the terminal)
@@ -30,6 +31,9 @@ const FIXES = {
   Sikandrabad: [36.24254, 74.37484],
   // OSM way 506998382 (Marot Fort); the town has no point of its own in OSM
   Marot: [29.17702, 72.43446],
+  // Buses go to the main town, not the middle of the district that Nominatim returns.
+  Swat: [34.7717, 72.3602], Hunza: [36.3167, 74.65], Buner: [34.4947, 72.4739],
+  'Haripur Hazara': [33.9942, 72.9333], 'Karor Paka': [29.6264, 71.9206], Tarbela: [34.0706, 72.6931],
 };
 
 const known = new Map();
@@ -74,7 +78,8 @@ for (const [file, s] of systems) {
     if (!pos) { if (st.lat == null) failed.push(st.name); continue; }
     known.set(key(place), pos);
     if (st.lat != null) {
-      if (km([st.lat, st.lon], pos) <= 25) continue;
+      // A stop named after a town should be at the town; a named terminal may be on its edge.
+      if (km([st.lat, st.lon], pos) <= (st.name.includes(',') ? 25 : 10)) continue;
       moved++;
     }
     st.lat = Math.round(pos[0] * 1e5) / 1e5;

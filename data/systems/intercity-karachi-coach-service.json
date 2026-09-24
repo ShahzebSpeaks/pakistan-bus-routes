@@ -1,0 +1,339 @@
+{
+  "id": "intercity-karachi-coach-service",
+  "city": "intercity",
+  "name": "Karachi Coach Service",
+  "name_ur": "",
+  "operator": "Karachi Coach Service",
+  "mode": "intercity_bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash or online booking",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": null,
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "last_verified": "2026-09-24",
+  "sources": [
+    {
+      "title": "Karachi Coach Service timetable",
+      "url": "https://pkbuses.com/bus-timings/karachi-coach-service",
+      "publisher": "pkbuses.com",
+      "date": "2026-09-24",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "KARACHI-ABBOTTABAD",
+      "name": "Karachi - Abbottabad",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Abbottabad",
+          "name_ur": "",
+          "lat": 34.1688,
+          "lon": 73.2215,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Karachi Coach Service timetable",
+          "url": "https://pkbuses.com/bus-timings/karachi-coach-service"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Karachi",
+          "times": [
+            "18:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/karachi-coach-service",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "KARACHI-ISLAMABAD",
+      "name": "Karachi - Islamabad",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Islamabad",
+          "name_ur": "",
+          "lat": 33.69381,
+          "lon": 73.06515,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Karachi Coach Service timetable",
+          "url": "https://pkbuses.com/bus-timings/karachi-coach-service"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Karachi",
+          "times": [
+            "08:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/karachi-coach-service",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "KARACHI-LAHORE",
+      "name": "Karachi - Lahore",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Lahore",
+          "name_ur": "",
+          "lat": 31.5204,
+          "lon": 74.3587,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Karachi Coach Service timetable",
+          "url": "https://pkbuses.com/bus-timings/karachi-coach-service"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Karachi",
+          "times": [
+            "09:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/karachi-coach-service",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "KARACHI-LARKANA",
+      "name": "Karachi - Larkana",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Larkana",
+          "name_ur": "",
+          "lat": 27.557,
+          "lon": 68.2264,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Karachi Coach Service timetable",
+          "url": "https://pkbuses.com/bus-timings/karachi-coach-service"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Karachi",
+          "times": [
+            "07:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/karachi-coach-service",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "KARACHI-MANSEHRA",
+      "name": "Karachi - Mansehra",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Mansehra",
+          "name_ur": "",
+          "lat": 34.32869,
+          "lon": 73.19931,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Karachi Coach Service timetable",
+          "url": "https://pkbuses.com/bus-timings/karachi-coach-service"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Karachi",
+          "times": [
+            "18:00"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/karachi-coach-service",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    },
+    {
+      "id": "KARACHI-SUKKUR",
+      "name": "Karachi - Sukkur",
+      "name_ur": "",
+      "variant": "express",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Karachi",
+          "name_ur": "",
+          "lat": 24.895,
+          "lon": 67.06,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        },
+        {
+          "name": "Sukkur",
+          "name_ur": "",
+          "lat": 27.7052,
+          "lon": 68.8574,
+          "coord_source": "auto:nominatim",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Karachi Coach Service timetable",
+          "url": "https://pkbuses.com/bus-timings/karachi-coach-service"
+        }
+      ],
+      "notes": "Listed with departure times on pkbuses.com; the operator's terminals are not named there.",
+      "departures": [
+        {
+          "from": "Karachi",
+          "times": [
+            "08:30"
+          ],
+          "official": false,
+          "source_url": "https://pkbuses.com/bus-timings/karachi-coach-service",
+          "as_of": "6 Jun 2026"
+        }
+      ]
+    }
+  ]
+}

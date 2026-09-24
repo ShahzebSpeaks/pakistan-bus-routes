@@ -101,6 +101,8 @@ export interface Route {
   cum_km: number[];
   /** Scheduled time ("HH:MM") at each stop, for timetabled services such as trains; null where unknown. */
   stop_times?: (string | null)[];
+  /** Published departure times per starting town, for services without a stop-by-stop timetable. */
+  departures?: { from: string; times: string[]; official: boolean; source_url: string; as_of: string | null }[];
   /** Google encoded polyline (precision 5) */
   shape: string;
   shape_source: 'osrm' | 'osm' | 'straight';

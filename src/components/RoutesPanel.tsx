@@ -259,6 +259,21 @@ export function RouteDetail({ data, route, lang, t, selectedStopId, onBack, onSt
           </div>
         )}
       </dl>
+      {route.departures && route.departures.length > 0 && (
+        <section className="departures">
+          <h3>{t.departuresTitle}</h3>
+          {route.departures.map((d) => (
+            <p key={`${d.from}-${d.source_url}`}>
+              <strong>{d.from}</strong>:{' '}
+              <span dir="ltr">{d.times.join(', ')}</span>{' '}
+              <a className="muted" href={d.source_url} target="_blank" rel="noopener">
+                ({d.official ? t.officialSource : t.unofficialSource}
+                {d.as_of ? `, ${d.as_of}` : ''})
+              </a>
+            </p>
+          ))}
+        </section>
+      )}
       {route.fare?.concessions && <p className="note">{route.fare.concessions}</p>}
       {!route.shape && <p className="note warn">{t.noMapLine}</p>}
       {approxStops > 0 && (

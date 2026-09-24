@@ -122,7 +122,7 @@ for (const city of cities) {
           headway_min: r.headway_min ?? null, hours: r.hours || (sys.hours ? { start: sys.hours.start || null, end: sys.hours.end || null } : null),
           fare: fare0, women_only: Boolean(r.women_only), launched: r.launched || null, stops: cityStops.map((s) => s.id),
           cum_km: cityStops.map(() => 0), shape: '', shape_source: 'straight', stops_confidence: r.stops_confidence || 'low',
-          sources: r.sources || [], notes: [r.notes, r.stops.length ? `Stops without locations: ${r.stops.filter((s) => s.lat == null).map((s) => s.name).join(', ')}` : ''].filter(Boolean).join('\n\n'),
+          sources: r.sources || [], ...(r.departures ? { departures: r.departures } : {}), notes: [r.notes, r.stops.length ? `Stops without locations: ${r.stops.filter((s) => s.lat == null).map((s) => s.name).join(', ')}` : ''].filter(Boolean).join('\n\n'),
         });
         for (const s of cityStops) if (!s.routes.includes(routeIndex)) s.routes.push(routeIndex);
         continue;
@@ -167,7 +167,7 @@ for (const city of cities) {
           headway_min: r.headway_min ?? null, hours: r.hours || (sys.hours ? { start: sys.hours.start || null, end: sys.hours.end || null } : null),
           fare: fare0, women_only: Boolean(r.women_only), launched: r.launched || null, stops: cityStops.map((s) => s.id),
           cum_km: cityStops.map(() => 0), shape: '', shape_source: 'straight', stops_confidence: r.stops_confidence || 'low',
-          sources: r.sources || [], notes: r.notes || '',
+          sources: r.sources || [], ...(r.departures ? { departures: r.departures } : {}), notes: r.notes || '',
         });
         for (const s of cityStops) if (!s.routes.includes(routeIndex)) s.routes.push(routeIndex);
         continue;
@@ -185,7 +185,7 @@ for (const city of cities) {
         status: r.status, length_km: r.length_km ?? +(cum.at(-1)).toFixed(1), headway_min: r.headway_min ?? null, hours,
         fare, women_only: Boolean(r.women_only), launched: r.launched || null, stops: cityStops.map((s) => s.id), cum_km: cum,
         shape: encodePolyline(line), shape_source: shapeSource, stops_confidence: r.stops_confidence || 'low',
-        sources: r.sources || [], notes: r.notes || '', ...(times ? { stop_times: cityTimes } : {}),
+        sources: r.sources || [], ...(r.departures ? { departures: r.departures } : {}), notes: r.notes || '', ...(times ? { stop_times: cityTimes } : {}),
       });
       for (const s of cityStops) if (!s.routes.includes(routeIndex)) s.routes.push(routeIndex);
 
