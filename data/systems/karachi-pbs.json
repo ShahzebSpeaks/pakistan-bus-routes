@@ -394,6 +394,10 @@
         {
           "title": "Karachi Smart Transit System (MIT): R1",
           "url": "https://github.com/FAST-Dev-Team-Semester-Projects"
+        },
+        {
+          "title": "mnzil: R-01",
+          "url": "https://mnzil.app/vehicles/R-01"
         }
       ],
       "notes": "Inaugurated 27 Jun 2022 as Model Colony - Tower; later extended to Khokhrapar and Dockyard. SMTA 2026 directory: 31 km, 'Khokharapar 04 to Dockyard' via Saudabad, Model Colony, Malir Halt ... Metropole Hotel, Press Club, I.I. Chundrigar Road, Tower, ICI Flyover. Think Transportation (Feb 2025, 28 km) instead lists RCD Ground, Kalaboard, Drigh Road, Lal Kothi, Fawwara Chowk, Arts Council, Shaheen Complex, Fisheries. Merged; position of Model Colony relative to RCD Ground/Kalaboard is uncertain. SMTA classifies R1 under 'Pink Bus' (mixed red and pink fleet). Think Transportation/redbus.shop list Lal Kothi before Karsaz; the OSM 'Lal Kothi Stop' node projects between Karsaz and Nursery on the reference polyline, so it is placed after Karsaz here."
@@ -590,6 +594,10 @@
         {
           "title": "Karachi Smart Transit System (MIT): R2",
           "url": "https://github.com/FAST-Dev-Team-Semester-Projects"
+        },
+        {
+          "title": "mnzil: R-02",
+          "url": "https://mnzil.app/vehicles/R-02"
         }
       ],
       "notes": "SMTA 2026: 'North Karachi to Korangi Crossing', 31 km, via Korangi No. 5, Nasir Jump, Indus Hospital. Think Transportation/redbus.shop/rehbar.pk end at Indus Hospital (30 km) and add UP Mor and Khaddi Stop; reference polyline (Feb 2025) ends at Korangi Crossing. SMTA lists Nata Khan before Colony Gate; OSM positions confirm Drigh Road -> Natha Khan -> Colony Gate. Khaddi Stop vs Korangi No. 5 order unverified. Also run with pink buses."
@@ -748,9 +756,9 @@
         {
           "name": "Akhtar Colony",
           "name_ur": "",
-          "lat": 24.838694,
-          "lon": 67.064472,
-          "coord_source": "auto:interpolated",
+          "lat": 24.834537,
+          "lon": 67.07255,
+          "coord_source": "ext:mnzil:R-03",
           "is_station": false
         },
         {
@@ -798,6 +806,10 @@
         {
           "title": "Karachi Smart Transit System (MIT): R3",
           "url": "https://github.com/FAST-Dev-Team-Semester-Projects"
+        },
+        {
+          "title": "mnzil: R-03",
+          "url": "https://mnzil.app/vehicles/R-03"
         }
       ],
       "notes": "SMTA 2026: 'North Karachi to Nasir Jump', 32 km, via Five Star Chowrangi, Board Office, Nazimabad Petrol Pump, Essa Nagri, National Stadium, Karsaz, Nursery, FTC, Kala Pull, Akhtar Colony, Shan Chowrangi. Think Transportation adds UP Mor, Sakhi Hasan, KDA Chowrangi, Eidgah Ground, Liaquatabad No. 10, Civic Centre, KPT Interchange ('Korangi Road' omitted as a road name). Petrol Pump vs Eidgah order unverified. Temporarily diverted on Champions Trophy match days, Feb-Mar 2025 (Daily Jang). rehbar.pk gives a different, probably outdated list via Johar Mor/Shah Faisal. Also run with pink buses."
@@ -1042,6 +1054,10 @@
         {
           "title": "Karachi Smart Transit System (MIT): R4",
           "url": "https://github.com/FAST-Dev-Team-Semester-Projects"
+        },
+        {
+          "title": "mnzil: R-04",
+          "url": "https://mnzil.app/vehicles/R-04"
         }
       ],
       "notes": "SMTA 2026: 'North Karachi to Kemari', 26 km, via Ayesha Manzil, Lalukhait, Teen Hatti, Jahangir Road, Guru Mandir, Numaish, Taj Complex, Sindh High Court, Tower, Jackson Market. Think Transportation (21 km) routes downtown via Mobile Market, Urdu Bazar, Civil Hospital, City Court, Light House, Bolton Market (reference polyline follows this M.A. Jinnah Road alignment). Sindh High Court (SMTA only) may belong to the other direction; position unverified. redbus.shop names the terminal 'Tower'."
@@ -1514,6 +1530,10 @@
         {
           "title": "Karachi Smart Transit System (MIT): R9",
           "url": "https://github.com/FAST-Dev-Team-Semester-Projects"
+        },
+        {
+          "title": "mnzil: R-09",
+          "url": "https://mnzil.app/vehicles/R-09"
         }
       ],
       "notes": "Length: SMTA 48 km, Think Transportation 42 km. Originally Gulshan-e-Hadeed - Malir Halt (2022), extended to Tower. Think Transportation also lists 'Salahuddin Ayubi Road' and 'National Highway 5' (road names, omitted). SMTA has Steel Town, Think Transportation Steel Mill Mor; both kept in OSM order. Also run with pink buses. Think Transportation/redbus.shop list Lal Kothi before Karsaz; the OSM 'Lal Kothi Stop' node projects between Karsaz and Nursery on the reference polyline, so it is placed after Karsaz here."
@@ -1672,9 +1692,9 @@
         {
           "name": "Akhtar Colony",
           "name_ur": "",
-          "lat": 24.827817,
-          "lon": 67.074361,
-          "coord_source": "auto:interpolated",
+          "lat": 24.834537,
+          "lon": 67.07255,
+          "coord_source": "auto:same-name:ext:mnzil:R-03",
           "is_station": false
         },
         {
@@ -1738,6 +1758,10 @@
         {
           "title": "Karachi Smart Transit System (MIT): R10",
           "url": "https://github.com/FAST-Dev-Team-Semester-Projects"
+        },
+        {
+          "title": "mnzil: R-10",
+          "url": "https://mnzil.app/vehicles/R-10"
         }
       ],
       "notes": "Originally Numaish - Sea View (12 km, 2022), later extended to Ibrahim Hyderi. SMTA 2026 (30 km): Taj Complex, Zaibunnisa Street, Zainab Market, Metropole, Frere Hall, Teen Talwar, Do Talwar, Pak Tower, Abdullah Shah Ghazi, Dolmen Mall, Clock Tower, Khayaban-e-Ittehad, Akhtar Colony, Korangi Crossing. Think Transportation adds Mobile Market, 26th Street, Masjid-e-Ayesha, Rahat Park, KPT Interchange, CBM University, PARCO. Order in the DHA section (Dolmen Mall to KPT Interchange) unverified. rehbar.pk gives an unrelated list via Lucky Star/FTC (likely wrong)."
@@ -1848,9 +1872,9 @@
         {
           "name": "Bahria Complex 3",
           "name_ur": "",
-          "lat": 24.828694,
-          "lon": 67.041773,
-          "coord_source": "auto:interpolated",
+          "lat": 24.844258,
+          "lon": 67.003371,
+          "coord_source": "ext:mnzil:R-11",
           "is_station": false
         },
         {
@@ -1930,6 +1954,10 @@
         {
           "title": "Karachi Smart Transit System (MIT): R11",
           "url": "https://github.com/FAST-Dev-Team-Semester-Projects"
+        },
+        {
+          "title": "mnzil: R-11",
+          "url": "https://mnzil.app/vehicles/R-11"
         }
       ],
       "notes": "SMTA 2026: 'Mera Naka to Ziauddin Hospital', 21 km (9 m buses), via Mauripur Road, Agra Taj Colony, KPT, Bahria Complex, PIDC, Punjabi Chowrangi, Gizri, Khayaban-e-Shamsheer, Abdullah Shah Ghazi, Bilawal Chowrangi; the reference polyline also ends at Ziauddin Hospital. Think Transportation/redbus.shop continue to Shireen Jinnah Colony (19 km) and list Gulistan Colony, Bihar Colony, Daryabad, Jinnah Bridge, M.T. Khan Road, Submarine Chowk, Bahria Complex 3, Khadda Market. Shireen Jinnah Colony omitted (not official). Clifton/DHA section order unverified. Launch year approximate."
@@ -2190,6 +2218,10 @@
         {
           "title": "Karachi Smart Transit System (MIT): R12",
           "url": "https://github.com/FAST-Dev-Team-Semester-Projects"
+        },
+        {
+          "title": "mnzil: R-12",
+          "url": "https://mnzil.app/vehicles/R-12"
         }
       ],
       "notes": "Added Aug 2023 as Khokhrapar/Naddi Kinara - Lucky Star; start extended to Memon Goth on 23 Jul 2024 (ProPakistani). SMTA 2026 (36 km): Saudabad, Khokharapar RCD Ground, Kala Board, Malir 15, Qaidabad, Dawood Chowrangi, 89 Chowrangi, Landhi, Korangi, Korangi Crossing, Qayyumabad, Kala Pull, FTC. Think Transportation starts at Naddi Kinara and adds Malir Mandir, Session Court, Murghi Khana, Babar Market, Nasir Jump, Indus Hospital, Defence Mor, NMC, Gora Qabristan, Jutt Land, Lines Area, Army Public School. The reference polyline reaches Khokhrapar after ~2.4 km, so the Memon Goth end and Naddi Kinara position are uncertain. INCPak says 'Memon Goth to Tower' (conflict)."
@@ -2486,6 +2518,10 @@
         {
           "title": "Electric bus new route starts today (Roznama Dunya)",
           "url": "https://dunya.com.pk/index.php/city/karachi/2026-03-17/2644181"
+        },
+        {
+          "title": "mnzil: R-14",
+          "url": "https://mnzil.app/vehicles/R-14"
         }
       ],
       "notes": "New EV route (15 electric buses per ARY) started 17 Mar 2026; news gives no route code. SMTA directory lists 'Route 14 - Maymar to Tower', 29 km (Dunya: 32 km), via Nawaz Sharif Park, Maymar Ext, Maymar Mor, Ahsanabad, Jamali Pull, Al-Asif, Sorab Goth, Ayesha Manzil, Lalukhait, Teen Hatti, Jahangir Road, Guru Mandar, Numaish, Taj Complex, Sindh High Court, Tower. Single-source stop list. No reference polyline: coordinates accepted only where the OSM element is within 500 m of another PBS reference polyline on the shared corridor (R4/EV4)."
@@ -2644,17 +2680,17 @@
         {
           "name": "Gold Mart",
           "name_ur": "",
-          "lat": 24.837342,
-          "lon": 67.067215,
+          "lat": 24.840588,
+          "lon": 67.060802,
           "coord_source": "auto:interpolated",
           "is_station": false
         },
         {
           "name": "Akhtar Colony",
           "name_ur": "",
-          "lat": 24.821726,
-          "lon": 67.075259,
-          "coord_source": "auto:interpolated",
+          "lat": 24.834537,
+          "lon": 67.07255,
+          "coord_source": "auto:same-name:ext:mnzil:R-03",
           "is_station": false
         },
         {
@@ -2714,6 +2750,10 @@
         {
           "title": "Karachi Smart Transit System (MIT): EV1",
           "url": "https://github.com/FAST-Dev-Team-Semester-Projects"
+        },
+        {
+          "title": "mnzil: EV-01",
+          "url": "https://mnzil.app/vehicles/EV-01"
         }
       ],
       "notes": "SMTA 2026 (41 km): CMH, Cantt Bazar, Checkpost 02, Tank Chowk, Model Colony, Malir Halt, Colony Gate, Nata Khan, PAF Base Faisal, Karsaz, Nursery, FTC, Kala Pull, Gold Mart, Akhtar Colony, Khayaban-e-Ittehad, Clock Tower, Dolmen Mall. Think Transportation (28 km) adds Jinnah Avenue, Airport, Drigh Road, Lal Kothi, 'DHA Phase 1', Masjid-e-Ayesha. The OSM 'Airport' match is a railway station and was not used. Order of Masjid-e-Ayesha unverified. Think Transportation/redbus.shop list Lal Kothi before Karsaz; the OSM 'Lal Kothi Stop' node projects between Karsaz and Nursery on the reference polyline, so it is placed after Karsaz here."
@@ -2842,6 +2882,10 @@
         {
           "title": "Karachi Smart Transit System (MIT): EV2",
           "url": "https://github.com/FAST-Dev-Team-Semester-Projects"
+        },
+        {
+          "title": "mnzil: EV-02",
+          "url": "https://mnzil.app/vehicles/EV-02"
         }
       ],
       "notes": "Length: SMTA 44 km, Think Transportation 30 km, reference polyline 39.3 km. SMTA lists Usmania, Karachi Toll Plaza, Checkpost 05/06; Think Transportation lists Baqai University, Malir Cantt Gate 5/6, Jinnah Avenue (Checkpost 5/6 = Malir Cantt gates). Terminal 'Bahria Town' OSM place node lies mid-way along the polyline, so no terminal coordinate."
@@ -3222,6 +3266,10 @@
         {
           "title": "Karachi Smart Transit System (MIT): EV4",
           "url": "https://github.com/FAST-Dev-Team-Semester-Projects"
+        },
+        {
+          "title": "mnzil: EV-04",
+          "url": "https://mnzil.app/vehicles/EV-04"
         }
       ],
       "notes": "Launched 24 Jul 2024 as 'Kathore - Numaish Chowrangi' (ProPakistani/APP); INCPak still says Bahria Town - Numaish. SMTA 2026 and reference polyline: Bahria Town - Ayesha Manzil (SMTA 58 km, Think Transportation 34 km, polyline 43 km). SMTA says 'Old Sabzi Mandi' and 'Malir Link Road'; Think Transportation and the DHA City EV-5 notice say New Sabzi Mandi (used; Malir Link Road omitted as a road name). Think Transportation puts Jamali Pul before New Sabzi Mandi; the DHA City notice order is used."
@@ -3260,33 +3308,33 @@
         {
           "name": "Kathore",
           "name_ur": "",
-          "lat": 25.007721,
-          "lon": 67.356634,
-          "coord_source": "auto:nominatim:node/10768192139",
+          "lat": 25.007296,
+          "lon": 67.356623,
+          "coord_source": "ext:mnzil:EV-05",
           "is_station": false
         },
         {
           "name": "Bahria Town Karachi",
           "name_ur": "",
-          "lat": 24.995718,
-          "lon": 67.327169,
+          "lat": 24.994676,
+          "lon": 67.324203,
           "coord_source": "auto:interpolated",
           "is_station": false
         },
         {
           "name": "Usmania",
           "name_ur": "",
-          "lat": 24.985045,
-          "lon": 67.296692,
+          "lat": 24.983084,
+          "lon": 67.29107,
           "coord_source": "auto:interpolated",
           "is_station": false
         },
         {
           "name": "Dumba Goth",
           "name_ur": "",
-          "lat": 24.978906,
-          "lon": 67.265996,
-          "coord_source": "auto:photon:N/10768174655",
+          "lat": 24.976275,
+          "lon": 67.256999,
+          "coord_source": "ext:mnzil:EV-05",
           "is_station": false
         },
         {
@@ -3362,6 +3410,10 @@
         {
           "title": "DHA City launches bus service for its residents and visitors",
           "url": "https://www.thenews.com.pk/print/1192590-dha-city-launches-bus-service-for-its-residents-and-visitors"
+        },
+        {
+          "title": "mnzil: EV-05",
+          "url": "https://mnzil.app/vehicles/EV-05"
         }
       ],
       "notes": "Launched 23 May 2024 with DHA City Karachi (initially 2 buses; SMTA notice: departures 06:00 Bahria Town and 07:00 Sohrab Goth). SMTA 2026 (48 km): M9, Kathore, Usmania, Domba Goth, Karachi Toll Plaza, Malir Link Road, Old Sabzi Mandi, Maymar Mor, Al-Asif Square. DHA City launch notice (reverse direction): Sohrab Goth, Al Asif Square, Jamali Bridge, Maymar Mor, New Sabzi Mandi, Baqai University, Karachi Toll Plaza, Dumba Goth, Bahria Town, Kathore, DHA City. Think Transportation length 41 km. Very low frequency."
@@ -3534,9 +3586,81 @@
         {
           "title": "Karachi Smart Transit System (MIT): R1",
           "url": "https://github.com/FAST-Dev-Team-Semester-Projects"
+        },
+        {
+          "title": "mnzil: R-01",
+          "url": "https://mnzil.app/vehicles/R-01"
         }
       ],
       "notes": "PBS double-decker service: open to public 1 Jan 2026 between Malir/Model Colony and Sharea Faisal (Dawn stops: Malir Halt, Airport, Colony Gate, Natha Khan Bridge, Drigh Road, Nursery, Baloch Colony, FTC), extended to Tower from 16 Feb 2026. SMTA map index code 'DD01', 24 km: Model Colony Pathak, Malir Halt, Colony Gate, Nata Khan, PAF Base Faisal, Karsaz, Nursery, FTC, Regent Plaza, Metropole Hotel, Press Club, I.I. Chundrigar Road, Tower. About 5 double-deckers imported. Fare Rs 80-120 (Dawn). Coordinates checked against the R1 reference polyline (same corridor). Variant 'regular' because propulsion not confirmed. Baloch Colony vs Nursery order from OSM positions."
+    },
+    {
+      "id": "EV-PLAN-ITTEHAD-CANTT",
+      "name": "Ittehad Town - Cantt Station (planned EV corridor)",
+      "name_ur": "",
+      "variant": "ev",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Ittehad Town",
+          "name_ur": "",
+          "lat": 24.939389,
+          "lon": 66.961173,
+          "coord_source": "auto:osm:node/6773994414",
+          "is_station": false
+        },
+        {
+          "name": "Banaras Colony",
+          "name_ur": "",
+          "lat": 24.922318,
+          "lon": 66.986984,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Liaquatabad",
+          "name_ur": "",
+          "lat": 24.905248,
+          "lon": 67.012795,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jahangir Road",
+          "name_ur": "",
+          "lat": 24.888177,
+          "lon": 67.038606,
+          "coord_source": "auto:osm:node/8320871194",
+          "is_station": false
+        },
+        {
+          "name": "Cantt Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Purchase of 500 EV buses for Karachi routes approved: Sharjeel (Business Recorder, 2026-05-19)",
+          "url": "https://www.brecorder.com/news/40421844/purchase-of-500-ev-buses-for-karachi-routes-approved-sharjeel"
+        },
+        {
+          "title": "Sindh moves to add 500 EV buses as transport network expansion accelerates (Profit, 2026-05-19)",
+          "url": "https://profit.pakistantoday.com.pk/2026/05/19/sindh-moves-to-add-500-ev-buses-as-transport-network-expansion-accelerates/"
+        }
+      ],
+      "notes": "Placeholder id (ours): no route code published. Sindh Senior Minister Sharjeel Inam Memon told the Sindh Assembly (May 2026) that the Policy Board approved 500 EV buses: 450 on 25 Karachi routes and 50 on 5 Hyderabad routes, with 4 Karachi EV depots. Corridor areas are listed in the press in this order; they are areas, not stops. Not launched as of 2026-09-24 (the SMTA directory https://smta.gos.pk/route-map still lists 20 Karachi routes: R1-R14 incl. inactive R5-R7, EV1-EV5, DD01). Aug 2026 reports speak of 1,000 EV buses by end-2026 and 50 double-deckers arriving in October 2026, without routes."
     }
   ]
 }

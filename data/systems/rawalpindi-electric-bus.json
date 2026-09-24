@@ -202,24 +202,24 @@
       "name_ur": "",
       "variant": "electric",
       "color": null,
-      "status": "unverified",
+      "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
+      "headway_min": 15,
       "hours": {
         "start": "05:50",
-        "end": "23:00"
+        "end": "22:05"
       },
       "fare_override": null,
       "women_only": false,
-      "stops_confidence": "low",
+      "stops_confidence": "high",
       "stops": [
         {
           "name": "Saddar Stop",
           "name_ur": "",
           "lat": 33.593496,
           "lon": 73.053604,
-          "coord_source": "ext:safar.fyi:rwp:172",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2005",
           "is_station": false
         },
         {
@@ -227,7 +227,7 @@
           "name_ur": "",
           "lat": 33.595572,
           "lon": 73.050866,
-          "coord_source": "ext:safar.fyi:rwp:172",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2003",
           "is_station": false
         },
         {
@@ -235,7 +235,7 @@
           "name_ur": "",
           "lat": 33.598374,
           "lon": 73.045556,
-          "coord_source": "ext:safar.fyi:rwp:172",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2691",
           "is_station": false
         },
         {
@@ -243,15 +243,15 @@
           "name_ur": "",
           "lat": 33.601095,
           "lon": 73.034335,
-          "coord_source": "ext:safar.fyi:rwp:172",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2693",
           "is_station": false
         },
         {
           "name": "Askari 11",
-          "name_ur": "عسکری 11",
+          "name_ur": "",
           "lat": 33.597804,
           "lon": 73.031093,
-          "coord_source": "ext:safar.fyi:rwp:172",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2171",
           "is_station": false
         },
         {
@@ -259,7 +259,7 @@
           "name_ur": "",
           "lat": 33.598115,
           "lon": 73.023222,
-          "coord_source": "ext:safar.fyi:rwp:172",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2169",
           "is_station": false
         },
         {
@@ -267,15 +267,15 @@
           "name_ur": "",
           "lat": 33.598226,
           "lon": 73.020389,
-          "coord_source": "ext:safar.fyi:rwp:172",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2167",
           "is_station": false
         },
         {
           "name": "Malik Azam Street",
-          "name_ur": "ملک اعظم سٹریٹ",
+          "name_ur": "",
           "lat": 33.598973,
           "lon": 73.016069,
-          "coord_source": "ext:safar.fyi:rwp:172",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2165",
           "is_station": false
         },
         {
@@ -283,7 +283,7 @@
           "name_ur": "",
           "lat": 33.600025,
           "lon": 73.01313,
-          "coord_source": "ext:safar.fyi:rwp:172",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2163",
           "is_station": false
         },
         {
@@ -291,7 +291,7 @@
           "name_ur": "",
           "lat": 33.600349,
           "lon": 73.008272,
-          "coord_source": "ext:safar.fyi:rwp:172",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2161",
           "is_station": false
         },
         {
@@ -299,7 +299,7 @@
           "name_ur": "",
           "lat": 33.600933,
           "lon": 73.003454,
-          "coord_source": "ext:safar.fyi:rwp:172",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7160",
           "is_station": false
         },
         {
@@ -307,7 +307,7 @@
           "name_ur": "",
           "lat": 33.600737,
           "lon": 72.999403,
-          "coord_source": "ext:safar.fyi:rwp:172",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2159",
           "is_station": false
         },
         {
@@ -315,7 +315,7 @@
           "name_ur": "",
           "lat": 33.600992,
           "lon": 72.995887,
-          "coord_source": "ext:safar.fyi:rwp:172",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2157",
           "is_station": false
         },
         {
@@ -323,7 +323,7 @@
           "name_ur": "",
           "lat": 33.60148,
           "lon": 72.991672,
-          "coord_source": "ext:safar.fyi:rwp:172",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3444",
           "is_station": false
         },
         {
@@ -331,7 +331,7 @@
           "name_ur": "",
           "lat": 33.601734,
           "lon": 72.985272,
-          "coord_source": "ext:safar.fyi:rwp:172",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3446",
           "is_station": false
         },
         {
@@ -339,7 +339,7 @@
           "name_ur": "",
           "lat": 33.602033,
           "lon": 72.979915,
-          "coord_source": "ext:safar.fyi:rwp:172",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2851",
           "is_station": false
         }
       ],
@@ -351,9 +351,13 @@
         {
           "title": "Rahnuma project (GitHub)",
           "url": "https://github.com/mabdullahamjad/Rahnuma"
+        },
+        {
+          "title": "eTransit Punjab (PMA) route planner, line 26, route 172 'Saddar Stop to Bhatta Chowk' (get-line-schedules, forward direction, fetched 2026-09-24)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Extension of Saddar - Qabristan Chowk to Bhatta Chowk (Bakra Mandi) listed on Safar (16 stops, 05:50-23:00); some reports call the Phase-I route \"Saddar to Bhatta Chowk\". Relationship with RWP-EB-01 unclear. Provisional id.\n\nAlso listed as R-10 in the Rahnuma project."
+      "notes": "Official PMA/eTransit stop list, forward direction 'Saddar Stop to Bhatta Chowk' (16 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 0 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. Status upgraded from unverified: listed by PMA eTransit (RFR-EV line). Stop list identical to the existing one."
     },
     {
       "id": "RWP-EB-02",
@@ -890,25 +894,25 @@
     },
     {
       "id": "RWP-EB-05",
-      "name": "Rawalpindi Railway Station - Hamrahi Bus Stop (Adiala Road, LHC Bench)",
+      "name": "Rawalpindi Railway Station - Hamrahi Bus Stop (Adiala Road)",
       "name_ur": "",
       "variant": "electric",
       "color": null,
-      "status": "unverified",
+      "status": "operational",
       "launched": null,
       "length_km": null,
       "headway_min": null,
       "hours": null,
       "fare_override": null,
       "women_only": false,
-      "stops_confidence": "low",
+      "stops_confidence": "high",
       "stops": [
         {
           "name": "Rawalpindi Railway Station",
-          "name_ur": "راولپنڈی ریلوے اسٹیشن",
+          "name_ur": "",
           "lat": 33.603485,
           "lon": 73.048212,
-          "coord_source": "ext:safar.fyi:rwp:91",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/1999",
           "is_station": false
         },
         {
@@ -916,7 +920,7 @@
           "name_ur": "",
           "lat": 33.59906,
           "lon": 73.046573,
-          "coord_source": "ext:safar.fyi:rwp:91",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2001",
           "is_station": false
         },
         {
@@ -924,7 +928,7 @@
           "name_ur": "",
           "lat": 33.595572,
           "lon": 73.050866,
-          "coord_source": "ext:safar.fyi:rwp:91",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2003",
           "is_station": false
         },
         {
@@ -932,7 +936,7 @@
           "name_ur": "",
           "lat": 33.593496,
           "lon": 73.053604,
-          "coord_source": "ext:safar.fyi:rwp:91",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2005",
           "is_station": false
         },
         {
@@ -940,7 +944,7 @@
           "name_ur": "",
           "lat": 33.588922,
           "lon": 73.058508,
-          "coord_source": "ext:safar.fyi:rwp:91",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2007",
           "is_station": false
         },
         {
@@ -948,15 +952,15 @@
           "name_ur": "",
           "lat": 33.586037,
           "lon": 73.063199,
-          "coord_source": "ext:safar.fyi:rwp:91",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2009",
           "is_station": false
         },
         {
           "name": "Katchery",
           "name_ur": "",
-          "lat": 33.584348,
-          "lon": 73.066113,
-          "coord_source": "ext:safar.fyi:rwp:91",
+          "lat": 33.5841512,
+          "lon": 73.0664384,
+          "coord_source": "osm:node/2450449666",
           "is_station": false
         },
         {
@@ -964,7 +968,7 @@
           "name_ur": "",
           "lat": 33.575729,
           "lon": 73.073094,
-          "coord_source": "ext:safar.fyi:rwp:91",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2013",
           "is_station": false
         },
         {
@@ -972,7 +976,7 @@
           "name_ur": "",
           "lat": 33.571391,
           "lon": 73.075394,
-          "coord_source": "ext:safar.fyi:rwp:91",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2015",
           "is_station": false
         },
         {
@@ -980,7 +984,7 @@
           "name_ur": "",
           "lat": 33.567956,
           "lon": 73.07658,
-          "coord_source": "ext:safar.fyi:rwp:91",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2017",
           "is_station": false
         },
         {
@@ -988,7 +992,7 @@
           "name_ur": "",
           "lat": 33.564041,
           "lon": 73.082118,
-          "coord_source": "ext:safar.fyi:rwp:91",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2019",
           "is_station": false
         },
         {
@@ -996,7 +1000,7 @@
           "name_ur": "",
           "lat": 33.559073,
           "lon": 73.090004,
-          "coord_source": "ext:safar.fyi:rwp:91",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2021",
           "is_station": false
         },
         {
@@ -1004,7 +1008,7 @@
           "name_ur": "",
           "lat": 33.558231,
           "lon": 73.093914,
-          "coord_source": "ext:safar.fyi:rwp:91",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2023",
           "is_station": false
         },
         {
@@ -1012,7 +1016,7 @@
           "name_ur": "",
           "lat": 33.552945,
           "lon": 73.099565,
-          "coord_source": "ext:safar.fyi:rwp:91",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2025",
           "is_station": false
         },
         {
@@ -1020,7 +1024,7 @@
           "name_ur": "",
           "lat": 33.548514,
           "lon": 73.102282,
-          "coord_source": "ext:safar.fyi:rwp:91",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2027",
           "is_station": false
         }
       ],
@@ -1036,9 +1040,13 @@
         {
           "title": "Rawalpindi set for Phase-II electric bus rollout",
           "url": "https://www.dawn.com/news/2000782/rawalpindi-set-for-phase-ii-electric-bus-rollout"
+        },
+        {
+          "title": "eTransit Punjab (PMA) route planner, line 26, route 91 'Rawalpindi Railway Station To Hamrahi Stop' (get-line-schedules, forward direction, fetched 2026-09-24)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Announced Nov 2025 (\"Railway Station to LHC Rawalpindi Bench\"); Dawn/ProPakistani May 2026 said Saddar - Hamrahi route to follow. Listed on Safar (15 stops) with no valid timings. Launch date unverified. Provisional id."
+      "notes": "Official PMA/eTransit stop list, forward direction 'Rawalpindi Railway Station To Hamrahi Stop' (15 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 1 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. The eTransit timetable for 2026-09-24 had only 1 departure(s) from the first stop (probably incomplete), so headway and hours are left null. Status upgraded from unverified: listed by PMA eTransit (RFR-EV line). Stop list identical to the existing one. The eTransit timetable for the day had only one departure, so headway is unknown."
     }
   ]
 }

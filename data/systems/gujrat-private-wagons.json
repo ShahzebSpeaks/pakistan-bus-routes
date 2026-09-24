@@ -1,0 +1,246 @@
+{
+  "id": "gujrat-private-wagons",
+  "city": "gujrat",
+  "name": "Gujrat private wagons, minibuses and paratransit",
+  "name_ur": "",
+  "operator": "Private operators (route permits by RTA Gujrat)",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Punjab Cities Improvement Investment Program - Gujrat City Profile (Urban Unit / GHK, ADB-funded, c.2010)",
+      "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Gujrat.pdf",
+      "publisher": "The Urban Unit, P&D Department Punjab (consultant GHK)",
+      "date": "c.2010 (hosted 2021)",
+      "official": false
+    }
+  ],
+  "notes": "Only route-level source found: the PCIIP city profile (c.2010), which says no urban bus or van service existed then. TPU Punjab did a \"Comprehensive Study for the Public Transport System in Gujrat City\" (2011) with proposed routes, but it is not online. The government e-bus system is gujrat-electric-bus.",
+  "last_verified": "2026-09-24",
+  "routes": [
+    {
+      "id": "pciip-abs-hospital-gt-road",
+      "name": "Aziz Bhatti Shaheed Hospital - GT Road",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Aziz Bhatti Shaheed Hospital",
+          "name_ur": "",
+          "lat": 32.598833,
+          "lon": 74.080096,
+          "coord_source": "auto:osm:node/2418857836",
+          "is_station": false
+        },
+        {
+          "name": "GT Road",
+          "name_ur": "",
+          "lat": 32.593316,
+          "lon": 74.044666,
+          "coord_source": "auto:osm:way/233414379",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Gujrat City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 19 Major Urban Routes",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Gujrat.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw, auto-rickshaw and small pickup corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order."
+    },
+    {
+      "id": "pciip-gt-road-shadiwal-bypass",
+      "name": "GT Road - Bypass at Shadiwal Road",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "GT Road",
+          "name_ur": "",
+          "lat": 32.593316,
+          "lon": 74.044666,
+          "coord_source": "auto:osm:way/233414379",
+          "is_station": false
+        },
+        {
+          "name": "Bypass (Shadiwal Road)",
+          "name_ur": "",
+          "lat": 32.558628,
+          "lon": 74.043497,
+          "coord_source": "auto:osm:way/923152284",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Gujrat City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 19 Major Urban Routes",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Gujrat.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw, auto-rickshaw and small pickup corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order."
+    },
+    {
+      "id": "pciip-gt-road-sargodha-bypass",
+      "name": "GT Road - Bypass at Sargodha Road",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "GT Road",
+          "name_ur": "",
+          "lat": 32.593316,
+          "lon": 74.044666,
+          "coord_source": "auto:osm:way/233414379",
+          "is_station": false
+        },
+        {
+          "name": "Bypass (Sargodha Road)",
+          "name_ur": "",
+          "lat": 32.558628,
+          "lon": 74.043497,
+          "coord_source": "auto:osm:way/923152284",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Gujrat City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 19 Major Urban Routes",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Gujrat.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw, auto-rickshaw and small pickup corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order."
+    },
+    {
+      "id": "pciip-mcb-gt-road-university",
+      "name": "MCB Bank GT Road - University of Gujrat",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "MCB Bank GT Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "University of Gujrat",
+          "name_ur": "",
+          "lat": 32.639099,
+          "lon": 74.163895,
+          "coord_source": "auto:osm:way/1373257384",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Gujrat City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 19 Major Urban Routes",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Gujrat.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw, auto-rickshaw and small pickup corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order."
+    },
+    {
+      "id": "pciip-bhimber-road",
+      "name": "Bhimber Road: DHQ Hospital - Zamindar College - Girls Degree College",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "DHQ Hospital (Bhimber Road)",
+          "name_ur": "",
+          "lat": 32.602322,
+          "lon": 74.079696,
+          "coord_source": "auto:osm:way/233504836",
+          "is_station": false
+        },
+        {
+          "name": "Zamindar College",
+          "name_ur": "",
+          "lat": 32.600803,
+          "lon": 74.076601,
+          "coord_source": "auto:osm:way/1029975287",
+          "is_station": false
+        },
+        {
+          "name": "Girls Degree College",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Gujrat City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 19 Major Urban Routes",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Gujrat.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw, auto-rickshaw and small pickup corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order. Printed as a list of places on Bhimber Road; the order along the road is not confirmed."
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+ "city": "gujrat",
+ "source": "etransit.punjab.gov.pk",
+ "lines": [
+  {
+   "id": "66-609",
+   "code": "609",
+   "name": "GBS Gujrat to Mangowal",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "GBS Gujrat Up",
+     "lat": 32.564988,
+     "lon": 74.076852
+    },
+    {
+     "name": "GTS Chowk, Gujrat Up",
+     "lat": 32.568973,
+     "lon": 74.072456
+    },
+    {
+     "name": "Staff Gala Chowk Up",
+     "lat": 32.562034,
+     "lon": 74.052258
+    },
+    {
+     "name": "Shaheen Chowk Up",
+     "lat": 32.558743,
+     "lon": 74.043397
+    },
+    {
+     "name": "Narowali Up",
+     "lat": 32.554737,
+     "lon": 74.033263
+    },
+    {
+     "name": "Sheikh Sukha Up",
+     "lat": 32.550246,
+     "lon": 74.022117
+    },
+    {
+     "name": "Mand Stop Up",
+     "lat": 32.546815,
+     "lon": 74.013823
+    },
+    {
+     "name": "Saroki Bridge Up",
+     "lat": 32.541315,
+     "lon": 74.002373
+    },
+    {
+     "name": "Kunjah Chowk Up",
+     "lat": 32.532665,
+     "lon": 73.982728
+    },
+    {
+     "name": "Gondal Chowk Up",
+     "lat": 32.533528,
+     "lon": 73.977261
+    },
+    {
+     "name": "Chungi Nagrianwala Up",
+     "lat": 32.534405,
+     "lon": 73.966756
+    },
+    {
+     "name": "Shabbir Sharif Hospital Up",
+     "lat": 32.531911,
+     "lon": 73.963801
+    },
+    {
+     "name": "Chakori Bakhu Stop Up",
+     "lat": 32.522249,
+     "lon": 73.947576
+    },
+    {
+     "name": "Khunan gharbi  Up",
+     "lat": 32.518008,
+     "lon": 73.939931
+    },
+    {
+     "name": "Kot Allah Baksh Up",
+     "lat": 32.514334,
+     "lon": 73.933961
+    },
+    {
+     "name": "Chak Jaspal- Kunjahri Up",
+     "lat": 32.508677,
+     "lon": 73.924731
+    },
+    {
+     "name": "Gulshan Rehman Town Up",
+     "lat": 32.501338,
+     "lon": 73.910392
+    },
+    {
+     "name": "Dinga Chowk, Mangowal Up",
+     "lat": 32.493956,
+     "lon": 73.891161
+    }
+   ]
+  },
+  {
+   "id": "66-610",
+   "code": "610",
+   "name": "Mangowal to GBS Gujrat",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "Dinga Chowk, Mangowal Down",
+     "lat": 32.494266,
+     "lon": 73.891191
+    },
+    {
+     "name": "Gulshan Rehman Town Down",
+     "lat": 32.501602,
+     "lon": 73.910361
+    },
+    {
+     "name": "Chak Jaspal- Kunjahri Down",
+     "lat": 32.509045,
+     "lon": 73.924829
+    },
+    {
+     "name": "Kot Allah Baksh Down",
+     "lat": 32.514452,
+     "lon": 73.933745
+    },
+    {
+     "name": "Khunan gharbi Down",
+     "lat": 32.518222,
+     "lon": 73.94
+    },
+    {
+     "name": "Chakori Bakhu Stop Down",
+     "lat": 32.522017,
+     "lon": 73.946605
+    },
+    {
+     "name": "Shabbir Sharif Hospital Down",
+     "lat": 32.532085,
+     "lon": 73.963559
+    },
+    {
+     "name": "Chungni Nagranwala Down",
+     "lat": 32.534597,
+     "lon": 73.966584
+    },
+    {
+     "name": "Gondal Chowk Down",
+     "lat": 32.533707,
+     "lon": 73.977423
+    },
+    {
+     "name": "Kunjah Chowk Down",
+     "lat": 32.532915,
+     "lon": 73.982952
+    },
+    {
+     "name": "Saroki Bridge Down",
+     "lat": 32.541594,
+     "lon": 74.002454
+    },
+    {
+     "name": "Mand Stop Down",
+     "lat": 32.547059,
+     "lon": 74.013867
+    },
+    {
+     "name": "Sheikh Sukha Down",
+     "lat": 32.550604,
+     "lon": 74.022231
+    },
+    {
+     "name": "Narowali Down",
+     "lat": 32.555262,
+     "lon": 74.034107
+    },
+    {
+     "name": "Shaheen Chowk Down",
+     "lat": 32.558944,
+     "lon": 74.043312
+    },
+    {
+     "name": "Staff Gala Chowk Down",
+     "lat": 32.562201,
+     "lon": 74.052392
+    },
+    {
+     "name": "GTS Chowk, Gujrat Down",
+     "lat": 32.570153,
+     "lon": 74.071581
+    },
+    {
+     "name": "GBS Gujrat Down",
+     "lat": 32.565082,
+     "lon": 74.077099
+    }
+   ]
+  },
+  {
+   "id": "66-613",
+   "code": "613",
+   "name": "GBS Gujrat to Daulat Nagar",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "GBS Gujrat Up",
+     "lat": 32.564988,
+     "lon": 74.076852
+    },
+    {
+     "name": "GTS Chowk, Gujrat Up",
+     "lat": 32.568973,
+     "lon": 74.072456
+    },
+    {
+     "name": "Jattuwakal Stop Up",
+     "lat": 32.580714,
+     "lon": 74.059696
+    },
+    {
+     "name": "Service Morr Stop Up",
+     "lat": 32.588942,
+     "lon": 74.050838
+    },
+    {
+     "name": "Shadman Colony Stop Up",
+     "lat": 32.586596,
+     "lon": 74.063354
+    },
+    {
+     "name": "Jinnah Chowk, Gujrat Up",
+     "lat": 32.584258,
+     "lon": 74.075694
+    },
+    {
+     "name": "Nishan e Haider Chowk Up",
+     "lat": 32.584319,
+     "lon": 74.078034
+    },
+    {
+     "name": "Katchehry Chowk, Gujrat Up",
+     "lat": 32.586447,
+     "lon": 74.080369
+    },
+    {
+     "name": "Govt Women College, Gujrat Up",
+     "lat": 32.596831,
+     "lon": 74.079201
+    },
+    {
+     "name": "Aziz Bhatti Hospital Up",
+     "lat": 32.599015,
+     "lon": 74.078937
+    },
+    {
+     "name": "Labour Colony Stop Up",
+     "lat": 32.607716,
+     "lon": 74.078906
+    },
+    {
+     "name": "Airport Chowk, Gujrat Up",
+     "lat": 32.622426,
+     "lon": 74.078945
+    },
+    {
+     "name": "Qadir Colony Up",
+     "lat": 32.62835,
+     "lon": 74.078957
+    },
+    {
+     "name": "Malhu Khokhar Up",
+     "lat": 32.646187,
+     "lon": 74.079096
+    },
+    {
+     "name": "Bokan Morr Up",
+     "lat": 32.665963,
+     "lon": 74.080263
+    },
+    {
+     "name": "Blaisar Morr Up",
+     "lat": 32.675539,
+     "lon": 74.084891
+    },
+    {
+     "name": "Uggowal Up",
+     "lat": 32.685388,
+     "lon": 74.093457
+    },
+    {
+     "name": "Banth Up",
+     "lat": 32.692374,
+     "lon": 74.099588
+    },
+    {
+     "name": "Banota Up",
+     "lat": 32.704973,
+     "lon": 74.104993
+    },
+    {
+     "name": "Mehsam Up",
+     "lat": 32.716638,
+     "lon": 74.111195
+    },
+    {
+     "name": "Dhumma Malka Up",
+     "lat": 32.739513,
+     "lon": 74.097037
+    },
+    {
+     "name": "Dualat Nagar Up",
+     "lat": 32.748295,
+     "lon": 74.071284
+    }
+   ]
+  },
+  {
+   "id": "66-614",
+   "code": "614",
+   "name": "Daulat Nagar to GBS Gujrat",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "Dualat Nagar Down",
+     "lat": 32.748396,
+     "lon": 74.072115
+    },
+    {
+     "name": "Dhumma Malka Down",
+     "lat": 32.739499,
+     "lon": 74.097185
+    },
+    {
+     "name": "Mehsam Down",
+     "lat": 32.716301,
+     "lon": 74.111241
+    },
+    {
+     "name": "Banota Down",
+     "lat": 32.704932,
+     "lon": 74.105135
+    },
+    {
+     "name": "Banth Down",
+     "lat": 32.692942,
+     "lon": 74.100255
+    },
+    {
+     "name": "Uggowal Down",
+     "lat": 32.685167,
+     "lon": 74.093416
+    },
+    {
+     "name": "Blaisar Morr Down",
+     "lat": 32.675317,
+     "lon": 74.085065
+    },
+    {
+     "name": "Bokan Morr Down",
+     "lat": 32.666086,
+     "lon": 74.080647
+    },
+    {
+     "name": "Malhu Khokhar Down",
+     "lat": 32.646457,
+     "lon": 74.079281
+    },
+    {
+     "name": "Qadir Colony Down",
+     "lat": 32.628117,
+     "lon": 74.079114
+    },
+    {
+     "name": "Airport Chowk, Gujrat Down",
+     "lat": 32.619483,
+     "lon": 74.079136
+    },
+    {
+     "name": "Labour Colony Stop Down",
+     "lat": 32.606918,
+     "lon": 74.079116
+    },
+    {
+     "name": "Aziz Bhatti Hospital Down",
+     "lat": 32.599208,
+     "lon": 74.079145
+    },
+    {
+     "name": "Govt Women College, Gujrat Down",
+     "lat": 32.596495,
+     "lon": 74.079452
+    },
+    {
+     "name": "Katchery Chowk, Gujrat Down",
+     "lat": 32.585968,
+     "lon": 74.080598
+    },
+    {
+     "name": "Nishan e Haider Chowk Down",
+     "lat": 32.584153,
+     "lon": 74.077988
+    },
+    {
+     "name": "Jinnah Chowk, Gujrat Down",
+     "lat": 32.58407,
+     "lon": 74.075676
+    },
+    {
+     "name": "Shadman Colony Stop, Gujrat Down",
+     "lat": 32.586328,
+     "lon": 74.063604
+    },
+    {
+     "name": "Service Morr Stop Down",
+     "lat": 32.589132,
+     "lon": 74.051046
+    },
+    {
+     "name": "Jattuwakal Stop Down",
+     "lat": 32.580471,
+     "lon": 74.060451
+    },
+    {
+     "name": "GTS Chowk, Gujrat Down",
+     "lat": 32.570153,
+     "lon": 74.071581
+    },
+    {
+     "name": "GBS Gujrat Down",
+     "lat": 32.565082,
+     "lon": 74.077099
+    }
+   ]
+  }
+ ]
+}

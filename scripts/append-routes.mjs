@@ -51,10 +51,13 @@ for (const incoming of doc.systems || []) {
     if (have.has(norm(r.id))) {
       const i = system.routes.findIndex((x) => norm(x.id) === norm(r.id));
       const old = system.routes[i];
-      if (replaceWeak && old && old.stops.length <= 2 && r.stops.length > old.stops.length) {
+      // A research file can also mark a route as an authoritative update ("merge_action": "replace_existing").
+      const forced = r.merge_action === 'replace_existing';
+      if (old && (forced || (replaceWeak && old.stops.length <= 2 && r.stops.length > old.stops.length))) {
         const known = new Map(old.stops.filter((st) => st.lat != null).map((st) => [stopKey(st.name), st]));
         const stops = r.stops.map((st) => (st.lat == null && known.has(stopKey(st.name)) ? { ...st, ...known.get(stopKey(st.name)), name: st.name } : st));
-        system.routes[i] = { ...old, ...r, color: r.color || old.color, stops, sources: [...(old.sources || []), ...r.sources.filter((x) => !(old.sources || []).some((o) => o.url === x.url))] };
+        const { merge_action, ...incomingRoute } = r;
+        system.routes[i] = { ...old, ...incomingRoute, color: r.color || old.color, stops, sources: [...(old.sources || []), ...r.sources.filter((x) => !(old.sources || []).some((o) => o.url === x.url))] };
         replaced++;
       }
       continue;
@@ -64,5 +67,5 @@ for (const incoming of doc.systems || []) {
     added++;
   }
   if (!dry && (added || replaced)) writeJSON(file, system);
-  console.log(`${added || replaced ? '+' : '-'} ${incoming.id}: ${added} route(s) added, ${replaced} terminal-only route(s) filled in, ${routes.length - added - replaced} already present`);
+  console.log(`${added || replaced ? '+' : '-'} ${incoming.id}: ${added} route(s) added, ${replaced} route(s) filled in or updated, ${routes.length - added - replaced} already present`);
 }

@@ -1,0 +1,334 @@
+{
+  "id": "sargodha-private-wagons",
+  "city": "sargodha",
+  "name": "Sargodha private wagons, minibuses and paratransit",
+  "name_ur": "",
+  "operator": "Private operators (route permits by RTA Sargodha)",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Punjab Cities Improvement Investment Program - Sargodha City Profile (Urban Unit / GHK, ADB-funded, c.2010)",
+      "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Sargodha.pdf",
+      "publisher": "The Urban Unit, P&D Department Punjab (consultant GHK)",
+      "date": "c.2010 (hosted 2021)",
+      "official": false
+    }
+  ],
+  "notes": "Only route-level source found: the PCIIP city profile (c.2010), which also says no urban bus or wagon service existed then (motorcycle rickshaws and auto-rickshaws only). Corridors only; no numbered routes or ordered stops. Urdu and English searches for Sargodha wagon routes found nothing else. The government e-bus system is sargodha-electric-bus.",
+  "last_verified": "2026-09-24",
+  "routes": [
+    {
+      "id": "pciip-university-kalma",
+      "name": "University Road - Kalma Chowk",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "University Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Sargodha City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 20 Major Urban Routes",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Sargodha.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw (Qingqi) and auto-rickshaw corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order. About 10,000 passengers/day."
+    },
+    {
+      "id": "pciip-fatima-jinnah-kalma",
+      "name": "Fatima Jinnah Road - Railway Station - Kalma Chowk",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Fatima Jinnah Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Sargodha City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 20 Major Urban Routes",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Sargodha.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw (Qingqi) and auto-rickshaw corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order. About 10,000 passengers/day."
+    },
+    {
+      "id": "pciip-sargodha-sillanwali",
+      "name": "Sargodha - Sillanwali",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Sargodha",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sillanwali",
+          "name_ur": "",
+          "lat": 31.826768,
+          "lon": 72.537007,
+          "coord_source": "auto:osm:node/1975086588",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Sargodha City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 20 Major Urban Routes",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Sargodha.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw (Qingqi) and auto-rickshaw corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order. Suburban. About 6,000 passengers/day. The GBS Sargodha - Sillanwali e-bus now also serves this corridor."
+    },
+    {
+      "id": "pciip-sargodha-bhalwal-road",
+      "name": "Sargodha - Bhalwal Road",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Sargodha",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bhalwal Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Sargodha City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 20 Major Urban Routes",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Sargodha.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw (Qingqi) and auto-rickshaw corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order. Printed as \"Sargodha - Bhalwal road\": it is unclear whether the corridor ends in Bhalwal town or means the Bhalwal Road axis. About 5,000 passengers/day."
+    },
+    {
+      "id": "pciip-aziz-bhatti-university",
+      "name": "Aziz Bhatti Town - University Road",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Aziz Bhatti Town",
+          "name_ur": "",
+          "lat": 32.108731,
+          "lon": 72.651939,
+          "coord_source": "auto:same-name:ext:etransit.punjab.gov.pk:stop/7958",
+          "is_station": false
+        },
+        {
+          "name": "University Road",
+          "name_ur": "",
+          "lat": 32.078808,
+          "lon": 72.671016,
+          "coord_source": "auto:osm:way/293369846",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Sargodha City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 20 Major Urban Routes",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Sargodha.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw (Qingqi) and auto-rickshaw corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order. About 10,000 passengers/day."
+    },
+    {
+      "id": "pciip-zahoor-elahi-lahore-road",
+      "name": "Zahoor Elahi Road - Lahore Road",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Zahoor Elahi Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Lahore Road",
+          "name_ur": "",
+          "lat": 31.942957,
+          "lon": 73.157921,
+          "coord_source": "auto:nominatim:way/349588736",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Sargodha City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 20 Major Urban Routes",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Sargodha.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw (Qingqi) and auto-rickshaw corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order. About 5,000 passengers/day."
+    },
+    {
+      "id": "pciip-paf-road-block-8",
+      "name": "PAF Road - Jail Rial - Block 8",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "PAF Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jail Rial",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Block 8",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Sargodha City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 20 Major Urban Routes",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Sargodha.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw (Qingqi) and auto-rickshaw corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order. The middle place is printed \"Jail Rial\" (possibly Jail Road); kept as printed. About 15,000 passengers/day."
+    }
+  ]
+}

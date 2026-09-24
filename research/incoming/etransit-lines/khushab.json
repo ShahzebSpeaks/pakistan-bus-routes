@@ -1,0 +1,653 @@
+{
+ "city": "khushab",
+ "source": "etransit.punjab.gov.pk",
+ "lines": [
+  {
+   "id": "31-217",
+   "code": "217",
+   "name": "GBS Sargodha to Chota Sahiwal",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "GBS Sargodha",
+     "lat": 32.075568,
+     "lon": 72.697941
+    },
+    {
+     "name": "Chungi No. 9 Up",
+     "lat": 32.083693,
+     "lon": 72.695858
+    },
+    {
+     "name": "Satellite Town Up",
+     "lat": 32.08529,
+     "lon": 72.689114
+    },
+    {
+     "name": "Islampura Up",
+     "lat": 32.085848,
+     "lon": 72.677029
+    },
+    {
+     "name": "DHQ SGD Up",
+     "lat": 32.081981,
+     "lon": 72.66588
+    },
+    {
+     "name": "Noori Gate Hussani Chowk Up",
+     "lat": 32.084925,
+     "lon": 72.659996
+    },
+    {
+     "name": "Jhang Morr SGD Up",
+     "lat": 32.091248,
+     "lon": 72.656049
+    },
+    {
+     "name": "78 Pull Up",
+     "lat": 32.066966,
+     "lon": 72.639611
+    },
+    {
+     "name": "85 Jhal Up",
+     "lat": 32.045734,
+     "lon": 72.618323
+    },
+    {
+     "name": "Chak 91 N.B Up",
+     "lat": 32.035122,
+     "lon": 72.608893
+    },
+    {
+     "name": "Chak 84 NB Up",
+     "lat": 32.075766,
+     "lon": 72.575647
+    },
+    {
+     "name": "Chak 92 NB Up",
+     "lat": 32.071265,
+     "lon": 72.53536
+    },
+    {
+     "name": "Adda Faiz Colony Up",
+     "lat": 32.072241,
+     "lon": 72.525458
+    },
+    {
+     "name": "92 Morr Up",
+     "lat": 32.072255,
+     "lon": 72.503257
+    },
+    {
+     "name": "Chak 93 NB Up",
+     "lat": 32.066984,
+     "lon": 72.494443
+    },
+    {
+     "name": "Ahmed Pur Colony Up",
+     "lat": 32.054434,
+     "lon": 72.475233
+    },
+    {
+     "name": "Pumpan wali Pull Up",
+     "lat": 32.044511,
+     "lon": 72.45964
+    },
+    {
+     "name": "Colony Mirabad Up",
+     "lat": 32.040852,
+     "lon": 72.452735
+    },
+    {
+     "name": "Kot Ahmad Khan Up",
+     "lat": 32.034397,
+     "lon": 72.437341
+    },
+    {
+     "name": "Chawaywala Up",
+     "lat": 32.03124,
+     "lon": 72.429625
+    },
+    {
+     "name": "Langarwala Up",
+     "lat": 32.020239,
+     "lon": 72.401884
+    },
+    {
+     "name": "Kud Lathi Up",
+     "lat": 32.01517,
+     "lon": 72.390299
+    },
+    {
+     "name": "Pathan Kot Up",
+     "lat": 32.003296,
+     "lon": 72.364371
+    },
+    {
+     "name": "Al Baqa Chowk Up",
+     "lat": 31.983221,
+     "lon": 72.336553
+    },
+    {
+     "name": "GBS Chota Sahiwal",
+     "lat": 31.97135,
+     "lon": 72.330883
+    }
+   ]
+  },
+  {
+   "id": "31-218",
+   "code": "218",
+   "name": "Chota Sahiwal to GBS Sargodha",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "GBS Chota Sahiwal",
+     "lat": 31.97135,
+     "lon": 72.330883
+    },
+    {
+     "name": "Al Baqa Chowk Down",
+     "lat": 31.983324,
+     "lon": 72.336449
+    },
+    {
+     "name": "Pathan Kot Down",
+     "lat": 32.003319,
+     "lon": 72.364346
+    },
+    {
+     "name": "Kud Lathi Down",
+     "lat": 32.015274,
+     "lon": 72.390219
+    },
+    {
+     "name": "Langarwala Down",
+     "lat": 32.020357,
+     "lon": 72.401845
+    },
+    {
+     "name": "Chawaywala Down",
+     "lat": 32.031376,
+     "lon": 72.429558
+    },
+    {
+     "name": "Kot Ahmad Khan Down",
+     "lat": 32.034466,
+     "lon": 72.437308
+    },
+    {
+     "name": "Colony Mirabad Down",
+     "lat": 32.041142,
+     "lon": 72.453095
+    },
+    {
+     "name": "Pumpanwali Pull Down",
+     "lat": 32.045189,
+     "lon": 72.460593
+    },
+    {
+     "name": "Ahmed Pur Colony Down",
+     "lat": 32.054539,
+     "lon": 72.47514
+    },
+    {
+     "name": "Chak 93 NB Down",
+     "lat": 32.067341,
+     "lon": 72.494884
+    },
+    {
+     "name": "92 Morr Down",
+     "lat": 32.072634,
+     "lon": 72.50375
+    },
+    {
+     "name": "Ada Faiz Colony Down",
+     "lat": 32.07237,
+     "lon": 72.525858
+    },
+    {
+     "name": "Chak 92 NB Down",
+     "lat": 32.071384,
+     "lon": 72.535982
+    },
+    {
+     "name": "Chak 84 NB Down",
+     "lat": 32.075759,
+     "lon": 72.576165
+    },
+    {
+     "name": "Chak 91 N.B Down",
+     "lat": 32.034902,
+     "lon": 72.6086
+    },
+    {
+     "name": "85 Jhal Down",
+     "lat": 32.045608,
+     "lon": 72.618126
+    },
+    {
+     "name": "78 Pull Down",
+     "lat": 32.067918,
+     "lon": 72.640265
+    },
+    {
+     "name": "Jhang Morr SGD Down",
+     "lat": 32.091189,
+     "lon": 72.655971
+    },
+    {
+     "name": "Noori Gate Hussani Chowk Down",
+     "lat": 32.084113,
+     "lon": 72.660727
+    },
+    {
+     "name": "DHQ SGD Down",
+     "lat": 32.081596,
+     "lon": 72.665986
+    },
+    {
+     "name": "Islampura Down",
+     "lat": 32.085637,
+     "lon": 72.676897
+    },
+    {
+     "name": "Satellite Town Down",
+     "lat": 32.084964,
+     "lon": 72.689519
+    },
+    {
+     "name": "Chungi No. 9 Down",
+     "lat": 32.083582,
+     "lon": 72.696267
+    },
+    {
+     "name": "GBS Sargodha",
+     "lat": 32.075568,
+     "lon": 72.697941
+    }
+   ]
+  },
+  {
+   "id": "31-857",
+   "code": "857",
+   "name": "GBS Sargodha to Shahpur",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "GBS Sargodha",
+     "lat": 32.075568,
+     "lon": 72.697941
+    },
+    {
+     "name": "Chunggi No. 09 Up",
+     "lat": 32.083883,
+     "lon": 72.695012
+    },
+    {
+     "name": "Old Satellite Town Up",
+     "lat": 32.08462,
+     "lon": 72.690007
+    },
+    {
+     "name": "Islampura Up",
+     "lat": 32.085848,
+     "lon": 72.677029
+    },
+    {
+     "name": "DHQ SGD Up",
+     "lat": 32.081981,
+     "lon": 72.66588
+    },
+    {
+     "name": "Hussain Chowk Up",
+     "lat": 32.085293,
+     "lon": 72.659487
+    },
+    {
+     "name": "City Stop Up",
+     "lat": 32.091303,
+     "lon": 72.656532
+    },
+    {
+     "name": "CMH Bus Stop Up",
+     "lat": 32.092775,
+     "lon": 72.651933
+    },
+    {
+     "name": "Sabharwal Colony Up",
+     "lat": 32.104828,
+     "lon": 72.651939
+    },
+    {
+     "name": "Aziz Bhatti Town Up",
+     "lat": 32.108731,
+     "lon": 72.651939
+    },
+    {
+     "name": "Chak 71 Bus Stop Up",
+     "lat": 32.117602,
+     "lon": 72.651875
+    },
+    {
+     "name": "92 Morr Bus Stop Up",
+     "lat": 32.123906,
+     "lon": 72.6518
+    },
+    {
+     "name": "Green Homes Up",
+     "lat": 32.138871,
+     "lon": 72.64489
+    },
+    {
+     "name": "Jhal Chakian Up",
+     "lat": 32.142709,
+     "lon": 72.642981
+    },
+    {
+     "name": "Haji Colony Up",
+     "lat": 32.145532,
+     "lon": 72.633956
+    },
+    {
+     "name": "Bhawat Saraye Stop Up",
+     "lat": 32.148935,
+     "lon": 72.621732
+    },
+    {
+     "name": "Dhrema Bus Stop Up",
+     "lat": 32.15382,
+     "lon": 72.60304
+    },
+    {
+     "name": "Darbar Chowk Bus Stop Up",
+     "lat": 32.156716,
+     "lon": 72.597094
+    },
+    {
+     "name": "Dhrema Adda Bus Stop Up",
+     "lat": 32.15968,
+     "lon": 72.592841
+    },
+    {
+     "name": "Chak 04 Bus Stop Up",
+     "lat": 32.177189,
+     "lon": 72.567627
+    },
+    {
+     "name": "Chak 67 Bus Stop Up",
+     "lat": 32.180271,
+     "lon": 72.563278
+    },
+    {
+     "name": "Chak 05 Bus Stop Up",
+     "lat": 32.187649,
+     "lon": 72.552645
+    },
+    {
+     "name": "Wegowal Bus Stop Up",
+     "lat": 32.199512,
+     "lon": 72.536482
+    },
+    {
+     "name": "Shahedain Wali Bus Stop Up",
+     "lat": 32.207455,
+     "lon": 72.524572
+    },
+    {
+     "name": "Gohar Jalal Bus Stop Up",
+     "lat": 32.223141,
+     "lon": 72.510537
+    },
+    {
+     "name": "Jalpana Bus Stop Up",
+     "lat": 32.23836,
+     "lon": 72.498105
+    },
+    {
+     "name": "Sultan Feed Mill Up",
+     "lat": 32.242591,
+     "lon": 72.494658
+    },
+    {
+     "name": "LRBT Eye Hospital Up",
+     "lat": 32.250422,
+     "lon": 72.488144
+    },
+    {
+     "name": "Inspire College Bus Stop Up",
+     "lat": 32.256881,
+     "lon": 72.482806
+    },
+    {
+     "name": "Govt Degree Boys College, Shahpur Sadar Up",
+     "lat": 32.260651,
+     "lon": 72.47956
+    },
+    {
+     "name": "Govt Girls Degree College, Shahpur Up",
+     "lat": 32.263111,
+     "lon": 72.474311
+    },
+    {
+     "name": "Shahpur Sadar Bus Stop Up",
+     "lat": 32.264597,
+     "lon": 72.47139
+    },
+    {
+     "name": "Govt Middle School Up",
+     "lat": 32.274183,
+     "lon": 72.454949
+    },
+    {
+     "name": "Bilal Colony Bus Stop Up",
+     "lat": 32.281075,
+     "lon": 72.442924
+    },
+    {
+     "name": "Bab E Sherazi Bus Stop Up",
+     "lat": 32.284941,
+     "lon": 72.436154
+    },
+    {
+     "name": "GBS Shahpur Up",
+     "lat": 32.287324,
+     "lon": 72.43437
+    },
+    {
+     "name": "GBS Shahpur Down",
+     "lat": 32.287384,
+     "lon": 72.434565
+    }
+   ]
+  },
+  {
+   "id": "31-858",
+   "code": "858",
+   "name": "Shahpur to GBS Sargodha",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "GBS Shahpur Down",
+     "lat": 32.287384,
+     "lon": 72.434565
+    },
+    {
+     "name": "Bab E Sherazi Bus Stop Down",
+     "lat": 32.285029,
+     "lon": 72.436282
+    },
+    {
+     "name": "Bilal Colony Bus Stop Down",
+     "lat": 32.281246,
+     "lon": 72.442877
+    },
+    {
+     "name": "Govt Middle School Down",
+     "lat": 32.274213,
+     "lon": 72.455197
+    },
+    {
+     "name": "Shahpur Sadar Bus Stop Down",
+     "lat": 32.264802,
+     "lon": 72.471463
+    },
+    {
+     "name": "Govt Girls Degree College, Shahpur Down",
+     "lat": 32.263247,
+     "lon": 72.474377
+    },
+    {
+     "name": "Govt Degree Boys College, Shahpur Sadar Down",
+     "lat": 32.261062,
+     "lon": 72.479083
+    },
+    {
+     "name": "Inspire College Bus Stop Down",
+     "lat": 32.256942,
+     "lon": 72.482994
+    },
+    {
+     "name": "LRBT Eye Hospital Down",
+     "lat": 32.250466,
+     "lon": 72.488363
+    },
+    {
+     "name": "Sultan Feed Mill Down",
+     "lat": 32.242692,
+     "lon": 72.494744
+    },
+    {
+     "name": "Jalpana Bus Stop Down",
+     "lat": 32.23837,
+     "lon": 72.498247
+    },
+    {
+     "name": "Gohar Jalal Bus Stop Down",
+     "lat": 32.223083,
+     "lon": 72.510798
+    },
+    {
+     "name": "Shahedain Wali Bus Stop Down",
+     "lat": 32.207435,
+     "lon": 72.52488
+    },
+    {
+     "name": "Wegowal Bus Stop Down",
+     "lat": 32.199533,
+     "lon": 72.53665
+    },
+    {
+     "name": "Chak 05 Bus Stop Down",
+     "lat": 32.187692,
+     "lon": 72.5528
+    },
+    {
+     "name": "Chak 67 Bus Stop Down",
+     "lat": 32.180545,
+     "lon": 72.563004
+    },
+    {
+     "name": "Chak 04 Bus Stop Down",
+     "lat": 32.177396,
+     "lon": 72.56763
+    },
+    {
+     "name": "Dhrema Adda Bus Stop Down",
+     "lat": 32.159693,
+     "lon": 72.593068
+    },
+    {
+     "name": "Darbar Chowk Bus Stop Down",
+     "lat": 32.156667,
+     "lon": 72.597412
+    },
+    {
+     "name": "Dhrema Bus Stop Down",
+     "lat": 32.153904,
+     "lon": 72.603122
+    },
+    {
+     "name": "Bhawat Saraye Stop Down",
+     "lat": 32.149008,
+     "lon": 72.622124
+    },
+    {
+     "name": "Haji Colony Down",
+     "lat": 32.145541,
+     "lon": 72.63417
+    },
+    {
+     "name": "Jhal Chakian Down",
+     "lat": 32.142743,
+     "lon": 72.643206
+    },
+    {
+     "name": "Green Homes Down",
+     "lat": 32.138732,
+     "lon": 72.645208
+    },
+    {
+     "name": "92 Morr Bus Stop Down",
+     "lat": 32.12354,
+     "lon": 72.651941
+    },
+    {
+     "name": "Chak 71 Bus Stop Down",
+     "lat": 32.117317,
+     "lon": 72.651975
+    },
+    {
+     "name": "Aziz Bhatti Town Down",
+     "lat": 32.108951,
+     "lon": 72.652195
+    },
+    {
+     "name": "Sabharwal Colony Down",
+     "lat": 32.10464,
+     "lon": 72.652116
+    },
+    {
+     "name": "CMH Bus Stop Down",
+     "lat": 32.093353,
+     "lon": 72.652116
+    },
+    {
+     "name": "City Stop Down",
+     "lat": 32.091499,
+     "lon": 72.656548
+    },
+    {
+     "name": "Hussain Chowk Down",
+     "lat": 32.085537,
+     "lon": 72.659684
+    },
+    {
+     "name": "DHQ SGD Down",
+     "lat": 32.081596,
+     "lon": 72.665986
+    },
+    {
+     "name": "Islampura Down",
+     "lat": 32.085637,
+     "lon": 72.676897
+    },
+    {
+     "name": "Old Satellite Town Down",
+     "lat": 32.084902,
+     "lon": 72.690073
+    },
+    {
+     "name": "Chunggi No. 09 Down",
+     "lat": 32.084078,
+     "lon": 72.69512
+    },
+    {
+     "name": "GBS Sargodha",
+     "lat": 32.075568,
+     "lon": 72.697941
+    }
+   ]
+  }
+ ]
+}

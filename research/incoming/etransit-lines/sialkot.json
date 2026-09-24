@@ -1,0 +1,483 @@
+{
+ "city": "sialkot",
+ "source": "etransit.punjab.gov.pk",
+ "lines": [
+  {
+   "id": "60-575",
+   "code": "575",
+   "name": "GBS Sialkot to Pasrur",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "GBS, Sialkot Up",
+     "lat": 32.509993,
+     "lon": 74.526971
+    },
+    {
+     "name": "Paris Road Up",
+     "lat": 32.510161,
+     "lon": 74.536936
+    },
+    {
+     "name": "State Bank Sialkot Up",
+     "lat": 32.506725,
+     "lon": 74.553374
+    },
+    {
+     "name": "Sheikh Maula Tala Shop Up",
+     "lat": 32.496314,
+     "lon": 74.550508
+    },
+    {
+     "name": "Naika Pura Pullak Up",
+     "lat": 32.485452,
+     "lon": 74.542737
+    },
+    {
+     "name": "Gulshan-e-Iqbal Park Up",
+     "lat": 32.472034,
+     "lon": 74.553139
+    },
+    {
+     "name": "Bismillah Chowk sialkot Up",
+     "lat": 32.468399,
+     "lon": 74.555952
+    },
+    {
+     "name": "Dheera Sandha Up",
+     "lat": 32.452292,
+     "lon": 74.565283
+    },
+    {
+     "name": "Lakhanpur Up",
+     "lat": 32.442973,
+     "lon": 74.569697
+    },
+    {
+     "name": "Islam Medical College Up",
+     "lat": 32.435824,
+     "lon": 74.577125
+    },
+    {
+     "name": "Model Town Society Up",
+     "lat": 32.428594,
+     "lon": 74.583988
+    },
+    {
+     "name": "Gunnah Kalan Up",
+     "lat": 32.417063,
+     "lon": 74.591494
+    },
+    {
+     "name": "Wario Up",
+     "lat": 32.410234,
+     "lon": 74.595637
+    },
+    {
+     "name": "Badiana Up",
+     "lat": 32.375881,
+     "lon": 74.618878
+    },
+    {
+     "name": "Buttar Paday Up",
+     "lat": 32.364289,
+     "lon": 74.621414
+    },
+    {
+     "name": "Purab Up",
+     "lat": 32.347176,
+     "lon": 74.626633
+    },
+    {
+     "name": "Khui Stop Up",
+     "lat": 32.333536,
+     "lon": 74.633797
+    },
+    {
+     "name": "Langay Up",
+     "lat": 32.321721,
+     "lon": 74.640479
+    },
+    {
+     "name": "Sarai Shah Fateh Up",
+     "lat": 32.307853,
+     "lon": 74.646886
+    },
+    {
+     "name": "Ramkey Up",
+     "lat": 32.299773,
+     "lon": 74.649116
+    },
+    {
+     "name": "Punjab College, Pasrur Up",
+     "lat": 32.288633,
+     "lon": 74.651596
+    },
+    {
+     "name": "Malopatyal Up",
+     "lat": 32.282933,
+     "lon": 74.652742
+    },
+    {
+     "name": "Narowal Bypass Up",
+     "lat": 32.276384,
+     "lon": 74.653917
+    },
+    {
+     "name": "Larri Adda, Pasrur Up",
+     "lat": 32.270414,
+     "lon": 74.654808
+    },
+    {
+     "name": "THQ Hospital Sialkot Up",
+     "lat": 32.264274,
+     "lon": 74.655947
+    },
+    {
+     "name": "Pasrur Up",
+     "lat": 32.260973,
+     "lon": 74.657041
+    }
+   ]
+  },
+  {
+   "id": "60-576",
+   "code": "576",
+   "name": "Pasrur to GBS Sialkot",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "Pasrur Down",
+     "lat": 32.261022,
+     "lon": 74.656821
+    },
+    {
+     "name": "THQ Hospital sialkot Down",
+     "lat": 32.264425,
+     "lon": 74.655698
+    },
+    {
+     "name": "Larri Adda, Pasrur Down",
+     "lat": 32.270539,
+     "lon": 74.654611
+    },
+    {
+     "name": "Narowal Bypass Down",
+     "lat": 32.276317,
+     "lon": 74.653698
+    },
+    {
+     "name": "Malopatyal Down",
+     "lat": 32.282776,
+     "lon": 74.652549
+    },
+    {
+     "name": "Punjab College, Pasrur Down",
+     "lat": 32.288576,
+     "lon": 74.651432
+    },
+    {
+     "name": "Ramkey Down",
+     "lat": 32.300563,
+     "lon": 74.648612
+    },
+    {
+     "name": "Sarai Shah Fateh",
+     "lat": 32.307816,
+     "lon": 74.646696
+    },
+    {
+     "name": "Langay Down",
+     "lat": 32.321674,
+     "lon": 74.640313
+    },
+    {
+     "name": "Khui Stop Down",
+     "lat": 32.333709,
+     "lon": 74.633405
+    },
+    {
+     "name": "Purab Down",
+     "lat": 32.347224,
+     "lon": 74.626391
+    },
+    {
+     "name": "Buttar Paday Down",
+     "lat": 32.364283,
+     "lon": 74.621275
+    },
+    {
+     "name": "Badiana Down",
+     "lat": 32.375843,
+     "lon": 74.618555
+    },
+    {
+     "name": "Wario Down",
+     "lat": 32.410171,
+     "lon": 74.595421
+    },
+    {
+     "name": "Gunnah Kalan Down",
+     "lat": 32.416979,
+     "lon": 74.591276
+    },
+    {
+     "name": "Model Town Society Down",
+     "lat": 32.428486,
+     "lon": 74.583833
+    },
+    {
+     "name": "Islam Medical College Down",
+     "lat": 32.435569,
+     "lon": 74.576995
+    },
+    {
+     "name": "Lakhanpur Down",
+     "lat": 32.442914,
+     "lon": 74.569503
+    },
+    {
+     "name": "Dheera Sandha Down",
+     "lat": 32.452181,
+     "lon": 74.565061
+    },
+    {
+     "name": "Bismillah Chowk sialkot Down",
+     "lat": 32.468272,
+     "lon": 74.555694
+    },
+    {
+     "name": "Naika Pura Pullak Down",
+     "lat": 32.485097,
+     "lon": 74.543482
+    },
+    {
+     "name": "Sheikh Maula Tala Shop Down",
+     "lat": 32.496573,
+     "lon": 74.550325
+    },
+    {
+     "name": "State Bank sialkot Down",
+     "lat": 32.507074,
+     "lon": 74.553183
+    },
+    {
+     "name": "Paris Road Down",
+     "lat": 32.509906,
+     "lon": 74.537235
+    },
+    {
+     "name": "GBS, Sialkot Down",
+     "lat": 32.509801,
+     "lon": 74.526884
+    }
+   ]
+  },
+  {
+   "id": "60-577",
+   "code": "577",
+   "name": "GBS Sialkot to Daska",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "GBS, Sialkot Up",
+     "lat": 32.509993,
+     "lon": 74.526971
+    },
+    {
+     "name": "12 Pathar Chowk Up",
+     "lat": 32.512073,
+     "lon": 74.522695
+    },
+    {
+     "name": "Kotli Behram Up",
+     "lat": 32.509199,
+     "lon": 74.516642
+    },
+    {
+     "name": "Pakka Garha Up",
+     "lat": 32.505103,
+     "lon": 74.507907
+    },
+    {
+     "name": "Touheed Town Up",
+     "lat": 32.492335,
+     "lon": 74.503705
+    },
+    {
+     "name": "Mustafa Town Up",
+     "lat": 32.481636,
+     "lon": 74.511792
+    },
+    {
+     "name": "Daburji Stop Up",
+     "lat": 32.467668,
+     "lon": 74.515759
+    },
+    {
+     "name": "University of Sialkot Up",
+     "lat": 32.464549,
+     "lon": 74.512414
+    },
+    {
+     "name": "Pharmacy College Up",
+     "lat": 32.452084,
+     "lon": 74.499091
+    },
+    {
+     "name": "Dak Wala Stop Up",
+     "lat": 32.449894,
+     "lon": 74.496628
+    },
+    {
+     "name": "Adda Ghumman Up",
+     "lat": 32.440562,
+     "lon": 74.486481
+    },
+    {
+     "name": "Ghuinke Up",
+     "lat": 32.420642,
+     "lon": 74.464659
+    },
+    {
+     "name": "Baab-e-Sialkot Up",
+     "lat": 32.412427,
+     "lon": 74.455729
+    },
+    {
+     "name": "Bhilo Mahar Up",
+     "lat": 32.391914,
+     "lon": 74.432755
+    },
+    {
+     "name": "Motra Ghumman Up",
+     "lat": 32.382828,
+     "lon": 74.424044
+    },
+    {
+     "name": "Rajoke Up",
+     "lat": 32.359859,
+     "lon": 74.401396
+    },
+    {
+     "name": "Jasarwala Up",
+     "lat": 32.347107,
+     "lon": 74.389651
+    },
+    {
+     "name": "Pasrur Bypass Up",
+     "lat": 32.338346,
+     "lon": 74.375236
+    },
+    {
+     "name": "Daska Up",
+     "lat": 32.336433,
+     "lon": 74.368811
+    }
+   ]
+  },
+  {
+   "id": "60-578",
+   "code": "578",
+   "name": "Daska to GBS Sialkot",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "Daska Down",
+     "lat": 32.336585,
+     "lon": 74.368785
+    },
+    {
+     "name": "Pasrur Bypass Down",
+     "lat": 32.338521,
+     "lon": 74.375237
+    },
+    {
+     "name": "Jasarwala Down",
+     "lat": 32.347321,
+     "lon": 74.389605
+    },
+    {
+     "name": "Rajoke Down",
+     "lat": 32.360195,
+     "lon": 74.401483
+    },
+    {
+     "name": "Motra Ghumman Down",
+     "lat": 32.383023,
+     "lon": 74.423987
+    },
+    {
+     "name": "Bhilo Mahar Down",
+     "lat": 32.392052,
+     "lon": 74.432651
+    },
+    {
+     "name": "Baab-e-sialkot Down",
+     "lat": 32.412791,
+     "lon": 74.455709
+    },
+    {
+     "name": "Ghuinke Down",
+     "lat": 32.420826,
+     "lon": 74.464611
+    },
+    {
+     "name": "Adda Ghumman Down",
+     "lat": 32.440734,
+     "lon": 74.486409
+    },
+    {
+     "name": "Dak Wala Stop",
+     "lat": 32.450017,
+     "lon": 74.496392
+    },
+    {
+     "name": "Pharmacy College Down",
+     "lat": 32.452387,
+     "lon": 74.498881
+    },
+    {
+     "name": "University of Sialkot Down",
+     "lat": 32.464711,
+     "lon": 74.512151
+    },
+    {
+     "name": "Daburji Stop Down",
+     "lat": 32.467893,
+     "lon": 74.515604
+    },
+    {
+     "name": "Mustafa Town Down",
+     "lat": 32.481665,
+     "lon": 74.511536
+    },
+    {
+     "name": "Touheed Town Down",
+     "lat": 32.492269,
+     "lon": 74.503534
+    },
+    {
+     "name": "Pakka Garha Down",
+     "lat": 32.505504,
+     "lon": 74.507882
+    },
+    {
+     "name": "Kotli Behram Down",
+     "lat": 32.509601,
+     "lon": 74.516708
+    },
+    {
+     "name": "12 Pathar Chowk Down",
+     "lat": 32.512332,
+     "lon": 74.522571
+    },
+    {
+     "name": "GBS, Sialkot Down",
+     "lat": 32.509801,
+     "lon": 74.526884
+    }
+   ]
+  }
+ ]
+}

@@ -1340,6 +1340,540 @@
         }
       ],
       "notes": "60 buses in Sargodha city (105 for the division). Bhera-Sargodha fare reported cut from Rs 200 to Rs 20. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Sargodha to Kalma Chowk Sillanwali', 32 stops); safar lists service 6:00 AM - 9:50 PM (unverified)."
+    },
+    {
+      "id": "gbs-sargodha-to-shahpur",
+      "name": "GBS Sargodha to Shahpur",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 60,
+      "hours": {
+        "start": "06:00",
+        "end": "20:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "GBS Sargodha",
+          "name_ur": "",
+          "lat": 32.075568,
+          "lon": 72.697941,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2350",
+          "is_station": false
+        },
+        {
+          "name": "Chunggi No. 09",
+          "name_ur": "",
+          "lat": 32.083883,
+          "lon": 72.695012,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7952",
+          "is_station": false
+        },
+        {
+          "name": "Old Satellite Town",
+          "name_ur": "",
+          "lat": 32.08462,
+          "lon": 72.690007,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7953",
+          "is_station": false
+        },
+        {
+          "name": "Islampura",
+          "name_ur": "",
+          "lat": 32.085848,
+          "lon": 72.677029,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2442",
+          "is_station": false
+        },
+        {
+          "name": "DHQ SGD",
+          "name_ur": "",
+          "lat": 32.081981,
+          "lon": 72.66588,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2443",
+          "is_station": false
+        },
+        {
+          "name": "Hussain Chowk",
+          "name_ur": "",
+          "lat": 32.085293,
+          "lon": 72.659487,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7954",
+          "is_station": false
+        },
+        {
+          "name": "City Stop",
+          "name_ur": "",
+          "lat": 32.091303,
+          "lon": 72.656532,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7955",
+          "is_station": false
+        },
+        {
+          "name": "CMH Bus Stop",
+          "name_ur": "",
+          "lat": 32.092775,
+          "lon": 72.651933,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7956",
+          "is_station": false
+        },
+        {
+          "name": "Sabharwal Colony",
+          "name_ur": "",
+          "lat": 32.104828,
+          "lon": 72.651939,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7957",
+          "is_station": false
+        },
+        {
+          "name": "Aziz Bhatti Town",
+          "name_ur": "",
+          "lat": 32.108731,
+          "lon": 72.651939,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7958",
+          "is_station": false
+        },
+        {
+          "name": "Chak 71 Bus Stop",
+          "name_ur": "",
+          "lat": 32.117602,
+          "lon": 72.651875,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7959",
+          "is_station": false
+        },
+        {
+          "name": "92 Morr Bus Stop",
+          "name_ur": "",
+          "lat": 32.123906,
+          "lon": 72.6518,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7960",
+          "is_station": false
+        },
+        {
+          "name": "Green Homes",
+          "name_ur": "",
+          "lat": 32.138871,
+          "lon": 72.64489,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7961",
+          "is_station": false
+        },
+        {
+          "name": "Jhal Chakian",
+          "name_ur": "",
+          "lat": 32.142709,
+          "lon": 72.642981,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7962",
+          "is_station": false
+        },
+        {
+          "name": "Haji Colony",
+          "name_ur": "",
+          "lat": 32.145532,
+          "lon": 72.633956,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7963",
+          "is_station": false
+        },
+        {
+          "name": "Bhawat Saraye Stop",
+          "name_ur": "",
+          "lat": 32.148935,
+          "lon": 72.621732,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7964",
+          "is_station": false
+        },
+        {
+          "name": "Dhrema Bus Stop",
+          "name_ur": "",
+          "lat": 32.15382,
+          "lon": 72.60304,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7965",
+          "is_station": false
+        },
+        {
+          "name": "Darbar Chowk Bus Stop",
+          "name_ur": "",
+          "lat": 32.156716,
+          "lon": 72.597094,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7966",
+          "is_station": false
+        },
+        {
+          "name": "Dhrema Adda Bus Stop",
+          "name_ur": "",
+          "lat": 32.15968,
+          "lon": 72.592841,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7967",
+          "is_station": false
+        },
+        {
+          "name": "Chak 04 Bus Stop",
+          "name_ur": "",
+          "lat": 32.177189,
+          "lon": 72.567627,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7968",
+          "is_station": false
+        },
+        {
+          "name": "Chak 67 Bus Stop",
+          "name_ur": "",
+          "lat": 32.180271,
+          "lon": 72.563278,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7969",
+          "is_station": false
+        },
+        {
+          "name": "Chak 05 Bus Stop",
+          "name_ur": "",
+          "lat": 32.187649,
+          "lon": 72.552645,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7970",
+          "is_station": false
+        },
+        {
+          "name": "Wegowal Bus Stop",
+          "name_ur": "",
+          "lat": 32.199512,
+          "lon": 72.536482,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7971",
+          "is_station": false
+        },
+        {
+          "name": "Shahedain Wali Bus Stop",
+          "name_ur": "",
+          "lat": 32.207455,
+          "lon": 72.524572,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7972",
+          "is_station": false
+        },
+        {
+          "name": "Gohar Jalal Bus Stop",
+          "name_ur": "",
+          "lat": 32.223141,
+          "lon": 72.510537,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7973",
+          "is_station": false
+        },
+        {
+          "name": "Jalpana Bus Stop",
+          "name_ur": "",
+          "lat": 32.23836,
+          "lon": 72.498105,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7974",
+          "is_station": false
+        },
+        {
+          "name": "Sultan Feed Mill",
+          "name_ur": "",
+          "lat": 32.242591,
+          "lon": 72.494658,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7975",
+          "is_station": false
+        },
+        {
+          "name": "LRBT Eye Hospital",
+          "name_ur": "",
+          "lat": 32.250422,
+          "lon": 72.488144,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7976",
+          "is_station": false
+        },
+        {
+          "name": "Inspire College Bus Stop",
+          "name_ur": "",
+          "lat": 32.256881,
+          "lon": 72.482806,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7977",
+          "is_station": false
+        },
+        {
+          "name": "Govt Degree Boys College, Shahpur Sadar",
+          "name_ur": "",
+          "lat": 32.260651,
+          "lon": 72.47956,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7978",
+          "is_station": false
+        },
+        {
+          "name": "Govt Girls Degree College, Shahpur",
+          "name_ur": "",
+          "lat": 32.263111,
+          "lon": 72.474311,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7979",
+          "is_station": false
+        },
+        {
+          "name": "Shahpur Sadar Bus Stop",
+          "name_ur": "",
+          "lat": 32.264597,
+          "lon": 72.47139,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7980",
+          "is_station": false
+        },
+        {
+          "name": "Govt Middle School",
+          "name_ur": "",
+          "lat": 32.274183,
+          "lon": 72.454949,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7981",
+          "is_station": false
+        },
+        {
+          "name": "Bilal Colony Bus Stop",
+          "name_ur": "",
+          "lat": 32.281075,
+          "lon": 72.442924,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7982",
+          "is_station": false
+        },
+        {
+          "name": "Bab E Sherazi Bus Stop",
+          "name_ur": "",
+          "lat": 32.284941,
+          "lon": 72.436154,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7983",
+          "is_station": false
+        },
+        {
+          "name": "GBS Shahpur",
+          "name_ur": "",
+          "lat": 32.287324,
+          "lon": 72.43437,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7950",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "high",
+      "sources": [
+        {
+          "title": "eTransit Punjab (PMA) route planner, line 31, route 523 'GBS Sargodha to Shahpur' (get-line-schedules, forward direction, fetched 2026-09-24)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        }
+      ],
+      "notes": "Official PMA/eTransit stop list, forward direction 'GBS Sargodha to Shahpur' (36 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 0 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. New route; shares its first 14 stops with GBS Sargodha - Lak Morr. Likely one of the extra buses announced on 4 Sep 2026."
+    },
+    {
+      "id": "gbs-sargodha-to-lak-morr",
+      "name": "GBS Sargodha to Lak Morr",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 65,
+      "hours": {
+        "start": "06:00",
+        "end": "21:10"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "GBS Sargodha",
+          "name_ur": "",
+          "lat": 32.075568,
+          "lon": 72.697941,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2350",
+          "is_station": false
+        },
+        {
+          "name": "Chunggi No. 09",
+          "name_ur": "",
+          "lat": 32.083883,
+          "lon": 72.695012,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7952",
+          "is_station": false
+        },
+        {
+          "name": "Old Satellite Town",
+          "name_ur": "",
+          "lat": 32.08462,
+          "lon": 72.690007,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7953",
+          "is_station": false
+        },
+        {
+          "name": "Islampura",
+          "name_ur": "",
+          "lat": 32.085848,
+          "lon": 72.677029,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2442",
+          "is_station": false
+        },
+        {
+          "name": "DHQ SGD",
+          "name_ur": "",
+          "lat": 32.081981,
+          "lon": 72.66588,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/2443",
+          "is_station": false
+        },
+        {
+          "name": "Hussain Chowk",
+          "name_ur": "",
+          "lat": 32.085293,
+          "lon": 72.659487,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7954",
+          "is_station": false
+        },
+        {
+          "name": "City Stop",
+          "name_ur": "",
+          "lat": 32.091303,
+          "lon": 72.656532,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7955",
+          "is_station": false
+        },
+        {
+          "name": "CMH Bus Stop",
+          "name_ur": "",
+          "lat": 32.092775,
+          "lon": 72.651933,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7956",
+          "is_station": false
+        },
+        {
+          "name": "Sabharwal Colony",
+          "name_ur": "",
+          "lat": 32.104828,
+          "lon": 72.651939,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7957",
+          "is_station": false
+        },
+        {
+          "name": "Aziz Bhatti Town",
+          "name_ur": "",
+          "lat": 32.108731,
+          "lon": 72.651939,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7958",
+          "is_station": false
+        },
+        {
+          "name": "Chak 71 Bus Stop",
+          "name_ur": "",
+          "lat": 32.117602,
+          "lon": 72.651875,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7959",
+          "is_station": false
+        },
+        {
+          "name": "92 Morr Bus Stop",
+          "name_ur": "",
+          "lat": 32.123906,
+          "lon": 72.6518,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7960",
+          "is_station": false
+        },
+        {
+          "name": "Green Homes",
+          "name_ur": "",
+          "lat": 32.138871,
+          "lon": 72.64489,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7961",
+          "is_station": false
+        },
+        {
+          "name": "Jhal Chakian",
+          "name_ur": "",
+          "lat": 32.142709,
+          "lon": 72.642981,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7962",
+          "is_station": false
+        },
+        {
+          "name": "Mubarak Medical Complex",
+          "name_ur": "",
+          "lat": 32.14416,
+          "lon": 72.64515,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8016",
+          "is_station": false
+        },
+        {
+          "name": "Reader Grammar School",
+          "name_ur": "",
+          "lat": 32.15337,
+          "lon": 72.65341,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8017",
+          "is_station": false
+        },
+        {
+          "name": "Chak No 55 NB",
+          "name_ur": "",
+          "lat": 32.1648,
+          "lon": 72.66369,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8018",
+          "is_station": false
+        },
+        {
+          "name": "Chak No. 54",
+          "name_ur": "",
+          "lat": 32.17464,
+          "lon": 72.67256,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8019",
+          "is_station": false
+        },
+        {
+          "name": "Al Mahnoor Enterprises",
+          "name_ur": "",
+          "lat": 32.18632,
+          "lon": 72.68287,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8020",
+          "is_station": false
+        },
+        {
+          "name": "Mari Lak",
+          "name_ur": "",
+          "lat": 32.19281,
+          "lon": 72.68877,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8021",
+          "is_station": false
+        },
+        {
+          "name": "Gov Degree College For Girls",
+          "name_ur": "",
+          "lat": 32.19873,
+          "lon": 72.68528,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8022",
+          "is_station": false
+        },
+        {
+          "name": "Royal Marriage Hall",
+          "name_ur": "",
+          "lat": 32.22331,
+          "lon": 72.68145,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8023",
+          "is_station": false
+        },
+        {
+          "name": "National Hospital Lak Morr",
+          "name_ur": "",
+          "lat": 32.2586,
+          "lon": 72.67601,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8024",
+          "is_station": false
+        },
+        {
+          "name": "Lak Morr",
+          "name_ur": "",
+          "lat": 32.26535,
+          "lon": 72.67573,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7948",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "high",
+      "sources": [
+        {
+          "title": "eTransit Punjab (PMA) route planner, line 31, route 524 'GBS Sargodha to Lak Morr' (get-line-schedules, forward direction, fetched 2026-09-24)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        }
+      ],
+      "notes": "Official PMA/eTransit stop list, forward direction 'GBS Sargodha to Lak Morr' (24 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 0 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. New route; shares its first 14 stops with GBS Sargodha - Shahpur."
     }
   ]
 }

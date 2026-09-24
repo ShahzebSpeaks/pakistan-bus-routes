@@ -861,6 +861,249 @@
         }
       ],
       "notes": "Express Tribune (2025): free e-bus travel for women, students and seniors in Sahiwal. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'KFC Bypass to Noor Shah', 22 stops); safar lists service 6:00 AM - 9:24 PM (unverified)."
+    },
+    {
+      "id": "electro-bus-depot-to-harappa-museum",
+      "name": "Electro Bus Depot to Harappa Museum",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 50,
+      "hours": {
+        "start": "06:00",
+        "end": "19:20"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "E-Bus Depot",
+          "name_ur": "",
+          "lat": 30.66652,
+          "lon": 73.15343,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7944",
+          "is_station": false
+        },
+        {
+          "name": "View Hotel",
+          "name_ur": "",
+          "lat": 30.664228,
+          "lon": 73.152186,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3490",
+          "is_station": false
+        },
+        {
+          "name": "Mcdonald's",
+          "name_ur": "",
+          "lat": 30.65911,
+          "lon": 73.137604,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7945",
+          "is_station": false
+        },
+        {
+          "name": "Pakpattan Chowk",
+          "name_ur": "",
+          "lat": 30.653619,
+          "lon": 73.117997,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3450",
+          "is_station": false
+        },
+        {
+          "name": "Jogi Chowk",
+          "name_ur": "",
+          "lat": 30.660556,
+          "lon": 73.108617,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/1850",
+          "is_station": false
+        },
+        {
+          "name": "GBS Railway Road",
+          "name_ur": "",
+          "lat": 30.660457,
+          "lon": 73.1064,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7897",
+          "is_station": false
+        },
+        {
+          "name": "Stadium Chowk",
+          "name_ur": "",
+          "lat": 30.658903,
+          "lon": 73.100776,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7901",
+          "is_station": false
+        },
+        {
+          "name": "Vocational College Chowk, SWL",
+          "name_ur": "",
+          "lat": 30.658033,
+          "lon": 73.097323,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7902",
+          "is_station": false
+        },
+        {
+          "name": "Khalid Shair Dil Chowk",
+          "name_ur": "",
+          "lat": 30.657064,
+          "lon": 73.093851,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7903",
+          "is_station": false
+        },
+        {
+          "name": "Bilali Masjid",
+          "name_ur": "",
+          "lat": 30.653804,
+          "lon": 73.087388,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7904",
+          "is_station": false
+        },
+        {
+          "name": "Technology College",
+          "name_ur": "",
+          "lat": 30.65268,
+          "lon": 73.08379,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7905",
+          "is_station": false
+        },
+        {
+          "name": "Small Industries",
+          "name_ur": "",
+          "lat": 30.656693,
+          "lon": 73.079432,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7906",
+          "is_station": false
+        },
+        {
+          "name": "TTC Chowk",
+          "name_ur": "",
+          "lat": 30.66176,
+          "lon": 73.07375,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7907",
+          "is_station": false
+        },
+        {
+          "name": "95/6-R & 94/6-R",
+          "name_ur": "",
+          "lat": 30.661856,
+          "lon": 73.067885,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7908",
+          "is_station": false
+        },
+        {
+          "name": "96/6-R",
+          "name_ur": "",
+          "lat": 30.6618,
+          "lon": 73.04234,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7909",
+          "is_station": false
+        },
+        {
+          "name": "Darbar Chowk Bypass",
+          "name_ur": "",
+          "lat": 30.66182,
+          "lon": 73.03835,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7910",
+          "is_station": false
+        },
+        {
+          "name": "97/6-R",
+          "name_ur": "",
+          "lat": 30.66178,
+          "lon": 73.01752,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7911",
+          "is_station": false
+        },
+        {
+          "name": "98/6-R",
+          "name_ur": "",
+          "lat": 30.66184,
+          "lon": 73.00375,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7912",
+          "is_station": false
+        },
+        {
+          "name": "Adda Bootipal",
+          "name_ur": "",
+          "lat": 30.6618765,
+          "lon": 72.9932343,
+          "coord_source": "osm:node/4424870897",
+          "is_station": false
+        },
+        {
+          "name": "99/6-R",
+          "name_ur": "",
+          "lat": 30.65972,
+          "lon": 72.98626,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7914",
+          "is_station": false
+        },
+        {
+          "name": "100-A/WM",
+          "name_ur": "",
+          "lat": 30.65381,
+          "lon": 72.96524,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7915",
+          "is_station": false
+        },
+        {
+          "name": "100/VM & Adda Jhal",
+          "name_ur": "",
+          "lat": 30.6538,
+          "lon": 72.9653,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7916",
+          "is_station": false
+        },
+        {
+          "name": "101/6-AR (Kool Wala)",
+          "name_ur": "",
+          "lat": 30.64187,
+          "lon": 72.9246,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7917",
+          "is_station": false
+        },
+        {
+          "name": "Lodhi Chowk",
+          "name_ur": "",
+          "lat": 30.62979,
+          "lon": 72.88294,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7918",
+          "is_station": false
+        },
+        {
+          "name": "Council Morr Harappa",
+          "name_ur": "",
+          "lat": 30.62836,
+          "lon": 72.87768,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7919",
+          "is_station": false
+        },
+        {
+          "name": "Thana Mor",
+          "name_ur": "",
+          "lat": 30.627103,
+          "lon": 72.873303,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7920",
+          "is_station": false
+        },
+        {
+          "name": "Harappa Museum",
+          "name_ur": "",
+          "lat": 30.624824,
+          "lon": 72.866386,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7899",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "high",
+      "sources": [
+        {
+          "title": "eTransit Punjab (PMA) route planner, line 27, route 518 'Electro Bus Depot to Harappa Museum' (get-line-schedules, forward direction, fetched 2026-09-24)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        }
+      ],
+      "notes": "Official PMA/eTransit stop list, forward direction 'Electro Bus Depot to Harappa Museum' (27 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 1 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. New 5th Sahiwal route via Jogi Chowk, the GBS on Railway Road and the 6-R chaks to Harappa."
     }
   ]
 }

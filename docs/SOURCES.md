@@ -32,6 +32,7 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Bahawalpur Green Electric Bus routes](https://www.safar.fyi/bahawalpur/transit-lines) · safar.fyi
 - [safar.fyi Bahawalpur route](https://www.safar.fyi/bahawalpur/transit-lines/bwp%3A227)
+- [eTransit Punjab (PMA) route planner, line 41, route 227 'DHA to Cattle market (via 13 Solang)' (get-line-schedules, forward direction, fetched 2026-09-24)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Bahawalpur route](https://www.safar.fyi/bahawalpur/transit-lines/bwp%3A229)
 - [safar.fyi Bahawalpur route](https://www.safar.fyi/bahawalpur/transit-lines/bwp%3A226)
 - [safar.fyi Bahawalpur route](https://www.safar.fyi/bahawalpur/transit-lines/bwp%3A228)
@@ -120,6 +121,10 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [All Gujrat Green Electric Bus routes](https://www.safar.fyi/gujrat/transit-lines) · safar.fyi
 - [safar.fyi Gujrat route](https://www.safar.fyi/gujrat/transit-lines/etransit-gujrat%3A348)
 - [safar.fyi Gujrat route](https://www.safar.fyi/gujrat/transit-lines/etransit-gujrat%3A347)
+
+## Gujrat private wagons, minibuses and paratransit (gujrat)
+
+- [Punjab Cities Improvement Investment Program - Gujrat City Profile (Urban Unit / GHK, ADB-funded, c.2010)](https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Gujrat.pdf) · The Urban Unit, P&D Department Punjab (consultant GHK) · c.2010 (hosted 2021)
 
 ## Green Electric Bus Hafizabad (hafizabad)
 
@@ -364,6 +369,10 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [safar.fyi Jhang route](https://www.safar.fyi/jhang/transit-lines/jhg%3A197)
 - [safar.fyi Jhang route](https://www.safar.fyi/jhang/transit-lines/jhg%3A199)
 
+## Jhang private wagons, minibuses and paratransit (jhang)
+
+- [Punjab Cities Improvement Investment Program - Jhang City Profile (Urban Unit / GHK, ADB-funded, c.2010)](https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Jhang.pdf) · The Urban Unit, P&D Department Punjab (consultant GHK) · c.2010 (hosted 2021)
+
 ## Green Electric Bus Jhelum (jhelum)
 
 - [Punjab expands electric bus service into ten new cities](https://minutemirror.com.pk/punjab-expands-electric-bus-service-into-ten-new-cities-463865/) · Minute Mirror · 2025-11-18
@@ -414,6 +423,7 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [Mnzil vehicle page 007](https://mnzil.app/vehicles/007)
 - [Mnzil vehicle page 2-J](https://mnzil.app/vehicles/2-J)
 - [Mnzil vehicle page 4-E](https://mnzil.app/vehicles/4-E)
+- [mnzil: BRT-Metro-Green-Line](https://mnzil.app/vehicles/BRT-Metro-Green-Line)
 - [Mnzil vehicle page 4-X](https://mnzil.app/vehicles/4-X)
 - [Mnzil vehicle page 555](https://mnzil.app/vehicles/555)
 - [Mnzil vehicle page 786](https://mnzil.app/vehicles/786)
@@ -421,12 +431,15 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [Mnzil vehicle page 8](https://mnzil.app/vehicles/8-Chinchi)
 - [Mnzil vehicle page A](https://mnzil.app/vehicles/A)
 - [Mnzil vehicle page A-1](https://mnzil.app/vehicles/A-1)
+- [mnzil: A-3](https://mnzil.app/vehicles/A-3)
 - [Mnzil vehicle page A-18](https://mnzil.app/vehicles/A-18)
 - [Mnzil vehicle page AA1](https://mnzil.app/vehicles/AA1-Chinchi)
+- [mnzil: Sultan-Chinchi](https://mnzil.app/vehicles/Sultan-Chinchi)
 - [Mnzil vehicle page AS-1](https://mnzil.app/vehicles/AS-1)
 - [Mnzil vehicle page B-1](https://mnzil.app/vehicles/B-1-Chinchi)
 - [Mnzil vehicle page B-3](https://mnzil.app/vehicles/B-3)
 - [Mnzil vehicle page B-9](https://mnzil.app/vehicles/B-9-Chinchi)
+- [mnzil: Abdullah](https://mnzil.app/vehicles/Abdullah)
 - [Mnzil vehicle page D-13](https://mnzil.app/vehicles/D-13)
 - [Mnzil vehicle page D-22](https://mnzil.app/vehicles/D-22)
 - [Mnzil vehicle page D-3](https://mnzil.app/vehicles/D-3-Chinchi)
@@ -447,9 +460,11 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [Mnzil vehicle page K-86](https://mnzil.app/vehicles/K-86)
 - [Mnzil vehicle page Karachi King](https://mnzil.app/vehicles/Karachi-King-Chinchi)
 - [Mnzil vehicle page M-1](https://mnzil.app/vehicles/M-1)
+- [mnzil: R-14](https://mnzil.app/vehicles/R-14)
 - [Mnzil vehicle page M-10](https://mnzil.app/vehicles/M-10)
 - [Mnzil vehicle page M-22](https://mnzil.app/vehicles/M-22)
 - [Mnzil vehicle page M-5](https://mnzil.app/vehicles/M-5)
+- [mnzil: Gulistan](https://mnzil.app/vehicles/Gulistan)
 - [Mnzil vehicle page M-55](https://mnzil.app/vehicles/M-55)
 - [Mnzil vehicle page M-7](https://mnzil.app/vehicles/M-7)
 - [Mnzil vehicle page M-9](https://mnzil.app/vehicles/M-9)
@@ -458,6 +473,7 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [Mnzil vehicle page N-1 Baldia](https://mnzil.app/vehicles/N-1-Baldia)
 - [Mnzil vehicle page N-55](https://mnzil.app/vehicles/N-55)
 - [Mnzil vehicle page N-91](https://mnzil.app/vehicles/N-91)
+- [mnzil: G-19](https://mnzil.app/vehicles/G-19)
 - [Mnzil vehicle page Naseeb](https://mnzil.app/vehicles/Naseeb-Chinchi)
 - [Mnzil vehicle page ND-1](https://mnzil.app/vehicles/ND-1-Chinchi)
 - [Mnzil vehicle page P-1](https://mnzil.app/vehicles/P-1)
@@ -466,7 +482,6 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [Mnzil vehicle page S-2](https://mnzil.app/vehicles/S-2)
 - [Mnzil vehicle page S-7](https://mnzil.app/vehicles/S-7)
 - [Mnzil vehicle page S-K](https://mnzil.app/vehicles/S-K-Chinchi)
-- [Mnzil vehicle page Sultan](https://mnzil.app/vehicles/Sultan-Chinchi)
 - [Mnzil vehicle page T-10](https://mnzil.app/vehicles/T-10)
 - [Mnzil vehicle page T-11](https://mnzil.app/vehicles/T-11)
 - [Mnzil vehicle page T-99](https://mnzil.app/vehicles/T-99-Chinchi)
@@ -477,11 +492,13 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [Mnzil vehicle page X-2](https://mnzil.app/vehicles/X-2)
 - [Mnzil vehicle page Z](https://mnzil.app/vehicles/Z)
 - [Mnzil vehicle page Z-4](https://mnzil.app/vehicles/Z-4)
+- [mnzil: New-Afridi](https://mnzil.app/vehicles/New-Afridi)
 - [Mnzil vehicle page A-11 (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/A-11)
 - [Mnzil vehicle page Double Jhanda (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/Double-Jhanda)
 - [Mnzil vehicle page k-1 (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/k-1)
 - [Mnzil vehicle page Salman Chohaan (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/salman-chohaan)
 - [Qingqi rickshaws allowed to operate at six routes in Karachi (ARY News, 2018-10-23)](https://arynews.tv/qingqi-chief-secretary-karachi-allowed)
+- [mnzil: P-3](https://mnzil.app/vehicles/P-3)
 - [Mnzil route used to infer the stops](https://mnzil.app/vehicles/W-25)
 - [Going places, Zafar Ahmed Khan (The News on Sunday, 2021-12-26)](https://www.thenews.com.pk/tns/detail/919747-going-places)
 
@@ -500,11 +517,23 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [Intra-city provisional fare list for buses, minibuses and coaches](https://mwb.sindh.gov.pk/storage/Transport/intracity.jpeg) · Regional Transport Authority Karachi · 2026-04-04 · official
 - [Habib University Karachi bus network (CC-BY-4.0): X-8](https://doi.org/10.5281/zenodo.13951512)
 - [Karachi Smart Transit System (MIT): R4](https://github.com/FAST-Dev-Team-Semester-Projects)
+- [mnzil: W-11](https://mnzil.app/vehicles/W-11)
+- [mnzil: Marwat](https://mnzil.app/vehicles/Marwat)
+- [mnzil: X-8](https://mnzil.app/vehicles/X-8)
+- [mnzil: P-3](https://mnzil.app/vehicles/P-3)
+- [mnzil: 7-C](https://mnzil.app/vehicles/7-C)
+- [mnzil: Z-18](https://mnzil.app/vehicles/Z-18)
+- [mnzil: SL](https://mnzil.app/vehicles/SL)
+- [mnzil: D-11](https://mnzil.app/vehicles/D-11)
+- [mnzil: R-09](https://mnzil.app/vehicles/R-09)
+- [mnzil: MashaAllah](https://mnzil.app/vehicles/MashaAllah)
+- [mnzil: 51](https://mnzil.app/vehicles/51)
 
 ## Private minibuses and coaches (karachi)
 
 - [RastaYaar: Karachi bus route finder, src/data/routes.ts](https://github.com/itsdeewankumar-tech/rastayaar) · itsdeewankumar-tech (GitHub) · 2026-09-07
 - [Intra-city provisional fare list for buses, minibuses and coaches](https://mwb.sindh.gov.pk/storage/Transport/intracity.jpeg) · Regional Transport Authority Karachi · 2026-04-04 · official
+- [mnzil: A-3](https://mnzil.app/vehicles/A-3)
 - [Correction source for D-1](https://mnzil.app/vehicles/D-1)
 - [Habib University Karachi bus network (CC-BY-4.0): 51-C](https://doi.org/10.5281/zenodo.13951512)
 - [Correction source for D-7](https://mnzil.app/vehicles/D-7)
@@ -516,21 +545,28 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [Correction source for G-19](https://mnzil.app/vehicles/G-19)
 - [Correction source for G-27](https://mnzil.app/vehicles/G-27)
 - [Correction source for N-5](https://mnzil.app/vehicles/N-5)
+- [mnzil: SL](https://mnzil.app/vehicles/SL)
+- [mnzil: W-11](https://mnzil.app/vehicles/W-11)
+- [mnzil: W-18](https://mnzil.app/vehicles/W-18)
 - [Correction source for W-22](https://mnzil.app/vehicles/W-22)
 - [Correction source for W-25](https://mnzil.app/vehicles/W-25)
 - [Correction source for W-55](https://mnzil.app/vehicles/W-55)
 - [Correction source for X-10](https://mnzil.app/vehicles/X-10)
 - [Correction source for X-23](https://mnzil.app/vehicles/X-23)
 - [Correction source for Z-2](https://mnzil.app/vehicles/Z-2)
+- [mnzil: 16](https://mnzil.app/vehicles/16)
 - [Correction source for Mashriq](https://mnzil.app/vehicles/Mashriq)
 - [Correction source for Muslim](https://mnzil.app/vehicles/Muslim)
+- [mnzil: New-Afridi](https://mnzil.app/vehicles/New-Afridi)
 - [Correction source for Super Hasanzai](https://mnzil.app/vehicles/Super-Hassan-Zai)
+- [mnzil: 7-Star](https://mnzil.app/vehicles/7-Star)
 - [Correction source for Sheraz](https://mnzil.app/vehicles/Shiraz)
+- [mnzil: MashaAllah](https://mnzil.app/vehicles/MashaAllah)
 - [Correction source for Abdullah](https://mnzil.app/vehicles/Abdullah)
 - [Correction source for Rind](https://mnzil.app/vehicles/Rind)
 - [Correction source for 9-C](https://mnzil.app/vehicles/9-C)
 - [Correction source for 4-L](https://mnzil.app/vehicles/4-L)
-- [Correction source for 4-Q](https://mnzil.app/vehicles/4-Q)
+- [mnzil: 4-Q](https://mnzil.app/vehicles/4-Q)
 - [Correction source for 11-C](https://mnzil.app/vehicles/11-C)
 - [Correction source for 51](https://mnzil.app/vehicles/51)
 - [Correction source for Marwat](https://mnzil.app/vehicles/Marwat)
@@ -539,23 +575,27 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [Correction source for Ilyas](https://mnzil.app/vehicles/Ilyas)
 - [Correction source for Masood](https://mnzil.app/vehicles/Masood)
 - [Correction source for Khan](https://mnzil.app/vehicles/Khan)
+- [mnzil: R-02](https://mnzil.app/vehicles/R-02)
+- [mnzil: R-03](https://mnzil.app/vehicles/R-03)
+- [mnzil: BRT-Metro-Green-Line](https://mnzil.app/vehicles/BRT-Metro-Green-Line)
 - [musafir: data/mnzil_scrapedata.json](https://github.com/naumanaarif/musafir)
 - [Mnzil vehicle page 52](https://mnzil.app/vehicles/52)
 - [Mnzil vehicle page Al Azad](https://mnzil.app/vehicles/Al-Azad)
 - [Mnzil vehicle page Al Khair](https://mnzil.app/vehicles/Al-Khair-)
 - [Mnzil vehicle page N](https://mnzil.app/vehicles/N)
+- [mnzil: P-3](https://mnzil.app/vehicles/P-3)
 - [Mnzil vehicle page Super Muslim Coach](https://mnzil.app/vehicles/super-muslim-coach)
 - [Mnzil vehicle page 51A (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/51A-)
 - [Mnzil vehicle page D-3 (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/D-3)
 - [Mnzil vehicle page G-13 (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/G-13)
 - [Mnzil vehicle page Imran (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/Imran)
-- [Mnzil vehicle page P-3 (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/P-3)
 - [Mnzil vehicle page S-2 Bus (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/S-2-Bus)
 - [Mnzil vehicle page 4-H (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/4-H)
-- [Mnzil vehicle page Daata (schema.org BusTrip itinerary, fetched 2026-09-21)](https://mnzil.app/vehicles/Daata)
+- [mnzil: Daata](https://mnzil.app/vehicles/Daata)
 - [Public Transport in Karachi – 2023 Updates (Zameen Blog, 2023-02-23)](https://www.zameen.com/blog/public-transport-karachi.html)
 - [Bus Routes Karachi (January 2010)](https://urckarachi.org/wp-content/uploads/2020/07/Bus-Routes-Karachi.pdf)
 - [Evidence the route still runs](https://enews.hamariweb.com/pakistan/exploring-d-6-bus-route-in-karachi-a-pocket-friendly-commute/)
+- [Z 22 Mini Bus Karachi || Local Transport Karachi Route Detail (Lets Go Pk, YouTube, uploaded 2025-08-31)](https://www.youtube.com/watch?v=1MXIpOhYJQQ)
 
 ## Peoples Bus Service (karachi)
 
@@ -578,11 +618,25 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [Peoples Bus Service in Karachi: Routes, Fare & More](https://www.zameen.com/blog/peoples-bus-service-karachi.html) · Zameen · 2022-11-01
 - [Habib University Karachi bus network (CC-BY-4.0): pink-bus-part1](https://doi.org/10.5281/zenodo.13951512)
 - [Karachi Smart Transit System (MIT): R1](https://github.com/FAST-Dev-Team-Semester-Projects)
+- [mnzil: R-01](https://mnzil.app/vehicles/R-01)
+- [mnzil: R-02](https://mnzil.app/vehicles/R-02)
+- [mnzil: R-03](https://mnzil.app/vehicles/R-03)
+- [mnzil: R-04](https://mnzil.app/vehicles/R-04)
+- [mnzil: R-09](https://mnzil.app/vehicles/R-09)
+- [mnzil: R-10](https://mnzil.app/vehicles/R-10)
+- [mnzil: R-11](https://mnzil.app/vehicles/R-11)
+- [mnzil: R-12](https://mnzil.app/vehicles/R-12)
 - [Gulshan-e-Maymar to Tower: Karachi to get new bus route](https://arynews.tv/sindh-announces-new-ev-bus-route-launch)
 - [Electric bus new route starts today (Roznama Dunya)](https://dunya.com.pk/index.php/city/karachi/2026-03-17/2644181)
+- [mnzil: R-14](https://mnzil.app/vehicles/R-14)
+- [mnzil: EV-01](https://mnzil.app/vehicles/EV-01)
+- [mnzil: EV-02](https://mnzil.app/vehicles/EV-02)
+- [mnzil: EV-04](https://mnzil.app/vehicles/EV-04)
 - [Launch of new EV-5 bus service operation DHA City near-by goths towards down town](https://smta.sindh.gov.pk/news/launch-of-new-ev-5-bus-service-operation-dha-city-near-by-goths-towards-down-town)
 - [DHA City launches bus service for its residents and visitors](https://www.thenews.com.pk/print/1192590-dha-city-launches-bus-service-for-its-residents-and-visitors)
+- [mnzil: EV-05](https://mnzil.app/vehicles/EV-05)
 - [Double-decker buses return to Karachi after decades, trial service begins](https://tribune.com.pk/story/2584770/double-decker-buses-return-to-karachi-after-decades-trial-service-begins)
+- [Sindh moves to add 500 EV buses as transport network expansion accelerates (Profit, 2026-05-19)](https://profit.pakistantoday.com.pk/2026/05/19/sindh-moves-to-add-500-ev-buses-as-transport-network-expansion-accelerates/)
 
 ## Pink Bus (Peoples Bus Service, women-only) (karachi)
 
@@ -593,8 +647,14 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [Pink Bus Service in Karachi: Route, Timings & More](https://www.zameen.com/blog/peoples-pink-bus-service-karachi.html) · Zameen · 2023-03-06
 - [Habib University Karachi bus network (CC-BY-4.0): pink-bus-part1](https://doi.org/10.5281/zenodo.13951512)
 - [Karachi Smart Transit System (MIT): R1](https://github.com/FAST-Dev-Team-Semester-Projects)
+- [mnzil: R-01](https://mnzil.app/vehicles/R-01)
+- [mnzil: R-02](https://mnzil.app/vehicles/R-02)
+- [mnzil: R-03](https://mnzil.app/vehicles/R-03)
+- [mnzil: R-09](https://mnzil.app/vehicles/R-09)
+- [mnzil: R-10](https://mnzil.app/vehicles/R-10)
 - [Karachi Pink Bus Gets New Route & Timings for Women](https://www.techjuice.pk/karachi-pink-bus-gets-new-route-timings-for-women/)
 - [Karachi Pink Bus service updates route and timings for women](https://www.nation.com.pk/16-Nov-2025/karachi-pink-bus-service-updates-route-timings-women)
+- [mnzil: BRT-Metro-Green-Line](https://mnzil.app/vehicles/BRT-Metro-Green-Line)
 
 ## Private buses, minibuses and coaches (karachi)
 
@@ -605,6 +665,11 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 
 - [Environmental Impact Assessment, BRT Yellow Line, Vol 1 (19-03-2024)](https://urckarachi.org/wp-content/uploads/2024/09/BRT-Yellow-LIne-Volume-1-EIA-19-03-24_compressed.pdf) · Sindh Mass Transit Authority (copy hosted by Urban Resource Centre) · 2024-03-19 · official
 - [Habib University Karachi bus network (CC-BY-4.0): F-17](https://doi.org/10.5281/zenodo.13951512)
+- [mnzil: BRT-Metro-Green-Line](https://mnzil.app/vehicles/BRT-Metro-Green-Line)
+- [mnzil: k-1](https://mnzil.app/vehicles/k-1)
+- [mnzil: R-10](https://mnzil.app/vehicles/R-10)
+- [mnzil: X-8](https://mnzil.app/vehicles/X-8)
+- [mnzil: super-muslim-coach](https://mnzil.app/vehicles/super-muslim-coach)
 
 ## Green Electric Bus Kasur (kasur)
 
@@ -815,6 +880,7 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [Electric bus service to be launched soon in Multan division](https://www.app.com.pk/domestic/electric-bus-service-to-be-launched-soon-in-multan-division/) · APP · 2025-01-30
 - [All Multan routes](https://www.safar.fyi/multan/transit-lines) · safar.fyi
 - [safar.fyi Multan transit lines](https://www.safar.fyi/multan/transit-lines/mlt%3A457)
+- [eTransit Punjab (PMA) route planner, line 73, route 457 'Vehari Chowk to Nishtar Hospital' (get-line-schedules, forward direction, fetched 2026-09-24)](https://etransit.punjab.gov.pk/public/route-planner)
 
 ## Multan Metrobus Feeder Routes (multan)
 
@@ -916,6 +982,7 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [safar.fyi Okara route](https://www.safar.fyi/okara/transit-lines/etransit-okara%3A318)
 - [safar.fyi Okara route](https://www.safar.fyi/okara/transit-lines/etransit-okara%3A323)
 - [safar.fyi Okara route](https://www.safar.fyi/okara/transit-lines/etransit-okara%3A319)
+- [eTransit Punjab (PMA) route planner, line 59, route 529 'GBS Okara to Fatehpur' (get-line-schedules, forward direction, fetched 2026-09-24)](https://etransit.punjab.gov.pk/public/route-planner)
 
 ## Pakistan Railways (intercity)
 
@@ -1093,6 +1160,7 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/rwp%3A100)
 - [safar.fyi: Saddar Stop to Bhatta Chowk](https://www.safar.fyi/islamabad/transit-lines/rwp%3A172)
 - [Rahnuma project (GitHub)](https://github.com/mabdullahamjad/Rahnuma)
+- [eTransit Punjab (PMA) route planner, line 26, route 172 'Saddar Stop to Bhatta Chowk' (get-line-schedules, forward direction, fetched 2026-09-24)](https://etransit.punjab.gov.pk/public/route-planner)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/rwp%3A92)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/rwp%3A93)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/rwp%3A94)
@@ -1108,6 +1176,11 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [safar.fyi Sahiwal route](https://www.safar.fyi/sahiwal/transit-lines/shw%3A82)
 - [safar.fyi Sahiwal route](https://www.safar.fyi/sahiwal/transit-lines/shw%3A87)
 - [safar.fyi Sahiwal route](https://www.safar.fyi/sahiwal/transit-lines/shw%3A85)
+- [eTransit Punjab (PMA) route planner, line 27, route 518 'Electro Bus Depot to Harappa Museum' (get-line-schedules, forward direction, fetched 2026-09-24)](https://etransit.punjab.gov.pk/public/route-planner)
+
+## Sahiwal private wagons, minibuses and paratransit (sahiwal)
+
+- [Punjab Cities Improvement Investment Program - Sahiwal City Profile (Urban Unit / GHK, ADB-funded, c.2010)](https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Sahiwal.pdf) · The Urban Unit, P&D Department Punjab (consultant GHK) · c.2010 (hosted 2021)
 
 ## Green Electric Bus Sargodha (sargodha)
 
@@ -1121,6 +1194,11 @@ Generated 2026-09-24 from `data/systems`. Facts (route numbers, stop names, fare
 - [safar.fyi Sargodha route](https://www.safar.fyi/sargodha/transit-lines/srg%3A141)
 - [safar.fyi Sargodha route](https://www.safar.fyi/sargodha/transit-lines/srg%3A163)
 - [safar.fyi Sargodha route](https://www.safar.fyi/sargodha/transit-lines/srg%3A140)
+- [eTransit Punjab (PMA) route planner, line 31, route 523 'GBS Sargodha to Shahpur' (get-line-schedules, forward direction, fetched 2026-09-24)](https://etransit.punjab.gov.pk/public/route-planner)
+
+## Sargodha private wagons, minibuses and paratransit (sargodha)
+
+- [Punjab Cities Improvement Investment Program - Sargodha City Profile (Urban Unit / GHK, ADB-funded, c.2010)](https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Sargodha.pdf) · The Urban Unit, P&D Department Punjab (consultant GHK) · c.2010 (hosted 2021)
 
 ## Green Electric Bus Sheikhupura (sheikhupura)
 

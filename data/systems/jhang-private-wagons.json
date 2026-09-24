@@ -1,0 +1,294 @@
+{
+  "id": "jhang-private-wagons",
+  "city": "jhang",
+  "name": "Jhang private wagons, minibuses and paratransit",
+  "name_ur": "",
+  "operator": "Private operators (route permits by RTA Jhang)",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Punjab Cities Improvement Investment Program - Jhang City Profile (Urban Unit / GHK, ADB-funded, c.2010)",
+      "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Jhang.pdf",
+      "publisher": "The Urban Unit, P&D Department Punjab (consultant GHK)",
+      "date": "c.2010 (hosted 2021)",
+      "official": false
+    }
+  ],
+  "notes": "Only route-level source found: the PCIIP city profile (c.2010), which says no urban bus or van service existed then (a private bus and van stand near Ayub Chowk is listed). Corridors only. The government e-bus system is jhang-electric-bus.",
+  "last_verified": "2026-09-24",
+  "routes": [
+    {
+      "id": "pciip-satellite-rail-bazar",
+      "name": "Satellite Town - Rail Bazar (Jhang Saddar)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Satellite Town",
+          "name_ur": "",
+          "lat": 31.252821,
+          "lon": 72.354565,
+          "coord_source": "auto:nominatim:node/6155086489",
+          "is_station": false
+        },
+        {
+          "name": "Rail Bazar (Jhang Saddar)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Jhang City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 19 Major Urban Routes",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Jhang.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw (Qingqi) and auto-rickshaw corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order. About 3,000 passengers/day."
+    },
+    {
+      "id": "pciip-satellite-ayub",
+      "name": "Satellite Town - Ayub Chowk",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Satellite Town",
+          "name_ur": "",
+          "lat": 31.252821,
+          "lon": 72.354565,
+          "coord_source": "auto:nominatim:node/6155086489",
+          "is_station": false
+        },
+        {
+          "name": "Ayub Chowk",
+          "name_ur": "",
+          "lat": 31.27632,
+          "lon": 72.320178,
+          "coord_source": "auto:nominatim:node/6182717592",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Jhang City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 19 Major Urban Routes",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Jhang.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw (Qingqi) and auto-rickshaw corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order. About 2,500 passengers/day."
+    },
+    {
+      "id": "pciip-daewoo-ayub",
+      "name": "Daewoo Bus Terminal - Ayub Chowk",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Daewoo Bus Terminal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ayub Chowk",
+          "name_ur": "",
+          "lat": 31.27632,
+          "lon": 72.320178,
+          "coord_source": "auto:nominatim:node/6182717592",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Jhang City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 19 Major Urban Routes",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Jhang.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw (Qingqi) and auto-rickshaw corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order. About 2,500 passengers/day."
+    },
+    {
+      "id": "pciip-ayub-lari-adda",
+      "name": "Ayub Chowk - Lari Adda",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Ayub Chowk",
+          "name_ur": "",
+          "lat": 31.27632,
+          "lon": 72.320178,
+          "coord_source": "auto:nominatim:node/6182717592",
+          "is_station": false
+        },
+        {
+          "name": "Lari Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Jhang City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 19 Major Urban Routes",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Jhang.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw (Qingqi) and auto-rickshaw corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order. About 1,500 passengers/day."
+    },
+    {
+      "id": "pciip-rail-bazar-jhang-city",
+      "name": "Rail Bazar - Jhang City (via College Road)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Rail Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "College Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Jhang City",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Jhang City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 19 Major Urban Routes",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Jhang.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw (Qingqi) and auto-rickshaw corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order. Printed \"via College Road\". About 2,000 passengers/day."
+    },
+    {
+      "id": "pciip-gbs-bypass-daewoo",
+      "name": "General Bus Stand - Bypass - Daewoo Bus Terminal",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "General Bus Stand",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bypass",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Daewoo Bus Terminal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Jhang City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 19 Major Urban Routes",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Jhang.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw (Qingqi) and auto-rickshaw corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order. About 2,000 passengers/day."
+    }
+  ]
+}

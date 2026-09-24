@@ -310,6 +310,10 @@
         {
           "title": "Karachi Smart Transit System (MIT): R1",
           "url": "https://github.com/FAST-Dev-Team-Semester-Projects"
+        },
+        {
+          "title": "mnzil: R-01",
+          "url": "https://mnzil.app/vehicles/R-01"
         }
       ],
       "notes": "Women-only pink buses on the same alignment as red R1 (SMTA directory classifies R1 under 'Pink Bus'; rehbar.pk: pink buses mirror red routes). First pink route (Model Colony - Tower via Shahrah-e-Faisal), launched 1 Feb 2023; SMTA 2026 shows the extended R1 alignment. Pink timetable unclear: redbus.shop says peak hours only; Zameen (2023) 07:00-20:00, 20-min peak / hourly off-peak. Stop list copied from red R1; see that route's notes."
@@ -506,6 +510,10 @@
         {
           "title": "Karachi Smart Transit System (MIT): R2",
           "url": "https://github.com/FAST-Dev-Team-Semester-Projects"
+        },
+        {
+          "title": "mnzil: R-02",
+          "url": "https://mnzil.app/vehicles/R-02"
         }
       ],
       "notes": "Women-only pink buses on the same alignment as red R2 (SMTA directory classifies R2 under 'Pink Bus'; rehbar.pk: pink buses mirror red routes). Zameen (2023): Power House - Singer Chowrangi/Korangi No. 5; SMTA 2026: North Karachi - Korangi Crossing. Pink timetable unclear: redbus.shop says peak hours only; Zameen (2023) 07:00-20:00, 20-min peak / hourly off-peak. Stop list copied from red R2; see that route's notes."
@@ -664,9 +672,9 @@
         {
           "name": "Akhtar Colony",
           "name_ur": "",
-          "lat": 24.838694,
-          "lon": 67.064472,
-          "coord_source": "auto:interpolated",
+          "lat": 24.834537,
+          "lon": 67.07255,
+          "coord_source": "ext:mnzil:R-03",
           "is_station": false
         },
         {
@@ -718,6 +726,10 @@
         {
           "title": "Karachi Smart Transit System (MIT): R3",
           "url": "https://github.com/FAST-Dev-Team-Semester-Projects"
+        },
+        {
+          "title": "mnzil: R-03",
+          "url": "https://mnzil.app/vehicles/R-03"
         }
       ],
       "notes": "Women-only pink buses on the same alignment as red R3 (SMTA directory classifies R3 under 'Pink Bus'; rehbar.pk: pink buses mirror red routes). Listed as pink by SMTA 2026, rehbar.pk and Bol News (2024: Power House - Nasir Jump); launch date not found. Pink timetable unclear: redbus.shop says peak hours only; Zameen (2023) 07:00-20:00, 20-min peak / hourly off-peak. Stop list copied from red R3; see that route's notes."
@@ -1042,6 +1054,10 @@
         {
           "title": "Karachi Smart Transit System (MIT): R9",
           "url": "https://github.com/FAST-Dev-Team-Semester-Projects"
+        },
+        {
+          "title": "mnzil: R-09",
+          "url": "https://mnzil.app/vehicles/R-09"
         }
       ],
       "notes": "Women-only pink buses on the same alignment as red R9 (SMTA directory classifies R9 under 'Pink Bus'; rehbar.pk: pink buses mirror red routes). Listed as pink by SMTA 2026, rehbar.pk and Bol News (2024). Pink timetable unclear: redbus.shop says peak hours only; Zameen (2023) 07:00-20:00, 20-min peak / hourly off-peak. Stop list copied from red R9; see that route's notes."
@@ -1270,6 +1286,10 @@
         {
           "title": "Karachi Smart Transit System (MIT): R10",
           "url": "https://github.com/FAST-Dev-Team-Semester-Projects"
+        },
+        {
+          "title": "mnzil: R-10",
+          "url": "https://mnzil.app/vehicles/R-10"
         }
       ],
       "notes": "Women-only pink buses on the same alignment as red R10 (SMTA directory classifies R10 under 'Pink Bus'; rehbar.pk: pink buses mirror red routes). Pink R10 launched 19 Apr 2024 as Numaish - Sea View Clock Tower; SMTA 2026 lists Numaish - Ibrahim Hyderi. Pink timetable unclear: redbus.shop says peak hours only; Zameen (2023) 07:00-20:00, 20-min peak / hourly off-peak. Stop list copied from red R10; see that route's notes."
@@ -1337,6 +1357,10 @@
         {
           "title": "Karachi Smart Transit System (MIT): Green",
           "url": "https://github.com/FAST-Dev-Team-Semester-Projects"
+        },
+        {
+          "title": "mnzil: BRT-Metro-Green-Line",
+          "url": "https://mnzil.app/vehicles/BRT-Metro-Green-Line"
         }
       ],
       "notes": "Announced by the Sindh Information Dept to start 17 Nov 2025; runs only in three windows: 08:00-09:00, 13:00-14:00 and 17:00-19:00. Fare quoted as Rs 50 although the general PBS fare is Rs 80/120 since Feb 2025 (possibly a stale figure). No code, intermediate stops or length published, and not shown in the SMTA 2026 directory, hence status 'unverified'. 'Abdullah Chowk' is probably the Surjani Town junction at the Green Line northern terminus (unverified); coordinates left null.\n\nTerminal positions set to the Green Line stations Abdullah Chowk and Numaish; intermediate stops unknown."

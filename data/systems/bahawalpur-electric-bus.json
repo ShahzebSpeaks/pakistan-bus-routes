@@ -56,25 +56,28 @@
   "routes": [
     {
       "id": "13-solang-to-cattle-market",
-      "name": "13 solang to Cattle market",
+      "name": "DHA to Cattle Market (via 13 Solang)",
       "name_ur": "",
       "variant": "electric",
       "color": null,
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 60,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
       "fare_override": null,
       "women_only": false,
-      "stops_confidence": "medium",
+      "stops_confidence": "high",
       "stops": [
         {
           "name": "DHA Main Office",
           "name_ur": "",
           "lat": 29.320803,
           "lon": 71.674162,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7767",
           "is_station": false
         },
         {
@@ -82,7 +85,7 @@
           "name_ur": "",
           "lat": 29.3259,
           "lon": 71.67983,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7768",
           "is_station": false
         },
         {
@@ -90,7 +93,7 @@
           "name_ur": "",
           "lat": 29.322267,
           "lon": 71.690278,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7769",
           "is_station": false
         },
         {
@@ -98,7 +101,7 @@
           "name_ur": "",
           "lat": 29.323015,
           "lon": 71.706745,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7770",
           "is_station": false
         },
         {
@@ -106,7 +109,15 @@
           "name_ur": "",
           "lat": 29.320563,
           "lon": 71.708733,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7771",
+          "is_station": false
+        },
+        {
+          "name": "13 Solang 1",
+          "name_ur": "",
+          "lat": 29.315937,
+          "lon": 71.710681,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7772",
           "is_station": false
         },
         {
@@ -114,7 +125,7 @@
           "name_ur": "",
           "lat": 29.315747,
           "lon": 71.71049,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3691",
           "is_station": false
         },
         {
@@ -122,7 +133,7 @@
           "name_ur": "",
           "lat": 29.320563,
           "lon": 71.708733,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3742",
           "is_station": false
         },
         {
@@ -130,7 +141,7 @@
           "name_ur": "",
           "lat": 29.331044,
           "lon": 71.701656,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3739",
           "is_station": false
         },
         {
@@ -138,7 +149,7 @@
           "name_ur": "",
           "lat": 29.336332,
           "lon": 71.698017,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3760",
           "is_station": false
         },
         {
@@ -146,7 +157,7 @@
           "name_ur": "",
           "lat": 29.340011,
           "lon": 71.696829,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3725",
           "is_station": false
         },
         {
@@ -154,7 +165,7 @@
           "name_ur": "",
           "lat": 29.351824,
           "lon": 71.693605,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3731",
           "is_station": false
         },
         {
@@ -162,15 +173,15 @@
           "name_ur": "",
           "lat": 29.355677,
           "lon": 71.693526,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3726",
           "is_station": false
         },
         {
           "name": "City School BWP/Beacon House Bwp/ Punjab College",
-          "name_ur": "پنجاب کالج",
+          "name_ur": "",
           "lat": 29.359479,
           "lon": 71.693732,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3715",
           "is_station": false
         },
         {
@@ -178,7 +189,7 @@
           "name_ur": "",
           "lat": 29.367435,
           "lon": 71.693997,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3756",
           "is_station": false
         },
         {
@@ -186,7 +197,7 @@
           "name_ur": "",
           "lat": 29.371405,
           "lon": 71.693996,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3735",
           "is_station": false
         },
         {
@@ -194,7 +205,7 @@
           "name_ur": "",
           "lat": 29.374128,
           "lon": 71.693193,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3766",
           "is_station": false
         },
         {
@@ -202,7 +213,7 @@
           "name_ur": "",
           "lat": 29.380978,
           "lon": 71.691962,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3720",
           "is_station": false
         },
         {
@@ -210,7 +221,7 @@
           "name_ur": "",
           "lat": 29.385208,
           "lon": 71.690568,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3699",
           "is_station": false
         },
         {
@@ -218,7 +229,7 @@
           "name_ur": "",
           "lat": 29.389392,
           "lon": 71.691999,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3952",
           "is_station": false
         },
         {
@@ -226,7 +237,7 @@
           "name_ur": "",
           "lat": 29.392965,
           "lon": 71.689807,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3892",
           "is_station": false
         },
         {
@@ -234,7 +245,7 @@
           "name_ur": "",
           "lat": 29.394118,
           "lon": 71.686481,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3768",
           "is_station": false
         },
         {
@@ -242,7 +253,7 @@
           "name_ur": "",
           "lat": 29.395987,
           "lon": 71.683532,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3954",
           "is_station": false
         },
         {
@@ -250,15 +261,15 @@
           "name_ur": "",
           "lat": 29.400231,
           "lon": 71.68346,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3890",
           "is_station": false
         },
         {
           "name": "Bahawalpur Zoo",
-          "name_ur": "بہاولپور چڑیا گھر",
+          "name_ur": "",
           "lat": 29.402768,
           "lon": 71.682801,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3886",
           "is_station": false
         },
         {
@@ -266,7 +277,7 @@
           "name_ur": "",
           "lat": 29.406394,
           "lon": 71.678556,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3845",
           "is_station": false
         },
         {
@@ -274,7 +285,7 @@
           "name_ur": "",
           "lat": 29.403493,
           "lon": 71.673853,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3755",
           "is_station": false
         },
         {
@@ -282,7 +293,7 @@
           "name_ur": "",
           "lat": 29.400475,
           "lon": 71.670966,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3714",
           "is_station": false
         },
         {
@@ -290,7 +301,7 @@
           "name_ur": "",
           "lat": 29.396201,
           "lon": 71.668481,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3753",
           "is_station": false
         },
         {
@@ -298,15 +309,15 @@
           "name_ur": "",
           "lat": 29.391357,
           "lon": 71.671111,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3958",
           "is_station": false
         },
         {
           "name": "Dubai Chowk",
-          "name_ur": "دبی محل روڈ",
+          "name_ur": "",
           "lat": 29.385452,
           "lon": 71.662732,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3722",
           "is_station": false
         },
         {
@@ -314,7 +325,7 @@
           "name_ur": "",
           "lat": 29.382961,
           "lon": 71.658886,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3776",
           "is_station": false
         },
         {
@@ -322,15 +333,15 @@
           "name_ur": "",
           "lat": 29.37962,
           "lon": 71.653758,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3759",
           "is_station": false
         },
         {
           "name": "Daewoo Bus Terminal",
           "name_ur": "",
-          "lat": 29.376357,
-          "lon": 71.648666,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "lat": 29.377098,
+          "lon": 71.648369,
+          "coord_source": "osm:node/1925507834",
           "is_station": false
         },
         {
@@ -338,7 +349,7 @@
           "name_ur": "",
           "lat": 29.37301,
           "lon": 71.643412,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3696",
           "is_station": false
         },
         {
@@ -346,7 +357,7 @@
           "name_ur": "",
           "lat": 29.369853,
           "lon": 71.637788,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3761",
           "is_station": false
         },
         {
@@ -354,7 +365,7 @@
           "name_ur": "",
           "lat": 29.366926,
           "lon": 71.63276,
-          "coord_source": "ext:safar.fyi:bwp:227",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3708",
           "is_station": false
         }
       ],
@@ -362,31 +373,38 @@
         {
           "title": "safar.fyi Bahawalpur route",
           "url": "https://www.safar.fyi/bahawalpur/transit-lines/bwp%3A227"
+        },
+        {
+          "title": "eTransit Punjab (PMA) route planner, line 41, route 227 'DHA to Cattle market (via 13 Solang)' (get-line-schedules, forward direction, fetched 2026-09-24)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Part of ten-city phase (Nov 2025). Tehsil-level expansion (215 buses, 11 tehsils) planned from Jan 2027. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'DHA Main Office to Cattle Market', 36 stops); safar lists service 6:00 AM - 10:00 PM (unverified)."
+      "notes": "Official PMA/eTransit stop list, forward direction 'DHA to Cattle Market via 13 solang' (37 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 1 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. Renamed and extended: now starts at DHA Main Office, via Yazman Morr, before 13 Solang. Existing id kept for merge."
     },
     {
       "id": "bhatta-1-to-goth-lashkar",
-      "name": "Bhatta 1 to Goth Lashkar",
+      "name": "Bhatta No 1 / Alina Hospital to Mari Qasim Shah",
       "name_ur": "",
       "variant": "electric",
       "color": null,
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 45,
+      "hours": {
+        "start": "06:00",
+        "end": "21:00"
+      },
       "fare_override": null,
       "women_only": false,
-      "stops_confidence": "medium",
+      "stops_confidence": "high",
       "stops": [
         {
           "name": "Bhatta No 1",
           "name_ur": "",
           "lat": 29.382371,
           "lon": 71.65729,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3705",
           "is_station": false
         },
         {
@@ -394,7 +412,7 @@
           "name_ur": "",
           "lat": 29.386706,
           "lon": 71.654387,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3779",
           "is_station": false
         },
         {
@@ -402,7 +420,7 @@
           "name_ur": "",
           "lat": 29.391899,
           "lon": 71.65334,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3752",
           "is_station": false
         },
         {
@@ -410,7 +428,7 @@
           "name_ur": "",
           "lat": 29.395644,
           "lon": 71.653051,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3713",
           "is_station": false
         },
         {
@@ -418,7 +436,7 @@
           "name_ur": "",
           "lat": 29.400084,
           "lon": 71.654017,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3747",
           "is_station": false
         },
         {
@@ -426,7 +444,7 @@
           "name_ur": "",
           "lat": 29.403355,
           "lon": 71.657399,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3758",
           "is_station": false
         },
         {
@@ -434,7 +452,7 @@
           "name_ur": "",
           "lat": 29.404563,
           "lon": 71.662466,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3750",
           "is_station": false
         },
         {
@@ -442,7 +460,7 @@
           "name_ur": "",
           "lat": 29.405838,
           "lon": 71.665579,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3772",
           "is_station": false
         },
         {
@@ -450,7 +468,7 @@
           "name_ur": "",
           "lat": 29.406241,
           "lon": 71.670297,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3706",
           "is_station": false
         },
         {
@@ -458,7 +476,7 @@
           "name_ur": "",
           "lat": 29.407907,
           "lon": 71.673482,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3730",
           "is_station": false
         },
         {
@@ -466,7 +484,7 @@
           "name_ur": "",
           "lat": 29.406394,
           "lon": 71.678556,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3845",
           "is_station": false
         },
         {
@@ -474,7 +492,7 @@
           "name_ur": "",
           "lat": 29.40674,
           "lon": 71.68743,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3709",
           "is_station": false
         },
         {
@@ -482,7 +500,7 @@
           "name_ur": "",
           "lat": 29.405481,
           "lon": 71.681423,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3764",
           "is_station": false
         },
         {
@@ -490,7 +508,7 @@
           "name_ur": "",
           "lat": 29.406216,
           "lon": 71.693747,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3724",
           "is_station": false
         },
         {
@@ -498,7 +516,7 @@
           "name_ur": "",
           "lat": 29.405531,
           "lon": 71.700133,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3762",
           "is_station": false
         },
         {
@@ -506,7 +524,7 @@
           "name_ur": "",
           "lat": 29.407597,
           "lon": 71.705877,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3740",
           "is_station": false
         },
         {
@@ -514,7 +532,7 @@
           "name_ur": "",
           "lat": 29.410162,
           "lon": 71.715744,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3728",
           "is_station": false
         },
         {
@@ -522,7 +540,7 @@
           "name_ur": "",
           "lat": 29.411589,
           "lon": 71.720976,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3716",
           "is_station": false
         },
         {
@@ -530,7 +548,7 @@
           "name_ur": "",
           "lat": 29.413016,
           "lon": 71.72668,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3717",
           "is_station": false
         },
         {
@@ -538,7 +556,63 @@
           "name_ur": "",
           "lat": 29.414539,
           "lon": 71.733384,
-          "coord_source": "ext:safar.fyi:bwp:229",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3727",
+          "is_station": false
+        },
+        {
+          "name": "Judge Wali Pulli",
+          "name_ur": "",
+          "lat": 29.413263,
+          "lon": 71.743586,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7856",
+          "is_station": false
+        },
+        {
+          "name": "Basti Mian Sajjad",
+          "name_ur": "",
+          "lat": 29.419377,
+          "lon": 71.750494,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7857",
+          "is_station": false
+        },
+        {
+          "name": "Jhangi Wala",
+          "name_ur": "",
+          "lat": 29.4258,
+          "lon": 71.764287,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7858",
+          "is_station": false
+        },
+        {
+          "name": "Basti Dewan",
+          "name_ur": "",
+          "lat": 29.429123,
+          "lon": 71.784928,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7859",
+          "is_station": false
+        },
+        {
+          "name": "Puli Nawab Pura",
+          "name_ur": "",
+          "lat": 29.432529,
+          "lon": 71.799239,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7860",
+          "is_station": false
+        },
+        {
+          "name": "Basti Sanjar",
+          "name_ur": "",
+          "lat": 29.433398,
+          "lon": 71.819545,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7861",
+          "is_station": false
+        },
+        {
+          "name": "Mari Qasim Shah",
+          "name_ur": "",
+          "lat": 29.442862,
+          "lon": 71.84023,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7862",
           "is_station": false
         }
       ],
@@ -546,9 +620,13 @@
         {
           "title": "safar.fyi Bahawalpur route",
           "url": "https://www.safar.fyi/bahawalpur/transit-lines/bwp%3A229"
+        },
+        {
+          "title": "eTransit Punjab (PMA) route planner, line 41, route 229 'Bhatta no 1/ Alina hospital to Mari Qasim Shah' (get-line-schedules, forward direction, fetched 2026-09-24)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Part of ten-city phase (Nov 2025). Tehsil-level expansion (215 buses, 11 tehsils) planned from Jan 2027. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Bhatta No 1 to Goth Lashkar', 21 stops); safar lists service 6:00 AM - 8:56 PM (unverified)."
+      "notes": "Official PMA/eTransit stop list, forward direction 'Bhatta no 1/ Alina hospital to Mari Qasim Shah' (27 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 0 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. Renamed and extended beyond Goth Lashkar to Mari Qasim Shah (+7 stops). Existing id kept for merge."
     },
     {
       "id": "dera-bakha-to-lodhran-entrance-gate",
@@ -559,18 +637,21 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 42,
+      "hours": {
+        "start": "06:00",
+        "end": "20:42"
+      },
       "fare_override": null,
       "women_only": false,
-      "stops_confidence": "medium",
+      "stops_confidence": "high",
       "stops": [
         {
           "name": "Dera Bakha",
           "name_ur": "",
           "lat": 29.413616,
           "lon": 71.8507,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3719",
           "is_station": false
         },
         {
@@ -578,7 +659,7 @@
           "name_ur": "",
           "lat": 29.408544,
           "lon": 71.837175,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7158",
           "is_station": false
         },
         {
@@ -586,7 +667,7 @@
           "name_ur": "",
           "lat": 29.404729,
           "lon": 71.823247,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3692",
           "is_station": false
         },
         {
@@ -594,7 +675,7 @@
           "name_ur": "",
           "lat": 29.400243,
           "lon": 71.806241,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3704",
           "is_station": false
         },
         {
@@ -602,7 +683,7 @@
           "name_ur": "",
           "lat": 29.398451,
           "lon": 71.799874,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3732",
           "is_station": false
         },
         {
@@ -610,7 +691,15 @@
           "name_ur": "",
           "lat": 29.395556,
           "lon": 71.789026,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3693",
+          "is_station": false
+        },
+        {
+          "name": "Al Raheem Town",
+          "name_ur": "",
+          "lat": 29.390756,
+          "lon": 71.771081,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3884",
           "is_station": false
         },
         {
@@ -618,7 +707,7 @@
           "name_ur": "",
           "lat": 29.389247,
           "lon": 71.765653,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6918",
           "is_station": false
         },
         {
@@ -626,7 +715,7 @@
           "name_ur": "",
           "lat": 29.387294,
           "lon": 71.758425,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6919",
           "is_station": false
         },
         {
@@ -634,7 +723,7 @@
           "name_ur": "",
           "lat": 29.386412,
           "lon": 71.755193,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3737",
           "is_station": false
         },
         {
@@ -642,7 +731,7 @@
           "name_ur": "",
           "lat": 29.38445,
           "lon": 71.747806,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6920",
           "is_station": false
         },
         {
@@ -650,7 +739,7 @@
           "name_ur": "",
           "lat": 29.383653,
           "lon": 71.744903,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3741",
           "is_station": false
         },
         {
@@ -658,7 +747,7 @@
           "name_ur": "",
           "lat": 29.381025,
           "lon": 71.735392,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3690",
           "is_station": false
         },
         {
@@ -666,7 +755,7 @@
           "name_ur": "",
           "lat": 29.379123,
           "lon": 71.730867,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3767",
           "is_station": false
         },
         {
@@ -674,7 +763,7 @@
           "name_ur": "",
           "lat": 29.377801,
           "lon": 71.72575,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3702",
           "is_station": false
         },
         {
@@ -682,7 +771,7 @@
           "name_ur": "",
           "lat": 29.379942,
           "lon": 71.720845,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3729",
           "is_station": false
         },
         {
@@ -690,7 +779,7 @@
           "name_ur": "",
           "lat": 29.382277,
           "lon": 71.715559,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3734",
           "is_station": false
         },
         {
@@ -698,7 +787,7 @@
           "name_ur": "",
           "lat": 29.38422,
           "lon": 71.711133,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3780",
           "is_station": false
         },
         {
@@ -706,7 +795,7 @@
           "name_ur": "",
           "lat": 29.388372,
           "lon": 71.701812,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3945",
           "is_station": false
         },
         {
@@ -714,15 +803,15 @@
           "name_ur": "",
           "lat": 29.391671,
           "lon": 71.693981,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3770",
           "is_station": false
         },
         {
-          "name": "Kali Pulli Road",
+          "name": "Kali Pulli BWP Road",
           "name_ur": "",
           "lat": 29.388595,
           "lon": 71.690815,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3947",
           "is_station": false
         },
         {
@@ -730,7 +819,7 @@
           "name_ur": "",
           "lat": 29.388001,
           "lon": 71.687606,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3781",
           "is_station": false
         },
         {
@@ -738,7 +827,7 @@
           "name_ur": "",
           "lat": 29.390318,
           "lon": 71.684611,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3710",
           "is_station": false
         },
         {
@@ -746,15 +835,15 @@
           "name_ur": "",
           "lat": 29.398202,
           "lon": 71.683684,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3948",
           "is_station": false
         },
         {
           "name": "Bahawalpur Zoo",
-          "name_ur": "بہاولپور چڑیا گھر",
+          "name_ur": "",
           "lat": 29.402768,
           "lon": 71.682801,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3886",
           "is_station": false
         },
         {
@@ -762,7 +851,7 @@
           "name_ur": "",
           "lat": 29.406394,
           "lon": 71.678556,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3845",
           "is_station": false
         },
         {
@@ -770,7 +859,7 @@
           "name_ur": "",
           "lat": 29.408403,
           "lon": 71.674059,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3698",
           "is_station": false
         },
         {
@@ -778,7 +867,7 @@
           "name_ur": "",
           "lat": 29.412847,
           "lon": 71.672475,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3707",
           "is_station": false
         },
         {
@@ -786,7 +875,7 @@
           "name_ur": "",
           "lat": 29.421679,
           "lon": 71.666044,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3694",
           "is_station": false
         },
         {
@@ -794,15 +883,15 @@
           "name_ur": "",
           "lat": 29.42479,
           "lon": 71.66359,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/5697",
           "is_station": false
         },
         {
           "name": "Karachi Morr",
-          "name_ur": "کراچی۔ لاہور۔ پشاور مین ریلوے لائن",
+          "name_ur": "",
           "lat": 29.430899,
           "lon": 71.65248,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3744",
           "is_station": false
         },
         {
@@ -810,7 +899,7 @@
           "name_ur": "",
           "lat": 29.450136,
           "lon": 71.641236,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3745",
           "is_station": false
         },
         {
@@ -818,7 +907,7 @@
           "name_ur": "",
           "lat": 29.460852,
           "lon": 71.64267,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3712",
           "is_station": false
         },
         {
@@ -826,7 +915,7 @@
           "name_ur": "",
           "lat": 29.467989,
           "lon": 71.647571,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3695",
           "is_station": false
         },
         {
@@ -834,7 +923,7 @@
           "name_ur": "",
           "lat": 29.474671,
           "lon": 71.647118,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3777",
           "is_station": false
         },
         {
@@ -842,7 +931,7 @@
           "name_ur": "",
           "lat": 29.480254,
           "lon": 71.645608,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3749",
           "is_station": false
         },
         {
@@ -850,7 +939,7 @@
           "name_ur": "",
           "lat": 29.489207,
           "lon": 71.642976,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3775",
           "is_station": false
         },
         {
@@ -858,7 +947,7 @@
           "name_ur": "",
           "lat": 29.496339,
           "lon": 71.640937,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3721",
           "is_station": false
         },
         {
@@ -866,7 +955,7 @@
           "name_ur": "",
           "lat": 29.503181,
           "lon": 71.63891,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3703",
           "is_station": false
         },
         {
@@ -874,7 +963,7 @@
           "name_ur": "",
           "lat": 29.508265,
           "lon": 71.63745,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3783",
           "is_station": false
         },
         {
@@ -882,7 +971,7 @@
           "name_ur": "",
           "lat": 29.514214,
           "lon": 71.636127,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3751",
           "is_station": false
         },
         {
@@ -890,7 +979,7 @@
           "name_ur": "",
           "lat": 29.51822,
           "lon": 71.635004,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3701",
           "is_station": false
         },
         {
@@ -898,7 +987,7 @@
           "name_ur": "",
           "lat": 29.523549,
           "lon": 71.633408,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3888",
           "is_station": false
         },
         {
@@ -906,7 +995,7 @@
           "name_ur": "",
           "lat": 29.539534,
           "lon": 71.629985,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3754",
           "is_station": false
         },
         {
@@ -914,7 +1003,7 @@
           "name_ur": "",
           "lat": 29.543284,
           "lon": 71.628701,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3746",
           "is_station": false
         },
         {
@@ -922,7 +1011,7 @@
           "name_ur": "",
           "lat": 29.547589,
           "lon": 71.627303,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3769",
           "is_station": false
         },
         {
@@ -930,7 +1019,7 @@
           "name_ur": "",
           "lat": 29.552201,
           "lon": 71.625734,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3733",
           "is_station": false
         },
         {
@@ -938,7 +1027,7 @@
           "name_ur": "",
           "lat": 29.557395,
           "lon": 71.623961,
-          "coord_source": "ext:safar.fyi:bwp:226",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3748",
           "is_station": false
         }
       ],
@@ -946,31 +1035,86 @@
         {
           "title": "safar.fyi Bahawalpur route",
           "url": "https://www.safar.fyi/bahawalpur/transit-lines/bwp%3A226"
+        },
+        {
+          "title": "eTransit Punjab (PMA) route planner, line 41, route 226 'Dera Bakha to Lodhran entrance gate' (get-line-schedules, forward direction, fetched 2026-09-24)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Part of ten-city phase (Nov 2025). Tehsil-level expansion (215 buses, 11 tehsils) planned from Jan 2027. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Dera Bakha to Lodhra Entrance Gate', 47 stops); safar lists service 6:00 AM - 8:40 PM (unverified)."
+      "notes": "Official PMA/eTransit stop list, forward direction 'Dera Bakha to Lodhran Entrance Gate' (48 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 0 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. Official list adds \"Al Raheem Town\" between Chak 7/6 BC and GECHS Gate 2 (48 stops vs 47)."
     },
     {
       "id": "talha-town-to-al-raheem-town",
-      "name": "Talha Town to Al Raheem Town",
+      "name": "Sama Satta to Al Raheem Town",
       "name_ur": "",
       "variant": "electric",
       "color": null,
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 50,
+      "hours": {
+        "start": "06:00",
+        "end": "21:50"
+      },
       "fare_override": null,
       "women_only": false,
-      "stops_confidence": "medium",
+      "stops_confidence": "high",
       "stops": [
+        {
+          "name": "Sama Satta",
+          "name_ur": "",
+          "lat": 29.347217,
+          "lon": 71.546804,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7870",
+          "is_station": false
+        },
+        {
+          "name": "Basti Noon",
+          "name_ur": "",
+          "lat": 29.352602,
+          "lon": 71.559793,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7871",
+          "is_station": false
+        },
+        {
+          "name": "Fazal Colony",
+          "name_ur": "",
+          "lat": 29.360241,
+          "lon": 71.570116,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7872",
+          "is_station": false
+        },
+        {
+          "name": "Govt. High School Fatu Wali",
+          "name_ur": "",
+          "lat": 29.375067,
+          "lon": 71.5995,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7873",
+          "is_station": false
+        },
+        {
+          "name": "Shahida Floor Mill",
+          "name_ur": "",
+          "lat": 29.38316,
+          "lon": 71.615481,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7874",
+          "is_station": false
+        },
+        {
+          "name": "Govt. Primary School/ Janu Wala",
+          "name_ur": "",
+          "lat": 29.390227,
+          "lon": 71.629597,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7875",
+          "is_station": false
+        },
         {
           "name": "Talha Town",
           "name_ur": "",
           "lat": 29.392415,
           "lon": 71.633785,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3778",
           "is_station": false
         },
         {
@@ -978,7 +1122,7 @@
           "name_ur": "",
           "lat": 29.394503,
           "lon": 71.637977,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3700",
           "is_station": false
         },
         {
@@ -986,7 +1130,7 @@
           "name_ur": "",
           "lat": 29.39701,
           "lon": 71.642938,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3771",
           "is_station": false
         },
         {
@@ -994,15 +1138,15 @@
           "name_ur": "",
           "lat": 29.399436,
           "lon": 71.647774,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3757",
           "is_station": false
         },
         {
           "name": "Railway Station",
-          "name_ur": "کراچی۔ لاہور۔ پشاور مین ریلوے لائن",
+          "name_ur": "",
           "lat": 29.402013,
           "lon": 71.652759,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3765",
           "is_station": false
         },
         {
@@ -1010,7 +1154,7 @@
           "name_ur": "",
           "lat": 29.39978,
           "lon": 71.657254,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3736",
           "is_station": false
         },
         {
@@ -1018,7 +1162,7 @@
           "name_ur": "",
           "lat": 29.397456,
           "lon": 71.66079,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3738",
           "is_station": false
         },
         {
@@ -1026,7 +1170,7 @@
           "name_ur": "",
           "lat": 29.394975,
           "lon": 71.664571,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3773",
           "is_station": false
         },
         {
@@ -1034,7 +1178,7 @@
           "name_ur": "",
           "lat": 29.391359,
           "lon": 71.671114,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3956",
           "is_station": false
         },
         {
@@ -1042,7 +1186,7 @@
           "name_ur": "",
           "lat": 29.390673,
           "lon": 71.677357,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3763",
           "is_station": false
         },
         {
@@ -1050,7 +1194,7 @@
           "name_ur": "",
           "lat": 29.391117,
           "lon": 71.682422,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3784",
           "is_station": false
         },
         {
@@ -1058,7 +1202,7 @@
           "name_ur": "",
           "lat": 29.395987,
           "lon": 71.683532,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3954",
           "is_station": false
         },
         {
@@ -1066,7 +1210,7 @@
           "name_ur": "",
           "lat": 29.400231,
           "lon": 71.68346,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3890",
           "is_station": false
         },
         {
@@ -1074,7 +1218,7 @@
           "name_ur": "",
           "lat": 29.397629,
           "lon": 71.688506,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3723",
           "is_station": false
         },
         {
@@ -1082,7 +1226,7 @@
           "name_ur": "",
           "lat": 29.392965,
           "lon": 71.689807,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3892",
           "is_station": false
         },
         {
@@ -1090,7 +1234,7 @@
           "name_ur": "",
           "lat": 29.388372,
           "lon": 71.701812,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3945",
           "is_station": false
         },
         {
@@ -1098,7 +1242,7 @@
           "name_ur": "",
           "lat": 29.390995,
           "lon": 71.706692,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3697",
           "is_station": false
         },
         {
@@ -1106,7 +1250,7 @@
           "name_ur": "",
           "lat": 29.393848,
           "lon": 71.711081,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3711",
           "is_station": false
         },
         {
@@ -1114,7 +1258,7 @@
           "name_ur": "",
           "lat": 29.397383,
           "lon": 71.714838,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3743",
           "is_station": false
         },
         {
@@ -1122,23 +1266,15 @@
           "name_ur": "",
           "lat": 29.400447,
           "lon": 71.718646,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3774",
           "is_station": false
         },
         {
-          "name": "Al Raheem Town",
-          "name_ur": "",
-          "lat": 29.406738,
-          "lon": 71.725757,
-          "coord_source": "ext:safar.fyi:bwp:228",
-          "is_station": false
-        },
-        {
-          "name": "Al Raheem Town Road",
+          "name": "Al Raheem Town BWN Road",
           "name_ur": "",
           "lat": 29.390756,
           "lon": 71.771081,
-          "coord_source": "ext:safar.fyi:bwp:228",
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/3882",
           "is_station": false
         }
       ],
@@ -1146,9 +1282,13 @@
         {
           "title": "safar.fyi Bahawalpur route",
           "url": "https://www.safar.fyi/bahawalpur/transit-lines/bwp%3A228"
+        },
+        {
+          "title": "eTransit Punjab (PMA) route planner, line 41, route 228 'Sama Satta to Al Raheem town' (get-line-schedules, forward direction, fetched 2026-09-24)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Part of ten-city phase (Nov 2025). Tehsil-level expansion (215 buses, 11 tehsils) planned from Jan 2027. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Talha Town to Al Raheem Town Road', 22 stops); safar lists service 6:00 AM - 10:12 PM (unverified)."
+      "notes": "Official PMA/eTransit stop list, forward direction 'Sama Satta to Al Raheem town' (27 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 0 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. Renamed and extended: now starts at Sama Satta (+5 stops before Talha Town). Existing id kept for merge."
     }
   ]
 }

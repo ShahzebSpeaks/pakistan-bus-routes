@@ -1,0 +1,935 @@
+{
+ "city": "dera-ghazi-khan",
+ "source": "etransit.punjab.gov.pk",
+ "lines": [
+  {
+   "id": "33-245",
+   "code": "245",
+   "name": "GBS DG Khan to Choti Zareen via Kot Chutta",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "GBS DG Khan",
+     "lat": 30.049119,
+     "lon": 70.649681
+    },
+    {
+     "name": "Pull Dat Jampur Road Up",
+     "lat": 30.030973,
+     "lon": 70.640652
+    },
+    {
+     "name": "Lahore Grammar School DGK Up",
+     "lat": 30.02439,
+     "lon": 70.643021
+    },
+    {
+     "name": "New Defence View Housing Society Up",
+     "lat": 30.014324,
+     "lon": 70.646805
+    },
+    {
+     "name": "Shoria Bridge Up",
+     "lat": 30.004482,
+     "lon": 70.650502
+    },
+    {
+     "name": "Jinnah Colony Ansari Up",
+     "lat": 29.991821,
+     "lon": 70.651871
+    },
+    {
+     "name": "Paigah Up",
+     "lat": 29.972036,
+     "lon": 70.653691
+    },
+    {
+     "name": "Satwan Mill Up",
+     "lat": 29.95752,
+     "lon": 70.655145
+    },
+    {
+     "name": "Basti Khanan Wala Up",
+     "lat": 29.949853,
+     "lon": 70.656287
+    },
+    {
+     "name": "Aali Wala Up",
+     "lat": 29.933437,
+     "lon": 70.657853
+    },
+    {
+     "name": "Noorwala Bus Stop Up",
+     "lat": 29.920473,
+     "lon": 70.659399
+    },
+    {
+     "name": "33 Morr Up",
+     "lat": 29.900402,
+     "lon": 70.661285
+    },
+    {
+     "name": "Purana Pump Up",
+     "lat": 29.8908,
+     "lon": 70.655595
+    },
+    {
+     "name": "Kot Chutta City Up",
+     "lat": 29.885661,
+     "lon": 70.649431
+    },
+    {
+     "name": "Mamouri Morr Kot Chutta Up",
+     "lat": 29.883843,
+     "lon": 70.642621
+    },
+    {
+     "name": "Kot Chutta Bypass Up",
+     "lat": 29.881905,
+     "lon": 70.634331
+    },
+    {
+     "name": "Pull Shoria Choti Road Up",
+     "lat": 29.87564,
+     "lon": 70.60641
+    },
+    {
+     "name": "Ada Haiderabad Up",
+     "lat": 29.869942,
+     "lon": 70.579347
+    },
+    {
+     "name": "Samandari Up",
+     "lat": 29.862984,
+     "lon": 70.548509
+    },
+    {
+     "name": "Lighari Minar Stop Up",
+     "lat": 29.858995,
+     "lon": 70.531817
+    },
+    {
+     "name": "Hootwala Up",
+     "lat": 29.856052,
+     "lon": 70.519818
+    },
+    {
+     "name": "Mamouri Morr Choti Zareen Up",
+     "lat": 29.853015,
+     "lon": 70.507997
+    },
+    {
+     "name": "Choti Zareen Up",
+     "lat": 29.8497292,
+     "lon": 70.495816
+    }
+   ]
+  },
+  {
+   "id": "33-246",
+   "code": "246",
+   "name": "Choti Zareen to GBS DG Khan via Kot Chutta",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "Choti Zareen Down",
+     "lat": 29.849904,
+     "lon": 70.495782
+    },
+    {
+     "name": "Mamouri Morr Choti Zareen Down",
+     "lat": 29.852871,
+     "lon": 70.507086
+    },
+    {
+     "name": "Hootwala Up",
+     "lat": 29.856052,
+     "lon": 70.519818
+    },
+    {
+     "name": "Lighari Minar Stop Up",
+     "lat": 29.858995,
+     "lon": 70.531817
+    },
+    {
+     "name": "Samandari Up",
+     "lat": 29.862984,
+     "lon": 70.548509
+    },
+    {
+     "name": "Ada Haiderabad Up",
+     "lat": 29.869942,
+     "lon": 70.579347
+    },
+    {
+     "name": "Pull Shoria Choti Road Up",
+     "lat": 29.87564,
+     "lon": 70.60641
+    },
+    {
+     "name": "Kot Chutta Bypass Up",
+     "lat": 29.881905,
+     "lon": 70.634331
+    },
+    {
+     "name": "Mamouri Morr Kot Chutta Up",
+     "lat": 29.883843,
+     "lon": 70.642621
+    },
+    {
+     "name": "Kot Chutta City Up",
+     "lat": 29.885661,
+     "lon": 70.649431
+    },
+    {
+     "name": "Purana Pump Up",
+     "lat": 29.8908,
+     "lon": 70.655595
+    },
+    {
+     "name": "33 Morr Up",
+     "lat": 29.900402,
+     "lon": 70.661285
+    },
+    {
+     "name": "Noorwala Bus Stop Up",
+     "lat": 29.920473,
+     "lon": 70.659399
+    },
+    {
+     "name": "Aali Wala Up",
+     "lat": 29.933437,
+     "lon": 70.657853
+    },
+    {
+     "name": "Basti Khanan Wala Up",
+     "lat": 29.949853,
+     "lon": 70.656287
+    },
+    {
+     "name": "Satwan Mill Up",
+     "lat": 29.95752,
+     "lon": 70.655145
+    },
+    {
+     "name": "Paigah Up",
+     "lat": 29.972036,
+     "lon": 70.653691
+    },
+    {
+     "name": "Jinnah Colony Ansari Up",
+     "lat": 29.991821,
+     "lon": 70.651871
+    },
+    {
+     "name": "Shoria Bridge Up",
+     "lat": 30.004482,
+     "lon": 70.650502
+    },
+    {
+     "name": "New Defence View Housing Society Up",
+     "lat": 30.014324,
+     "lon": 70.646805
+    },
+    {
+     "name": "Lahore Grammar School DGK Up",
+     "lat": 30.02439,
+     "lon": 70.643021
+    },
+    {
+     "name": "Pull Dat Jampur Road Up",
+     "lat": 30.030973,
+     "lon": 70.640652
+    },
+    {
+     "name": "GBS DG Khan",
+     "lat": 30.049119,
+     "lon": 70.649681
+    }
+   ]
+  },
+  {
+   "id": "33-249",
+   "code": "249",
+   "name": "GBS DG Khan to Shah Sadar Din",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "GBS DG Khan",
+     "lat": 30.049119,
+     "lon": 70.649681
+    },
+    {
+     "name": "Sardar Fateh Institute of Cardiology Up",
+     "lat": 30.055201,
+     "lon": 70.645749
+    },
+    {
+     "name": "Shalimar Town Up",
+     "lat": 30.05945,
+     "lon": 70.646463
+    },
+    {
+     "name": "Chowk Churrtha Up",
+     "lat": 30.0668,
+     "lon": 70.644948
+    },
+    {
+     "name": "Faizan e Madina Up",
+     "lat": 30.072289,
+     "lon": 70.648582
+    },
+    {
+     "name": "Hakim Shahwala Up",
+     "lat": 30.08591,
+     "lon": 70.654256
+    },
+    {
+     "name": "Jarwar Chowk - Azizabad Up",
+     "lat": 30.097508,
+     "lon": 70.658171
+    },
+    {
+     "name": "Mahermani Basti Up",
+     "lat": 30.108185,
+     "lon": 70.661717
+    },
+    {
+     "name": "Chabri Bala Up",
+     "lat": 30.119649,
+     "lon": 70.665374
+    },
+    {
+     "name": "Yaroo Khosa Up",
+     "lat": 30.141889,
+     "lon": 70.679038
+    },
+    {
+     "name": "Tibbi Isran Up",
+     "lat": 30.159401,
+     "lon": 70.695062
+    },
+    {
+     "name": "Noorpur Up",
+     "lat": 30.175813,
+     "lon": 70.705476
+    },
+    {
+     "name": "Pir Adil Up",
+     "lat": 30.188346,
+     "lon": 70.715385
+    },
+    {
+     "name": "Jhok Noor Hafiz Up",
+     "lat": 30.205184,
+     "lon": 70.72571
+    },
+    {
+     "name": "Wahidiwala Up",
+     "lat": 30.227929,
+     "lon": 70.731694
+    },
+    {
+     "name": "Pull Gajjri Wala Up",
+     "lat": 30.238926,
+     "lon": 70.730848
+    },
+    {
+     "name": "Adda Mian Ibrahim Shah Up",
+     "lat": 30.250247,
+     "lon": 70.729899
+    },
+    {
+     "name": "Shah Sardar Din Up",
+     "lat": 30.274199,
+     "lon": 70.727971
+    },
+    {
+     "name": "Shah Sardar Din Down",
+     "lat": 30.273681,
+     "lon": 70.728093
+    }
+   ]
+  },
+  {
+   "id": "33-250",
+   "code": "250",
+   "name": "Shah Sadar Din to GBS DG Khan",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "Shah Sardar Din Down",
+     "lat": 30.273681,
+     "lon": 70.728093
+    },
+    {
+     "name": "Adda Mian Ibrahim Shah Down",
+     "lat": 30.249957,
+     "lon": 70.73004
+    },
+    {
+     "name": "Pull Gajjri Wala down",
+     "lat": 30.239168,
+     "lon": 70.730964
+    },
+    {
+     "name": "Wahidiwala Down",
+     "lat": 30.227412,
+     "lon": 70.731782
+    },
+    {
+     "name": "Jhok Noor Hafiz Down",
+     "lat": 30.204812,
+     "lon": 70.72443
+    },
+    {
+     "name": "Pir Adil Down",
+     "lat": 30.187909,
+     "lon": 70.715154
+    },
+    {
+     "name": "Noorpur Down",
+     "lat": 30.175868,
+     "lon": 70.705713
+    },
+    {
+     "name": "Tibbi Isran Down",
+     "lat": 30.158586,
+     "lon": 70.694436
+    },
+    {
+     "name": "Yaroo Khosa Down",
+     "lat": 30.142326,
+     "lon": 70.679538
+    },
+    {
+     "name": "Chabri Bala Down",
+     "lat": 30.118701,
+     "lon": 70.665196
+    },
+    {
+     "name": "Mahermani Basti Down",
+     "lat": 30.107574,
+     "lon": 70.661628
+    },
+    {
+     "name": "Jarwar Chowk - Azizabad Down",
+     "lat": 30.097213,
+     "lon": 70.658256
+    },
+    {
+     "name": "Hakim Shahwala Down",
+     "lat": 30.08534,
+     "lon": 70.654162
+    },
+    {
+     "name": "Faizan e Madina Down",
+     "lat": 30.071752,
+     "lon": 70.648508
+    },
+    {
+     "name": "Chowk Churhatta Down",
+     "lat": 30.066163,
+     "lon": 70.645844
+    },
+    {
+     "name": "Shalimar Town Down",
+     "lat": 30.058836,
+     "lon": 70.646879
+    },
+    {
+     "name": "Sardar Fateh Institute of Cardiology Down",
+     "lat": 30.054654,
+     "lon": 70.646133
+    },
+    {
+     "name": "GBS DG Khan",
+     "lat": 30.049119,
+     "lon": 70.649681
+    }
+   ]
+  },
+  {
+   "id": "33-253",
+   "code": "253",
+   "name": "GBS DG Khan to Sakhi Sarwar",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "GBS DG Khan",
+     "lat": 30.049119,
+     "lon": 70.649681
+    },
+    {
+     "name": "Samina Chowk Up",
+     "lat": 30.044993,
+     "lon": 70.65679
+    },
+    {
+     "name": "Khayaban E Sarwar Multan Road Up",
+     "lat": 30.040429,
+     "lon": 70.651344
+    },
+    {
+     "name": "Gulshanabad Up",
+     "lat": 30.03363,
+     "lon": 70.641564
+    },
+    {
+     "name": "Rescue 1122 DGK Up",
+     "lat": 30.028347,
+     "lon": 70.633812
+    },
+    {
+     "name": "Bhutta Colony DGK Up",
+     "lat": 30.024938,
+     "lon": 70.628878
+    },
+    {
+     "name": "Khitran Colony Up",
+     "lat": 30.02286,
+     "lon": 70.622188
+    },
+    {
+     "name": "CSD Shop DGK Up",
+     "lat": 30.021485,
+     "lon": 70.615472
+    },
+    {
+     "name": "PAEC Hospital Up",
+     "lat": 30.020414,
+     "lon": 70.610328
+    },
+    {
+     "name": "Government Primary School Machi Wala Up",
+     "lat": 30.016381,
+     "lon": 70.591435
+    },
+    {
+     "name": "Silver Sand City Up",
+     "lat": 30.012963,
+     "lon": 70.575075
+    },
+    {
+     "name": "Meer Chakar University Up",
+     "lat": 30.008102,
+     "lon": 70.552118
+    },
+    {
+     "name": "Al Ghazi Tractor Limited Up",
+     "lat": 30.006114,
+     "lon": 70.542514
+    },
+    {
+     "name": "Babli Petrol Pump Up",
+     "lat": 30.003165,
+     "lon": 70.528458
+    },
+    {
+     "name": "Airport Chowk Up",
+     "lat": 29.996174,
+     "lon": 70.495208
+    },
+    {
+     "name": "Grid Station Up",
+     "lat": 29.992371,
+     "lon": 70.476514
+    },
+    {
+     "name": "Tonmi wala UP",
+     "lat": 29.984867,
+     "lon": 70.444533
+    },
+    {
+     "name": "Faridaabad Up",
+     "lat": 29.97981,
+     "lon": 70.420882
+    },
+    {
+     "name": "Zair Peer Up",
+     "lat": 29.976705,
+     "lon": 70.324514
+    }
+   ]
+  },
+  {
+   "id": "33-254",
+   "code": "254",
+   "name": "Sakhi Sarwar to GBS DG Khan",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "Zair Peer Down",
+     "lat": 29.976936,
+     "lon": 70.325362
+    },
+    {
+     "name": "Faridaabad Down",
+     "lat": 29.979954,
+     "lon": 70.421223
+    },
+    {
+     "name": "Tonmi Wala Down",
+     "lat": 29.984978,
+     "lon": 70.444708
+    },
+    {
+     "name": "Grid Station Down",
+     "lat": 29.992472,
+     "lon": 70.476538
+    },
+    {
+     "name": "Airport Chowk DGK Down",
+     "lat": 29.996455,
+     "lon": 70.496062
+    },
+    {
+     "name": "Babli Petrol Pump Down",
+     "lat": 30.003232,
+     "lon": 70.528407
+    },
+    {
+     "name": "Al Ghazi Tractor Limited Down",
+     "lat": 30.006342,
+     "lon": 70.543078
+    },
+    {
+     "name": "Meer Chakar University Down",
+     "lat": 30.008312,
+     "lon": 70.552611
+    },
+    {
+     "name": "Silver Sand City Down",
+     "lat": 30.013117,
+     "lon": 70.575467
+    },
+    {
+     "name": "Government Primary School Machi Wala Down",
+     "lat": 30.016512,
+     "lon": 70.591448
+    },
+    {
+     "name": "PAEC Hospital Down",
+     "lat": 30.020453,
+     "lon": 70.610031
+    },
+    {
+     "name": "CSD Shop DGK Down",
+     "lat": 30.021563,
+     "lon": 70.615614
+    },
+    {
+     "name": "Khitran Colony Down",
+     "lat": 30.023043,
+     "lon": 70.622462
+    },
+    {
+     "name": "Bhutta Colony DGK Down",
+     "lat": 30.025415,
+     "lon": 70.629313
+    },
+    {
+     "name": "Rescue 1122 DGK Down",
+     "lat": 30.028987,
+     "lon": 70.634416
+    },
+    {
+     "name": "Gulshanabad Down",
+     "lat": 30.033928,
+     "lon": 70.641592
+    },
+    {
+     "name": "Khayaban e Sarwar Multan Road Down",
+     "lat": 30.03833,
+     "lon": 70.64143
+    },
+    {
+     "name": "Samina Chowk Down",
+     "lat": 30.044966,
+     "lon": 70.656334
+    },
+    {
+     "name": "GBS DG Khan",
+     "lat": 30.049119,
+     "lon": 70.649681
+    }
+   ]
+  },
+  {
+   "id": "33-257",
+   "code": "257",
+   "name": "GBS DG Khan to GBS DG Khan",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "GBS DG Khan",
+     "lat": 30.049119,
+     "lon": 70.649681
+    },
+    {
+     "name": "Sultania Chowk Up",
+     "lat": 30.047106,
+     "lon": 70.651305
+    },
+    {
+     "name": "Piyarywali pull Up",
+     "lat": 30.054117,
+     "lon": 70.645644
+    },
+    {
+     "name": "Traffic Chowk Up",
+     "lat": 30.055213,
+     "lon": 70.640569
+    },
+    {
+     "name": "Hospital Chowk Up",
+     "lat": 30.051481,
+     "lon": 70.63933
+    },
+    {
+     "name": "Musharraf Chowk Up",
+     "lat": 30.052121,
+     "lon": 70.636138
+    },
+    {
+     "name": "Girls High School No 01 Up",
+     "lat": 30.05256,
+     "lon": 70.634181
+    },
+    {
+     "name": "Katchehry Chowk Up",
+     "lat": 30.053169,
+     "lon": 70.631336
+    },
+    {
+     "name": "Railway Pulli Up",
+     "lat": 30.054155,
+     "lon": 70.626176
+    },
+    {
+     "name": "Railway Station DGK Up",
+     "lat": 30.050546,
+     "lon": 70.624866
+    },
+    {
+     "name": "Indus Colony Up",
+     "lat": 30.046443,
+     "lon": 70.623748
+    },
+    {
+     "name": "Circuit House DGK",
+     "lat": 30.042003,
+     "lon": 70.624548
+    },
+    {
+     "name": "Ghazi Colony  Up",
+     "lat": 30.040677,
+     "lon": 70.622312
+    },
+    {
+     "name": "Kundan Naseem Hospital Up",
+     "lat": 30.035952,
+     "lon": 70.622287
+    },
+    {
+     "name": "Modern Children Home Up",
+     "lat": 30.031566,
+     "lon": 70.622208
+    },
+    {
+     "name": "Gadai Moor Up",
+     "lat": 30.023145,
+     "lon": 70.62202
+    },
+    {
+     "name": "ALLAH Abad colony Up",
+     "lat": 30.025198,
+     "lon": 70.628919
+    },
+    {
+     "name": "Divisional Sports complex Up",
+     "lat": 30.032119,
+     "lon": 70.63083
+    },
+    {
+     "name": "Ghazi University Up",
+     "lat": 30.037228,
+     "lon": 70.632219
+    },
+    {
+     "name": "Waqar Canteen Chowk Up",
+     "lat": 30.040759,
+     "lon": 70.633158
+    },
+    {
+     "name": "Dunya Chowk Up",
+     "lat": 30.039791,
+     "lon": 70.636201
+    },
+    {
+     "name": "Pull Dat Up",
+     "lat": 30.033184,
+     "lon": 70.639829
+    },
+    {
+     "name": "Khayaban e Sarwar Up",
+     "lat": 30.038325,
+     "lon": 70.641429
+    },
+    {
+     "name": "Shakir Town Up",
+     "lat": 30.044149,
+     "lon": 70.643089
+    },
+    {
+     "name": "Sultania Chowk Up",
+     "lat": 30.047106,
+     "lon": 70.651305
+    },
+    {
+     "name": "GBS DG Khan",
+     "lat": 30.049119,
+     "lon": 70.649681
+    }
+   ]
+  },
+  {
+   "id": "33-258",
+   "code": "258",
+   "name": "GBS DG Khan to GBS DG Khan",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "GBS DG Khan",
+     "lat": 30.049119,
+     "lon": 70.649681
+    },
+    {
+     "name": "Sultania Chowk Down",
+     "lat": 30.04711,
+     "lon": 70.65131
+    },
+    {
+     "name": "Shakir Town Down",
+     "lat": 30.04415,
+     "lon": 70.64309
+    },
+    {
+     "name": "Khayaban e Sarwar  Down",
+     "lat": 30.038325,
+     "lon": 70.641429
+    },
+    {
+     "name": "Pull Dat Down",
+     "lat": 30.03318,
+     "lon": 70.63983
+    },
+    {
+     "name": "Dunya Chowk Down",
+     "lat": 30.039791,
+     "lon": 70.636201
+    },
+    {
+     "name": "Waqar Canteen Chowk Down",
+     "lat": 30.04076,
+     "lon": 70.63316
+    },
+    {
+     "name": "Ghazi University Down",
+     "lat": 30.03723,
+     "lon": 70.63222
+    },
+    {
+     "name": "Divisional Sports complex Down",
+     "lat": 30.03212,
+     "lon": 70.63083
+    },
+    {
+     "name": "ALLAH Abad colony Down",
+     "lat": 30.0252,
+     "lon": 70.62892
+    },
+    {
+     "name": "Gadai Moor  Down",
+     "lat": 30.02315,
+     "lon": 70.62202
+    },
+    {
+     "name": "Modern Children Home  Down",
+     "lat": 30.03157,
+     "lon": 70.62221
+    },
+    {
+     "name": "Kundan Naseem Hospital Down",
+     "lat": 30.036035,
+     "lon": 70.622148
+    },
+    {
+     "name": "Ghazi Colony Down",
+     "lat": 30.040842,
+     "lon": 70.622573
+    },
+    {
+     "name": "Circuit House DGK Down",
+     "lat": 30.042,
+     "lon": 70.62455
+    },
+    {
+     "name": "Indus Colony Down",
+     "lat": 30.04682,
+     "lon": 70.623697
+    },
+    {
+     "name": "Railway Station DGK Down",
+     "lat": 30.05055,
+     "lon": 70.62487
+    },
+    {
+     "name": "Railway Pulli Down",
+     "lat": 30.05416,
+     "lon": 70.62618
+    },
+    {
+     "name": "Katchehry Chowk DGK Down",
+     "lat": 30.05317,
+     "lon": 70.63134
+    },
+    {
+     "name": "Girls High School No 01 Down",
+     "lat": 30.05256,
+     "lon": 70.63418
+    },
+    {
+     "name": "Musharraf Chowk Down",
+     "lat": 30.05212,
+     "lon": 70.63614
+    },
+    {
+     "name": "Hospital Chowk Down",
+     "lat": 30.05148,
+     "lon": 70.63933
+    },
+    {
+     "name": "Traffic Chowk Down",
+     "lat": 30.05521,
+     "lon": 70.64057
+    },
+    {
+     "name": "Piyarywali pull Down",
+     "lat": 30.05412,
+     "lon": 70.64564
+    },
+    {
+     "name": "Sultania Chowk Down",
+     "lat": 30.04711,
+     "lon": 70.65131
+    },
+    {
+     "name": "GBS DG Khan",
+     "lat": 30.049119,
+     "lon": 70.649681
+    }
+   ]
+  }
+ ]
+}

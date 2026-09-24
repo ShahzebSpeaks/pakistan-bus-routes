@@ -41,6 +41,10 @@ Some routes and stop positions come from unofficial compilations. They are credi
 
 - **Other private routes**: Faisalabad routes come from a 2003 WEDC (Loughborough University) case report and from Wikiroutes, a crowdsourced site. Hyderabad, Gujranwala and Bahawalpur routes come from university papers (MUET) and Urban Unit city profiles. Routes marked "(Mnzil)" in Karachi are Mnzil's version of a route that our other sources describe differently. The station positions on those routes also come from Mnzil.
 
+- **Punjab Masstransit Authority eTransit** (etransit.punjab.gov.pk): official stop lists and positions for the new Multan, Okara, Sargodha and Sahiwal e-bus routes, and updates to Bahawalpur and Rawalpindi routes (coord_source `ext:etransit.punjab.gov.pk:...`). The site states no reuse terms.
+- **Mnzil station positions** for Karachi stops where we had only an estimate (coord_source `ext:mnzil:...`), and the "Lets go pk" YouTube channel for route Z-22 and for evidence that routes still run.
+- **Urban Unit city profiles** (about 2010): Qingqi and wagon corridors in Sargodha, Sahiwal, Gujrat and Jhang.
+
 None of these publish a data licence. If a rights holder objects, their data will be removed.
 
 These two sources do have open licences and are credited as they require:

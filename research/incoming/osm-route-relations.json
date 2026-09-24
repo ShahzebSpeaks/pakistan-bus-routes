@@ -1,0 +1,36 @@
+{
+  "source": "OpenStreetMap via Overpass (overpass-api.de), area ISO3166-1=PK, relation type=route|route_master; data timestamp 2026-09-24T04:53:32Z",
+  "licence": "ODbL-1.0, (c) OpenStreetMap contributors",
+  "compared_with": "research/osm-route-relations.json (60 relations harvested 2026-09-16)",
+  "counts_now": {
+    "route=bus": 17,
+    "route=railway": 29,
+    "route=subway": 2,
+    "route=train": 9,
+    "route=trolleybus": 1,
+    "route_master=bus": 1,
+    "route_master=share_taxi": 1,
+    "route_master=trolleybus": 1
+  },
+  "public_transport_relations_now": 61,
+  "already_known": 60,
+  "relations": [
+    {
+      "relation_id": 21419077,
+      "ref": null,
+      "name": "Ganj Gate to Jameel Chowk",
+      "from": "Ganj Gate",
+      "to": "Jameel Chowk",
+      "city_guess": "peshawar",
+      "stop_count": 0,
+      "type": "route_master",
+      "route": "share_taxi",
+      "operator": "Qingqi",
+      "network": "Ganj Gate to Jameel Chowk",
+      "members": "2 ways (Phandu Road, ways 1033234260 and 321272128), no child route relations and no stops; mis-tagged (a route_master should contain route relations)",
+      "last_edit": "2026-09-20T10:02:51Z by faraz_munj",
+      "note": "Qingqi/chingchi share-taxi corridor along Phandu Road, Peshawar (way centroid ~34.00N 71.59E). Only the street name is useful; no stop order."
+    }
+  ],
+  "not_found": "No other public-transport relations exist in Pakistan beyond the 60 already harvested. Karachi, Hyderabad, Sukkur, Quetta bus and all Punjab e-bus cities still have zero bus route relations in OSM."
+}

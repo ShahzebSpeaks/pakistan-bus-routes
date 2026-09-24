@@ -549,6 +549,177 @@
         }
       ],
       "notes": "Launch reports: Sahiwal Bypass-KFC Bypass and GBS-Shergarh via Akhtarabad; safar also lists GBS Okara-Depalpur (not in launch reports). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Sahiwal Bypass Okara to KFC Bypass Okara', 16 stops); safar lists service 6:00 AM - 9:25 PM (unverified)."
+    },
+    {
+      "id": "gbs-okara-to-fatehpur",
+      "name": "GBS Okara to Fatehpur",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 50,
+      "hours": {
+        "start": "06:00",
+        "end": "21:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "GBS Okara",
+          "name_ur": "",
+          "lat": 30.81124,
+          "lon": 73.45899,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6552",
+          "is_station": false
+        },
+        {
+          "name": "Tanki Stop Okara",
+          "name_ur": "",
+          "lat": 30.806911,
+          "lon": 73.457616,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6594",
+          "is_station": false
+        },
+        {
+          "name": "Purani Katchehry",
+          "name_ur": "",
+          "lat": 30.816113,
+          "lon": 73.451983,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8036",
+          "is_station": false
+        },
+        {
+          "name": "Khan Colony",
+          "name_ur": "",
+          "lat": 30.82426,
+          "lon": 73.451139,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8037",
+          "is_station": false
+        },
+        {
+          "name": "Sahulat Bazar",
+          "name_ur": "",
+          "lat": 30.830442,
+          "lon": 73.451575,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8038",
+          "is_station": false
+        },
+        {
+          "name": "Satghra Morr",
+          "name_ur": "",
+          "lat": 30.83949,
+          "lon": 73.448518,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8039",
+          "is_station": false
+        },
+        {
+          "name": "38 Chak",
+          "name_ur": "",
+          "lat": 30.85572,
+          "lon": 73.442252,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8040",
+          "is_station": false
+        },
+        {
+          "name": "32 Chak",
+          "name_ur": "",
+          "lat": 30.861109,
+          "lon": 73.437651,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8041",
+          "is_station": false
+        },
+        {
+          "name": "Cadet College Okara",
+          "name_ur": "",
+          "lat": 30.866871,
+          "lon": 73.430632,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8042",
+          "is_station": false
+        },
+        {
+          "name": "District Jail, Okara",
+          "name_ur": "",
+          "lat": 30.870156,
+          "lon": 73.426693,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8043",
+          "is_station": false
+        },
+        {
+          "name": "Naemat Ghee Mill",
+          "name_ur": "",
+          "lat": 30.875338,
+          "lon": 73.420358,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8044",
+          "is_station": false
+        },
+        {
+          "name": "20 Chak",
+          "name_ur": "",
+          "lat": 30.888854,
+          "lon": 73.403869,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8045",
+          "is_station": false
+        },
+        {
+          "name": "23 Chak",
+          "name_ur": "",
+          "lat": 30.902666,
+          "lon": 73.387155,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8046",
+          "is_station": false
+        },
+        {
+          "name": "Young Pur",
+          "name_ur": "",
+          "lat": 30.912467,
+          "lon": 73.375301,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8047",
+          "is_station": false
+        },
+        {
+          "name": "Ghakhar Chowk",
+          "name_ur": "",
+          "lat": 30.924404,
+          "lon": 73.360958,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8048",
+          "is_station": false
+        },
+        {
+          "name": "34 Chak",
+          "name_ur": "",
+          "lat": 30.928086,
+          "lon": 73.356489,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8049",
+          "is_station": false
+        },
+        {
+          "name": "Bangla Gogera",
+          "name_ur": "",
+          "lat": 30.952827,
+          "lon": 73.326761,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8050",
+          "is_station": false
+        },
+        {
+          "name": "Fateh Pur, Okara",
+          "name_ur": "",
+          "lat": 30.951814,
+          "lon": 73.286186,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8034",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "high",
+      "sources": [
+        {
+          "title": "eTransit Punjab (PMA) route planner, line 59, route 529 'GBS Okara to Fatehpur' (get-line-schedules, forward direction, fetched 2026-09-24)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        }
+      ],
+      "notes": "Official PMA/eTransit stop list, forward direction 'GBS Okara to Fatehpur' (18 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 0 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. New 4th Okara route, not in the earlier safar.fyi-based data."
     }
   ]
 }

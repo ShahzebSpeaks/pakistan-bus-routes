@@ -1,0 +1,398 @@
+{
+ "city": "kasur",
+ "source": "etransit.punjab.gov.pk",
+ "lines": [
+  {
+   "id": "69-703",
+   "code": "703",
+   "name": "GBS Kasur to Kacha Paka",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "GBS KASUR Up",
+     "lat": 31.14747859,
+     "lon": 74.45581257
+    },
+    {
+     "name": "Steel Bagh Chowk Up",
+     "lat": 31.1357856,
+     "lon": 74.4595581
+    },
+    {
+     "name": "Kashmir Chowk, Kasur Up",
+     "lat": 31.1218009,
+     "lon": 74.4642784
+    },
+    {
+     "name": "Kachehri Chowk, Kasur Up",
+     "lat": 31.1176698,
+     "lon": 74.4657325
+    },
+    {
+     "name": "Chowk Kamal Chishti Up",
+     "lat": 31.107314,
+     "lon": 74.469511
+    },
+    {
+     "name": "Doly Wala Up",
+     "lat": 31.094337,
+     "lon": 74.452208
+    },
+    {
+     "name": "Tolu Wala Up",
+     "lat": 31.0810737,
+     "lon": 74.4323412
+    },
+    {
+     "name": "Sheikh Ammad Khan Up",
+     "lat": 31.0742827,
+     "lon": 74.4221695
+    },
+    {
+     "name": "Bahadurpura Stop Up",
+     "lat": 31.0579754,
+     "lon": 74.3979417
+    },
+    {
+     "name": "Kelon Stop Up",
+     "lat": 31.0439246,
+     "lon": 74.3785045
+    },
+    {
+     "name": "Noor Pur Stop Up",
+     "lat": 31.028824,
+     "lon": 74.351449
+    },
+    {
+     "name": "Fateh Pur Stop Up",
+     "lat": 31.017447,
+     "lon": 74.331032
+    },
+    {
+     "name": "Dost Pura Up",
+     "lat": 31.006937,
+     "lon": 74.313013
+    },
+    {
+     "name": "Mandi Stop Khudian Up",
+     "lat": 30.988842,
+     "lon": 74.2818444
+    },
+    {
+     "name": "Old Adda Khuddian Up",
+     "lat": 30.985364,
+     "lon": 74.2788244
+    },
+    {
+     "name": "New Adda Khudian Up",
+     "lat": 30.9819625,
+     "lon": 74.2736717
+    },
+    {
+     "name": "Kacha Pakka Up",
+     "lat": 30.9576779,
+     "lon": 74.2376601
+    }
+   ]
+  },
+  {
+   "id": "69-704",
+   "code": "704",
+   "name": "Kacha Paka to GBS Kasur",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "Kacha Pakka Down",
+     "lat": 30.9577004,
+     "lon": 74.2373338
+    },
+    {
+     "name": "New Adda Khudian Down",
+     "lat": 30.9819054,
+     "lon": 74.2731973
+    },
+    {
+     "name": "Old Adda Khudian Down",
+     "lat": 30.985305,
+     "lon": 74.278544
+    },
+    {
+     "name": "Mandi Stop Khudian Down",
+     "lat": 30.9890222,
+     "lon": 74.2817325
+    },
+    {
+     "name": "Dost Pura Down",
+     "lat": 31.007185,
+     "lon": 74.313077
+    },
+    {
+     "name": "Fateh Pur Stop Down",
+     "lat": 31.017577,
+     "lon": 74.330841
+    },
+    {
+     "name": "Noor Pur Stop Down",
+     "lat": 31.028856,
+     "lon": 74.351246
+    },
+    {
+     "name": "Kelon Stop Down",
+     "lat": 31.044076,
+     "lon": 74.378464
+    },
+    {
+     "name": "Bahadurpura Stop Down",
+     "lat": 31.058011,
+     "lon": 74.397609
+    },
+    {
+     "name": "Sheikh Ammad Khan Down",
+     "lat": 31.0744869,
+     "lon": 74.4220569
+    },
+    {
+     "name": "Tolu Wala Down",
+     "lat": 31.0812455,
+     "lon": 74.4322015
+    },
+    {
+     "name": "Doly Wala Down",
+     "lat": 31.094629,
+     "lon": 74.452333
+    },
+    {
+     "name": "Chowk Kamal Chishti Down",
+     "lat": 31.1070217,
+     "lon": 74.4693207
+    },
+    {
+     "name": "Kachehri Chowk Down",
+     "lat": 31.1173063,
+     "lon": 74.4654399
+    },
+    {
+     "name": "Kashmir Chowk Down",
+     "lat": 31.123753,
+     "lon": 74.4632472
+    },
+    {
+     "name": "Steel Bagh Chowk Down",
+     "lat": 31.1378465,
+     "lon": 74.4584518
+    },
+    {
+     "name": "GBS KASUR Down",
+     "lat": 31.14774485,
+     "lon": 74.45609975
+    }
+   ]
+  },
+  {
+   "id": "69-705",
+   "code": "705",
+   "name": "GBS Kasur to Gajjumata Stop",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "GBS KASUR Up",
+     "lat": 31.14747859,
+     "lon": 74.45581257
+    },
+    {
+     "name": "Naqeebabad Up",
+     "lat": 31.1706978,
+     "lon": 74.4471853
+    },
+    {
+     "name": "Wadana Stop Up",
+     "lat": 31.1980436,
+     "lon": 74.4378773
+    },
+    {
+     "name": "Pakki Haveli Up",
+     "lat": 31.2244441,
+     "lon": 74.4289226
+    },
+    {
+     "name": "Mustafabad/Lalyani Up",
+     "lat": 31.252874,
+     "lon": 74.419295
+    },
+    {
+     "name": "Rashid Lateef Medical College Up",
+     "lat": 31.275622,
+     "lon": 74.410152
+    },
+    {
+     "name": "Soey Asal Up",
+     "lat": 31.308405,
+     "lon": 74.395762
+    },
+    {
+     "name": "Cetral Park Gate#1 Up",
+     "lat": 31.318273,
+     "lon": 74.390567
+    },
+    {
+     "name": "Jhulkey Stop Up",
+     "lat": 31.324301,
+     "lon": 74.38749
+    },
+    {
+     "name": "Cetral Park Gate#3 Up",
+     "lat": 31.328886,
+     "lon": 74.385084
+    },
+    {
+     "name": "Bilqees Sarwar Hospital Up",
+     "lat": 31.338393,
+     "lon": 74.380258
+    },
+    {
+     "name": "Purana Kahna Up",
+     "lat": 31.351537,
+     "lon": 74.373413
+    },
+    {
+     "name": "Malik Pura/Sparco Up",
+     "lat": 31.353463,
+     "lon": 74.372485
+    },
+    {
+     "name": "5-No. Stop Up",
+     "lat": 31.36076,
+     "lon": 74.368795
+    },
+    {
+     "name": "Railu Wali Masjid Up",
+     "lat": 31.364448,
+     "lon": 74.366878
+    },
+    {
+     "name": "Kahna Nau Up",
+     "lat": 31.369977,
+     "lon": 74.365687
+    },
+    {
+     "name": "Aluwala Up",
+     "lat": 31.379172,
+     "lon": 74.364186
+    },
+    {
+     "name": "Gujjumata Sua Up",
+     "lat": 31.382899,
+     "lon": 74.363604
+    },
+    {
+     "name": "Gujjumata Up",
+     "lat": 31.396036,
+     "lon": 74.361589
+    }
+   ]
+  },
+  {
+   "id": "69-706",
+   "code": "706",
+   "name": "Gajjumata Stop to GBS Kasur",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "Gujjumata Down",
+     "lat": 31.396134,
+     "lon": 74.36217
+    },
+    {
+     "name": "Gujjumata Sua Down",
+     "lat": 31.383011,
+     "lon": 74.364054
+    },
+    {
+     "name": "Aluwala Down",
+     "lat": 31.378715,
+     "lon": 74.364645
+    },
+    {
+     "name": "Kahna Nau Down",
+     "lat": 31.369901,
+     "lon": 74.366143
+    },
+    {
+     "name": "Railu Wali Masjid Down",
+     "lat": 31.364565,
+     "lon": 74.367094
+    },
+    {
+     "name": "5-No. Stop Down",
+     "lat": 31.36115,
+     "lon": 74.368948
+    },
+    {
+     "name": "Malik Pura/Sparco Down",
+     "lat": 31.353541,
+     "lon": 74.372862
+    },
+    {
+     "name": "Purana Kahna Down",
+     "lat": 31.35226345,
+     "lon": 74.3735682
+    },
+    {
+     "name": "Bilqees Sarwar Hospital Down",
+     "lat": 31.338573,
+     "lon": 74.380617
+    },
+    {
+     "name": "Central Park Gate # 3 Down",
+     "lat": 31.329001,
+     "lon": 74.385495
+    },
+    {
+     "name": "Jhulkey Stop Down",
+     "lat": 31.324474,
+     "lon": 74.387861
+    },
+    {
+     "name": "Central Park Gate # 1 Down",
+     "lat": 31.318303,
+     "lon": 74.390949
+    },
+    {
+     "name": "Soey Asal Down",
+     "lat": 31.308615,
+     "lon": 74.395934
+    },
+    {
+     "name": "Rashid Lateef Medical College Down",
+     "lat": 31.275945,
+     "lon": 74.410485
+    },
+    {
+     "name": "Mustafabad/Lalyani Down",
+     "lat": 31.2512249,
+     "lon": 74.4202873
+    },
+    {
+     "name": "Pakki Haveli Down",
+     "lat": 31.226702,
+     "lon": 74.428661
+    },
+    {
+     "name": "Wadana Stop Down",
+     "lat": 31.1987813,
+     "lon": 74.4380958
+    },
+    {
+     "name": "Naqeeb Abad Down",
+     "lat": 31.170046,
+     "lon": 74.447877
+    },
+    {
+     "name": "GBS KASUR Down",
+     "lat": 31.14774485,
+     "lon": 74.45609975
+    }
+   ]
+  }
+ ]
+}

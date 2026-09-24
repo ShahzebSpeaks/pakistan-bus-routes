@@ -1,0 +1,198 @@
+{
+  "id": "sahiwal-private-wagons",
+  "city": "sahiwal",
+  "name": "Sahiwal private wagons, minibuses and paratransit",
+  "name_ur": "",
+  "operator": "Private operators (route permits by RTA Sahiwal)",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Punjab Cities Improvement Investment Program - Sahiwal City Profile (Urban Unit / GHK, ADB-funded, c.2010)",
+      "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Sahiwal.pdf",
+      "publisher": "The Urban Unit, P&D Department Punjab (consultant GHK)",
+      "date": "c.2010 (hosted 2021)",
+      "official": false
+    }
+  ],
+  "notes": "Only route-level source found: the PCIIP city profile (c.2010). The profile says there was no urban bus or van service then, but its routes table lists one wagon corridor. Corridors only. The government e-bus system is sahiwal-electric-bus.",
+  "last_verified": "2026-09-24",
+  "routes": [
+    {
+      "id": "pciip-jogi-arif",
+      "name": "Jogi Chowk - Arif Chowk",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Jogi Chowk",
+          "name_ur": "",
+          "lat": 30.660556,
+          "lon": 73.108617,
+          "coord_source": "auto:same-name:ext:etransit.punjab.gov.pk:stop/1850",
+          "is_station": false
+        },
+        {
+          "name": "Arif Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Sahiwal City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 19 List of Urban Routes in City",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Sahiwal.pdf"
+        }
+      ],
+      "notes": "Wagon corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order. About 1,000 passengers/day. The only wagon corridor in the table."
+    },
+    {
+      "id": "pciip-jogi-civil-hospital",
+      "name": "Jogi Chowk - Civil Hospital",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Jogi Chowk",
+          "name_ur": "",
+          "lat": 30.660556,
+          "lon": 73.108617,
+          "coord_source": "auto:same-name:ext:etransit.punjab.gov.pk:stop/1850",
+          "is_station": false
+        },
+        {
+          "name": "Civil Hospital",
+          "name_ur": "",
+          "lat": 30.68293,
+          "lon": 73.103178,
+          "coord_source": "auto:osm:node/4506886289",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Sahiwal City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 19 List of Urban Routes in City",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Sahiwal.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw (Qingqi) and auto-rickshaw corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order. About 10,000 passengers/day (the table gives one figure for rows 2-4)."
+    },
+    {
+      "id": "pciip-jogi-pakpattan-chowk",
+      "name": "Jogi Chowk - Pakpattan Chowk",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Jogi Chowk",
+          "name_ur": "",
+          "lat": 30.660556,
+          "lon": 73.108617,
+          "coord_source": "auto:same-name:ext:etransit.punjab.gov.pk:stop/1850",
+          "is_station": false
+        },
+        {
+          "name": "Pakpattan Chowk",
+          "name_ur": "",
+          "lat": 30.653619,
+          "lon": 73.117997,
+          "coord_source": "auto:same-name:ext:etransit.punjab.gov.pk:stop/3450",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Sahiwal City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 19 List of Urban Routes in City",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Sahiwal.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw (Qingqi) and auto-rickshaw corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order."
+    },
+    {
+      "id": "pciip-jogi-bhutto-nagar",
+      "name": "Jogi Chowk - Bhutto Nagar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Jogi Chowk",
+          "name_ur": "",
+          "lat": 30.660556,
+          "lon": 73.108617,
+          "coord_source": "auto:same-name:ext:etransit.punjab.gov.pk:stop/1850",
+          "is_station": false
+        },
+        {
+          "name": "Bhutto Nagar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Punjab Cities Improvement Investment Program - Sahiwal City Profile (Urban Unit / GHK, ADB-funded, c.2010) - Table 19 List of Urban Routes in City",
+          "url": "https://urbanunit.gov.pk/Download/publications/Files/8/2021/PCIIP%20Cities%20Profile-Sahiwal.pdf"
+        }
+      ],
+      "notes": "Motorcycle rickshaw (Qingqi) and auto-rickshaw corridor listed as a \"major urban route\" (Tehsil Officer data and GHK field visit, c.2010). No route number; only the places named in the table are given, in the table's order."
+    }
+  ]
+}

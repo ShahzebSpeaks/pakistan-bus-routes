@@ -1,0 +1,584 @@
+{
+ "city": "jhang",
+ "source": "etransit.punjab.gov.pk",
+ "lines": [
+  {
+   "id": "36-317",
+   "code": "317",
+   "name": "GBS Jhang to Gojra Bypass",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "Jhang GBS Up",
+     "lat": 31.288985,
+     "lon": 72.321168
+    },
+    {
+     "name": "Adhiwal Chowk Up",
+     "lat": 31.290044,
+     "lon": 72.318466
+    },
+    {
+     "name": "Bab e Ali Up",
+     "lat": 31.297857,
+     "lon": 72.321557
+    },
+    {
+     "name": "Chaye Khana Up",
+     "lat": 31.301874,
+     "lon": 72.323223
+    },
+    {
+     "name": "22 No Chunggi Up",
+     "lat": 31.302227,
+     "lon": 72.315821
+    },
+    {
+     "name": "Govt High School for Boys Up",
+     "lat": 31.288535,
+     "lon": 72.319046
+    },
+    {
+     "name": "Marzi Pura Stop Up",
+     "lat": 31.283528,
+     "lon": 72.320094
+    },
+    {
+     "name": "Ayub Chowk Up",
+     "lat": 31.278349,
+     "lon": 72.321301
+    },
+    {
+     "name": "Library Chowk Up",
+     "lat": 31.275516,
+     "lon": 72.322335
+    },
+    {
+     "name": "Session Chowk Up",
+     "lat": 31.272605,
+     "lon": 72.318385
+    },
+    {
+     "name": "Thana Sadar Chowk Up",
+     "lat": 31.270475,
+     "lon": 72.317635
+    },
+    {
+     "name": "Girls College Chowk Up",
+     "lat": 31.267771,
+     "lon": 72.320467
+    },
+    {
+     "name": "Nawaz Chowk Up",
+     "lat": 31.266372,
+     "lon": 72.324586
+    },
+    {
+     "name": "Jhang DHQ  Up",
+     "lat": 31.263171,
+     "lon": 72.334025
+    },
+    {
+     "name": "Chaudhary ColonyUp",
+     "lat": 31.261535,
+     "lon": 72.339055
+    },
+    {
+     "name": "Gate Chowk Up",
+     "lat": 31.260502,
+     "lon": 72.342035
+    },
+    {
+     "name": "Jhang Kalma Chowk Up",
+     "lat": 31.257194,
+     "lon": 72.351866
+    },
+    {
+     "name": "Jamia Chowk Up",
+     "lat": 31.255808,
+     "lon": 72.356053
+    },
+    {
+     "name": "Gazali College Up",
+     "lat": 31.254062,
+     "lon": 72.361111
+    },
+    {
+     "name": "Baig Colony Up",
+     "lat": 31.252851,
+     "lon": 72.364758
+    },
+    {
+     "name": "Jhang Gojra Bypass Up",
+     "lat": 31.244645,
+     "lon": 72.389189
+    },
+    {
+     "name": "Jhang Gojra Bypass Down",
+     "lat": 31.244719,
+     "lon": 72.38856
+    }
+   ]
+  },
+  {
+   "id": "36-318",
+   "code": "318",
+   "name": "Gojra Bypass to GBS Jhang",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "Jhang Gojra Bypass Down",
+     "lat": 31.244719,
+     "lon": 72.38856
+    },
+    {
+     "name": "Baig Colony Down",
+     "lat": 31.252792,
+     "lon": 72.364391
+    },
+    {
+     "name": "Gazali College Down",
+     "lat": 31.254031,
+     "lon": 72.360647
+    },
+    {
+     "name": "Jamia Chowk Down",
+     "lat": 31.255591,
+     "lon": 72.356007
+    },
+    {
+     "name": "Jhang Kalma Chowk Down",
+     "lat": 31.257404,
+     "lon": 72.350663
+    },
+    {
+     "name": "Gate Chowk Down",
+     "lat": 31.260411,
+     "lon": 72.341837
+    },
+    {
+     "name": "Chaudhary Colony Down",
+     "lat": 31.261382,
+     "lon": 72.339061
+    },
+    {
+     "name": "Jhang DHQ Down",
+     "lat": 31.263052,
+     "lon": 72.333936
+    },
+    {
+     "name": "Nawaz Chowk Down",
+     "lat": 31.266265,
+     "lon": 72.324469
+    },
+    {
+     "name": "Girls College Chowk Down",
+     "lat": 31.267682,
+     "lon": 72.320304
+    },
+    {
+     "name": "Thana Sadar Chowk Down",
+     "lat": 31.270354,
+     "lon": 72.317474
+    },
+    {
+     "name": "Session Chowk  Down",
+     "lat": 31.272879,
+     "lon": 72.318343
+    },
+    {
+     "name": "Library Chowk Down",
+     "lat": 31.275439,
+     "lon": 72.322123
+    },
+    {
+     "name": "Ayub Chowk Down",
+     "lat": 31.278311,
+     "lon": 72.321039
+    },
+    {
+     "name": "Marzi Pura Stop Down",
+     "lat": 31.283541,
+     "lon": 72.319863
+    },
+    {
+     "name": "Govt High School for Boys Down",
+     "lat": 31.288405,
+     "lon": 72.31878
+    },
+    {
+     "name": "22 No Chunggi Down",
+     "lat": 31.302227,
+     "lon": 72.315821
+    },
+    {
+     "name": "Chaye Khana Down",
+     "lat": 31.301819,
+     "lon": 72.323297
+    },
+    {
+     "name": "Bab e Ali Down",
+     "lat": 31.298137,
+     "lon": 72.321788
+    },
+    {
+     "name": "Adhiwal Chowk Down",
+     "lat": 31.290152,
+     "lon": 72.318662
+    },
+    {
+     "name": "Jhang GBS Down",
+     "lat": 31.289091,
+     "lon": 72.321129
+    },
+    {
+     "name": "Jhang GBS Up",
+     "lat": 31.288985,
+     "lon": 72.321168
+    }
+   ]
+  },
+  {
+   "id": "36-319",
+   "code": "319",
+   "name": "GBS Jhang to Aliabad",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "Jhang GBS Up",
+     "lat": 31.288985,
+     "lon": 72.321168
+    },
+    {
+     "name": "Adhiwal Chowk Up",
+     "lat": 31.290044,
+     "lon": 72.318466
+    },
+    {
+     "name": "Jhang Sabzi Mandi Up",
+     "lat": 31.287377,
+     "lon": 72.316462
+    },
+    {
+     "name": "Farooq Azam Road Up",
+     "lat": 31.280475,
+     "lon": 72.312823
+    },
+    {
+     "name": "Talaab Committee Up",
+     "lat": 31.278372,
+     "lon": 72.313653
+    },
+    {
+     "name": "Jhang Fawara Chowk Up",
+     "lat": 31.274306,
+     "lon": 72.316344
+    },
+    {
+     "name": "Session Chowk Up",
+     "lat": 31.272605,
+     "lon": 72.318385
+    },
+    {
+     "name": "Khatam E Nabuwat Chowk Up",
+     "lat": 31.269601,
+     "lon": 72.316491
+    },
+    {
+     "name": "Abot Pur Chowk Up",
+     "lat": 31.262947,
+     "lon": 72.310923
+    },
+    {
+     "name": "Madina Town Up",
+     "lat": 31.260621,
+     "lon": 72.308966
+    },
+    {
+     "name": "Jhang Daewoo Terminal Up",
+     "lat": 31.257161,
+     "lon": 72.306084
+    },
+    {
+     "name": "Aliabad Up",
+     "lat": 31.251404,
+     "lon": 72.301114
+    },
+    {
+     "name": "Aliabad Down",
+     "lat": 31.251508,
+     "lon": 72.300758
+    }
+   ]
+  },
+  {
+   "id": "36-320",
+   "code": "320",
+   "name": "Aliabad to GBS Jhang",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "Aliabad Down",
+     "lat": 31.251508,
+     "lon": 72.300758
+    },
+    {
+     "name": "Jhang Daewoo Terminal Down",
+     "lat": 31.257381,
+     "lon": 72.305965
+    },
+    {
+     "name": "Madina Town Down",
+     "lat": 31.260589,
+     "lon": 72.308668
+    },
+    {
+     "name": "Abot Pur Chowk Down",
+     "lat": 31.263089,
+     "lon": 72.310771
+    },
+    {
+     "name": "Khatam E Nabuwat Chowk Down",
+     "lat": 31.269781,
+     "lon": 72.316363
+    },
+    {
+     "name": "Session Chowk  Down",
+     "lat": 31.272879,
+     "lon": 72.318343
+    },
+    {
+     "name": "Jhang Fawara Chowk Down",
+     "lat": 31.274213,
+     "lon": 72.316262
+    },
+    {
+     "name": "Talaab Committee Down",
+     "lat": 31.278331,
+     "lon": 72.313518
+    },
+    {
+     "name": "Farooq Azam Road Down",
+     "lat": 31.280456,
+     "lon": 72.312709
+    },
+    {
+     "name": "Jhang Sabzi Mandi Down",
+     "lat": 31.287513,
+     "lon": 72.316381
+    },
+    {
+     "name": "Adhiwal Chowk Down",
+     "lat": 31.290152,
+     "lon": 72.318662
+    },
+    {
+     "name": "Jhang GBS Down",
+     "lat": 31.289091,
+     "lon": 72.321129
+    },
+    {
+     "name": "Jhang GBS Up",
+     "lat": 31.288985,
+     "lon": 72.321168
+    }
+   ]
+  },
+  {
+   "id": "36-321",
+   "code": "321",
+   "name": "GBS Jhang to UVAS",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "Jhang GBS Up",
+     "lat": 31.288985,
+     "lon": 72.321168
+    },
+    {
+     "name": "Govt High School for Boys Up",
+     "lat": 31.288535,
+     "lon": 72.319046
+    },
+    {
+     "name": "Marzi Pura Stop Up",
+     "lat": 31.283528,
+     "lon": 72.320094
+    },
+    {
+     "name": "Ayub Chowk Up",
+     "lat": 31.278349,
+     "lon": 72.321301
+    },
+    {
+     "name": "Jhang Rescue Office Up",
+     "lat": 31.277919,
+     "lon": 72.326338
+    },
+    {
+     "name": "Jhang NADRA Office Up",
+     "lat": 31.278164,
+     "lon": 72.333797
+    },
+    {
+     "name": "Sadeeq Abad Up",
+     "lat": 31.278529,
+     "lon": 72.343187
+    },
+    {
+     "name": "Kot Sai Singh Up",
+     "lat": 31.278931,
+     "lon": 72.350452
+    },
+    {
+     "name": "Chiniot Morr Up",
+     "lat": 31.280351,
+     "lon": 72.365813
+    },
+    {
+     "name": "Aslam Marque Up",
+     "lat": 31.28642,
+     "lon": 72.365978
+    },
+    {
+     "name": "Jhang WAPDA Colony  Up",
+     "lat": 31.292983,
+     "lon": 72.365573
+    },
+    {
+     "name": "Sufi Morr Up",
+     "lat": 31.315278,
+     "lon": 72.364139
+    },
+    {
+     "name": "9 Meel Stop Up",
+     "lat": 31.326213,
+     "lon": 72.369121
+    },
+    {
+     "name": "Jhang Chenab College Up",
+     "lat": 31.338631,
+     "lon": 72.375081
+    },
+    {
+     "name": "University of Jhang Up",
+     "lat": 31.341597,
+     "lon": 72.376334
+    },
+    {
+     "name": "Jhang TEVTA Up",
+     "lat": 31.345962,
+     "lon": 72.377891
+    },
+    {
+     "name": "Jhang UVAS Up",
+     "lat": 31.348443,
+     "lon": 72.378735
+    },
+    {
+     "name": "Jhang UVAS Down",
+     "lat": 31.348075,
+     "lon": 72.378781
+    }
+   ]
+  },
+  {
+   "id": "36-322",
+   "code": "322",
+   "name": "UVAS to GBS Jhang",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "Jhang UVAS Down",
+     "lat": 31.348075,
+     "lon": 72.378781
+    },
+    {
+     "name": "Jhang TEVTA Down",
+     "lat": 31.345805,
+     "lon": 72.377978
+    },
+    {
+     "name": "University of Jhang Down",
+     "lat": 31.341426,
+     "lon": 72.376477
+    },
+    {
+     "name": "Jhang Chenab College Down",
+     "lat": 31.338301,
+     "lon": 72.375089
+    },
+    {
+     "name": "9 Meel Stop Down",
+     "lat": 31.325912,
+     "lon": 72.369143
+    },
+    {
+     "name": "Sufi Morr Down",
+     "lat": 31.315019,
+     "lon": 72.364331
+    },
+    {
+     "name": "Jhang WAPDA Colony Down",
+     "lat": 31.292982,
+     "lon": 72.365755
+    },
+    {
+     "name": "Aslam Marque Down",
+     "lat": 31.287192,
+     "lon": 72.366113
+    },
+    {
+     "name": "Chiniot Morr Down",
+     "lat": 31.280173,
+     "lon": 72.365697
+    },
+    {
+     "name": "Kot Sai Singh Down",
+     "lat": 31.278774,
+     "lon": 72.350146
+    },
+    {
+     "name": "Sadeeq Abad Down",
+     "lat": 31.278415,
+     "lon": 72.343489
+    },
+    {
+     "name": "Jhang NADRA Office Down",
+     "lat": 31.278031,
+     "lon": 72.333802
+    },
+    {
+     "name": "Jhang Rescue Office Down",
+     "lat": 31.277773,
+     "lon": 72.326261
+    },
+    {
+     "name": "Ayub Chowk Down",
+     "lat": 31.278311,
+     "lon": 72.321039
+    },
+    {
+     "name": "Marzi Pura Stop Down",
+     "lat": 31.283541,
+     "lon": 72.319863
+    },
+    {
+     "name": "Govt High School for Boys Down",
+     "lat": 31.288405,
+     "lon": 72.31878
+    },
+    {
+     "name": "Jhang GBS Down",
+     "lat": 31.289091,
+     "lon": 72.321129
+    },
+    {
+     "name": "Jhang GBS Up",
+     "lat": 31.288985,
+     "lon": 72.321168
+    }
+   ]
+  }
+ ]
+}

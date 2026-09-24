@@ -1,0 +1,810 @@
+{
+ "city": "okara",
+ "source": "etransit.punjab.gov.pk",
+ "lines": [
+  {
+   "id": "59-565",
+   "code": "565",
+   "name": "Gbs Okara To Deepal Pur",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "GBS Okara Up",
+     "lat": 30.81124,
+     "lon": 73.45899
+    },
+    {
+     "name": "Deepal Pur Chowk Up",
+     "lat": 30.80567,
+     "lon": 73.460036
+    },
+    {
+     "name": "Passport Office Okara Up",
+     "lat": 30.800363,
+     "lon": 73.470093
+    },
+    {
+     "name": "54 Chak Up",
+     "lat": 30.798619,
+     "lon": 73.47352
+    },
+    {
+     "name": "South City Hospital Okara Up",
+     "lat": 30.792685,
+     "lon": 73.484896
+    },
+    {
+     "name": "51 Chak Up",
+     "lat": 30.786296,
+     "lon": 73.497218
+    },
+    {
+     "name": "49 Chak Up",
+     "lat": 30.779312,
+     "lon": 73.510595
+    },
+    {
+     "name": "48 Chak Up",
+     "lat": 30.768133,
+     "lon": 73.532309
+    },
+    {
+     "name": "31 Chak Up",
+     "lat": 30.75745,
+     "lon": 73.5527
+    },
+    {
+     "name": "40 Chak Up",
+     "lat": 30.74554,
+     "lon": 73.57728
+    },
+    {
+     "name": "39 Chak Up",
+     "lat": 30.72507,
+     "lon": 73.60172
+    },
+    {
+     "name": "Peer d Hatti Up",
+     "lat": 30.714874,
+     "lon": 73.613873
+    },
+    {
+     "name": "Chorasta stop Down",
+     "lat": 30.70775,
+     "lon": 73.62213
+    },
+    {
+     "name": "Chak Sobaram Up",
+     "lat": 30.70431,
+     "lon": 73.62643
+    },
+    {
+     "name": "Superior College Deepalpur Up",
+     "lat": 30.68268,
+     "lon": 73.64429
+    },
+    {
+     "name": "Katchehry chowk Okara Up",
+     "lat": 30.673839,
+     "lon": 73.648648
+    },
+    {
+     "name": "GBS Deepalpur Up",
+     "lat": 30.672357,
+     "lon": 73.657655
+    },
+    {
+     "name": "GBS Deepalpur Down",
+     "lat": 30.672031,
+     "lon": 73.657377
+    }
+   ]
+  },
+  {
+   "id": "59-566",
+   "code": "566",
+   "name": "Deepal Pur to Gbs Okara",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "GBS Deepalpur Down",
+     "lat": 30.672031,
+     "lon": 73.657377
+    },
+    {
+     "name": "Katchehry chowk Okara Down",
+     "lat": 30.673967,
+     "lon": 73.648434
+    },
+    {
+     "name": "Superior College Deepalpur Down",
+     "lat": 30.683027,
+     "lon": 73.643939
+    },
+    {
+     "name": "Chak Sobaram Down",
+     "lat": 30.704078,
+     "lon": 73.626434
+    },
+    {
+     "name": "Chorasta stop Down",
+     "lat": 30.70775,
+     "lon": 73.62213
+    },
+    {
+     "name": "Peer d Hatti Down",
+     "lat": 30.71413,
+     "lon": 73.614509
+    },
+    {
+     "name": "39 Chak Down",
+     "lat": 30.725264,
+     "lon": 73.601209
+    },
+    {
+     "name": "40 Chak Down",
+     "lat": 30.744952,
+     "lon": 73.577722
+    },
+    {
+     "name": "31 Chak Down",
+     "lat": 30.756971,
+     "lon": 73.553267
+    },
+    {
+     "name": "48 Chak Down",
+     "lat": 30.76812,
+     "lon": 73.531901
+    },
+    {
+     "name": "49 Chak Down",
+     "lat": 30.778772,
+     "lon": 73.511778
+    },
+    {
+     "name": "51 Chak Down",
+     "lat": 30.786344,
+     "lon": 73.496717
+    },
+    {
+     "name": "South City Hospital Down",
+     "lat": 30.792445,
+     "lon": 73.485001
+    },
+    {
+     "name": "54 Chak Down",
+     "lat": 30.798538,
+     "lon": 73.473256
+    },
+    {
+     "name": "Passport Office Okara Down",
+     "lat": 30.800233,
+     "lon": 73.469969
+    },
+    {
+     "name": "Deepalpur Chowk Down",
+     "lat": 30.805653,
+     "lon": 73.459637
+    },
+    {
+     "name": "GBS Okara Down",
+     "lat": 30.811237,
+     "lon": 73.458676
+    },
+    {
+     "name": "GBS Okara Up",
+     "lat": 30.81124,
+     "lon": 73.45899
+    }
+   ]
+  },
+  {
+   "id": "59-569",
+   "code": "569",
+   "name": "Sahiwal Bypass to KFC Bypass",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "Sahiwal Bypass Okara Up",
+     "lat": 30.793132,
+     "lon": 73.419996
+    },
+    {
+     "name": "Katchehry Phattak Okara Up",
+     "lat": 30.79818,
+     "lon": 73.430475
+    },
+    {
+     "name": "DC Office Okara Up",
+     "lat": 30.801405,
+     "lon": 73.429878
+    },
+    {
+     "name": "PTCL Office Okara Up",
+     "lat": 30.805312,
+     "lon": 73.436681
+    },
+    {
+     "name": "Mehboob Alam Chowk Up",
+     "lat": 30.808697,
+     "lon": 73.440903
+    },
+    {
+     "name": "DHQ Okara Up",
+     "lat": 30.810187,
+     "lon": 73.443071
+    },
+    {
+     "name": "Company Baag Up",
+     "lat": 30.811819,
+     "lon": 73.446426
+    },
+    {
+     "name": "Thana A-Division Up",
+     "lat": 30.814616,
+     "lon": 73.452124
+    },
+    {
+     "name": "Tanki Stop Okara Up",
+     "lat": 30.806911,
+     "lon": 73.457616
+    },
+    {
+     "name": "GBS Okara Up",
+     "lat": 30.81124,
+     "lon": 73.45899
+    },
+    {
+     "name": "1/4 L Phattak Up",
+     "lat": 30.817167,
+     "lon": 73.469314
+    },
+    {
+     "name": "Quaid e Azam Law College Okara Up",
+     "lat": 30.819438,
+     "lon": 73.473846
+    },
+    {
+     "name": "Punjab College Okara Up",
+     "lat": 30.822771,
+     "lon": 73.480501
+    },
+    {
+     "name": "Aspire College Okara Up",
+     "lat": 30.828117,
+     "lon": 73.491392
+    },
+    {
+     "name": "KFC Bypass Okara Up",
+     "lat": 30.831389,
+     "lon": 73.498112
+    },
+    {
+     "name": "KFC Bypass Okara Down",
+     "lat": 30.830921,
+     "lon": 73.497868
+    }
+   ]
+  },
+  {
+   "id": "59-570",
+   "code": "570",
+   "name": "KFC Bypass to sahiwal Bypass",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "KFC Bypass Okara Down",
+     "lat": 30.830921,
+     "lon": 73.497868
+    },
+    {
+     "name": "Aspire College Okara Down",
+     "lat": 30.827745,
+     "lon": 73.491312
+    },
+    {
+     "name": "Punjab College Okara Down",
+     "lat": 30.822729,
+     "lon": 73.481087
+    },
+    {
+     "name": "Quaid e Azam Law College Okara Down",
+     "lat": 30.819212,
+     "lon": 73.473864
+    },
+    {
+     "name": "1/4 L Phattak Down",
+     "lat": 30.816966,
+     "lon": 73.469321
+    },
+    {
+     "name": "GBS Okara Down",
+     "lat": 30.811237,
+     "lon": 73.458676
+    },
+    {
+     "name": "Tanki Stop Down",
+     "lat": 30.806949,
+     "lon": 73.45714
+    },
+    {
+     "name": "Thana A-Division Down",
+     "lat": 30.814522,
+     "lon": 73.452229
+    },
+    {
+     "name": "Company Baag Down",
+     "lat": 30.811549,
+     "lon": 73.44615
+    },
+    {
+     "name": "DHQ Okara Down",
+     "lat": 30.810454,
+     "lon": 73.443893
+    },
+    {
+     "name": "Mehboob Alam Chowk Down",
+     "lat": 30.808553,
+     "lon": 73.441152
+    },
+    {
+     "name": "PTCL Office Okara Down",
+     "lat": 30.805225,
+     "lon": 73.437069
+    },
+    {
+     "name": "DC Office Okara Down",
+     "lat": 30.801377,
+     "lon": 73.430263
+    },
+    {
+     "name": "Katchehry Phattak Okara Down",
+     "lat": 30.798,
+     "lon": 73.430595
+    },
+    {
+     "name": "Sahiwal Bypass Okara Down",
+     "lat": 30.792753,
+     "lon": 73.421007
+    },
+    {
+     "name": "Sahiwal Bypass Okara Up",
+     "lat": 30.793132,
+     "lon": 73.419996
+    }
+   ]
+  },
+  {
+   "id": "59-579",
+   "code": "579",
+   "name": "GBS Okara to Sher Ghar",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "GBS Okara Up",
+     "lat": 30.81124,
+     "lon": 73.45899
+    },
+    {
+     "name": "1/4 L Phattak Up",
+     "lat": 30.817167,
+     "lon": 73.469314
+    },
+    {
+     "name": "Quaid e Azam Law College Okara Up",
+     "lat": 30.819438,
+     "lon": 73.473846
+    },
+    {
+     "name": "Punjab College Okara Up",
+     "lat": 30.822771,
+     "lon": 73.480501
+    },
+    {
+     "name": "Aspire College Okara Up",
+     "lat": 30.828117,
+     "lon": 73.491392
+    },
+    {
+     "name": "KFC Bypass Okara Up",
+     "lat": 30.831389,
+     "lon": 73.498112
+    },
+    {
+     "name": "Adda Kissan Up",
+     "lat": 30.841164,
+     "lon": 73.518747
+    },
+    {
+     "name": "University of Okara Up",
+     "lat": 30.866107,
+     "lon": 73.568781
+    },
+    {
+     "name": "THQ Hospital Renala Up",
+     "lat": 30.87443,
+     "lon": 73.589357
+    },
+    {
+     "name": "Renala Khurd Up",
+     "lat": 30.877795,
+     "lon": 73.595116
+    },
+    {
+     "name": "Renala Bypass Up",
+     "lat": 30.886553,
+     "lon": 73.612785
+    },
+    {
+     "name": "12 Chak Up",
+     "lat": 30.895028,
+     "lon": 73.627892
+    },
+    {
+     "name": "11 Chak Up",
+     "lat": 30.898744,
+     "lon": 73.635513
+    },
+    {
+     "name": "10 Chak Up",
+     "lat": 30.912829,
+     "lon": 73.664583
+    },
+    {
+     "name": "Akhterabad Up",
+     "lat": 30.921029,
+     "lon": 73.682336
+    },
+    {
+     "name": "Chak No 16/1.A.L Up",
+     "lat": 30.911146,
+     "lon": 73.69477
+    },
+    {
+     "name": "Chak No 19/1.A.L Up",
+     "lat": 30.896738,
+     "lon": 73.702586
+    },
+    {
+     "name": "Chak No 28/1.A.L Up",
+     "lat": 30.877704,
+     "lon": 73.714961
+    },
+    {
+     "name": "Chak No 25/1.A.L Up",
+     "lat": 30.867395,
+     "lon": 73.722261
+    },
+    {
+     "name": "Daud Bandagi Hospital Okara Up",
+     "lat": 30.841163,
+     "lon": 73.734854
+    },
+    {
+     "name": "Sher Garh Up",
+     "lat": 30.831686,
+     "lon": 73.734053
+    }
+   ]
+  },
+  {
+   "id": "59-580",
+   "code": "580",
+   "name": "Sher Ghar to GBS Okara",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "Sher Garh Down",
+     "lat": 30.831947,
+     "lon": 73.733997
+    },
+    {
+     "name": "Daud Bandagi Hospital Okara Down",
+     "lat": 30.841413,
+     "lon": 73.734763
+    },
+    {
+     "name": "Chak No 25/1.A.L Down",
+     "lat": 30.867654,
+     "lon": 73.72204
+    },
+    {
+     "name": "Chak No 28/1.A.L Down",
+     "lat": 30.878184,
+     "lon": 73.714546
+    },
+    {
+     "name": "Chak No 19/1.A.L Down",
+     "lat": 30.897147,
+     "lon": 73.702282
+    },
+    {
+     "name": "Chak No 16/1.A.L Down",
+     "lat": 30.911472,
+     "lon": 73.694499
+    },
+    {
+     "name": "Akhtarabad Down",
+     "lat": 30.920234,
+     "lon": 73.681687
+    },
+    {
+     "name": "10 Chak Down",
+     "lat": 30.912378,
+     "lon": 73.664342
+    },
+    {
+     "name": "11 Chak Down",
+     "lat": 30.898126,
+     "lon": 73.635059
+    },
+    {
+     "name": "12 Chak Down",
+     "lat": 30.894547,
+     "lon": 73.627594
+    },
+    {
+     "name": "Renala Bypass Down",
+     "lat": 30.886911,
+     "lon": 73.613425
+    },
+    {
+     "name": "Renala Khurd Down",
+     "lat": 30.878791,
+     "lon": 73.596265
+    },
+    {
+     "name": "THQ Hospital Renala Down",
+     "lat": 30.874152,
+     "lon": 73.58917
+    },
+    {
+     "name": "University of Okara Down",
+     "lat": 30.865911,
+     "lon": 73.569363
+    },
+    {
+     "name": "Adda Kissan Down",
+     "lat": 30.840976,
+     "lon": 73.519147
+    },
+    {
+     "name": "KFC Bypass Okara Down",
+     "lat": 30.830921,
+     "lon": 73.497868
+    },
+    {
+     "name": "Aspire College Okara Down",
+     "lat": 30.827745,
+     "lon": 73.491312
+    },
+    {
+     "name": "Punjab College Okara Down",
+     "lat": 30.822729,
+     "lon": 73.481087
+    },
+    {
+     "name": "Quaid e Azam Law College Okara Down",
+     "lat": 30.819212,
+     "lon": 73.473864
+    },
+    {
+     "name": "1/4 L Phattak Down",
+     "lat": 30.816966,
+     "lon": 73.469321
+    },
+    {
+     "name": "GBS Okara Down",
+     "lat": 30.811237,
+     "lon": 73.458676
+    }
+   ]
+  },
+  {
+   "id": "59-865",
+   "code": "865",
+   "name": "GBS Okara to Fatehpur",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "GBS Okara Up",
+     "lat": 30.81124,
+     "lon": 73.45899
+    },
+    {
+     "name": "Tanki Stop Okara Up",
+     "lat": 30.806911,
+     "lon": 73.457616
+    },
+    {
+     "name": "Purani Katchehry Up",
+     "lat": 30.816113,
+     "lon": 73.451983
+    },
+    {
+     "name": "Khan Colony Up",
+     "lat": 30.82426,
+     "lon": 73.451139
+    },
+    {
+     "name": "Sahulat Bazar Up",
+     "lat": 30.830442,
+     "lon": 73.451575
+    },
+    {
+     "name": "Satghra Morr Up",
+     "lat": 30.83949,
+     "lon": 73.448518
+    },
+    {
+     "name": "38 Chak Up",
+     "lat": 30.85572,
+     "lon": 73.442252
+    },
+    {
+     "name": "32 Chak Up",
+     "lat": 30.861109,
+     "lon": 73.437651
+    },
+    {
+     "name": "Cadet College Okara Up",
+     "lat": 30.866871,
+     "lon": 73.430632
+    },
+    {
+     "name": "District Jail, Okara Up",
+     "lat": 30.870156,
+     "lon": 73.426693
+    },
+    {
+     "name": "Naemat Ghee Mill Up",
+     "lat": 30.875338,
+     "lon": 73.420358
+    },
+    {
+     "name": "20 Chak Up",
+     "lat": 30.888854,
+     "lon": 73.403869
+    },
+    {
+     "name": "23 Chak Up",
+     "lat": 30.902666,
+     "lon": 73.387155
+    },
+    {
+     "name": "Young Pur Up",
+     "lat": 30.912467,
+     "lon": 73.375301
+    },
+    {
+     "name": "Ghakhar Chowk Up",
+     "lat": 30.924404,
+     "lon": 73.360958
+    },
+    {
+     "name": "34 Chak Up",
+     "lat": 30.928086,
+     "lon": 73.356489
+    },
+    {
+     "name": "Bangla Gogera Up",
+     "lat": 30.952827,
+     "lon": 73.326761
+    },
+    {
+     "name": "Fateh Pur, Okara Up",
+     "lat": 30.951814,
+     "lon": 73.286186
+    },
+    {
+     "name": "Fateh Pur, Okara Down",
+     "lat": 30.952016,
+     "lon": 73.28659
+    }
+   ]
+  },
+  {
+   "id": "59-866",
+   "code": "866",
+   "name": "Fatehpur to GBS Okara",
+   "url": "https://etransit.punjab.gov.pk",
+   "stops": [
+    {
+     "name": "Fateh Pur, Okara Down",
+     "lat": 30.952016,
+     "lon": 73.28659
+    },
+    {
+     "name": "Bangla Gogera Down",
+     "lat": 30.953895,
+     "lon": 73.325777
+    },
+    {
+     "name": "34 Chak Down",
+     "lat": 30.927983,
+     "lon": 73.356829
+    },
+    {
+     "name": "Ghakher Chowk Down",
+     "lat": 30.924398,
+     "lon": 73.361205
+    },
+    {
+     "name": "Young Pur Down",
+     "lat": 30.912796,
+     "lon": 73.375155
+    },
+    {
+     "name": "23 Chak Down",
+     "lat": 30.902841,
+     "lon": 73.387176
+    },
+    {
+     "name": "20 Chak Down",
+     "lat": 30.889491,
+     "lon": 73.403351
+    },
+    {
+     "name": "Naemat Ghee Mill Down",
+     "lat": 30.875429,
+     "lon": 73.420485
+    },
+    {
+     "name": "District Jail, Okara Down",
+     "lat": 30.869966,
+     "lon": 73.427124
+    },
+    {
+     "name": "Cadet College Okara Down",
+     "lat": 30.866933,
+     "lon": 73.430803
+    },
+    {
+     "name": "32 Chak Down",
+     "lat": 30.861759,
+     "lon": 73.437138
+    },
+    {
+     "name": "38 Chak Down",
+     "lat": 30.855832,
+     "lon": 73.442351
+    },
+    {
+     "name": "Satghra Morr Down",
+     "lat": 30.840231,
+     "lon": 73.448437
+    },
+    {
+     "name": "Sahulat Bazar Down",
+     "lat": 30.830091,
+     "lon": 73.451787
+    },
+    {
+     "name": "Khan Colony Down",
+     "lat": 30.82417,
+     "lon": 73.451394
+    },
+    {
+     "name": "Purani Katchehry Down",
+     "lat": 30.815887,
+     "lon": 73.452409
+    },
+    {
+     "name": "Tanki Stop Down",
+     "lat": 30.806949,
+     "lon": 73.45714
+    },
+    {
+     "name": "GBS Okara Down",
+     "lat": 30.811237,
+     "lon": 73.458676
+    },
+    {
+     "name": "GBS Okara Up",
+     "lat": 30.81124,
+     "lon": 73.45899
+    }
+   ]
+  }
+ ]
+}
