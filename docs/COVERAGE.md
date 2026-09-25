@@ -1,6 +1,6 @@
 # Data coverage
 
-Generated 2026-09-24 by `npm run data:build`. Do not edit by hand.
+Generated 2026-09-25 by `npm run data:build`. Do not edit by hand.
 
 **53 cities · 152 systems · 1626 published routes · 7589 stops**
 

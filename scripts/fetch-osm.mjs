@@ -12,7 +12,9 @@ const only = new Set(args.filter((a) => !a.startsWith('--')));
 const ENDPOINTS = (process.env.OVERPASS_URL ? [process.env.OVERPASS_URL] : []).concat(['https://maps.mail.ru/osm/tools/overpass/api/interpreter', 'https://overpass.kumi.systems/api/interpreter', 'https://overpass-api.de/api/interpreter']);
 
 const usedCities = new Set(loadSystems().map((s) => s.system.city));
-const cities = loadCities().filter((c) => usedCities.has(c.id) && (!only.size || only.has(c.id)));
+// The nationwide "intercity" area is far too large for Overpass; its stops are towns and terminals,
+// which geocode.mjs and place-intercity.mjs place without a local cache.
+const cities = loadCities().filter((c) => c.id !== 'intercity' && usedCities.has(c.id) && (!only.size || only.has(c.id)));
 
 // Every named node, way and relation. A single broad filter is cheaper for Overpass than many tag
 // filters, and named roads help match stops such as "University Road".

@@ -26,6 +26,8 @@ jobs:
       - run: npm ci
       - run: npm run data:osm -- --refresh
       - run: npm run data:geocode -- ${{ inputs.systems }}
+      # Put intercity stops back at their towns where a search matched a same-named place elsewhere.
+      - run: node scripts/place-intercity.mjs
       - run: npm run data:shapes -- ${{ inputs.systems }}
       - run: npm run data:names
       - run: npm run data:validate

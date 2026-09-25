@@ -23,19 +23,23 @@ See [docs/COVERAGE.md](docs/COVERAGE.md) for the per-route list, generated from 
 
 | Region | Systems |
 |---|---|
-| Karachi | Peoples Bus Service Red Bus (R-series), EV electric buses, Pink women-only buses, Green Line and Orange Line BRT, plus Red/Yellow/Brown BRT and Karachi Circular Railway marked as under construction or planned |
-| Lahore | Metrobus, Orange Line Metro Train, Speedo feeder routes, electric buses |
-| Islamabad & Rawalpindi | Metrobus Red, Orange, Blue and Green lines, CDA electric feeder routes, Rawalpindi electric buses |
+| Intercity (all Pakistan) | Pakistan Railways passenger trains with station-by-station times, and intercity buses from about 70 operators (Daewoo, Faisal Movers, Skyways, Niazi, NATCO and others) with departure times where published |
+| Karachi | Peoples Bus Service Red Bus (R-series), EV electric buses, Pink women-only buses, Green Line and Orange Line BRT, private minibuses and coaches, Chinchi (Qingqi) routes, plus Red/Yellow/Brown BRT and Karachi Circular Railway marked as under construction or planned. The January 2010 minibus list is kept as old routes |
+| Lahore | Metrobus, Orange Line Metro Train, Speedo feeder routes, electric buses, wagon routes |
+| Islamabad & Rawalpindi | Metrobus Red, Orange, Blue and Green lines, CDA electric feeder routes, Rawalpindi electric buses, private wagon and Hiace routes (old lists) |
 | Peshawar | Zu BRT (TransPeshawar) corridor and feeder routes |
 | Multan | Metrobus, feeder and electric bus routes |
-| Punjab districts | Green electric bus routes in more than 30 cities |
+| Punjab districts | Green electric bus routes in more than 30 cities; wagon and Qingqi corridors in Faisalabad, Gujranwala, Bahawalpur, Sargodha, Sahiwal, Gujrat and Jhang |
 | Sindh | Peoples Bus Service in Hyderabad, Sukkur, Larkana, Nawabshah and Mirpurkhas |
-| Quetta | Green Bus |
+| Quetta | Green Bus and Green Line |
+| Abbottabad and Mardan | Pink Bus (suspended) |
+
+Routes are labelled by how sure we are: **operational** (confirmed running), **unverified** (in a source but not checked recently), **planned**, **under construction**, **suspended**, and **old list** (may no longer run; never used by the trip planner).
 
 ## Features
 
 - **Trip planner.** Pick a stop, a place or a point on the map. It finds direct routes and journeys with up to two changes, including walking between stops, and estimates time and fare.
-- **Route pages.** Every stop in order, interchanges, fare, hours, frequency, operator helpline, sources and a "report a mistake" button.
+- **Route pages.** Every stop in order, interchanges, fare, hours, frequency, operator helpline, sources and a "report a mistake" button. Trains show the time at every station, and intercity buses show their departure times.
 - **Stop pages.** All routes that serve a stop.
 - **Nearby.** Stops around your current location.
 - **English and Urdu,** with right-to-left layout, plus light and dark themes.
@@ -80,7 +84,8 @@ research/*.json ──import──▶ data/systems/<system>.json   ◀── hum
 
 - One file per transit system lives in [`data/systems/`](data/systems). The format is described in [docs/DATA_FORMAT.md](docs/DATA_FORMAT.md).
 - Every stop coordinate carries a `coord_source`. Coordinates checked by a person use an OpenStreetMap id, `wikipedia` or `manual`. Automatic ones start with `auto:`, and the app shows interpolated stops as estimated.
-- Times in the planner and GTFS are **estimates** from distance and typical speeds, because operators do not publish timetables.
+- Times in the planner and GTFS are **estimates** from distance and typical speeds, because city bus operators do not publish timetables. Trains are the exception: they use Pakistan Railways' own schedule.
+- Research arrives as JSON in `research/incoming/` and is merged with helper scripts: `append-routes.mjs` (new routes, or fuller stop lists for routes that only list their terminals), `apply-corrections.mjs`, `merge-coordinates.mjs` (stop positions from route guides), `import-trains.mjs`, `import-bus-timetables.mjs` and `place-intercity.mjs`. Each script explains its options at the top of the file.
 
 ## Contributing
 
@@ -109,7 +114,7 @@ Some organisations hold better data that needs their permission. [docs/OUTREACH.
 
 ## اردو
 
-**پاکستان بس روٹس** ایک اوپن سورس ویب ایپ اور ڈیٹا سیٹ ہے جس میں پاکستان کے سرکاری بس، بی آر ٹی اور میٹرو روٹس، اسٹاپس، کرائے اور سفر پلانر شامل ہیں۔
+**پاکستان بس روٹس** ایک اوپن سورس ویب ایپ اور ڈیٹا سیٹ ہے جس میں پاکستان کے بس، بی آر ٹی، میٹرو، منی بس، چنگچی، بین الشہری بس اور ریلوے کے روٹس، اسٹاپس، کرائے، اوقات اور سفر پلانر شامل ہیں۔
 
 پاکستان میں ٹرانسپورٹ کا کوئی سرکاری اوپن ڈیٹا موجود نہیں۔ یہ منصوبہ سرکاری ویب سائٹس، خبروں اور روٹ گائیڈز سے معلومات جمع کرتا ہے، ہر ذریعہ درج کرتا ہے، اور اسٹاپس کو اوپن اسٹریٹ میپ پر ملاتا ہے۔
 

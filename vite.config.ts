@@ -15,7 +15,7 @@ export default defineConfig({
       manifest: {
         name: 'Pakistan Bus Routes',
         short_name: 'Bus Routes',
-        description: 'Open-source bus, BRT and metro routes, stops, fares and trip planner for Pakistan.',
+        description: 'Open-source bus, BRT, metro, intercity bus and train routes, stops, fares and trip planner for Pakistan.',
         lang: 'en',
         theme_color: '#0f5132',
         background_color: '#f7f5ef',
@@ -29,10 +29,20 @@ export default defineConfig({
         ],
       },
       workbox: {
-        globPatterns: ['**/*.{js,css,html,svg,png,json}'],
+        // The app shell and the city list install up front. Each city's data (up to ~2 MB) is cached
+        // the first time that city is opened, so a phone never downloads every city at once.
+        globPatterns: ['**/*.{js,css,html,svg,png}', 'data/index.json', 'manifest.webmanifest'],
         globIgnores: ['downloads/**'],
         maximumFileSizeToCacheInBytes: 6 * 1024 * 1024,
         runtimeCaching: [
+          {
+            urlPattern: ({ url }) => url.pathname.includes('/data/cities/'),
+            handler: 'StaleWhileRevalidate',
+            options: {
+              cacheName: 'city-data',
+              expiration: { maxEntries: 60 },
+            },
+          },
           {
             urlPattern: ({ url }) => url.hostname.endsWith('tile.openstreetmap.org'),
             handler: 'CacheFirst',
