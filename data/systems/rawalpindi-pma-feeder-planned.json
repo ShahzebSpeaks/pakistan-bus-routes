@@ -1,0 +1,385 @@
+{
+  "id": "rawalpindi-pma-feeder-planned",
+  "city": "islamabad-rawalpindi",
+  "name": "Rawalpindi Integrated Transportation System Phase I (PMA plan)",
+  "name_ur": "",
+  "operator": "Punjab Masstransit Authority (planning proposal)",
+  "mode": "feeder",
+  "website": "https://pma.punjab.gov.pk/rawalpindi-integrated-transportation-system-phase-1",
+  "helpline": null,
+  "payment": null,
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "Planned discounted transfer fare with the Metrobus",
+    "as_of": null,
+    "source_url": "https://pma.punjab.gov.pk/rawalpindi-integrated-transportation-system-phase-1"
+  },
+  "hours": null,
+  "last_verified": "2026-09-25",
+  "sources": [
+    {
+      "title": "Rawalpindi Integrated Transportation System - Phase I",
+      "url": "https://pma.punjab.gov.pk/rawalpindi-integrated-transportation-system-phase-1",
+      "publisher": "Punjab Masstransit Authority",
+      "date": null,
+      "official": true
+    },
+    {
+      "title": "Routes of Rawalpindi Integrated Transport System - Phase I (table image)",
+      "url": "https://pma.punjab.gov.pk/system/files/RawalpindiRoute_1.png",
+      "publisher": "Punjab Masstransit Authority",
+      "date": null,
+      "official": true
+    }
+  ],
+  "notes": "6 planned feeder routes, 52 km, 78 mini-buses (page listed under 'Upcoming Services', undated, c.2018-19).",
+  "routes": [
+    {
+      "id": "PMA-RWP-1",
+      "name": "Suwan Adda - Railway Station",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 9,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Suwan Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Flashman",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": 33.77175,
+          "lon": 72.818381,
+          "coord_source": "auto:osm:node/9210095127",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PMA, Rawalpindi Integrated Transportation System - Phase I, route table (image)",
+          "url": "https://pma.punjab.gov.pk/system/files/RawalpindiRoute_1.png"
+        }
+      ],
+      "notes": "PMA Phase-I feeder plan for the Rawalpindi-Islamabad Metrobus: route 1, 9 km, 12 mini-buses (8 m). Alignment as printed in the table image: \"Suwan Adda to Railway Station via GT Road, Flashman, Haider Rd, Railway Station\". Stops = named via-points only (road names left out); spellings normalised (Kashmirian, Pirwadhai, Chandni, Khanna). 'Marrir Br' / 'Murir Bridge' = the bridge at Marrir Chowk (Murree Road). The PMA page still says the routes are 'expected to become operational in near future'; they were never launched. Rawalpindi now has the Punjab green e-bus (rawalpindi-electric-bus.json); CDA/PMA feeders use other numbering (R-1..R-10 in research/incoming/rawalpindi-feeder.json)."
+    },
+    {
+      "id": "PMA-RWP-2",
+      "name": "Islamabad Expressway - Railway Station",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 12,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Islamabad Expressway",
+          "name_ur": "",
+          "lat": 33.652264,
+          "lon": 73.096436,
+          "coord_source": "auto:osm:way/19910482",
+          "is_station": false
+        },
+        {
+          "name": "Chaklala Railway Station",
+          "name_ur": "",
+          "lat": 33.648063,
+          "lon": 73.091122,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dhok Kashmirian",
+          "name_ur": "",
+          "lat": 33.643862,
+          "lon": 73.085808,
+          "coord_source": "auto:osm:node/1670653364",
+          "is_station": false
+        },
+        {
+          "name": "Raheemabad Stop",
+          "name_ur": "",
+          "lat": 33.614644,
+          "lon": 73.079251,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah Park",
+          "name_ur": "",
+          "lat": 33.585426,
+          "lon": 73.072693,
+          "coord_source": "auto:osm:node/1363526637",
+          "is_station": false
+        },
+        {
+          "name": "Katcheri Stop",
+          "name_ur": "",
+          "lat": 33.589132,
+          "lon": 73.068973,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Punjab House",
+          "name_ur": "",
+          "lat": 33.592838,
+          "lon": 73.065252,
+          "coord_source": "auto:osm:node/4700591160",
+          "is_station": false
+        },
+        {
+          "name": "Marrir Bridge",
+          "name_ur": "",
+          "lat": 33.598296,
+          "lon": 73.056773,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station",
+          "name_ur": "",
+          "lat": 33.603754,
+          "lon": 73.048295,
+          "coord_source": "auto:osm:way/810454622",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PMA, Rawalpindi Integrated Transportation System - Phase I, route table (image)",
+          "url": "https://pma.punjab.gov.pk/system/files/RawalpindiRoute_1.png"
+        }
+      ],
+      "notes": "PMA Phase-I feeder plan for the Rawalpindi-Islamabad Metrobus: route 2, 12 km, 16 mini-buses (8 m). Alignment as printed in the table image: \"Islamabad Expressway to Railway Station via Airport Road, Chaklala Railway Station, Dhok Kashmirian, Raheemabad Stop, Jinnah Park, Katcheri stop, Punjab Hours [sic], Marrir Br and Railway station\". Stops = named via-points only (road names left out); spellings normalised (Kashmirian, Pirwadhai, Chandni, Khanna). 'Marrir Br' / 'Murir Bridge' = the bridge at Marrir Chowk (Murree Road). The PMA page still says the routes are 'expected to become operational in near future'; they were never launched. Rawalpindi now has the Punjab green e-bus (rawalpindi-electric-bus.json); CDA/PMA feeders use other numbering (R-1..R-10 in research/incoming/rawalpindi-feeder.json)."
+    },
+    {
+      "id": "PMA-RWP-3",
+      "name": "Dhok Kashmirian - Railway Workshop",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Dhok Kashmirian",
+          "name_ur": "",
+          "lat": 33.643862,
+          "lon": 73.085808,
+          "coord_source": "auto:osm:node/1670653364",
+          "is_station": false
+        },
+        {
+          "name": "Railway Workshop",
+          "name_ur": "",
+          "lat": 33.616786,
+          "lon": 73.039836,
+          "coord_source": "auto:photon:W/14184769",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PMA, Rawalpindi Integrated Transportation System - Phase I, route table (image)",
+          "url": "https://pma.punjab.gov.pk/system/files/RawalpindiRoute_1.png"
+        }
+      ],
+      "notes": "PMA Phase-I feeder plan for the Rawalpindi-Islamabad Metrobus: route 3, 7 km, 12 mini-buses (8 m). Alignment as printed in the table image: \"Dhok Kasmirian to Railway Workshop via Tipu Road, Liaqut Rd, Ganj Mandi Rd\". Stops = named via-points only (road names left out); spellings normalised (Kashmirian, Pirwadhai, Chandni, Khanna). 'Marrir Br' / 'Murir Bridge' = the bridge at Marrir Chowk (Murree Road). The PMA page still says the routes are 'expected to become operational in near future'; they were never launched. Rawalpindi now has the Punjab green e-bus (rawalpindi-electric-bus.json); CDA/PMA feeders use other numbering (R-1..R-10 in research/incoming/rawalpindi-feeder.json)."
+    },
+    {
+      "id": "PMA-RWP-4",
+      "name": "Dhok Kashmirian - TB Hospital",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Dhok Kashmirian",
+          "name_ur": "",
+          "lat": 33.643862,
+          "lon": 73.085808,
+          "coord_source": "auto:osm:node/1670653364",
+          "is_station": false
+        },
+        {
+          "name": "Rescue 1122",
+          "name_ur": "",
+          "lat": 33.630028,
+          "lon": 73.073075,
+          "coord_source": "auto:osm:way/263744258",
+          "is_station": false
+        },
+        {
+          "name": "Chandni Chowk",
+          "name_ur": "",
+          "lat": 33.629977,
+          "lon": 73.071952,
+          "coord_source": "auto:osm:node/4996274621",
+          "is_station": false
+        },
+        {
+          "name": "TB Hospital",
+          "name_ur": "",
+          "lat": 33.626155,
+          "lon": 73.053452,
+          "coord_source": "auto:osm:way/263938546",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PMA, Rawalpindi Integrated Transportation System - Phase I, route table (image)",
+          "url": "https://pma.punjab.gov.pk/system/files/RawalpindiRoute_1.png"
+        }
+      ],
+      "notes": "PMA Phase-I feeder plan for the Rawalpindi-Islamabad Metrobus: route 4, 7 km, 12 mini-buses (8 m). Alignment as printed in the table image: \"Dhok Kasmiria to TB Hospital via Rawal Rd, Rescue 1122, Chandi Chowk, TB Hospital\". Stops = named via-points only (road names left out); spellings normalised (Kashmirian, Pirwadhai, Chandni, Khanna). 'Marrir Br' / 'Murir Bridge' = the bridge at Marrir Chowk (Murree Road). The PMA page still says the routes are 'expected to become operational in near future'; they were never launched. Rawalpindi now has the Punjab green e-bus (rawalpindi-electric-bus.json); CDA/PMA feeders use other numbering (R-1..R-10 in research/incoming/rawalpindi-feeder.json)."
+    },
+    {
+      "id": "PMA-RWP-5",
+      "name": "Pirwadhai Mor - Marrir Bridge",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 8,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Pirwadhai Mor",
+          "name_ur": "",
+          "lat": 33.629887,
+          "lon": 73.042077,
+          "coord_source": "auto:osm:way/386960869",
+          "is_station": false
+        },
+        {
+          "name": "Marrir Bridge",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PMA, Rawalpindi Integrated Transportation System - Phase I, route table (image)",
+          "url": "https://pma.punjab.gov.pk/system/files/RawalpindiRoute_1.png"
+        }
+      ],
+      "notes": "PMA Phase-I feeder plan for the Rawalpindi-Islamabad Metrobus: route 5, 8 km, 11 mini-buses (8 m). Alignment as printed in the table image: \"Pirwadai Mor to Murir Bridge via GT Road, Kashmir Road\". Stops = named via-points only (road names left out); spellings normalised (Kashmirian, Pirwadhai, Chandni, Khanna). 'Marrir Br' / 'Murir Bridge' = the bridge at Marrir Chowk (Murree Road). The PMA page still says the routes are 'expected to become operational in near future'; they were never launched. Rawalpindi now has the Punjab green e-bus (rawalpindi-electric-bus.json); CDA/PMA feeders use other numbering (R-1..R-10 in research/incoming/rawalpindi-feeder.json)."
+    },
+    {
+      "id": "PMA-RWP-6",
+      "name": "Faizabad Interchange - Khanna Pul",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 9,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Faizabad Interchange",
+          "name_ur": "",
+          "lat": 33.661263,
+          "lon": 73.083034,
+          "coord_source": "auto:osm:way/707559488",
+          "is_station": false
+        },
+        {
+          "name": "6th Road",
+          "name_ur": "",
+          "lat": 33.643575,
+          "lon": 73.077806,
+          "coord_source": "auto:osm:node/9160141512",
+          "is_station": false
+        },
+        {
+          "name": "Rehmanabad Stop",
+          "name_ur": "",
+          "lat": 33.636431,
+          "lon": 73.07509,
+          "coord_source": "auto:osm:node/9160141507",
+          "is_station": false
+        },
+        {
+          "name": "Sadiqabad Chowk",
+          "name_ur": "",
+          "lat": 33.632201,
+          "lon": 73.085588,
+          "coord_source": "auto:osm:node/4945486122",
+          "is_station": false
+        },
+        {
+          "name": "Khanna Pul",
+          "name_ur": "",
+          "lat": 33.629318,
+          "lon": 73.113646,
+          "coord_source": "auto:osm:node/4331663491",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "PMA, Rawalpindi Integrated Transportation System - Phase I, route table (image)",
+          "url": "https://pma.punjab.gov.pk/system/files/RawalpindiRoute_1.png"
+        }
+      ],
+      "notes": "PMA Phase-I feeder plan for the Rawalpindi-Islamabad Metrobus: route 6, 9 km, 15 mini-buses (8 m). Alignment as printed in the table image: \"Faizabad Interchange, IJP Road, 6th Road, Rehmanabad stop, Sadiqabad Chowk, Kahnna Rd, Kahnna Pull\". Stops = named via-points only (road names left out); spellings normalised (Kashmirian, Pirwadhai, Chandni, Khanna). 'Marrir Br' / 'Murir Bridge' = the bridge at Marrir Chowk (Murree Road). The PMA page still says the routes are 'expected to become operational in near future'; they were never launched. Rawalpindi now has the Punjab green e-bus (rawalpindi-electric-bus.json); CDA/PMA feeders use other numbering (R-1..R-10 in research/incoming/rawalpindi-feeder.json)."
+    }
+  ]
+}

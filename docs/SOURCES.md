@@ -89,6 +89,11 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [safar.fyi Faisalabad route](https://www.safar.fyi/faisalabad/transit-lines/fsd%3A130)
 - [safar.fyi Faisalabad route](https://www.safar.fyi/faisalabad/transit-lines/fsd%3A131)
 
+## Planned integrated public transport network (PMA IPTN) (faisalabad)
+
+- [Integrated Public Transport Network Faisalabad (file name: Faisalabad Integrated Feeder Routes)](https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf) · Punjab Masstransit Authority · official
+- [Master Plan Faisalabad 2021-2041, Transportation Report, section 5.1 and Figs 5-1/5-2 (pp. 5-55 to 5-57)](https://fda.gov.pk//uploads/fmp2141/F_Transportation%20Report_260123.pdf) · Faisalabad Development Authority (consultants Osmani & Co., Prof. S.N. Pollalis) · 2023-01-26 · official
+
 ## Faisalabad private wagons, minibuses and paratransit (faisalabad)
 
 - [Partnerships to Improve Access and Quality of Public Transport - A Case Report: Faisalabad (Atta Ullah Khan, WEDC Loughborough University, 2003)](https://wedc-knowledge.lboro.ac.uk/resources/books/Partnerships_to_improve_access_transport_-_Pakistan.pdf) · WEDC, Loughborough University · 2003 (data 2002)
@@ -1168,6 +1173,14 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Metro Bus Multan route (station order)](https://www.safar.fyi/multan/transit-lines/mlt%3A37) · safar.fyi
 - [OpenStreetMap Metrobus station nodes (Overpass)](https://www.openstreetmap.org/relation/10995086) · OpenStreetMap · 2026-07-24
 
+## Multan urban high-occupancy bus routes (Master Plan, c.2008-2012) (multan)
+
+- [Integrated Master Plan for Multan (2008-2028), Vol-2, Ch.12 Traffic and Transportation](https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf) · Multan Development Authority / NESPAK · 2012-05 · official
+
+## Multan district (suburban) private bus routes (multan)
+
+- [Integrated Master Plan for Multan (2008-2028), Vol-2, Ch.12 Traffic and Transportation](https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf) · Multan Development Authority / NESPAK · 2012-05 · official
+
 ## Green Electric Bus Murree (murree)
 
 - [CM launches e-bus service in five more districts](https://www.brecorder.com/news/40430390/cm-launches-e-bus-service-in-five-more-districts) · Business Recorder · 2026-07-17
@@ -1414,6 +1427,11 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/rwp%3A93)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/rwp%3A94)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/rwp%3A91)
+
+## Rawalpindi Integrated Transportation System Phase I (PMA plan) (islamabad-rawalpindi)
+
+- [Rawalpindi Integrated Transportation System - Phase I](https://pma.punjab.gov.pk/rawalpindi-integrated-transportation-system-phase-1) · Punjab Masstransit Authority · official
+- [Routes of Rawalpindi Integrated Transport System - Phase I (table image)](https://pma.punjab.gov.pk/system/files/RawalpindiRoute_1.png) · Punjab Masstransit Authority · official
 
 ## Green Electric Bus Sahiwal (sahiwal)
 

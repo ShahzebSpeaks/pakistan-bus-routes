@@ -2,7 +2,7 @@
 
 Generated 2026-09-25 by `npm run data:build`. Do not edit by hand.
 
-**54 cities · 153 systems · 1636 published routes · 7554 stops**
+**54 cities · 157 systems · 1689 published routes · 7629 stops**
 
 Coordinate quality: **exact** = verified (OpenStreetMap element or Wikipedia, checked by a person), **guide** = position published by a route guide such as safar.fyi, **matched** = automatic OpenStreetMap name match, **geocoded** = Nominatim search, **estimated** = interpolated between neighbours, **missing** = not on the map yet.
 
@@ -1376,6 +1376,12 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Rawalpindi Electric Bus (Punjab Green Electric Bus) | RWP-EB-03 | Saddar Metro Station - Munawar Colony (via Tulsa Road) | operational | 12 | 8% | 92% | 0% | 0% | 0% | 0 | medium |
 | Rawalpindi Electric Bus (Punjab Green Electric Bus) | RWP-EB-04 | Marrir Metro Station - Motorway Chowk 26 Number (via The Mall, Pirwadhai) | operational | 22 | 9% | 91% | 0% | 0% | 0% | 0 | medium |
 | Rawalpindi Electric Bus (Punjab Green Electric Bus) | RWP-EB-05 | Rawalpindi Railway Station - Hamrahi Bus Stop (Adiala Road) | operational | 15 | 7% | 93% | 0% | 0% | 0% | 0 | high |
+| Rawalpindi Integrated Transportation System Phase I (PMA plan) | PMA-RWP-1 | Suwan Adda - Railway Station | planned | 3 | 0% | 0% | 33% | 0% | 0% | 2 | low |
+| Rawalpindi Integrated Transportation System Phase I (PMA plan) | PMA-RWP-2 | Islamabad Expressway - Railway Station | planned | 9 | 0% | 0% | 56% | 0% | 44% | 0 | low |
+| Rawalpindi Integrated Transportation System Phase I (PMA plan) | PMA-RWP-3 | Dhok Kashmirian - Railway Workshop | planned | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Rawalpindi Integrated Transportation System Phase I (PMA plan) | PMA-RWP-4 | Dhok Kashmirian - TB Hospital | planned | 4 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Rawalpindi Integrated Transportation System Phase I (PMA plan) | PMA-RWP-5 | Pirwadhai Mor - Marrir Bridge | planned | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Rawalpindi Integrated Transportation System Phase I (PMA plan) | PMA-RWP-6 | Faizabad Interchange - Khanna Pul | planned | 5 | 0% | 0% | 100% | 0% | 0% | 0 | low |
 
 ## Peshawar
 
@@ -1483,6 +1489,18 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Planned feeder network (PMA IPTN) | MBS-PURPLE | Nag Shah - Pak Arab Fertilizer Factory | planned | 5 | 0% | 0% | 60% | 0% | 0% | 2 | low |
 | Planned feeder network (PMA IPTN) | MBS-BLUE | Multan Airport - Kot Rabnawaz | planned | 6 | 0% | 0% | 83% | 0% | 0% | 1 | low |
 | Multan Metrobus | Red Line | Bahauddin Zakariya University - Kumharanwala Chowk | operational | 21 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Multan urban high-occupancy bus routes (Master Plan, c.2008-2012) | MMP-A | Dera Adda - General Bus Stand | historical | 7 | 0% | 0% | 86% | 0% | 14% | 0 | low |
+| Multan urban high-occupancy bus routes (Master Plan, c.2008-2012) | MMP-B | Dera Adda - General Bus Stand | historical | 6 | 0% | 0% | 83% | 0% | 17% | 0 | low |
+| Multan urban high-occupancy bus routes (Master Plan, c.2008-2012) | MMP-C | Dera Adda - Sher Shah Bypass Crossing | historical | 3 | 0% | 0% | 67% | 0% | 0% | 1 | low |
+| Multan district (suburban) private bus routes | MMP-1 | Dera Adda - Shujabad | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Multan district (suburban) private bus routes | MMP-2 | Dera Adda - Qasba Maral | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Multan district (suburban) private bus routes | MMP-3 | Dera Adda - Basti Malook | unverified | 3 | 0% | 0% | 33% | 0% | 0% | 2 | low |
+| Multan district (suburban) private bus routes | MMP-4 | General Bus Stand - Makhdoom Rashid | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Multan district (suburban) private bus routes | MMP-5 | General Bus Stand - Adda Bosan | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Multan district (suburban) private bus routes | MMP-6 | General Bus Stand - Shujabad | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Multan district (suburban) private bus routes | MMP-7 | General Bus Stand - Basti Malook | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Multan district (suburban) private bus routes | MMP-8 | General Bus Stand - Dunyapur | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Multan district (suburban) private bus routes | MMP-9 | General Bus Stand - Qadirpur Rawan | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
 
 ## Faisalabad
 
@@ -1490,6 +1508,41 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
 | Green Electric Bus Faisalabad | kamal-pur-to-roshan-wala-bypass | Kamal Pur to Roshan Wala Bypass | operational | 27 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
 | Green Electric Bus Faisalabad | uaf-to-sadhaar-bypass | UAF to Sadhaar Bypass | operational | 20 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Planned integrated public transport network (PMA IPTN) | IPTN-1 | Gatwala Bridge - Bholay Di Jhugi | planned | 10 | 0% | 0% | 40% | 0% | 40% | 2 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-2 | Rehmat Abad - Montgomery Bazar | planned | 8 | 0% | 0% | 25% | 0% | 38% | 3 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-3 | Gatwala Bridge - Canal Station | planned | 9 | 0% | 0% | 44% | 0% | 44% | 1 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-4 | Faisal Town - Rajbah Road | planned | 8 | 0% | 0% | 63% | 0% | 38% | 0 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-5 | Montgomery Bazar - Sadhar Bypass | planned | 8 | 0% | 0% | 25% | 0% | 38% | 3 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-6 | Rail Bazar - Chak Jhumrah | planned | 7 | 0% | 0% | 43% | 0% | 43% | 1 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-7 | Satiana Bypass - Rajbah Road | planned | 7 | 0% | 0% | 29% | 0% | 14% | 4 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-8 | Risalewala Bypass - Dijkot Road | planned | 6 | 0% | 0% | 50% | 17% | 17% | 1 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-9 | Millat Road - Bakar Mandi Road | planned | 3 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-10 | Chak Jhumra - Bholay di Jhugi | planned | 5 | 0% | 0% | 40% | 0% | 40% | 1 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-11 | Dial Garh - Millat Road | planned | 4 | 0% | 0% | 0% | 0% | 0% | 4 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-12 | Rail Bazar - D-Ground | planned | 3 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-13 | Chamanzar Colony - Chak No. 8 | planned | 3 | 0% | 0% | 0% | 0% | 0% | 3 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-14 | Rajbah Road - Bibi Jaan Road | planned | 3 | 0% | 0% | 67% | 0% | 0% | 1 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-15 | Allied Morr - New Sabzi Mandi | planned | 4 | 0% | 0% | 75% | 0% | 0% | 1 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-16 | Muslim Town - Rajbah Road | planned | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-17 | Lower Canal Road - Fakharabad | planned | 3 | 0% | 0% | 0% | 33% | 0% | 2 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-18 | Railway Station - Mohalla Danapur | planned | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-19 | Larri Adda - Airport | planned | 3 | 0% | 0% | 67% | 0% | 0% | 1 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-20 | D-Ground - Nishatabad | planned | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-21 | D-Ground - Daewoo Terminal | planned | 3 | 0% | 0% | 67% | 0% | 33% | 0 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-22 | Jinnah Colony - Saifabad Morr | planned | 3 | 0% | 0% | 33% | 0% | 0% | 2 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-23 | Azamabad - Santpura | planned | 4 | 0% | 0% | 25% | 25% | 0% | 2 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-24 | Urban Transport Terminal - D-Type Colony | planned | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-25 | Douglaspura - Muradabad Road | planned | 3 | 0% | 0% | 33% | 0% | 0% | 2 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-26 | GTS - Airport | planned | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-27 | Khurianwala - Larri Adda | planned | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-28 | Faisalabad Bypass - City Terminal | planned | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-29 | Faisalabad Bypass - Daewoo Terminal | planned | 3 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-30 | GBS - Samundri | planned | 3 | 0% | 0% | 0% | 33% | 0% | 2 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-31 | GBS - Jaranwala | planned | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-32 | GBS - Bhawana | planned | 3 | 0% | 0% | 0% | 33% | 0% | 2 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-33 | GBS - Sangla Hill | planned | 3 | 0% | 0% | 0% | 33% | 0% | 2 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-34 | GBS - Chiniot | planned | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Planned integrated public transport network (PMA IPTN) | IPTN-35 | GBS - Painsra | planned | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
 | Faisalabad private wagons, minibuses and paratransit | 1 | Ghulamabad - Makkuana Bypass | unverified | 7 | 0% | 0% | 57% | 0% | 14% | 2 | medium |
 | Faisalabad private wagons, minibuses and paratransit | 2 | Bholewal - Waris Pura | unverified | 7 | 0% | 0% | 43% | 0% | 29% | 2 | medium |
 | Faisalabad private wagons, minibuses and paratransit | 3 | Mandi Quarter - Sheikhupura Road | unverified | 6 | 0% | 0% | 33% | 17% | 33% | 1 | medium |
@@ -2311,6 +2364,10 @@ These routes have the most stops without a verified position. Adding real coordi
 - islamabad-rawalpindi-private-wagons/SZ-FAWARA-CHAKLALAAIRPORT: fewer than 2 located stops, listed without a map line
 - islamabad-rawalpindi-private-wagons/W-SADDAR-ADIALA: 1 stop(s) without coordinates are left out of the map
 - islamabad-rawalpindi-private-wagons/W-SADDAR-ADIALA: fewer than 2 located stops, listed without a map line
+- rawalpindi-pma-feeder-planned/PMA-RWP-1: 2 stop(s) without coordinates are left out of the map
+- rawalpindi-pma-feeder-planned/PMA-RWP-1: fewer than 2 located stops, listed without a map line
+- rawalpindi-pma-feeder-planned/PMA-RWP-5: 1 stop(s) without coordinates are left out of the map
+- rawalpindi-pma-feeder-planned/PMA-RWP-5: fewer than 2 located stops, listed without a map line
 - peshawar-private-wagons/haji-camp-kohat-adda: 1 stop(s) without coordinates are left out of the map
 - peshawar-private-wagons/haji-camp-kohat-adda: fewer than 2 located stops, listed without a map line
 - peshawar-zu-brt/DR03B: 2 stop(s) without coordinates are left out of the map
@@ -2369,6 +2426,60 @@ These routes have the most stops without a verified position. Adding real coordi
 - multan-iptn-planned/MBS-ORANGE: 1 stop(s) without coordinates are left out of the map
 - multan-iptn-planned/MBS-PURPLE: 2 stop(s) without coordinates are left out of the map
 - multan-iptn-planned/MBS-BLUE: 1 stop(s) without coordinates are left out of the map
+- multan-private-buses-2012/MMP-C: 1 stop(s) without coordinates are left out of the map
+- multan-private-buses/MMP-2: 1 stop(s) without coordinates are left out of the map
+- multan-private-buses/MMP-2: fewer than 2 located stops, listed without a map line
+- multan-private-buses/MMP-3: 2 stop(s) without coordinates are left out of the map
+- multan-private-buses/MMP-3: fewer than 2 located stops, listed without a map line
+- multan-private-buses/MMP-4: 1 stop(s) without coordinates are left out of the map
+- multan-private-buses/MMP-4: fewer than 2 located stops, listed without a map line
+- multan-private-buses/MMP-5: 1 stop(s) without coordinates are left out of the map
+- multan-private-buses/MMP-5: fewer than 2 located stops, listed without a map line
+- multan-private-buses/MMP-6: 1 stop(s) without coordinates are left out of the map
+- multan-private-buses/MMP-6: fewer than 2 located stops, listed without a map line
+- multan-private-buses/MMP-7: 1 stop(s) without coordinates are left out of the map
+- multan-private-buses/MMP-7: fewer than 2 located stops, listed without a map line
+- multan-private-buses/MMP-9: 1 stop(s) without coordinates are left out of the map
+- multan-private-buses/MMP-9: fewer than 2 located stops, listed without a map line
+- faisalabad-iptn-planned/IPTN-1: 2 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-2: 3 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-3: 1 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-5: 3 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-6: 1 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-7: 4 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-8: 1 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-10: 1 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-11: 4 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-11: fewer than 2 located stops, listed without a map line
+- faisalabad-iptn-planned/IPTN-13: 3 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-13: fewer than 2 located stops, listed without a map line
+- faisalabad-iptn-planned/IPTN-14: 1 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-14: located stops are too close together to draw a line; listed as information only
+- faisalabad-iptn-planned/IPTN-15: 1 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-17: 2 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-17: fewer than 2 located stops, listed without a map line
+- faisalabad-iptn-planned/IPTN-18: 1 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-18: fewer than 2 located stops, listed without a map line
+- faisalabad-iptn-planned/IPTN-19: 1 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-22: 2 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-22: fewer than 2 located stops, listed without a map line
+- faisalabad-iptn-planned/IPTN-23: 2 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-25: 2 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-25: fewer than 2 located stops, listed without a map line
+- faisalabad-iptn-planned/IPTN-27: 2 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-27: fewer than 2 located stops, listed without a map line
+- faisalabad-iptn-planned/IPTN-30: 2 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-30: fewer than 2 located stops, listed without a map line
+- faisalabad-iptn-planned/IPTN-31: 2 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-31: fewer than 2 located stops, listed without a map line
+- faisalabad-iptn-planned/IPTN-32: 2 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-32: fewer than 2 located stops, listed without a map line
+- faisalabad-iptn-planned/IPTN-33: 2 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-33: fewer than 2 located stops, listed without a map line
+- faisalabad-iptn-planned/IPTN-34: 2 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-34: fewer than 2 located stops, listed without a map line
+- faisalabad-iptn-planned/IPTN-35: 2 stop(s) without coordinates are left out of the map
+- faisalabad-iptn-planned/IPTN-35: fewer than 2 located stops, listed without a map line
 - faisalabad-private-wagons/1: 2 stop(s) without coordinates are left out of the map
 - faisalabad-private-wagons/2: 2 stop(s) without coordinates are left out of the map
 - faisalabad-private-wagons/3: 1 stop(s) without coordinates are left out of the map

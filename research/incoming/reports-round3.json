@@ -1,0 +1,3031 @@
+{
+  "assignment": "reports-round3",
+  "researched_on": "2026-09-25",
+  "systems": [
+    {
+      "id": "faisalabad-iptn-planned",
+      "city": "faisalabad",
+      "name": "Planned integrated public transport network (PMA IPTN)",
+      "name_ur": "",
+      "operator": "Punjab Masstransit Authority (planning proposal)",
+      "mode": "feeder",
+      "website": "https://pma.punjab.gov.pk",
+      "helpline": null,
+      "payment": null,
+      "fare_rules": {
+        "type": "unknown",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "",
+        "as_of": null,
+        "source_url": null
+      },
+      "hours": null,
+      "last_verified": "2026-09-25",
+      "sources": [
+        {
+          "title": "Integrated Public Transport Network Faisalabad (file name: Faisalabad Integrated Feeder Routes)",
+          "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf",
+          "publisher": "Punjab Masstransit Authority",
+          "date": null,
+          "official": true
+        },
+        {
+          "title": "Master Plan Faisalabad 2021-2041, Transportation Report, section 5.1 and Figs 5-1/5-2 (pp. 5-55 to 5-57)",
+          "url": "https://fda.gov.pk//uploads/fmp2141/F_Transportation%20Report_260123.pdf",
+          "publisher": "Faisalabad Development Authority (consultants Osmani & Co., Prof. S.N. Pollalis)",
+          "date": "2023-01-26",
+          "official": true
+        }
+      ],
+      "notes": "35-route PMA planning network (undated PDF, c.2017-2019) in 5 phases: 16 mini-bus feeders (Ph I-II), 9 feeders (Ph III), 4 express (Ph IV), 6 sub-urban (Ph V); total 568.5 km, 459 buses. Headway is not printed (round-trip time and bus count are). Same format as lahore-iptn-planned / multan-iptn-planned. Different from the Faisalabad Metrobus Red/Orange feeder networks in the FDA Master Plan (43 + 41 routes, summary tables only).",
+      "routes": [
+        {
+          "id": "IPTN-1",
+          "name": "Gatwala Bridge - Bholay Di Jhugi",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 10.25,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Gatwala Bridge",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Faisal Garden",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Manawala",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bhatta Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Grid Station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sugar Morr",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nishatabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bilal Ganj Market",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sahil Hospital",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bholay Di Jhugi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 1 (PDF page 1): Feeder route, Phase-I, Mini Bus; MBS station served: Bholay di Jhugi; 10.25 km; commercial speed 18 km/h; round-trip time 67 min; 13 buses. Alignment as printed: \"Gatwala Bridge to Bholay Di Jhugi via Faisal Garden, Manawala, Bhatta Stop, Grid Station, Sugar Morr, Nishatabad, Bilal Ganj Market, Sahil Hospital\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-2",
+          "name": "Rehmat Abad - Montgomery Bazar",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 10.46,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Rehmat Abad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sultan Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "PSO Pump",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Marzi Pura",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "WASA Office",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Awami Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gobind Pura",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Montgomery Bazar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 2 (PDF page 1): Feeder route, Phase-I, Mini Bus; MBS station served: Montgomery Bazar; 10.46 km; commercial speed 18 km/h; round-trip time 70 min; 14 buses. Alignment as printed: \"Rehmat Abad to Montgomery Bazar via Sultan Town, PSO Pump, Marzi Pura, WASA Office, Awami Colony, Gobind Pura\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-3",
+          "name": "Gatwala Bridge - Canal Station",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 13.69,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Gatwala Bridge",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Fatima Medical College",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Federal Tax Office",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kashmir Pull Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "FESCO Staff Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lyalpur Law College",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Abdullah Pur Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ghumti Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Canal Station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 3 (PDF page 1): Feeder route, Phase-I, Mini Bus; MBS station served: Canal Station; 13.69 km; commercial speed 18 km/h; round-trip time 61 min; 12 buses. Alignment as printed: \"Gatwala Bridge to Canal Station via Fatima Medical College, Federal Tax Office, Kashmir Pull Stop, FESCO Staff Stop, Lyalpur Law College, Abdullah Pur Chowk, Ghumti Chowk\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-4",
+          "name": "Faisal Town - Rajbah Road",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 10.1,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Faisal Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bukhari Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Qabristan Morr",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "NFC University",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Abdullah Pur Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Railway Station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Montgomery Bazar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rajbah Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 4 (PDF page 1): Feeder route, Phase-I, Mini Bus; MBS station served: Rajbah Road; 10.10 km; commercial speed 18 km/h; round-trip time 67 min; 13 buses. Alignment as printed: \"Faisal Town to Rajbah Road via Bukhari Town, Qabristan Morr, NFC University, Abdullah Pur Chowk, Railway Station, Montgomery Bazar\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-5",
+          "name": "Montgomery Bazar - Sadhar Bypass",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 15.65,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Montgomery Bazar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rasheedabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "FESCO",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Air University",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Airport Morr",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rehman Village",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bakar Mandi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sadhar Bypass",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 5 (PDF page 1): Feeder route, Phase-I, Mini Bus; MBS station served: Montgomery Bazar; 15.65 km; commercial speed 18 km/h; round-trip time 70 min; 14 buses. Alignment as printed: \"Montgomery Bazar to Sadhar Bypass via Rasheedabad, FESCO, Air University, Airport Morr, Rehman Village, Bakar Mandi\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-6",
+          "name": "Rail Bazar - Chak Jhumrah",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 16.75,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Rail Bazar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Manzoor Pura",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kashmir Morr",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nishatabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shamsabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dry Port",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chak Jhumrah",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 6 (PDF page 1): Feeder route, Phase-I, Mini Bus; MBS station served: Rail Bazar; 16.75 km; commercial speed 18 km/h; round-trip time 47 min; 9 buses. Alignment as printed: \"Rail Bazar to Chak Jhumrah via Manzoor Pura, Kashmir Morr, Nishatabad, Shamsabad, Dry Port\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-7",
+          "name": "Satiana Bypass - Rajbah Road",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 13.7,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Satiana Bypass",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "TECH Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rehman Garden",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bahu Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "KIPS Academy",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Montgomery Bazar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rajbah Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 7 (PDF page 1): Feeder route, Phase-I, Mini Bus; MBS station served: Montgomery Bazar, Rajbah Road; 13.70 km; commercial speed 18 km/h; round-trip time 50 min; 10 buses. Alignment as printed: \"Satiana Bypass to Rajbah Road via TECH Stop, Rehman Garden, Bahu Chowk, KIPS Academy, Montgomery Bazar\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-8",
+          "name": "Risalewala Bypass - Dijkot Road",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 13.48,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Risalewala Bypass",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Risalewala Railway Station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sitara Phatak",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Police Station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Samanabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dijkot Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 8 (PDF page 1): Feeder route, Phase-I, Mini Bus; MBS station served: Rajbah Road, Montgomary; 13.48 km; commercial speed 18 km/h; round-trip time 70 min; 14 buses. Alignment as printed: \"Risalewala Bypass to Dijkot Road via Risalewala Railway Station, Sitara Phatak, Police Station, Samanabad\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-9",
+          "name": "Millat Road - Bakar Mandi Road",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 7.1,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Millat Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jhang Bazar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bakar Mandi Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 9 (PDF page 1): Feeder route, Phase-II, Mini Bus; MBS station served: Millat Road; 7.1 km; commercial speed 18 km/h; round-trip time 57 min; 11 buses. Alignment as printed: \"Millat Road to Bakar Mandi Road via Liaqat Road, Kotwali Road, Jhang Bazar\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. Via road(s): Liaqat Road, Kotwali Road. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-10",
+          "name": "Chak Jhumra - Bholay di Jhugi",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 11.0,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Chak Jhumra",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bhaiwala Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shamasabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dry Port Station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bholay di Jhugi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 10 (PDF page 1): Feeder route, Phase-II, Mini Bus; MBS station served: Bholay di Jhugi; 11 km; commercial speed 18 km/h; round-trip time 83 min; 17 buses. Alignment as printed: \"Chak Jhumra to Bholay di Jhugi via Bhaiwala Stop, Shamasabad, Dry Port Station\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-11",
+          "name": "Dial Garh - Millat Road",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 12.5,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Dial Garh",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Millat Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Usman Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Millat Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 11 (PDF page 1): Feeder route, Phase-II, Mini Bus; MBS station served: Millat Road; 12.5 km; commercial speed 18 km/h; round-trip time 93 min; 19 buses. Alignment as printed: \"Dial Garh to Millat Road via Millat Chowk, Usman Town\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-12",
+          "name": "Rail Bazar - D-Ground",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 4.6,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Rail Bazar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "GTS",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "D-Ground",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 12 (PDF page 1): Feeder route, Phase-II, Mini Bus; MBS station served: Rail Bazar; 4.6 km; commercial speed 18 km/h; round-trip time 41 min; 7 buses. Alignment as printed: \"Rail Bazar to D-Ground via GTS, Tufail Shaheed Road\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. Via road(s): Tufail Shaheed Road. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-13",
+          "name": "Chamanzar Colony - Chak No. 8",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 10.0,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Chamanzar Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Main Bazar Islamnagar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chak No. 8",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 13 (PDF page 1): Feeder route, Phase-II, Mini Bus; MBS station served: Rajbah Road; 10 km; commercial speed 18 km/h; round-trip time 77 min; 11 buses. Alignment as printed: \"Chamanzar Colony to Chak No. 8 via Circular Road, Main Bazar Islamnagar\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. Via road(s): Circular Road. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-14",
+          "name": "Rajbah Road - Bibi Jaan Road",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 11.0,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Rajbah Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Railway Station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bibi Jaan Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 14 (PDF page 1): Feeder route, Phase-II, Mini Bus; MBS station served: Rajbah Road; 11 km; commercial speed 18 km/h; round-trip time 83 min; 12 buses. Alignment as printed: \"Rajbah Road to Bibi Jaan Road via Railway Station, Susan Road\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. Via road(s): Susan Road. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-15",
+          "name": "Allied Morr - New Sabzi Mandi",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 5.81,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Allied Morr",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Urban Transport Terminal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Daewoo Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "New Sabzi Mandi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 15 (PDF page 1): Feeder route, Phase-II, Mini Bus; MBS station served: Muslim Town, Montgomery; 5.81 km; commercial speed 18 km/h; round-trip time 49 min; 6 buses. Alignment as printed: \"Allied Morr to New Sabzi Mandi via Urban Transport Terminal, Daewoo Stop\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-16",
+          "name": "Muslim Town - Rajbah Road",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 6.88,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Muslim Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rajbah Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 16 (PDF page 1): Feeder route, Phase-II, Mini Bus; MBS station served: Allied Morr, Rajbah Road; 6.88 km; commercial speed 18 km/h; round-trip time 56 min; 6 buses. Alignment as printed: \"Muslim Town to Rajbah Road via Punj Pulian Road, Eid Gah Road\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. Via road(s): Punj Pulian Road, Eid Gah Road. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-17",
+          "name": "Lower Canal Road - Fakharabad",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 11.05,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Lower Canal Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Humayon Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Fakharabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 17 (PDF page 1): Feeder route, Phase-III, Standard Bus; MBS station served: -; 11.05 km; commercial speed 18 km/h; round-trip time 84 min; 17 buses. Alignment as printed: \"Lower Canal Road via Humayon Town, Fakharabad\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The printed alignment names only one terminal ('Lower Canal Road'); the last via-point (Fakharabad) is used as the other end - an assumption. Conflict: the table lists Phase-III routes as Standard Bus, but the PDF's summary table says Phase-III = 9 routes, 93.1 km, 142 Mini Buses. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-18",
+          "name": "Railway Station - Mohalla Danapur",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 11.99,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Railway Station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mohalla Danapur",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 18 (PDF page 1): Feeder route, Phase-III, Standard Bus; MBS station served: -; 11.99 km; commercial speed 18 km/h; round-trip time 90 min; 18 buses. Alignment as printed: \"Railway Station to Mohalla Danapur via Kashmir Road\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. Via road(s): Kashmir Road. Conflict: the table lists Phase-III routes as Standard Bus, but the PDF's summary table says Phase-III = 9 routes, 93.1 km, 142 Mini Buses. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-19",
+          "name": "Larri Adda - Airport",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 15.08,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Larri Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Partab Nagar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Airport",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 19 (PDF page 1): Feeder route, Phase-III, Standard Bus; MBS station served: -; 15.08 km; commercial speed 18 km/h; round-trip time 111 min; 22 buses. Alignment as printed: \"Larri Adda to Airport via Faisal Road, Partab Nagar\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. Via road(s): Faisal Road. Conflict: the table lists Phase-III routes as Standard Bus, but the PDF's summary table says Phase-III = 9 routes, 93.1 km, 142 Mini Buses. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-20",
+          "name": "D-Ground - Nishatabad",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 8.78,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "D-Ground",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nishatabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 1",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 20 (PDF page 1): Feeder route, Phase-III, Standard Bus; MBS station served: -; 8.78 km; commercial speed 18 km/h; round-trip time 69 min; 14 buses. Alignment as printed: \"D-Ground to Nishatabad via Susan Road\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. Via road(s): Susan Road. Conflict: the table lists Phase-III routes as Standard Bus, but the PDF's summary table says Phase-III = 9 routes, 93.1 km, 142 Mini Buses. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-21",
+          "name": "D-Ground - Daewoo Terminal",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 11.79,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "D-Ground",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Tezab Mill",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Daewoo Terminal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 2",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 21 (PDF page 2): Feeder route, Phase-III, Standard Bus; MBS station served: -; 11.79 km; commercial speed 18 km/h; round-trip time 89 min; 18 buses. Alignment as printed: \"D-Ground to Daewoo Terminal via Tezab Mill\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. Conflict: the table lists Phase-III routes as Standard Bus, but the PDF's summary table says Phase-III = 9 routes, 93.1 km, 142 Mini Buses. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-22",
+          "name": "Jinnah Colony - Saifabad Morr",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 9.7,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Jinnah Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Madan Pura",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Saifabad Morr",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 2",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 22 (PDF page 2): Feeder route, Phase-III, Standard Bus; MBS station served: -; 9.70 km; commercial speed 18 km/h; round-trip time 75 min; 15 buses. Alignment as printed: \"Jinnah Colony to Saifabad Morr via Madan Pura\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. Conflict: the table lists Phase-III routes as Standard Bus, but the PDF's summary table says Phase-III = 9 routes, 93.1 km, 142 Mini Buses. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-23",
+          "name": "Azamabad - Santpura",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 4.84,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Azamabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jinnah Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gulberg Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Santpura",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 2",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 23 (PDF page 2): Feeder route, Phase-III, Standard Bus; MBS station served: -; 4.84 km; commercial speed 18 km/h; round-trip time 42 min; 8 buses. Alignment as printed: \"Azamabad to Santpura via Jinnah Colony, Gulberg Colony\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. Conflict: the table lists Phase-III routes as Standard Bus, but the PDF's summary table says Phase-III = 9 routes, 93.1 km, 142 Mini Buses. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-24",
+          "name": "Urban Transport Terminal - D-Type Colony",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 6.91,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Urban Transport Terminal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "D-Type Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 2",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 24 (PDF page 2): Feeder route, Phase-III, Standard Bus; MBS station served: -; 6.91 km; commercial speed 18 km/h; round-trip time 56 min; 11 buses. Alignment as printed: \"Urban Transport Terminal to D-Type Colony via Samanabad Road\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. Via road(s): Samanabad Road. Conflict: the table lists Phase-III routes as Standard Bus, but the PDF's summary table says Phase-III = 9 routes, 93.1 km, 142 Mini Buses. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-25",
+          "name": "Douglaspura - Muradabad Road",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 12.91,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Douglaspura",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rafeeq Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Muradabad Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 2",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 25 (PDF page 2): Feeder route, Phase-III, Standard Bus; MBS station served: -; 12.91 km; commercial speed 18 km/h; round-trip time 96 min; 19 buses. Alignment as printed: \"Douglaspura to Muradabad Road via Rafeeq Colony\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. Conflict: the table lists Phase-III routes as Standard Bus, but the PDF's summary table says Phase-III = 9 routes, 93.1 km, 142 Mini Buses. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-26",
+          "name": "GTS - Airport",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 13.79,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GTS",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Airport",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 2",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 26 (PDF page 2): Express route, Phase-IV, Standard Bus; MBS station served: -; 13.79 km; commercial speed 25 km/h; round-trip time 76 min; 15 buses. Alignment as printed: \"GTS to Airport\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-27",
+          "name": "Khurianwala - Larri Adda",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 26.98,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Khurianwala",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Larri Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 2",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 27 (PDF page 2): Express route, Phase-IV, Standard Bus; MBS station served: -; 26.98 km; commercial speed 25 km/h; round-trip time 140 min; 28 buses. Alignment as printed: \"Khurianwala to Larri Adda via Jaranwala Road\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. Via road(s): Jaranwala Road. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-28",
+          "name": "Faisalabad Bypass - City Terminal",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 19.75,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Faisalabad Bypass",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "City Terminal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 2",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 28 (PDF page 2): Express route, Phase-IV, Standard Bus; MBS station served: -; 19.75 km; commercial speed 25 km/h; round-trip time 105 min; 21 buses. Alignment as printed: \"Faisalabad Bypass to City Terminal via Samundri Road\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. Via road(s): Samundri Road. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-29",
+          "name": "Faisalabad Bypass - Daewoo Terminal",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 11.97,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Faisalabad Bypass",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ghulam Muhammad Abad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Daewoo Terminal",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 2",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 29 (PDF page 2): Express route, Phase-IV, Standard Bus; MBS station served: -; 11.97 km; commercial speed 25 km/h; round-trip time 67 min; 13 buses. Alignment as printed: \"Faisalabad Bypass to Daewoo Terminal via Ghulam Muhammad Abad\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-30",
+          "name": "GBS - Samundri",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 49.0,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dijkot",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Samundri",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 2",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 30 (PDF page 2): Sub-urban route, Phase-V, Standard Bus; MBS station served: -; 49 km; commercial speed 40 km/h; round-trip time 157 min; 10 buses. Alignment as printed: \"GBS to Samundri via Dijkot\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-31",
+          "name": "GBS - Jaranwala",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 43.0,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jaranwala",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 2",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 31 (PDF page 2): Sub-urban route, Phase-V, Standard Bus; MBS station served: -; 43 km; commercial speed 40 km/h; round-trip time 139 min; 9 buses. Alignment as printed: \"GBS to Jaranwala\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-32",
+          "name": "GBS - Bhawana",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 48.0,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Aminpur",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bhawana",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 2",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 32 (PDF page 2): Sub-urban route, Phase-V, Standard Bus; MBS station served: -; 48 km; commercial speed 40 km/h; round-trip time 154 min; 10 buses. Alignment as printed: \"GBS to Bhawana via Aminpur\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-33",
+          "name": "GBS - Sangla Hill",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 38.0,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shahkot",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sangla Hill",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 2",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 33 (PDF page 2): Sub-urban route, Phase-V, Standard Bus; MBS station served: -; 38 km; commercial speed 40 km/h; round-trip time 124 min; 8 buses. Alignment as printed: \"GBS to Sangla Hill via Shahkot\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-34",
+          "name": "GBS - Chiniot",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 34.0,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chiniot",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 2",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 34 (PDF page 2): Sub-urban route, Phase-V, Standard Bus; MBS station served: -; 34 km; commercial speed 40 km/h; round-trip time 112 min; 7 buses. Alignment as printed: \"GBS to Chiniot\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        },
+        {
+          "id": "IPTN-35",
+          "name": "GBS - Painsra",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 18.0,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Painsra",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Integrated Public Transport Network Faisalabad (PMA route table), PDF page 2",
+              "url": "https://pma.punjab.gov.pk/system/files?file=Faisalabad+Integrated+Feeder+Routes_1.pdf"
+            }
+          ],
+          "notes": "PMA 'Integrated Public Transport Network Faisalabad' planning table, route 35 (PDF page 2): Sub-urban route, Phase-V, Standard Bus; MBS station served: -; 18 km; commercial speed 40 km/h; round-trip time 64 min; 4 buses. Alignment as printed: \"GBS to Painsra\". Stops = origin, named via-points (road names left out), destination, in printed order; not a formal stop list. The Faisalabad metrobus/feeder network was never built (FDA Master Plan 2021-41 Transportation Report, 2023). Status 'planned' = proposal only."
+        }
+      ]
+    },
+    {
+      "id": "rawalpindi-pma-feeder-planned",
+      "city": "islamabad-rawalpindi",
+      "name": "Rawalpindi Integrated Transportation System Phase I (PMA plan)",
+      "name_ur": "",
+      "operator": "Punjab Masstransit Authority (planning proposal)",
+      "mode": "feeder",
+      "website": "https://pma.punjab.gov.pk/rawalpindi-integrated-transportation-system-phase-1",
+      "helpline": null,
+      "payment": null,
+      "fare_rules": {
+        "type": "unknown",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "Planned discounted transfer fare with the Metrobus",
+        "as_of": null,
+        "source_url": "https://pma.punjab.gov.pk/rawalpindi-integrated-transportation-system-phase-1"
+      },
+      "hours": null,
+      "last_verified": "2026-09-25",
+      "sources": [
+        {
+          "title": "Rawalpindi Integrated Transportation System - Phase I",
+          "url": "https://pma.punjab.gov.pk/rawalpindi-integrated-transportation-system-phase-1",
+          "publisher": "Punjab Masstransit Authority",
+          "date": null,
+          "official": true
+        },
+        {
+          "title": "Routes of Rawalpindi Integrated Transport System - Phase I (table image)",
+          "url": "https://pma.punjab.gov.pk/system/files/RawalpindiRoute_1.png",
+          "publisher": "Punjab Masstransit Authority",
+          "date": null,
+          "official": true
+        }
+      ],
+      "notes": "6 planned feeder routes, 52 km, 78 mini-buses (page listed under 'Upcoming Services', undated, c.2018-19).",
+      "routes": [
+        {
+          "id": "PMA-RWP-1",
+          "name": "Suwan Adda - Railway Station",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 9,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Suwan Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Flashman",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Railway Station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PMA, Rawalpindi Integrated Transportation System - Phase I, route table (image)",
+              "url": "https://pma.punjab.gov.pk/system/files/RawalpindiRoute_1.png"
+            }
+          ],
+          "notes": "PMA Phase-I feeder plan for the Rawalpindi-Islamabad Metrobus: route 1, 9 km, 12 mini-buses (8 m). Alignment as printed in the table image: \"Suwan Adda to Railway Station via GT Road, Flashman, Haider Rd, Railway Station\". Stops = named via-points only (road names left out); spellings normalised (Kashmirian, Pirwadhai, Chandni, Khanna). 'Marrir Br' / 'Murir Bridge' = the bridge at Marrir Chowk (Murree Road). The PMA page still says the routes are 'expected to become operational in near future'; they were never launched. Rawalpindi now has the Punjab green e-bus (rawalpindi-electric-bus.json); CDA/PMA feeders use other numbering (R-1..R-10 in research/incoming/rawalpindi-feeder.json)."
+        },
+        {
+          "id": "PMA-RWP-2",
+          "name": "Islamabad Expressway - Railway Station",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 12,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Islamabad Expressway",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chaklala Railway Station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dhok Kashmirian",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Raheemabad Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jinnah Park",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Katcheri Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Punjab House",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Marrir Bridge",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Railway Station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PMA, Rawalpindi Integrated Transportation System - Phase I, route table (image)",
+              "url": "https://pma.punjab.gov.pk/system/files/RawalpindiRoute_1.png"
+            }
+          ],
+          "notes": "PMA Phase-I feeder plan for the Rawalpindi-Islamabad Metrobus: route 2, 12 km, 16 mini-buses (8 m). Alignment as printed in the table image: \"Islamabad Expressway to Railway Station via Airport Road, Chaklala Railway Station, Dhok Kashmirian, Raheemabad Stop, Jinnah Park, Katcheri stop, Punjab Hours [sic], Marrir Br and Railway station\". Stops = named via-points only (road names left out); spellings normalised (Kashmirian, Pirwadhai, Chandni, Khanna). 'Marrir Br' / 'Murir Bridge' = the bridge at Marrir Chowk (Murree Road). The PMA page still says the routes are 'expected to become operational in near future'; they were never launched. Rawalpindi now has the Punjab green e-bus (rawalpindi-electric-bus.json); CDA/PMA feeders use other numbering (R-1..R-10 in research/incoming/rawalpindi-feeder.json)."
+        },
+        {
+          "id": "PMA-RWP-3",
+          "name": "Dhok Kashmirian - Railway Workshop",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 7,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Dhok Kashmirian",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Railway Workshop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PMA, Rawalpindi Integrated Transportation System - Phase I, route table (image)",
+              "url": "https://pma.punjab.gov.pk/system/files/RawalpindiRoute_1.png"
+            }
+          ],
+          "notes": "PMA Phase-I feeder plan for the Rawalpindi-Islamabad Metrobus: route 3, 7 km, 12 mini-buses (8 m). Alignment as printed in the table image: \"Dhok Kasmirian to Railway Workshop via Tipu Road, Liaqut Rd, Ganj Mandi Rd\". Stops = named via-points only (road names left out); spellings normalised (Kashmirian, Pirwadhai, Chandni, Khanna). 'Marrir Br' / 'Murir Bridge' = the bridge at Marrir Chowk (Murree Road). The PMA page still says the routes are 'expected to become operational in near future'; they were never launched. Rawalpindi now has the Punjab green e-bus (rawalpindi-electric-bus.json); CDA/PMA feeders use other numbering (R-1..R-10 in research/incoming/rawalpindi-feeder.json)."
+        },
+        {
+          "id": "PMA-RWP-4",
+          "name": "Dhok Kashmirian - TB Hospital",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 7,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Dhok Kashmirian",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rescue 1122",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chandni Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "TB Hospital",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PMA, Rawalpindi Integrated Transportation System - Phase I, route table (image)",
+              "url": "https://pma.punjab.gov.pk/system/files/RawalpindiRoute_1.png"
+            }
+          ],
+          "notes": "PMA Phase-I feeder plan for the Rawalpindi-Islamabad Metrobus: route 4, 7 km, 12 mini-buses (8 m). Alignment as printed in the table image: \"Dhok Kasmiria to TB Hospital via Rawal Rd, Rescue 1122, Chandi Chowk, TB Hospital\". Stops = named via-points only (road names left out); spellings normalised (Kashmirian, Pirwadhai, Chandni, Khanna). 'Marrir Br' / 'Murir Bridge' = the bridge at Marrir Chowk (Murree Road). The PMA page still says the routes are 'expected to become operational in near future'; they were never launched. Rawalpindi now has the Punjab green e-bus (rawalpindi-electric-bus.json); CDA/PMA feeders use other numbering (R-1..R-10 in research/incoming/rawalpindi-feeder.json)."
+        },
+        {
+          "id": "PMA-RWP-5",
+          "name": "Pirwadhai Mor - Marrir Bridge",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 8,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Pirwadhai Mor",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Marrir Bridge",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PMA, Rawalpindi Integrated Transportation System - Phase I, route table (image)",
+              "url": "https://pma.punjab.gov.pk/system/files/RawalpindiRoute_1.png"
+            }
+          ],
+          "notes": "PMA Phase-I feeder plan for the Rawalpindi-Islamabad Metrobus: route 5, 8 km, 11 mini-buses (8 m). Alignment as printed in the table image: \"Pirwadai Mor to Murir Bridge via GT Road, Kashmir Road\". Stops = named via-points only (road names left out); spellings normalised (Kashmirian, Pirwadhai, Chandni, Khanna). 'Marrir Br' / 'Murir Bridge' = the bridge at Marrir Chowk (Murree Road). The PMA page still says the routes are 'expected to become operational in near future'; they were never launched. Rawalpindi now has the Punjab green e-bus (rawalpindi-electric-bus.json); CDA/PMA feeders use other numbering (R-1..R-10 in research/incoming/rawalpindi-feeder.json)."
+        },
+        {
+          "id": "PMA-RWP-6",
+          "name": "Faizabad Interchange - Khanna Pul",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 9,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Faizabad Interchange",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "6th Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rehmanabad Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sadiqabad Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khanna Pul",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "PMA, Rawalpindi Integrated Transportation System - Phase I, route table (image)",
+              "url": "https://pma.punjab.gov.pk/system/files/RawalpindiRoute_1.png"
+            }
+          ],
+          "notes": "PMA Phase-I feeder plan for the Rawalpindi-Islamabad Metrobus: route 6, 9 km, 15 mini-buses (8 m). Alignment as printed in the table image: \"Faizabad Interchange, IJP Road, 6th Road, Rehmanabad stop, Sadiqabad Chowk, Kahnna Rd, Kahnna Pull\". Stops = named via-points only (road names left out); spellings normalised (Kashmirian, Pirwadhai, Chandni, Khanna). 'Marrir Br' / 'Murir Bridge' = the bridge at Marrir Chowk (Murree Road). The PMA page still says the routes are 'expected to become operational in near future'; they were never launched. Rawalpindi now has the Punjab green e-bus (rawalpindi-electric-bus.json); CDA/PMA feeders use other numbering (R-1..R-10 in research/incoming/rawalpindi-feeder.json)."
+        }
+      ]
+    },
+    {
+      "city": "multan",
+      "name_ur": "",
+      "mode": "bus",
+      "website": null,
+      "helpline": null,
+      "payment": "cash",
+      "fare_rules": {
+        "type": "unknown",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "",
+        "as_of": null,
+        "source_url": null
+      },
+      "hours": null,
+      "last_verified": "2026-09-25",
+      "sources": [
+        {
+          "title": "Integrated Master Plan for Multan (2008-2028), Vol-2, Ch.12 Traffic and Transportation",
+          "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf",
+          "publisher": "Multan Development Authority / NESPAK",
+          "date": "2012-05",
+          "official": true
+        }
+      ],
+      "id": "multan-private-buses-2012",
+      "name": "Multan urban high-occupancy bus routes (Master Plan, c.2008-2012)",
+      "operator": "Private operators on RTA routes (franchise scheme of the Regional Transport Authority)",
+      "notes": "The plan lists these 3 as the urban high-occupancy bus routes 'presently operative' (survey c.2008-2012). It also says the RTA franchise scheme identified 6 routes needing 121 buses, and a 2005 UET study for the Transport Department proposed 8 bus routes (143 buses) and 12 wagon routes (505 wagons); none of these are listed. Fig 12.6 (p.12-22) maps existing bus and wagon routes without names. Marked historical: the corridors are now served by the Metrobus, MFR feeders and green e-buses.",
+      "routes": [
+        {
+          "name_ur": "",
+          "color": null,
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "id": "MMP-A",
+          "name": "Dera Adda - General Bus Stand",
+          "variant": "regular",
+          "status": "historical",
+          "stops": [
+            {
+              "name": "Dera Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kalma Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "MDA Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chungi No. 8",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chungi No. 9",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jinnah Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "General Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+              "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+            }
+          ],
+          "notes": "Urban bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'Dera Adda to General Bus Stand (via Kalma Chowk, MDA Chowk, Chungi No. 8 & 9, LMQ Road, Jinnah Chowk)'. Stops = named points in printed order; not a formal stop list. LMQ Road (a road) left out of the stops."
+        },
+        {
+          "name_ur": "",
+          "color": null,
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "id": "MMP-B",
+          "name": "Dera Adda - General Bus Stand",
+          "variant": "regular",
+          "status": "historical",
+          "stops": [
+            {
+              "name": "Dera Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Aziz Hotel",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Double Phatak",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Chowk Shah Abbas",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Vehari Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "General Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+              "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+            }
+          ],
+          "notes": "Urban bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'Dera Adda to General Bus Stand (via Aziz Hotel, Double Phaatak, Chowk Shah Abbas, Vehari Chowk)'. Stops = named points in printed order; not a formal stop list."
+        },
+        {
+          "name_ur": "",
+          "color": null,
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "id": "MMP-C",
+          "name": "Dera Adda - Sher Shah Bypass Crossing",
+          "variant": "regular",
+          "status": "historical",
+          "stops": [
+            {
+              "name": "Dera Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Aziz Hotel",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sher Shah Bypass Crossing",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+              "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+            }
+          ],
+          "notes": "Urban bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'Dera Adda to Sher Shah Bypass Crossing (via Aziz Hotel & LMQ Road)'. Stops = named points in printed order; not a formal stop list. LMQ Road left out of the stops. The government feeder MFR30 Dera Adda - Sher Shah Bypass (multan-feeder.json) now serves the same corridor."
+        }
+      ]
+    },
+    {
+      "city": "multan",
+      "name_ur": "",
+      "mode": "bus",
+      "website": null,
+      "helpline": null,
+      "payment": "cash",
+      "fare_rules": {
+        "type": "unknown",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "",
+        "as_of": null,
+        "source_url": null
+      },
+      "hours": null,
+      "last_verified": "2026-09-25",
+      "sources": [
+        {
+          "title": "Integrated Master Plan for Multan (2008-2028), Vol-2, Ch.12 Traffic and Transportation",
+          "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf",
+          "publisher": "Multan Development Authority / NESPAK",
+          "date": "2012-05",
+          "official": true
+        }
+      ],
+      "id": "multan-private-buses",
+      "name": "Multan district (suburban) private bus routes",
+      "operator": "Private operators (RTA Multan route permits)",
+      "notes": "9 routes from Multan's two bus terminals (Dera Adda, General Bus Stand) to district towns, listed in the 2012 Integrated Master Plan. Endpoints only. Marked unverified: these suburban services are plausibly still running but no 2020s source was checked.",
+      "routes": [
+        {
+          "name_ur": "",
+          "color": null,
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "id": "MMP-1",
+          "name": "Dera Adda - Shujabad",
+          "variant": "regular",
+          "status": "unverified",
+          "stops": [
+            {
+              "name": "Dera Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shujabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+              "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+            }
+          ],
+          "notes": "Suburban/district bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'Dera Adda to Shujabad'. Stops = named points in printed order; not a formal stop list. Government e-bus/feeder MFR04B Nishter Hospital - Shujabad covers the same corridor."
+        },
+        {
+          "name_ur": "",
+          "color": null,
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "id": "MMP-2",
+          "name": "Dera Adda - Qasba Maral",
+          "variant": "regular",
+          "status": "unverified",
+          "stops": [
+            {
+              "name": "Dera Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Qasba Maral",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+              "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+            }
+          ],
+          "notes": "Suburban/district bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'Dera Adda to Qasba Maral'. Stops = named points in printed order; not a formal stop list."
+        },
+        {
+          "name_ur": "",
+          "color": null,
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "id": "MMP-3",
+          "name": "Dera Adda - Basti Malook",
+          "variant": "regular",
+          "status": "unverified",
+          "stops": [
+            {
+              "name": "Dera Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Basti Malook",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+              "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+            }
+          ],
+          "notes": "Suburban/district bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'Dera Adda to Lar & Basti Malouk'. Stops = named points in printed order; not a formal stop list. Printed as 'Lar & Basti Malouk'; Lar taken as an intermediate point (order as printed). MFR08B Vehari Chowk - Basti Malook is the government service to Basti Malook."
+        },
+        {
+          "name_ur": "",
+          "color": null,
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "id": "MMP-4",
+          "name": "General Bus Stand - Makhdoom Rashid",
+          "variant": "regular",
+          "status": "unverified",
+          "stops": [
+            {
+              "name": "General Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Makhdoom Rashid",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+              "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+            }
+          ],
+          "notes": "Suburban/district bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'General Bus Stand to Makhdoom Rashid'. Stops = named points in printed order; not a formal stop list."
+        },
+        {
+          "name_ur": "",
+          "color": null,
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "id": "MMP-5",
+          "name": "General Bus Stand - Adda Bosan",
+          "variant": "regular",
+          "status": "unverified",
+          "stops": [
+            {
+              "name": "General Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Adda Bosan",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+              "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+            }
+          ],
+          "notes": "Suburban/district bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'General Bus Stand to Adda Bosan'. Stops = named points in printed order; not a formal stop list."
+        },
+        {
+          "name_ur": "",
+          "color": null,
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "id": "MMP-6",
+          "name": "General Bus Stand - Shujabad",
+          "variant": "regular",
+          "status": "unverified",
+          "stops": [
+            {
+              "name": "General Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shujabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+              "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+            }
+          ],
+          "notes": "Suburban/district bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'General Bus Stand to Shujabad'. Stops = named points in printed order; not a formal stop list."
+        },
+        {
+          "name_ur": "",
+          "color": null,
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "id": "MMP-7",
+          "name": "General Bus Stand - Basti Malook",
+          "variant": "regular",
+          "status": "unverified",
+          "stops": [
+            {
+              "name": "General Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Basti Malook",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+              "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+            }
+          ],
+          "notes": "Suburban/district bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'General Bus Stand to Basti Malouk'. Stops = named points in printed order; not a formal stop list."
+        },
+        {
+          "name_ur": "",
+          "color": null,
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "id": "MMP-8",
+          "name": "General Bus Stand - Dunyapur",
+          "variant": "regular",
+          "status": "unverified",
+          "stops": [
+            {
+              "name": "General Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dunyapur",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+              "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+            }
+          ],
+          "notes": "Suburban/district bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'General Bus Stand to Dunyapur'. Stops = named points in printed order; not a formal stop list."
+        },
+        {
+          "name_ur": "",
+          "color": null,
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops_confidence": "low",
+          "id": "MMP-9",
+          "name": "General Bus Stand - Qadirpur Rawan",
+          "variant": "regular",
+          "status": "unverified",
+          "stops": [
+            {
+              "name": "General Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Qadirpur Rawan",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "sources": [
+            {
+              "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+              "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+            }
+          ],
+          "notes": "Suburban/district bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'General Bus Stand to Qadirpur Rawan'. Stops = named points in printed order; not a formal stop list. Government e-bus MFR-EV-485 Ghanta Ghar - Qadir Pur Raan serves Qadirpur Rawan."
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    "Faisalabad: FDA Master Plan 2021-41 Transportation Report (2023, pp.5-55 to 5-57) shows the old public routes B-1, B-4, B-6, B-7, B-8, B-9, B-10, B-11, W-13, W-17, W-19, W-20, W-22, W-23 on a map only (no termini or stops), and says only B-10, B-11 and W-20 still ran in 2023. The FUTS route register is needed to model them; 11b Kotwali-Khurrianwala in faisalabad-private-wagons looks like B-11.",
+    "Faisalabad IPTN route 17 prints only one terminal ('Lower Canal Road via Humayon Town, Fakharabad'); the other end is assumed.",
+    "Faisalabad IPTN Phase-III: the route rows say Standard Bus, the summary table says Mini Bus (9 routes, 142 buses).",
+    "Rawalpindi PMA Phase-I feeder plan: undated, never launched; 'Marrir Br' / 'Murir Bridge' taken to be the Murree Road bridge at Marrir Chowk.",
+    "Peshawar: the pre-BRT inventory (7 minibus, 2 wagon, 13 Suzuki, 6 Qingqi routes per ADB EIA 2017 p.67) exists only in the undisclosed ADB PPTA inception report (Apr 2016) and CDIA PFS (2014).",
+    "Karachi: the 267-route / 12,399-permit register (KTIP Table 3-3-7, from CDGK RSOQ 2009) and the Confirmatory Green Routes Study (Exponent Engineers 2008/2010) are not online.",
+    "Quetta: GPP Balochistan intra-city bus transport study (2021-22) and QDA master plan transport plan not published; news reports about 550 private buses on 15 routes, none named.",
+    "Multan: the 2012 Master Plan cites a 2005 UET study for the Transport Department (8 bus routes / 143 buses, 12 wagon routes / 505 wagons) and an RTA franchise scheme of 6 routes / 121 buses; neither list is published. Fig 12.6 maps existing bus and wagon routes without names.",
+    "HEC PRR (prr.hec.gov.pk) returned HTTP 504 all day on 2026-09-25; retry the thesis search (public transport + Multan/Peshawar/Quetta/Sukkur/Bahawalpur/Sialkot)."
+  ]
+}

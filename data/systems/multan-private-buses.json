@@ -1,0 +1,402 @@
+{
+  "city": "multan",
+  "name_ur": "",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "last_verified": "2026-09-25",
+  "sources": [
+    {
+      "title": "Integrated Master Plan for Multan (2008-2028), Vol-2, Ch.12 Traffic and Transportation",
+      "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf",
+      "publisher": "Multan Development Authority / NESPAK",
+      "date": "2012-05",
+      "official": true
+    }
+  ],
+  "id": "multan-private-buses",
+  "name": "Multan district (suburban) private bus routes",
+  "operator": "Private operators (RTA Multan route permits)",
+  "notes": "9 routes from Multan's two bus terminals (Dera Adda, General Bus Stand) to district towns, listed in the 2012 Integrated Master Plan. Endpoints only. Marked unverified: these suburban services are plausibly still running but no 2020s source was checked.",
+  "routes": [
+    {
+      "name_ur": "",
+      "color": null,
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "id": "MMP-1",
+      "name": "Dera Adda - Shujabad",
+      "variant": "regular",
+      "status": "unverified",
+      "stops": [
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": 30.188949,
+          "lon": 71.451237,
+          "coord_source": "auto:osm:node/1921952798",
+          "is_station": false
+        },
+        {
+          "name": "Shujabad",
+          "name_ur": "",
+          "lat": 30.183063,
+          "lon": 71.441305,
+          "coord_source": "auto:osm:way/898539689",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+          "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+        }
+      ],
+      "notes": "Suburban/district bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'Dera Adda to Shujabad'. Stops = named points in printed order; not a formal stop list. Government e-bus/feeder MFR04B Nishter Hospital - Shujabad covers the same corridor."
+    },
+    {
+      "name_ur": "",
+      "color": null,
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "id": "MMP-2",
+      "name": "Dera Adda - Qasba Maral",
+      "variant": "regular",
+      "status": "unverified",
+      "stops": [
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": 30.188949,
+          "lon": 71.451237,
+          "coord_source": "auto:osm:node/1921952798",
+          "is_station": false
+        },
+        {
+          "name": "Qasba Maral",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+          "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+        }
+      ],
+      "notes": "Suburban/district bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'Dera Adda to Qasba Maral'. Stops = named points in printed order; not a formal stop list."
+    },
+    {
+      "name_ur": "",
+      "color": null,
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "id": "MMP-3",
+      "name": "Dera Adda - Basti Malook",
+      "variant": "regular",
+      "status": "unverified",
+      "stops": [
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": 30.188949,
+          "lon": 71.451237,
+          "coord_source": "auto:osm:node/1921952798",
+          "is_station": false
+        },
+        {
+          "name": "Lar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Basti Malook",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+          "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+        }
+      ],
+      "notes": "Suburban/district bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'Dera Adda to Lar & Basti Malouk'. Stops = named points in printed order; not a formal stop list. Printed as 'Lar & Basti Malouk'; Lar taken as an intermediate point (order as printed). MFR08B Vehari Chowk - Basti Malook is the government service to Basti Malook."
+    },
+    {
+      "name_ur": "",
+      "color": null,
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "id": "MMP-4",
+      "name": "General Bus Stand - Makhdoom Rashid",
+      "variant": "regular",
+      "status": "unverified",
+      "stops": [
+        {
+          "name": "General Bus Stand",
+          "name_ur": "",
+          "lat": 30.179022,
+          "lon": 71.50807,
+          "coord_source": "auto:osm:node/1921953019",
+          "is_station": false
+        },
+        {
+          "name": "Makhdoom Rashid",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+          "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+        }
+      ],
+      "notes": "Suburban/district bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'General Bus Stand to Makhdoom Rashid'. Stops = named points in printed order; not a formal stop list."
+    },
+    {
+      "name_ur": "",
+      "color": null,
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "id": "MMP-5",
+      "name": "General Bus Stand - Adda Bosan",
+      "variant": "regular",
+      "status": "unverified",
+      "stops": [
+        {
+          "name": "General Bus Stand",
+          "name_ur": "",
+          "lat": 30.179022,
+          "lon": 71.50807,
+          "coord_source": "auto:osm:node/1921953019",
+          "is_station": false
+        },
+        {
+          "name": "Adda Bosan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+          "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+        }
+      ],
+      "notes": "Suburban/district bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'General Bus Stand to Adda Bosan'. Stops = named points in printed order; not a formal stop list."
+    },
+    {
+      "name_ur": "",
+      "color": null,
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "id": "MMP-6",
+      "name": "General Bus Stand - Shujabad",
+      "variant": "regular",
+      "status": "unverified",
+      "stops": [
+        {
+          "name": "General Bus Stand",
+          "name_ur": "",
+          "lat": 30.179022,
+          "lon": 71.50807,
+          "coord_source": "auto:osm:node/1921953019",
+          "is_station": false
+        },
+        {
+          "name": "Shujabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+          "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+        }
+      ],
+      "notes": "Suburban/district bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'General Bus Stand to Shujabad'. Stops = named points in printed order; not a formal stop list."
+    },
+    {
+      "name_ur": "",
+      "color": null,
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "id": "MMP-7",
+      "name": "General Bus Stand - Basti Malook",
+      "variant": "regular",
+      "status": "unverified",
+      "stops": [
+        {
+          "name": "General Bus Stand",
+          "name_ur": "",
+          "lat": 30.179022,
+          "lon": 71.50807,
+          "coord_source": "auto:osm:node/1921953019",
+          "is_station": false
+        },
+        {
+          "name": "Basti Malook",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+          "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+        }
+      ],
+      "notes": "Suburban/district bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'General Bus Stand to Basti Malouk'. Stops = named points in printed order; not a formal stop list."
+    },
+    {
+      "name_ur": "",
+      "color": null,
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "id": "MMP-8",
+      "name": "General Bus Stand - Dunyapur",
+      "variant": "regular",
+      "status": "unverified",
+      "stops": [
+        {
+          "name": "General Bus Stand",
+          "name_ur": "",
+          "lat": 30.179022,
+          "lon": 71.50807,
+          "coord_source": "auto:osm:node/1921953019",
+          "is_station": false
+        },
+        {
+          "name": "Dunyapur",
+          "name_ur": "",
+          "lat": 30.167408,
+          "lon": 71.499974,
+          "coord_source": "auto:osm:way/433169263",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+          "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+        }
+      ],
+      "notes": "Suburban/district bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'General Bus Stand to Dunyapur'. Stops = named points in printed order; not a formal stop list."
+    },
+    {
+      "name_ur": "",
+      "color": null,
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "id": "MMP-9",
+      "name": "General Bus Stand - Qadirpur Rawan",
+      "variant": "regular",
+      "status": "unverified",
+      "stops": [
+        {
+          "name": "General Bus Stand",
+          "name_ur": "",
+          "lat": 30.179022,
+          "lon": 71.50807,
+          "coord_source": "auto:osm:node/1921953019",
+          "is_station": false
+        },
+        {
+          "name": "Qadirpur Rawan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+          "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+        }
+      ],
+      "notes": "Suburban/district bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'General Bus Stand to Qadirpur Rawan'. Stops = named points in printed order; not a formal stop list. Government e-bus MFR-EV-485 Ghanta Ghar - Qadir Pur Raan serves Qadirpur Rawan."
+    }
+  ]
+}

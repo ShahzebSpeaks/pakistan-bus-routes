@@ -1,0 +1,234 @@
+{
+  "city": "multan",
+  "name_ur": "",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "last_verified": "2026-09-25",
+  "sources": [
+    {
+      "title": "Integrated Master Plan for Multan (2008-2028), Vol-2, Ch.12 Traffic and Transportation",
+      "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf",
+      "publisher": "Multan Development Authority / NESPAK",
+      "date": "2012-05",
+      "official": true
+    }
+  ],
+  "id": "multan-private-buses-2012",
+  "name": "Multan urban high-occupancy bus routes (Master Plan, c.2008-2012)",
+  "operator": "Private operators on RTA routes (franchise scheme of the Regional Transport Authority)",
+  "notes": "The plan lists these 3 as the urban high-occupancy bus routes 'presently operative' (survey c.2008-2012). It also says the RTA franchise scheme identified 6 routes needing 121 buses, and a 2005 UET study for the Transport Department proposed 8 bus routes (143 buses) and 12 wagon routes (505 wagons); none of these are listed. Fig 12.6 (p.12-22) maps existing bus and wagon routes without names. Marked historical: the corridors are now served by the Metrobus, MFR feeders and green e-buses.",
+  "routes": [
+    {
+      "name_ur": "",
+      "color": null,
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "id": "MMP-A",
+      "name": "Dera Adda - General Bus Stand",
+      "variant": "regular",
+      "status": "historical",
+      "stops": [
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": 30.188949,
+          "lon": 71.451237,
+          "coord_source": "auto:osm:node/1921952798",
+          "is_station": false
+        },
+        {
+          "name": "Kalma Chowk",
+          "name_ur": "",
+          "lat": 30.201065,
+          "lon": 71.454304,
+          "coord_source": "auto:osm:node/4729230492",
+          "is_station": false
+        },
+        {
+          "name": "MDA Chowk",
+          "name_ur": "",
+          "lat": 30.209591,
+          "lon": 71.449928,
+          "coord_source": "auto:osm:node/1921953844",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No. 8",
+          "name_ur": "",
+          "lat": 30.209441,
+          "lon": 71.465571,
+          "coord_source": "auto:osm:node/1921952559",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No. 9",
+          "name_ur": "",
+          "lat": 30.208356,
+          "lon": 71.471549,
+          "coord_source": "auto:osm:node/4595570001",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah Chowk",
+          "name_ur": "",
+          "lat": 30.193689,
+          "lon": 71.48981,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "General Bus Stand",
+          "name_ur": "",
+          "lat": 30.179022,
+          "lon": 71.50807,
+          "coord_source": "auto:osm:node/1921953019",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+          "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+        }
+      ],
+      "notes": "Urban bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'Dera Adda to General Bus Stand (via Kalma Chowk, MDA Chowk, Chungi No. 8 & 9, LMQ Road, Jinnah Chowk)'. Stops = named points in printed order; not a formal stop list. LMQ Road (a road) left out of the stops."
+    },
+    {
+      "name_ur": "",
+      "color": null,
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "id": "MMP-B",
+      "name": "Dera Adda - General Bus Stand",
+      "variant": "regular",
+      "status": "historical",
+      "stops": [
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": 30.188949,
+          "lon": 71.451237,
+          "coord_source": "auto:osm:node/1921952798",
+          "is_station": false
+        },
+        {
+          "name": "Aziz Hotel",
+          "name_ur": "",
+          "lat": 30.183327,
+          "lon": 71.441109,
+          "coord_source": "auto:osm:node/1921954651",
+          "is_station": false
+        },
+        {
+          "name": "Double Phatak",
+          "name_ur": "",
+          "lat": 30.177587,
+          "lon": 71.441379,
+          "coord_source": "auto:osm:node/4354700748",
+          "is_station": false
+        },
+        {
+          "name": "Chowk Shah Abbas",
+          "name_ur": "",
+          "lat": 30.175655,
+          "lon": 71.475085,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Vehari Chowk",
+          "name_ur": "",
+          "lat": 30.173723,
+          "lon": 71.50879,
+          "coord_source": "auto:osm:way/28292761",
+          "is_station": false
+        },
+        {
+          "name": "General Bus Stand",
+          "name_ur": "",
+          "lat": 30.179022,
+          "lon": 71.50807,
+          "coord_source": "auto:osm:node/1921953019",
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+          "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+        }
+      ],
+      "notes": "Urban bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'Dera Adda to General Bus Stand (via Aziz Hotel, Double Phaatak, Chowk Shah Abbas, Vehari Chowk)'. Stops = named points in printed order; not a formal stop list."
+    },
+    {
+      "name_ur": "",
+      "color": null,
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops_confidence": "low",
+      "id": "MMP-C",
+      "name": "Dera Adda - Sher Shah Bypass Crossing",
+      "variant": "regular",
+      "status": "historical",
+      "stops": [
+        {
+          "name": "Dera Adda",
+          "name_ur": "",
+          "lat": 30.188949,
+          "lon": 71.451237,
+          "coord_source": "auto:osm:node/1921952798",
+          "is_station": false
+        },
+        {
+          "name": "Aziz Hotel",
+          "name_ur": "",
+          "lat": 30.183327,
+          "lon": 71.441109,
+          "coord_source": "auto:osm:node/1921954651",
+          "is_station": false
+        },
+        {
+          "name": "Sher Shah Bypass Crossing",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Integrated Master Plan for Multan (2008-2028), Master Plan Report Vol-2, Ch.12 Traffic and Transportation, section 12.3.4, report page 12-23 (PDF page 37)",
+          "url": "https://mda.punjab.gov.pk/system/files/MMP%20-%20Vol-2.pdf"
+        }
+      ],
+      "notes": "Urban bus route. Listed in the NESPAK Integrated Master Plan for Multan (report dated May 2012, plan period 2008-2028), PDF page 37 (report p.12-23), as 'Dera Adda to Sher Shah Bypass Crossing (via Aziz Hotel & LMQ Road)'. Stops = named points in printed order; not a formal stop list. LMQ Road left out of the stops. The government feeder MFR30 Dera Adda - Sher Shah Bypass (multan-feeder.json) now serves the same corridor."
+    }
+  ]
+}
