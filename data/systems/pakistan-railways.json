@@ -1184,19 +1184,19 @@
           "is_station": true
         },
         {
-          "name": "Sulaimanabad",
-          "name_ur": "سلیمان آباد",
-          "lat": 33.5902,
-          "lon": 72.3142,
-          "coord_source": "wikidata:Q18536747",
+          "name": "Sulemanabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
           "is_station": true
         },
         {
-          "name": "Basal Junction",
-          "name_ur": "بسل",
-          "lat": 33.5571,
-          "lon": 72.2322,
-          "coord_source": "wikidata:Q18378277",
+          "name": "Bosal",
+          "name_ur": "",
+          "lat": 33.552326,
+          "lon": 72.223135,
+          "coord_source": "auto:interpolated",
           "is_station": true
         },
         {
@@ -1208,19 +1208,19 @@
           "is_station": true
         },
         {
-          "name": "Nammal",
-          "name_ur": "نمل",
-          "lat": 33.50617,
-          "lon": 72.11813,
-          "coord_source": "wikidata:Q18516226",
+          "name": "Namal",
+          "name_ur": "",
+          "lat": 33.568069,
+          "lon": 72.134095,
+          "coord_source": "auto:nominatim:node/868965604",
           "is_station": true
         },
         {
-          "name": "Chura Sharif Halt",
-          "name_ur": "چُورہ شریف",
-          "lat": 33.4741961,
-          "lon": 72.0906553,
-          "coord_source": "osm:node/11623129072",
+          "name": "Chura Sharif",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
           "is_station": true
         },
         {
@@ -1314,25 +1314,29 @@
       ],
       "stop_times": [
         "15:55",
-        "16:25",
-        "16:38",
-        "16:54",
-        "17:01",
-        "17:13",
-        "17:23",
-        "17:36",
+        "16:19",
+        "16:27",
+        "16:40",
+        "16:47",
+        "16:58",
+        "17:06",
+        "17:34",
         "17:50",
-        "18:06",
+        "18:02",
         "18:19",
-        "18:38",
+        "18:31",
         "18:48",
         "19:06",
-        "19:30",
-        "20:11",
+        "19:28",
+        "20:09",
         "20:55",
         "21:15"
       ],
       "sources": [
+        {
+          "title": "Pakistan Railways train schedule (pakrailways.gov.pk)",
+          "url": "https://pakrailways.gov.pk/train"
+        },
         {
           "title": "Pakistan Railways - Train Timings (official train list: number and name)",
           "url": "https://www.pakrail.gov.pk/TrainTiming.aspx",
@@ -1358,7 +1362,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Attock City Junction 15:55, reaches Mari Indus 21:15. Wikipedia station list: 19 stations. Wikipedia list: operated 1988 – Present; endpoints Mari Indus – Attock City Junction. Classes: Economy Journey time (Wikipedia): 4 hours, 26 minutes. Departs 15:55, arrives 21:15 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Attock City Junction 15:55, reaches Mari Indus 21:15. Wikipedia station list: 19 stations. Wikipedia list: operated 1988 – Present; endpoints Mari Indus – Attock City Junction. Classes: Economy Journey time (Wikipedia): 4 hours, 26 minutes. Departs 15:55, arrives 21:15 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Stations and times are from Pakistan Railways' own schedule for 2026-09-25."
     },
     {
       "id": "201UP",
@@ -1588,19 +1592,19 @@
           "is_station": true
         },
         {
-          "name": "Chur Sharif Halt",
-          "name_ur": "چور شریف ہالٹ",
-          "lat": 33.47349,
-          "lon": 72.08998,
-          "coord_source": "wikidata:Q18387458",
+          "name": "Chura Sharif",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
           "is_station": true
         },
         {
-          "name": "Nammal",
-          "name_ur": "نمل",
-          "lat": 33.50617,
-          "lon": 72.11813,
-          "coord_source": "wikidata:Q18516226",
+          "name": "Namal",
+          "name_ur": "",
+          "lat": 33.568069,
+          "lon": 72.134095,
+          "coord_source": "auto:nominatim:node/868965604",
           "is_station": true
         },
         {
@@ -1612,19 +1616,19 @@
           "is_station": true
         },
         {
-          "name": "Basal Junction",
-          "name_ur": "بسل",
-          "lat": 33.5571,
-          "lon": 72.2322,
-          "coord_source": "wikidata:Q18378277",
+          "name": "Bosal",
+          "name_ur": "",
+          "lat": 33.552326,
+          "lon": 72.223135,
+          "coord_source": "auto:interpolated",
           "is_station": true
         },
         {
-          "name": "Sulaimanabad",
-          "name_ur": "سلیمان آباد",
-          "lat": 33.5902,
-          "lon": 72.3142,
-          "coord_source": "wikidata:Q18536747",
+          "name": "Sulemanabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
           "is_station": true
         },
         {
@@ -1666,6 +1670,10 @@
       ],
       "sources": [
         {
+          "title": "Pakistan Railways train schedule (pakrailways.gov.pk)",
+          "url": "https://pakrailways.gov.pk/train"
+        },
+        {
           "title": "Pakistan Railways - Train Timings (official train list: number and name)",
           "url": "https://www.pakrail.gov.pk/TrainTiming.aspx",
           "publisher": "Pakistan Railways",
@@ -1690,7 +1698,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Mari Indus 03:00, reaches Attock City Junction 07:45. Wikipedia station list: 19 stations. Wikipedia list: operated 1988 – Present; endpoints Mari Indus – Attock City Junction. Classes: Economy Journey time (Wikipedia): 4 hours, 26 minutes. Departs 03:00, arrives 07:45 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Mari Indus 03:00, reaches Attock City Junction 07:45. Wikipedia station list: 19 stations. Wikipedia list: operated 1988 – Present; endpoints Mari Indus – Attock City Junction. Classes: Economy Journey time (Wikipedia): 4 hours, 26 minutes. Departs 03:00, arrives 07:45 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Stations and times are from Pakistan Railways' own schedule for 2026-09-25."
     },
     {
       "id": "14DN",
@@ -2923,7 +2931,7 @@
       "name_ur": "بدر ایکسپریس",
       "variant": "express",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 142,
       "headway_min": null,
@@ -3165,7 +3173,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Lahore Junction 09:30, reaches Faisalabad 12:20. Wikipedia station list: 8 stations. Direction conflict: Wikipedia infobox gives 111UP Lahore->Faisalabad, but the Wikipedia timing table and pakinformation.com both give 111UP Faisalabad->Lahore (used). Wikipedia list: operated 1988 – Present; endpoints Lahore Junction – Faisalabad. Operator per Wikipedia: NCS Rails. Classes: Economy Class Journey time (Wikipedia): 2 hours, 30 minutes. Departs 09:30, arrives 12:20 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Lahore Junction 09:30, reaches Faisalabad 12:20. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. Wikipedia station list: 8 stations. Direction conflict: Wikipedia infobox gives 111UP Lahore->Faisalabad, but the Wikipedia timing table and pakinformation.com both give 111UP Faisalabad->Lahore (used). Wikipedia list: operated 1988 – Present; endpoints Lahore Junction – Faisalabad. Operator per Wikipedia: NCS Rails. Classes: Economy Class Journey time (Wikipedia): 2 hours, 30 minutes. Departs 09:30, arrives 12:20 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "111UP",
@@ -3173,7 +3181,7 @@
       "name_ur": "بدر ایکسپریس",
       "variant": "express",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 142,
       "headway_min": null,
@@ -3415,7 +3423,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Faisalabad 05:45, reaches Lahore Junction 08:45. Wikipedia station list: 8 stations. Direction conflict: Wikipedia infobox gives 111UP Lahore->Faisalabad, but the Wikipedia timing table and pakinformation.com both give 111UP Faisalabad->Lahore (used). Wikipedia list: operated 1988 – Present; endpoints Lahore Junction – Faisalabad. Operator per Wikipedia: NCS Rails. Classes: Economy Class Journey time (Wikipedia): 2 hours, 30 minutes. Departs 05:45, arrives 08:45 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Faisalabad 05:45, reaches Lahore Junction 08:45. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. Wikipedia station list: 8 stations. Direction conflict: Wikipedia infobox gives 111UP Lahore->Faisalabad, but the Wikipedia timing table and pakinformation.com both give 111UP Faisalabad->Lahore (used). Wikipedia list: operated 1988 – Present; endpoints Lahore Junction – Faisalabad. Operator per Wikipedia: NCS Rails. Classes: Economy Class Journey time (Wikipedia): 2 hours, 30 minutes. Departs 05:45, arrives 08:45 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "26DN",
@@ -3563,8 +3571,8 @@
         {
           "name": "Dour",
           "name_ur": "",
-          "lat": 26.6742,
-          "lon": 68.4156,
+          "lat": 26.4177,
+          "lon": 68.35585,
           "coord_source": "auto:interpolated",
           "is_station": true
         },
@@ -3799,8 +3807,8 @@
         {
           "name": "Dour",
           "name_ur": "",
-          "lat": 26.6742,
-          "lon": 68.4156,
+          "lat": 26.4177,
+          "lon": 68.35585,
           "coord_source": "auto:interpolated",
           "is_station": true
         },
@@ -4000,7 +4008,7 @@
       "name_ur": "بولان میل",
       "variant": "express",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 916,
       "headway_min": null,
@@ -4047,7 +4055,7 @@
         },
         {
           "name": "Sibi",
-          "name_ur": "",
+          "name_ur": "سبی ریلوے اسٹیشن",
           "lat": 29.5476732,
           "lon": 67.8699149,
           "coord_source": "osm:node/2671959022",
@@ -4056,7 +4064,7 @@
         },
         {
           "name": "Bakhtiarabad Domki",
-          "name_ur": "",
+          "name_ur": "بختیار آباد ڈومکی ریلوے اسٹیشن",
           "lat": 28.9909557,
           "lon": 68.0100207,
           "coord_source": "osm:node/3965127397",
@@ -4065,7 +4073,7 @@
         },
         {
           "name": "Dera Murad Jamali",
-          "name_ur": "",
+          "name_ur": "ڈیرہ مراد جمالی ریلوے اسٹیشن",
           "lat": 28.548514,
           "lon": 68.2204088,
           "coord_source": "osm:node/3966714661",
@@ -4074,7 +4082,7 @@
         },
         {
           "name": "Dera Allah Yar",
-          "name_ur": "",
+          "name_ur": "ڈیرہ اللہ يار ریلوے اسٹیشن",
           "lat": 28.3718408,
           "lon": 68.3563499,
           "coord_source": "osm:node/3965034137",
@@ -4294,7 +4302,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Quetta 10:00, reaches Karachi City 08:35. Stop order and coordinates from OSM relation 19946243 (25 stops); times from pakinformation.com where the station matched within 3 km. pakinformation.com timetable has 24 stops. Wikipedia station list: 23 stations. pakinformation.com timetable label: \"winter train time table effective from October 15, 2025 to April 14, 2026\". Wikipedia list: operated 1948–2020, 2021-2022, 2023-present; endpoints Karachi City – Quetta. Classes: Bolan Mail have only Economy class in it. Journey time (Wikipedia): 22 hours 55 minutes. Departs 10:00, arrives 08:35 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Quetta 10:00, reaches Karachi City 08:35. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. Stop order and coordinates from OSM relation 19946243 (25 stops); times from pakinformation.com where the station matched within 3 km. pakinformation.com timetable has 24 stops. Wikipedia station list: 23 stations. pakinformation.com timetable label: \"winter train time table effective from October 15, 2025 to April 14, 2026\". Wikipedia list: operated 1948–2020, 2021-2022, 2023-present; endpoints Karachi City – Quetta. Classes: Bolan Mail have only Economy class in it. Journey time (Wikipedia): 22 hours 55 minutes. Departs 10:00, arrives 08:35 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "3UP",
@@ -4302,7 +4310,7 @@
       "name_ur": "بولان میل",
       "variant": "express",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 916,
       "headway_min": null,
@@ -4556,7 +4564,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Karachi City 16:00, reaches Quetta 16:00. Wikipedia station list: 23 stations. pakinformation.com timetable label: \"winter train time table effective from October 15, 2025 to April 14, 2026\". Wikipedia list: operated 1948–2020, 2021-2022, 2023-present; endpoints Karachi City – Quetta. Classes: Bolan Mail have only Economy class in it. Journey time (Wikipedia): 22 hours 55 minutes. Departs 16:00, arrives 16:00 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Karachi City 16:00, reaches Quetta 16:00. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. Wikipedia station list: 23 stations. pakinformation.com timetable label: \"winter train time table effective from October 15, 2025 to April 14, 2026\". Wikipedia list: operated 1948–2020, 2021-2022, 2023-present; endpoints Karachi City – Quetta. Classes: Bolan Mail have only Economy class in it. Journey time (Wikipedia): 22 hours 55 minutes. Departs 16:00, arrives 16:00 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "350DN",
@@ -4564,7 +4572,7 @@
       "name_ur": "",
       "variant": "regular",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 142,
       "headway_min": null,
@@ -4744,7 +4752,7 @@
         },
         {
           "name": "Bostan Junction",
-          "name_ur": "",
+          "name_ur": "بوستان جنکشن ریلوے اسٹیشن",
           "lat": 30.4312539,
           "lon": 67.0070028,
           "coord_source": "osm:node/13312291404",
@@ -4832,7 +4840,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Chaman 14:20, reaches Quetta 19:00. Stop order and coordinates from OSM relation 19850889 (10 stops); times from pakinformation.com where the station matched within 3 km. Wikipedia station list: 11 stations. Wikipedia calls it Chaman Passenger 221UP/222DN; the official list uses 349UP/350DN, matching the OSM relations. Wikipedia list: operated 1958 – Present; endpoints Quetta – Chaman. Classes: Economy Journey time (Wikipedia): 4 hours, 30 minutes. Departs 14:20, arrives 19:00 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Chaman 14:20, reaches Quetta 19:00. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. Stop order and coordinates from OSM relation 19850889 (10 stops); times from pakinformation.com where the station matched within 3 km. Wikipedia station list: 11 stations. Wikipedia calls it Chaman Passenger 221UP/222DN; the official list uses 349UP/350DN, matching the OSM relations. Wikipedia list: operated 1958 – Present; endpoints Quetta – Chaman. Classes: Economy Journey time (Wikipedia): 4 hours, 30 minutes. Departs 14:20, arrives 19:00 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "349UP",
@@ -4840,7 +4848,7 @@
       "name_ur": "",
       "variant": "regular",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 142,
       "headway_min": null,
@@ -5011,7 +5019,7 @@
         },
         {
           "name": "Bostan Junction",
-          "name_ur": "",
+          "name_ur": "بوستان جنکشن ریلوے اسٹیشن",
           "lat": 30.4312539,
           "lon": 67.0070028,
           "coord_source": "osm:node/13312291404",
@@ -5108,7 +5116,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Quetta 08:30, reaches Chaman 13:00. Stop order and coordinates from OSM relation 19850888 (10 stops); times from pakinformation.com where the station matched within 3 km. Wikipedia station list: 11 stations. Wikipedia calls it Chaman Passenger 221UP/222DN; the official list uses 349UP/350DN, matching the OSM relations. Wikipedia list: operated 1958 – Present; endpoints Quetta – Chaman. Classes: Economy Journey time (Wikipedia): 4 hours, 30 minutes. Departs 08:30, arrives 13:00 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Quetta 08:30, reaches Chaman 13:00. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. Stop order and coordinates from OSM relation 19850888 (10 stops); times from pakinformation.com where the station matched within 3 km. Wikipedia station list: 11 stations. Wikipedia calls it Chaman Passenger 221UP/222DN; the official list uses 349UP/350DN, matching the OSM relations. Wikipedia list: operated 1958 – Present; endpoints Quetta – Chaman. Classes: Economy Journey time (Wikipedia): 4 hours, 30 minutes. Departs 08:30, arrives 13:00 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "136DN",
@@ -5332,8 +5340,8 @@
         {
           "name": "Banhmianwala",
           "name_ur": "",
-          "lat": 32.51615,
-          "lon": 73.1646,
+          "lat": 32.50225,
+          "lon": 73.1522,
           "coord_source": "auto:interpolated",
           "is_station": true
         },
@@ -5668,8 +5676,8 @@
         {
           "name": "Banhmianwala",
           "name_ur": "",
-          "lat": 32.51615,
-          "lon": 73.1646,
+          "lat": 32.50225,
+          "lon": 73.1522,
           "coord_source": "auto:interpolated",
           "is_station": true
         },
@@ -7719,7 +7727,7 @@
       "name_ur": "غوری ایکسپریس",
       "variant": "express",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 142,
       "headway_min": null,
@@ -7952,7 +7960,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Lahore Junction 19:00, reaches Faisalabad 21:45. Wikipedia station list: 5 stations. pakinformation.com timetable label: \"summer train time table effective from 15 April 2026 to 14 October 2026\". Direction conflict: Wikipedia infobox gives 113UP Lahore->Faisalabad; pakinformation.com labels Lahore->Faisalabad as the Down train, so 113UP is taken as Faisalabad->Lahore. Wikipedia list: operated 1981 – present; endpoints Lahore Junction – Faisalabad. Operator per Wikipedia: NCS Rails. Classes: Economy Class Journey time (Wikipedia): 2 hours, 30 minutes. Departs 19:00, arrives 21:45 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Lahore Junction 19:00, reaches Faisalabad 21:45. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. Wikipedia station list: 5 stations. pakinformation.com timetable label: \"summer train time table effective from 15 April 2026 to 14 October 2026\". Direction conflict: Wikipedia infobox gives 113UP Lahore->Faisalabad; pakinformation.com labels Lahore->Faisalabad as the Down train, so 113UP is taken as Faisalabad->Lahore. Wikipedia list: operated 1981 – present; endpoints Lahore Junction – Faisalabad. Operator per Wikipedia: NCS Rails. Classes: Economy Class Journey time (Wikipedia): 2 hours, 30 minutes. Departs 19:00, arrives 21:45 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "113UP",
@@ -7960,7 +7968,7 @@
       "name_ur": "غوری ایکسپریس",
       "variant": "express",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 142,
       "headway_min": null,
@@ -8193,7 +8201,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Faisalabad 15:30, reaches Lahore Junction 18:10. Wikipedia station list: 5 stations. pakinformation.com timetable label: \"summer train time table effective from 15 April 2026 to 14 October 2026\". Direction conflict: Wikipedia infobox gives 113UP Lahore->Faisalabad; pakinformation.com labels Lahore->Faisalabad as the Down train, so 113UP is taken as Faisalabad->Lahore. Wikipedia list: operated 1981 – present; endpoints Lahore Junction – Faisalabad. Operator per Wikipedia: NCS Rails. Classes: Economy Class Journey time (Wikipedia): 2 hours, 30 minutes. Departs 15:30, arrives 18:10 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Faisalabad 15:30, reaches Lahore Junction 18:10. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. Wikipedia station list: 5 stations. pakinformation.com timetable label: \"summer train time table effective from 15 April 2026 to 14 October 2026\". Direction conflict: Wikipedia infobox gives 113UP Lahore->Faisalabad; pakinformation.com labels Lahore->Faisalabad as the Down train, so 113UP is taken as Faisalabad->Lahore. Wikipedia list: operated 1981 – present; endpoints Lahore Junction – Faisalabad. Operator per Wikipedia: NCS Rails. Classes: Economy Class Journey time (Wikipedia): 2 hours, 30 minutes. Departs 15:30, arrives 18:10 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "5UP",
@@ -15334,7 +15342,7 @@
       "name_ur": "",
       "variant": "regular",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 124,
       "headway_min": null,
@@ -15643,7 +15651,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Mirpur Khas 17:35, reaches Khokhropar 21:20. pakinformation.com timetable label: \"summer train time table effective from 15 October 2025 to 14 April 2026\". Wikipedia list names this service Marvi Express 271UP/272DN; the official list uses 335UP/336DN. Wikipedia list: operated 2006-2020, 2021-Present; endpoints Mirpur Khas - Khokhropar. Classes: Marvi Passenger have only 2nd class in it. Departs 17:35, arrives 21:20 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Mirpur Khas 17:35, reaches Khokhropar 21:20. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. pakinformation.com timetable label: \"summer train time table effective from 15 October 2025 to 14 April 2026\". Wikipedia list names this service Marvi Express 271UP/272DN; the official list uses 335UP/336DN. Wikipedia list: operated 2006-2020, 2021-Present; endpoints Mirpur Khas - Khokhropar. Classes: Marvi Passenger have only 2nd class in it. Departs 17:35, arrives 21:20 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "335UP",
@@ -15651,7 +15659,7 @@
       "name_ur": "",
       "variant": "regular",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 124,
       "headway_min": null,
@@ -15969,7 +15977,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Khokhropar 06:00, reaches Mirpur Khas 09:40. pakinformation.com timetable label: \"summer train time table effective from 15 October 2025 to 14 April 2026\". Wikipedia list names this service Marvi Express 271UP/272DN; the official list uses 335UP/336DN. Wikipedia list: operated 2006-2020, 2021-Present; endpoints Mirpur Khas - Khokhropar. Classes: Marvi Passenger have only 2nd class in it. Departs 06:00, arrives 09:40 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Khokhropar 06:00, reaches Mirpur Khas 09:40. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. pakinformation.com timetable label: \"summer train time table effective from 15 October 2025 to 14 April 2026\". Wikipedia list names this service Marvi Express 271UP/272DN; the official list uses 335UP/336DN. Wikipedia list: operated 2006-2020, 2021-Present; endpoints Mirpur Khas - Khokhropar. Classes: Marvi Passenger have only 2nd class in it. Departs 06:00, arrives 09:40 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "128DN",
@@ -16815,7 +16823,7 @@
       "name_ur": "",
       "variant": "express",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 220,
       "headway_min": null,
@@ -16982,7 +16990,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Karachi City 04:15, reaches Mirpur Khas 09:30. pakinformation.com timetable label: \"winter train time table 15 April 2026 to 14 October 2026\". Wikipedia list: operated 2018–Present; endpoints Karachi City - Mirpur Khas. Run by a private operator (Raas Logistics) per pakinformation.com. Classes: Mehran Express have only Economy class in it. Departs 04:15, arrives 09:30 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Karachi City 04:15, reaches Mirpur Khas 09:30. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. pakinformation.com timetable label: \"winter train time table 15 April 2026 to 14 October 2026\". Wikipedia list: operated 2018–Present; endpoints Karachi City - Mirpur Khas. Run by a private operator (Raas Logistics) per pakinformation.com. Classes: Mehran Express have only Economy class in it. Departs 04:15, arrives 09:30 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "150DN",
@@ -16990,7 +16998,7 @@
       "name_ur": "",
       "variant": "express",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 220,
       "headway_min": null,
@@ -17157,7 +17165,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Mirpur Khas 06:10, reaches Karachi City 11:30. pakinformation.com timetable label: \"winter train time table 15 April 2026 to 14 October 2026\". Wikipedia list: operated 2018–Present; endpoints Karachi City - Mirpur Khas. Run by a private operator (Raas Logistics) per pakinformation.com. Classes: Mehran Express have only Economy class in it. Departs 06:10, arrives 11:30 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Mirpur Khas 06:10, reaches Karachi City 11:30. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. pakinformation.com timetable label: \"winter train time table 15 April 2026 to 14 October 2026\". Wikipedia list: operated 2018–Present; endpoints Karachi City - Mirpur Khas. Run by a private operator (Raas Logistics) per pakinformation.com. Classes: Mehran Express have only Economy class in it. Departs 06:10, arrives 11:30 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "18DN",
@@ -19576,7 +19584,7 @@
       "name_ur": "",
       "variant": "express",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 261,
       "headway_min": null,
@@ -19875,7 +19883,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Lahore Junction 14:15, reaches Shorkot Cantonment Junction 20:55. Wikipedia list: operated Present; endpoints Lahore Junction – Shorkot Cantonment Junction. Classes: Ravi Express have only Economy class in it. Departs 14:15, arrives 20:55 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Lahore Junction 14:15, reaches Shorkot Cantonment Junction 20:55. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. Wikipedia list: operated Present; endpoints Lahore Junction – Shorkot Cantonment Junction. Classes: Ravi Express have only Economy class in it. Departs 14:15, arrives 20:55 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "121UP",
@@ -19883,7 +19891,7 @@
       "name_ur": "",
       "variant": "express",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 261,
       "headway_min": null,
@@ -20182,7 +20190,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Shorkot Cantonment Junction 02:30, reaches Lahore Junction 09:00. Wikipedia list: operated Present; endpoints Lahore Junction – Shorkot Cantonment Junction. Classes: Ravi Express have only Economy class in it. Departs 02:30, arrives 09:00 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Shorkot Cantonment Junction 02:30, reaches Lahore Junction 09:00. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. Wikipedia list: operated Present; endpoints Lahore Junction – Shorkot Cantonment Junction. Classes: Ravi Express have only Economy class in it. Departs 02:30, arrives 09:00 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "106DN",
@@ -22515,7 +22523,7 @@
       "name_ur": "شالیمار ایکسپریس",
       "variant": "express",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 1286,
       "headway_min": null,
@@ -22679,7 +22687,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Lahore Junction 07:10, reaches Karachi Cantonment 02:55. Wikipedia station list: 14 stations. Wikipedia list: operated 1979-2010, 2012-2022, 2023- Present; endpoints Karachi Cantonment – Lahore Junction. Run by a private operator (AA Entrepreneur) per pakinformation.com. Classes: Economy Class, AC Standard, AC Business, Parlour Car Journey time (Wikipedia): 18 hours & 40 minutes. Departs 07:10, arrives 02:55 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Lahore Junction 07:10, reaches Karachi Cantonment 02:55. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. Wikipedia station list: 14 stations. Wikipedia list: operated 1979-2010, 2012-2022, 2023- Present; endpoints Karachi Cantonment – Lahore Junction. Run by a private operator (AA Entrepreneur) per pakinformation.com. Classes: Economy Class, AC Standard, AC Business, Parlour Car Journey time (Wikipedia): 18 hours & 40 minutes. Departs 07:10, arrives 02:55 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "27UP",
@@ -22687,7 +22695,7 @@
       "name_ur": "شالیمار ایکسپریس",
       "variant": "express",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 1286,
       "headway_min": null,
@@ -22851,7 +22859,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Karachi Cantonment 06:45, reaches Lahore Junction 01:55. Wikipedia station list: 14 stations. Wikipedia list: operated 1979-2010, 2012-2022, 2023- Present; endpoints Karachi Cantonment – Lahore Junction. Run by a private operator (AA Entrepreneur) per pakinformation.com. Classes: Economy Class, AC Standard, AC Business, Parlour Car Journey time (Wikipedia): 18 hours & 40 minutes. Departs 06:45, arrives 01:55 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Karachi Cantonment 06:45, reaches Lahore Junction 01:55. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. Wikipedia station list: 14 stations. Wikipedia list: operated 1979-2010, 2012-2022, 2023- Present; endpoints Karachi Cantonment – Lahore Junction. Run by a private operator (AA Entrepreneur) per pakinformation.com. Classes: Economy Class, AC Standard, AC Business, Parlour Car Journey time (Wikipedia): 18 hours & 40 minutes. Departs 06:45, arrives 01:55 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "104DN",
@@ -25663,8 +25671,8 @@
         {
           "name": "Bosal",
           "name_ur": "",
-          "lat": 33.66505,
-          "lon": 72.27035,
+          "lat": 33.552326,
+          "lon": 72.223135,
           "coord_source": "auto:interpolated",
           "is_station": true
         },
@@ -26323,8 +26331,8 @@
         {
           "name": "Bosal",
           "name_ur": "",
-          "lat": 33.66505,
-          "lon": 72.27035,
+          "lat": 33.552326,
+          "lon": 72.223135,
           "coord_source": "auto:interpolated",
           "is_station": true
         },
@@ -26459,7 +26467,7 @@
       "name_ur": "",
       "variant": "regular",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 100,
       "headway_min": null,
@@ -26714,7 +26722,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Lahore Junction 07:15, reaches Narowal Junction 10:05. Wikipedia list: operated 2018–Present; endpoints Narowal Junction – Lahore Junction. Classes: Narowal Passenger have only Economy class in it. Departs 07:15, arrives 10:05 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Lahore Junction 07:15, reaches Narowal Junction 10:05. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. Wikipedia list: operated 2018–Present; endpoints Narowal Junction – Lahore Junction. Classes: Narowal Passenger have only Economy class in it. Departs 07:15, arrives 10:05 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "212DN",
@@ -26722,7 +26730,7 @@
       "name_ur": "",
       "variant": "regular",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 100,
       "headway_min": null,
@@ -26977,7 +26985,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Narowal Junction 17:00, reaches Lahore Junction 19:40. Wikipedia list: operated 2018–Present; endpoints Narowal Junction – Lahore Junction. Classes: Narowal Passenger have only Economy class in it. Departs 17:00, arrives 19:40 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Narowal Junction 17:00, reaches Lahore Junction 19:40. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. Wikipedia list: operated 2018–Present; endpoints Narowal Junction – Lahore Junction. Classes: Narowal Passenger have only Economy class in it. Departs 17:00, arrives 19:40 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "133UP",
@@ -27433,11 +27441,11 @@
           "is_station": true
         },
         {
-          "name": "Seni Gumbat Halt",
-          "name_ur": "سنی گمبٹ",
-          "lat": 33.5022908,
-          "lon": 71.6726726,
-          "coord_source": "osm:node/13314222900",
+          "name": "Sani Ghumabat",
+          "name_ur": "",
+          "lat": 33.484822,
+          "lon": 71.793428,
+          "coord_source": "auto:interpolated",
           "is_station": true
         },
         {
@@ -27449,11 +27457,11 @@
           "is_station": true
         },
         {
-          "name": "Chura Sharif Halt",
-          "name_ur": "چُورہ شریف",
-          "lat": 33.4741961,
-          "lon": 72.0906553,
-          "coord_source": "osm:node/11623129072",
+          "name": "Chura Sharif",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
           "is_station": true
         },
         {
@@ -27465,11 +27473,11 @@
           "is_station": true
         },
         {
-          "name": "Basal Junction",
-          "name_ur": "بسل",
-          "lat": 33.5571,
-          "lon": 72.2322,
-          "coord_source": "wikidata:Q18378277",
+          "name": "Bosal",
+          "name_ur": "",
+          "lat": 33.552326,
+          "lon": 72.223135,
+          "coord_source": "auto:interpolated",
           "is_station": true
         },
         {
@@ -27524,7 +27532,7 @@
       "stop_times": [
         "07:30",
         "07:55",
-        "08:09",
+        "08:08",
         "09:06",
         "09:17",
         "09:31",
@@ -27537,6 +27545,10 @@
         "11:35"
       ],
       "sources": [
+        {
+          "title": "Pakistan Railways train schedule (pakrailways.gov.pk)",
+          "url": "https://pakrailways.gov.pk/train"
+        },
         {
           "title": "Pakistan Railways - Train Timings (official train list: number and name)",
           "url": "https://www.pakrail.gov.pk/TrainTiming.aspx",
@@ -27562,7 +27574,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Kohat Cantonment 07:30, reaches Rawalpindi 11:35. Wikipedia station list: 11 stations. Wikipedia list: operated Rawalpindi -}} Kohat; endpoints {{rws|Rawalpindi. Classes: Economy Journey time (Wikipedia): 4 hours. Departs 07:30, arrives 11:35 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Kohat Cantonment 07:30, reaches Rawalpindi 11:35. Wikipedia station list: 11 stations. Wikipedia list: operated Rawalpindi -}} Kohat; endpoints {{rws|Rawalpindi. Classes: Economy Journey time (Wikipedia): 4 hours. Departs 07:30, arrives 11:35 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Stations and times are from Pakistan Railways' own schedule for 2026-09-25."
     },
     {
       "id": "47UP",
@@ -29140,7 +29152,7 @@
       "name_ur": "",
       "variant": "regular",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 19,
       "headway_min": null,
@@ -29323,7 +29335,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Pind Dadn Khan 08:50, reaches Malakwal Junction 09:25. Wikipedia list: operated 2015-2022, 2023-Present; endpoints Pind Dadan Khan – Lala Musa Junction. Official code PDK1UPDN; pakinformation.com numbers the Pind Dadan Khan->Malakwal shuttles 1/3/5 Up and the returns 2/4/6 Down, so \"DN\" on 3 and 5 in the official list conflicts. Wikipedia gives Pind Dadan Khan - Lala Musa. Classes: PDK Shuttle-I and PDK Shuttle-II have only Second class in it. Departs 08:50, arrives 09:25 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Pind Dadn Khan 08:50, reaches Malakwal Junction 09:25. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. Wikipedia list: operated 2015-2022, 2023-Present; endpoints Pind Dadan Khan – Lala Musa Junction. Official code PDK1UPDN; pakinformation.com numbers the Pind Dadan Khan->Malakwal shuttles 1/3/5 Up and the returns 2/4/6 Down, so \"DN\" on 3 and 5 in the official list conflicts. Wikipedia gives Pind Dadan Khan - Lala Musa. Classes: PDK Shuttle-I and PDK Shuttle-II have only Second class in it. Departs 08:50, arrives 09:25 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "PDK2DN",
@@ -29522,7 +29534,7 @@
       "name_ur": "",
       "variant": "regular",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 19,
       "headway_min": null,
@@ -29705,7 +29717,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Pind Dadn Khan 11:30, reaches Malakwal Junction 12:05. Wikipedia list: operated 2015-2022, 2023-Present; endpoints Pind Dadan Khan – Lala Musa Junction. Official code PDK-3DN; pakinformation.com numbers the Pind Dadan Khan->Malakwal shuttles 1/3/5 Up and the returns 2/4/6 Down, so \"DN\" on 3 and 5 in the official list conflicts. Wikipedia gives Pind Dadan Khan - Lala Musa. Classes: PDK Shuttle-I and PDK Shuttle-II have only Second class in it. Departs 11:30, arrives 12:05 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Pind Dadn Khan 11:30, reaches Malakwal Junction 12:05. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. Wikipedia list: operated 2015-2022, 2023-Present; endpoints Pind Dadan Khan – Lala Musa Junction. Official code PDK-3DN; pakinformation.com numbers the Pind Dadan Khan->Malakwal shuttles 1/3/5 Up and the returns 2/4/6 Down, so \"DN\" on 3 and 5 in the official list conflicts. Wikipedia gives Pind Dadan Khan - Lala Musa. Classes: PDK Shuttle-I and PDK Shuttle-II have only Second class in it. Departs 11:30, arrives 12:05 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "PDK-4DN",
@@ -29713,7 +29725,7 @@
       "name_ur": "",
       "variant": "regular",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 19,
       "headway_min": null,
@@ -29896,7 +29908,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Malakwal Junction 10:45, reaches Pind Dadn Khan 11:20. Wikipedia list: operated 2015-2022, 2023-Present; endpoints Pind Dadan Khan – Lala Musa Junction. Official code PDK-4DN; pakinformation.com numbers the Pind Dadan Khan->Malakwal shuttles 1/3/5 Up and the returns 2/4/6 Down, so \"DN\" on 3 and 5 in the official list conflicts. Wikipedia gives Pind Dadan Khan - Lala Musa. Classes: PDK Shuttle-I and PDK Shuttle-II have only Second class in it. Departs 10:45, arrives 11:20 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Malakwal Junction 10:45, reaches Pind Dadn Khan 11:20. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. Wikipedia list: operated 2015-2022, 2023-Present; endpoints Pind Dadan Khan – Lala Musa Junction. Official code PDK-4DN; pakinformation.com numbers the Pind Dadan Khan->Malakwal shuttles 1/3/5 Up and the returns 2/4/6 Down, so \"DN\" on 3 and 5 in the official list conflicts. Wikipedia gives Pind Dadan Khan - Lala Musa. Classes: PDK Shuttle-I and PDK Shuttle-II have only Second class in it. Departs 10:45, arrives 11:20 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "PDK-5DN",
@@ -29904,7 +29916,7 @@
       "name_ur": "",
       "variant": "regular",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 19,
       "headway_min": null,
@@ -30087,7 +30099,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Pind Dadn Khan 16:15, reaches Malakwal Junction 16:50. Wikipedia list: operated 2015-2022, 2023-Present; endpoints Pind Dadan Khan – Lala Musa Junction. Official code PDK-5DN; pakinformation.com numbers the Pind Dadan Khan->Malakwal shuttles 1/3/5 Up and the returns 2/4/6 Down, so \"DN\" on 3 and 5 in the official list conflicts. Wikipedia gives Pind Dadan Khan - Lala Musa. Classes: PDK Shuttle-I and PDK Shuttle-II have only Second class in it. Departs 16:15, arrives 16:50 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Pind Dadn Khan 16:15, reaches Malakwal Junction 16:50. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. Wikipedia list: operated 2015-2022, 2023-Present; endpoints Pind Dadan Khan – Lala Musa Junction. Official code PDK-5DN; pakinformation.com numbers the Pind Dadan Khan->Malakwal shuttles 1/3/5 Up and the returns 2/4/6 Down, so \"DN\" on 3 and 5 in the official list conflicts. Wikipedia gives Pind Dadan Khan - Lala Musa. Classes: PDK Shuttle-I and PDK Shuttle-II have only Second class in it. Departs 16:15, arrives 16:50 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "PDK-6DN",
@@ -30095,7 +30107,7 @@
       "name_ur": "",
       "variant": "regular",
       "color": null,
-      "status": "operational",
+      "status": "unverified",
       "launched": null,
       "length_km": 19,
       "headway_min": null,
@@ -30278,7 +30290,7 @@
           "official": false
         }
       ],
-      "notes": "Leaves Malakwal Junction 16:00, reaches Pind Dadn Khan 16:50. Wikipedia list: operated 2015-2022, 2023-Present; endpoints Pind Dadan Khan – Lala Musa Junction. Official code PDK-6DN; pakinformation.com numbers the Pind Dadan Khan->Malakwal shuttles 1/3/5 Up and the returns 2/4/6 Down, so \"DN\" on 3 and 5 in the official list conflicts. Wikipedia gives Pind Dadan Khan - Lala Musa. Classes: PDK Shuttle-I and PDK Shuttle-II have only Second class in it. Departs 16:00, arrives 16:50 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
+      "notes": "Leaves Malakwal Junction 16:00, reaches Pind Dadn Khan 16:50. Not in Pakistan Railways' booking schedule on 2026-09-25, 2026-09-28, 2026-10-02; it may be suspended or renumbered. Wikipedia list: operated 2015-2022, 2023-Present; endpoints Pind Dadan Khan – Lala Musa Junction. Official code PDK-6DN; pakinformation.com numbers the Pind Dadan Khan->Malakwal shuttles 1/3/5 Up and the returns 2/4/6 Down, so \"DN\" on 3 and 5 in the official list conflicts. Wikipedia gives Pind Dadan Khan - Lala Musa. Classes: PDK Shuttle-I and PDK Shuttle-II have only Second class in it. Departs 16:00, arrives 16:50 (pakinformation.com; may be next day). Fare shown is Economy class from the official distance table; AC classes cost more. Times are from pakinformation.com, not Pakistan Railways."
     },
     {
       "id": "33UP",

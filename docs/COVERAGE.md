@@ -2,7 +2,7 @@
 
 Generated 2026-09-25 by `npm run data:build`. Do not edit by hand.
 
-**53 cities · 152 systems · 1626 published routes · 7589 stops**
+**53 cities · 152 systems · 1626 published routes · 7544 stops**
 
 Coordinate quality: **exact** = verified (OpenStreetMap element or Wikipedia, checked by a person), **guide** = position published by a route guide such as safar.fyi, **matched** = automatic OpenStreetMap name match, **geocoded** = Nominatim search, **estimated** = interpolated between neighbours, **missing** = not on the map yet.
 
@@ -116,25 +116,25 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Daewoo Express | ISLAMABAD-SAKRAND | Islamabad - Sakrand | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Daewoo Express | ISLAMABAD-SIALKOT | Islamabad - Sialkot | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Daewoo Express | JAHANIAN-ISLAMABAD | Jahanian - Islamabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
-| Faisal Movers | FM-MUX-KHI | Multan - Karachi | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | medium |
+| Faisal Movers | FM-MUX-KHI | Multan - Karachi | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Faisal Movers | FM-LHR-FSD | Lahore - Faisalabad | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Faisal Movers | FM-MUX-LHR | Multan - Lahore | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Faisal Movers | FM-LHR-KHI | Lahore - Karachi | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | medium |
+| Faisal Movers | FM-LHR-KHI | Lahore - Karachi | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Faisal Movers | FM-LHR-PEW | Lahore - Peshawar | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
 | Faisal Movers | FM-MUX-PEW | Multan - Peshawar | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
 | Faisal Movers | FM-LHR-ISB | Lahore - Islamabad | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
-| Faisal Movers | FM-ISB-KHI | Islamabad - Karachi | operational | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| Faisal Movers | FM-ISB-KHI | Islamabad - Karachi | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
 | Faisal Movers | FM-ISB-MUX | Islamabad - Multan | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
 | Faisal Movers | FM-ISB-TXK | Islamabad - Tashkurgan (China) | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Faisal Movers | ISLAMABAD-GILGIT | Islamabad - Gilgit | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
-| Faisal Movers | KARACHI-BAHAWALPUR | Karachi - Bahawalpur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
-| Faisal Movers | KARACHI-DERAGHAZIKHA | Karachi - Dera Ghazi Khan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
-| Faisal Movers | KARACHI-PESHAWAR | Karachi - Peshawar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
-| Faisal Movers | KARACHI-SADIQABAD | Karachi - Sadiqabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
-| Faisal Movers | KARACHI-SWAT | Karachi - Swat (Mingora) | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
-| Faisal Movers | LAHORE-BAHAWALPUR | Lahore - Bahawalpur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
-| Faisal Movers | LAHORE-JAHANIAN | Lahore - Jahanian | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
-| Faisal Movers | LAHORE-SADIQABAD | Lahore - Sadiqabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Faisal Movers | KARACHI-BAHAWALPUR | Karachi - Bahawalpur | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Faisal Movers | KARACHI-DERAGHAZIKHA | Karachi - Dera Ghazi Khan | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Faisal Movers | KARACHI-PESHAWAR | Karachi - Peshawar | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Faisal Movers | KARACHI-SADIQABAD | Karachi - Sadiqabad | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Faisal Movers | KARACHI-SWAT | Karachi - Swat (Mingora) | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Faisal Movers | LAHORE-BAHAWALPUR | Lahore - Bahawalpur | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Faisal Movers | LAHORE-JAHANIAN | Lahore - Jahanian | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Faisal Movers | LAHORE-SADIQABAD | Lahore - Sadiqabad | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Faisal Movers | MULTAN-BAHAWALPUR | Multan - Bahawalpur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Fateh Sons (Gujrat Express) | LAHORE-GUJRAT | Lahore - Gujrat | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Fateh Sons | GUJRAT-LAHORE | Gujrat - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
@@ -211,8 +211,8 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Motorway Express | ABBOTTABAD-ISLAMABAD | Abbottabad - Islamabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Motorway Express | ABBOTTABAD-PESHAWAR | Abbottabad - Peshawar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Motorway Express | ISLAMABAD-PESHAWAR | Islamabad - Peshawar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
-| Motorway Express | ISLAMABAD-SWAT | Islamabad - Swat (Mingora) | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
-| Motorway Express | PESHAWAR-SWAT | Peshawar - Swat (Mingora) | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Motorway Express | ISLAMABAD-SWAT | Islamabad - Swat (Mingora) | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Motorway Express | PESHAWAR-SWAT | Peshawar - Swat (Mingora) | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Muslim Movers | LAHORE-HASILPUR | Lahore - Hasilpur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Muslim Movers | LAHORE-MAILSI | Lahore - Mailsi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Muslim Movers | LAHORE-VEHARI | Lahore - Vehari | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
@@ -223,7 +223,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Naeem Movers | FORTABBAS-BAHAWALNAGAR | Fort Abbas - Bahawalnagar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Naeem Movers | LAHORE-FORTABBAS | Lahore - FortAbbas | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Naeem Movers | MAROT-FORTABBAS | Marot - FortAbbas | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
-| NATCO Express | GILGIT-HUNZA | Gilgit - Hunza | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| NATCO Express | GILGIT-HUNZA | Gilgit - Hunza | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | NATCO Express | GILGIT-ISLAMABAD | Gilgit - Islamabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | NATCO Express | ISLAMABAD-SKARDU | Islamabad - Skardu | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | NATCO | NT-RWP-GLT | Rawalpindi - Gilgit | operational | 12 | 17% | 0% | 17% | 67% | 0% | 0 | medium |
@@ -250,7 +250,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | New Shandar | KARACHI-QUETTA | Karachi - Quetta | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | New Shandar | KHUZDAR-KARACHI | Khuzdar - Karachi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | New Shandar | QUETTA-KHUZDAR | Quetta - Khuzdar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
-| New Subhan | FAISALABAD-MURREE | Faisalabad - Murree | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| New Subhan | FAISALABAD-MURREE | Faisalabad - Murree | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Niazi Express | NZ-LHR-BAHAWALP | Lahore - Bahawalpur | operational | 2 | 50% | 0% | 50% | 0% | 0% | 0 | low |
 | Niazi Express | NZ-LHR-PESHAWAR | Lahore - Peshawar | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
 | Niazi Express | NZ-LHR-DERAISMA | Lahore - Dera Ismail Khan | operational | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
@@ -362,10 +362,10 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Sandhu Power | LAHORE-MANDIYAZMAN | Lahore - Mandi Yazman | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Sandhu Power | LAHORE-VEHARI | Lahore - Vehari | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Sandhu Power | MAILSI-LODHRAN | Mailsi - Lodhran | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
-| Sania Express | DIR-ISLAMABAD | Dir - Islamabad | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
-| Sania Express | LAHORE-PESHAWAR | Lahore - Peshawar | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Sania Express | DIR-ISLAMABAD | Dir - Islamabad | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Sania Express | LAHORE-PESHAWAR | Lahore - Peshawar | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Shadi Khail Daewoo | LAHORE-MULTAN | Lahore - Multan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
-| Shaheen Express | KARACHI-KOHAT | Karachi - Kohat | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
+| Shaheen Express | KARACHI-KOHAT | Karachi - Kohat | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Shaheen Express | LAHORE-KOHAT | Lahore - Kohat | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Shahid Coach | SWAT-KARACHI | Swat (Mingora) - Karachi | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Shahid Coach | SWAT-LAHORE | Swat (Mingora) - Lahore | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
@@ -411,37 +411,37 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | STC Transit | KARACHI-MULTAN | Karachi - Multan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Sufi Coaches | LAHORE-MARDAN | Lahore - Mardan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Umair Movers | KARACHI-KHAIRPUR | Karachi - Khairpur | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
-| Waraich Express | WR-LHR-KHI | Lahore - Karachi | unverified | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
+| Waraich Express | WR-LHR-KHI | Lahore - Karachi | unverified | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
 | Waraich Express | WR-KHI-ISB | Karachi - Islamabad | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
-| Waraich Express | WR-LHR-SKR | Lahore - Sukkur | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
-| Waraich Express | WR-LHR-SDQ | Lahore - Sadiqabad | unverified | 2 | 0% | 0% | 0% | 0% | 100% | 0 | low |
-| Waraich Express | WR-LHR-KNP | Lahore - Khanpur | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
-| Waraich Express | WR-LHR-MUX | Lahore - Multan | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
+| Waraich Express | WR-LHR-SKR | Lahore - Sukkur | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Waraich Express | WR-LHR-SDQ | Lahore - Sadiqabad | unverified | 2 | 50% | 0% | 0% | 0% | 50% | 0 | low |
+| Waraich Express | WR-LHR-KNP | Lahore - Khanpur | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
+| Waraich Express | WR-LHR-MUX | Lahore - Multan | unverified | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
 | Waraich Express | WR-KHI-SKT | Karachi - Sialkot | unverified | 2 | 0% | 0% | 50% | 0% | 50% | 0 | low |
 | Waraich Express | WR-KHI-SWT | Karachi - Mingora (Swat) | unverified | 2 | 0% | 0% | 0% | 50% | 50% | 0 | low |
 | Yousaf Transport Company | LAHORE-MARDAN | Lahore - Mardan | unverified | 2 | 0% | 0% | 0% | 100% | 0% | 0 | low |
 | Pakistan Railways | 10DN | Allama Iqbal Express: Sialkot Junction - Karachi Cantonment | operational | 36 | 97% | 0% | 0% | 3% | 0% | 0 | high |
 | Pakistan Railways | 9UP | Allama Iqbal Express: Karachi Cantonment - Sialkot Junction | operational | 37 | 97% | 0% | 0% | 3% | 0% | 0 | high |
-| Pakistan Railways | 202DN | Attock Passenger: Attock City Junction - Mari Indus | operational | 18 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 201UP | Attock Passenger: Mari Indus - Attock City Junction | operational | 18 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 202DN | Attock Passenger: Attock City Junction - Mari Indus | operational | 18 | 78% | 0% | 0% | 6% | 6% | 2 | high |
+| Pakistan Railways | 201UP | Attock Passenger: Mari Indus - Attock City Junction | operational | 18 | 78% | 0% | 0% | 6% | 6% | 2 | high |
 | Pakistan Railways | 14DN | Awam Express: Peshawar Cantonment - Karachi Cantonment | operational | 62 | 97% | 0% | 0% | 2% | 2% | 0 | medium |
 | Pakistan Railways | 13UP | Awam Express: Karachi Cantonment - Peshawar Cantonment | operational | 63 | 97% | 0% | 0% | 2% | 2% | 0 | medium |
-| Pakistan Railways | 112DN | Badar Express: Lahore Junction - Faisalabad | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 111UP | Badar Express: Faisalabad - Lahore Junction | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 112DN | Badar Express: Lahore Junction - Faisalabad | unverified | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 111UP | Badar Express: Faisalabad - Lahore Junction | unverified | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 26DN | Bahauddin Zakria Express: Multan Cantonment - Karachi City | operational | 26 | 96% | 0% | 0% | 0% | 4% | 0 | high |
 | Pakistan Railways | 25UP | Bahauddin Zakria Express: Karachi City - Multan Cantonment | operational | 27 | 96% | 0% | 0% | 0% | 4% | 0 | high |
-| Pakistan Railways | 4DN | Bolan Mail: Quetta - Karachi City | operational | 25 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 3UP | Bolan Mail: Karachi City - Quetta | operational | 24 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 350DN | Chaman Mixed: Chaman - Quetta | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 349UP | Chaman Mixed: Quetta - Chaman | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 4DN | Bolan Mail: Quetta - Karachi City | unverified | 25 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 3UP | Bolan Mail: Karachi City - Quetta | unverified | 24 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 350DN | Chaman Mixed: Chaman - Quetta | unverified | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 349UP | Chaman Mixed: Quetta - Chaman | unverified | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 136DN | Chenab Express: Lala Musa Junction - Sargodha Junction | operational | 18 | 94% | 0% | 0% | 0% | 6% | 0 | high |
 | Pakistan Railways | 135UP | Chenab Express: Sargodha Junction - Lala Musa Junction | operational | 18 | 94% | 0% | 0% | 0% | 6% | 0 | high |
 | Pakistan Railways | 210DN | Faiz Ahmed Faiz Passenger: Narowal Junction - Lahore Junction | operational | 12 | 92% | 0% | 0% | 8% | 0% | 0 | high |
 | Pakistan Railways | 209UP | Faiz Ahmed Faiz Passenger: Lahore Junction - Narowal Junction | operational | 12 | 92% | 0% | 0% | 8% | 0% | 0 | high |
 | Pakistan Railways | 38DN | Fareed Express: Lahore Junction - Karachi City | operational | 46 | 98% | 0% | 0% | 2% | 0% | 0 | high |
 | Pakistan Railways | 37UP | Fareed Express: Karachi City - Lahore Junction | operational | 45 | 98% | 0% | 0% | 2% | 0% | 0 | high |
-| Pakistan Railways | 114DN | Ghouri Express: Lahore Junction - Faisalabad | operational | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 113UP | Ghouri Express: Faisalabad - Lahore Junction | operational | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 114DN | Ghouri Express: Lahore Junction - Faisalabad | unverified | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 113UP | Ghouri Express: Faisalabad - Lahore Junction | unverified | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 5UP | Green Line: Karachi Cantonment - Margalla | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 6DN | Green Line: Margalla - Karachi Cantonment | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 12DN | Hazara Express: Havelian - Karachi City | operational | 56 | 100% | 0% | 0% | 0% | 0% | 0 | high |
@@ -460,12 +460,12 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Pakistan Railways | 1UP | Khyber Mail: Karachi Cantonment - Peshawar Cantonment | operational | 44 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 126DN | Lasani Express: Sialkot Junction - Lahore Junction | operational | 18 | 83% | 0% | 0% | 11% | 6% | 0 | high |
 | Pakistan Railways | 125UP | Lasani Express: Lahore Junction - Sialkot Junction | operational | 18 | 83% | 0% | 0% | 11% | 6% | 0 | high |
-| Pakistan Railways | 336DN | Marvi Passenger: Mirpur Khas - Khokhropar | operational | 17 | 88% | 0% | 0% | 0% | 12% | 0 | medium |
-| Pakistan Railways | 335UP | Marvi Passenger: Khokhropar - Mirpur Khas | operational | 18 | 94% | 0% | 0% | 0% | 6% | 0 | medium |
+| Pakistan Railways | 336DN | Marvi Passenger: Mirpur Khas - Khokhropar | unverified | 17 | 88% | 0% | 0% | 0% | 12% | 0 | medium |
+| Pakistan Railways | 335UP | Marvi Passenger: Khokhropar - Mirpur Khas | unverified | 18 | 94% | 0% | 0% | 0% | 6% | 0 | medium |
 | Pakistan Railways | 128DN | Mehr Express: Rawalpindi - Multan Cantonment | operational | 37 | 92% | 0% | 0% | 3% | 5% | 0 | high |
 | Pakistan Railways | 127UP | Mehr Express: Multan Cantonment - Rawalpindi | operational | 37 | 92% | 0% | 0% | 3% | 5% | 0 | high |
-| Pakistan Railways | 149UP | Mehran Express: Karachi City - Mirpur Khas | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 150DN | Mehran Express: Mirpur Khas - Karachi City | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 149UP | Mehran Express: Karachi City - Mirpur Khas | unverified | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 150DN | Mehran Express: Mirpur Khas - Karachi City | unverified | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | 18DN | Millat Express: Lala Musa Junction - Karachi Cantonment | operational | 36 | 97% | 0% | 0% | 0% | 3% | 0 | medium |
 | Pakistan Railways | 17UP | Millat Express: Karachi Cantonment - Lala Musa Junction | operational | 35 | 97% | 0% | 0% | 0% | 3% | 0 | medium |
 | Pakistan Railways | 116DN | Musa Pak Express: Lahore Junction - Multan Cantonment | operational | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
@@ -474,8 +474,8 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Pakistan Railways | 43UP | Shah Hussain Express: Karachi Cantonment - Lahore Junction | unverified | 7 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 46DN | Pakistan Express: Rawalpindi - Karachi Cantonment | operational | 33 | 94% | 0% | 3% | 0% | 3% | 0 | high |
 | Pakistan Railways | 45UP | Pakistan Express: Karachi Cantonment - Rawalpindi | operational | 34 | 94% | 0% | 3% | 0% | 3% | 0 | medium |
-| Pakistan Railways | 122DN | Ravi Express: Lahore Junction - Shorkot Cantonment Junction | operational | 15 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 121UP | Ravi Express: Shorkot Cantonment Junction - Lahore Junction | operational | 15 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 122DN | Ravi Express: Lahore Junction - Shorkot Cantonment Junction | unverified | 15 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 121UP | Ravi Express: Shorkot Cantonment Junction - Lahore Junction | unverified | 15 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | 106DN | Rawal Express: Rawalpindi - Lahore Junction | operational | 2 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | 105UP | Rawal Express: Lahore Junction - Rawalpindi | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | 268DN | Rawalpindi Passenger: Havelian - Rawalpindi | operational | 9 | 89% | 0% | 0% | 11% | 0% | 0 | medium |
@@ -486,8 +486,8 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Pakistan Railways | 152DN | Shah Latif Express: Mirpur Khas - Karachi City | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | 226DN | Shaheen Passenger: Sialkot Junction - Wazirabad Junction | operational | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | 225UP | Shaheen Passenger: Wazirabad Junction - Sialkot Junction | operational | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 28DN | Shalimar Express: Lahore Junction - Karachi Cantonment | operational | 14 | 100% | 0% | 0% | 0% | 0% | 0 | high |
-| Pakistan Railways | 27UP | Shalimar Express: Karachi Cantonment - Lahore Junction | operational | 14 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 28DN | Shalimar Express: Lahore Junction - Karachi Cantonment | unverified | 14 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 27UP | Shalimar Express: Karachi Cantonment - Lahore Junction | unverified | 14 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 104DN | Subak Kharam: Rawalpindi - Lahore Junction | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 103UP | Subak Kharam: Lahore Junction - Rawalpindi | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 102DN | Subak Raftar: Rawalpindi - Lahore Junction | operational | 8 | 100% | 0% | 0% | 0% | 0% | 0 | high |
@@ -498,20 +498,20 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Pakistan Railways | 7UP | Tezgam: Karachi Cantonment - Rawalpindi | operational | 30 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 130DN | Thall Express: Rawalpindi - Multan Cantonment | operational | 40 | 93% | 0% | 0% | 3% | 5% | 0 | medium |
 | Pakistan Railways | 129UP | Thall Express: Multan Cantonment - Rawalpindi | operational | 40 | 93% | 0% | 0% | 3% | 5% | 0 | medium |
-| Pakistan Railways | 211UP | Narowal Passenger: Lahore Junction - Narowal Junction | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | 212DN | Narowal Passenger: Narowal Junction - Lahore Junction | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 211UP | Narowal Passenger: Lahore Junction - Narowal Junction | unverified | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | 212DN | Narowal Passenger: Narowal Junction - Lahore Junction | unverified | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | 133UP | Kohat Express: Rawalpindi - Kohat Cantonment | operational | 12 | 83% | 0% | 0% | 0% | 17% | 0 | high |
-| Pakistan Railways | 134DN | Kohat Express: Kohat Cantonment - Rawalpindi | operational | 13 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Pakistan Railways | 134DN | Kohat Express: Kohat Cantonment - Rawalpindi | operational | 13 | 77% | 0% | 0% | 0% | 15% | 1 | high |
 | Pakistan Railways | 47UP | Rehman Baba Express: Karachi Cantonment - Peshawar Cantonment | operational | 39 | 97% | 0% | 0% | 0% | 3% | 0 | medium |
 | Pakistan Railways | 48DN | Rehman Baba Express: Peshawar Cantonment - Karachi Cantonment | operational | 39 | 97% | 0% | 0% | 0% | 3% | 0 | medium |
 | Pakistan Railways | 213UP | Mohinjo Daro Passenger: Kotri Junction - Rohri Junction | operational | 24 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | 214DN | Mohinjo Daro Passenger: Rohri Junction - Kotri Junction | operational | 24 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | PDK1UPDN | PDK Shuttle: Pind Dadn Khan - Malakwal Junction | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | PDK1UPDN | PDK Shuttle: Pind Dadn Khan - Malakwal Junction | unverified | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | PDK2DN | PDK Shuttle: Malakwal Junction - Pind Dadn Khan | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | PDK-3DN | PDK Shuttle: Pind Dadn Khan - Malakwal Junction | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | PDK-4DN | PDK Shuttle: Malakwal Junction - Pind Dadn Khan | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | PDK-5DN | PDK Shuttle: Pind Dadn Khan - Malakwal Junction | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
-| Pakistan Railways | PDK-6DN | PDK Shuttle: Malakwal Junction - Pind Dadn Khan | operational | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | PDK-3DN | PDK Shuttle: Pind Dadn Khan - Malakwal Junction | unverified | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | PDK-4DN | PDK Shuttle: Malakwal Junction - Pind Dadn Khan | unverified | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | PDK-5DN | PDK Shuttle: Pind Dadn Khan - Malakwal Junction | unverified | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
+| Pakistan Railways | PDK-6DN | PDK Shuttle: Malakwal Junction - Pind Dadn Khan | unverified | 3 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Pakistan Railways | 33UP | Pak Business Express: Karachi Cantonment - Lahore Junction | operational | 12 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 34DN | Pak Business Express: Lahore Junction - Karachi Cantonment | operational | 14 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Pakistan Railways | 31UP | Jinnah Express: Karachi Cantonment - Lahore Junction | suspended | 5 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
@@ -552,28 +552,28 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Chinchi (Qingqi) routes | AS-1 | Korangi 6 - 4K Chowrangi | unverified | 8 | 0% | 63% | 38% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | B-1 | Daak Khana - Liaquatabad - Allah bux village - Ahsanabad | unverified | 10 | 0% | 10% | 90% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | B-3 | Numaish Chowrangi - Safoora Chowrangi | unverified | 8 | 0% | 13% | 88% | 0% | 0% | 0 | medium |
-| Chinchi (Qingqi) routes | B-9 | Korangi 6 - Korangi Crossing Road | unverified | 9 | 0% | 0% | 100% | 0% | 0% | 0 | medium |
-| Chinchi (Qingqi) routes | D-13 | Jungle School (Baldia) - Banaras Bus Stop | unverified | 13 | 0% | 46% | 54% | 0% | 0% | 0 | medium |
+| Chinchi (Qingqi) routes | B-9 | Korangi 6 - Korangi Crossing Road | unverified | 9 | 0% | 11% | 89% | 0% | 0% | 0 | medium |
+| Chinchi (Qingqi) routes | D-13 | Jungle School (Baldia) - Banaras Bus Stop | unverified | 13 | 0% | 54% | 46% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | D-22 | Lyari 50 - Teen Hatti | unverified | 23 | 0% | 30% | 70% | 0% | 0% | 0 | medium |
-| Chinchi (Qingqi) routes | D-3 | Guru Mandir - Munawar Chowrangi - Gulistan-e-Johar | unverified | 14 | 0% | 21% | 79% | 0% | 0% | 0 | medium |
+| Chinchi (Qingqi) routes | D-3 | Guru Mandir - Munawar Chowrangi - Gulistan-e-Johar | unverified | 14 | 0% | 29% | 71% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | Double Jhanda | Kharadar - Teen Hatti | unverified | 7 | 0% | 14% | 86% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | F-12 | Allah waali - New Karachi - Teen Hatti | unverified | 11 | 0% | 27% | 73% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | FM | Abdullah Mor - Surjani - Malir 15 | unverified | 29 | 0% | 28% | 72% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | FS-1 | L Block Rd - Aziz Nagar - Anarkali Sector 6 - Surjani Town | unverified | 17 | 0% | 24% | 76% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | G-2 | Daak Khana - Liaquatabad - New Sabzi Mandi | unverified | 12 | 0% | 17% | 83% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | G-25 | Five Star Chowrangi - Gulshan Chowrangi | unverified | 8 | 0% | 25% | 75% | 0% | 0% | 0 | medium |
-| Chinchi (Qingqi) routes | G-7 | Baba Mor - Bismillah Chowk | unverified | 20 | 0% | 40% | 60% | 0% | 0% | 0 | medium |
+| Chinchi (Qingqi) routes | G-7 | Baba Mor - Bismillah Chowk | unverified | 20 | 0% | 45% | 55% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | GM | Malir 15 - Baba Mor | unverified | 19 | 0% | 47% | 53% | 0% | 0% | 0 | medium |
-| Chinchi (Qingqi) routes | J-1 | Gulshan Ghazi - IC Bridge | unverified | 15 | 0% | 47% | 53% | 0% | 0% | 0 | medium |
+| Chinchi (Qingqi) routes | J-1 | Gulshan Ghazi - IC Bridge | unverified | 15 | 0% | 60% | 40% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | JF17 | Korangi 5 - Liaquatabad No.10 - Lalukhet | unverified | 15 | 0% | 13% | 87% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | K-18 | Chungi Ghazi - Millennium Mall | unverified | 19 | 0% | 37% | 63% | 0% | 0% | 0 | medium |
-| Chinchi (Qingqi) routes | K-4 | Korangi Crossing Road - Korangi 6 | unverified | 9 | 0% | 0% | 100% | 0% | 0% | 0 | medium |
+| Chinchi (Qingqi) routes | K-4 | Korangi Crossing Road - Korangi 6 | unverified | 9 | 0% | 11% | 89% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | K-5 | Makkah Hotel - Sec 5A1 North Karachi - Patel Para (Guru Mandir) | unverified | 23 | 0% | 26% | 74% | 0% | 0% | 0 | medium |
-| Chinchi (Qingqi) routes | K6 | Korangi Crossing Road - Korangi 6 | unverified | 9 | 0% | 0% | 100% | 0% | 0% | 0 | medium |
+| Chinchi (Qingqi) routes | K6 | Korangi Crossing Road - Korangi 6 | unverified | 9 | 0% | 11% | 89% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | K-86 | Lyari 50 - Guru Mandir | unverified | 25 | 0% | 24% | 76% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | Karachi King | Korangi 5 - Liaquatabad No.10 - Lalukhet | unverified | 15 | 0% | 13% | 87% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | M-1 | Jamali Flyover - Guru Mandir | unverified | 13 | 0% | 15% | 85% | 0% | 0% | 0 | medium |
-| Chinchi (Qingqi) routes | M-10 | Lyari Basti - Taiser Town - NIPA Chowrangi | unverified | 7 | 0% | 29% | 71% | 0% | 0% | 0 | medium |
+| Chinchi (Qingqi) routes | M-10 | Lyari Basti - Taiser Town - NIPA Chowrangi | unverified | 7 | 0% | 43% | 57% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | M-22 | Korangi 5 - Liaquatabad No.10 - Lalukhet | unverified | 15 | 0% | 13% | 87% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | M-5 | Expo Center - Expo Center | unverified | 1 | 0% | 0% | 100% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | M-55 | Lyari Basti - Taiser Town - Saddar | unverified | 26 | 0% | 27% | 73% | 0% | 0% | 0 | medium |
@@ -597,7 +597,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Chinchi (Qingqi) routes | T-11 | Daak Khana - Liaquatabad - Surjani - Sector 7A | unverified | 21 | 0% | 24% | 76% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | T-99 | Mansoor Nagar (Maa Hospital) - Abdullah Mor - Surjani | unverified | 22 | 0% | 18% | 82% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | U-5 | Machchi Market (New Karachi) - KDA Chowrangi | unverified | 11 | 0% | 18% | 82% | 0% | 0% | 0 | medium |
-| Chinchi (Qingqi) routes | V-1 | Baba Mor - Garden | unverified | 22 | 0% | 27% | 73% | 0% | 0% | 0 | medium |
+| Chinchi (Qingqi) routes | V-1 | Baba Mor - Garden | unverified | 22 | 0% | 32% | 68% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | W-11 | Gulshan Ghazi - Daak Khana - Liaquatabad | unverified | 15 | 0% | 33% | 67% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | W-86 | Lyari Basti - Taiser Town - Teen Hatti | unverified | 22 | 0% | 32% | 68% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | X-2 | Agra Taj Colony - Yousuf Goth | unverified | 10 | 0% | 50% | 50% | 0% | 0% | 0 | medium |
@@ -623,60 +623,60 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Minibus and coach routes (2010 list) | 1-B | Nazimabd - Tower | historical | 7 | 0% | 0% | 71% | 14% | 14% | 0 | low |
 | Minibus and coach routes (2010 list) | 1-C | M.P.R Colony - Sultanabad | historical | 15 | 0% | 0% | 73% | 0% | 20% | 1 | low |
 | Minibus and coach routes (2010 list) | 1-D | Ittehad Town - Cantt Station | historical | 13 | 0% | 0% | 54% | 0% | 46% | 0 | low |
-| Minibus and coach routes (2010 list) | 1-F | Naval Colony - Orangi Township No. 10 | historical | 9 | 0% | 33% | 44% | 0% | 11% | 1 | low |
+| Minibus and coach routes (2010 list) | 1-F | Naval Colony - Orangi Township No. 10 | historical | 9 | 0% | 33% | 33% | 0% | 11% | 2 | low |
 | Minibus and coach routes (2010 list) | 1-G | M.W Tower - Data Chowk Orangi Town | historical | 14 | 0% | 0% | 64% | 0% | 21% | 2 | low |
 | Minibus and coach routes (2010 list) | 1-H | Gulshan-e-Bahar - Tower | historical | 23 | 0% | 0% | 57% | 17% | 26% | 0 | low |
-| Minibus and coach routes (2010 list) | 1-K | Tower - Masjid-e-Usman | historical | 12 | 0% | 0% | 50% | 17% | 25% | 1 | low |
+| Minibus and coach routes (2010 list) | 1-K | Tower - Masjid-e-Usman | historical | 12 | 0% | 0% | 58% | 17% | 17% | 1 | low |
 | Minibus and coach routes (2010 list) | 10 | Nursery - Tower | historical | 13 | 0% | 0% | 62% | 0% | 38% | 0 | low |
 | Minibus and coach routes (2010 list) | 10-A | Lal Kothi - Tower | historical | 15 | 0% | 0% | 73% | 0% | 27% | 0 | low |
-| Minibus and coach routes (2010 list) | 11 | End of Sector 4 Baldia Town - Dhoraji Society | historical | 19 | 0% | 0% | 63% | 5% | 26% | 1 | low |
+| Minibus and coach routes (2010 list) | 11 | End of Sector 4 Baldia Town - Dhoraji Society | historical | 19 | 0% | 0% | 68% | 5% | 21% | 1 | low |
 | Minibus and coach routes (2010 list) | 11-A | Gulistan-e-Johar - M.A Jinnah Road | historical | 13 | 0% | 8% | 77% | 0% | 15% | 0 | low |
-| Minibus and coach routes (2010 list) | 11-B | Super Market (Near Maymar Flats) - Agra Taj Colony | historical | 23 | 0% | 0% | 52% | 4% | 43% | 0 | low |
-| Minibus and coach routes (2010 list) | 11-D | Power House - Dockyard | historical | 8 | 0% | 25% | 38% | 13% | 13% | 1 | low |
+| Minibus and coach routes (2010 list) | 11-B | Super Market (Near Maymar Flats) - Agra Taj Colony | historical | 23 | 0% | 0% | 57% | 4% | 39% | 0 | low |
+| Minibus and coach routes (2010 list) | 11-D | Power House - Dockyard | historical | 8 | 0% | 25% | 38% | 13% | 0% | 2 | low |
 | Minibus and coach routes (2010 list) | 11-E | Water Pump - Dockyard | historical | 7 | 0% | 0% | 86% | 0% | 14% | 0 | low |
 | Minibus and coach routes (2010 list) | 13 | Drigh Colony Sector No 3 - Nursery | historical | 4 | 0% | 0% | 75% | 0% | 0% | 1 | low |
 | Minibus and coach routes (2010 list) | 13-B | Drigh Colony sector No 3 - M.A jinnah Road | historical | 11 | 0% | 0% | 64% | 0% | 27% | 1 | low |
-| Minibus and coach routes (2010 list) | 16-F | Nasir Colony - Godhra Camp | historical | 15 | 0% | 0% | 60% | 7% | 27% | 1 | low |
-| Minibus and coach routes (2010 list) | 16-F-2 | Nasir Colony - Godhra camp | historical | 16 | 0% | 0% | 56% | 13% | 25% | 1 | low |
-| Minibus and coach routes (2010 list) | 17-H | Saddar - Dhobi Ghat | historical | 6 | 0% | 17% | 67% | 0% | 17% | 0 | low |
-| Minibus and coach routes (2010 list) | 17-I | Ghouspak - Pehalwan Goth | historical | 24 | 0% | 13% | 67% | 0% | 13% | 2 | low |
-| Minibus and coach routes (2010 list) | 17-I-2 | Khadda Quarters - Raja Ghazanfar Ali Road | historical | 10 | 0% | 40% | 30% | 0% | 20% | 1 | low |
-| Minibus and coach routes (2010 list) | 17-J | Babar Market - Hijaz Dairy Farm | historical | 15 | 0% | 0% | 40% | 7% | 40% | 2 | low |
-| Minibus and coach routes (2010 list) | 17-J-2 | Babar Market - lucky star | historical | 14 | 0% | 29% | 50% | 0% | 21% | 0 | low |
-| Minibus and coach routes (2010 list) | 17-K | Khadda quaters - Raja Ghazanfar Ali Road | historical | 9 | 0% | 44% | 33% | 0% | 11% | 1 | low |
+| Minibus and coach routes (2010 list) | 16-F | Nasir Colony - Godhra Camp | historical | 15 | 0% | 0% | 67% | 7% | 20% | 1 | low |
+| Minibus and coach routes (2010 list) | 16-F-2 | Nasir Colony - Godhra camp | historical | 16 | 0% | 0% | 63% | 13% | 19% | 1 | low |
+| Minibus and coach routes (2010 list) | 17-H | Saddar - Dhobi Ghat | historical | 6 | 0% | 17% | 50% | 0% | 17% | 1 | low |
+| Minibus and coach routes (2010 list) | 17-I | Ghouspak - Pehalwan Goth | historical | 24 | 0% | 13% | 71% | 0% | 8% | 2 | low |
+| Minibus and coach routes (2010 list) | 17-I-2 | Khadda Quarters - Raja Ghazanfar Ali Road | historical | 10 | 0% | 40% | 20% | 0% | 30% | 1 | low |
+| Minibus and coach routes (2010 list) | 17-J | Babar Market - Hijaz Dairy Farm | historical | 15 | 0% | 0% | 53% | 0% | 33% | 2 | low |
+| Minibus and coach routes (2010 list) | 17-J-2 | Babar Market - lucky star | historical | 14 | 0% | 29% | 57% | 0% | 14% | 0 | low |
+| Minibus and coach routes (2010 list) | 17-K | Khadda quaters - Raja Ghazanfar Ali Road | historical | 9 | 0% | 44% | 22% | 0% | 22% | 1 | low |
 | Minibus and coach routes (2010 list) | 18-K | Surjani Town - Korangi | historical | 8 | 0% | 0% | 38% | 0% | 13% | 4 | low |
 | Minibus and coach routes (2010 list) | 18-K-2 | Surjani Town - Korangi | historical | 9 | 0% | 0% | 56% | 0% | 33% | 1 | low |
 | Minibus and coach routes (2010 list) | 19-B | P.A.T Colony - Kemari | historical | 10 | 0% | 0% | 80% | 0% | 20% | 0 | low |
-| Minibus and coach routes (2010 list) | 19-C | Faqir Colony - Society office | historical | 16 | 0% | 0% | 88% | 0% | 13% | 0 | low |
+| Minibus and coach routes (2010 list) | 19-C | Faqir Colony - Society office | historical | 16 | 0% | 0% | 94% | 0% | 6% | 0 | low |
 | Minibus and coach routes (2010 list) | 19-D | Faqir Colony - Gizri | historical | 22 | 0% | 14% | 82% | 0% | 5% | 0 | low |
 | Minibus and coach routes (2010 list) | 19-E | Gizri - Saeedabad | historical | 13 | 0% | 0% | 77% | 0% | 23% | 0 | low |
-| Minibus and coach routes (2010 list) | 2-D | Federal B. Area - Noorani Masjid | historical | 17 | 0% | 29% | 59% | 0% | 12% | 0 | low |
+| Minibus and coach routes (2010 list) | 2-D | Federal B. Area - Noorani Masjid | historical | 17 | 0% | 29% | 53% | 0% | 18% | 0 | low |
 | Minibus and coach routes (2010 list) | 2-K | North Nazimabad Block M - Keamari | historical | 13 | 0% | 8% | 85% | 0% | 8% | 0 | low |
 | Minibus and coach routes (2010 list) | 21 | Lucky star (Asghar shaheed Road) - Dockyard | historical | 10 | 0% | 0% | 60% | 0% | 40% | 0 | low |
 | Minibus and coach routes (2010 list) | 22 | Behar Colony - Dockyard | historical | 6 | 0% | 0% | 50% | 0% | 33% | 1 | low |
 | Minibus and coach routes (2010 list) | 22-A | Rashidabad - Cantt Station | historical | 18 | 0% | 0% | 61% | 0% | 33% | 1 | low |
 | Minibus and coach routes (2010 list) | 22-B | Agra taj Colony - Qazafi Town | historical | 29 | 0% | 0% | 66% | 7% | 28% | 0 | low |
 | Minibus and coach routes (2010 list) | 23 | Nursery - Gulbai | historical | 5 | 0% | 0% | 80% | 0% | 20% | 0 | low |
-| Minibus and coach routes (2010 list) | 23-A | Tower - Mauripur | historical | 5 | 0% | 20% | 60% | 0% | 20% | 0 | low |
+| Minibus and coach routes (2010 list) | 23-A | Tower - Mauripur | historical | 5 | 0% | 20% | 40% | 0% | 20% | 1 | low |
 | Minibus and coach routes (2010 list) | 24 | Shahrah-e-iraq - Saeedabad | historical | 19 | 0% | 0% | 63% | 0% | 26% | 2 | low |
 | Minibus and coach routes (2010 list) | 24-A | Court Road - Saeedabad | historical | 16 | 0% | 0% | 63% | 0% | 38% | 0 | low |
-| Minibus and coach routes (2010 list) | 3 | Nusrat Bhutto Colony - Tower Keamari | historical | 11 | 0% | 9% | 73% | 0% | 9% | 1 | low |
+| Minibus and coach routes (2010 list) | 3 | Nusrat Bhutto Colony - Tower Keamari | historical | 11 | 0% | 9% | 64% | 0% | 9% | 2 | low |
 | Minibus and coach routes (2010 list) | 3 Star Coach | Al-Azam Town - Dockyard | historical | 12 | 0% | 0% | 17% | 0% | 58% | 3 | low |
 | Minibus and coach routes (2010 list) | 3-K | Nusrat Bhutto Colony - Keamari | historical | 10 | 0% | 0% | 80% | 0% | 20% | 0 | low |
 | Minibus and coach routes (2010 list) | 4 | New Karachi - Tower | historical | 9 | 0% | 0% | 56% | 11% | 33% | 0 | low |
 | Minibus and coach routes (2010 list) | 4-A | Nai Abadi - Kemari | historical | 22 | 0% | 0% | 59% | 0% | 41% | 0 | low |
-| Minibus and coach routes (2010 list) | 4-B | New Karachi - Saddar | historical | 11 | 0% | 18% | 73% | 0% | 9% | 0 | low |
+| Minibus and coach routes (2010 list) | 4-B | New Karachi - Saddar | historical | 11 | 0% | 18% | 64% | 0% | 9% | 1 | low |
 | Minibus and coach routes (2010 list) | 4-C | New Karachi Block 5-F - Saddar | historical | 11 | 0% | 18% | 64% | 0% | 9% | 1 | low |
 | Minibus and coach routes (2010 list) | 4-D | New Karachi Sector 5-D - Tower | historical | 13 | 0% | 0% | 38% | 8% | 46% | 1 | low |
 | Minibus and coach routes (2010 list) | 4-F | New Karachi Sector 5-E - Regal Cinema | historical | 12 | 0% | 0% | 50% | 0% | 25% | 3 | low |
-| Minibus and coach routes (2010 list) | 4-G | Nai Abadi - Tower | historical | 21 | 0% | 19% | 57% | 0% | 24% | 0 | low |
+| Minibus and coach routes (2010 list) | 4-G | Nai Abadi - Tower | historical | 21 | 0% | 19% | 52% | 0% | 24% | 1 | low |
 | Minibus and coach routes (2010 list) | 4-H | Surjani Town - Ack Ack School | historical | 17 | 0% | 0% | 71% | 0% | 24% | 1 | low |
-| Minibus and coach routes (2010 list) | 4-J | Nai Abadi - Tower | historical | 12 | 0% | 25% | 50% | 0% | 25% | 0 | low |
+| Minibus and coach routes (2010 list) | 4-J | Nai Abadi - Tower | historical | 12 | 0% | 25% | 42% | 0% | 25% | 1 | low |
 | Minibus and coach routes (2010 list) | 4-K | Kali Market - Tower | historical | 9 | 0% | 0% | 33% | 0% | 56% | 1 | low |
 | Minibus and coach routes (2010 list) | 4-M | Nai Abadi - Cantt Station | historical | 18 | 0% | 0% | 72% | 0% | 28% | 0 | low |
 | Minibus and coach routes (2010 list) | 4-N | Lal Market 5-F - Tower | historical | 12 | 0% | 0% | 75% | 0% | 8% | 2 | low |
 | Minibus and coach routes (2010 list) | 4-P | Sweeper Colony - Dockyard | historical | 16 | 0% | 0% | 69% | 6% | 19% | 1 | low |
-| Minibus and coach routes (2010 list) | 4-S | Surjani Town - Tower | historical | 18 | 0% | 0% | 67% | 0% | 33% | 0 | low |
+| Minibus and coach routes (2010 list) | 4-S | Surjani Town - Tower | historical | 18 | 0% | 0% | 78% | 0% | 22% | 0 | low |
 | Minibus and coach routes (2010 list) | 5 | Al-Noor Society - Keamari | historical | 16 | 0% | 0% | 63% | 0% | 38% | 0 | low |
 | Minibus and coach routes (2010 list) | 5-A | Ack Ack School - Saeedabad | historical | 17 | 0% | 0% | 53% | 0% | 41% | 1 | low |
 | Minibus and coach routes (2010 list) | 5-A-2 | Fedral B. Area - Dockyard | historical | 8 | 0% | 13% | 75% | 0% | 13% | 0 | low |
@@ -693,7 +693,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Minibus and coach routes (2010 list) | 50-C | Ittefaq Colony Malir - Tower | historical | 22 | 0% | 0% | 36% | 0% | 59% | 1 | low |
 | Minibus and coach routes (2010 list) | 51-A | Shidi Village - Lea Market | historical | 12 | 0% | 0% | 25% | 0% | 17% | 7 | low |
 | Minibus and coach routes (2010 list) | 52-A | Labour Square - Fisheries | historical | 16 | 0% | 0% | 44% | 0% | 56% | 0 | low |
-| Minibus and coach routes (2010 list) | 53 | Kenker - Lee Market | historical | 10 | 0% | 40% | 20% | 0% | 0% | 4 | low |
+| Minibus and coach routes (2010 list) | 53 | Kenker - Lee Market | historical | 10 | 0% | 40% | 30% | 0% | 0% | 3 | low |
 | Minibus and coach routes (2010 list) | 53-A | Lee Market - Gadap Goth | historical | 9 | 0% | 0% | 22% | 0% | 0% | 7 | low |
 | Minibus and coach routes (2010 list) | 53-B | Washail Bagh - Lee Market | historical | 13 | 0% | 0% | 15% | 0% | 38% | 6 | low |
 | Minibus and coach routes (2010 list) | 54 | Kathere - Moach Goth | historical | 8 | 0% | 0% | 38% | 13% | 0% | 4 | low |
@@ -702,21 +702,21 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Minibus and coach routes (2010 list) | 55-B | Darsana Chana - Lee Market | historical | 9 | 0% | 0% | 33% | 0% | 56% | 1 | low |
 | Minibus and coach routes (2010 list) | 56 | Hub River Road - Chakiwara | historical | 4 | 0% | 0% | 75% | 0% | 25% | 0 | low |
 | Minibus and coach routes (2010 list) | 57 | Naval Colony - Lee Market | historical | 7 | 0% | 0% | 57% | 0% | 43% | 0 | low |
-| Minibus and coach routes (2010 list) | 57-A | Naval Colony - Kearmari | historical | 10 | 0% | 20% | 50% | 0% | 20% | 1 | low |
-| Minibus and coach routes (2010 list) | 57-B | Naval Colony (Hub River Road) - Tower | historical | 10 | 0% | 20% | 60% | 0% | 20% | 0 | low |
-| Minibus and coach routes (2010 list) | 58 | Bund Murad Khan - Lee Market | historical | 8 | 0% | 0% | 38% | 0% | 63% | 0 | low |
+| Minibus and coach routes (2010 list) | 57-A | Naval Colony - Kearmari | historical | 10 | 0% | 20% | 40% | 0% | 20% | 2 | low |
+| Minibus and coach routes (2010 list) | 57-B | Naval Colony (Hub River Road) - Tower | historical | 10 | 0% | 20% | 60% | 0% | 10% | 1 | low |
+| Minibus and coach routes (2010 list) | 58 | Bund Murad Khan - Lee Market | historical | 8 | 0% | 0% | 50% | 0% | 50% | 0 | low |
 | Minibus and coach routes (2010 list) | 58-A | Lee Market - Hub Dam Colony | historical | 7 | 0% | 0% | 71% | 0% | 0% | 2 | low |
 | Minibus and coach routes (2010 list) | 59 | Gadap - Lea Market | historical | 7 | 0% | 0% | 14% | 0% | 0% | 6 | low |
 | Minibus and coach routes (2010 list) | 6 | Dastagir Colony - Tower | historical | 11 | 0% | 0% | 55% | 0% | 36% | 1 | low |
-| Minibus and coach routes (2010 list) | 6-B | Yasinabad Alliaabad - Tower | historical | 14 | 0% | 14% | 64% | 0% | 14% | 1 | low |
-| Minibus and coach routes (2010 list) | 60 | Sindhi Hotel New Karachi - Lee Market | historical | 10 | 0% | 0% | 40% | 0% | 60% | 0 | low |
+| Minibus and coach routes (2010 list) | 6-B | Yasinabad Alliaabad - Tower | historical | 14 | 0% | 21% | 57% | 0% | 14% | 1 | low |
+| Minibus and coach routes (2010 list) | 60 | Sindhi Hotel New Karachi - Lee Market | historical | 10 | 0% | 0% | 50% | 0% | 50% | 0 | low |
 | Minibus and coach routes (2010 list) | 7 | Gulshan-e-Iqbal 13-D-2 - Tower | historical | 18 | 0% | 0% | 72% | 0% | 28% | 0 | low |
 | Minibus and coach routes (2010 list) | 7-A | Liaquatabad Post Office - Tower | historical | 9 | 0% | 22% | 67% | 11% | 0% | 0 | low |
 | Minibus and coach routes (2010 list) | 7-B | Liaquatabad Post Office - Keamari | historical | 13 | 0% | 0% | 69% | 8% | 23% | 0 | low |
 | Minibus and coach routes (2010 list) | 7-D | Mohajir Camp - Sultanabad | historical | 16 | 0% | 0% | 63% | 0% | 31% | 1 | low |
 | Minibus and coach routes (2010 list) | 7-F | Gulshan-e-Iqbal - West Wharf | historical | 12 | 0% | 0% | 67% | 0% | 33% | 0 | low |
-| Minibus and coach routes (2010 list) | 7-G | Liaquatabad No. 10 - Tower | historical | 13 | 0% | 0% | 62% | 0% | 31% | 1 | low |
-| Minibus and coach routes (2010 list) | 7-H | Keamari - Tokyo Terrace Plaza | historical | 15 | 0% | 27% | 60% | 0% | 7% | 1 | low |
+| Minibus and coach routes (2010 list) | 7-G | Liaquatabad No. 10 - Tower | historical | 13 | 0% | 0% | 69% | 0% | 23% | 1 | low |
+| Minibus and coach routes (2010 list) | 7-H | Keamari - Tokyo Terrace Plaza | historical | 15 | 0% | 27% | 60% | 0% | 13% | 0 | low |
 | Minibus and coach routes (2010 list) | 8 | P.I.B Colony - Tower | historical | 6 | 0% | 0% | 67% | 0% | 33% | 0 | low |
 | Minibus and coach routes (2010 list) | 8-A | P.I.B Colony - Keamari | historical | 11 | 0% | 0% | 73% | 0% | 27% | 0 | low |
 | Minibus and coach routes (2010 list) | 8-B | P.I.B Colony - Dockyard | historical | 11 | 0% | 0% | 73% | 9% | 18% | 0 | low |
@@ -726,91 +726,91 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Minibus and coach routes (2010 list) | A-4 | Fedrel B. Area - Tower | historical | 14 | 0% | 0% | 50% | 7% | 29% | 2 | low |
 | Minibus and coach routes (2010 list) | Abaseen Coach | Ittehad Town - Clifton | historical | 19 | 0% | 0% | 68% | 5% | 26% | 0 | low |
 | Minibus and coach routes (2010 list) | Adam Coach | Ittehad Town - Gulshan-e-Hadeed | historical | 16 | 0% | 0% | 63% | 6% | 19% | 2 | low |
-| Minibus and coach routes (2010 list) | Agroor Coach | New Sabzi Mandi - Gulba | historical | 21 | 0% | 29% | 29% | 0% | 24% | 4 | low |
+| Minibus and coach routes (2010 list) | Agroor Coach | New Sabzi Mandi - Gulba | historical | 21 | 0% | 33% | 52% | 0% | 10% | 1 | low |
 | Minibus and coach routes (2010 list) | Ailia Coach | Surjani Sector 5-D - Kinara Hotel | historical | 25 | 0% | 0% | 72% | 4% | 20% | 1 | low |
 | Minibus and coach routes (2010 list) | Al-Hadeed Coach | Bhense Colony - Behar Colon | historical | 19 | 0% | 0% | 58% | 11% | 21% | 2 | low |
-| Minibus and coach routes (2010 list) | Al-Hamd Coach | Surjani Town - Tariq | historical | 17 | 0% | 0% | 65% | 0% | 35% | 0 | low |
+| Minibus and coach routes (2010 list) | Al-Hamd Coach | Surjani Town - Tariq | historical | 17 | 0% | 0% | 71% | 0% | 29% | 0 | low |
 | Minibus and coach routes (2010 list) | Al-Missri Coach | Muzaffarabad Colony - Naval Colony | historical | 16 | 0% | 0% | 75% | 0% | 25% | 0 | low |
 | Minibus and coach routes (2010 list) | Al-Rehman Coach | Baldia Town - Mansehra | historical | 19 | 0% | 0% | 68% | 0% | 26% | 1 | low |
 | Minibus and coach routes (2010 list) | Arain Coach | Safari Park - Kannup Colony | historical | 13 | 0% | 0% | 77% | 8% | 8% | 1 | low |
 | Minibus and coach routes (2010 list) | Askari Coach | Haji Zakria Goth - Cantt Railway Station | historical | 17 | 0% | 0% | 71% | 0% | 12% | 3 | low |
-| Minibus and coach routes (2010 list) | Awan Luxury Coach | Ittehad Town - Clifton | historical | 11 | 0% | 9% | 73% | 0% | 18% | 0 | low |
-| Minibus and coach routes (2010 list) | Ayaz Coach | Surjani Town Sector 7 - Korangi No | historical | 18 | 0% | 61% | 17% | 6% | 17% | 0 | low |
+| Minibus and coach routes (2010 list) | Awan Luxury Coach | Ittehad Town - Clifton | historical | 11 | 0% | 9% | 82% | 0% | 9% | 0 | low |
+| Minibus and coach routes (2010 list) | Ayaz Coach | Surjani Town Sector 7 - Korangi No | historical | 18 | 0% | 67% | 6% | 11% | 6% | 2 | low |
 | Minibus and coach routes (2010 list) | Azmat Coach | Ittehad Towwn - Bhense Colo | historical | 17 | 0% | 0% | 59% | 6% | 18% | 3 | low |
 | Minibus and coach routes (2010 list) | B | Sakhi Hassan - Custom House | historical | 9 | 0% | 0% | 78% | 0% | 22% | 0 | low |
 | Minibus and coach routes (2010 list) | B-1 | Sakhi Hassan - Custom House | historical | 11 | 0% | 0% | 73% | 0% | 27% | 0 | low |
 | Minibus and coach routes (2010 list) | B-2 | Sir Syed Town - Dockyard | historical | 17 | 0% | 0% | 65% | 0% | 35% | 0 | low |
 | Minibus and coach routes (2010 list) | B-3 | New Sultanabad - M.A.Jinnah Road | historical | 29 | 0% | 0% | 59% | 0% | 31% | 3 | low |
-| Minibus and coach routes (2010 list) | B-5 | Gulberg Chowrangi - Dock Yard | historical | 28 | 0% | 0% | 50% | 11% | 39% | 0 | low |
-| Minibus and coach routes (2010 list) | Baraq Coach | Allied Bank New Karachi Branch No. 5 - Korangi Industrial Area | historical | 23 | 0% | 30% | 39% | 9% | 17% | 1 | low |
+| Minibus and coach routes (2010 list) | B-5 | Gulberg Chowrangi - Dock Yard | historical | 28 | 0% | 0% | 54% | 11% | 36% | 0 | low |
+| Minibus and coach routes (2010 list) | Baraq Coach | Allied Bank New Karachi Branch No. 5 - Korangi Industrial Area | historical | 23 | 0% | 30% | 43% | 9% | 13% | 1 | low |
 | Minibus and coach routes (2010 list) | Batool Coach | New Karachi - Fisheries | historical | 16 | 0% | 0% | 88% | 0% | 13% | 0 | low |
 | Minibus and coach routes (2010 list) | Be-Misal Coach | North Karachi Sector 2 - West Wharf | historical | 17 | 0% | 0% | 71% | 6% | 24% | 0 | low |
 | Minibus and coach routes (2010 list) | Bismillah Coach | Surjani Town Sector 9 - Nai Abadi | historical | 21 | 0% | 0% | 71% | 0% | 29% | 0 | low |
 | Minibus and coach routes (2010 list) | Burki Coach | Maymar Complex - Keamari | historical | 13 | 0% | 8% | 85% | 0% | 8% | 0 | low |
 | Minibus and coach routes (2010 list) | C | Saddar - Dhobi Ghat | historical | 8 | 0% | 0% | 88% | 0% | 13% | 0 | low |
-| Minibus and coach routes (2010 list) | C-19 | Mansoor Nagar - Nai Abadi | historical | 18 | 0% | 0% | 33% | 6% | 61% | 0 | low |
+| Minibus and coach routes (2010 list) | C-19 | Mansoor Nagar - Nai Abadi | historical | 18 | 0% | 0% | 39% | 6% | 56% | 0 | low |
 | Minibus and coach routes (2010 list) | C-25 | Abidabad Orangi - Metroville 3 | historical | 22 | 0% | 0% | 50% | 5% | 41% | 1 | low |
 | Minibus and coach routes (2010 list) | C-5 | Gulzar Colony Sector 8-F - GUkshan-e- Behar | historical | 23 | 0% | 0% | 48% | 9% | 30% | 3 | low |
 | Minibus and coach routes (2010 list) | City Coach | Khuwaja Ajmer Nagri - Shahrah-e-Galib | historical | 22 | 0% | 0% | 82% | 5% | 9% | 1 | low |
-| Minibus and coach routes (2010 list) | D-12 | Rahri Goth - Gulshan-e-Farooq 7-D Qabrustan | historical | 15 | 0% | 7% | 53% | 0% | 20% | 3 | low |
+| Minibus and coach routes (2010 list) | D-12 | Rahri Goth - Gulshan-e-Farooq 7-D Qabrustan | historical | 15 | 0% | 7% | 47% | 0% | 20% | 4 | low |
 | Minibus and coach routes (2010 list) | D-13 | Surjani Town - Sherpao Colony | historical | 13 | 0% | 23% | 38% | 0% | 38% | 0 | low |
-| Minibus and coach routes (2010 list) | D-14 | Surjani Town - Metroville 2 | historical | 17 | 0% | 0% | 47% | 0% | 41% | 2 | low |
-| Minibus and coach routes (2010 list) | D-17 | Surjani Town - Qayyumabad | historical | 22 | 0% | 9% | 64% | 0% | 27% | 0 | low |
+| Minibus and coach routes (2010 list) | D-14 | Surjani Town - Metroville 2 | historical | 17 | 0% | 0% | 53% | 0% | 35% | 2 | low |
+| Minibus and coach routes (2010 list) | D-17 | Surjani Town - Qayyumabad | historical | 22 | 0% | 9% | 59% | 0% | 27% | 1 | low |
 | Minibus and coach routes (2010 list) | D-18 | Bhense Colony - New Sultanabad | historical | 16 | 0% | 0% | 38% | 0% | 50% | 2 | low |
-| Minibus and coach routes (2010 list) | D-19 | Saddi Garden Scheme No. 33 - Kemari | historical | 22 | 0% | 9% | 64% | 9% | 14% | 1 | low |
+| Minibus and coach routes (2010 list) | D-19 | Saddi Garden Scheme No. 33 - Kemari | historical | 22 | 0% | 9% | 59% | 9% | 14% | 2 | low |
 | Minibus and coach routes (2010 list) | D-2 | Sharafi Goth - B-3 Mini Bus Stop | historical | 20 | 0% | 0% | 60% | 5% | 30% | 1 | low |
 | Minibus and coach routes (2010 list) | D-22 | Dockyard - Rehri Road | historical | 15 | 0% | 0% | 73% | 0% | 20% | 1 | low |
 | Minibus and coach routes (2010 list) | D-25 | Bhense Colony - Saeedabad | historical | 19 | 0% | 0% | 58% | 0% | 37% | 1 | low |
-| Minibus and coach routes (2010 list) | D-29 | Chamra Chowrangi - Gaddafi Town | historical | 21 | 0% | 0% | 38% | 10% | 43% | 2 | low |
+| Minibus and coach routes (2010 list) | D-29 | Chamra Chowrangi - Gaddafi Town | historical | 21 | 0% | 0% | 62% | 10% | 24% | 1 | low |
 | Minibus and coach routes (2010 list) | D-3 | Airport - Zia Colony | historical | 26 | 0% | 0% | 54% | 0% | 46% | 0 | low |
 | Minibus and coach routes (2010 list) | D-6 | Khokhrapar - Masjid-e-Quba | historical | 20 | 0% | 0% | 70% | 10% | 20% | 0 | low |
 | Minibus and coach routes (2010 list) | D-8 | Bhense Colony - Masroor Colony | historical | 14 | 0% | 14% | 71% | 0% | 0% | 2 | low |
 | Minibus and coach routes (2010 list) | D-9 | Bhense Colony - Khyber | historical | 18 | 0% | 0% | 39% | 6% | 44% | 2 | low |
-| Minibus and coach routes (2010 list) | Data Coach | Surjani Town Sector 10-V - Halipad | historical | 21 | 0% | 10% | 52% | 0% | 33% | 1 | low |
-| Minibus and coach routes (2010 list) | Dawn Coach | Gulshan-e-Hadeed - Khudadad Colony | historical | 19 | 0% | 11% | 47% | 0% | 37% | 1 | low |
-| Minibus and coach routes (2010 list) | Dost Flying Coach | Ittehad Town - Model Colony | historical | 18 | 0% | 0% | 72% | 0% | 28% | 0 | low |
-| Minibus and coach routes (2010 list) | F-10 | Rehri - Shireen Jinnah Colony | historical | 28 | 0% | 0% | 54% | 7% | 39% | 0 | low |
-| Minibus and coach routes (2010 list) | F-12 | Sharafi Goth - Dock Yard | historical | 21 | 0% | 0% | 57% | 10% | 33% | 0 | low |
-| Minibus and coach routes (2010 list) | F-13 | Dhani Bux Goth - Gizri | historical | 15 | 0% | 33% | 33% | 0% | 20% | 2 | low |
+| Minibus and coach routes (2010 list) | Data Coach | Surjani Town Sector 10-V - Halipad | historical | 21 | 0% | 10% | 48% | 0% | 38% | 1 | low |
+| Minibus and coach routes (2010 list) | Dawn Coach | Gulshan-e-Hadeed - Khudadad Colony | historical | 19 | 0% | 11% | 53% | 0% | 37% | 0 | low |
+| Minibus and coach routes (2010 list) | Dost Flying Coach | Ittehad Town - Model Colony | historical | 18 | 0% | 0% | 78% | 0% | 22% | 0 | low |
+| Minibus and coach routes (2010 list) | F-10 | Rehri - Shireen Jinnah Colony | historical | 28 | 0% | 0% | 71% | 7% | 21% | 0 | low |
+| Minibus and coach routes (2010 list) | F-12 | Sharafi Goth - Dock Yard | historical | 21 | 0% | 0% | 67% | 10% | 24% | 0 | low |
+| Minibus and coach routes (2010 list) | F-13 | Dhani Bux Goth - Gizri | historical | 15 | 0% | 40% | 27% | 0% | 33% | 0 | low |
 | Minibus and coach routes (2010 list) | F-14 | Hyderi - Fisheries | historical | 19 | 0% | 0% | 79% | 0% | 21% | 0 | low |
 | Minibus and coach routes (2010 list) | F-15 | Badhni Goth - Gulzar Colony | historical | 18 | 0% | 0% | 61% | 6% | 28% | 1 | low |
-| Minibus and coach routes (2010 list) | F-16 | Qasba Colony - Machine Tool Factory | historical | 31 | 0% | 26% | 61% | 0% | 13% | 0 | low |
-| Minibus and coach routes (2010 list) | F-17 | Ziaul Haq Colony - Dhobi Ghat | historical | 25 | 0% | 16% | 64% | 4% | 12% | 1 | low |
+| Minibus and coach routes (2010 list) | F-16 | Qasba Colony - Machine Tool Factory | historical | 31 | 0% | 29% | 58% | 0% | 13% | 0 | low |
+| Minibus and coach routes (2010 list) | F-17 | Ziaul Haq Colony - Dhobi Ghat | historical | 25 | 0% | 16% | 68% | 4% | 8% | 1 | low |
 | Minibus and coach routes (2010 list) | F-2 | Rafi Bunglows - Mari Pur | historical | 22 | 0% | 0% | 68% | 0% | 18% | 3 | low |
-| Minibus and coach routes (2010 list) | F-22 | Mianwali Colony - Fisheries | historical | 18 | 0% | 0% | 61% | 0% | 28% | 2 | low |
-| Minibus and coach routes (2010 list) | F-25 | Sabzi Mandi - Faqir Colony | historical | 15 | 0% | 0% | 60% | 7% | 33% | 0 | low |
+| Minibus and coach routes (2010 list) | F-22 | Mianwali Colony - Fisheries | historical | 18 | 0% | 0% | 67% | 0% | 22% | 2 | low |
+| Minibus and coach routes (2010 list) | F-25 | Sabzi Mandi - Faqir Colony | historical | 15 | 0% | 0% | 67% | 7% | 27% | 0 | low |
 | Minibus and coach routes (2010 list) | F-3 | P.I.B Colony - Geedar Colony | historical | 20 | 0% | 0% | 55% | 5% | 35% | 1 | low |
 | Minibus and coach routes (2010 list) | F-4 | Korangi No. 4 - Raja Ghazanfar Ali Road | historical | 15 | 0% | 0% | 87% | 0% | 13% | 0 | low |
 | Minibus and coach routes (2010 list) | F-5 | Korangi No.1 - Pakistan Chowk | historical | 14 | 0% | 0% | 64% | 0% | 36% | 0 | low |
 | Minibus and coach routes (2010 list) | F-6 | 89 Bus Stop - Fisheries | historical | 13 | 0% | 0% | 62% | 15% | 23% | 0 | low |
 | Minibus and coach routes (2010 list) | F-7 | Nasir Colony - Drigh Colony No. 5 | historical | 9 | 0% | 33% | 56% | 0% | 11% | 0 | low |
 | Minibus and coach routes (2010 list) | F-8 | Korangi Market - West Wharf | historical | 17 | 0% | 0% | 82% | 0% | 18% | 0 | low |
-| Minibus and coach routes (2010 list) | F-9 | New Muzaffarabad Colony - Abdul Hameed Badayuni College | historical | 32 | 0% | 0% | 78% | 3% | 16% | 1 | low |
-| Minibus and coach routes (2010 list) | Filly Coach | Labour Square - Metropo | historical | 17 | 0% | 12% | 59% | 0% | 24% | 1 | low |
+| Minibus and coach routes (2010 list) | F-9 | New Muzaffarabad Colony - Abdul Hameed Badayuni College | historical | 32 | 0% | 0% | 81% | 3% | 13% | 1 | low |
+| Minibus and coach routes (2010 list) | Filly Coach | Labour Square - Metropo | historical | 17 | 0% | 12% | 65% | 0% | 18% | 1 | low |
 | Minibus and coach routes (2010 list) | G | Court Road - Al-Azam Square | historical | 8 | 0% | 0% | 75% | 0% | 25% | 0 | low |
 | Minibus and coach routes (2010 list) | G-1 | Dockyard - Gulshan-e-Iqbal | historical | 10 | 0% | 0% | 90% | 0% | 10% | 0 | low |
 | Minibus and coach routes (2010 list) | G-10 | Orangi Town - Pahlwan Goth | historical | 18 | 0% | 6% | 67% | 0% | 17% | 2 | low |
-| Minibus and coach routes (2010 list) | G-12 | Yaqoobabad - N.I.P.A | historical | 16 | 0% | 13% | 63% | 0% | 13% | 2 | low |
+| Minibus and coach routes (2010 list) | G-12 | Yaqoobabad - N.I.P.A | historical | 16 | 0% | 13% | 50% | 0% | 19% | 3 | low |
 | Minibus and coach routes (2010 list) | G-13 | Fareed Colony - University Road | historical | 14 | 0% | 0% | 71% | 7% | 21% | 0 | low |
-| Minibus and coach routes (2010 list) | G-14 | Ittehad Town - Cattel Colony | historical | 27 | 0% | 0% | 67% | 0% | 30% | 1 | low |
+| Minibus and coach routes (2010 list) | G-14 | Ittehad Town - Cattel Colony | historical | 27 | 0% | 0% | 70% | 0% | 26% | 1 | low |
 | Minibus and coach routes (2010 list) | G-15 | Ittehad Town - Gulistan-e-johar | historical | 17 | 0% | 0% | 71% | 6% | 24% | 0 | low |
 | Minibus and coach routes (2010 list) | G-21 | Pahalwan Goth - Bhense Colony | historical | 14 | 0% | 7% | 57% | 0% | 29% | 1 | low |
 | Minibus and coach routes (2010 list) | G-25 | Gulistan-e-johar No. 10 - Rasheedabad | historical | 18 | 0% | 22% | 61% | 0% | 17% | 0 | low |
 | Minibus and coach routes (2010 list) | G-4 | Karachi University - Mir Karam Ali Talpur Road | historical | 7 | 0% | 0% | 57% | 14% | 29% | 0 | low |
 | Minibus and coach routes (2010 list) | G-5 | Fisheries - Muscut Industries | historical | 16 | 0% | 0% | 69% | 0% | 25% | 1 | low |
-| Minibus and coach routes (2010 list) | G-6 | Karachi University - Gulbai | historical | 22 | 0% | 0% | 73% | 5% | 23% | 0 | low |
-| Minibus and coach routes (2010 list) | G-8 | Metrological Office - Sheeri jinnah College | historical | 23 | 0% | 13% | 52% | 0% | 17% | 4 | low |
+| Minibus and coach routes (2010 list) | G-6 | Karachi University - Gulbai | historical | 22 | 0% | 0% | 77% | 5% | 18% | 0 | low |
+| Minibus and coach routes (2010 list) | G-8 | Metrological Office - Sheeri jinnah College | historical | 23 | 0% | 13% | 52% | 0% | 22% | 3 | low |
 | Minibus and coach routes (2010 list) | G-9 | Ittehad Town - Pahlwan Goth | historical | 22 | 0% | 9% | 73% | 0% | 9% | 2 | low |
-| Minibus and coach routes (2010 list) | Ghazi Coach | Surjani Town Sector 7 - Clifton | historical | 25 | 0% | 0% | 60% | 0% | 40% | 0 | low |
-| Minibus and coach routes (2010 list) | Ghulam Coach | Bhense Colony - Gulbai | historical | 18 | 0% | 0% | 61% | 0% | 33% | 1 | low |
+| Minibus and coach routes (2010 list) | Ghazi Coach | Surjani Town Sector 7 - Clifton | historical | 25 | 0% | 0% | 64% | 0% | 36% | 0 | low |
+| Minibus and coach routes (2010 list) | Ghulam Coach | Bhense Colony - Gulbai | historical | 18 | 0% | 0% | 67% | 0% | 28% | 1 | low |
 | Minibus and coach routes (2010 list) | Gul Coach | New Sabzi Mandi - Naval Colony | historical | 19 | 0% | 5% | 79% | 5% | 5% | 1 | low |
 | Minibus and coach routes (2010 list) | H-1 | Fleet Club - Korangi Road | historical | 6 | 0% | 0% | 83% | 0% | 17% | 0 | low |
-| Minibus and coach routes (2010 list) | H-2 | Abro Salt Works - West Wharf | historical | 17 | 0% | 0% | 53% | 0% | 35% | 2 | low |
+| Minibus and coach routes (2010 list) | H-2 | Abro Salt Works - West Wharf | historical | 17 | 0% | 0% | 59% | 0% | 29% | 2 | low |
 | Minibus and coach routes (2010 list) | Hazara Coach | Ruby Cinema - Muzafarabad | historical | 21 | 0% | 0% | 67% | 5% | 19% | 2 | low |
 | Minibus and coach routes (2010 list) | Imran Coach | Model Colony - Mauripur | historical | 12 | 0% | 25% | 50% | 0% | 25% | 0 | low |
 | Minibus and coach routes (2010 list) | International Friends Coach | New Abadi - Gulshan-e-Hadeed Phase 1 and Phase 2 | historical | 19 | 0% | 0% | 58% | 5% | 11% | 5 | low |
-| Minibus and coach routes (2010 list) | Ittehad Coach | Surjani Town - Dockyard | historical | 9 | 0% | 11% | 56% | 11% | 11% | 1 | low |
-| Minibus and coach routes (2010 list) | Jawaid Coach | Surjani Town Sector 11 - Qazafi Town | historical | 31 | 0% | 0% | 58% | 3% | 39% | 0 | low |
+| Minibus and coach routes (2010 list) | Ittehad Coach | Surjani Town - Dockyard | historical | 9 | 0% | 11% | 44% | 11% | 22% | 1 | low |
+| Minibus and coach routes (2010 list) | Jawaid Coach | Surjani Town Sector 11 - Qazafi Town | historical | 31 | 0% | 0% | 61% | 3% | 35% | 0 | low |
 | Minibus and coach routes (2010 list) | Junaid Coach | Landhi - Qattar Hospital | historical | 18 | 0% | 0% | 50% | 6% | 28% | 3 | low |
 | Minibus and coach routes (2010 list) | K | Station - Preedy Station | historical | 9 | 0% | 0% | 56% | 0% | 33% | 1 | low |
 | Minibus and coach routes (2010 list) | K-1 | PIB Colony - Dockyard | historical | 8 | 0% | 0% | 75% | 0% | 25% | 0 | low |
@@ -822,18 +822,18 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Minibus and coach routes (2010 list) | Karachi Coach | Gulshan-e-Hadeed Phase I - Dockyard | historical | 16 | 0% | 0% | 25% | 0% | 50% | 4 | low |
 | Minibus and coach routes (2010 list) | Kashif Coach | Murad Memon Goth - Agra Taj Colony | historical | 16 | 0% | 0% | 75% | 0% | 25% | 0 | low |
 | Minibus and coach routes (2010 list) | Khush hal Coach | Gulshan-e-Behar - P.N.S.C Building | historical | 15 | 0% | 7% | 47% | 7% | 20% | 3 | low |
-| Minibus and coach routes (2010 list) | Khyber Coach | Fisheries - Shirin Jinnah Colony | historical | 15 | 0% | 13% | 53% | 0% | 27% | 1 | low |
-| Minibus and coach routes (2010 list) | M-5 | P.A.F Masroor - Dhoraji Colony | historical | 12 | 0% | 0% | 83% | 0% | 8% | 1 | low |
-| Minibus and coach routes (2010 list) | Madina Coach | Gulshan-e-Behar - Muzafarabad Chowrangi | historical | 24 | 0% | 0% | 54% | 8% | 29% | 2 | low |
+| Minibus and coach routes (2010 list) | Khyber Coach | Fisheries - Shirin Jinnah Colony | historical | 15 | 0% | 13% | 60% | 0% | 20% | 1 | low |
+| Minibus and coach routes (2010 list) | M-5 | P.A.F Masroor - Dhoraji Colony | historical | 12 | 0% | 8% | 75% | 0% | 8% | 1 | low |
+| Minibus and coach routes (2010 list) | Madina Coach | Gulshan-e-Behar - Muzafarabad Chowrangi | historical | 24 | 0% | 0% | 58% | 8% | 25% | 2 | low |
 | Minibus and coach routes (2010 list) | Mehfooz Coach | Surjani Town No. 1 - Ranchore | historical | 19 | 0% | 0% | 63% | 0% | 37% | 0 | low |
-| Minibus and coach routes (2010 list) | Mehran Coach | Gulashan-e-Hadeed - West Wharf | historical | 9 | 0% | 11% | 44% | 0% | 22% | 2 | low |
-| Minibus and coach routes (2010 list) | N-1 | Scout Colony - West Wharf Road | historical | 28 | 0% | 0% | 68% | 7% | 25% | 0 | low |
+| Minibus and coach routes (2010 list) | Mehran Coach | Gulashan-e-Hadeed - West Wharf | historical | 9 | 0% | 22% | 44% | 0% | 22% | 1 | low |
+| Minibus and coach routes (2010 list) | N-1 | Scout Colony - West Wharf Road | historical | 28 | 0% | 0% | 71% | 7% | 21% | 0 | low |
 | Minibus and coach routes (2010 list) | N-3 | Asif Centre Super Highway - Dockyard | historical | 13 | 0% | 0% | 77% | 0% | 15% | 1 | low |
 | Minibus and coach routes (2010 list) | Nasir Coach | Surjani Town Sector 10 - Gizri | historical | 17 | 0% | 0% | 65% | 0% | 35% | 0 | low |
-| Minibus and coach routes (2010 list) | National Pakhtoon Coach | Gulshan-e-Behar - Chaman Colony | historical | 22 | 0% | 23% | 41% | 5% | 23% | 2 | low |
-| Minibus and coach routes (2010 list) | New Five Star Coach | Muhajir Camp - Ibrahim Haidery | historical | 17 | 0% | 0% | 82% | 0% | 12% | 1 | low |
-| Minibus and coach routes (2010 list) | P-8 | Dehli Saudagar Colony - Gulshan-e-Bihar | historical | 34 | 0% | 0% | 56% | 3% | 32% | 3 | low |
-| Minibus and coach routes (2010 list) | P-9 | Memom Goth - R.C.D Highway | historical | 24 | 0% | 8% | 58% | 4% | 4% | 6 | low |
+| Minibus and coach routes (2010 list) | National Pakhtoon Coach | Gulshan-e-Behar - Chaman Colony | historical | 22 | 0% | 23% | 36% | 5% | 32% | 1 | low |
+| Minibus and coach routes (2010 list) | New Five Star Coach | Muhajir Camp - Ibrahim Haidery | historical | 17 | 0% | 0% | 88% | 0% | 6% | 1 | low |
+| Minibus and coach routes (2010 list) | P-8 | Dehli Saudagar Colony - Gulshan-e-Bihar | historical | 34 | 0% | 0% | 59% | 3% | 35% | 1 | low |
+| Minibus and coach routes (2010 list) | P-9 | Memom Goth - R.C.D Highway | historical | 24 | 0% | 8% | 58% | 4% | 21% | 2 | low |
 | Minibus and coach routes (2010 list) | Prime Coach | Gulshan-e-Hadeed Phase II - Kinara Hotel | historical | 16 | 0% | 0% | 38% | 0% | 56% | 1 | low |
 | Minibus and coach routes (2010 list) | Q | Hussain D'Silva Town - Keamari | historical | 9 | 0% | 0% | 67% | 0% | 22% | 1 | low |
 | Minibus and coach routes (2010 list) | Qalandari Coach | Surjani Town - Fishries | historical | 12 | 0% | 0% | 58% | 0% | 33% | 1 | low |
@@ -844,11 +844,11 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Minibus and coach routes (2010 list) | P-7 | Khokhrapar - Metriville | historical | 18 | 0% | 0% | 83% | 0% | 11% | 1 | low |
 | Minibus and coach routes (2010 list) | Rainbow Coach | North Karachi Sector 2 - Korangi No. 1 | historical | 18 | 0% | 0% | 56% | 0% | 44% | 0 | low |
 | Minibus and coach routes (2010 list) | Rainbow Flying Coach | North Karachi Sector No. 2 - Gulshan-e-Hadeed Phase 3 | historical | 24 | 0% | 0% | 50% | 8% | 38% | 1 | low |
-| Minibus and coach routes (2010 list) | Razzak Coach | Agra Taj Colony - Rehri Goth | historical | 11 | 0% | 9% | 55% | 9% | 9% | 2 | low |
-| Minibus and coach routes (2010 list) | Rehman Coach | Orangi No. 14 - Khayaban-e-Shamsheer | historical | 23 | 0% | 0% | 57% | 4% | 35% | 1 | low |
+| Minibus and coach routes (2010 list) | Razzak Coach | Agra Taj Colony - Rehri Goth | historical | 11 | 0% | 9% | 55% | 9% | 18% | 1 | low |
+| Minibus and coach routes (2010 list) | Rehman Coach | Orangi No. 14 - Khayaban-e-Shamsheer | historical | 23 | 0% | 0% | 61% | 4% | 30% | 1 | low |
 | Minibus and coach routes (2010 list) | S-1 | Malir City Petrol Pump - Coast Guards | historical | 23 | 0% | 0% | 35% | 9% | 39% | 4 | low |
 | Minibus and coach routes (2010 list) | Qaumi Coach | Bhense Colony - Faqir Colony | historical | 19 | 0% | 0% | 79% | 0% | 16% | 1 | low |
-| Minibus and coach routes (2010 list) | Qayyum Coach | Sherpao Colony - Surjani Town | historical | 27 | 0% | 0% | 63% | 4% | 33% | 0 | low |
+| Minibus and coach routes (2010 list) | Qayyum Coach | Sherpao Colony - Surjani Town | historical | 27 | 0% | 0% | 67% | 4% | 30% | 0 | low |
 | Minibus and coach routes (2010 list) | R | Mansfield Street - Khokhrapar | historical | 13 | 0% | 0% | 62% | 8% | 31% | 0 | low |
 | Minibus and coach routes (2010 list) | R-1 | Safuran Goth - Fisheries | historical | 27 | 0% | 0% | 41% | 0% | 52% | 2 | low |
 | Minibus and coach routes (2010 list) | R-2 | Malir Halt - Quaidabad Railway Station | historical | 11 | 0% | 0% | 64% | 0% | 27% | 1 | low |
@@ -859,7 +859,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Minibus and coach routes (2010 list) | Safari Coach | Maroora Goth - Mianwali | historical | 28 | 0% | 4% | 82% | 0% | 11% | 1 | low |
 | Minibus and coach routes (2010 list) | Shahbaz Coach | Sachal Goth - Keamari | historical | 16 | 0% | 0% | 81% | 0% | 19% | 0 | low |
 | Minibus and coach routes (2010 list) | Shaheen Coach | New Sabzi Mandi - Mauripur | historical | 19 | 0% | 16% | 79% | 0% | 5% | 0 | low |
-| Minibus and coach routes (2010 list) | Shama Hasan Zai Coach | Mangopir - Quaidabad | historical | 19 | 0% | 0% | 53% | 5% | 42% | 0 | low |
+| Minibus and coach routes (2010 list) | Shama Hasan Zai Coach | Mangopir - Quaidabad | historical | 19 | 0% | 0% | 63% | 5% | 32% | 0 | low |
 | Minibus and coach routes (2010 list) | Shama Shehbaz Coach | Gulshan-e-Zia Terminal No. 1 - Keamari Terminal No.2 | historical | 11 | 0% | 0% | 73% | 0% | 18% | 1 | low |
 | Minibus and coach routes (2010 list) | Sher Afzal Coach | Awami Goth - Bilal Colony | historical | 19 | 0% | 0% | 63% | 0% | 26% | 2 | low |
 | Minibus and coach routes (2010 list) | Star Line Coach | Abul Hassan Isphahani Road - Askari Appartment | historical | 15 | 0% | 13% | 53% | 0% | 20% | 2 | low |
@@ -869,58 +869,58 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Minibus and coach routes (2010 list) | Silver Coach | New Race Course - Clifton | historical | 22 | 0% | 0% | 64% | 5% | 32% | 0 | low |
 | Minibus and coach routes (2010 list) | SL-1 | Khadda Quarters - Iqbal Shaheed Road | historical | 13 | 0% | 0% | 46% | 8% | 38% | 1 | low |
 | Minibus and coach routes (2010 list) | SPL-1 | Old Haji Camp - Kadiji | historical | 12 | 0% | 0% | 42% | 0% | 50% | 1 | low |
-| Minibus and coach routes (2010 list) | U-11 | Al-Ahmed Town - Manzoor Colony | historical | 33 | 0% | 0% | 55% | 3% | 42% | 0 | low |
-| Minibus and coach routes (2010 list) | U-2 | 19-D Saeedabad - Baloch Colony | historical | 12 | 0% | 0% | 67% | 8% | 25% | 0 | low |
+| Minibus and coach routes (2010 list) | U-11 | Al-Ahmed Town - Manzoor Colony | historical | 33 | 0% | 0% | 61% | 3% | 36% | 0 | low |
+| Minibus and coach routes (2010 list) | U-2 | 19-D Saeedabad - Baloch Colony | historical | 12 | 0% | 0% | 75% | 8% | 17% | 0 | low |
 | Minibus and coach routes (2010 list) | U-3 | Agra Taj Colony - Tower | historical | 19 | 0% | 0% | 42% | 0% | 58% | 0 | low |
-| Minibus and coach routes (2010 list) | U-4 | Manzoor Colony - Surjani Town | historical | 32 | 0% | 0% | 56% | 3% | 41% | 0 | low |
+| Minibus and coach routes (2010 list) | U-4 | Manzoor Colony - Surjani Town | historical | 32 | 0% | 0% | 59% | 3% | 38% | 0 | low |
 | Minibus and coach routes (2010 list) | U-5 | Al-Asif Square - Mohajir Camp | historical | 26 | 0% | 0% | 73% | 0% | 23% | 1 | low |
-| Minibus and coach routes (2010 list) | Tariq Coach | Surjani Town - Shahrah-e-Quaideen | historical | 17 | 0% | 0% | 59% | 0% | 41% | 0 | low |
+| Minibus and coach routes (2010 list) | Tariq Coach | Surjani Town - Shahrah-e-Quaideen | historical | 17 | 0% | 0% | 65% | 0% | 35% | 0 | low |
 | Minibus and coach routes (2010 list) | Tezro Coach | Surjani Town - Orangi Town No. 5 | historical | 21 | 0% | 0% | 86% | 0% | 10% | 1 | low |
 | Minibus and coach routes (2010 list) | U | Nasir Colony - North Karachi | historical | 22 | 0% | 0% | 77% | 0% | 23% | 0 | low |
-| Minibus and coach routes (2010 list) | U-1 | 100 Feet Road - Agra Taj Colony | historical | 19 | 0% | 11% | 84% | 0% | 5% | 0 | low |
-| Minibus and coach routes (2010 list) | U-10 | Manzoor Colony - Mohammad Khan Goth | historical | 18 | 0% | 0% | 83% | 0% | 11% | 1 | low |
+| Minibus and coach routes (2010 list) | U-1 | 100 Feet Road - Agra Taj Colony | historical | 19 | 0% | 11% | 79% | 0% | 5% | 1 | low |
+| Minibus and coach routes (2010 list) | U-10 | Manzoor Colony - Mohammad Khan Goth | historical | 18 | 0% | 0% | 89% | 0% | 6% | 1 | low |
 | Minibus and coach routes (2010 list) | U-6 | Manzoor Colony - Rasheedabad | historical | 17 | 0% | 0% | 82% | 0% | 18% | 0 | low |
 | Minibus and coach routes (2010 list) | U-7 | Pahlwan Goth - Nai Abadi | historical | 20 | 0% | 0% | 70% | 5% | 20% | 1 | low |
-| Minibus and coach routes (2010 list) | U-8 | Jonijo Town - Hamdard university | historical | 25 | 0% | 0% | 56% | 0% | 40% | 1 | low |
-| Minibus and coach routes (2010 list) | U-9 | Gulshan-e-Ghazi - Mansehra Colony | historical | 28 | 0% | 0% | 61% | 4% | 36% | 0 | low |
+| Minibus and coach routes (2010 list) | U-8 | Jonijo Town - Hamdard university | historical | 25 | 0% | 0% | 64% | 0% | 32% | 1 | low |
+| Minibus and coach routes (2010 list) | U-9 | Gulshan-e-Ghazi - Mansehra Colony | historical | 28 | 0% | 0% | 71% | 4% | 25% | 0 | low |
 | Minibus and coach routes (2010 list) | Umer Coach | Muhajir Camp No.7 - Surjani Town | historical | 16 | 0% | 6% | 75% | 0% | 19% | 0 | low |
 | Minibus and coach routes (2010 list) | V | Gandhi Garden - Buffallow Colony Landhi | historical | 9 | 0% | 0% | 56% | 11% | 11% | 2 | low |
 | Minibus and coach routes (2010 list) | V-1 | Khokhrapar - Bhense Colony | historical | 10 | 0% | 10% | 50% | 0% | 20% | 2 | low |
 | Minibus and coach routes (2010 list) | V-2 | Orangi No. 1 - Pakistan Steel Mills | historical | 6 | 0% | 0% | 33% | 0% | 0% | 4 | low |
-| Minibus and coach routes (2010 list) | V-3 | New Sabzi Mandi - Bhattai Colony | historical | 20 | 0% | 0% | 50% | 10% | 30% | 2 | low |
+| Minibus and coach routes (2010 list) | V-3 | New Sabzi Mandi - Bhattai Colony | historical | 20 | 0% | 0% | 55% | 10% | 35% | 0 | low |
 | Minibus and coach routes (2010 list) | W | Masjid-e-Khizra - New Karachi | historical | 15 | 0% | 0% | 60% | 0% | 27% | 2 | low |
 | Minibus and coach routes (2010 list) | W-1 | New Abadi Sector 5-D - Chand Bibi Road | historical | 16 | 0% | 0% | 56% | 0% | 31% | 2 | low |
 | Minibus and coach routes (2010 list) | W-10 | Saeedabad - New Karachi | historical | 16 | 0% | 0% | 63% | 0% | 38% | 0 | low |
 | Minibus and coach routes (2010 list) | W-12 | North Karachi - Safoora Goth | historical | 31 | 0% | 0% | 55% | 0% | 45% | 0 | low |
-| Minibus and coach routes (2010 list) | W-13 | Sector 5-F Maidan New Karachi - Golimar Chowrangi | historical | 11 | 0% | 0% | 45% | 0% | 45% | 1 | low |
+| Minibus and coach routes (2010 list) | W-13 | Sector 5-F Maidan New Karachi - Golimar Chowrangi | historical | 11 | 0% | 0% | 55% | 0% | 36% | 1 | low |
 | Minibus and coach routes (2010 list) | W-15 | Yousuf goth - Custom House | historical | 21 | 0% | 0% | 67% | 0% | 33% | 0 | low |
 | Minibus and coach routes (2010 list) | W-16 | Sector No 4 - Tower | historical | 28 | 0% | 0% | 54% | 4% | 43% | 0 | low |
 | Minibus and coach routes (2010 list) | W-17 | New Karachi - Lee Market | historical | 11 | 0% | 0% | 73% | 0% | 27% | 0 | low |
 | Minibus and coach routes (2010 list) | W-2 | Nai Abadi 5-D-1 - Dockyard | historical | 17 | 0% | 0% | 59% | 0% | 29% | 2 | low |
 | Minibus and coach routes (2010 list) | W-20 | Yousuf goth - G.Allana Road | historical | 16 | 0% | 0% | 50% | 6% | 38% | 1 | low |
 | Minibus and coach routes (2010 list) | W-24 | New sabzi mandi B-10 - ddabad | historical | 19 | 0% | 0% | 47% | 5% | 32% | 3 | low |
-| Minibus and coach routes (2010 list) | W-28 | Mianwali - Fisheries | historical | 10 | 0% | 0% | 70% | 0% | 20% | 1 | low |
-| Minibus and coach routes (2010 list) | W-5 | Custom House - New Karachi Nai Abadi | historical | 14 | 0% | 0% | 50% | 7% | 36% | 1 | low |
+| Minibus and coach routes (2010 list) | W-28 | Mianwali - Fisheries | historical | 10 | 0% | 0% | 80% | 0% | 10% | 1 | low |
+| Minibus and coach routes (2010 list) | W-5 | Custom House - New Karachi Nai Abadi | historical | 14 | 0% | 0% | 57% | 7% | 29% | 1 | low |
 | Minibus and coach routes (2010 list) | W-6 | Railway Stadium - Lal Market New Karachi | historical | 18 | 0% | 0% | 44% | 11% | 28% | 3 | low |
 | Minibus and coach routes (2010 list) | W-7 | Ziauddin Road - Sector 5-B-4 New Karachi | historical | 20 | 0% | 0% | 65% | 0% | 25% | 2 | low |
-| Minibus and coach routes (2010 list) | W-8 | 5-B Area - Civil hospital | historical | 15 | 0% | 0% | 67% | 0% | 13% | 3 | low |
+| Minibus and coach routes (2010 list) | W-8 | 5-B Area - Civil hospital | historical | 15 | 0% | 0% | 73% | 0% | 7% | 3 | low |
 | Minibus and coach routes (2010 list) | W-9 | Sector 5-C/3 - West wharf | historical | 19 | 0% | 0% | 53% | 0% | 47% | 0 | low |
 | Minibus and coach routes (2010 list) | W-3 | New Karachi 5-D - Cantt Station | historical | 9 | 0% | 11% | 56% | 11% | 11% | 1 | low |
 | Minibus and coach routes (2010 list) | W-30 | Pushtoonabad - Qayyumabad | historical | 33 | 0% | 0% | 48% | 3% | 45% | 1 | low |
 | Minibus and coach routes (2010 list) | W-31 | Surjani - Fisheries | historical | 27 | 0% | 0% | 63% | 0% | 37% | 0 | low |
-| Minibus and coach routes (2010 list) | W-35 | Orangi Town No 13 - Chota Gate | historical | 17 | 0% | 0% | 41% | 6% | 41% | 2 | low |
+| Minibus and coach routes (2010 list) | W-35 | Orangi Town No 13 - Chota Gate | historical | 17 | 0% | 0% | 53% | 6% | 35% | 1 | low |
 | Minibus and coach routes (2010 list) | W-4 | North Karachi 5-E - T&T Department | historical | 16 | 0% | 0% | 50% | 6% | 44% | 0 | low |
 | Minibus and coach routes (2010 list) | X-11 | Saeedabad - P.E.C.H.S society bus stop | historical | 16 | 0% | 0% | 56% | 0% | 25% | 3 | low |
 | Minibus and coach routes (2010 list) | X-12 | Naiabadi - Zero Mile | historical | 21 | 0% | 0% | 71% | 0% | 19% | 2 | low |
 | Minibus and coach routes (2010 list) | X-13 | Mohajir camp - Shahrah-e-iraq | historical | 15 | 0% | 0% | 67% | 0% | 20% | 2 | low |
-| Minibus and coach routes (2010 list) | X-15 | Mohajir camp - Dockyard | historical | 25 | 0% | 0% | 72% | 4% | 24% | 0 | low |
+| Minibus and coach routes (2010 list) | X-15 | Mohajir camp - Dockyard | historical | 25 | 0% | 0% | 76% | 4% | 20% | 0 | low |
 | Minibus and coach routes (2010 list) | W-A | New Karachi Sector No. 5-C - Manzoor Colony | historical | 21 | 0% | 0% | 57% | 0% | 33% | 2 | low |
 | Minibus and coach routes (2010 list) | Wali Afridi Coach | Orangi No. 16 - Cantt | historical | 18 | 0% | 0% | 67% | 11% | 22% | 0 | low |
 | Minibus and coach routes (2010 list) | Waziristan Coach | Bhittai Colony - Gulbai | historical | 19 | 0% | 0% | 47% | 16% | 37% | 0 | low |
-| Minibus and coach routes (2010 list) | X | Lee Market - Saeedabad | historical | 6 | 0% | 17% | 83% | 0% | 0% | 0 | low |
+| Minibus and coach routes (2010 list) | X | Lee Market - Saeedabad | historical | 6 | 0% | 33% | 67% | 0% | 0% | 0 | low |
 | Minibus and coach routes (2010 list) | X-1 | Noor masjid - Mauripur Road | historical | 4 | 0% | 0% | 75% | 0% | 25% | 0 | low |
 | Minibus and coach routes (2010 list) | X-20 | Saadi Town - Qasim Ali Shah | historical | 18 | 0% | 0% | 78% | 0% | 22% | 0 | low |
-| Minibus and coach routes (2010 list) | X-24 | Gulshan-e-zia - Gulistan-e-Jouhar | historical | 21 | 0% | 0% | 67% | 5% | 19% | 2 | low |
+| Minibus and coach routes (2010 list) | X-24 | Gulshan-e-zia - Gulistan-e-Jouhar | historical | 21 | 0% | 0% | 76% | 5% | 19% | 0 | low |
 | Minibus and coach routes (2010 list) | X-25 | Willayat Ali shah - Clifton 26 street | historical | 16 | 0% | 13% | 50% | 0% | 25% | 2 | low |
 | Minibus and coach routes (2010 list) | X-4 | Noor masjid - Cantt Station | historical | 11 | 0% | 9% | 82% | 0% | 9% | 0 | low |
 | Private minibuses and coaches | A-3 | New Sabzi Mandi - Dockyard | unverified | 26 | 0% | 8% | 77% | 4% | 12% | 0 | medium |
@@ -937,7 +937,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Private minibuses and coaches | G-19 | Chungi Stop - Madras Chowk | unverified | 26 | 0% | 4% | 62% | 4% | 23% | 2 | medium |
 | Private minibuses and coaches | G-27 | Safoora Chorangi - Hub River Road | unverified | 25 | 0% | 4% | 84% | 0% | 12% | 0 | low |
 | Private minibuses and coaches | H | Lee Market - Ibrahim Haidri | unverified | 18 | 0% | 0% | 78% | 0% | 17% | 1 | medium |
-| Private minibuses and coaches | N-4 | Islam Nagar Orangi - Mehran Town | unverified | 29 | 0% | 0% | 69% | 0% | 28% | 1 | medium |
+| Private minibuses and coaches | N-4 | Islam Nagar Orangi - Mehran Town | unverified | 29 | 0% | 0% | 72% | 0% | 24% | 1 | medium |
 | Private minibuses and coaches | N-5 | Naval Colony - Bilal Colony | unverified | 24 | 0% | 4% | 67% | 4% | 25% | 0 | medium |
 | Private minibuses and coaches | SL | Saddar - Landhi 89 | unverified | 16 | 0% | 13% | 69% | 0% | 19% | 0 | medium |
 | Private minibuses and coaches | W-11 | Ahsanabad - Keamari | unverified | 29 | 0% | 3% | 66% | 0% | 31% | 0 | medium |
@@ -945,7 +945,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Private minibuses and coaches | W-22 | Chungi Stop - Double Road Korangi 2 ⅓ | unverified | 31 | 0% | 0% | 71% | 0% | 23% | 2 | medium |
 | Private minibuses and coaches | W-25 | Khameso Goth - Itihad Town | unverified | 25 | 0% | 0% | 64% | 8% | 20% | 2 | medium |
 | Private minibuses and coaches | W-55 | Khaibarabad - New Lyari | unverified | 23 | 0% | 0% | 78% | 4% | 9% | 2 | medium |
-| Private minibuses and coaches | X-8 | Itihad Town - Rohri Goth | unverified | 37 | 0% | 0% | 65% | 5% | 24% | 2 | medium |
+| Private minibuses and coaches | X-8 | Itihad Town - Rohri Goth | unverified | 37 | 0% | 0% | 68% | 5% | 22% | 2 | medium |
 | Private minibuses and coaches | X-10 | Itihad Town - Misri Shah | unverified | 20 | 0% | 5% | 65% | 0% | 25% | 1 | medium |
 | Private minibuses and coaches | X-23 | Fareed Colony - Hashim Goth | unverified | 24 | 0% | 0% | 71% | 4% | 21% | 1 | medium |
 | Private minibuses and coaches | Z-2 | Gulshan Ghazi - Khayaban-e-Shaheed | unverified | 15 | 0% | 0% | 73% | 0% | 27% | 0 | medium |
@@ -967,7 +967,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Private minibuses and coaches | 7-C | Bufferzone Gulzar-e-Madina Masjid - Dockyard | unverified | 23 | 0% | 0% | 74% | 0% | 26% | 0 | medium |
 | Private minibuses and coaches | 11-C | Azam Basti - Saadi Town | unverified | 22 | 0% | 9% | 82% | 5% | 5% | 0 | low |
 | Private minibuses and coaches | 20 | Baldia Town Sector 9-E - Shereen Jinnah Colony | unverified | 25 | 0% | 0% | 16% | 0% | 72% | 3 | medium |
-| Private minibuses and coaches | 51 | Thatta City - Lee Market | unverified | 32 | 0% | 3% | 66% | 3% | 28% | 0 | medium |
+| Private minibuses and coaches | 51 | Thatta City - Lee Market | unverified | 32 | 0% | 6% | 63% | 3% | 28% | 0 | medium |
 | Private minibuses and coaches | 55 | Memon Goth - Lee Market | unverified | 17 | 0% | 6% | 76% | 6% | 12% | 0 | medium |
 | Private minibuses and coaches | Marwat | Hawksbay Beach - Shireen Jinnah Colony | unverified | 48 | 0% | 6% | 88% | 2% | 4% | 0 | medium |
 | Private minibuses and coaches | Bilal | Itihad Town - BMDF Colony | unverified | 27 | 0% | 0% | 67% | 4% | 22% | 2 | medium |
@@ -997,7 +997,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Private minibuses and coaches | S-2 | Korangi Coast Guard - Godhra | unverified | 21 | 0% | 14% | 86% | 0% | 0% | 0 | medium |
 | Private minibuses and coaches | 4-H | 4K Chowrangi - Cantt station | unverified | 2 | 0% | 50% | 0% | 0% | 0% | 1 | low |
 | Private minibuses and coaches | Daata | KDA Flats- Surjani - Badar Commercial 26 Street | unverified | 23 | 0% | 17% | 83% | 0% | 0% | 0 | medium |
-| Private minibuses and coaches | D-10 | Korangi 100 Quarter - Taiser Town | unverified | 33 | 0% | 0% | 70% | 6% | 21% | 1 | low |
+| Private minibuses and coaches | D-10 | Korangi 100 Quarter - Taiser Town | unverified | 33 | 0% | 0% | 79% | 6% | 12% | 1 | low |
 | Private minibuses and coaches | F-16 | Qasba Colony - Machine Tool Factory | unverified | 31 | 0% | 26% | 61% | 0% | 13% | 0 | low |
 | Private minibuses and coaches | G-25 | Gulistan-e-johar No. 10 - Rasheedabad | unverified | 18 | 0% | 22% | 61% | 0% | 17% | 0 | low |
 | Private minibuses and coaches | Safari Coach | Maroora Goth - Mianwali | unverified | 28 | 0% | 4% | 82% | 0% | 11% | 1 | low |
@@ -1057,15 +1057,15 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Pink Bus (Peoples Bus Service, women-only) | R2 | Power House Chowrangi - Korangi Crossing (Pink) | operational | 19 | 68% | 21% | 11% | 0% | 0% | 0 | medium |
 | Pink Bus (Peoples Bus Service, women-only) | R3 | Power House Chowrangi - Nasir Jump (Pink) | operational | 21 | 57% | 14% | 29% | 0% | 0% | 0 | medium |
 | Pink Bus (Peoples Bus Service, women-only) | R9 | Gulshan-e-Hadeed - Tower (Pink) | operational | 35 | 63% | 11% | 26% | 0% | 0% | 0 | medium |
-| Pink Bus (Peoples Bus Service, women-only) | R10 | Numaish - Ibrahim Hyderi (Pink) | operational | 23 | 30% | 4% | 52% | 0% | 13% | 0 | medium |
+| Pink Bus (Peoples Bus Service, women-only) | R10 | Numaish - Ibrahim Hyderi (Pink) | operational | 23 | 30% | 4% | 57% | 0% | 9% | 0 | medium |
 | Pink Bus (Peoples Bus Service, women-only) | PINK-ACN | Abdullah Chowk - Numaish (Pink) | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
 | Yellow Line BRT direct and feeder services (planned) | YL-D1 | Numaish - Korangi Model Park | planned | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
 | Yellow Line BRT direct and feeder services (planned) | YL-D2 | Korangi Road - Chungi Stop | planned | 2 | 0% | 100% | 0% | 0% | 0% | 0 | low |
-| Yellow Line BRT direct and feeder services (planned) | YL-D4 | Siddiq Akbar Road - Ibrahim Hyderi | planned | 2 | 0% | 50% | 0% | 0% | 0% | 1 | low |
+| Yellow Line BRT direct and feeder services (planned) | YL-D4 | Siddiq Akbar Road - Ibrahim Hyderi | planned | 2 | 0% | 50% | 50% | 0% | 0% | 0 | low |
 | Yellow Line BRT direct and feeder services (planned) | YL-D5 | Syed Ammar Bukhari Road - 51/C Graveyard | planned | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
 | Yellow Line BRT direct and feeder services (planned) | YL-F1 | Dawood Chowrangi - Port Bin Qasim Mor | planned | 2 | 0% | 50% | 50% | 0% | 0% | 0 | low |
-| Yellow Line BRT direct and feeder services (planned) | YL-F2B | Dawood Chowrangi - Qasim Road / Mehran Highway intersection | planned | 2 | 0% | 50% | 0% | 0% | 0% | 1 | low |
-| Yellow Line BRT direct and feeder services (planned) | YL-F3 | Jinnah Airport Intersection - Murtaza Chowrangi | planned | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Yellow Line BRT direct and feeder services (planned) | YL-F2B | Dawood Chowrangi - Qasim Road / Mehran Highway intersection | planned | 2 | 0% | 50% | 50% | 0% | 0% | 0 | low |
+| Yellow Line BRT direct and feeder services (planned) | YL-F3 | Jinnah Airport Intersection - Murtaza Chowrangi | planned | 2 | 0% | 50% | 50% | 0% | 0% | 0 | low |
 
 ## Lahore
 
@@ -1923,10 +1923,9 @@ These routes have the most stops without a verified position. Adding real coordi
 | Shikarpur | Peoples Bus Service Sukkur-Shikarpur | SHIKARPUR | 14 | 8 | 4 |
 | Karachi | Minibus and coach routes (2010 list) | 5-C | 17 | 1 | 10 |
 | Karachi | Minibus and coach routes (2010 list) | 53-B | 13 | 6 | 5 |
-| Karachi | Minibus and coach routes (2010 list) | C-19 | 18 | 0 | 11 |
-| Karachi | Minibus and coach routes (2010 list) | D-29 | 21 | 2 | 9 |
 | Karachi | Minibus and coach routes (2010 list) | U-3 | 19 | 0 | 11 |
 | Karachi | Minibus and coach routes (2010 list) | 3 Star Coach | 12 | 3 | 7 |
+| Karachi | Minibus and coach routes (2010 list) | C-19 | 18 | 0 | 10 |
 | Karachi | Minibus and coach routes (2010 list) | D-18 | 16 | 2 | 8 |
 | Karachi | Minibus and coach routes (2010 list) | D-9 | 18 | 2 | 8 |
 | Karachi | Minibus and coach routes (2010 list) | Prime Coach | 16 | 1 | 9 |
@@ -1934,8 +1933,9 @@ These routes have the most stops without a verified position. Adding real coordi
 | Quetta | Green Bus Service Quetta (incl. Pink Bus) | GL-CARDIO | 13 | 7 | 3 |
 | Karachi | Minibus and coach routes (2010 list) | 51-A | 12 | 7 | 2 |
 | Karachi | Minibus and coach routes (2010 list) | 52-A | 16 | 0 | 9 |
-| Karachi | Minibus and coach routes (2010 list) | D-14 | 17 | 2 | 7 |
-| Karachi | Minibus and coach routes (2010 list) | W-35 | 17 | 2 | 7 |
+| Quetta | Green Bus Service Quetta (incl. Pink Bus) | GB-1 | 17 | 2 | 7 |
+| Lahore | Lahore city wagon / minibus routes (LOV) | LOV-103 | 16 | 3 | 5 |
+| Peshawar | Zu Peshawar (TransPeshawar BRT) | DR13 | 13 | 3 | 5 |
 
 ## Build warnings
 
@@ -1944,7 +1944,9 @@ These routes have the most stops without a verified position. Adding real coordi
 - intercity-geo-swat-express/SWAT-MINGORA: located stops are too close together to draw a line; listed as information only
 - intercity-silk-line/SL-LHR-JHANGRA: 1 stop(s) without coordinates are left out of the map
 - intercity-silk-line/SL-LHR-JHANGRA: fewer than 2 located stops, listed without a map line
-- karachi-chinchi/J-1: stops do not follow the routed shape in order; using straight segments
+- pakistan-railways/202DN: 2 stop(s) without coordinates are left out of the map
+- pakistan-railways/201UP: 2 stop(s) without coordinates are left out of the map
+- pakistan-railways/134DN: 1 stop(s) without coordinates are left out of the map
 - karachi-chinchi/M-5: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/MK 081: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/P-1: fewer than 2 located stops, listed without a map line
@@ -1958,15 +1960,16 @@ These routes have the most stops without a verified position. Adding real coordi
 - karachi-circular-railway/KCR-3DNDN: fewer than 2 located stops, listed without a map line
 - karachi-circular-railway/KCR-4DN: fewer than 2 located stops, listed without a map line
 - karachi-minibus-2010/1-C: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/1-F: 1 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/1-F: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/1-G: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/1-K: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/11: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/11-D: 1 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/11-D: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/13: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/13-B: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/16-F: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/16-F-2: 1 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/17-H: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/17-I: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/17-I-2: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/17-J: 2 stop(s) without coordinates are left out of the map
@@ -1975,13 +1978,17 @@ These routes have the most stops without a verified position. Adding real coordi
 - karachi-minibus-2010/18-K-2: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/22: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/22-A: 1 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/23-A: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/24: 2 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/3: 1 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/3: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/3 Star Coach: 3 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/4-B: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/4-C: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/4-D: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/4-F: 3 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/4-G: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/4-H: 1 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/4-J: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/4-K: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/4-N: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/4-P: 1 stop(s) without coordinates are left out of the map
@@ -1992,14 +1999,15 @@ These routes have the most stops without a verified position. Adding real coordi
 - karachi-minibus-2010/50-B: 6 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/50-C: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/51-A: 7 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/53: 4 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/53: 3 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/53-A: 7 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/53-B: 6 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/54: 4 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/54-A: 5 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/55-A: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/55-B: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/57-A: 1 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/57-A: 2 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/57-B: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/58-A: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/59: 6 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/59: fewer than 2 located stops, listed without a map line
@@ -2007,36 +2015,35 @@ These routes have the most stops without a verified position. Adding real coordi
 - karachi-minibus-2010/6-B: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/7-D: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/7-G: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/7-H: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/8-D: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/A-18: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/A-4: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Adam Coach: 2 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/Agroor Coach: 4 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/Agroor Coach: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Ailia Coach: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Al-Hadeed Coach: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Al-Rehman Coach: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Arain Coach: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Askari Coach: 3 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/Ayaz Coach: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Azmat Coach: 3 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/B-3: 3 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Baraq Coach: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/C-25: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/C-5: 3 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/City Coach: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/D-12: 3 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/D-12: 4 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/D-14: 2 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/D-17: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/D-18: 2 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/D-19: 1 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/D-19: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/D-2: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/D-22: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/D-25: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/D-29: 2 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/D-29: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/D-8: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/D-9: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Data Coach: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/Dawn Coach: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/F-13: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/F-15: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/F-17: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/F-2: 3 stop(s) without coordinates are left out of the map
@@ -2045,11 +2052,11 @@ These routes have the most stops without a verified position. Adding real coordi
 - karachi-minibus-2010/F-9: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Filly Coach: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/G-10: 2 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/G-12: 2 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/G-12: 3 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/G-14: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/G-21: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/G-5: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/G-8: 4 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/G-8: 3 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/G-9: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Ghulam Coach: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Gul Coach: 1 stop(s) without coordinates are left out of the map
@@ -2068,12 +2075,12 @@ These routes have the most stops without a verified position. Adding real coordi
 - karachi-minibus-2010/Khyber Coach: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/M-5: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Madina Coach: 2 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/Mehran Coach: 2 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/Mehran Coach: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/N-3: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/National Pakhtoon Coach: 2 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/National Pakhtoon Coach: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/New Five Star Coach: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/P-8: 3 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/P-9: 6 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/P-8: 1 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/P-9: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Prime Coach: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Q: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Qalandari Coach: 1 stop(s) without coordinates are left out of the map
@@ -2082,7 +2089,7 @@ These routes have the most stops without a verified position. Adding real coordi
 - karachi-minibus-2010/P-6: 5 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/P-7: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Rainbow Flying Coach: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/Razzak Coach: 2 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/Razzak Coach: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Rehman Coach: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/S-1: 4 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Qaumi Coach: 1 stop(s) without coordinates are left out of the map
@@ -2099,13 +2106,13 @@ These routes have the most stops without a verified position. Adding real coordi
 - karachi-minibus-2010/SPL-1: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/U-5: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/Tezro Coach: 1 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/U-1: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/U-10: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/U-7: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/U-8: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/V: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/V-1: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/V-2: 4 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/V-3: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/W: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/W-1: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/W-13: 1 stop(s) without coordinates are left out of the map
@@ -2119,12 +2126,11 @@ These routes have the most stops without a verified position. Adding real coordi
 - karachi-minibus-2010/W-8: 3 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/W-3: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/W-30: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/W-35: 2 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/W-35: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/X-11: 3 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/X-12: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/X-13: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/W-A: 2 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/X-24: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/X-25: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus/A-25: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus/D-11: 4 stop(s) without coordinates are left out of the map
@@ -2161,12 +2167,8 @@ These routes have the most stops without a verified position. Adding real coordi
 - karachi-minibus/D-10: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus/Safari Coach: 1 stop(s) without coordinates are left out of the map
 - karachi-pbs/EV-PLAN-ITTEHAD-CANTT: 1 stop(s) without coordinates are left out of the map
-- karachi-yellow-line-services/YL-D4: 1 stop(s) without coordinates are left out of the map
-- karachi-yellow-line-services/YL-D4: fewer than 2 located stops, listed without a map line
 - karachi-yellow-line-services/YL-D5: 2 stop(s) without coordinates are left out of the map
 - karachi-yellow-line-services/YL-D5: fewer than 2 located stops, listed without a map line
-- karachi-yellow-line-services/YL-F2B: 1 stop(s) without coordinates are left out of the map
-- karachi-yellow-line-services/YL-F2B: fewer than 2 located stops, listed without a map line
 - lahore-feeder/RT-22: 2 stop(s) without coordinates are left out of the map
 - lahore-feeder/RT-26: 1 stop(s) without coordinates are left out of the map
 - lahore-feeder/RT-29: 1 stop(s) without coordinates are left out of the map

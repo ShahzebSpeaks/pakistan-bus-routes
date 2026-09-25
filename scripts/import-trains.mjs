@@ -139,6 +139,10 @@ function buildRoute({ number, trainName, stops, rest, notes, sources, fromOffici
   };
 }
 
+// Trains the booking system did not return on any of the dates tried may be suspended.
+const notReturned = new Set(official?.not_returned || []);
+const datesTried = (official?.service_dates_queried || []).map((d) => String(d).split(' ')[0]).join(', ');
+
 let officialCount = 0;
 const routes = src.routes.map((r) => {
   const { train_number, fare_override, hours, stops, sources, notes, ...rest } = r;
@@ -146,10 +150,12 @@ const routes = src.routes.map((r) => {
   const trainName = r.id.replace(/^\S+\s+/, '');
   const off = officialStops(number);
   if (off) officialCount++;
+  const missing = !off && notReturned.has(number) && rest.status === 'operational';
   return buildRoute({
-    number, trainName, rest,
+    number, trainName,
+    rest: missing ? { ...rest, status: 'unverified' } : rest,
     stops: off ? off.stops : stops,
-    notes,
+    notes: missing ? [`Not in Pakistan Railways' booking schedule on ${datesTried}; it may be suspended or renumbered.`, notes].filter(Boolean).join(' ') : notes,
     sources: off ? [OFFICIAL_SOURCE, ...(sources || [])] : sources || [],
     fromOfficial: off?.date,
   });

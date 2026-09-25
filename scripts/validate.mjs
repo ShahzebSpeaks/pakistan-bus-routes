@@ -72,8 +72,19 @@ for (const { file, system: s } of loadSystems()) {
         if (!st.coord_source) warnings.push(`${sw}: coordinates without coord_source`);
         if (prev) {
           const d = haversine(prev.lat, prev.lon, st.lat, st.lon);
-          const limit = (s.mode === 'metro_rail' ? 5000 : s.mode === 'intercity_bus' || s.mode === 'rail' ? 400000 : 6000) * Math.max(1, i - prev.i);
-          if (d > limit) warnings.push(`${sw}: ${(d / 1000).toFixed(1)} km from previous located stop, check geocoding`);
+          const longDistance = s.mode === 'intercity_bus' || s.mode === 'rail';
+          if (longDistance) {
+            // Long non-stop legs are normal between towns; a stop that forces a big detour is not.
+            const next = r.stops.slice(i + 1).find((x) => x.lat != null && x.lon != null);
+            if (next) {
+              const direct = haversine(prev.lat, prev.lon, next.lat, next.lon);
+              const via = d + haversine(st.lat, st.lon, next.lat, next.lon);
+              if (via > direct * 1.6 + 50000) warnings.push(`${sw}: ${((via - direct) / 1000).toFixed(0)} km detour between its neighbours, check geocoding`);
+            }
+          } else {
+            const limit = (s.mode === 'metro_rail' ? 5000 : 6000) * Math.max(1, i - prev.i);
+            if (d > limit) warnings.push(`${sw}: ${(d / 1000).toFixed(1)} km from previous located stop, check geocoding`);
+          }
           // Two names for one place ("Golra Morh" / "Golra Morh Metro Station") is fine; unrelated names are not.
           const a = nameKey(st.name);
           const b = nameKey(r.stops[prev.i].name);
