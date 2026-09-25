@@ -706,6 +706,267 @@
         }
       ],
       "notes": "CDA code FRG-1. Mixed traffic along Srinagar Highway/Murree Road. Stops from CDA official timetable (PIMS->Barakahu, 10 stops); Safar adds G-7/G-8, Diplomatic Enclave and Bari Imam Link Road. CDA timetable 05:45-22:00, ~5 min headway."
+    },
+    {
+      "id": "RED-537",
+      "name": "Saddar - Faiz Ahmad Faiz (Red Line short service)",
+      "name_ur": "",
+      "variant": "brt",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 40,
+        "slabs": [],
+        "concessions": "Green Transport Card holders Rs 25 per trip (per news reports)",
+        "as_of": "2026-03-26",
+        "source_url": "https://www.24newshd.tv/14-Mar-2026/metro-bus-fare-races-33pc-across-punjab"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Saddar",
+          "name_ur": "",
+          "lat": 33.594161,
+          "lon": 73.056508,
+          "coord_source": "osm:node/9160047641",
+          "is_station": true
+        },
+        {
+          "name": "Marrir",
+          "name_ur": "",
+          "lat": 33.599724,
+          "lon": 73.062795,
+          "coord_source": "osm:node/9160047665",
+          "is_station": true
+        },
+        {
+          "name": "Liaquat Bagh",
+          "name_ur": "",
+          "lat": 33.605941,
+          "lon": 73.065774,
+          "coord_source": "osm:node/10827084437",
+          "is_station": true
+        },
+        {
+          "name": "Committee Chowk",
+          "name_ur": "",
+          "lat": 33.613865,
+          "lon": 73.065167,
+          "coord_source": "osm:node/9160047697",
+          "is_station": true
+        },
+        {
+          "name": "Waris Khan",
+          "name_ur": "",
+          "lat": 33.62079,
+          "lon": 73.066204,
+          "coord_source": "osm:node/9160047703",
+          "is_station": true
+        },
+        {
+          "name": "Chandni Chowk",
+          "name_ur": "",
+          "lat": 33.629854,
+          "lon": 73.071963,
+          "coord_source": "osm:node/9160141492",
+          "is_station": true
+        },
+        {
+          "name": "Rehmanabad",
+          "name_ur": "",
+          "lat": 33.636431,
+          "lon": 73.07509,
+          "coord_source": "osm:node/9160141507",
+          "is_station": true
+        },
+        {
+          "name": "6th Road",
+          "name_ur": "",
+          "lat": 33.643575,
+          "lon": 73.077806,
+          "coord_source": "osm:node/9160141512",
+          "is_station": true
+        },
+        {
+          "name": "Khatam-e-Nabuwat (Shamsabad)",
+          "name_ur": "",
+          "lat": 33.650635,
+          "lon": 73.080357,
+          "coord_source": "osm:node/9160142121",
+          "is_station": true
+        },
+        {
+          "name": "Faizabad",
+          "name_ur": "فیض آباد میٹرواسٹیشن",
+          "lat": 33.661442,
+          "lon": 73.08286,
+          "coord_source": "osm:node/9160142144",
+          "is_station": true
+        },
+        {
+          "name": "IJP Road",
+          "name_ur": "",
+          "lat": 33.656548,
+          "lon": 73.072009,
+          "coord_source": "osm:node/9160142162",
+          "is_station": true
+        },
+        {
+          "name": "Potohar",
+          "name_ur": "",
+          "lat": 33.660792,
+          "lon": 73.065674,
+          "coord_source": "osm:node/9160142177",
+          "is_station": true
+        },
+        {
+          "name": "Khayaban-e-Johar",
+          "name_ur": "",
+          "lat": 33.669059,
+          "lon": 73.059297,
+          "coord_source": "osm:node/9160142184",
+          "is_station": true
+        },
+        {
+          "name": "Faiz Ahmad Faiz",
+          "name_ur": "",
+          "lat": 33.675362,
+          "lon": 73.054531,
+          "coord_source": "osm:node/9160142199",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "high",
+      "sources": [
+        {
+          "title": "eTransit Punjab route planner, get-line-schedules (line 30, route 537), fetched 2026-09-25",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner",
+          "date": "2026-09-25"
+        }
+      ],
+      "notes": "New PMA route id 537 on line 'Red Line - PMBS', first seen in eTransit on 2026-09-25 (absent from the 2026-09-24 catalogue). The Saddar end of the Red Line, turning at Faiz Ahmad Faiz. Stops and OSM coordinates are copied from the existing RED route. eTransit names the Shamsabad station 'Khatam-e-Nabuwat'. eTransit lists Potohar before IJP going west, but its own coordinates and the RED route put IJP Road first, so the RED order is kept. The timetable showed only 2 departures (05:00, 05:01) on 2026-09-25, which looks like a placeholder; headway and hours left null."
+    },
+    {
+      "id": "RED-538",
+      "name": "Kashmir Highway - Pak Secretariat (Red Line short service)",
+      "name_ur": "",
+      "variant": "brt",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 3,
+      "hours": {
+        "start": "06:00",
+        "end": "06:45"
+      },
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 40,
+        "slabs": [],
+        "concessions": "Green Transport Card holders Rs 25 per trip (per news reports)",
+        "as_of": "2026-03-26",
+        "source_url": "https://www.24newshd.tv/14-Mar-2026/metro-bus-fare-races-33pc-across-punjab"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Kashmir Highway (Peshawar Morr)",
+          "name_ur": "",
+          "lat": 33.684608,
+          "lon": 73.047482,
+          "coord_source": "osm:node/10827084449",
+          "is_station": true
+        },
+        {
+          "name": "Chaman",
+          "name_ur": "",
+          "lat": 33.689876,
+          "lon": 73.042906,
+          "coord_source": "osm:node/9182481560",
+          "is_station": true
+        },
+        {
+          "name": "Ibn-e-Sina",
+          "name_ur": "",
+          "lat": 33.695756,
+          "lon": 73.038661,
+          "coord_source": "osm:node/9182481583",
+          "is_station": true
+        },
+        {
+          "name": "Katchery",
+          "name_ur": "",
+          "lat": 33.702306,
+          "lon": 73.041588,
+          "coord_source": "osm:node/9182481596",
+          "is_station": true
+        },
+        {
+          "name": "PIMS",
+          "name_ur": "",
+          "lat": 33.705988,
+          "lon": 73.048356,
+          "coord_source": "osm:node/9182481616",
+          "is_station": true
+        },
+        {
+          "name": "Stock Exchange",
+          "name_ur": "",
+          "lat": 33.711713,
+          "lon": 73.059323,
+          "coord_source": "osm:node/10826298884",
+          "is_station": true
+        },
+        {
+          "name": "7th Avenue",
+          "name_ur": "",
+          "lat": 33.718275,
+          "lon": 73.071825,
+          "coord_source": "osm:node/9182505876",
+          "is_station": true
+        },
+        {
+          "name": "Shaheed-e-Millat",
+          "name_ur": "",
+          "lat": 33.721598,
+          "lon": 73.078201,
+          "coord_source": "osm:node/10827084452",
+          "is_station": true
+        },
+        {
+          "name": "Parade Ground",
+          "name_ur": "",
+          "lat": 33.724801,
+          "lon": 73.084328,
+          "coord_source": "osm:node/9182505890",
+          "is_station": true
+        },
+        {
+          "name": "Pak Secretariat",
+          "name_ur": "",
+          "lat": 33.734623,
+          "lon": 73.092513,
+          "coord_source": "osm:node/10827084455",
+          "is_station": true
+        }
+      ],
+      "stops_confidence": "high",
+      "sources": [
+        {
+          "title": "eTransit Punjab route planner, get-line-schedules (line 30, route 538), fetched 2026-09-25",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner",
+          "date": "2026-09-25"
+        }
+      ],
+      "notes": "New PMA route id 538, first seen in eTransit on 2026-09-25. The Islamabad end of the Red Line. Stops and OSM coordinates copied from the existing RED route. On 2026-09-25 eTransit showed 16 departures from Kashmir Highway, 06:00-06:45, i.e. a morning peak shuttle; hours cover those departures only."
     }
   ]
 }

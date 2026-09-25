@@ -2,7 +2,7 @@
 
 Generated 2026-09-25 by `npm run data:build`. Do not edit by hand.
 
-**53 cities · 152 systems · 1626 published routes · 7544 stops**
+**54 cities · 153 systems · 1636 published routes · 7554 stops**
 
 Coordinate quality: **exact** = verified (OpenStreetMap element or Wikipedia, checked by a person), **guide** = position published by a route guide such as safar.fyi, **matched** = automatic OpenStreetMap name match, **geocoded** = Nominatim search, **estimated** = interpolated between neighbours, **missing** = not on the map yet.
 
@@ -1058,7 +1058,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Pink Bus (Peoples Bus Service, women-only) | R3 | Power House Chowrangi - Nasir Jump (Pink) | operational | 21 | 57% | 14% | 29% | 0% | 0% | 0 | medium |
 | Pink Bus (Peoples Bus Service, women-only) | R9 | Gulshan-e-Hadeed - Tower (Pink) | operational | 35 | 63% | 11% | 26% | 0% | 0% | 0 | medium |
 | Pink Bus (Peoples Bus Service, women-only) | R10 | Numaish - Ibrahim Hyderi (Pink) | operational | 23 | 30% | 4% | 57% | 0% | 9% | 0 | medium |
-| Pink Bus (Peoples Bus Service, women-only) | PINK-ACN | Abdullah Chowk - Numaish (Pink) | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Pink Bus (Peoples Bus Service, women-only) | PINK-ACN | Abdullah Chowk - Numaish (Pink, on Green Line BRT corridor) | unverified | 22 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Yellow Line BRT direct and feeder services (planned) | YL-D1 | Numaish - Korangi Model Park | planned | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
 | Yellow Line BRT direct and feeder services (planned) | YL-D2 | Korangi Road - Chungi Stop | planned | 2 | 0% | 100% | 0% | 0% | 0% | 0 | low |
 | Yellow Line BRT direct and feeder services (planned) | YL-D4 | Siddiq Akbar Road - Ibrahim Hyderi | planned | 2 | 0% | 50% | 50% | 0% | 0% | 0 | low |
@@ -1256,6 +1256,8 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Rawalpindi–Islamabad Metrobus | ORANGE | Faiz Ahmad Faiz (Peshawar Morr) - Islamabad International Airport | operational | 9 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Rawalpindi–Islamabad Metrobus | BLUE | PIMS - Gulberg (Koral) | operational | 15 | 13% | 47% | 33% | 0% | 7% | 0 | high |
 | Rawalpindi–Islamabad Metrobus | GREEN | PIMS - Bhara Kahu | operational | 10 | 20% | 40% | 40% | 0% | 0% | 0 | high |
+| Rawalpindi–Islamabad Metrobus | RED-537 | Saddar - Faiz Ahmad Faiz (Red Line short service) | operational | 14 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Rawalpindi–Islamabad Metrobus | RED-538 | Kashmir Highway - Pak Secretariat (Red Line short service) | operational | 10 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Islamabad Electric Feeder Buses (CDA) | FR-01 | Khanna Pul - NUST Metro Station (via I-8, I-9, I-10, I-11) | operational | 26 | 35% | 38% | 12% | 0% | 15% | 0 | high |
 | Islamabad Electric Feeder Buses (CDA) | FR-03A | PIMS Hospital - Saidpur Village (via F-8, Faisal Masjid, F-7) | operational | 15 | 20% | 80% | 0% | 0% | 0% | 0 | medium |
 | Islamabad Electric Feeder Buses (CDA) | FR-04 | PIMS Hospital - Bari Imam (via Aabpara, Diplomatic Enclave) | operational | 25 | 76% | 24% | 0% | 0% | 0% | 0 | high |
@@ -1281,6 +1283,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Islamabad Electric Feeder Buses (CDA) | ST-02 | PIMS - Capt. Naeem Tufail Shaheed Chowk via Shakarparian (weekend special) | operational | 19 | 5% | 89% | 0% | 0% | 0% | 1 | high |
 | Islamabad Electric Feeder Buses (CDA) | FR-02 | Sohan - AOU | unverified | 2 | 0% | 50% | 0% | 0% | 0% | 1 | low |
 | Islamabad Electric Feeder Buses (CDA) | FR-03B | PIMS Hospital - NL | unverified | 2 | 0% | 50% | 0% | 0% | 0% | 1 | low |
+| Islamabad Electric Feeder Buses (CDA) | PLAN-DD-TOUR | CDA electric double-decker sightseeing route (planned) | planned | 6 | 0% | 0% | 83% | 0% | 17% | 0 | low |
 | Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 1-C | Chungi No. 22 - Karachi Company | unverified | 23 | 43% | 0% | 30% | 0% | 26% | 0 | low |
 | Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 1-B | Saddar - Pak Secretariat | unverified | 37 | 30% | 0% | 27% | 0% | 43% | 0 | low |
 | Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 1-B-A | Mandi More - Secretariat | unverified | 10 | 70% | 0% | 20% | 0% | 10% | 0 | medium |
@@ -1399,6 +1402,10 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Zu Peshawar (TransPeshawar BRT) | DR14A | Board Bazar - Professor Model Town | operational | 13 | 8% | 0% | 23% | 15% | 54% | 0 | medium |
 | Zu Peshawar (TransPeshawar BRT) | XER15 | Chamkani - Mall of Hayatabad (Super Express) | operational | 6 | 100% | 0% | 0% | 0% | 0% | 0 | low |
 | Zu Peshawar (TransPeshawar BRT) | ER16 | Gulbahar Chowk - Nawab Market | operational | 15 | 100% | 0% | 0% | 0% | 0% | 0 | high |
+| Zu Peshawar (TransPeshawar BRT) | PLAN-JAMRUD | Mall of Hayatabad - Jamrud Bazaar (planned BRT extension) | planned | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Zu Peshawar (TransPeshawar BRT) | PLAN-BARA | Pishtakhara - Bara Bazaar via Bara Road (planned BRT extension) | planned | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
+| Zu Peshawar (TransPeshawar BRT) | PLAN-GBR-DABGARI | Gulbahar - Dabgari Garden (planned) | planned | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Zu Peshawar (TransPeshawar BRT) | PLAN-NAGUMAN | Shah Alam Pul - Naguman (planned, Charsadda Road) | planned | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
 
 ## Multan
 
@@ -1675,6 +1682,14 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | System | Route | Name | Status | Stops | Exact | Guide | Matched | Geocoded | Estimated | Missing | Stop list confidence |
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
 | Mardan Pink Bus (women only) | pink-bus-mdn | Baghdada Chowk - Abdul Wali Khan University Garden Campus | suspended | 16 | 0% | 0% | 63% | 6% | 31% | 0 | medium |
+
+## Muzaffarabad
+
+| System | Route | Name | Status | Stops | Exact | Guide | Matched | Geocoded | Estimated | Missing | Stop list confidence |
+|---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
+| Green Electric Bus Muzaffarabad | MZA-441 | Asgharabad to Industrial area via Gojra Bypass | operational | 2 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Green Electric Bus Muzaffarabad | MZA-442 | Asgharabad to Industrial Area via Bank Road | operational | 2 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Green Electric Bus Muzaffarabad | MZA-443 | Airport to Parking Area Chatter via Alamdar Chowk | operational | 2 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
 
 ## Attock
 
@@ -2302,6 +2317,10 @@ These routes have the most stops without a verified position. Adding real coordi
 - peshawar-zu-brt/ER12: 1 stop(s) without coordinates are left out of the map
 - peshawar-zu-brt/DR13: 3 stop(s) without coordinates are left out of the map
 - peshawar-zu-brt/DR14: 2 stop(s) without coordinates are left out of the map
+- peshawar-zu-brt/PLAN-BARA: 1 stop(s) without coordinates are left out of the map
+- peshawar-zu-brt/PLAN-BARA: fewer than 2 located stops, listed without a map line
+- peshawar-zu-brt/PLAN-NAGUMAN: 1 stop(s) without coordinates are left out of the map
+- peshawar-zu-brt/PLAN-NAGUMAN: fewer than 2 located stops, listed without a map line
 - multan-iptn-planned/IPTN-1: 1 stop(s) without coordinates are left out of the map
 - multan-iptn-planned/IPTN-3: 2 stop(s) without coordinates are left out of the map
 - multan-iptn-planned/IPTN-3: fewer than 2 located stops, listed without a map line

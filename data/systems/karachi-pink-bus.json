@@ -1296,7 +1296,7 @@
     },
     {
       "id": "PINK-ACN",
-      "name": "Abdullah Chowk - Numaish (Pink)",
+      "name": "Abdullah Chowk - Numaish (Pink, on Green Line BRT corridor)",
       "name_ur": "",
       "variant": "pink",
       "color": null,
@@ -1318,23 +1318,183 @@
         "source_url": "https://www.techjuice.pk/karachi-pink-bus-gets-new-route-timings-for-women/"
       },
       "women_only": true,
-      "stops_confidence": "low",
+      "stops_confidence": "medium",
       "stops": [
         {
-          "name": "Abdullah Chowk",
-          "name_ur": "",
+          "name": "Abdullah Chowk (Surjani Town)",
+          "name_ur": "عبدﷲ چوک اسٹیشن",
           "lat": 25.02355,
           "lon": 67.063646,
-          "coord_source": "manual",
-          "is_station": false
+          "coord_source": "osm:node/8637079791",
+          "is_station": true
+        },
+        {
+          "name": "KDA Flats (KDA Chowrangi)",
+          "name_ur": "کے ڈی اے چورنگی اسٹیشن",
+          "lat": 25.017359,
+          "lon": 67.064002,
+          "coord_source": "osm:node/8637079792",
+          "is_station": true
+        },
+        {
+          "name": "Karimi Chowrangi",
+          "name_ur": "کریمی چورنگی اسٹیشن",
+          "lat": 25.011084,
+          "lon": 67.064375,
+          "coord_source": "osm:node/8637079793",
+          "is_station": true
+        },
+        {
+          "name": "Surjani Chowrangi (4K Chowrangi)",
+          "name_ur": "سرجانی چورنگی اسٹیشن",
+          "lat": 25.005032,
+          "lon": 67.064732,
+          "coord_source": "osm:node/8637079794",
+          "is_station": true
+        },
+        {
+          "name": "2 Minute Chowrangi",
+          "name_ur": "منٹ چورنگی اسٹیشن  2",
+          "lat": 24.998514,
+          "lon": 67.065136,
+          "coord_source": "osm:node/8637079795",
+          "is_station": true
+        },
+        {
+          "name": "Road 2400 (Aisha Complex)",
+          "name_ur": "روڈ 2400 اسٹیشن",
+          "lat": 24.991787,
+          "lon": 67.065569,
+          "coord_source": "osm:node/8637079796",
+          "is_station": true
+        },
+        {
+          "name": "Power House Chowrangi",
+          "name_ur": "پاور ہاؤس چورنگی اسٹیشن",
+          "lat": 24.984011,
+          "lon": 67.066074,
+          "coord_source": "osm:node/8637079797",
+          "is_station": true
+        },
+        {
+          "name": "Road 4200 (Saleem Centre)",
+          "name_ur": "روڈ 4200 اسٹیشن",
+          "lat": 24.977929,
+          "lon": 67.066523,
+          "coord_source": "osm:node/8637079798",
+          "is_station": true
+        },
+        {
+          "name": "U.P. More",
+          "name_ur": "یو پی موڑ اسٹیشن",
+          "lat": 24.973482,
+          "lon": 67.066738,
+          "coord_source": "osm:node/8637079799",
+          "is_station": true
+        },
+        {
+          "name": "Nagan Chowrangi",
+          "name_ur": "ناگن چورنگی اسٹیشن",
+          "lat": 24.966413,
+          "lon": 67.066994,
+          "coord_source": "osm:node/8474862599",
+          "is_station": true
+        },
+        {
+          "name": "Erum Shopping Mall (Shadman No. 2)",
+          "name_ur": "ارم شاپنگ ایمپوریم اسٹیشن",
+          "lat": 24.958528,
+          "lon": 67.061544,
+          "coord_source": "osm:node/8474862581",
+          "is_station": true
+        },
+        {
+          "name": "Jummah Bazaar (Bayani Center)",
+          "name_ur": "جمعہ بازار اسٹیشن",
+          "lat": 24.950363,
+          "lon": 67.054377,
+          "coord_source": "osm:node/8474862580",
+          "is_station": true
+        },
+        {
+          "name": "Five Star Chowrangi",
+          "name_ur": "فائیو اسٹار چورنگی اسٹیشن",
+          "lat": 24.945573,
+          "lon": 67.05011,
+          "coord_source": "osm:node/8474862579",
+          "is_station": true
+        },
+        {
+          "name": "Hyderi",
+          "name_ur": "حیدری مارکیٹ اسٹیشن",
+          "lat": 24.937223,
+          "lon": 67.042694,
+          "coord_source": "osm:node/8474862578",
+          "is_station": true
+        },
+        {
+          "name": "Board Office",
+          "name_ur": "بورڈ آفش اسٹیشن",
+          "lat": 24.92662,
+          "lon": 67.033248,
+          "coord_source": "osm:node/8474862577",
+          "is_station": true
+        },
+        {
+          "name": "Annu Bhai Park (Baqai)",
+          "name_ur": "بقائی اسٹیشن",
+          "lat": 24.916922,
+          "lon": 67.031291,
+          "coord_source": "osm:node/8474880964",
+          "is_station": true
+        },
+        {
+          "name": "Enquiry Office (Model Park)",
+          "name_ur": "ماڈل پارک اسٹیشن",
+          "lat": 24.905817,
+          "lon": 67.030942,
+          "coord_source": "osm:node/8474880963",
+          "is_station": true
+        },
+        {
+          "name": "Nazimabad No. 1",
+          "name_ur": "ناظم آباد نمبر ۱ اسٹیشن",
+          "lat": 24.899756,
+          "lon": 67.030409,
+          "coord_source": "osm:node/8474880962",
+          "is_station": true
+        },
+        {
+          "name": "Sanitary Market (Gulbahar)",
+          "name_ur": "سینیٹری مارکیٹ اسٹیشن",
+          "lat": 24.894783,
+          "lon": 67.030704,
+          "coord_source": "osm:node/8474880961",
+          "is_station": true
+        },
+        {
+          "name": "Lasbela Chowk",
+          "name_ur": "لسبیلہ اسٹیشن",
+          "lat": 24.885755,
+          "lon": 67.034534,
+          "coord_source": "osm:node/8474880960",
+          "is_station": true
+        },
+        {
+          "name": "Patel Para (Guru Mandir)",
+          "name_ur": "پٹیل پاڑہ اسٹیشن",
+          "lat": 24.881269,
+          "lon": 67.03812,
+          "coord_source": "osm:node/8474880959",
+          "is_station": true
         },
         {
           "name": "Numaish",
-          "name_ur": "",
+          "name_ur": "نمائش",
           "lat": 24.872181,
           "lon": 67.035523,
-          "coord_source": "manual",
-          "is_station": false
+          "coord_source": "osm:node/8637095180",
+          "is_station": true
         }
       ],
       "sources": [
@@ -1361,9 +1521,24 @@
         {
           "title": "mnzil: BRT-Metro-Green-Line",
           "url": "https://mnzil.app/vehicles/BRT-Metro-Green-Line"
+        },
+        {
+          "title": "Karachi Expands Women-Only \"Pink Bus\" Service to Green Line Corridor",
+          "url": "https://www.pakwheels.com/blog/karachi-expands-women-only-pink-bus-service-to-green-line-corridor/",
+          "date": "2025-11-20"
+        },
+        {
+          "title": "کراچی، شرجیل میمن کا خواتین کیلئے پنک بس سروس کا نیا روٹ فعال کرنے کا اعلان",
+          "url": "https://www.express.pk/story/2787167/",
+          "date": "2025-11-15"
+        },
+        {
+          "title": "Sindh Government Decides to Launch Exclusive Bus Routes Under Public-Private Partnership (Express Urdu; mentions the Pink service on the Green Line BRT)",
+          "url": "https://www.express.pk/story/2821194/",
+          "date": "2026-07-08"
         }
       ],
-      "notes": "Announced by the Sindh Information Dept to start 17 Nov 2025; runs only in three windows: 08:00-09:00, 13:00-14:00 and 17:00-19:00. Fare quoted as Rs 50 although the general PBS fare is Rs 80/120 since Feb 2025 (possibly a stale figure). No code, intermediate stops or length published, and not shown in the SMTA 2026 directory, hence status 'unverified'. 'Abdullah Chowk' is probably the Surjani Town junction at the Green Line northern terminus (unverified); coordinates left null.\n\nTerminal positions set to the Green Line stations Abdullah Chowk and Numaish; intermediate stops unknown."
+      "notes": "Stops = the 22 Green Line BRT stations (copied with their OSM ids from data/systems/karachi-breeze.json GREEN). Abdullah Chowk - Numaish is exactly the Green Line corridor. PakWheels (20 Nov 2025) says the women-only Pink service was extended to the Green Line BRT corridor (it gives Numaish - Surjani Town, and Abdullah Chowk is the Surjani Town terminal). Express Urdu (8 Jul 2026) quotes Sharjeel Memon on the Pink bus service on the Green Line BRT. No source lists the Pink stops, so the assumption that Pink buses call at every Green Line station is an inference; hence stops_confidence medium and status still unverified. Windows 08-09, 13-14, 17-19 (Express Urdu 15 Nov 2025). Announced by the Sindh Information Dept to start 17 Nov 2025; runs only in three windows: 08:00-09:00, 13:00-14:00 and 17:00-19:00. Fare quoted as Rs 50 although the general PBS fare is Rs 80/120 since Feb 2025 (possibly a stale figure). No code, intermediate stops or length published, and not shown in the SMTA 2026 directory, hence status 'unverified'. 'Abdullah Chowk' is probably the Surjani Town junction at the Green Line northern terminus (unverified); coordinates left null.\n\nTerminal positions set to the Green Line stations Abdullah Chowk and Numaish; intermediate stops unknown."
     }
   ]
 }

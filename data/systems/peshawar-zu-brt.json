@@ -2828,6 +2828,195 @@
         }
       ],
       "notes": "Colour sampled from the legend of the official Zu network map (approximate hex). Express Route 16, started 18 Dec 2023 with 16 buses. Stop list matches ProPakistani (Gulbahar Chowk, Malik Saad Shaheed, Saddar, Tehkal Bala, Abdara, UoP, Board Bazar, MoH, Zarghoni Masjid, Malik Saad Market, Haji Camp, Madrassah, Phase 7 Terminal, Gol Chowk, Nawab Market) and the map."
+    },
+    {
+      "id": "PLAN-JAMRUD",
+      "name": "Mall of Hayatabad - Jamrud Bazaar (planned BRT extension)",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 5,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Mall of Hayatabad",
+          "name_ur": "",
+          "lat": 33.992025,
+          "lon": 71.461415,
+          "coord_source": "auto:same-name:osm:way/906519876",
+          "is_station": false
+        },
+        {
+          "name": "Jamrud Bazaar",
+          "name_ur": "",
+          "lat": 34.001508,
+          "lon": 71.383144,
+          "coord_source": "auto:osm:node/2612036701",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "KP to Add 50 Buses to Peshawar BRT for 5 New Routes",
+          "url": "https://propakistani.pk/2026/09/07/kp-to-add-50-buses-to-peshawar-brt-for-5-new-routes/",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "KPK Government decide to expand BRT Peshawar route (Express Urdu)",
+          "url": "https://www.express.pk/story/2795028/",
+          "date": "2026-01-06"
+        },
+        {
+          "title": "KP to Expand Peshawar BRT to Two More Tehsils",
+          "url": "https://propakistani.pk/2026/01/07/kp-to-expand-peshawar-brt-to-two-more-tehsils/",
+          "date": "2026-01-07"
+        }
+      ],
+      "notes": "Planned BRT extension into Khyber district. Jan 2026 briefing (Express Urdu, ProPakistani): Karkhano Market - Jamrud Bazaar, 5 km, 8 bus stops (unnamed). Sept 2026 list (ProPakistani) names it Mall of Hayatabad - Jamrud. Terminal-only; our id, not an official code. 12 m battery-electric buses planned."
+    },
+    {
+      "id": "PLAN-BARA",
+      "name": "Pishtakhara - Bara Bazaar via Bara Road (planned BRT extension)",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": 7,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Pishtakhara Chowk",
+          "name_ur": "",
+          "lat": 33.961087,
+          "lon": 71.504247,
+          "coord_source": "auto:nominatim:node/8538797383",
+          "is_station": false
+        },
+        {
+          "name": "Bara Bazaar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "KP to Add 50 Buses to Peshawar BRT for 5 New Routes",
+          "url": "https://propakistani.pk/2026/09/07/kp-to-add-50-buses-to-peshawar-brt-for-5-new-routes/",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "KPK Government decide to expand BRT Peshawar route (Express Urdu)",
+          "url": "https://www.express.pk/story/2795028/",
+          "date": "2026-01-06"
+        },
+        {
+          "title": "KP to Expand Peshawar BRT to Two More Tehsils",
+          "url": "https://propakistani.pk/2026/01/07/kp-to-expand-peshawar-brt-to-two-more-tehsils/",
+          "date": "2026-01-07"
+        }
+      ],
+      "notes": "Planned. Jan 2026 briefing: Pishtakhara - Bara Bazaar, 7 km, 10 bus stops (unnamed). Sept 2026: 'Pashtakhara to Bara Bazaar via Bara Road'. Terminal-only; our id."
+    },
+    {
+      "id": "PLAN-GBR-DABGARI",
+      "name": "Gulbahar - Dabgari Garden (planned)",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Gulbahar",
+          "name_ur": "",
+          "lat": 34.015507,
+          "lon": 71.591611,
+          "coord_source": "auto:same-name:osm:way/906506545",
+          "is_station": false
+        },
+        {
+          "name": "Dabgari Gardens",
+          "name_ur": "",
+          "lat": 34.005331,
+          "lon": 71.557011,
+          "coord_source": "auto:same-name:osm:way/906013661",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "KP to Add 50 Buses to Peshawar BRT for 5 New Routes",
+          "url": "https://propakistani.pk/2026/09/07/kp-to-add-50-buses-to-peshawar-brt-for-5-new-routes/",
+          "date": "2026-09-07"
+        }
+      ],
+      "notes": "Planned, one of 5 routes for 50 new e-buses (ProPakistani 7 Sep 2026). Terminal-only; our id."
+    },
+    {
+      "id": "PLAN-NAGUMAN",
+      "name": "Shah Alam Pul - Naguman (planned, Charsadda Road)",
+      "name_ur": "",
+      "variant": "feeder",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Shah Alam Pul",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Naguman",
+          "name_ur": "",
+          "lat": 34.123236,
+          "lon": 71.609392,
+          "coord_source": "auto:osm:way/28020297",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "KP to Add 50 Buses to Peshawar BRT for 5 New Routes",
+          "url": "https://propakistani.pk/2026/09/07/kp-to-add-50-buses-to-peshawar-brt-for-5-new-routes/",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "خیبرپختونخوا حکومت کا بی آر ٹی منصوبے کو مزید توسیع دینے کا فیصلہ (Express Urdu)",
+          "url": "https://www.express.pk/story/2747355/",
+          "date": "2025-02-11"
+        }
+      ],
+      "notes": "Planned. Feb 2025 (Express Urdu): feasibility for Shah Alam - Naguman on Charsadda Road; Sept 2026 (ProPakistani) lists Shah Alam Bridge - Naguman among 5 e-bus routes. Terminal-only; our id."
     }
   ]
 }

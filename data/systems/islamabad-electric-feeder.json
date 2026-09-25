@@ -4972,6 +4972,79 @@
         }
       ],
       "notes": "Legend text: 'PIMS Hospital to NL via Margalla Road & Pak Sec.'. 'NL' is not expanded on the map (it may be the National Library near Pak Secretariat, but this is unconfirmed). This route appears only in the legend of CDA transit maps V-07 and V-08. It is not in CDA's route table (cdaTransitMap, checked 2026-09-19), and there is no timetable PDF for it: FR-03B_Forward.pdf and FR-03B_Backward.pdf return 404. It may never have launched, or it may be planned. Stops are the two terminals as named in the legend; no stop list was found."
+    },
+    {
+      "id": "PLAN-DD-TOUR",
+      "name": "CDA electric double-decker sightseeing route (planned)",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Lake View Park",
+          "name_ur": "لیک ویو پارک",
+          "lat": 33.692477,
+          "lon": 73.121521,
+          "coord_source": "auto:osm:way/154459273",
+          "is_station": false
+        },
+        {
+          "name": "Shakarparian",
+          "name_ur": "شکرپڑیاں",
+          "lat": 33.690316,
+          "lon": 73.088217,
+          "coord_source": "auto:osm:node/13749742206",
+          "is_station": false
+        },
+        {
+          "name": "Pakistan Monument",
+          "name_ur": "پاکستان مونومنٹ",
+          "lat": 33.693408,
+          "lon": 73.068316,
+          "coord_source": "auto:osm:node/4662888047",
+          "is_station": false
+        },
+        {
+          "name": "Faisal Mosque",
+          "name_ur": "فیصل مسجد",
+          "lat": 33.715887,
+          "lon": 73.062678,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Daman-e-Koh",
+          "name_ur": "دامنِ کوہ",
+          "lat": 33.738367,
+          "lon": 73.05704,
+          "coord_source": "auto:osm:node/211325636",
+          "is_station": false
+        },
+        {
+          "name": "D-Chowk",
+          "name_ur": "ڈی چوک",
+          "lat": 33.729431,
+          "lon": 73.09316,
+          "coord_source": "auto:osm:way/1393065321",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "سی ڈی اے کا اسلام آباد میں الیکٹرک ڈبل ڈیکر بسیں متعارف کرانے کا فیصلہ (Express Urdu)",
+          "url": "https://www.express.pk/story/2834445/",
+          "date": "2026-09-24"
+        }
+      ],
+      "notes": "Announced by CDA on 24 Sep 2026 (Express Urdu): 90-passenger electric double-deckers linking 15+ recreational, historic and tourist sites. The six sites are the ones the article names, in the article's order; this is NOT a confirmed stop order. No launch date, fare or operator given. Our id."
     }
   ]
 }

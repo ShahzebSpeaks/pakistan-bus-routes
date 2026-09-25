@@ -1,0 +1,1409 @@
+{
+  "assignment": "press-video-round3",
+  "researched_on": "2026-09-25",
+  "systems": [
+    {
+      "id": "karachi-pink-bus",
+      "city": "karachi",
+      "name": "Pink Bus (Peoples Bus Service, women-only)",
+      "name_ur": "پنک بس",
+      "operator": "Sindh Mass Transit Authority; operated by NRTC",
+      "mode": "bus",
+      "website": "https://smta.gos.pk/route-map",
+      "helpline": "0800-07682",
+      "payment": "Cash on board; Sindh Mass Transit (Zindigi) card where enabled",
+      "fare_rules": {
+        "type": "distance_slab",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [
+          {
+            "up_to_km": 15,
+            "fare": 80
+          },
+          {
+            "up_to_km": null,
+            "fare": 120
+          }
+        ],
+        "concessions": "Girls under 5 free. Pink fare was Rs 50 in 2023-2024; rehbar.pk/redbus.shop say pink uses the same 80/120 slab since Feb 2025, but Nov 2025 news for the Abdullah Chowk route still quotes Rs 50.",
+        "as_of": "2025-02-01",
+        "source_url": "https://www.dawn.com/news/1888967"
+      },
+      "hours": {
+        "start": "07:00",
+        "end": "20:00",
+        "notes": "Varies by source: Zameen (2023) 07:00-20:00; redbus.shop peak hours only; Abdullah Chowk route 08-09, 13-14, 17-19."
+      },
+      "last_verified": "2026-09-16",
+      "sources": [
+        {
+          "title": "Karachi Bus Route Map",
+          "url": "https://smta.gos.pk/route-map",
+          "publisher": "Sindh Mass Transit Authority",
+          "date": "2026",
+          "official": true
+        },
+        {
+          "title": "Karachi Peoples Bus Service Routes & Timings",
+          "url": "https://rehbar.pk/info/karachi-peoples-bus-service-routes-and-timings/",
+          "publisher": "Rehbar",
+          "date": null,
+          "official": false
+        },
+        {
+          "title": "Govt Launches New Routes for Pink Bus Service in Karachi",
+          "url": "https://propakistani.pk/2024/04/15/govt-launches-new-routes-for-pink-bus-service-in-karachi/",
+          "publisher": "ProPakistani",
+          "date": "2024-04-15",
+          "official": false
+        },
+        {
+          "title": "Karachi Pink Bus service: new route, timings for women from Nov 17",
+          "url": "https://tribune.com.pk/story/2577568/karachi-pink-bus-gets-new-route-timings-for-women",
+          "publisher": "The Express Tribune",
+          "date": "2025-11-15",
+          "official": false
+        },
+        {
+          "title": "Pink Bus Service in Karachi: Route, Timings & More",
+          "url": "https://www.zameen.com/blog/peoples-pink-bus-service-karachi.html",
+          "publisher": "Zameen",
+          "date": "2023-03-06",
+          "official": false
+        },
+        {
+          "title": "Karachi Expands Women-Only Pink Bus Service to Green Line Corridor",
+          "url": "https://www.pakwheels.com/blog/karachi-expands-women-only-pink-bus-service-to-green-line-corridor/",
+          "publisher": "PakWheels Blog",
+          "date": "2025-11-20",
+          "official": false
+        }
+      ],
+      "routes": [
+        {
+          "id": "PINK-ACN",
+          "name": "Abdullah Chowk - Numaish (Pink, on Green Line BRT corridor)",
+          "name_ur": "",
+          "variant": "pink",
+          "color": null,
+          "status": "unverified",
+          "launched": "2025-11-17",
+          "length_km": null,
+          "headway_min": null,
+          "hours": {
+            "start": "08:00",
+            "end": "19:00"
+          },
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 50,
+            "slabs": [],
+            "concessions": "Girls under 5 free",
+            "as_of": "2025-11",
+            "source_url": "https://www.techjuice.pk/karachi-pink-bus-gets-new-route-timings-for-women/"
+          },
+          "women_only": true,
+          "stops_confidence": "medium",
+          "stops": [
+            {
+              "name": "Abdullah Chowk (Surjani Town)",
+              "name_ur": "عبدﷲ چوک اسٹیشن",
+              "lat": 25.02355,
+              "lon": 67.063646,
+              "coord_source": "osm:node/8637079791",
+              "is_station": true
+            },
+            {
+              "name": "KDA Flats (KDA Chowrangi)",
+              "name_ur": "کے ڈی اے چورنگی اسٹیشن",
+              "lat": 25.017359,
+              "lon": 67.064002,
+              "coord_source": "osm:node/8637079792",
+              "is_station": true
+            },
+            {
+              "name": "Karimi Chowrangi",
+              "name_ur": "کریمی چورنگی اسٹیشن",
+              "lat": 25.011084,
+              "lon": 67.064375,
+              "coord_source": "osm:node/8637079793",
+              "is_station": true
+            },
+            {
+              "name": "Surjani Chowrangi (4K Chowrangi)",
+              "name_ur": "سرجانی چورنگی اسٹیشن",
+              "lat": 25.005032,
+              "lon": 67.064732,
+              "coord_source": "osm:node/8637079794",
+              "is_station": true
+            },
+            {
+              "name": "2 Minute Chowrangi",
+              "name_ur": "منٹ چورنگی اسٹیشن  2",
+              "lat": 24.998514,
+              "lon": 67.065136,
+              "coord_source": "osm:node/8637079795",
+              "is_station": true
+            },
+            {
+              "name": "Road 2400 (Aisha Complex)",
+              "name_ur": "روڈ 2400 اسٹیشن",
+              "lat": 24.991787,
+              "lon": 67.065569,
+              "coord_source": "osm:node/8637079796",
+              "is_station": true
+            },
+            {
+              "name": "Power House Chowrangi",
+              "name_ur": "پاور ہاؤس چورنگی اسٹیشن",
+              "lat": 24.984011,
+              "lon": 67.066074,
+              "coord_source": "osm:node/8637079797",
+              "is_station": true
+            },
+            {
+              "name": "Road 4200 (Saleem Centre)",
+              "name_ur": "روڈ 4200 اسٹیشن",
+              "lat": 24.977929,
+              "lon": 67.066523,
+              "coord_source": "osm:node/8637079798",
+              "is_station": true
+            },
+            {
+              "name": "U.P. More",
+              "name_ur": "یو پی موڑ اسٹیشن",
+              "lat": 24.973482,
+              "lon": 67.066738,
+              "coord_source": "osm:node/8637079799",
+              "is_station": true
+            },
+            {
+              "name": "Nagan Chowrangi",
+              "name_ur": "ناگن چورنگی اسٹیشن",
+              "lat": 24.966413,
+              "lon": 67.066994,
+              "coord_source": "osm:node/8474862599",
+              "is_station": true
+            },
+            {
+              "name": "Erum Shopping Mall (Shadman No. 2)",
+              "name_ur": "ارم شاپنگ ایمپوریم اسٹیشن",
+              "lat": 24.958528,
+              "lon": 67.061544,
+              "coord_source": "osm:node/8474862581",
+              "is_station": true
+            },
+            {
+              "name": "Jummah Bazaar (Bayani Center)",
+              "name_ur": "جمعہ بازار اسٹیشن",
+              "lat": 24.950363,
+              "lon": 67.054377,
+              "coord_source": "osm:node/8474862580",
+              "is_station": true
+            },
+            {
+              "name": "Five Star Chowrangi",
+              "name_ur": "فائیو اسٹار چورنگی اسٹیشن",
+              "lat": 24.945573,
+              "lon": 67.05011,
+              "coord_source": "osm:node/8474862579",
+              "is_station": true
+            },
+            {
+              "name": "Hyderi",
+              "name_ur": "حیدری مارکیٹ اسٹیشن",
+              "lat": 24.937223,
+              "lon": 67.042694,
+              "coord_source": "osm:node/8474862578",
+              "is_station": true
+            },
+            {
+              "name": "Board Office",
+              "name_ur": "بورڈ آفش اسٹیشن",
+              "lat": 24.92662,
+              "lon": 67.033248,
+              "coord_source": "osm:node/8474862577",
+              "is_station": true
+            },
+            {
+              "name": "Annu Bhai Park (Baqai)",
+              "name_ur": "بقائی اسٹیشن",
+              "lat": 24.916922,
+              "lon": 67.031291,
+              "coord_source": "osm:node/8474880964",
+              "is_station": true
+            },
+            {
+              "name": "Enquiry Office (Model Park)",
+              "name_ur": "ماڈل پارک اسٹیشن",
+              "lat": 24.905817,
+              "lon": 67.030942,
+              "coord_source": "osm:node/8474880963",
+              "is_station": true
+            },
+            {
+              "name": "Nazimabad No. 1",
+              "name_ur": "ناظم آباد نمبر ۱ اسٹیشن",
+              "lat": 24.899756,
+              "lon": 67.030409,
+              "coord_source": "osm:node/8474880962",
+              "is_station": true
+            },
+            {
+              "name": "Sanitary Market (Gulbahar)",
+              "name_ur": "سینیٹری مارکیٹ اسٹیشن",
+              "lat": 24.894783,
+              "lon": 67.030704,
+              "coord_source": "osm:node/8474880961",
+              "is_station": true
+            },
+            {
+              "name": "Lasbela Chowk",
+              "name_ur": "لسبیلہ اسٹیشن",
+              "lat": 24.885755,
+              "lon": 67.034534,
+              "coord_source": "osm:node/8474880960",
+              "is_station": true
+            },
+            {
+              "name": "Patel Para (Guru Mandir)",
+              "name_ur": "پٹیل پاڑہ اسٹیشن",
+              "lat": 24.881269,
+              "lon": 67.03812,
+              "coord_source": "osm:node/8474880959",
+              "is_station": true
+            },
+            {
+              "name": "Numaish",
+              "name_ur": "نمائش",
+              "lat": 24.872181,
+              "lon": 67.035523,
+              "coord_source": "osm:node/8637095180",
+              "is_station": true
+            }
+          ],
+          "sources": [
+            {
+              "title": "Karachi Pink Bus service: new route, timings for women from Nov 17",
+              "url": "https://tribune.com.pk/story/2577568/karachi-pink-bus-gets-new-route-timings-for-women"
+            },
+            {
+              "title": "Karachi Pink Bus Gets New Route & Timings for Women",
+              "url": "https://www.techjuice.pk/karachi-pink-bus-gets-new-route-timings-for-women/"
+            },
+            {
+              "title": "Karachi Pink Bus service updates route and timings for women",
+              "url": "https://www.nation.com.pk/16-Nov-2025/karachi-pink-bus-service-updates-route-timings-women"
+            },
+            {
+              "title": "Habib University Karachi bus network (CC-BY-4.0): F-17",
+              "url": "https://doi.org/10.5281/zenodo.13951512"
+            },
+            {
+              "title": "Karachi Smart Transit System (MIT): Green",
+              "url": "https://github.com/FAST-Dev-Team-Semester-Projects"
+            },
+            {
+              "title": "mnzil: BRT-Metro-Green-Line",
+              "url": "https://mnzil.app/vehicles/BRT-Metro-Green-Line"
+            },
+            {
+              "title": "Karachi Expands Women-Only \"Pink Bus\" Service to Green Line Corridor",
+              "url": "https://www.pakwheels.com/blog/karachi-expands-women-only-pink-bus-service-to-green-line-corridor/",
+              "date": "2025-11-20"
+            },
+            {
+              "title": "کراچی، شرجیل میمن کا خواتین کیلئے پنک بس سروس کا نیا روٹ فعال کرنے کا اعلان",
+              "url": "https://www.express.pk/story/2787167/",
+              "date": "2025-11-15"
+            },
+            {
+              "title": "Sindh Government Decides to Launch Exclusive Bus Routes Under Public-Private Partnership (Express Urdu; mentions the Pink service on the Green Line BRT)",
+              "url": "https://www.express.pk/story/2821194/",
+              "date": "2026-07-08"
+            }
+          ],
+          "notes": "Stops = the 22 Green Line BRT stations (copied with their OSM ids from data/systems/karachi-breeze.json GREEN). Abdullah Chowk - Numaish is exactly the Green Line corridor. PakWheels (20 Nov 2025) says the women-only Pink service was extended to the Green Line BRT corridor (it gives Numaish - Surjani Town, and Abdullah Chowk is the Surjani Town terminal). Express Urdu (8 Jul 2026) quotes Sharjeel Memon on the Pink bus service on the Green Line BRT. No source lists the Pink stops, so the assumption that Pink buses call at every Green Line station is an inference; hence stops_confidence medium and status still unverified. Windows 08-09, 13-14, 17-19 (Express Urdu 15 Nov 2025). Announced by the Sindh Information Dept to start 17 Nov 2025; runs only in three windows: 08:00-09:00, 13:00-14:00 and 17:00-19:00. Fare quoted as Rs 50 although the general PBS fare is Rs 80/120 since Feb 2025 (possibly a stale figure). No code, intermediate stops or length published, and not shown in the SMTA 2026 directory, hence status 'unverified'. 'Abdullah Chowk' is probably the Surjani Town junction at the Green Line northern terminus (unverified); coordinates left null.\n\nTerminal positions set to the Green Line stations Abdullah Chowk and Numaish; intermediate stops unknown.",
+          "merge_action": "replace_existing"
+        }
+      ]
+    },
+    {
+      "id": "peshawar-zu-brt",
+      "city": "peshawar",
+      "name": "Zu Peshawar (TransPeshawar BRT)",
+      "name_ur": "زو پشاور",
+      "operator": "TransPeshawar (Urban Mobility Company), under KP Urban Mobility Authority",
+      "mode": "brt",
+      "website": "https://transpeshawar.pk",
+      "helpline": "091-111-477-477",
+      "payment": "Zu card (stored value; card price Rs400 from Dec 2024; recharge at stations, Zu mobile app, JazzCash, Easypaisa); single-journey ticket Rs70",
+      "fare_rules": {
+        "type": "distance_slab",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [
+          {
+            "up_to_km": 5,
+            "fare": 30
+          },
+          {
+            "up_to_km": 10,
+            "fare": 35
+          },
+          {
+            "up_to_km": 15,
+            "fare": 45
+          },
+          {
+            "up_to_km": 20,
+            "fare": 50
+          },
+          {
+            "up_to_km": 25,
+            "fare": 55
+          },
+          {
+            "up_to_km": 30,
+            "fare": 60
+          },
+          {
+            "up_to_km": 35,
+            "fare": 65
+          },
+          {
+            "up_to_km": 40,
+            "fare": 70
+          },
+          {
+            "up_to_km": null,
+            "fare": 70
+          }
+        ],
+        "concessions": "Single-journey ticket Rs70. Express buses running on feeder routes: flat Rs55. Senior citizens (60+) 50% with special card; children under 5 free with parents (2024 reports).",
+        "as_of": "2026-04",
+        "source_url": "https://transpeshawar.pk/wp-content/uploads/2026/04/TP-New-Fares.jpeg"
+      },
+      "hours": {
+        "start": "06:00",
+        "end": "22:00",
+        "notes": "Official operation-hours page: ~16 h/day 06:00-22:00; ER-01 last departure 20:30 (from 13 Jul 2026). Corridor headway reported 3 min peak / 5 min off-peak (Wikipedia)."
+      },
+      "last_verified": "2026-09-16",
+      "sources": [
+        {
+          "title": "Zu Route Maps",
+          "url": "https://transpeshawar.pk/passenger-services/zu-route-maps/",
+          "publisher": "TransPeshawar",
+          "date": "2025-06-18",
+          "official": true
+        },
+        {
+          "title": "Fares & Recharge (fare table image)",
+          "url": "https://transpeshawar.pk/passenger-services/fares-recharge/",
+          "publisher": "TransPeshawar",
+          "date": "2026-04-28",
+          "official": true
+        },
+        {
+          "title": "Operation Hours",
+          "url": "https://transpeshawar.pk/operation-hours/",
+          "publisher": "TransPeshawar",
+          "date": "2023-07-19",
+          "official": true
+        },
+        {
+          "title": "Peshawar ZU System",
+          "url": "https://transpeshawar.pk/services/peshawar-zu-system/",
+          "publisher": "TransPeshawar",
+          "date": "2023-07-19",
+          "official": true
+        },
+        {
+          "title": "TransPeshawar",
+          "url": "https://en.wikipedia.org/wiki/TransPeshawar",
+          "publisher": "Wikipedia",
+          "date": null,
+          "official": false
+        },
+        {
+          "title": "KP's mobility authority announces increase in Peshawar BRT card price",
+          "url": "https://english.aaj.tv/news/330394292/kps-mobility-authority-announces-increase-in-peshawar-brt-card-price",
+          "publisher": "Aaj News",
+          "date": "2024-12",
+          "official": false
+        },
+        {
+          "title": "Peshawar BRT fares increased by Rs5 per stop",
+          "url": "https://english.aaj.tv/news/330370404/peshawar-brt-fares-increased-by-rs5-per-stop",
+          "publisher": "Aaj News",
+          "date": "2024-07-19",
+          "official": false
+        },
+        {
+          "title": "BRT Peshawar to Start New Feeder Bus Routes",
+          "url": "https://propakistani.pk/2026/05/11/brt-peshawar-to-start-new-feeder-bus-routes/",
+          "publisher": "ProPakistani",
+          "date": "2026-05-11",
+          "official": false
+        },
+        {
+          "title": "52 New Buses for Peshawar BRT Ready for Shipment",
+          "url": "https://dgipr.kp.gov.pk/brt-7-1-26/",
+          "publisher": "DGIPR KP",
+          "date": "2026-07",
+          "official": true
+        }
+      ],
+      "routes": [
+        {
+          "id": "PLAN-JAMRUD",
+          "name": "Mall of Hayatabad - Jamrud Bazaar (planned BRT extension)",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 5,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Mall of Hayatabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jamrud Bazaar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "KP to Add 50 Buses to Peshawar BRT for 5 New Routes",
+              "url": "https://propakistani.pk/2026/09/07/kp-to-add-50-buses-to-peshawar-brt-for-5-new-routes/",
+              "date": "2026-09-07"
+            },
+            {
+              "title": "KPK Government decide to expand BRT Peshawar route (Express Urdu)",
+              "url": "https://www.express.pk/story/2795028/",
+              "date": "2026-01-06"
+            },
+            {
+              "title": "KP to Expand Peshawar BRT to Two More Tehsils",
+              "url": "https://propakistani.pk/2026/01/07/kp-to-expand-peshawar-brt-to-two-more-tehsils/",
+              "date": "2026-01-07"
+            }
+          ],
+          "notes": "Planned BRT extension into Khyber district. Jan 2026 briefing (Express Urdu, ProPakistani): Karkhano Market - Jamrud Bazaar, 5 km, 8 bus stops (unnamed). Sept 2026 list (ProPakistani) names it Mall of Hayatabad - Jamrud. Terminal-only; our id, not an official code. 12 m battery-electric buses planned."
+        },
+        {
+          "id": "PLAN-BARA",
+          "name": "Pishtakhara - Bara Bazaar via Bara Road (planned BRT extension)",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": 7,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Pishtakhara Chowk",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bara Bazaar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "KP to Add 50 Buses to Peshawar BRT for 5 New Routes",
+              "url": "https://propakistani.pk/2026/09/07/kp-to-add-50-buses-to-peshawar-brt-for-5-new-routes/",
+              "date": "2026-09-07"
+            },
+            {
+              "title": "KPK Government decide to expand BRT Peshawar route (Express Urdu)",
+              "url": "https://www.express.pk/story/2795028/",
+              "date": "2026-01-06"
+            },
+            {
+              "title": "KP to Expand Peshawar BRT to Two More Tehsils",
+              "url": "https://propakistani.pk/2026/01/07/kp-to-expand-peshawar-brt-to-two-more-tehsils/",
+              "date": "2026-01-07"
+            }
+          ],
+          "notes": "Planned. Jan 2026 briefing: Pishtakhara - Bara Bazaar, 7 km, 10 bus stops (unnamed). Sept 2026: 'Pashtakhara to Bara Bazaar via Bara Road'. Terminal-only; our id."
+        },
+        {
+          "id": "PLAN-GBR-DABGARI",
+          "name": "Gulbahar - Dabgari Garden (planned)",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Gulbahar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dabgari Gardens",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "KP to Add 50 Buses to Peshawar BRT for 5 New Routes",
+              "url": "https://propakistani.pk/2026/09/07/kp-to-add-50-buses-to-peshawar-brt-for-5-new-routes/",
+              "date": "2026-09-07"
+            }
+          ],
+          "notes": "Planned, one of 5 routes for 50 new e-buses (ProPakistani 7 Sep 2026). Terminal-only; our id."
+        },
+        {
+          "id": "PLAN-NAGUMAN",
+          "name": "Shah Alam Pul - Naguman (planned, Charsadda Road)",
+          "name_ur": "",
+          "variant": "feeder",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Shah Alam Pul",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Naguman",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "KP to Add 50 Buses to Peshawar BRT for 5 New Routes",
+              "url": "https://propakistani.pk/2026/09/07/kp-to-add-50-buses-to-peshawar-brt-for-5-new-routes/",
+              "date": "2026-09-07"
+            },
+            {
+              "title": "خیبرپختونخوا حکومت کا بی آر ٹی منصوبے کو مزید توسیع دینے کا فیصلہ (Express Urdu)",
+              "url": "https://www.express.pk/story/2747355/",
+              "date": "2025-02-11"
+            }
+          ],
+          "notes": "Planned. Feb 2025 (Express Urdu): feasibility for Shah Alam - Naguman on Charsadda Road; Sept 2026 (ProPakistani) lists Shah Alam Bridge - Naguman among 5 e-bus routes. Terminal-only; our id."
+        }
+      ]
+    },
+    {
+      "id": "muzaffarabad-electric-bus",
+      "city": "muzaffarabad",
+      "name": "Green Electric Bus Muzaffarabad",
+      "name_ur": "گرین الیکٹرک بس مظفرآباد",
+      "operator": "Listed by Punjab Masstransit Authority eTransit as 'PTC Electric Bus (MZA)' (Punjab-gifted e-buses; AJK Government service)",
+      "mode": "electric_bus",
+      "website": "https://etransit.punjab.gov.pk/public/route-planner",
+      "helpline": null,
+      "payment": "unknown",
+      "fare_rules": {
+        "type": "unknown",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "",
+        "as_of": null,
+        "source_url": null
+      },
+      "hours": {
+        "start": "06:00",
+        "end": "22:10",
+        "notes": "From eTransit timetables, 2026-09-25"
+      },
+      "sources": [
+        {
+          "title": "eTransit Punjab route planner (districts-with-lines; get-line-schedules)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner",
+          "publisher": "Punjab Masstransit Authority / PITB",
+          "date": "2026-09-25",
+          "official": true
+        },
+        {
+          "title": "AJK PM Gilani thanks Nawaz, Maryam for green buses for Muzaffarabad",
+          "url": "https://tribune.com.pk/story/2626412/ajk-pm-gilani-thanks-nawaz-maryam-for-green-buses-for-muzaffarabad",
+          "publisher": "The Express Tribune",
+          "date": "2026-08",
+          "official": false
+        },
+        {
+          "title": "وزیراعظم آزاد کشمیر افتخار گیلانی کا ... گرین بس سروس کا افتتاح کردیا",
+          "url": "https://wenews.pk/news/502764/",
+          "publisher": "WE News",
+          "date": null,
+          "official": false
+        }
+      ],
+      "routes": [
+        {
+          "id": "MZA-441",
+          "name": "Asgharabad to Industrial area via Gojra Bypass",
+          "name_ur": "",
+          "variant": "electric",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": 40,
+          "hours": {
+            "start": "06:00",
+            "end": "21:00"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Asgharabad",
+              "name_ur": "اصغرآباد",
+              "lat": 34.306892,
+              "lon": 73.481553,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/7667",
+              "is_station": false
+            },
+            {
+              "name": "Industrial Area Chehla",
+              "name_ur": "انڈسٹریل ایریا چھلہ",
+              "lat": 34.3985,
+              "lon": 73.473189,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/7669",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "eTransit Punjab route planner, get-line-schedules (line 71, route 441), fetched 2026-09-25",
+              "url": "https://etransit.punjab.gov.pk/public/route-planner",
+              "date": "2026-09-25"
+            }
+          ],
+          "notes": "Official PMA eTransit listing (line 71 'PTC Electric Bus (MZA)', district Muzaffarabad). eTransit lists only the two terminals; intermediate stops are not published. The route runs via Gojra Bypass. Timetable on 2026-09-25: 22 departures from the first terminal (06:00-20:00) and 23 from the other (06:20-21:00); hours = first to last departure. Coordinates are eTransit's own points (not OSM), as in punjab-round2. 'Industrial Area Chella' is spelled Chehla locally. Route id is ours (MZA- + eTransit route id)."
+        },
+        {
+          "id": "MZA-442",
+          "name": "Asgharabad to Industrial Area via Bank Road",
+          "name_ur": "",
+          "variant": "electric",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": 45,
+          "hours": {
+            "start": "06:00",
+            "end": "22:10"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Asgharabad",
+              "name_ur": "اصغرآباد",
+              "lat": 34.306892,
+              "lon": 73.481553,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/7667",
+              "is_station": false
+            },
+            {
+              "name": "Industrial Area Chehla",
+              "name_ur": "انڈسٹریل ایریا چھلہ",
+              "lat": 34.3985,
+              "lon": 73.473189,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/7669",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "eTransit Punjab route planner, get-line-schedules (line 71, route 442), fetched 2026-09-25",
+              "url": "https://etransit.punjab.gov.pk/public/route-planner",
+              "date": "2026-09-25"
+            }
+          ],
+          "notes": "Official PMA eTransit listing (line 71 'PTC Electric Bus (MZA)', district Muzaffarabad). eTransit lists only the two terminals; intermediate stops are not published. The route runs via Bank Road. Timetable on 2026-09-25: 21 departures from the first terminal (06:00-21:00) and 22 from the other (06:25-22:10); hours = first to last departure. Coordinates are eTransit's own points (not OSM), as in punjab-round2. 'Industrial Area Chella' is spelled Chehla locally. Route id is ours (MZA- + eTransit route id)."
+        },
+        {
+          "id": "MZA-443",
+          "name": "Airport to Parking Area Chatter via Alamdar Chowk",
+          "name_ur": "",
+          "variant": "electric",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": 25,
+          "hours": {
+            "start": "06:00",
+            "end": "20:50"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Muzaffarabad Airport",
+              "name_ur": "ایئرپورٹ مظفرآباد",
+              "lat": 34.342694,
+              "lon": 73.505006,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/7671",
+              "is_station": false
+            },
+            {
+              "name": "Parking Area Chattar",
+              "name_ur": "پارکنگ ایریا چھتر",
+              "lat": 34.345711,
+              "lon": 73.466317,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/7673",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "eTransit Punjab route planner, get-line-schedules (line 71, route 443), fetched 2026-09-25",
+              "url": "https://etransit.punjab.gov.pk/public/route-planner",
+              "date": "2026-09-25"
+            }
+          ],
+          "notes": "Official PMA eTransit listing (line 71 'PTC Electric Bus (MZA)', district Muzaffarabad). eTransit lists only the two terminals; intermediate stops are not published. The route runs via Alamdar Chowk. Timetable on 2026-09-25: 35 departures from the first terminal (06:00-20:10) and 36 from the other (06:15-20:50); hours = first to last departure. Coordinates are eTransit's own points (not OSM), as in punjab-round2. 'Industrial Area Chella' is spelled Chehla locally. Route id is ours (MZA- + eTransit route id)."
+        }
+      ]
+    },
+    {
+      "id": "isb-rwp-metrobus",
+      "city": "islamabad-rawalpindi",
+      "name": "Rawalpindi–Islamabad Metrobus",
+      "name_ur": "راولپنڈی اسلام آباد میٹرو بس",
+      "operator": "Punjab Masstransit Authority (Red Line); Capital Development Authority / Capital Mass Transit Authority (Orange, Blue, Green)",
+      "mode": "brt",
+      "website": "https://cmta.com.pk/",
+      "helpline": "051-111-222-627 (PMA Red Line); 051-2258066 (Islamabad Metro/CMTA)",
+      "payment": "Red/Orange: e-ticketing, single-journey token or rechargeable metro card; Blue/Green: CDA ticketing (cash/card)",
+      "fare_rules": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 50,
+        "slabs": [],
+        "concessions": "Applies to CDA lines (Orange, Blue, Green). CDA hike to Rs 100 announced 1 Jun 2025 was withdrawn on PM directive (Aaj, 4 Jun 2025), fare back to Rs 50. Red Line has its own fare (see route fare_override).",
+        "as_of": "2025-06-04",
+        "source_url": "https://english.aaj.tv/news/330418359/islamabad-withdraws-metro-bus-fare-hike-after-backlash"
+      },
+      "hours": {
+        "start": "06:00",
+        "end": "22:00",
+        "notes": "Red Line 06:30-22:00 (Safar); Wikipedia/INCPak quote 06:15-22:00; Blue/Green 05:45-22:00 per CDA timetables."
+      },
+      "last_verified": "2026-09-16",
+      "sources": [
+        {
+          "title": "Rawalpindi–Islamabad Metrobus",
+          "url": "https://en.wikipedia.org/wiki/Rawalpindi%E2%80%93Islamabad_Metrobus",
+          "publisher": "Wikipedia",
+          "date": null,
+          "official": false
+        },
+        {
+          "title": "CDA Transit Map - route details",
+          "url": "https://www.cda.gov.pk/cdaTransitMap",
+          "publisher": "Capital Development Authority",
+          "date": null,
+          "official": true
+        },
+        {
+          "title": "Metro Bus fare races up by 33pc across Punjab",
+          "url": "https://www.24newshd.tv/14-Mar-2026/metro-bus-fare-races-33pc-across-punjab",
+          "publisher": "24 News HD",
+          "date": "2026-03-14",
+          "official": false
+        },
+        {
+          "title": "Punjab Metro Bus Fare Hike to Rs. 40 from March 26",
+          "url": "https://www.pakwheels.com/blog/punjab-metro-bus-fare-hike-2026/",
+          "publisher": "PakWheels",
+          "date": "2026-03-17",
+          "official": false
+        },
+        {
+          "title": "Commuters in Islamabad hit hard as fare of CDA buses doubled",
+          "url": "https://www.dawn.com/news/1914820",
+          "publisher": "Dawn",
+          "date": "2025-06-01",
+          "official": false
+        },
+        {
+          "title": "Islamabad withdraws Metro bus fare hike after backlash",
+          "url": "https://english.aaj.tv/news/330418359/islamabad-withdraws-metro-bus-fare-hike-after-backlash",
+          "publisher": "Aaj English",
+          "date": "2025-06-04",
+          "official": false
+        },
+        {
+          "title": "Safar - Islamabad transit lines",
+          "url": "https://www.safar.fyi/map",
+          "publisher": "Safar",
+          "date": null,
+          "official": false
+        },
+        {
+          "title": "OSM Overpass extract (bbox 33.45,72.80,33.85,73.30)",
+          "url": "https://overpass-api.de/api/interpreter",
+          "publisher": "OpenStreetMap contributors",
+          "date": "2026-09-16",
+          "official": false
+        }
+      ],
+      "routes": [
+        {
+          "id": "RED-537",
+          "name": "Saddar - Faiz Ahmad Faiz (Red Line short service)",
+          "name_ur": "",
+          "variant": "brt",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 40,
+            "slabs": [],
+            "concessions": "Green Transport Card holders Rs 25 per trip (per news reports)",
+            "as_of": "2026-03-26",
+            "source_url": "https://www.24newshd.tv/14-Mar-2026/metro-bus-fare-races-33pc-across-punjab"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Saddar",
+              "name_ur": "",
+              "lat": 33.594161,
+              "lon": 73.056508,
+              "coord_source": "osm:node/9160047641",
+              "is_station": true
+            },
+            {
+              "name": "Marrir",
+              "name_ur": "",
+              "lat": 33.599724,
+              "lon": 73.062795,
+              "coord_source": "osm:node/9160047665",
+              "is_station": true
+            },
+            {
+              "name": "Liaquat Bagh",
+              "name_ur": "",
+              "lat": 33.605941,
+              "lon": 73.065774,
+              "coord_source": "osm:node/10827084437",
+              "is_station": true
+            },
+            {
+              "name": "Committee Chowk",
+              "name_ur": "",
+              "lat": 33.613865,
+              "lon": 73.065167,
+              "coord_source": "osm:node/9160047697",
+              "is_station": true
+            },
+            {
+              "name": "Waris Khan",
+              "name_ur": "",
+              "lat": 33.62079,
+              "lon": 73.066204,
+              "coord_source": "osm:node/9160047703",
+              "is_station": true
+            },
+            {
+              "name": "Chandni Chowk",
+              "name_ur": "",
+              "lat": 33.629854,
+              "lon": 73.071963,
+              "coord_source": "osm:node/9160141492",
+              "is_station": true
+            },
+            {
+              "name": "Rehmanabad",
+              "name_ur": "",
+              "lat": 33.636431,
+              "lon": 73.07509,
+              "coord_source": "osm:node/9160141507",
+              "is_station": true
+            },
+            {
+              "name": "6th Road",
+              "name_ur": "",
+              "lat": 33.643575,
+              "lon": 73.077806,
+              "coord_source": "osm:node/9160141512",
+              "is_station": true
+            },
+            {
+              "name": "Khatam-e-Nabuwat (Shamsabad)",
+              "name_ur": "",
+              "lat": 33.650635,
+              "lon": 73.080357,
+              "coord_source": "osm:node/9160142121",
+              "is_station": true
+            },
+            {
+              "name": "Faizabad",
+              "name_ur": "فیض آباد میٹرواسٹیشن",
+              "lat": 33.661442,
+              "lon": 73.08286,
+              "coord_source": "osm:node/9160142144",
+              "is_station": true
+            },
+            {
+              "name": "IJP Road",
+              "name_ur": "",
+              "lat": 33.656548,
+              "lon": 73.072009,
+              "coord_source": "osm:node/9160142162",
+              "is_station": true
+            },
+            {
+              "name": "Potohar",
+              "name_ur": "",
+              "lat": 33.660792,
+              "lon": 73.065674,
+              "coord_source": "osm:node/9160142177",
+              "is_station": true
+            },
+            {
+              "name": "Khayaban-e-Johar",
+              "name_ur": "",
+              "lat": 33.669059,
+              "lon": 73.059297,
+              "coord_source": "osm:node/9160142184",
+              "is_station": true
+            },
+            {
+              "name": "Faiz Ahmad Faiz",
+              "name_ur": "",
+              "lat": 33.675362,
+              "lon": 73.054531,
+              "coord_source": "osm:node/9160142199",
+              "is_station": true
+            }
+          ],
+          "stops_confidence": "high",
+          "sources": [
+            {
+              "title": "eTransit Punjab route planner, get-line-schedules (line 30, route 537), fetched 2026-09-25",
+              "url": "https://etransit.punjab.gov.pk/public/route-planner",
+              "date": "2026-09-25"
+            }
+          ],
+          "notes": "New PMA route id 537 on line 'Red Line - PMBS', first seen in eTransit on 2026-09-25 (absent from the 2026-09-24 catalogue). The Saddar end of the Red Line, turning at Faiz Ahmad Faiz. Stops and OSM coordinates are copied from the existing RED route. eTransit names the Shamsabad station 'Khatam-e-Nabuwat'. eTransit lists Potohar before IJP going west, but its own coordinates and the RED route put IJP Road first, so the RED order is kept. The timetable showed only 2 departures (05:00, 05:01) on 2026-09-25, which looks like a placeholder; headway and hours left null."
+        },
+        {
+          "id": "RED-538",
+          "name": "Kashmir Highway - Pak Secretariat (Red Line short service)",
+          "name_ur": "",
+          "variant": "brt",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": 3,
+          "hours": {
+            "start": "06:00",
+            "end": "06:45"
+          },
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 40,
+            "slabs": [],
+            "concessions": "Green Transport Card holders Rs 25 per trip (per news reports)",
+            "as_of": "2026-03-26",
+            "source_url": "https://www.24newshd.tv/14-Mar-2026/metro-bus-fare-races-33pc-across-punjab"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Kashmir Highway (Peshawar Morr)",
+              "name_ur": "",
+              "lat": 33.684608,
+              "lon": 73.047482,
+              "coord_source": "osm:node/10827084449",
+              "is_station": true
+            },
+            {
+              "name": "Chaman",
+              "name_ur": "",
+              "lat": 33.689876,
+              "lon": 73.042906,
+              "coord_source": "osm:node/9182481560",
+              "is_station": true
+            },
+            {
+              "name": "Ibn-e-Sina",
+              "name_ur": "",
+              "lat": 33.695756,
+              "lon": 73.038661,
+              "coord_source": "osm:node/9182481583",
+              "is_station": true
+            },
+            {
+              "name": "Katchery",
+              "name_ur": "",
+              "lat": 33.702306,
+              "lon": 73.041588,
+              "coord_source": "osm:node/9182481596",
+              "is_station": true
+            },
+            {
+              "name": "PIMS",
+              "name_ur": "",
+              "lat": 33.705988,
+              "lon": 73.048356,
+              "coord_source": "osm:node/9182481616",
+              "is_station": true
+            },
+            {
+              "name": "Stock Exchange",
+              "name_ur": "",
+              "lat": 33.711713,
+              "lon": 73.059323,
+              "coord_source": "osm:node/10826298884",
+              "is_station": true
+            },
+            {
+              "name": "7th Avenue",
+              "name_ur": "",
+              "lat": 33.718275,
+              "lon": 73.071825,
+              "coord_source": "osm:node/9182505876",
+              "is_station": true
+            },
+            {
+              "name": "Shaheed-e-Millat",
+              "name_ur": "",
+              "lat": 33.721598,
+              "lon": 73.078201,
+              "coord_source": "osm:node/10827084452",
+              "is_station": true
+            },
+            {
+              "name": "Parade Ground",
+              "name_ur": "",
+              "lat": 33.724801,
+              "lon": 73.084328,
+              "coord_source": "osm:node/9182505890",
+              "is_station": true
+            },
+            {
+              "name": "Pak Secretariat",
+              "name_ur": "",
+              "lat": 33.734623,
+              "lon": 73.092513,
+              "coord_source": "osm:node/10827084455",
+              "is_station": true
+            }
+          ],
+          "stops_confidence": "high",
+          "sources": [
+            {
+              "title": "eTransit Punjab route planner, get-line-schedules (line 30, route 538), fetched 2026-09-25",
+              "url": "https://etransit.punjab.gov.pk/public/route-planner",
+              "date": "2026-09-25"
+            }
+          ],
+          "notes": "New PMA route id 538, first seen in eTransit on 2026-09-25. The Islamabad end of the Red Line. Stops and OSM coordinates copied from the existing RED route. On 2026-09-25 eTransit showed 16 departures from Kashmir Highway, 06:00-06:45, i.e. a morning peak shuttle; hours cover those departures only."
+        }
+      ]
+    },
+    {
+      "id": "islamabad-electric-feeder",
+      "city": "islamabad-rawalpindi",
+      "name": "Islamabad Electric Feeder Buses (CDA)",
+      "name_ur": "",
+      "operator": "Capital Development Authority / Capital Mass Transit Authority",
+      "mode": "electric_bus",
+      "website": "https://www.cda.gov.pk/cdaTransitMap",
+      "helpline": "051-2258066",
+      "payment": "Cash / CDA card (KentKart-based ticketing announced); unverified",
+      "fare_rules": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 50,
+        "slabs": [],
+        "concessions": "Rs 100 hike of 1 Jun 2025 withdrawn 4 Jun 2025. Student/senior concessions unverified.",
+        "as_of": "2025-06-04",
+        "source_url": "https://english.aaj.tv/news/330418359/islamabad-withdraws-metro-bus-fare-hike-after-backlash"
+      },
+      "hours": {
+        "start": "06:00",
+        "end": "22:00",
+        "notes": "Per-route CDA timetables; inter-city routes FR-12/FR-13 end ~19:00; ST routes weekends only."
+      },
+      "last_verified": "2026-09-16",
+      "sources": [
+        {
+          "title": "CDA Transit Map - route details (route table + timetable PDFs)",
+          "url": "https://www.cda.gov.pk/cdaTransitMap",
+          "publisher": "Capital Development Authority",
+          "date": null,
+          "official": true
+        },
+        {
+          "title": "Transit Map of Islamabad V-08",
+          "url": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-08.pdf",
+          "publisher": "Capital Development Authority",
+          "date": "2025-10-24",
+          "official": true
+        },
+        {
+          "title": "Electric buses start operation on two routes in Islamabad today",
+          "url": "https://www.dawn.com/news/1844101",
+          "publisher": "Dawn",
+          "date": "2024-07-06",
+          "official": false
+        },
+        {
+          "title": "Electric buses on two more routes from next week",
+          "url": "https://www.dawn.com/news/1851233",
+          "publisher": "Dawn",
+          "date": "2024-08-10",
+          "official": false
+        },
+        {
+          "title": "Five new routes approved for metro buses in Islamabad",
+          "url": "https://www.dawn.com/news/1880623/five-new-routes-approved-for-metro-buses-in-islamabad",
+          "publisher": "Dawn",
+          "date": "2024-12-24",
+          "official": false
+        },
+        {
+          "title": "Hassanabdal-Islamabad electric bus service launched",
+          "url": "https://www.dawn.com/news/1898535",
+          "publisher": "Dawn",
+          "date": "2025-03-18",
+          "official": false
+        },
+        {
+          "title": "Electric bus service starts between Fatehjang and Islamabad",
+          "url": "https://www.dawn.com/news/1899679",
+          "publisher": "Dawn",
+          "date": "2025-03-23",
+          "official": false
+        },
+        {
+          "title": "Islamabad withdraws Metro bus fare hike after backlash",
+          "url": "https://english.aaj.tv/news/330418359/islamabad-withdraws-metro-bus-fare-hike-after-backlash",
+          "publisher": "Aaj English",
+          "date": "2025-06-04",
+          "official": false
+        },
+        {
+          "title": "Safar - Islamabad transit lines",
+          "url": "https://www.safar.fyi/map",
+          "publisher": "Safar",
+          "date": null,
+          "official": false
+        }
+      ],
+      "routes": [
+        {
+          "id": "PLAN-DD-TOUR",
+          "name": "CDA electric double-decker sightseeing route (planned)",
+          "name_ur": "",
+          "variant": "electric",
+          "color": null,
+          "status": "planned",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Lake View Park",
+              "name_ur": "لیک ویو پارک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shakarparian",
+              "name_ur": "شکرپڑیاں",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Pakistan Monument",
+              "name_ur": "پاکستان مونومنٹ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Faisal Mosque",
+              "name_ur": "فیصل مسجد",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Daman-e-Koh",
+              "name_ur": "دامنِ کوہ",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "D-Chowk",
+              "name_ur": "ڈی چوک",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "سی ڈی اے کا اسلام آباد میں الیکٹرک ڈبل ڈیکر بسیں متعارف کرانے کا فیصلہ (Express Urdu)",
+              "url": "https://www.express.pk/story/2834445/",
+              "date": "2026-09-24"
+            }
+          ],
+          "notes": "Announced by CDA on 24 Sep 2026 (Express Urdu): 90-passenger electric double-deckers linking 15+ recreational, historic and tourist sites. The six sites are the ones the article names, in the article's order; this is NOT a confirmed stop order. No launch date, fare or operator given. Our id."
+        }
+      ]
+    }
+  ],
+  "corroboration": [
+    {
+      "system": "karachi-pbs",
+      "route_id": "R14",
+      "note": "Express Urdu (17 Mar 2026) on the Gulshan-e-Maymar - Tower EV launch: 12 buses via Sohrab Goth, Water Pump, Teen Hatti and M.A. Jinnah Road. Agrees with the existing R14; no change.",
+      "url": "https://www.express.pk/story/2804652/",
+      "date": "2026-03-17"
+    },
+    {
+      "system": "sukkur-pbs / shikarpur-pbs / hyderabad-pbs / khairpur-pbs",
+      "note": "Express Urdu (14 Apr 2026): Sukkur-Shikarpur PBS to start the following week; Hyder Chowk-Kohsar and Hyderabad-Tando Allahyar 'soon'; Khairpur-Rohri and Khairpur-Ranipur next. All already represented in data/systems (SHIKARPUR, HYD-03 suspended, HYD-02, KHAIRPUR-01/02).",
+      "url": "https://www.express.pk/story/2808452/",
+      "date": "2026-04-14"
+    },
+    {
+      "system": "karachi-chinchi",
+      "note": "Express Urdu (19 Jan 2026): SHC hearing on the Chingchi ban. The Commissioner Karachi first banned Chingchis on 12 roads, then amended the notification to 30; about 60,000 Chingchis in the city. The notifications list banned roads, not Chingchi routes.",
+      "url": "https://www.express.pk/story/2797005/",
+      "date": "2026-01-19"
+    },
+    {
+      "system": "abbottabad (no system)",
+      "note": "'Pink and Blue Suzuki service' (Hazara Express News, 1 Sep 2026): Traffic Police check vehicles for the prescribed colour and a pink or blue ribbon, with checkpoints on Mandian Road. Social posts describe pink as women/families and blue as men. This is separate from the July 2026 route-specific colour stickers (APP). No route list published.",
+      "url": "https://hazaraexpressnews.org/7767/",
+      "date": "2026-09-01"
+    },
+    {
+      "system": "peshawar-zu-brt",
+      "note": "Express Urdu (6 Jan 2026): BRT has 18 routes totalling 132 km; 52 hybrid and 50 electric buses to be added. Express Urdu (3 Mar 2025): 504 permit-holder buses/wagons on BRT routes were compensated; no list published.",
+      "url": "https://www.express.pk/story/2795028/",
+      "date": "2026-01-06"
+    },
+    {
+      "system": "quetta-green-bus",
+      "note": "DGPR Balochistan (YouTube, 23 Apr 2026): Green Bus service started from Quetta city to the NUST Balochistan campus after student demand; first 2 buses. No terminals or stops named, so not added.",
+      "url": "https://www.youtube.com/watch?v=ndYArht80_M",
+      "date": "2026-04-23"
+    },
+    {
+      "system": "turbat-green-bus",
+      "note": "DGPR Balochistan (YouTube, 8-9 Mar 2026): 4 buses, 19 km, 18 bus stations; no station names. TBT-1 stays stopless.",
+      "url": "https://www.youtube.com/watch?v=zD9N22VdeZI",
+      "date": "2026-03-09"
+    },
+    {
+      "system": "punjab e-bus systems",
+      "note": "All 61 eTransit routes on the 23 Punjab district lines that punjab-round2 did not fetch (Attock ... Vehari, incl. Murree) match existing data/systems routes at 40-100% stop overlap (most 85-100%); no missing Punjab e-bus routes. Lowest overlaps, worth a re-check: muzaffargarh jhang-mor-to-turkey-hospital (0.40), railway-phattak loop (0.41), chakwal tehsil-chowk-to-balkasar (0.55), gbs-rajanpur-to-hajipur (0.62).",
+      "url": "https://etransit.punjab.gov.pk/public/route-planner",
+      "date": "2026-09-25"
+    }
+  ],
+  "open_questions": [
+    "Muzaffarabad: intermediate stops of MZA-441/442/443 are not in eTransit; ask PMA / AJK Transport. Fare not published.",
+    "Karachi PINK-ACN: confirm that the Pink buses call at all 22 Green Line stations (SMTA helpline 0800-07682).",
+    "Karachi Chinchi M-5, MK 081, P-1 and the three ARY-2018 Qingqi routes: still no stop lists in Urdu press or YouTube.",
+    "Abbottabad route-specific Suzuki colour stickers (July 2026): no route or colour list published.",
+    "Peshawar planned BRT extensions: stop names (8 on Jamrud, 10 on Bara) and the terminal of the Kohat Adda extension.",
+    "Private wagon/Qingqi routes for Peshawar, Multan, Sialkot, Sukkur and Hyderabad: none found in Urdu press.",
+    "Islamabad double-decker: actual stop order and launch date.",
+    "RED-537 timetable looked like a placeholder on 2026-09-25; re-check eTransit in October."
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "muzaffarabad-electric-bus",
+  "city": "muzaffarabad",
+  "name": "Green Electric Bus Muzaffarabad",
+  "name_ur": "گرین الیکٹرک بس مظفرآباد",
+  "operator": "Listed by Punjab Masstransit Authority eTransit as 'PTC Electric Bus (MZA)' (Punjab-gifted e-buses; AJK Government service)",
+  "mode": "electric_bus",
+  "website": "https://etransit.punjab.gov.pk/public/route-planner",
+  "helpline": null,
+  "payment": "unknown",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": "06:00",
+    "end": "22:10",
+    "notes": "From eTransit timetables, 2026-09-25"
+  },
+  "sources": [
+    {
+      "title": "eTransit Punjab route planner (districts-with-lines; get-line-schedules)",
+      "url": "https://etransit.punjab.gov.pk/public/route-planner",
+      "publisher": "Punjab Masstransit Authority / PITB",
+      "date": "2026-09-25",
+      "official": true
+    },
+    {
+      "title": "AJK PM Gilani thanks Nawaz, Maryam for green buses for Muzaffarabad",
+      "url": "https://tribune.com.pk/story/2626412/ajk-pm-gilani-thanks-nawaz-maryam-for-green-buses-for-muzaffarabad",
+      "publisher": "The Express Tribune",
+      "date": "2026-08",
+      "official": false
+    },
+    {
+      "title": "وزیراعظم آزاد کشمیر افتخار گیلانی کا ... گرین بس سروس کا افتتاح کردیا",
+      "url": "https://wenews.pk/news/502764/",
+      "publisher": "WE News",
+      "date": null,
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "MZA-441",
+      "name": "Asgharabad to Industrial area via Gojra Bypass",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 40,
+      "hours": {
+        "start": "06:00",
+        "end": "21:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Asgharabad",
+          "name_ur": "اصغرآباد",
+          "lat": 34.306892,
+          "lon": 73.481553,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7667",
+          "is_station": false
+        },
+        {
+          "name": "Industrial Area Chehla",
+          "name_ur": "انڈسٹریل ایریا چھلہ",
+          "lat": 34.3985,
+          "lon": 73.473189,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7669",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "eTransit Punjab route planner, get-line-schedules (line 71, route 441), fetched 2026-09-25",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner",
+          "date": "2026-09-25"
+        }
+      ],
+      "notes": "Official PMA eTransit listing (line 71 'PTC Electric Bus (MZA)', district Muzaffarabad). eTransit lists only the two terminals; intermediate stops are not published. The route runs via Gojra Bypass. Timetable on 2026-09-25: 22 departures from the first terminal (06:00-20:00) and 23 from the other (06:20-21:00); hours = first to last departure. Coordinates are eTransit's own points (not OSM), as in punjab-round2. 'Industrial Area Chella' is spelled Chehla locally. Route id is ours (MZA- + eTransit route id)."
+    },
+    {
+      "id": "MZA-442",
+      "name": "Asgharabad to Industrial Area via Bank Road",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 45,
+      "hours": {
+        "start": "06:00",
+        "end": "22:10"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Asgharabad",
+          "name_ur": "اصغرآباد",
+          "lat": 34.306892,
+          "lon": 73.481553,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7667",
+          "is_station": false
+        },
+        {
+          "name": "Industrial Area Chehla",
+          "name_ur": "انڈسٹریل ایریا چھلہ",
+          "lat": 34.3985,
+          "lon": 73.473189,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7669",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "eTransit Punjab route planner, get-line-schedules (line 71, route 442), fetched 2026-09-25",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner",
+          "date": "2026-09-25"
+        }
+      ],
+      "notes": "Official PMA eTransit listing (line 71 'PTC Electric Bus (MZA)', district Muzaffarabad). eTransit lists only the two terminals; intermediate stops are not published. The route runs via Bank Road. Timetable on 2026-09-25: 21 departures from the first terminal (06:00-21:00) and 22 from the other (06:25-22:10); hours = first to last departure. Coordinates are eTransit's own points (not OSM), as in punjab-round2. 'Industrial Area Chella' is spelled Chehla locally. Route id is ours (MZA- + eTransit route id)."
+    },
+    {
+      "id": "MZA-443",
+      "name": "Airport to Parking Area Chatter via Alamdar Chowk",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 25,
+      "hours": {
+        "start": "06:00",
+        "end": "20:50"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Muzaffarabad Airport",
+          "name_ur": "ایئرپورٹ مظفرآباد",
+          "lat": 34.342694,
+          "lon": 73.505006,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7671",
+          "is_station": false
+        },
+        {
+          "name": "Parking Area Chattar",
+          "name_ur": "پارکنگ ایریا چھتر",
+          "lat": 34.345711,
+          "lon": 73.466317,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/7673",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "eTransit Punjab route planner, get-line-schedules (line 71, route 443), fetched 2026-09-25",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner",
+          "date": "2026-09-25"
+        }
+      ],
+      "notes": "Official PMA eTransit listing (line 71 'PTC Electric Bus (MZA)', district Muzaffarabad). eTransit lists only the two terminals; intermediate stops are not published. The route runs via Alamdar Chowk. Timetable on 2026-09-25: 35 departures from the first terminal (06:00-20:10) and 36 from the other (06:15-20:50); hours = first to last departure. Coordinates are eTransit's own points (not OSM), as in punjab-round2. 'Industrial Area Chella' is spelled Chehla locally. Route id is ours (MZA- + eTransit route id)."
+    }
+  ],
+  "last_verified": "2026-09-25"
+}

@@ -515,6 +515,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/1%3Ablue)
 - [CDA timetable FRG-1 (official)](https://www.cda.gov.pk/Assets/metro_transit_route/FRG-1_Forward.pdf)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/1%3Agreen)
+- [eTransit Punjab route planner, get-line-schedules (line 30, route 537), fetched 2026-09-25](https://etransit.punjab.gov.pk/public/route-planner) · 2026-09-25
 
 ## Islamabad Electric Feeder Buses (CDA) (islamabad-rawalpindi)
 
@@ -574,6 +575,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/1%3Ast_2)
 - [Transit Map of Islamabad V-07 (CDA), legend](https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-07.pdf)
 - [safar.fyi: Blue Line](https://www.safar.fyi/islamabad/transit-lines/1%3Ablue)
+- [سی ڈی اے کا اسلام آباد میں الیکٹرک ڈبل ڈیکر بسیں متعارف کرانے کا فیصلہ (Express Urdu)](https://www.express.pk/story/2834445/) · 2026-09-24
 
 ## Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans (islamabad-rawalpindi)
 
@@ -888,6 +890,9 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Karachi Pink Bus Gets New Route & Timings for Women](https://www.techjuice.pk/karachi-pink-bus-gets-new-route-timings-for-women/)
 - [Karachi Pink Bus service updates route and timings for women](https://www.nation.com.pk/16-Nov-2025/karachi-pink-bus-service-updates-route-timings-women)
 - [mnzil: BRT-Metro-Green-Line](https://mnzil.app/vehicles/BRT-Metro-Green-Line)
+- [Karachi Expands Women-Only "Pink Bus" Service to Green Line Corridor](https://www.pakwheels.com/blog/karachi-expands-women-only-pink-bus-service-to-green-line-corridor/) · 2025-11-20
+- [کراچی، شرجیل میمن کا خواتین کیلئے پنک بس سروس کا نیا روٹ فعال کرنے کا اعلان](https://www.express.pk/story/2787167/) · 2025-11-15
+- [Sindh Government Decides to Launch Exclusive Bus Routes Under Public-Private Partnership (Express Urdu; mentions the Pink service on the Green Line BRT)](https://www.express.pk/story/2821194/) · 2026-07-08
 
 ## Private buses, minibuses and coaches (karachi)
 
@@ -1174,6 +1179,12 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [safar.fyi Murree route](https://www.safar.fyi/murree/transit-lines/etransit-murree%3A315)
 - [safar.fyi Murree route](https://www.safar.fyi/murree/transit-lines/etransit-murree%3A314)
 
+## Green Electric Bus Muzaffarabad (muzaffarabad)
+
+- [eTransit Punjab route planner (districts-with-lines; get-line-schedules)](https://etransit.punjab.gov.pk/public/route-planner) · Punjab Masstransit Authority / PITB · 2026-09-25 · official
+- [AJK PM Gilani thanks Nawaz, Maryam for green buses for Muzaffarabad](https://tribune.com.pk/story/2626412/ajk-pm-gilani-thanks-nawaz-maryam-for-green-buses-for-muzaffarabad) · The Express Tribune · 2026-08
+- [وزیراعظم آزاد کشمیر افتخار گیلانی کا ... گرین بس سروس کا افتتاح کردیا](https://wenews.pk/news/502764/) · WE News
+
 ## Green Electric Bus Muzaffargarh (muzaffargarh)
 
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
@@ -1349,6 +1360,10 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [OSM relation SR 08](https://www.openstreetmap.org/relation/20012008)
 - [KP CM inaugurates new feeder route DR-14 of BRT service](https://www.app.com.pk/domestic/kp-cm-inaugurates-new-feeder-route-dr-14-of-brt-service/)
 - [Peshawar BRT Gets New Route From Gulbahar Chowk](https://propakistani.pk/2023/12/16/peshawar-brt-gets-new-route-from-gulbahar-chowk/)
+- [KP to Add 50 Buses to Peshawar BRT for 5 New Routes](https://propakistani.pk/2026/09/07/kp-to-add-50-buses-to-peshawar-brt-for-5-new-routes/) · 2026-09-07
+- [KPK Government decide to expand BRT Peshawar route (Express Urdu)](https://www.express.pk/story/2795028/) · 2026-01-06
+- [KP to Expand Peshawar BRT to Two More Tehsils](https://propakistani.pk/2026/01/07/kp-to-expand-peshawar-brt-to-two-more-tehsils/) · 2026-01-07
+- [خیبرپختونخوا حکومت کا بی آر ٹی منصوبے کو مزید توسیع دینے کا فیصلہ (Express Urdu)](https://www.express.pk/story/2747355/) · 2025-02-11
 
 ## Green Bus Service Quetta (incl. Pink Bus) (quetta)
 
