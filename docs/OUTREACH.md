@@ -26,6 +26,7 @@ Only use a source in `data/` after you have written permission, and record that 
 | 16 | **Pakistan Railways** | Stop-level timetables for every train (the website's timetable page returns no rows) | Our train times come from a third-party site | Right of Access to Information request to the Ministry of Railways, or PR's IT directorate |
 | 17 | **Bookme.pk / Sastaticket.pk** | Operator route lists, terminals and timetables for intercity buses | Would replace dated third-party fare and timing pages | Partnerships contact on each site |
 | 18 | **RTA Rawalpindi and Islamabad Transport Authority** | Current wagon and Hiace route permits and fare tables | Our twin-city wagon routes come from 2007–2015 lists | Right of Access to Information request (Punjab Transparency and RTI Act 2013 / federal RTI Act 2017) |
+| 19 | **Urban Resource Centre library, Karachi** | Paper-only: "List of private bus routes plying in Karachi" (Karachi Transport Ittehad / URC, catalogue TRAN-144) and the Karachi Bus Owners Association fare list for city routes, April 2011 (TRAN-242) | The closest thing to the current private route register that exists outside RTA Karachi | Visit or email URC (urckarachi.org) and ask to photograph or scan the two documents |
 
 ## Email: data sharing request (safar.fyi, SMTA, PMA, URC, redbus.shop, Think Transportation)
 

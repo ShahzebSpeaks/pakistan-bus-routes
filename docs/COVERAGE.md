@@ -2,7 +2,7 @@
 
 Generated 2026-11-01 by `npm run data:build`. Do not edit by hand.
 
-**54 cities · 159 systems · 1750 published routes · 7678 stops**
+**54 cities · 161 systems · 1841 published routes · 7966 stops**
 
 Coordinate quality: **exact** = verified (OpenStreetMap element or Wikipedia, checked by a person), **guide** = position published by a route guide such as safar.fyi, **matched** = automatic OpenStreetMap name match, **geocoded** = Nominatim search, **estimated** = interpolated between neighbours, **missing** = not on the map yet.
 
@@ -537,6 +537,92 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Karachi Breeze (BRT) | RED | Malir Halt - Model Colony - University Road - Numaish | under_construction | 24 | 0% | 0% | 75% | 8% | 17% | 0 | medium |
 | Karachi Breeze (BRT) | YELLOW | Dawood Chowrangi - Korangi - Shahrah-e-Faisal - Numaish | under_construction | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
 | Karachi Breeze (BRT) | BROWN | Singer Chowrangi - Nagan Chowrangi (proposed) | planned | 2 | 0% | 50% | 50% | 0% | 0% | 0 | low |
+| Private bus and minibus routes (CDGK official list, 2007) | 1-B | Nazimabd - Tower | historical | 7 | 0% | 0% | 71% | 14% | 14% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 1-C | M.P.R Colony - Sultanabad | historical | 15 | 0% | 0% | 73% | 0% | 20% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 1-F | Naval Colony - Orangi Township No. 10 | historical | 9 | 0% | 0% | 44% | 0% | 44% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 1-G | M.W Tower - Data Chowk Orangi Town | historical | 14 | 0% | 0% | 64% | 0% | 21% | 2 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 11-C | Azam Basti - Safoora Goth | historical | 18 | 0% | 0% | 89% | 0% | 11% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 2-D | Federal B. Area - Noorani Masjid | historical | 17 | 0% | 0% | 59% | 6% | 35% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 17-J | Babar Market - Hijaz Dairy Farm | historical | 15 | 0% | 0% | 40% | 7% | 40% | 2 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 2-K | North Nazimabad Block M - Keamari | historical | 13 | 0% | 0% | 85% | 0% | 15% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 22-A | Rashidabad - Cantt Station | historical | 18 | 0% | 0% | 61% | 0% | 33% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 22-B | Agra taj Colony - Qazafi Town | historical | 29 | 0% | 0% | 66% | 7% | 28% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 4-C | New Karachi Block 5-F - Saddar | historical | 11 | 0% | 0% | 73% | 9% | 9% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 20 | Shirin jinnah Colony - Rashidabad | historical | 17 | 0% | 0% | 82% | 0% | 12% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 1-D | Ittehad Town - Cantt Station | historical | 13 | 0% | 0% | 62% | 8% | 31% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 4 | New Karachi - Tower | historical | 12 | 0% | 0% | 67% | 8% | 25% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 4-H | Surjani Town - Sea View | historical | 17 | 0% | 0% | 76% | 0% | 24% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 1-H | Gulshan-e-Bahar - Kemari | historical | 24 | 0% | 0% | 58% | 17% | 25% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 19-D | Faqir Colony - Gizri | historical | 22 | 0% | 0% | 86% | 0% | 14% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 4-J | Nai Abadi - Tower | historical | 12 | 0% | 0% | 75% | 0% | 25% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 4-K | Kali Market - Tower | historical | 16 | 0% | 0% | 56% | 6% | 31% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 4-L | Maymar Complex - Tower | historical | 13 | 0% | 0% | 85% | 0% | 8% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 4-S | Surjani Town - Tower | historical | 18 | 0% | 0% | 67% | 6% | 28% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 5 | Al-Noor Society - Keamari | historical | 14 | 0% | 0% | 93% | 0% | 7% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 52-A | Labour Square - Fisheries | historical | 16 | 0% | 0% | 50% | 0% | 50% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 5-C | Gulberg Chowrangi - Tower | historical | 18 | 0% | 0% | 56% | 0% | 39% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 5-D | Musa Colony - Dockyard | historical | 12 | 0% | 0% | 58% | 0% | 33% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 6 | Fayyaz Plaza - Tower | historical | 12 | 0% | 0% | 75% | 0% | 25% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 6-B | Yasinabad Alliaabad - Tower | historical | 14 | 0% | 0% | 64% | 0% | 21% | 2 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 7-C | Dockyard - Bufferzone | historical | 19 | 0% | 0% | 74% | 0% | 26% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 60 | Sindhi Hotel New Karachi - Lee Market | historical | 10 | 0% | 0% | 40% | 0% | 60% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 7-H | Keamari - Tokyo Terrace Plaza | historical | 15 | 0% | 0% | 60% | 0% | 27% | 2 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 8 | P.I.B Colony - Tower | historical | 6 | 0% | 0% | 83% | 0% | 17% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | 8-A | P.I.B Colony - Keamari | historical | 11 | 0% | 0% | 73% | 0% | 27% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | A-3 | New Sabzi Mandi - Scout Colony | historical | 17 | 0% | 0% | 53% | 6% | 24% | 3 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | C-1 | Shirin Jinnah Colony - Nabbu Goth | historical | 26 | 0% | 0% | 58% | 4% | 23% | 4 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | D-17 | Surjani Town - Qayyumabad | historical | 22 | 0% | 0% | 64% | 0% | 36% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | D-6 | Khokhrapar - Masjid-e-Quba | historical | 20 | 0% | 0% | 65% | 10% | 25% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | F-10 | Rehri - Shireen Jinnah Colony | historical | 28 | 0% | 0% | 50% | 14% | 36% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | G-1 | Dockyard - Gulshan-e-Iqbal | historical | 10 | 0% | 0% | 90% | 0% | 10% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | F-11 | Cattle Colony - Mian Wali Colony | historical | 23 | 0% | 0% | 65% | 9% | 13% | 3 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | W-11 | New Karachi allahwala masjid - Kemari | historical | 13 | 0% | 0% | 54% | 0% | 38% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | H-1 | Fleet Club - Korangi Road | historical | 6 | 0% | 0% | 83% | 0% | 17% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | W-18 | Surjani Town - Fish Harbour | historical | 25 | 0% | 0% | 36% | 4% | 52% | 2 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | P-1 | Mirza Adam Khan Road - Chaman Colony | historical | 19 | 0% | 0% | 47% | 0% | 53% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | R | Mansfield Street - Khokhrapar | historical | 13 | 0% | 0% | 62% | 8% | 31% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | W-1 | New Abadi Sector 5-D - Chand Bibi Road | historical | 16 | 0% | 0% | 56% | 0% | 31% | 2 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | W-30 | Pushtoonabad - Qayyumabad | historical | 33 | 0% | 0% | 58% | 3% | 36% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | R-1 | Safuran Goth - Fisheries | historical | 27 | 0% | 0% | 44% | 0% | 48% | 2 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | U-1 | 100 Feet Road - Agra Taj Colony | historical | 19 | 0% | 0% | 84% | 0% | 16% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | U-4 | Manzoor Colony - Surjani Town | historical | 32 | 0% | 0% | 56% | 3% | 41% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | Z-10 | Metro ville-I(Mujahid Colony) Masjid-e-tuhid - K.P.T railway Station | historical | 11 | 0% | 0% | 64% | 0% | 18% | 2 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | A-25 | Abdullah Gabol Goth - Baloch Goth | historical | 18 | 0% | 0% | 67% | 0% | 22% | 2 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | B-3 | New Sultanabad - M.A.Jinnah Road | historical | 29 | 0% | 0% | 59% | 0% | 31% | 3 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | D-8 | Bhense Colony - Masroor Colony | historical | 14 | 0% | 14% | 71% | 0% | 0% | 2 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | F-6 | 89 Bus Stop - Fisheries | historical | 13 | 0% | 0% | 69% | 0% | 15% | 2 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | F-15 | Badhni Goth - Gulzar Colony | historical | 18 | 0% | 0% | 61% | 6% | 28% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | G-19 | Al ahmed Town - Gul City | historical | 22 | 0% | 0% | 59% | 0% | 23% | 4 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | G-25 | Gulistan-e-johar No. 10 - Rasheedabad | historical | 18 | 0% | 0% | 67% | 6% | 28% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | H | Lee Market - Ibrahim Hyderi | historical | 15 | 0% | 0% | 60% | 7% | 27% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | G-11 | Yosuf Goth - Kiran Hospital | historical | 23 | 0% | 0% | 61% | 0% | 35% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | G-17 | Gul City - Safoora Goth | historical | 22 | 0% | 0% | 73% | 9% | 14% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | M-1 | Dockyard - Quyumabad | historical | 14 | 0% | 0% | 71% | 7% | 14% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | N-4 | Islam Nagar - Corongi Road | historical | 24 | 0% | 0% | 63% | 4% | 25% | 2 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | N-5 | Naval Colony - Chamra Chowrangi | historical | 22 | 0% | 9% | 59% | 0% | 23% | 2 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | P-3 | Surjani Town Sector 7-D - Shereen Jinnah Colony | historical | 25 | 0% | 0% | 88% | 0% | 12% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | S-2 | Korangi - Ayub Goth | historical | 27 | 0% | 0% | 56% | 0% | 44% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | U | Nasir Colony - North Karachi | historical | 22 | 0% | 0% | 77% | 0% | 23% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | U-5 | Al-Asif Square - Mohajir Camp | historical | 26 | 0% | 0% | 77% | 0% | 23% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | U-8 | Jonijo Town - Hamdard university | historical | 25 | 0% | 0% | 52% | 4% | 40% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | U-10 | Manzoor Colony - Mohammad Khan Goth | historical | 18 | 0% | 0% | 83% | 6% | 6% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | W-20 | Yousuf goth - G.Allana Road | historical | 16 | 0% | 0% | 50% | 6% | 38% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | Y | Azimpura - Fleet club | historical | 15 | 0% | 0% | 40% | 0% | 53% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | Z-2 | Gulshan-e-Ghazi - Khayaban-e-Ghalib | historical | 23 | 0% | 0% | 52% | 4% | 43% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | F-18 | Surjani Town - Haroon Banglow | historical | 15 | 0% | 0% | 40% | 7% | 40% | 2 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | F-16 | Qasba Colony - Machine Tool Factory | historical | 31 | 0% | 0% | 61% | 0% | 35% | 1 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | G | Court Road - Al-Azam Square | historical | 8 | 0% | 0% | 75% | 0% | 25% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | G-7 | Gulshan-e-Ghazi - Safoora Goth | historical | 21 | 0% | 14% | 81% | 0% | 5% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | G-10 | Orangi Town - Pahlwan Goth | historical | 18 | 0% | 0% | 67% | 6% | 17% | 2 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | U-11 | Al-Ahmed Town - Manzoor Colony | historical | 33 | 0% | 0% | 55% | 3% | 42% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | W-22 | Naiabadi - Korangi No. 2 1/2 | historical | 28 | 0% | 0% | 57% | 7% | 29% | 2 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | W-24 | New sabzi mandi B-10 - Labour Square | historical | 18 | 0% | 0% | 61% | 6% | 22% | 2 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | X-B | Faqir Colony - Qayumabad | historical | 14 | 0% | 0% | 86% | 0% | 14% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | X-10 | Mohajir camp - Gizri | historical | 19 | 0% | 0% | 84% | 0% | 16% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | X-17 | Saeedabad - Manzoor Colony | historical | 22 | 0% | 0% | 77% | 5% | 18% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | X-20 | Saadi Town - Qasim Ali Shah | historical | 18 | 0% | 0% | 78% | 0% | 22% | 0 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | Z-A | Crossing Chowrangi baba-e-urdu Road - Cafe noorani | historical | 16 | 0% | 0% | 63% | 0% | 25% | 2 | medium |
+| Private bus and minibus routes (CDGK official list, 2007) | Z-18 | Ittehad Town - Hawksbay Road | historical | 18 | 0% | 0% | 72% | 6% | 17% | 1 | medium |
 | Chinchi (Qingqi) routes | 007 | Shrine of Manghopir - Daak Khana - Liaquatabad | unverified | 14 | 0% | 36% | 64% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | 2-J | Saddar - Al hameed | unverified | 25 | 0% | 24% | 76% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | 4-E | Abdullah Chowk - Numaish Chowrangi | unverified | 23 | 0% | 9% | 91% | 0% | 0% | 0 | medium |
@@ -577,7 +663,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Chinchi (Qingqi) routes | M-22 | Korangi 5 - Liaquatabad No.10 - Lalukhet | unverified | 15 | 0% | 13% | 87% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | M-5 | Expo Center - Expo Center | unverified | 1 | 0% | 0% | 100% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | M-55 | Lyari Basti - Taiser Town - Saddar | unverified | 26 | 0% | 27% | 73% | 0% | 0% | 0 | medium |
-| Chinchi (Qingqi) routes | M-7 | Yaroo Khan Goth - Surjani Town - 89 Landhi Rd | unverified | 25 | 0% | 40% | 60% | 0% | 0% | 0 | medium |
+| Chinchi (Qingqi) routes | M-7 | Yaroo Khan Goth - Surjani Town - 89 Landhi Rd | unverified | 25 | 0% | 44% | 56% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | M-9 | Qayyumabad - NIPA Chowrangi | unverified | 12 | 0% | 25% | 75% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | MK 081 | MK 081 | unverified | 0 | - | - | - | - | - | 0 | low |
 | Chinchi (Qingqi) routes | N-1 | NIPA Chowrangi - Kaneez Fatima Society - Gulzar-e-Hijri | unverified | 7 | 0% | 29% | 71% | 0% | 0% | 0 | medium |
@@ -591,7 +677,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Chinchi (Qingqi) routes | R-S | Perfume Chowk Gulistan-e-Johar - Safoora Chowrangi | unverified | 6 | 0% | 17% | 83% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | S-2 | Daak Khana - Liaquatabad - Alnoor mor | unverified | 10 | 0% | 30% | 70% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | S-7 | Khawaja Ajmer Nagri - Teen Hatti | unverified | 14 | 0% | 29% | 71% | 0% | 0% | 0 | medium |
-| Chinchi (Qingqi) routes | S-K | Al Asif Square - Ittehad Town | unverified | 19 | 0% | 21% | 74% | 0% | 0% | 1 | medium |
+| Chinchi (Qingqi) routes | S-K | Al Asif Square - Ittehad Town | unverified | 19 | 0% | 26% | 74% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | Sultan | Liaquatabad No.10 - Lalukhet - Korangi 5 | unverified | 23 | 0% | 22% | 78% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | T-10 | Daak Khana - Liaquatabad - Surjani - Sector 7A | unverified | 20 | 0% | 30% | 70% | 0% | 0% | 0 | medium |
 | Chinchi (Qingqi) routes | T-11 | Daak Khana - Liaquatabad - Surjani - Sector 7A | unverified | 21 | 0% | 24% | 76% | 0% | 0% | 0 | medium |
@@ -619,6 +705,8 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Karachi Circular Railway | KCR-2DN | KCR-2 | operational | 0 | - | - | - | - | - | 0 | low |
 | Karachi Circular Railway | KCR-3DNDN | KCR-3 | operational | 0 | - | - | - | - | - | 0 | low |
 | Karachi Circular Railway | KCR-4DN | KCR-4 | operational | 0 | - | - | - | - | - | 0 | low |
+| Karachi Green Bus (Urban Transport Scheme), 2003-2005 | UTS-4 | Sea View - 4K Chowrangi | historical | 31 | 0% | 0% | 77% | 3% | 19% | 0 | high |
+| Karachi Green Bus (Urban Transport Scheme), 2003-2005 | UTS-19 | Safoora Goth - Tower | historical | 32 | 0% | 0% | 88% | 3% | 9% | 0 | high |
 | Minibus and coach routes (2010 list) | 1-A | Faqir Colony - Tower | historical | 14 | 0% | 0% | 50% | 0% | 50% | 0 | low |
 | Minibus and coach routes (2010 list) | 1-B | Nazimabd - Tower | historical | 7 | 0% | 0% | 71% | 14% | 14% | 0 | low |
 | Minibus and coach routes (2010 list) | 1-C | M.P.R Colony - Sultanabad | historical | 15 | 0% | 0% | 73% | 0% | 20% | 1 | low |
@@ -702,7 +790,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Minibus and coach routes (2010 list) | 55-B | Darsana Chana - Lee Market | historical | 9 | 0% | 0% | 33% | 0% | 56% | 1 | low |
 | Minibus and coach routes (2010 list) | 56 | Hub River Road - Chakiwara | historical | 4 | 0% | 0% | 75% | 0% | 25% | 0 | low |
 | Minibus and coach routes (2010 list) | 57 | Naval Colony - Lee Market | historical | 7 | 0% | 0% | 57% | 0% | 43% | 0 | low |
-| Minibus and coach routes (2010 list) | 57-A | Naval Colony - Kearmari | historical | 10 | 0% | 20% | 40% | 0% | 20% | 2 | low |
+| Minibus and coach routes (2010 list) | 57-A | Naval Colony - Kearmari | historical | 10 | 0% | 30% | 40% | 0% | 20% | 1 | low |
 | Minibus and coach routes (2010 list) | 57-B | Naval Colony (Hub River Road) - Tower | historical | 10 | 0% | 20% | 60% | 0% | 10% | 1 | low |
 | Minibus and coach routes (2010 list) | 58 | Bund Murad Khan - Lee Market | historical | 8 | 0% | 0% | 50% | 0% | 50% | 0 | low |
 | Minibus and coach routes (2010 list) | 58-A | Lee Market - Hub Dam Colony | historical | 7 | 0% | 0% | 71% | 0% | 0% | 2 | low |
@@ -984,18 +1072,18 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Private minibuses and coaches | pink-bus-part3 | pink-bus-part3 (Taj Complex - Ibrahim Hyderi) | unverified | 27 | 0% | 100% | 0% | 0% | 0% | 0 | low |
 | Private minibuses and coaches | Route-3 | Route-3 (Power House - Shan Chowrangi) | unverified | 16 | 0% | 100% | 0% | 0% | 0% | 0 | low |
 | Private minibuses and coaches | Route-10 | Route-10 (Numaish - Taj Complex) | unverified | 2 | 0% | 100% | 0% | 0% | 0% | 0 | low |
-| Private minibuses and coaches | 52 | Malir Halt - Liaquat national Hospital | unverified | 2 | 0% | 50% | 0% | 0% | 0% | 1 | medium |
-| Private minibuses and coaches | Al Azad | Karachi Marriott Hotel - Safoora Chowrangi | unverified | 2 | 0% | 50% | 0% | 0% | 0% | 1 | medium |
+| Private minibuses and coaches | 52 | Malir Halt - Liaquat national Hospital | unverified | 2 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | Al Azad | Karachi Marriott Hotel - Safoora Chowrangi | unverified | 2 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
 | Private minibuses and coaches | Al Khair | Musharraf Colony - Keamari - Lee Market | unverified | 8 | 0% | 63% | 38% | 0% | 0% | 0 | medium |
-| Private minibuses and coaches | N | Karimabad - Meena Bazaar - Shireen Jinnah Colony | unverified | 5 | 0% | 60% | 20% | 0% | 0% | 1 | medium |
-| Private minibuses and coaches | Super Muslim Coach | Port Qasim Mor - Shireen Jinnah Colony | unverified | 17 | 0% | 41% | 53% | 0% | 0% | 1 | medium |
+| Private minibuses and coaches | N | Karimabad - Meena Bazaar - Shireen Jinnah Colony | unverified | 5 | 0% | 80% | 20% | 0% | 0% | 0 | medium |
+| Private minibuses and coaches | Super Muslim Coach | Port Qasim Mor - Shireen Jinnah Colony | unverified | 17 | 0% | 47% | 53% | 0% | 0% | 0 | medium |
 | Private minibuses and coaches | 51-A | Lee Market - Ghaghar Phatak - Bin Qasim Town | unverified | 36 | 0% | 28% | 72% | 0% | 0% | 0 | medium |
 | Private minibuses and coaches | D-3 | Nagan Chowrangi - Indus Hospital - Korangi | unverified | 30 | 0% | 23% | 77% | 0% | 0% | 0 | medium |
 | Private minibuses and coaches | G-13 | Banaras Bus Stop - Karimabad - Meena Bazaar | unverified | 7 | 0% | 0% | 100% | 0% | 0% | 0 | low |
 | Private minibuses and coaches | Imran | Hawksbay Beach - Qayyumabad | unverified | 29 | 0% | 24% | 76% | 0% | 0% | 0 | medium |
 | Private minibuses and coaches | P-3 | Shireen Jinnah Colony - Abdullah Mor - Surjani | unverified | 24 | 0% | 29% | 71% | 0% | 0% | 0 | medium |
 | Private minibuses and coaches | S-2 | Korangi Coast Guard - Godhra | unverified | 21 | 0% | 14% | 86% | 0% | 0% | 0 | medium |
-| Private minibuses and coaches | 4-H | 4K Chowrangi - Cantt station | unverified | 2 | 0% | 50% | 0% | 0% | 0% | 1 | low |
+| Private minibuses and coaches | 4-H | 4K Chowrangi - Cantt station | unverified | 2 | 0% | 100% | 0% | 0% | 0% | 0 | low |
 | Private minibuses and coaches | Daata | KDA Flats- Surjani - Badar Commercial 26 Street | unverified | 23 | 0% | 17% | 83% | 0% | 0% | 0 | medium |
 | Private minibuses and coaches | D-10 | Korangi 100 Quarter - Taiser Town | unverified | 33 | 0% | 0% | 79% | 6% | 12% | 1 | low |
 | Private minibuses and coaches | F-16 | Qasba Colony - Machine Tool Factory | unverified | 31 | 0% | 26% | 61% | 0% | 13% | 0 | low |
@@ -1052,7 +1140,10 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Peoples Bus Service | EV4 | Bahria Town - Ayesha Manzil | operational | 11 | 45% | 18% | 9% | 0% | 27% | 0 | medium |
 | Peoples Bus Service | EV5 | DHA City - Sohrab Goth | operational | 12 | 33% | 17% | 17% | 0% | 33% | 0 | medium |
 | Peoples Bus Service | DD1 | Model Colony - Tower (Double Decker) | operational | 16 | 56% | 0% | 44% | 0% | 0% | 0 | medium |
-| Peoples Bus Service | EV-PLAN-ITTEHAD-CANTT | Ittehad Town - Cantt Station (planned EV corridor) | planned | 5 | 0% | 0% | 40% | 0% | 40% | 1 | low |
+| Peoples Bus Service | EV-PLAN-ITTEHAD-CANTT | Ittehad Town - Cantt Station (planned EV corridor) | planned | 5 | 0% | 20% | 40% | 0% | 40% | 0 | low |
+| Peoples Bus Service | R5 | Surjani - Masroor | suspended | 10 | 0% | 0% | 80% | 10% | 10% | 0 | low |
+| Peoples Bus Service | R6 | Gulshan-e-Bihar (Orangi) - Singer Chowrangi | suspended | 17 | 0% | 0% | 82% | 6% | 6% | 1 | low |
+| Peoples Bus Service | R7 | Mausamiyat - Gulshan-e-Ghazi | suspended | 11 | 0% | 0% | 73% | 0% | 18% | 1 | low |
 | Pink Bus (Peoples Bus Service, women-only) | R1 | Khokhrapar - Dockyard (Pink) | operational | 25 | 52% | 4% | 40% | 0% | 4% | 0 | medium |
 | Pink Bus (Peoples Bus Service, women-only) | R2 | Power House Chowrangi - Korangi Crossing (Pink) | operational | 19 | 68% | 21% | 11% | 0% | 0% | 0 | medium |
 | Pink Bus (Peoples Bus Service, women-only) | R3 | Power House Chowrangi - Nasir Jump (Pink) | operational | 21 | 57% | 14% | 29% | 0% | 0% | 0 | medium |
@@ -2042,6 +2133,8 @@ These routes have the most stops without a verified position. Adding real coordi
 | Lahore | Lahore city wagon / minibus routes (LOV) | LOV-101 | 29 | 3 | 15 |
 | Lahore | Lahore city wagon / minibus routes (LOV) | LOV-108 | 29 | 1 | 17 |
 | Karachi | Minibus and coach routes (2010 list) | R-1 | 27 | 2 | 14 |
+| Karachi | Private bus and minibus routes (CDGK official list, 2007) | W-18 | 25 | 2 | 13 |
+| Karachi | Private bus and minibus routes (CDGK official list, 2007) | R-1 | 27 | 2 | 13 |
 | Peshawar | Zu Peshawar (TransPeshawar BRT) | DR03B | 23 | 2 | 13 |
 | Karachi | Minibus and coach routes (2010 list) | 50-C | 22 | 1 | 13 |
 | Karachi | Minibus and coach routes (2010 list) | S-1 | 23 | 4 | 9 |
@@ -2053,6 +2146,7 @@ These routes have the most stops without a verified position. Adding real coordi
 | Karachi | Minibus and coach routes (2010 list) | 5-C | 17 | 1 | 10 |
 | Karachi | Minibus and coach routes (2010 list) | 53-B | 13 | 6 | 5 |
 | Karachi | Minibus and coach routes (2010 list) | U-3 | 19 | 0 | 11 |
+| Karachi | Private bus and minibus routes (CDGK official list, 2007) | P-1 | 19 | 0 | 10 |
 | Karachi | Minibus and coach routes (2010 list) | 3 Star Coach | 12 | 3 | 7 |
 | Karachi | Minibus and coach routes (2010 list) | C-19 | 18 | 0 | 10 |
 | Karachi | Minibus and coach routes (2010 list) | D-18 | 16 | 2 | 8 |
@@ -2060,11 +2154,8 @@ These routes have the most stops without a verified position. Adding real coordi
 | Karachi | Minibus and coach routes (2010 list) | Prime Coach | 16 | 1 | 9 |
 | Peshawar | Zu Peshawar (TransPeshawar BRT) | DR04B | 19 | 0 | 10 |
 | Quetta | Green Bus Service Quetta (incl. Pink Bus) | GL-CARDIO | 13 | 7 | 3 |
+| Karachi | Private bus and minibus routes (CDGK official list, 2007) | Y | 15 | 1 | 8 |
 | Karachi | Minibus and coach routes (2010 list) | 51-A | 12 | 7 | 2 |
-| Karachi | Minibus and coach routes (2010 list) | 52-A | 16 | 0 | 9 |
-| Quetta | Green Bus Service Quetta (incl. Pink Bus) | GB-1 | 17 | 2 | 7 |
-| Lahore | Lahore city wagon / minibus routes (LOV) | LOV-103 | 16 | 3 | 5 |
-| Peshawar | Peshawar CNG 14-seat vehicle routes (notified 2011) | CNG-3 | 15 | 1 | 7 |
 
 ## Build warnings
 
@@ -2076,10 +2167,54 @@ These routes have the most stops without a verified position. Adding real coordi
 - pakistan-railways/202DN: 2 stop(s) without coordinates are left out of the map
 - pakistan-railways/201UP: 2 stop(s) without coordinates are left out of the map
 - pakistan-railways/134DN: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/1-C: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/1-F: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/1-G: 2 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/17-J: 2 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/22-A: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/4-C: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/20: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/4-K: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/4-L: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/5-C: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/5-D: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/6-B: 2 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/7-H: 2 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/A-3: 3 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/C-1: 4 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/F-11: 3 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/W-11: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/W-18: 2 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/W-1: 2 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/W-30: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/R-1: 2 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/Z-10: 2 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/A-25: 2 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/B-3: 3 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/D-8: 2 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/F-6: 2 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/F-15: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/G-19: 4 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/H: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/G-11: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/G-17: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/M-1: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/N-4: 2 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/N-5: 2 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/U-8: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/U-10: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/W-20: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/Y: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/F-18: 2 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/F-16: 1 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/G-10: 2 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/W-22: 2 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/W-24: 2 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/Z-A: 2 stop(s) without coordinates are left out of the map
+- karachi-cdgk-2007/Z-18: 1 stop(s) without coordinates are left out of the map
 - karachi-chinchi/M-5: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/MK 081: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/P-1: fewer than 2 located stops, listed without a map line
-- karachi-chinchi/S-K: 1 stop(s) without coordinates are left out of the map
 - karachi-chinchi/Bakra Mandi - Lee Market: 1 stop(s) without coordinates are left out of the map
 - karachi-chinchi/Bakra Mandi - Lee Market: fewer than 2 located stops, listed without a map line
 - karachi-chinchi/Five Minute Chowrangi - North Karachi No. 6: 2 stop(s) without coordinates are left out of the map
@@ -2135,7 +2270,8 @@ These routes have the most stops without a verified position. Adding real coordi
 - karachi-minibus-2010/54-A: 5 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/55-A: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/55-B: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus-2010/57-A: 2 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/57-A: 1 stop(s) without coordinates are left out of the map
+- karachi-minibus-2010/57-A: located stops are too close together to draw a line; listed as information only
 - karachi-minibus-2010/57-B: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/58-A: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/59: 6 stop(s) without coordinates are left out of the map
@@ -2285,17 +2421,10 @@ These routes have the most stops without a verified position. Adding real coordi
 - karachi-minibus/Bilal: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus/Gulistan: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus/Ilyas: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus/52: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus/52: fewer than 2 located stops, listed without a map line
-- karachi-minibus/Al Azad: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus/Al Azad: fewer than 2 located stops, listed without a map line
-- karachi-minibus/N: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus/Super Muslim Coach: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus/4-H: 1 stop(s) without coordinates are left out of the map
-- karachi-minibus/4-H: fewer than 2 located stops, listed without a map line
 - karachi-minibus/D-10: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus/Safari Coach: 1 stop(s) without coordinates are left out of the map
-- karachi-pbs/EV-PLAN-ITTEHAD-CANTT: 1 stop(s) without coordinates are left out of the map
+- karachi-pbs/R6: 1 stop(s) without coordinates are left out of the map
+- karachi-pbs/R7: 1 stop(s) without coordinates are left out of the map
 - karachi-yellow-line-services/YL-D5: 2 stop(s) without coordinates are left out of the map
 - karachi-yellow-line-services/YL-D5: fewer than 2 located stops, listed without a map line
 - lahore-feeder/RT-22: 2 stop(s) without coordinates are left out of the map

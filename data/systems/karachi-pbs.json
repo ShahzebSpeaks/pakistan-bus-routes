@@ -3428,7 +3428,10 @@
       "launched": "2026-01-01",
       "length_km": 24,
       "headway_min": null,
-      "hours": null,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -3590,9 +3593,13 @@
         {
           "title": "mnzil: R-01",
           "url": "https://mnzil.app/vehicles/R-01"
+        },
+        {
+          "title": "Timings (2026-01-01)",
+          "url": "https://english.aaj.tv/news/330450269/double-decker-buses-with-modern-facilities-hit-karachi-roads"
         }
       ],
-      "notes": "PBS double-decker service: open to public 1 Jan 2026 between Malir/Model Colony and Sharea Faisal (Dawn stops: Malir Halt, Airport, Colony Gate, Natha Khan Bridge, Drigh Road, Nursery, Baloch Colony, FTC), extended to Tower from 16 Feb 2026. SMTA map index code 'DD01', 24 km: Model Colony Pathak, Malir Halt, Colony Gate, Nata Khan, PAF Base Faisal, Karsaz, Nursery, FTC, Regent Plaza, Metropole Hotel, Press Club, I.I. Chundrigar Road, Tower. About 5 double-deckers imported. Fare Rs 80-120 (Dawn). Coordinates checked against the R1 reference polyline (same corridor). Variant 'regular' because propulsion not confirmed. Baloch Colony vs Nursery order from OSM positions."
+      "notes": "PBS double-decker service: open to public 1 Jan 2026 between Malir/Model Colony and Sharea Faisal (Dawn stops: Malir Halt, Airport, Colony Gate, Natha Khan Bridge, Drigh Road, Nursery, Baloch Colony, FTC), extended to Tower from 16 Feb 2026. SMTA map index code 'DD01', 24 km: Model Colony Pathak, Malir Halt, Colony Gate, Nata Khan, PAF Base Faisal, Karsaz, Nursery, FTC, Regent Plaza, Metropole Hotel, Press Club, I.I. Chundrigar Road, Tower. About 5 double-deckers imported. Fare Rs 80-120 (Dawn). Coordinates checked against the R1 reference polyline (same corridor). Variant 'regular' because propulsion not confirmed. Baloch Colony vs Nursery order from OSM positions. Timings from english.aaj.tv (2026-01-01)."
     },
     {
       "id": "EV-PLAN-ITTEHAD-CANTT",
@@ -3643,9 +3650,9 @@
         {
           "name": "Cantt Station",
           "name_ur": "",
-          "lat": null,
-          "lon": null,
-          "coord_source": null,
+          "lat": 24.843473,
+          "lon": 67.039828,
+          "coord_source": "ext:mnzil:X-10",
           "is_station": false
         }
       ],
@@ -3658,9 +3665,392 @@
         {
           "title": "Sindh moves to add 500 EV buses as transport network expansion accelerates (Profit, 2026-05-19)",
           "url": "https://profit.pakistantoday.com.pk/2026/05/19/sindh-moves-to-add-500-ev-buses-as-transport-network-expansion-accelerates/"
+        },
+        {
+          "title": "mnzil: X-10",
+          "url": "https://mnzil.app/vehicles/X-10"
         }
       ],
       "notes": "Placeholder id (ours): no route code published. Sindh Senior Minister Sharjeel Inam Memon told the Sindh Assembly (May 2026) that the Policy Board approved 500 EV buses: 450 on 25 Karachi routes and 50 on 5 Hyderabad routes, with 4 Karachi EV depots. Corridor areas are listed in the press in this order; they are areas, not stops. Not launched as of 2026-09-24 (the SMTA directory https://smta.gos.pk/route-map still lists 20 Karachi routes: R1-R14 incl. inactive R5-R7, EV1-EV5, DD01). Aug 2026 reports speak of 1,000 EV buses by end-2026 and 50 double-deckers arriving in October 2026, without routes."
+    },
+    {
+      "id": "R5",
+      "name": "Surjani - Masroor",
+      "name_ur": "",
+      "variant": "red",
+      "color": null,
+      "status": "suspended",
+      "launched": null,
+      "length_km": 28.2,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Surjani",
+          "name_ur": "",
+          "lat": 25.005032,
+          "lon": 67.064732,
+          "coord_source": "auto:osm:node/8637079794",
+          "is_station": false
+        },
+        {
+          "name": "New Karachi",
+          "name_ur": "",
+          "lat": 24.972536,
+          "lon": 67.066952,
+          "coord_source": "auto:osm:node/6773443094",
+          "is_station": false
+        },
+        {
+          "name": "Shafiq Mor",
+          "name_ur": "",
+          "lat": 24.957265,
+          "lon": 67.076203,
+          "coord_source": "auto:same-name:ext:mnzil:station/29",
+          "is_station": false
+        },
+        {
+          "name": "Ziauddin Chowrangi",
+          "name_ur": "",
+          "lat": 24.92533,
+          "lon": 67.04571,
+          "coord_source": "auto:osm:way/26483902",
+          "is_station": false
+        },
+        {
+          "name": "KDA Chowrangi",
+          "name_ur": "",
+          "lat": 24.931405,
+          "lon": 67.037512,
+          "coord_source": "auto:same-name:osm:node/3483501207",
+          "is_station": false
+        },
+        {
+          "name": "Musa Colony",
+          "name_ur": "",
+          "lat": 24.918312,
+          "lon": 67.019691,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Manghopir",
+          "name_ur": "",
+          "lat": 24.905219,
+          "lon": 67.001871,
+          "coord_source": "auto:osm:node/8294621168",
+          "is_station": false
+        },
+        {
+          "name": "SITE Area",
+          "name_ur": "",
+          "lat": 24.903585,
+          "lon": 67.0074,
+          "coord_source": "auto:nominatim:node/5153188103",
+          "is_station": false
+        },
+        {
+          "name": "Gulbai",
+          "name_ur": "",
+          "lat": 24.876587,
+          "lon": 66.969813,
+          "coord_source": "auto:same-name:osm:node/7416125312",
+          "is_station": false
+        },
+        {
+          "name": "Masroor",
+          "name_ur": "",
+          "lat": 24.877457,
+          "lon": 66.964606,
+          "coord_source": "auto:osm:way/130729899",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "SMTA route page Route 05 (status Inactive)",
+          "url": "https://smta.gos.pk/routes/5"
+        }
+      ],
+      "merge_action": "add",
+      "notes": "SMTA (smta.gos.pk/routes/5, read 2026-10-23): \"Surjani to Masroor\", 28.2 km, bus type Standard, status Inactive; via list only, so stops are terminals plus via-points. The 2022 RTA/Transport Dept notification of nine routes had Route 5 as Surjani Town - SITE Area Gulbai via Ziauddin Chowrangi, KDA Chowrangi, Musa Colony (ARY). Never confirmed operational."
+    },
+    {
+      "id": "R6",
+      "name": "Gulshan-e-Bihar (Orangi) - Singer Chowrangi",
+      "name_ur": "",
+      "variant": "red",
+      "color": null,
+      "status": "suspended",
+      "launched": null,
+      "length_km": 29.6,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Gulshan-e-Bihar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Orangi Town",
+          "name_ur": "",
+          "lat": 24.939694,
+          "lon": 66.98426,
+          "coord_source": "auto:osm:node/5179982965",
+          "is_station": false
+        },
+        {
+          "name": "Banaras",
+          "name_ur": "",
+          "lat": 24.929993,
+          "lon": 67.019732,
+          "coord_source": "auto:osm:node/5140969347",
+          "is_station": false
+        },
+        {
+          "name": "Paposh Nagar",
+          "name_ur": "",
+          "lat": 24.924252,
+          "lon": 67.019685,
+          "coord_source": "auto:osm:way/225667534",
+          "is_station": false
+        },
+        {
+          "name": "SITE Area",
+          "name_ur": "",
+          "lat": 24.903585,
+          "lon": 67.0074,
+          "coord_source": "auto:nominatim:node/5153188103",
+          "is_station": false
+        },
+        {
+          "name": "Golimar",
+          "name_ur": "",
+          "lat": 24.892661,
+          "lon": 67.027426,
+          "coord_source": "auto:osm:node/6773442316",
+          "is_station": false
+        },
+        {
+          "name": "Garden",
+          "name_ur": "",
+          "lat": 24.881614,
+          "lon": 67.028899,
+          "coord_source": "auto:osm:node/12168900756",
+          "is_station": false
+        },
+        {
+          "name": "PIB Colony",
+          "name_ur": "",
+          "lat": 24.890952,
+          "lon": 67.056849,
+          "coord_source": "auto:osm:node/12231821970",
+          "is_station": false
+        },
+        {
+          "name": "Jail Road",
+          "name_ur": "",
+          "lat": 24.889493,
+          "lon": 67.051769,
+          "coord_source": "auto:osm:way/833770604",
+          "is_station": false
+        },
+        {
+          "name": "Bahadurabad",
+          "name_ur": "",
+          "lat": 24.88246,
+          "lon": 67.067105,
+          "coord_source": "auto:osm:node/7825092345",
+          "is_station": false
+        },
+        {
+          "name": "Baloch Colony",
+          "name_ur": "",
+          "lat": 24.867295,
+          "lon": 67.082761,
+          "coord_source": "auto:same-name:osm:node/3523446756",
+          "is_station": false
+        },
+        {
+          "name": "Mehmoodabad",
+          "name_ur": "",
+          "lat": 24.850757,
+          "lon": 67.073667,
+          "coord_source": "auto:osm:way/497388217",
+          "is_station": false
+        },
+        {
+          "name": "Manzoor Colony",
+          "name_ur": "",
+          "lat": 24.84588,
+          "lon": 67.087335,
+          "coord_source": "auto:osm:node/5144995462",
+          "is_station": false
+        },
+        {
+          "name": "DHA Phase 1",
+          "name_ur": "",
+          "lat": 24.841834,
+          "lon": 67.063196,
+          "coord_source": "auto:osm:node/5327511637",
+          "is_station": false
+        },
+        {
+          "name": "Shan Chowrangi",
+          "name_ur": "",
+          "lat": 24.842481,
+          "lon": 67.102428,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Bilal Chowrangi",
+          "name_ur": "",
+          "lat": 24.843127,
+          "lon": 67.14166,
+          "coord_source": "auto:osm:node/283203358",
+          "is_station": false
+        },
+        {
+          "name": "Singer Chowrangi",
+          "name_ur": "",
+          "lat": 24.847085,
+          "lon": 67.15963,
+          "coord_source": "auto:same-name:ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:pink-bus-part2",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "SMTA route page Route 06 (status Inactive)",
+          "url": "https://smta.gos.pk/routes/6"
+        }
+      ],
+      "merge_action": "add",
+      "notes": "SMTA (smta.gos.pk/routes/6): \"Gulshan-e-Bihar Orangi Town to Singer Chowrangi\", 29.6 km, Standard, Inactive. 2022 notification: Orangi - Shan Chowrangi via Banaras, Paposh Nagar, Garden, DHA Phase 1 (ARY)."
+    },
+    {
+      "id": "R7",
+      "name": "Mausamiyat - Gulshan-e-Ghazi",
+      "name_ur": "",
+      "variant": "red",
+      "color": null,
+      "status": "suspended",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Mausamiyat",
+          "name_ur": "",
+          "lat": 24.937483,
+          "lon": 67.144508,
+          "coord_source": "auto:same-name:ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:EV-3",
+          "is_station": false
+        },
+        {
+          "name": "Dow University",
+          "name_ur": "",
+          "lat": 24.943932,
+          "lon": 67.14204,
+          "coord_source": "auto:osm:way/752913493",
+          "is_station": false
+        },
+        {
+          "name": "SUPARCO",
+          "name_ur": "",
+          "lat": 24.945426,
+          "lon": 67.137848,
+          "coord_source": "auto:osm:node/7512040332",
+          "is_station": false
+        },
+        {
+          "name": "Gulzar-e-Hijri",
+          "name_ur": "",
+          "lat": 24.949783,
+          "lon": 67.105648,
+          "coord_source": "auto:photon:N/4785718490",
+          "is_station": false
+        },
+        {
+          "name": "Abul Hassan Isphahani Road",
+          "name_ur": "",
+          "lat": 24.927114,
+          "lon": 67.109691,
+          "coord_source": "auto:photon:W/523739689",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan-e-Iqbal",
+          "name_ur": "",
+          "lat": 24.906729,
+          "lon": 67.098657,
+          "coord_source": "auto:osm:node/6774181549",
+          "is_station": false
+        },
+        {
+          "name": "Muqa Chowk",
+          "name_ur": "",
+          "lat": 24.919177,
+          "lon": 67.076264,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shipowner",
+          "name_ur": "",
+          "lat": 24.931626,
+          "lon": 67.05387,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kati Pahari",
+          "name_ur": "",
+          "lat": 24.944074,
+          "lon": 67.031477,
+          "coord_source": "auto:osm:node/3494728239",
+          "is_station": false
+        },
+        {
+          "name": "Orangi",
+          "name_ur": "",
+          "lat": 24.915947,
+          "lon": 67.020397,
+          "coord_source": "auto:osm:node/8294610400",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan-e-Ghazi (G-7 stop)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "SMTA route page Route 07 (status Inactive)",
+          "url": "https://smta.gos.pk/routes/7"
+        }
+      ],
+      "merge_action": "add",
+      "notes": "SMTA (smta.gos.pk/routes/7): \"Mosamiyat to Gulshan-e-Ghazi\", distance not specified, Standard, Inactive. SMTA spells \"Abdul Hasphani\" (Abul Hassan Isphahani Road) and \"Shepowner\". 2022 notification: Mausamiyat - Qaddafi Town via Gulzar-e-Hijri, Gulshan-e-Iqbal, FB Area, Baldia (ARY)."
     }
   ]
 }

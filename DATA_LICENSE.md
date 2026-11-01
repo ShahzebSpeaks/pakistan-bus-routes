@@ -48,6 +48,10 @@ Some routes and stop positions come from unofficial compilations. They are credi
 - **Pakistan Railways train schedule** (pakrailways.gov.pk/train): official station order and times for 70 trains. This is a government work; only facts (times and station order) are used.
 - **Intercity bus departure times**: NATCO's own booking search, and pkbuses.com, a third-party listing that is often incomplete. Routes from pkbuses.com name only towns, not terminals, and are marked unverified.
 
+- **Old official Karachi lists** (read from web.archive.org copies): the City District Government Karachi "Bus Routes" page of 2007, with 86 routes (system `karachi-cdgk-2007`, old routes only), and the Karachi Green Bus fare charts of 2005 (`karachi-green-bus-2005`).
+- **Khyber Pakhtunkhwa Transport Department**: the RTA Peshawar fare table of 1 April 2024, giving 52 routes with their ends and fares, and the 2011 CNG route notification (`peshawar-cng-routes-2011`, old routes only).
+- **Hours and frequencies** for Punjab and Islamabad metro, feeder and e-bus routes come from the PMA eTransit timetable for 23 October 2026.
+
 None of these publish a data licence.
 
 Wikiroutes is not used. Its terms forbid extracting or republishing its data. If a rights holder objects, their data will be removed.

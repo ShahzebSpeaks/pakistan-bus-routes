@@ -1,0 +1,654 @@
+{
+  "id": "karachi-green-bus-2005",
+  "city": "karachi",
+  "name": "Karachi Green Bus (Urban Transport Scheme), 2003-2005",
+  "name_ur": "",
+  "operator": "Karachi Green Bus Company under the CDGK Urban Transport Scheme (UTS)",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "Cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "Stage fare matrix Rs 10 (short), Rs 15, Rs 20 (longest trips, over about 25 km).",
+    "as_of": "2005-04",
+    "source_url": "https://web.archive.org/web/20050407202727/http://www.karachicity.gov.pk:80/fare.xls"
+  },
+  "hours": null,
+  "sources": [
+    {
+      "title": "CDGK fare.xls: Karachi Green Bus Company fare charts for routes UTS-4/G-2 and UTS-19/G-1",
+      "url": "https://web.archive.org/web/20050407202727/http://www.karachicity.gov.pk:80/fare.xls",
+      "publisher": "City District Government Karachi",
+      "date": "2005-04-07",
+      "official": true
+    }
+  ],
+  "routes": [
+    {
+      "id": "UTS-4",
+      "name": "Sea View - 4K Chowrangi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": "#2E7D32",
+      "status": "historical",
+      "launched": null,
+      "length_km": 37.2,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Sea View",
+          "name_ur": "",
+          "lat": 24.825266,
+          "lon": 67.042737,
+          "coord_source": "auto:osm:node/5327511635",
+          "is_station": false
+        },
+        {
+          "name": "McDonalds",
+          "name_ur": "",
+          "lat": 24.825738,
+          "lon": 67.040523,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Mazar Clifton",
+          "name_ur": "",
+          "lat": 24.826211,
+          "lon": 67.038309,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kharkar Chowrangi",
+          "name_ur": "",
+          "lat": 24.826683,
+          "lon": 67.036096,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Boat Basin",
+          "name_ur": "",
+          "lat": 24.827155,
+          "lon": 67.033882,
+          "coord_source": "auto:osm:node/12260985519",
+          "is_station": false
+        },
+        {
+          "name": "Schon Circle",
+          "name_ur": "",
+          "lat": 24.827452,
+          "lon": 67.034884,
+          "coord_source": "auto:osm:node/4731136982",
+          "is_station": false
+        },
+        {
+          "name": "Teen Talwar",
+          "name_ur": "",
+          "lat": 24.833578,
+          "lon": 67.033569,
+          "coord_source": "auto:osm:node/4963136514",
+          "is_station": false
+        },
+        {
+          "name": "Cantt Station",
+          "name_ur": "",
+          "lat": 24.843212,
+          "lon": 67.039307,
+          "coord_source": "auto:osm:node/4735339522",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah Hospital",
+          "name_ur": "",
+          "lat": 24.849734,
+          "lon": 67.047979,
+          "coord_source": "auto:osm:node/12250825918",
+          "is_station": false
+        },
+        {
+          "name": "Taj Mahal",
+          "name_ur": "",
+          "lat": 24.853768,
+          "lon": 67.049267,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "FTC",
+          "name_ur": "",
+          "lat": 24.857802,
+          "lon": 67.050555,
+          "coord_source": "auto:osm:way/483149614",
+          "is_station": false
+        },
+        {
+          "name": "Nursery",
+          "name_ur": "",
+          "lat": 24.871932,
+          "lon": 67.078799,
+          "coord_source": "auto:osm:node/4773397447",
+          "is_station": false
+        },
+        {
+          "name": "Tariq Road",
+          "name_ur": "",
+          "lat": 24.875717,
+          "lon": 67.062402,
+          "coord_source": "auto:osm:way/544945002",
+          "is_station": false
+        },
+        {
+          "name": "Shaheed-e-Millat",
+          "name_ur": "",
+          "lat": 24.879456,
+          "lon": 67.065142,
+          "coord_source": "auto:osm:node/12127976096",
+          "is_station": false
+        },
+        {
+          "name": "Jail Chowrangi",
+          "name_ur": "",
+          "lat": 24.884757,
+          "lon": 67.057054,
+          "coord_source": "auto:osm:node/4774672041",
+          "is_station": false
+        },
+        {
+          "name": "New Town",
+          "name_ur": "",
+          "lat": 24.889467,
+          "lon": 67.060792,
+          "coord_source": "auto:osm:node/5333236725",
+          "is_station": false
+        },
+        {
+          "name": "Sabzi Mandi",
+          "name_ur": "",
+          "lat": 24.901706,
+          "lon": 67.063124,
+          "coord_source": "auto:osm:node/5147829623",
+          "is_station": false
+        },
+        {
+          "name": "Civic Centre",
+          "name_ur": "",
+          "lat": 24.900681,
+          "lon": 67.073157,
+          "coord_source": "auto:same-name:ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:Route-3",
+          "is_station": false
+        },
+        {
+          "name": "Baitul Mukarram",
+          "name_ur": "",
+          "lat": 24.906652,
+          "lon": 67.082813,
+          "coord_source": "auto:osm:way/687676135",
+          "is_station": false
+        },
+        {
+          "name": "Urdu College",
+          "name_ur": "",
+          "lat": 24.913081,
+          "lon": 67.091268,
+          "coord_source": "auto:osm:node/4762522249",
+          "is_station": false
+        },
+        {
+          "name": "NIPA",
+          "name_ur": "",
+          "lat": 24.917907,
+          "lon": 67.096653,
+          "coord_source": "auto:osm:node/5112921419",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Chowrangi",
+          "name_ur": "",
+          "lat": 24.924613,
+          "lon": 67.091285,
+          "coord_source": "auto:osm:node/7409035532",
+          "is_station": false
+        },
+        {
+          "name": "UBL Complex",
+          "name_ur": "",
+          "lat": 24.931891,
+          "lon": 67.085635,
+          "coord_source": "auto:nominatim:node/5143185913",
+          "is_station": false
+        },
+        {
+          "name": "Sohrab Goth",
+          "name_ur": "",
+          "lat": 24.941717,
+          "lon": 67.085368,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Power House",
+          "name_ur": "",
+          "lat": 24.951543,
+          "lon": 67.0851,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Shafiq Mor",
+          "name_ur": "",
+          "lat": 24.961369,
+          "lon": 67.084833,
+          "coord_source": "auto:osm:node/5333760830",
+          "is_station": false
+        },
+        {
+          "name": "Nagan Chowrangi",
+          "name_ur": "",
+          "lat": 24.965857,
+          "lon": 67.066642,
+          "coord_source": "auto:osm:node/5333549822",
+          "is_station": false
+        },
+        {
+          "name": "UP Mor",
+          "name_ur": "",
+          "lat": 24.973482,
+          "lon": 67.066738,
+          "coord_source": "auto:osm:node/8637079799",
+          "is_station": false
+        },
+        {
+          "name": "Saleem Centre",
+          "name_ur": "",
+          "lat": 24.97851,
+          "lon": 67.066991,
+          "coord_source": "auto:osm:way/712203632",
+          "is_station": false
+        },
+        {
+          "name": "2 Minute Chowrangi",
+          "name_ur": "",
+          "lat": 24.998514,
+          "lon": 67.065136,
+          "coord_source": "auto:osm:node/8637079795",
+          "is_station": false
+        },
+        {
+          "name": "4K Chowrangi",
+          "name_ur": "",
+          "lat": 25.006418,
+          "lon": 67.064438,
+          "coord_source": "auto:osm:way/525195543",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "high",
+      "stop_km": [
+        0,
+        3.1,
+        5.1,
+        6.3,
+        7.7,
+        8.7,
+        9.3,
+        10.1,
+        12.4,
+        13.2,
+        14.4,
+        15.2,
+        15.9,
+        18.2,
+        18.8,
+        19.4,
+        20.2,
+        21.3,
+        22.5,
+        23.3,
+        24.3,
+        25.3,
+        26.1,
+        27.5,
+        28.6,
+        29.8,
+        30.9,
+        32.5,
+        33.9,
+        35.5,
+        37.2
+      ],
+      "sources": [
+        {
+          "title": "Karachi Green Bus Company fare chart (CDGK fare.xls), archived 7 Apr 2005",
+          "url": "https://web.archive.org/web/20050407202727/http://www.karachicity.gov.pk:80/fare.xls"
+        }
+      ],
+      "merge_action": "add_historical",
+      "notes": "Official fare-chart sheet \"FARE CHART FOR ROUTE NO. UTS-4\" (also issued as G-2) from the CDGK Transport & Communication website (linked from its fares page as \"Fare chart for route # UTS-4\"). Stops in order with cumulative km (stop_km). Fares Rs 10 / 15 / 20 by distance; sheet notes an introductory offer (Surjani to NIPA Rs 10 or 11). Green Bus (UTS) service is defunct. G-2 sheet gives Nursery 16.2 km and Tariq Road 16.9 km (UTS-4 sheet 15.2 / 15.9); UTS-4 values used. The sheet title says Surjani but the last stop listed is 4K Chowrangi."
+    },
+    {
+      "id": "UTS-19",
+      "name": "Safoora Goth - Tower",
+      "name_ur": "",
+      "variant": "regular",
+      "color": "#2E7D32",
+      "status": "historical",
+      "launched": null,
+      "length_km": 25.3,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Safoora Goth",
+          "name_ur": "",
+          "lat": 24.939295,
+          "lon": 67.156126,
+          "coord_source": "auto:osm:node/5223039136",
+          "is_station": false
+        },
+        {
+          "name": "Mausamiyat",
+          "name_ur": "",
+          "lat": 24.937483,
+          "lon": 67.144508,
+          "coord_source": "auto:same-name:ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:EV-3",
+          "is_station": false
+        },
+        {
+          "name": "KDA Flats",
+          "name_ur": "",
+          "lat": 24.929455,
+          "lon": 67.138805,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Rado Flats",
+          "name_ur": "",
+          "lat": 24.921428,
+          "lon": 67.133102,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Datari Castle",
+          "name_ur": "",
+          "lat": 24.9134,
+          "lon": 67.127399,
+          "coord_source": "auto:osm:node/5130987807",
+          "is_station": false
+        },
+        {
+          "name": "Johar Chowrangi",
+          "name_ur": "",
+          "lat": 24.904667,
+          "lon": 67.113586,
+          "coord_source": "auto:osm:node/5340602456",
+          "is_station": false
+        },
+        {
+          "name": "Rufi Lake Drive",
+          "name_ur": "",
+          "lat": 24.908455,
+          "lon": 67.12067,
+          "coord_source": "auto:osm:node/5297001619",
+          "is_station": false
+        },
+        {
+          "name": "Johar Mor",
+          "name_ur": "",
+          "lat": 24.904667,
+          "lon": 67.113586,
+          "coord_source": "auto:osm:node/5340602456",
+          "is_station": false
+        },
+        {
+          "name": "Lal Flats",
+          "name_ur": "",
+          "lat": 24.908808,
+          "lon": 67.109309,
+          "coord_source": "auto:osm:node/13998623028",
+          "is_station": false
+        },
+        {
+          "name": "Aladin Park",
+          "name_ur": "",
+          "lat": 24.910597,
+          "lon": 67.106516,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Raza Square",
+          "name_ur": "",
+          "lat": 24.912386,
+          "lon": 67.103724,
+          "coord_source": "auto:osm:node/13996264087",
+          "is_station": false
+        },
+        {
+          "name": "NIPA",
+          "name_ur": "",
+          "lat": 24.917907,
+          "lon": 67.096653,
+          "coord_source": "auto:osm:node/5112921419",
+          "is_station": false
+        },
+        {
+          "name": "Urdu College",
+          "name_ur": "",
+          "lat": 24.913081,
+          "lon": 67.091268,
+          "coord_source": "auto:osm:node/4762522249",
+          "is_station": false
+        },
+        {
+          "name": "Masjid Baitul Mukarram",
+          "name_ur": "",
+          "lat": 24.906563,
+          "lon": 67.082563,
+          "coord_source": "auto:osm:way/583418876",
+          "is_station": false
+        },
+        {
+          "name": "Civic Centre",
+          "name_ur": "",
+          "lat": 24.900681,
+          "lon": 67.073157,
+          "coord_source": "auto:same-name:ext:Habib University Karachi bus network (CC-BY-4.0):karachi-zenodo-bus-network:Route-3",
+          "is_station": false
+        },
+        {
+          "name": "Old Sabzi Mandi",
+          "name_ur": "",
+          "lat": 24.901706,
+          "lon": 67.063124,
+          "coord_source": "auto:osm:node/5147829623",
+          "is_station": false
+        },
+        {
+          "name": "New Town Police Station",
+          "name_ur": "",
+          "lat": 24.888812,
+          "lon": 67.060474,
+          "coord_source": "auto:osm:node/4734266941",
+          "is_station": false
+        },
+        {
+          "name": "Jail Chowrangi",
+          "name_ur": "",
+          "lat": 24.884757,
+          "lon": 67.057054,
+          "coord_source": "auto:osm:node/4774672041",
+          "is_station": false
+        },
+        {
+          "name": "Islamia College",
+          "name_ur": "",
+          "lat": 24.879782,
+          "lon": 67.046158,
+          "coord_source": "auto:osm:way/687683683",
+          "is_station": false
+        },
+        {
+          "name": "Guru Mandir",
+          "name_ur": "",
+          "lat": 24.88136,
+          "lon": 67.038008,
+          "coord_source": "auto:osm:node/12183370529",
+          "is_station": false
+        },
+        {
+          "name": "Numaish",
+          "name_ur": "",
+          "lat": 24.873017,
+          "lon": 67.036194,
+          "coord_source": "auto:osm:node/1868568300",
+          "is_station": false
+        },
+        {
+          "name": "7th Day Hospital",
+          "name_ur": "",
+          "lat": 24.867059,
+          "lon": 67.028034,
+          "coord_source": "auto:osm:node/5112944879",
+          "is_station": false
+        },
+        {
+          "name": "Tibet Centre",
+          "name_ur": "",
+          "lat": 24.862817,
+          "lon": 67.021907,
+          "coord_source": "auto:osm:way/723048710",
+          "is_station": false
+        },
+        {
+          "name": "Regal",
+          "name_ur": "",
+          "lat": 24.860463,
+          "lon": 67.024432,
+          "coord_source": "auto:osm:node/1868730299",
+          "is_station": false
+        },
+        {
+          "name": "Sindh Secretariat",
+          "name_ur": "",
+          "lat": 24.855028,
+          "lon": 67.018331,
+          "coord_source": "auto:osm:way/737450689",
+          "is_station": false
+        },
+        {
+          "name": "Arts Council",
+          "name_ur": "",
+          "lat": 24.852493,
+          "lon": 67.020439,
+          "coord_source": "auto:osm:way/933757834",
+          "is_station": false
+        },
+        {
+          "name": "Shaheen Complex",
+          "name_ur": "",
+          "lat": 24.850852,
+          "lon": 67.01952,
+          "coord_source": "auto:osm:way/479790520",
+          "is_station": false
+        },
+        {
+          "name": "Jang Press",
+          "name_ur": "",
+          "lat": 24.852472,
+          "lon": 67.015508,
+          "coord_source": "auto:osm:node/725227219",
+          "is_station": false
+        },
+        {
+          "name": "GPO",
+          "name_ur": "",
+          "lat": 24.850741,
+          "lon": 67.00192,
+          "coord_source": "auto:osm:way/681270189",
+          "is_station": false
+        },
+        {
+          "name": "City Station",
+          "name_ur": "",
+          "lat": 24.849441,
+          "lon": 67.005997,
+          "coord_source": "auto:nominatim:way/539432953",
+          "is_station": false
+        },
+        {
+          "name": "NBP",
+          "name_ur": "",
+          "lat": 24.849182,
+          "lon": 67.002515,
+          "coord_source": "auto:osm:node/4724172666",
+          "is_station": false
+        },
+        {
+          "name": "Tower",
+          "name_ur": "",
+          "lat": 24.847935,
+          "lon": 66.99537,
+          "coord_source": "auto:osm:node/5133250067",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "high",
+      "stop_km": [
+        0,
+        2.4,
+        3,
+        5,
+        5.6,
+        6.7,
+        7.5,
+        8.4,
+        8.9,
+        9.4,
+        9.7,
+        10.2,
+        11.2,
+        12,
+        13.3,
+        14.7,
+        15.7,
+        16.2,
+        17.4,
+        18.4,
+        19.4,
+        20.3,
+        21.1,
+        21.6,
+        22.3,
+        22.5,
+        22.9,
+        23.4,
+        23.6,
+        24.2,
+        24.8,
+        25.3
+      ],
+      "sources": [
+        {
+          "title": "Karachi Green Bus Company fare chart (CDGK fare.xls), archived 7 Apr 2005",
+          "url": "https://web.archive.org/web/20050407202727/http://www.karachicity.gov.pk:80/fare.xls"
+        }
+      ],
+      "merge_action": "add_historical",
+      "notes": "Official fare-chart sheet \"FARE CHART FOR ROUTE NO. UTS-19\" (also issued as G-1) from the CDGK Transport & Communication website (linked from its fares page as \"Fare chart for route # UTS-4\"). Stops in order with cumulative km (stop_km). Fares Rs 10 / 15 / 20 by distance; sheet notes an introductory offer (Surjani to NIPA Rs 10 or 11). Green Bus (UTS) service is defunct. UTS-19 and G-1 sheets are identical."
+    }
+  ],
+  "last_verified": "2026-11-01"
+}

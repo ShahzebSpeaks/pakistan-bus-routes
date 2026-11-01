@@ -676,6 +676,17 @@ Generated 2026-11-01 from `data/systems`. Facts (route numbers, stop names, fare
 - [Habib University Karachi bus network (CC-BY-4.0): D-10-part1](https://doi.org/10.5281/zenodo.13951512)
 - [BRT Brown Line Pre-Feasibility (Scribd)](https://www.scribd.com/document/679954497/BRT-Brown-Line-Pre-Feasibility)
 
+## Private bus and minibus routes (CDGK official list, 2007) (karachi)
+
+- [CDGK Bus Routes (busroutes.asp), Wayback capture 2007-08-25](https://web.archive.org/web/20070825153144/http://www.karachicity.gov.pk:80/busroutes.asp) · City District Government Karachi · 2007-08-25 · official
+- [Same page, Wayback capture 2007-02-21 (identical 86 routes)](https://web.archive.org/web/20070221003418/http://www.karachicity.gov.pk:80/busroutes.asp) · City District Government Karachi · 2007-02-21 · official
+- [Earlier form version with Bus / Mini Busses / UTS selector (only the Bus list archived)](https://web.archive.org/web/20061231053558/http://karachicity.gov.pk:80/busroutes.asp?LstIns=bus) · City District Government Karachi · 2006-12-31 · official
+- [mnzil: SL](https://mnzil.app/vehicles/SL)
+- [mnzil: D-11](https://mnzil.app/vehicles/D-11)
+- [mnzil: N-5](https://mnzil.app/vehicles/N-5)
+- [mnzil: P-3](https://mnzil.app/vehicles/P-3)
+- [mnzil: G-7](https://mnzil.app/vehicles/G-7)
+
 ## Chinchi (Qingqi) routes (karachi)
 
 - [musafir: data/mnzil_scrapedata.json (scraped from mnzil.app)](https://github.com/naumanaarif/musafir) · naumanaarif (GitHub) · 2026-05-17
@@ -770,6 +781,10 @@ Generated 2026-11-01 from `data/systems`. Facts (route numbers, stop names, fare
 - [OpenStreetMap Overpass extract (Karachi bbox), research/cache/osm_stations_stops.json](https://www.openstreetmap.org)
 - [Pakistan Railways - Train Timings (official train dropdown)](https://www.pakrail.gov.pk/TrainTiming.aspx) · Ministry of Railways, Government of Pakistan · 2026-09-21 · official
 - [Karachi Circular Railway begins partial operations](https://www.dawn.com/news/1591237) · Dawn · 2020-11
+
+## Karachi Green Bus (Urban Transport Scheme), 2003-2005 (karachi)
+
+- [CDGK fare.xls: Karachi Green Bus Company fare charts for routes UTS-4/G-2 and UTS-19/G-1](https://web.archive.org/web/20050407202727/http://www.karachicity.gov.pk:80/fare.xls) · City District Government Karachi · 2005-04-07 · official
 
 ## Minibus and coach routes (2010 list) (karachi)
 
@@ -896,7 +911,12 @@ Generated 2026-11-01 from `data/systems`. Facts (route numbers, stop names, fare
 - [DHA City launches bus service for its residents and visitors](https://www.thenews.com.pk/print/1192590-dha-city-launches-bus-service-for-its-residents-and-visitors)
 - [mnzil: EV-05](https://mnzil.app/vehicles/EV-05)
 - [Double-decker buses return to Karachi after decades, trial service begins](https://tribune.com.pk/story/2584770/double-decker-buses-return-to-karachi-after-decades-trial-service-begins)
+- [Timings (2026-01-01)](https://english.aaj.tv/news/330450269/double-decker-buses-with-modern-facilities-hit-karachi-roads)
 - [Sindh moves to add 500 EV buses as transport network expansion accelerates (Profit, 2026-05-19)](https://profit.pakistantoday.com.pk/2026/05/19/sindh-moves-to-add-500-ev-buses-as-transport-network-expansion-accelerates/)
+- [mnzil: X-10](https://mnzil.app/vehicles/X-10)
+- [SMTA route page Route 05 (status Inactive)](https://smta.gos.pk/routes/5)
+- [SMTA route page Route 06 (status Inactive)](https://smta.gos.pk/routes/6)
+- [SMTA route page Route 07 (status Inactive)](https://smta.gos.pk/routes/7)
 
 ## Pink Bus (Peoples Bus Service, women-only) (karachi)
 
@@ -908,6 +928,7 @@ Generated 2026-11-01 from `data/systems`. Facts (route numbers, stop names, fare
 - [Habib University Karachi bus network (CC-BY-4.0): pink-bus-part1](https://doi.org/10.5281/zenodo.13951512)
 - [Karachi Smart Transit System (MIT): R1](https://github.com/FAST-Dev-Team-Semester-Projects)
 - [mnzil: R-01](https://mnzil.app/vehicles/R-01)
+- [Timings (2024-04-25)](https://bolnews.com/latest-news/pink-bus-service-karachi-routes-and-timings)
 - [mnzil: R-02](https://mnzil.app/vehicles/R-02)
 - [mnzil: R-03](https://mnzil.app/vehicles/R-03)
 - [mnzil: R-09](https://mnzil.app/vehicles/R-09)
