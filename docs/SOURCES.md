@@ -917,13 +917,16 @@ Generated 2026-11-01 from `data/systems`. Facts (route numbers, stop names, fare
 - [mnzil: R-03](https://mnzil.app/vehicles/R-03)
 - [mnzil: R-04](https://mnzil.app/vehicles/R-04)
 - [mnzil: R-09](https://mnzil.app/vehicles/R-09)
+- [Timings: BOL News ('Karachi Red Bus R9 Routes: Reasonable & Safe Travel') (2024-02-20)](https://www.bolnews.com/?p=1025086)
 - [mnzil: R-10](https://mnzil.app/vehicles/R-10)
 - [mnzil: R-11](https://mnzil.app/vehicles/R-11)
+- [Timings: BOL News ('Karachi People's Bus R11 Routes, Timings, and Fares') (2024-01-26)](https://www.bolnews.com/latest-news/karachi-peoples-bus-r11-routes-timings-and-fares)
 - [mnzil: R-12](https://mnzil.app/vehicles/R-12)
 - [Gulshan-e-Maymar to Tower: Karachi to get new bus route](https://arynews.tv/sindh-announces-new-ev-bus-route-launch)
 - [Electric bus new route starts today (Roznama Dunya)](https://dunya.com.pk/index.php/city/karachi/2026-03-17/2644181)
 - [mnzil: R-14](https://mnzil.app/vehicles/R-14)
 - [mnzil: EV-01](https://mnzil.app/vehicles/EV-01)
+- [Timings: Dawn EOS ('Infrastructure: new buses, old problems', Samina Hassan Laghari & Arif Hasan) (2026-08-02)](https://www.dawn.com/news/2020028)
 - [mnzil: EV-02](https://mnzil.app/vehicles/EV-02)
 - [mnzil: EV-04](https://mnzil.app/vehicles/EV-04)
 - [Launch of new EV-5 bus service operation DHA City near-by goths towards down town](https://smta.sindh.gov.pk/news/launch-of-new-ev-5-bus-service-operation-dha-city-near-by-goths-towards-down-town)
@@ -948,6 +951,7 @@ Generated 2026-11-01 from `data/systems`. Facts (route numbers, stop names, fare
 - [Karachi Smart Transit System (MIT): R1](https://github.com/FAST-Dev-Team-Semester-Projects)
 - [mnzil: R-01](https://mnzil.app/vehicles/R-01)
 - [Timings (2024-04-25)](https://bolnews.com/latest-news/pink-bus-service-karachi-routes-and-timings)
+- [Timings: The Persistent (rider feature) (2024-07-25)](https://www.thepersistent.com/pink-bus-route-karachi-pakistan-women-only/)
 - [mnzil: R-02](https://mnzil.app/vehicles/R-02)
 - [mnzil: R-03](https://mnzil.app/vehicles/R-03)
 - [mnzil: R-09](https://mnzil.app/vehicles/R-09)
@@ -958,6 +962,7 @@ Generated 2026-11-01 from `data/systems`. Facts (route numbers, stop names, fare
 - [Karachi Expands Women-Only "Pink Bus" Service to Green Line Corridor](https://www.pakwheels.com/blog/karachi-expands-women-only-pink-bus-service-to-green-line-corridor/) · 2025-11-20
 - [کراچی، شرجیل میمن کا خواتین کیلئے پنک بس سروس کا نیا روٹ فعال کرنے کا اعلان](https://www.express.pk/story/2787167/) · 2025-11-15
 - [Sindh Government Decides to Launch Exclusive Bus Routes Under Public-Private Partnership (Express Urdu; mentions the Pink service on the Green Line BRT)](https://www.express.pk/story/2821194/) · 2026-07-08
+- [Timings: BOL News (Sharjeel Memon announcement) (2025-11-16)](https://bolnews.com/business/another-pink-bus-service-route-introduced-for-karachi)
 
 ## Private buses, minibuses and coaches (karachi)
 

@@ -1,0 +1,53 @@
+Karachi PBS / EV / Pink / Double-decker timings - round 5 report (researched 2026-11-01)
+File: research/incoming/karachi-timings-round5.json (36 entries, JSON validated)
+
+BOTTOM LINE
+No source anywhere publishes a per-route timetable (first/last bus per terminal, headway, run time) for the
+Peoples Bus Service. SMTA's route pages (smta.gos.pk/routes/N) list only distance, bus length ("12 M / 9 M" =
+bus length in metres, NOT minutes) and stops. Almost every news/blog article repeats one network-wide claim.
+Journey time: no source gives one for any route (journey_min is null everywhere). No Friday/Sunday difference
+was found in any source; redbus.shop (Jul 2026) says service runs daily incl. weekends and holidays.
+
+ROUTE COVERAGE
+Route-specific timing found (11 red/EV/DD + 6 pink):
+  karachi-pbs : R1, R2, R3, R4, R9, R10, R11, EV1, EV5, DD1   (R2/R3/R4/R10/EV1 only via the Ramadan-2025 notice)
+  karachi-pink-bus : R1, R2, R3, R9, R10, PINK-ACN
+Only network-level figures (entries with route_id "ALL-RED" / "ALL-EV"): R8, R12, R13, R14, EV2, EV3, EV4.
+Nothing at all for R5/R6/R7 (inactive) or EV-PLAN-ITTEHAD-CANTT.
+
+KEY FIGURES (most recent first)
+- ALL-EV: Dawn EOS 2 Aug 2026 - e-buses are "expected" every 20 min but that rarely happens; charging outages.
+- ALL-RED: redbus.shop (updated 13 Jul 2026) - 07:00-22:00 daily, ~15 min peak (08-10, 17-20), ~30 min off-peak.
+  Conflicting: Graana (Jun 2024) and Zameen (2023) 07:00-20:00; Wikipedia 08:00-20:00; Brandsynario (Oct 2023)
+  "every 10-15 minutes"; launch statement (Jun 2022) R1 07:00-00:00 with 30 buses.
+- DD1: Aaj 1 Jan 2026 - 06:00-22:00 (opening section only; nothing after the Feb 2026 Tower extension).
+- PINK-ACN: Memon 15-16 Nov 2025 - three windows 08-09, 13-14, 17-19 (official).
+- Ramadan 2025 (official, Memon 9 Mar 2025): from 15 Ramadan, R1 R2 R3 R4 R9 R10 EV1 ran 07:00-01:00.
+  No Ramadan-2026 notice found.
+- EV5: SMTA notice 23 May 2024 (official) - 2 buses, morning departures 06:00 Bahria Town, 07:00 Sohrab Goth.
+- R9: Bol 20 Feb 2024 - 07:00-22:00, 15 min peak / 30 min off-peak. R11: Bol 26 Jan 2024 - same generic figures.
+- Pink: four conflicting sets -
+    Dawn 2 Feb 2023 launch: 07:00-22:00, 20 min peak, hourly otherwise;
+    Gulf News 2 Feb 2023 (Memon): every 20 min 07-11 and 16-21;
+    Dawn 15 Feb 2023 (SMTA MD Zubair Channa, official): peak only 07:30-10:30 and 16:00-20:00;
+    Dawn 28 Mar 2024: NRTC says 30 min headway (operator) / 15-20 min (project director, up from initial 9 min),
+      18 buses on 3 routes; reporter saw no bus for 2 h on 4 days;
+    Bol 27 Apr 2024 & Zameen 2023: 07:00-20:00, 20 min peak, hourly otherwise;
+    The Persistent Jul 2024: officially 07:00-20:00, gaps up to 3 h.
+- R1 reality checks: Dawn 17 Jul 2022 (no bus 22:20-22:50 on a Friday at Metropole); Pakistan Observer
+  9 May 2023 (R1 peak 07-10, fleet cut 30 -> 20).
+
+NOTES FOR MERGING
+- "official": true is set only for SMTA notices and Sindh-minister / SMTA-MD statements quoted in news.
+- "ALL-RED"/"ALL-EV" rows are network-wide claims, not route ids; apply to system hours or every route of that type.
+- EV5 and DD1 rows repeat round4 entries (re-verified); the pink Bol Apr-2024 row repeats round4's Bol figure.
+- Data quirk seen while searching: news (APP 16 Mar 2026, The News 14 Mar 2026) calls the Gulshan-e-Maymar - Tower
+  route that our data holds as R14 a new EV bus route (32-33 km); SMTA lists it as People's Bus 14, 29 km.
+- Bol per-route articles for R1, R4, R10, EV-1 exist in search indexes ("R4 Red Bus Route in Karachi: Details and
+  Timings", "Karachi Red Bus R10: Route, Schedule, and Fare", "Peoples Bus Service EV-1 Bus Routes, Timings, Rates")
+  but all now return 404 and the archive CDX was offline; based on the R9/R11 pages they almost certainly repeat
+  07:00-22:00, 15/30 min.
+
+SAFETY
+All pages were read as stripped text in memory (archive.org pages via the id_ form). No raw HTML, PDFs or other
+downloads were saved into the project. Nothing was deleted; data/systems was not edited.
