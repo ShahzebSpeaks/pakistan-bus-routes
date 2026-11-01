@@ -163,7 +163,10 @@ export function AboutPanel({ data, index, lang, t }: AboutProps) {
       <section>
         <h3>{t.howItWorks}</h3>
         <p>{t.howItWorksBody}</p>
-        <p className="muted">{t.licenseNote}</p>
+        <p className="muted">
+          {t.licenseNote}{' '}
+          <a href={asset('privacy.html')}>{t.privacyPolicy}</a>
+        </p>
         <a className="btn btn-outline" href={REPO_URL} target="_blank" rel="noopener">
           ★ {t.contribute}
         </a>
