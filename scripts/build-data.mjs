@@ -14,7 +14,7 @@ import {
 } from './lib.mjs';
 
 const pkg = readJSON(path.join(ROOT, 'package.json'));
-const REPO_URL = process.env.REPO_URL || 'https://github.com/OWNER/pakistan-bus-routes';
+const REPO_URL = process.env.REPO_URL || 'https://github.com/ShahzebSpeaks/pakistan-bus-routes';
 const generatedAt = new Date().toISOString();
 
 const VARIANT_COLORS = {

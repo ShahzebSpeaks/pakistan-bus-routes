@@ -1,5 +1,5 @@
 /** Public repository URL. Set VITE_REPO_URL at build time (CI does this automatically). */
-export const REPO_URL: string = import.meta.env.VITE_REPO_URL || 'https://github.com/OWNER/pakistan-bus-routes';
+export const REPO_URL: string = import.meta.env.VITE_REPO_URL || 'https://github.com/ShahzebSpeaks/pakistan-bus-routes';
 
 export const TILE_URL: string = import.meta.env.VITE_TILE_URL || 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
 export const TILE_ATTRIBUTION =

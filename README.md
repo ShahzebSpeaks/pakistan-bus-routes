@@ -4,7 +4,7 @@ An open-source map, route guide and trip planner for public buses, BRT and metro
 
 Pakistan has no official open transit data. There is no GTFS feed and no public API. Route information is scattered across government pages, news reports, social media posts and route-guide websites. This project collects it in one place, cites every source, matches stops to OpenStreetMap and publishes it as a web app, GeoJSON and GTFS.
 
-**Live site:** `https://<your-github-username>.github.io/pakistan-bus-routes/` (after you enable GitHub Pages, see below)
+**Live site:** https://shahzebspeaks.github.io/pakistan-bus-routes/
 
 > ⚠️ Community-compiled data. Routes, stops and fares change often. Confirm with the operator before you travel, and please [report mistakes](../../issues/new/choose).
 
