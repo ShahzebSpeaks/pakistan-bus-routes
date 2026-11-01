@@ -1,0 +1,715 @@
+{
+  "id": "charsadda-private-wagons",
+  "city": "peshawar",
+  "name": "Charsadda private wagons and minibuses",
+  "name_ur": "",
+  "operator": "Private operators (route permits by RTA Peshawar)",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "RTA Peshawar 01-04-2024 per-km rates: flying coach/minibus Rs 2.97, A/C bus 3.17, ordinary bus 2.82, deluxe 2.92 per km per passenger; 50% concession for students, blind/disabled, over-60s.",
+    "as_of": "2024-04-01",
+    "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH, 01/04/2024 (scanned pages 03-04)",
+      "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg",
+      "publisher": "Regional Transport Authority Peshawar (via transport.kp.gov.pk)",
+      "date": "2024-04-01",
+      "official": true
+    }
+  ],
+  "routes": [
+    {
+      "id": "RTA-PSH-77",
+      "name": "Charsadda - Nisatta",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 6,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 18,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 19, ordinary bus Rs 17, deluxe Rs 18. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Charsadda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nisatta",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 77 (section 'District Charsadda')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 77 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Charsadda'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified."
+    },
+    {
+      "id": "RTA-PSH-78",
+      "name": "Charsadda - Turlandi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 8,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 24,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 25, ordinary bus Rs 23, deluxe Rs 23. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Charsadda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Turlandi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 78 (section 'District Charsadda')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 78 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Charsadda'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified."
+    },
+    {
+      "id": "RTA-PSH-79",
+      "name": "Charsadda - Qila Ganay",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 12,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 36,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 38, ordinary bus Rs 34, deluxe Rs 35. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Charsadda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Qila Ganay",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 79 (section 'District Charsadda')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 79 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Charsadda'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified."
+    },
+    {
+      "id": "RTA-PSH-80",
+      "name": "Charsadda - Deri Zardad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 14,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 42,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 44, ordinary bus Rs 39, deluxe Rs 41. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Charsadda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Deri Zardad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 80 (section 'District Charsadda')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 80 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Charsadda'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified."
+    },
+    {
+      "id": "RTA-PSH-81",
+      "name": "Charsadda - Nowshera",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 33,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 98,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 105, ordinary bus Rs 93, deluxe Rs 96. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Charsadda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nowshera",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 81 (section 'District Charsadda')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 81 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Charsadda'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified."
+    },
+    {
+      "id": "RTA-PSH-82",
+      "name": "Charsadda - Dag Khana",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 25,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 74,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 79, ordinary bus Rs 71, deluxe Rs 73. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Charsadda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dag Khana",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 82 (section 'District Charsadda')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 82 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Charsadda'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified."
+    },
+    {
+      "id": "RTA-PSH-83",
+      "name": "Charsadda - Naguman",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 17,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 50,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 54, ordinary bus Rs 48, deluxe Rs 50. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Charsadda",
+          "name_ur": "",
+          "lat": 34.123056,
+          "lon": 71.610043,
+          "coord_source": "auto:osm:way/28020378",
+          "is_station": false
+        },
+        {
+          "name": "Naguman",
+          "name_ur": "",
+          "lat": 34.123236,
+          "lon": 71.609392,
+          "coord_source": "auto:osm:way/28020297",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 83 (section 'District Charsadda')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 83 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Charsadda'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified."
+    },
+    {
+      "id": "RTA-PSH-84",
+      "name": "Charsadda - Utmanzai",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 6,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 18,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 19, ordinary bus Rs 17, deluxe Rs 18. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Charsadda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Utmanzai",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 84 (section 'District Charsadda')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 84 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Charsadda'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified."
+    },
+    {
+      "id": "RTA-PSH-85",
+      "name": "Charsadda - Umerzai",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 11,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 33,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 35, ordinary bus Rs 31, deluxe Rs 32. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Charsadda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Umerzai",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 85 (section 'District Charsadda')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 85 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Charsadda'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified."
+    },
+    {
+      "id": "RTA-PSH-86",
+      "name": "Charsadda - Sherpao",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 15,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 45,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 48, ordinary bus Rs 42, deluxe Rs 44. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Charsadda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sherpao",
+          "name_ur": "",
+          "lat": 33.996685,
+          "lon": 71.486246,
+          "coord_source": "auto:nominatim:way/1450176056",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 86 (section 'District Charsadda')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 86 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Charsadda'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified."
+    },
+    {
+      "id": "RTA-PSH-87",
+      "name": "Charsadda - Tangi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 21,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 62,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 67, ordinary bus Rs 59, deluxe Rs 61. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Charsadda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Tangi",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 87 (section 'District Charsadda')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 87 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Charsadda'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified."
+    },
+    {
+      "id": "RTA-PSH-88",
+      "name": "Charsadda - Harichand",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 29,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 86,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 92, ordinary bus Rs 82, deluxe Rs 85. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Charsadda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Harichand",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 88 (section 'District Charsadda')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 88 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Charsadda'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified."
+    },
+    {
+      "id": "RTA-PSH-111",
+      "name": "Ghalanai (Mohmand) - Shabqadar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 37,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 110,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 117, ordinary bus Rs 104, deluxe Rs 108. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Ghalanai (Mohmand)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Shabqadar",
+          "name_ur": "",
+          "lat": 34.143543,
+          "lon": 71.60451,
+          "coord_source": "auto:nominatim:way/814005580",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 111 (section 'District Mohmand')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 111 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Mohmand'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified."
+    }
+  ],
+  "_merge_note": "NEW system; needs a 'charsadda' entry in data/cities.json (or attach to peshawar). Includes serial 111 Ghalanai - Shabqadar (printed under District Mohmand; Shabqadar is in Charsadda district).",
+  "notes": "Routes licensed by RTA Peshawar; shown with Peshawar.",
+  "last_verified": "2026-11-01"
+}

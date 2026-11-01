@@ -1,0 +1,351 @@
+{
+  "id": "khyber-private-wagons",
+  "city": "peshawar",
+  "name": "Khyber district wagons and minibuses (Jamrud, Landi Kotal, Bara)",
+  "name_ur": "",
+  "operator": "Private operators (route permits by RTA Peshawar)",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "RTA Peshawar 01-04-2024 per-km rates: flying coach/minibus Rs 2.97, A/C bus 3.17, ordinary bus 2.82, deluxe 2.92 per km per passenger; 50% concession for students, blind/disabled, over-60s.",
+    "as_of": "2024-04-01",
+    "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH, 01/04/2024 (scanned page 04)",
+      "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg",
+      "publisher": "Regional Transport Authority Peshawar (via transport.kp.gov.pk)",
+      "date": "2024-04-01",
+      "official": true
+    }
+  ],
+  "routes": [
+    {
+      "id": "RTA-PSH-99",
+      "name": "Khyber - Bara",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 14,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 42,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 44, ordinary bus Rs 39, deluxe Rs 41. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Khyber",
+          "name_ur": "",
+          "lat": 34.0075,
+          "lon": 71.376966,
+          "coord_source": "auto:osm:way/1455384489",
+          "is_station": false
+        },
+        {
+          "name": "Bara",
+          "name_ur": "",
+          "lat": 33.966559,
+          "lon": 71.451272,
+          "coord_source": "auto:nominatim:way/676372106",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 99 (section 'District Khyber')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 99 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Khyber'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified. 'Khyber' as printed: the origin stand is not named further (Khyber to Jamrud is 4 km, so probably a stand at the Peshawar/Khyber boundary near Takhta Baig/Bab-e-Khyber)."
+    },
+    {
+      "id": "RTA-PSH-100",
+      "name": "Khyber - Jamrud",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 4,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 12,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 13, ordinary bus Rs 11, deluxe Rs 12. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Khyber",
+          "name_ur": "",
+          "lat": 34.0075,
+          "lon": 71.376966,
+          "coord_source": "auto:osm:way/1455384489",
+          "is_station": false
+        },
+        {
+          "name": "Jamrud",
+          "name_ur": "",
+          "lat": 34.007323,
+          "lon": 71.378049,
+          "coord_source": "auto:osm:node/2433024865",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 100 (section 'District Khyber')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 100 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Khyber'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified. 'Khyber' as printed: the origin stand is not named further (Khyber to Jamrud is 4 km, so probably a stand at the Peshawar/Khyber boundary near Takhta Baig/Bab-e-Khyber)."
+    },
+    {
+      "id": "RTA-PSH-101",
+      "name": "Khyber - Landi Kotal",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 33,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 98,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 105, ordinary bus Rs 93, deluxe Rs 96. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Khyber",
+          "name_ur": "",
+          "lat": 34.0075,
+          "lon": 71.376966,
+          "coord_source": "auto:osm:way/1455384489",
+          "is_station": false
+        },
+        {
+          "name": "Landi Kotal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 101 (section 'District Khyber')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 101 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Khyber'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified. 'Khyber' as printed: the origin stand is not named further (Khyber to Jamrud is 4 km, so probably a stand at the Peshawar/Khyber boundary near Takhta Baig/Bab-e-Khyber)."
+    },
+    {
+      "id": "RTA-PSH-102",
+      "name": "Khyber - Mula Gori",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 29,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 86,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 92, ordinary bus Rs 82, deluxe Rs 85. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Khyber",
+          "name_ur": "",
+          "lat": 34.0075,
+          "lon": 71.376966,
+          "coord_source": "auto:osm:way/1455384489",
+          "is_station": false
+        },
+        {
+          "name": "Mula Gori",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 102 (section 'District Khyber')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 102 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Khyber'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified. 'Khyber' as printed: the origin stand is not named further (Khyber to Jamrud is 4 km, so probably a stand at the Peshawar/Khyber boundary near Takhta Baig/Bab-e-Khyber)."
+    },
+    {
+      "id": "RTA-PSH-103",
+      "name": "Khyber - Torkham",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 39,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 116,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 124, ordinary bus Rs 110, deluxe Rs 114. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Khyber",
+          "name_ur": "",
+          "lat": 34.0075,
+          "lon": 71.376966,
+          "coord_source": "auto:osm:way/1455384489",
+          "is_station": false
+        },
+        {
+          "name": "Torkham",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 103 (section 'District Khyber')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 103 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Khyber'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified. 'Khyber' as printed: the origin stand is not named further (Khyber to Jamrud is 4 km, so probably a stand at the Peshawar/Khyber boundary near Takhta Baig/Bab-e-Khyber)."
+    },
+    {
+      "id": "RTA-PSH-104",
+      "name": "Khyber - Tirah",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 100,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 297,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 317, ordinary bus Rs 282, deluxe Rs 292. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Khyber",
+          "name_ur": "",
+          "lat": 34.0075,
+          "lon": 71.376966,
+          "coord_source": "auto:osm:way/1455384489",
+          "is_station": false
+        },
+        {
+          "name": "Tirah",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 104 (section 'District Khyber')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 104 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Khyber'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified. 'Khyber' as printed: the origin stand is not named further (Khyber to Jamrud is 4 km, so probably a stand at the Peshawar/Khyber boundary near Takhta Baig/Bab-e-Khyber)."
+    }
+  ],
+  "_merge_note": "NEW system; needs a 'khyber' entry in data/cities.json (or attach to peshawar).",
+  "notes": "Routes licensed by RTA Peshawar; shown with Peshawar.",
+  "last_verified": "2026-11-01"
+}

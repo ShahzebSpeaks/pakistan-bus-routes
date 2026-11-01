@@ -13,6 +13,8 @@ Generated 2026-11-01 from `data/systems`. Facts (route numbers, stop names, fare
 - [Traffic Management Plan Abbottabad (Urban Policy Unit, P&D KP), Annexure II terminal surveys](https://urbanpolicyunit.gkp.pk/wp-content/uploads/2020/03/Traffic-Management-Plan-Abbottabad.o.pdf) · Urban Policy Unit, P&D Dept KP · 2014-09-29 · official
 - [ایبٹ آباد پولیس نے لوکل سوزوکی اور کیری ڈبہ کے لیے سٹکر جاری کر دیا](https://hazaraexpressnews.org/2409/) · Hazara Express News · 2024-08-06
 - [Commissioner Hazara launches colour-coded public transport system in Abbottabad](https://www.app.com.pk/kp/commissioner-hazara-launches-color-coded-public-transport-system-in-abbottabad/) · APP · 2026-07-07
+- [Source dated 2026-07-10](https://www.app.com.pk/?p=1243449)
+- [Source dated 2026-06-03](https://www.app.com.pk/kp/drivers-protest-fare-reduction-in-abbottabad-authorities-enforce-official-rta-rates/)
 
 ## Green Electric Bus Attock (attock)
 
@@ -67,6 +69,12 @@ Generated 2026-11-01 from `data/systems`. Facts (route numbers, stop names, fare
 - [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Chakwal route](https://www.safar.fyi/chakwal/transit-lines/ckw%3A183)
 - [safar.fyi Chakwal route](https://www.safar.fyi/chakwal/transit-lines/ckw%3A185)
+
+## Charsadda private wagons and minibuses (peshawar)
+
+- [RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH, 01/04/2024 (scanned pages 03-04)](https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg) · Regional Transport Authority Peshawar (via transport.kp.gov.pk) · 2024-04-01 · official
+- [KP Transport & Mass Transit Dept notifications page (hosts the scans)](https://transport.kp.gov.pk/notification.html)
+- [RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 111 (section 'District Mohmand')](https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg)
 
 ## Green Electric Bus Chiniot (chiniot)
 
@@ -636,6 +644,8 @@ Generated 2026-11-01 from `data/systems`. Facts (route numbers, stop names, fare
 - [Zaid kiraye wasool karne par 17 gariyan tehweel mein (RTA Rawalpindi overcharging crackdown)](https://www.nawaiwaqt.com.pk/10-Jul-2026/2009121) · Nawa-i-Waqt · 2026-07-10
 - [OpenStreetMap (Overpass API query of named stops/places)](https://www.openstreetmap.org) · OpenStreetMap contributors (ODbL 1.0) · 2026-09-21
 - [Wikidata (research/wikidata-stations.json)](https://www.wikidata.org) · Wikidata (CC0) · 2026-09-16
+- [Source dated 2020-03-02](https://www.zameen.com/news/two-new-public-transportation-routes-approved-iia.html)
+- [Source dated 2003-03-08](https://www.dawn.com/news/86335)
 
 ## Green Electric Bus Jhang (jhang)
 
@@ -800,6 +810,25 @@ Generated 2026-11-01 from `data/systems`. Facts (route numbers, stop names, fare
 - [OpenStreetMap Overpass extract (Karachi bbox), research/cache/osm_stations_stops.json](https://www.openstreetmap.org)
 - [Pakistan Railways - Train Timings (official train dropdown)](https://www.pakrail.gov.pk/TrainTiming.aspx) · Ministry of Railways, Government of Pakistan · 2026-09-21 · official
 - [Karachi Circular Railway begins partial operations](https://www.dawn.com/news/1591237) · Dawn · 2020-11
+
+## DRTA Karachi route notices in Dawn (2002-2003) (karachi)
+
+- [Dawn archive: DRTA/RTA Karachi route creations and amendments, 2002-2003 (12 articles; URLs per route)](https://www.dawn.com/news/15149) · Dawn · 2002-01-16
+- [KARACHI: Changes in bus routes announced (Dawn)](https://www.dawn.com/news/15149/karachi-changes-in-bus-routes-announced)
+- [mnzil: Mashriq](https://mnzil.app/vehicles/Mashriq)
+- [KARACHI: City bus routes changed (Dawn)](https://www.dawn.com/news/54283/karachi-city-bus-routes-changed)
+- [KARACHI: Bus routes changed (Dawn)](https://www.dawn.com/news/57686/karachi-bus-routes-changed)
+- [mnzil: R-14](https://mnzil.app/vehicles/R-14)
+- [KARACHI: New bus route (Dawn, APP)](https://www.dawn.com/news/73626/karachi-new-bus-route)
+- [KARACHI: New minibus route (Dawn)](https://www.dawn.com/news/76994/karachi-new-minibus-route)
+- [KARACHI: Route buses without permits to be impounded (Dawn)](https://www.dawn.com/news/80001)
+- [KARACHI: Ibad opens new bus service (Dawn)](https://www.dawn.com/news/80459)
+- [KARACHI: New mini-bus routes approved (Dawn)](https://www.dawn.com/news/93325/karachi-new-mini-bus-routes-approved)
+- [KARACHI: Four CNG buses granted route (Dawn)](https://www.dawn.com/news/68802)
+- [mnzil: G-3](https://mnzil.app/vehicles/G-3)
+- [KARACHI: Coach route amended (Dawn)](https://www.dawn.com/news/102877)
+- [KARACHI: New bus route (Dawn)](https://www.dawn.com/news/32168)
+- [KARACHI: New bus route for Landhi, Surjani (Dawn)](https://www.dawn.com/news/123579)
 
 ## Karachi Green Bus (Urban Transport Scheme), 2003-2005 (karachi)
 
@@ -1012,6 +1041,11 @@ Generated 2026-11-01 from `data/systems`. Facts (route numbers, stop names, fare
 - [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Khushab route](https://www.safar.fyi/khushab/transit-lines/etransit-khushab%3A303)
 - [safar.fyi Khushab route](https://www.safar.fyi/khushab/transit-lines/etransit-khushab%3A298)
+
+## Khyber district wagons and minibuses (Jamrud, Landi Kotal, Bara) (peshawar)
+
+- [RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH, 01/04/2024 (scanned page 04)](https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg) · Regional Transport Authority Peshawar (via transport.kp.gov.pk) · 2024-04-01 · official
+- [KP Transport & Mass Transit Dept notifications page (hosts the scans)](https://transport.kp.gov.pk/notification.html)
 
 ## Green Electric Bus Lahore (Electro) (lahore)
 
@@ -1311,6 +1345,11 @@ Generated 2026-11-01 from `data/systems`. Facts (route numbers, stop names, fare
 - [Peoples Bus Service](https://en.wikipedia.org/wiki/Peoples_Bus_Service) · Wikipedia
 - [SBA route](https://smta.gos.pk/routes/26)
 
+## Nowshera private wagons and minibuses (peshawar)
+
+- [RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH, 01/04/2024 (scanned pages 03-04)](https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2003.jpeg) · Regional Transport Authority Peshawar (via transport.kp.gov.pk) · 2024-04-01 · official
+- [KP Transport & Mass Transit Dept notifications page (hosts the scans)](https://transport.kp.gov.pk/notification.html)
+
 ## Green Electric Bus Okara (okara)
 
 - [CM launches e-bus service in five more districts](https://www.brecorder.com/news/40430390/cm-launches-e-bus-service-in-five-more-districts) · Business Recorder · 2026-07-17
@@ -1444,6 +1483,7 @@ Generated 2026-11-01 from `data/systems`. Facts (route numbers, stop names, fare
 - [RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 1 (section 'Kohat Road Peshawar')](https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg)
 - [KP Transport & Mass Transit Dept notifications page (hosts the scans)](https://transport.kp.gov.pk/notification.html)
 - [RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 24 (section 'Warsak Road Peshawar')](https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg)
+- [RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 96 (section 'District Khyber')](https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg)
 
 ## Zu Peshawar (TransPeshawar BRT) (peshawar)
 
@@ -1519,6 +1559,7 @@ Generated 2026-11-01 from `data/systems`. Facts (route numbers, stop names, fare
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/rwp%3A93)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/rwp%3A94)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/rwp%3A91)
+- [Source dated 2025-09-27](https://www.dawn.com/news/1944855)
 
 ## Rawalpindi Integrated Transportation System Phase I (PMA plan) (islamabad-rawalpindi)
 

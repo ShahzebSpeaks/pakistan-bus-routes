@@ -1177,6 +1177,206 @@
         }
       ],
       "notes": "Ordered stops, positions and departures from PMA eTransit (route 99); hours and frequency from the official timetable for 2026-11-01."
+    },
+    {
+      "id": "RTA-PLAN-3",
+      "name": "Umar Baig Chowk - Mandi Mor (RTA-allocated e-bus route)",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Umar Baig Chowk",
+          "name_ur": "",
+          "lat": 33.600606,
+          "lon": 73.088502,
+          "coord_source": "auto:same-name:ext:safar.fyi:rwp:92",
+          "is_station": false
+        },
+        {
+          "name": "Mandi Mor",
+          "name_ur": "",
+          "lat": 33.614517,
+          "lon": 73.056509,
+          "coord_source": "auto:osm:way/722409631",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2025-09-27",
+          "url": "https://www.dawn.com/news/1944855"
+        }
+      ],
+      "notes": "One of 10 routes allocated by RTA Rawalpindi for 80 e-buses (Dawn 2025-09-27, route 3). Not matched to any route in data; may have opened under another code. (source date 2025-09-27)"
+    },
+    {
+      "id": "RTA-PLAN-6",
+      "name": "Faizabad - Tramri Chowk (RTA-allocated e-bus route)",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Faizabad",
+          "name_ur": "",
+          "lat": 33.662161,
+          "lon": 73.083439,
+          "coord_source": "auto:photon:N/274766983",
+          "is_station": false
+        },
+        {
+          "name": "Tramri Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2025-09-27",
+          "url": "https://www.dawn.com/news/1944855"
+        }
+      ],
+      "notes": "One of 10 routes allocated by RTA Rawalpindi for 80 e-buses (Dawn 2025-09-27, route 6). Not matched to any route in data; may have opened under another code. (source date 2025-09-27)"
+    },
+    {
+      "id": "RTA-PLAN-7",
+      "name": "IJP Metro Station - Kuri Road (RTA-allocated e-bus route)",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "IJP Metro Station",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kuri Road",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2025-09-27",
+          "url": "https://www.dawn.com/news/1944855"
+        }
+      ],
+      "notes": "One of 10 routes allocated by RTA Rawalpindi for 80 e-buses (Dawn 2025-09-27, route 7). Not matched to any route in data; may have opened under another code. (source date 2025-09-27)"
+    },
+    {
+      "id": "RTA-PLAN-8",
+      "name": "Saddar - Lalarukh Colony (RTA-allocated e-bus route)",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Saddar",
+          "name_ur": "",
+          "lat": 33.593496,
+          "lon": 73.053604,
+          "coord_source": "auto:same-name:ext:etransit.punjab.gov.pk:stop/2005",
+          "is_station": false
+        },
+        {
+          "name": "Lalarukh Colony",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2025-09-27",
+          "url": "https://www.dawn.com/news/1944855"
+        }
+      ],
+      "notes": "One of 10 routes allocated by RTA Rawalpindi for 80 e-buses (Dawn 2025-09-27, route 8). Not matched to any route in data; may have opened under another code. (source date 2025-09-27)"
+    },
+    {
+      "id": "RTA-PLAN-9",
+      "name": "Umair Baig Road - Qadeemi Imambargah Mohallah (RTA-allocated e-bus route)",
+      "name_ur": "",
+      "variant": "electric",
+      "color": null,
+      "status": "planned",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Umair Baig Road",
+          "name_ur": "",
+          "lat": 33.555756,
+          "lon": 73.089126,
+          "coord_source": "auto:photon:W/229873286",
+          "is_station": false
+        },
+        {
+          "name": "Qadeemi Imambargah Mohallah",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2025-09-27",
+          "url": "https://www.dawn.com/news/1944855"
+        }
+      ],
+      "notes": "One of 10 routes allocated by RTA Rawalpindi for 80 e-buses (Dawn 2025-09-27, route 9). Not matched to any route in data; may have opened under another code. (source date 2025-09-27)"
     }
   ]
 }

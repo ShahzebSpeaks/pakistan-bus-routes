@@ -2,7 +2,7 @@
 
 Generated 2026-11-01 by `npm run data:build`. Do not edit by hand.
 
-**54 cities · 162 systems · 1852 published routes · 8108 stops**
+**54 cities · 166 systems · 1937 published routes · 8232 stops**
 
 Coordinate quality: **exact** = verified (OpenStreetMap element or Wikipedia, checked by a person), **guide** = position published by a route guide such as safar.fyi, **matched** = automatic OpenStreetMap name match, **geocoded** = Nominatim search, **estimated** = interpolated between neighbours, **missing** = not on the map yet.
 
@@ -705,6 +705,31 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Karachi Circular Railway | KCR-2DN | KCR-2 | operational | 0 | - | - | - | - | - | 0 | low |
 | Karachi Circular Railway | KCR-3DNDN | KCR-3 | operational | 0 | - | - | - | - | - | 0 | low |
 | Karachi Circular Railway | KCR-4DN | KCR-4 | operational | 0 | - | - | - | - | - | 0 | low |
+| DRTA Karachi route notices in Dawn (2002-2003) | 1-L | Orangi Town L Block - Sharifabad (Korangi Industrial Area) | historical | 15 | 0% | 13% | 73% | 0% | 0% | 2 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | New Kashmir Coach | Khokhrapar (Chaman Colony) - Fisheries | historical | 23 | 0% | 0% | 87% | 4% | 9% | 0 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | 17-L | Cattle Colony (Machine Tool Factory) - Depot Lines | historical | 16 | 0% | 0% | 63% | 0% | 31% | 1 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | B-3 | Cantt Station - Ibrahim Hyderi | historical | 12 | 0% | 0% | 75% | 0% | 25% | 0 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | 1-C | MPR Colony - 500 Quarters (Mauripur) | historical | 17 | 0% | 0% | 71% | 12% | 12% | 1 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | Z-7 | Rehmat Chowk (Orangi) - Saba Cinema | historical | 15 | 0% | 0% | 73% | 7% | 20% | 0 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | Z-25 | Rehmat Chowk (Orangi) - Saba Cinema | historical | 15 | 0% | 0% | 73% | 7% | 20% | 0 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | Y | Fleet Club - Shah Faisal Colony (Reta Plot) | historical | 16 | 0% | 0% | 88% | 6% | 6% | 0 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | F-6 | Model Colony Qabrastan - Agra Taj Colony | historical | 28 | 0% | 0% | 68% | 7% | 25% | 0 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | Super Muslim Coach | Gulshan-e-Hadeed - Gulbai / New Mauripur | historical | 19 | 0% | 0% | 58% | 0% | 32% | 2 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | 4 | New Sabzi Mandi - Tower | historical | 11 | 0% | 0% | 73% | 9% | 9% | 1 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | S-2 | Korangi 100 Quarters - Ayub Goth | historical | 25 | 0% | 0% | 76% | 12% | 8% | 1 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | 10-A | Sindbad (Clifton) - Abidabad | historical | 15 | 0% | 0% | 53% | 7% | 40% | 0 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | 5 | Gulshan-e-Bihar (Orangi) - Khokhrapar (Bhains Colony) | historical | 27 | 0% | 0% | 70% | 7% | 19% | 1 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | G-27 | Orangi Town (Siddiq-e-Akbar Colony) - Airport | historical | 23 | 0% | 0% | 65% | 4% | 26% | 1 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | P-6 | Khokhrapar (Chaman Colony) - Naval Colony | historical | 28 | 0% | 0% | 68% | 0% | 32% | 0 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | Surjani-Tower (private co.) | Surjani Town - Tower | historical | 9 | 0% | 0% | 78% | 0% | 0% | 2 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | 2-B | Tower - North Karachi (CDGK green diesel buses) | historical | 11 | 0% | 0% | 91% | 0% | 0% | 1 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | DRTAB-2003-ORANGI-AYUBGOTH | Gulshan-e-Bihar (Orangi) - Ayub Goth | historical | 21 | 0% | 0% | 76% | 10% | 5% | 2 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | DRTAB-2003-PIB-QADHAFI | Jail Chowrangi (PIB Colony) - Qadhafi Town (Landhi) | historical | 20 | 0% | 0% | 55% | 15% | 20% | 2 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | W-25 | Saba Cinema (North Karachi) - New Sabzi Mandi | historical | 20 | 0% | 0% | 55% | 0% | 30% | 3 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | GREEN-CNG-JAUHAR-TOWER | Gulistan-e-Jauhar - Tower (Green Bus CNG) | historical | 8 | 0% | 0% | 100% | 0% | 0% | 0 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | Jamal Coach | Surjani Town 5-D - Islam Nagar (Orangi) | historical | 29 | 0% | 0% | 83% | 3% | 10% | 1 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | 15-E | Malir-Khokhrapar - Sher Shah / Gulbai (Express) | historical | 13 | 0% | 0% | 100% | 0% | 0% | 0 | medium |
+| DRTA Karachi route notices in Dawn (2002-2003) | GREEN-EXP-LANDHI-SURJANI | Landhi - Surjani Town (Green Bus express) | historical | 15 | 0% | 0% | 53% | 13% | 27% | 1 | medium |
 | Karachi Green Bus (Urban Transport Scheme), 2003-2005 | UTS-4 | Sea View - 4K Chowrangi | historical | 31 | 0% | 0% | 77% | 3% | 19% | 0 | high |
 | Karachi Green Bus (Urban Transport Scheme), 2003-2005 | UTS-19 | Safoora Goth - Tower | historical | 32 | 0% | 0% | 88% | 3% | 9% | 0 | high |
 | Minibus and coach routes (2010 list) | 1-A | Faqir Colony - Tower | historical | 14 | 0% | 0% | 50% | 0% | 50% | 0 | low |
@@ -1396,7 +1421,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 23 | Ghareeb Abad - Secretariat | unverified | 11 | 55% | 0% | 18% | 0% | 18% | 1 | low |
 | Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 24 | Adiala - Secretariat | unverified | 10 | 70% | 0% | 20% | 0% | 10% | 0 | low |
 | Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 29 | Liaquat Road - Rawat | unverified | 15 | 20% | 0% | 40% | 0% | 27% | 2 | low |
-| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 32 | Pirwadhai Adda - CDA Chowk | unverified | 15 | 13% | 0% | 40% | 0% | 47% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 32 | Pirwadhai Adda - CDA Chowk | unverified | 15 | 13% | 0% | 47% | 0% | 40% | 0 | low |
 | Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 101 | Pirwadhai Adda - Faisal Masjid | unverified | 10 | 40% | 0% | 30% | 0% | 30% | 0 | medium |
 | Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 102 | Pirwadhai - Pak Secretariat | unverified | 13 | 62% | 0% | 15% | 0% | 23% | 0 | low |
 | Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | 103 | Double Road I-8 (Faizabad) - E-9 | unverified | 8 | 25% | 0% | 63% | 0% | 13% | 0 | low |
@@ -1462,6 +1487,9 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | W-SADDAR-KUTCHERY | Saddar - Kutchery | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
 | Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | W-RAJA-MORGAH | Raja Bazaar - Morgah | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
 | Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | W-SADDAR-PIRWADHAI | Saddar - Pirwadhai | unverified | 2 | 100% | 0% | 0% | 0% | 0% | 0 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | RTA-RWP-IIA-1 | Rawat - Islamabad International Airport (AC bus) | unverified | 12 | 0% | 0% | 50% | 0% | 42% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | RTA-RWP-IIA-2 | Koral Chowk - Islamabad International Airport (AC bus) | unverified | 12 | 0% | 0% | 75% | 0% | 17% | 1 | low |
+| Rawalpindi-Islamabad private wagons, Hiace and Suzuki vans | ITA-2003-MARGALLA-F11 | Margalla Town - F-11 Service Road | historical | 10 | 0% | 0% | 70% | 0% | 10% | 2 | medium |
 | Rawalpindi Electric Bus (Punjab Green Electric Bus) | RWP-EB-01 | Saddar - Qabristan Chowk (via Qasim Market) | operational | 12 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
 | Rawalpindi Electric Bus (Punjab Green Electric Bus) | RWP-EB-01X | Saddar - Bhatta Chowk (via Qasim Market, Misriyal) | operational | 16 | 0% | 100% | 0% | 0% | 0% | 0 | high |
 | Rawalpindi Electric Bus (Punjab Green Electric Bus) | RWP-EB-02 | Fawara Chowk - Koral Chowk (via Liaquat Bagh, Old Airport Road) | operational | 19 | 16% | 84% | 0% | 0% | 0% | 0 | medium |
@@ -1469,6 +1497,11 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Rawalpindi Electric Bus (Punjab Green Electric Bus) | RWP-EB-04 | Marrir Metro Station - Motorway Chowk 26 Number (via The Mall, Pirwadhai) | operational | 22 | 9% | 91% | 0% | 0% | 0% | 0 | medium |
 | Rawalpindi Electric Bus (Punjab Green Electric Bus) | RWP-EB-05 | Rawalpindi Railway Station - Hamrahi Bus Stop (Adiala Road) | operational | 15 | 7% | 93% | 0% | 0% | 0% | 0 | high |
 | Rawalpindi Electric Bus (Punjab Green Electric Bus) | RFR-99 | Umar Baig Chowk to TB Hospital | operational | 11 | 0% | 100% | 0% | 0% | 0% | 0 | high |
+| Rawalpindi Electric Bus (Punjab Green Electric Bus) | RTA-PLAN-3 | Umar Baig Chowk - Mandi Mor (RTA-allocated e-bus route) | planned | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Rawalpindi Electric Bus (Punjab Green Electric Bus) | RTA-PLAN-6 | Faizabad - Tramri Chowk (RTA-allocated e-bus route) | planned | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Rawalpindi Electric Bus (Punjab Green Electric Bus) | RTA-PLAN-7 | IJP Metro Station - Kuri Road (RTA-allocated e-bus route) | planned | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Rawalpindi Electric Bus (Punjab Green Electric Bus) | RTA-PLAN-8 | Saddar - Lalarukh Colony (RTA-allocated e-bus route) | planned | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Rawalpindi Electric Bus (Punjab Green Electric Bus) | RTA-PLAN-9 | Umair Baig Road - Qadeemi Imambargah Mohallah (RTA-allocated e-bus route) | planned | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
 | Rawalpindi Integrated Transportation System Phase I (PMA plan) | PMA-RWP-1 | Suwan Adda - Railway Station | planned | 3 | 0% | 0% | 33% | 0% | 0% | 2 | low |
 | Rawalpindi Integrated Transportation System Phase I (PMA plan) | PMA-RWP-2 | Islamabad Expressway - Railway Station | planned | 9 | 0% | 0% | 56% | 0% | 44% | 0 | low |
 | Rawalpindi Integrated Transportation System Phase I (PMA plan) | PMA-RWP-3 | Dhok Kashmirian - Railway Workshop | planned | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
@@ -1480,6 +1513,32 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 
 | System | Route | Name | Status | Stops | Exact | Guide | Matched | Geocoded | Estimated | Missing | Stop list confidence |
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
+| Charsadda private wagons and minibuses | RTA-PSH-77 | Charsadda - Nisatta | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Charsadda private wagons and minibuses | RTA-PSH-78 | Charsadda - Turlandi | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Charsadda private wagons and minibuses | RTA-PSH-79 | Charsadda - Qila Ganay | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Charsadda private wagons and minibuses | RTA-PSH-80 | Charsadda - Deri Zardad | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Charsadda private wagons and minibuses | RTA-PSH-81 | Charsadda - Nowshera | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Charsadda private wagons and minibuses | RTA-PSH-82 | Charsadda - Dag Khana | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Charsadda private wagons and minibuses | RTA-PSH-83 | Charsadda - Naguman | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Charsadda private wagons and minibuses | RTA-PSH-84 | Charsadda - Utmanzai | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Charsadda private wagons and minibuses | RTA-PSH-85 | Charsadda - Umerzai | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Charsadda private wagons and minibuses | RTA-PSH-86 | Charsadda - Sherpao | unverified | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
+| Charsadda private wagons and minibuses | RTA-PSH-87 | Charsadda - Tangi | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Charsadda private wagons and minibuses | RTA-PSH-88 | Charsadda - Harichand | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Charsadda private wagons and minibuses | RTA-PSH-111 | Ghalanai (Mohmand) - Shabqadar | unverified | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
+| Khyber district wagons and minibuses (Jamrud, Landi Kotal, Bara) | RTA-PSH-99 | Khyber - Bara | unverified | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Khyber district wagons and minibuses (Jamrud, Landi Kotal, Bara) | RTA-PSH-100 | Khyber - Jamrud | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Khyber district wagons and minibuses (Jamrud, Landi Kotal, Bara) | RTA-PSH-101 | Khyber - Landi Kotal | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Khyber district wagons and minibuses (Jamrud, Landi Kotal, Bara) | RTA-PSH-102 | Khyber - Mula Gori | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Khyber district wagons and minibuses (Jamrud, Landi Kotal, Bara) | RTA-PSH-103 | Khyber - Torkham | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Khyber district wagons and minibuses (Jamrud, Landi Kotal, Bara) | RTA-PSH-104 | Khyber - Tirah | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Nowshera private wagons and minibuses | RTA-PSH-89 | Nowshera - Jehangira | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Nowshera private wagons and minibuses | RTA-PSH-90 | Nowshera - Pabbi | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Nowshera private wagons and minibuses | RTA-PSH-91 | Nowshera - Risalpur | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Nowshera private wagons and minibuses | RTA-PSH-92 | Nowshera - Rashakai | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Nowshera private wagons and minibuses | RTA-PSH-93 | Nowshera - Pirpai | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Nowshera private wagons and minibuses | RTA-PSH-94 | Nowshera - Dag Ismail Khel | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Nowshera private wagons and minibuses | RTA-PSH-95 | Nowshera - Cherat | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
 | Peshawar CNG 14-seat vehicle routes (notified 2011) | CNG-1 | Peshawar Bus Terminal (GT Road) - Hayatabad Phase-VI | historical | 20 | 0% | 0% | 60% | 0% | 40% | 0 | medium |
 | Peshawar CNG 14-seat vehicle routes (notified 2011) | CNG-2 | General Bus Stand Kohat Road - Board Bus Stop (Jamrud Road) | historical | 14 | 0% | 0% | 57% | 0% | 43% | 0 | medium |
 | Peshawar CNG 14-seat vehicle routes (notified 2011) | CNG-3 | General Bus Stand Kohat Road - Pir Bala (Warsak Road) | historical | 15 | 0% | 0% | 47% | 0% | 47% | 1 | medium |
@@ -1538,6 +1597,15 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Peshawar private wagons and minibuses | RTA-PSH-52 | Peshawar GBS GT Road - Rashaki | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
 | Peshawar private wagons and minibuses | RTA-PSH-53 | Peshawar GBS GT Road - Jehangri | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
 | Peshawar private wagons and minibuses | RTA-PSH-54 | Peshawar GBS - Dak Ismail Khel | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-96 | Peshawar GBS GT Road - Jamrud | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-97 | Peshawar GBS GT Road - Landi Kotal | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-98 | Peshawar GBS GT Road - Torkham | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-105 | Peshawar GBS GT Road - Nawagai | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-106 | Peshawar GBS GT Road - Ghalanai (Mohmand) | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-107 | Peshawar - Ambar | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-108 | Peshawar - Mian Bazar | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-109 | Peshawar - Prang Ghar | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-110 | Peshawar - Ekka Ghund | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
 | Zu Peshawar (TransPeshawar BRT) | ER01 | Chamkani - Karkhano Market | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Zu Peshawar (TransPeshawar BRT) | SR02 | Chamkani - Karkhano Market (all stops) | operational | 30 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Zu Peshawar (TransPeshawar BRT) | DR03A | Dabgari Gardens - Kohat Adda | operational | 10 | 20% | 0% | 40% | 0% | 40% | 0 | high |
@@ -1885,6 +1953,23 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Abbottabad local Suzuki / Carry routes | ATD-LOCAL-SHERWAN | Abbottabad - Sherwan | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
 | Abbottabad local Suzuki / Carry routes | ATD-LOCAL-HAVELIAN | Abbottabad - Havelian | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
 | Abbottabad local Suzuki / Carry routes | ATD-LOCAL-QALANDARABAD | Abbottabad - Qalandarabad | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Abbottabad local Suzuki / Carry routes | ATD-RTA-MANDIAN | Abbottabad - Mandian (Complex) | unverified | 3 | 0% | 0% | 0% | 67% | 0% | 1 | medium |
+| Abbottabad local Suzuki / Carry routes | ATD-RTA-MIRPUR | Abbottabad - Mirpur | unverified | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
+| Abbottabad local Suzuki / Carry routes | ATD-RTA-NAWANSHEHR | Abbottabad - Nawan Shehr (Bani) via Murree Road | unverified | 3 | 0% | 0% | 0% | 33% | 0% | 2 | medium |
+| Abbottabad local Suzuki / Carry routes | ATD-RTA-GARHIPANAH | Abbottabad - Garhi Panah | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Abbottabad local Suzuki / Carry routes | ATD-RTA-DHAMTOR | Abbottabad - Dhamtor | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Abbottabad local Suzuki / Carry routes | ATD-RTA-HARNOI | Abbottabad - Harnoi | unverified | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
+| Abbottabad local Suzuki / Carry routes | ATD-RTA-AZIZABAD | Abbottabad - Azizabad | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Abbottabad local Suzuki / Carry routes | ATD-RTA-DOBATHER | Abbottabad - Dobather | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Abbottabad local Suzuki / Carry routes | ATD-RTA-SALHAD | Abbottabad - Salhad | unverified | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
+| Abbottabad local Suzuki / Carry routes | ATD-RTA-KOTHAQABAR | Abbottabad - Kotha Qabar | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Abbottabad local Suzuki / Carry routes | ATD-RTA-BANDAAMLOK | Abbottabad - Banda Amlok | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Abbottabad local Suzuki / Carry routes | ATD-RTA-MALIKPURA | Abbottabad - Malikpura (Upper, Lower, Charri) | unverified | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
+| Abbottabad local Suzuki / Carry routes | ATD-RTA-KAKUL | Abbottabad - Kakul Village | unverified | 4 | 0% | 0% | 0% | 25% | 0% | 3 | low |
+| Abbottabad local Suzuki / Carry routes | ATD-RTA-BANI-COMPLEX | Nawan Shehr (Bani) - Complex (Mandian) via Bilal Town | unverified | 3 | 0% | 0% | 0% | 100% | 0% | 0 | medium |
+| Abbottabad local Suzuki / Carry routes | ATD-RTA-BANI-PHAGWARIAN | Nawan Shehr (Bani) - Banda Phagwarian | unverified | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
+| Abbottabad local Suzuki / Carry routes | ATD-RTA-QLD-BANDIDHUNDAN | Qalandarabad (Suzuki Stand) - Bandi Dhundan | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Abbottabad local Suzuki / Carry routes | ATD-RTA-QLD-MEERABIN | Qalandarabad (Suzuki Stand) - Meera Bin | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
 
 ## Mardan
 
@@ -2234,6 +2319,21 @@ These routes have the most stops without a verified position. Adding real coordi
 - karachi-circular-railway/KCR-2DN: fewer than 2 located stops, listed without a map line
 - karachi-circular-railway/KCR-3DNDN: fewer than 2 located stops, listed without a map line
 - karachi-circular-railway/KCR-4DN: fewer than 2 located stops, listed without a map line
+- karachi-drta-notices-2002/1-L: 2 stop(s) without coordinates are left out of the map
+- karachi-drta-notices-2002/17-L: 1 stop(s) without coordinates are left out of the map
+- karachi-drta-notices-2002/1-C: 1 stop(s) without coordinates are left out of the map
+- karachi-drta-notices-2002/Super Muslim Coach: 2 stop(s) without coordinates are left out of the map
+- karachi-drta-notices-2002/4: 1 stop(s) without coordinates are left out of the map
+- karachi-drta-notices-2002/S-2: 1 stop(s) without coordinates are left out of the map
+- karachi-drta-notices-2002/5: 1 stop(s) without coordinates are left out of the map
+- karachi-drta-notices-2002/G-27: 1 stop(s) without coordinates are left out of the map
+- karachi-drta-notices-2002/Surjani-Tower (private co.): 2 stop(s) without coordinates are left out of the map
+- karachi-drta-notices-2002/2-B: 1 stop(s) without coordinates are left out of the map
+- karachi-drta-notices-2002/DRTAB-2003-ORANGI-AYUBGOTH: 2 stop(s) without coordinates are left out of the map
+- karachi-drta-notices-2002/DRTAB-2003-PIB-QADHAFI: 2 stop(s) without coordinates are left out of the map
+- karachi-drta-notices-2002/W-25: 3 stop(s) without coordinates are left out of the map
+- karachi-drta-notices-2002/Jamal Coach: 1 stop(s) without coordinates are left out of the map
+- karachi-drta-notices-2002/GREEN-EXP-LANDHI-SURJANI: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/1-C: 1 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/1-F: 2 stop(s) without coordinates are left out of the map
 - karachi-minibus-2010/1-G: 2 stop(s) without coordinates are left out of the map
@@ -2565,10 +2665,69 @@ These routes have the most stops without a verified position. Adding real coordi
 - islamabad-rawalpindi-private-wagons/SZ-FAWARA-CHAKLALAAIRPORT: fewer than 2 located stops, listed without a map line
 - islamabad-rawalpindi-private-wagons/W-SADDAR-ADIALA: 1 stop(s) without coordinates are left out of the map
 - islamabad-rawalpindi-private-wagons/W-SADDAR-ADIALA: fewer than 2 located stops, listed without a map line
+- islamabad-rawalpindi-private-wagons/RTA-RWP-IIA-1: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/RTA-RWP-IIA-2: 1 stop(s) without coordinates are left out of the map
+- islamabad-rawalpindi-private-wagons/ITA-2003-MARGALLA-F11: 2 stop(s) without coordinates are left out of the map
+- rawalpindi-electric-bus/RTA-PLAN-6: 1 stop(s) without coordinates are left out of the map
+- rawalpindi-electric-bus/RTA-PLAN-6: fewer than 2 located stops, listed without a map line
+- rawalpindi-electric-bus/RTA-PLAN-7: 2 stop(s) without coordinates are left out of the map
+- rawalpindi-electric-bus/RTA-PLAN-7: fewer than 2 located stops, listed without a map line
+- rawalpindi-electric-bus/RTA-PLAN-8: 1 stop(s) without coordinates are left out of the map
+- rawalpindi-electric-bus/RTA-PLAN-8: fewer than 2 located stops, listed without a map line
+- rawalpindi-electric-bus/RTA-PLAN-9: 1 stop(s) without coordinates are left out of the map
+- rawalpindi-electric-bus/RTA-PLAN-9: fewer than 2 located stops, listed without a map line
 - rawalpindi-pma-feeder-planned/PMA-RWP-1: 2 stop(s) without coordinates are left out of the map
 - rawalpindi-pma-feeder-planned/PMA-RWP-1: fewer than 2 located stops, listed without a map line
 - rawalpindi-pma-feeder-planned/PMA-RWP-5: 1 stop(s) without coordinates are left out of the map
 - rawalpindi-pma-feeder-planned/PMA-RWP-5: fewer than 2 located stops, listed without a map line
+- charsadda-private-wagons/RTA-PSH-77: 2 stop(s) without coordinates are left out of the map
+- charsadda-private-wagons/RTA-PSH-77: fewer than 2 located stops, listed without a map line
+- charsadda-private-wagons/RTA-PSH-78: 2 stop(s) without coordinates are left out of the map
+- charsadda-private-wagons/RTA-PSH-78: fewer than 2 located stops, listed without a map line
+- charsadda-private-wagons/RTA-PSH-79: 2 stop(s) without coordinates are left out of the map
+- charsadda-private-wagons/RTA-PSH-79: fewer than 2 located stops, listed without a map line
+- charsadda-private-wagons/RTA-PSH-80: 2 stop(s) without coordinates are left out of the map
+- charsadda-private-wagons/RTA-PSH-80: fewer than 2 located stops, listed without a map line
+- charsadda-private-wagons/RTA-PSH-81: 2 stop(s) without coordinates are left out of the map
+- charsadda-private-wagons/RTA-PSH-81: fewer than 2 located stops, listed without a map line
+- charsadda-private-wagons/RTA-PSH-82: 2 stop(s) without coordinates are left out of the map
+- charsadda-private-wagons/RTA-PSH-82: fewer than 2 located stops, listed without a map line
+- charsadda-private-wagons/RTA-PSH-83: located stops are too close together to draw a line; listed as information only
+- charsadda-private-wagons/RTA-PSH-84: 2 stop(s) without coordinates are left out of the map
+- charsadda-private-wagons/RTA-PSH-84: fewer than 2 located stops, listed without a map line
+- charsadda-private-wagons/RTA-PSH-85: 2 stop(s) without coordinates are left out of the map
+- charsadda-private-wagons/RTA-PSH-85: fewer than 2 located stops, listed without a map line
+- charsadda-private-wagons/RTA-PSH-86: 1 stop(s) without coordinates are left out of the map
+- charsadda-private-wagons/RTA-PSH-86: fewer than 2 located stops, listed without a map line
+- charsadda-private-wagons/RTA-PSH-87: 2 stop(s) without coordinates are left out of the map
+- charsadda-private-wagons/RTA-PSH-87: fewer than 2 located stops, listed without a map line
+- charsadda-private-wagons/RTA-PSH-88: 2 stop(s) without coordinates are left out of the map
+- charsadda-private-wagons/RTA-PSH-88: fewer than 2 located stops, listed without a map line
+- charsadda-private-wagons/RTA-PSH-111: 1 stop(s) without coordinates are left out of the map
+- charsadda-private-wagons/RTA-PSH-111: fewer than 2 located stops, listed without a map line
+- khyber-private-wagons/RTA-PSH-100: located stops are too close together to draw a line; listed as information only
+- khyber-private-wagons/RTA-PSH-101: 1 stop(s) without coordinates are left out of the map
+- khyber-private-wagons/RTA-PSH-101: fewer than 2 located stops, listed without a map line
+- khyber-private-wagons/RTA-PSH-102: 1 stop(s) without coordinates are left out of the map
+- khyber-private-wagons/RTA-PSH-102: fewer than 2 located stops, listed without a map line
+- khyber-private-wagons/RTA-PSH-103: 1 stop(s) without coordinates are left out of the map
+- khyber-private-wagons/RTA-PSH-103: fewer than 2 located stops, listed without a map line
+- khyber-private-wagons/RTA-PSH-104: 1 stop(s) without coordinates are left out of the map
+- khyber-private-wagons/RTA-PSH-104: fewer than 2 located stops, listed without a map line
+- nowshera-private-wagons/RTA-PSH-89: 2 stop(s) without coordinates are left out of the map
+- nowshera-private-wagons/RTA-PSH-89: fewer than 2 located stops, listed without a map line
+- nowshera-private-wagons/RTA-PSH-90: 2 stop(s) without coordinates are left out of the map
+- nowshera-private-wagons/RTA-PSH-90: fewer than 2 located stops, listed without a map line
+- nowshera-private-wagons/RTA-PSH-91: 2 stop(s) without coordinates are left out of the map
+- nowshera-private-wagons/RTA-PSH-91: fewer than 2 located stops, listed without a map line
+- nowshera-private-wagons/RTA-PSH-92: 2 stop(s) without coordinates are left out of the map
+- nowshera-private-wagons/RTA-PSH-92: fewer than 2 located stops, listed without a map line
+- nowshera-private-wagons/RTA-PSH-93: 2 stop(s) without coordinates are left out of the map
+- nowshera-private-wagons/RTA-PSH-93: fewer than 2 located stops, listed without a map line
+- nowshera-private-wagons/RTA-PSH-94: 2 stop(s) without coordinates are left out of the map
+- nowshera-private-wagons/RTA-PSH-94: fewer than 2 located stops, listed without a map line
+- nowshera-private-wagons/RTA-PSH-95: 2 stop(s) without coordinates are left out of the map
+- nowshera-private-wagons/RTA-PSH-95: fewer than 2 located stops, listed without a map line
 - peshawar-cng-routes-2011/CNG-3: 1 stop(s) without coordinates are left out of the map
 - peshawar-private-wagons/RTA-PSH-01: 1 stop(s) without coordinates are left out of the map
 - peshawar-private-wagons/RTA-PSH-01: fewer than 2 located stops, listed without a map line
@@ -2655,6 +2814,22 @@ These routes have the most stops without a verified position. Adding real coordi
 - peshawar-private-wagons/RTA-PSH-53: fewer than 2 located stops, listed without a map line
 - peshawar-private-wagons/RTA-PSH-54: 2 stop(s) without coordinates are left out of the map
 - peshawar-private-wagons/RTA-PSH-54: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-97: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-97: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-98: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-98: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-105: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-105: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-106: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-106: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-107: 2 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-107: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-108: 2 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-108: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-109: 2 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-109: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-110: 2 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-110: fewer than 2 located stops, listed without a map line
 - peshawar-zu-brt/DR03B: 2 stop(s) without coordinates are left out of the map
 - peshawar-zu-brt/ER12: 1 stop(s) without coordinates are left out of the map
 - peshawar-zu-brt/DR13: 3 stop(s) without coordinates are left out of the map
@@ -2879,6 +3054,37 @@ These routes have the most stops without a verified position. Adding real coordi
 - abbottabad-private-wagons/ATD-LOCAL-HAVELIAN: fewer than 2 located stops, listed without a map line
 - abbottabad-private-wagons/ATD-LOCAL-QALANDARABAD: 2 stop(s) without coordinates are left out of the map
 - abbottabad-private-wagons/ATD-LOCAL-QALANDARABAD: fewer than 2 located stops, listed without a map line
+- abbottabad-private-wagons/ATD-RTA-MANDIAN: 1 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-RTA-MIRPUR: 1 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-RTA-MIRPUR: fewer than 2 located stops, listed without a map line
+- abbottabad-private-wagons/ATD-RTA-NAWANSHEHR: 2 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-RTA-NAWANSHEHR: fewer than 2 located stops, listed without a map line
+- abbottabad-private-wagons/ATD-RTA-GARHIPANAH: 2 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-RTA-GARHIPANAH: fewer than 2 located stops, listed without a map line
+- abbottabad-private-wagons/ATD-RTA-DHAMTOR: 2 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-RTA-DHAMTOR: fewer than 2 located stops, listed without a map line
+- abbottabad-private-wagons/ATD-RTA-HARNOI: 1 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-RTA-HARNOI: fewer than 2 located stops, listed without a map line
+- abbottabad-private-wagons/ATD-RTA-AZIZABAD: 2 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-RTA-AZIZABAD: fewer than 2 located stops, listed without a map line
+- abbottabad-private-wagons/ATD-RTA-DOBATHER: 2 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-RTA-DOBATHER: fewer than 2 located stops, listed without a map line
+- abbottabad-private-wagons/ATD-RTA-SALHAD: 1 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-RTA-SALHAD: fewer than 2 located stops, listed without a map line
+- abbottabad-private-wagons/ATD-RTA-KOTHAQABAR: 2 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-RTA-KOTHAQABAR: fewer than 2 located stops, listed without a map line
+- abbottabad-private-wagons/ATD-RTA-BANDAAMLOK: 2 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-RTA-BANDAAMLOK: fewer than 2 located stops, listed without a map line
+- abbottabad-private-wagons/ATD-RTA-MALIKPURA: 1 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-RTA-MALIKPURA: fewer than 2 located stops, listed without a map line
+- abbottabad-private-wagons/ATD-RTA-KAKUL: 3 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-RTA-KAKUL: fewer than 2 located stops, listed without a map line
+- abbottabad-private-wagons/ATD-RTA-BANI-PHAGWARIAN: 1 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-RTA-BANI-PHAGWARIAN: fewer than 2 located stops, listed without a map line
+- abbottabad-private-wagons/ATD-RTA-QLD-BANDIDHUNDAN: 2 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-RTA-QLD-BANDIDHUNDAN: fewer than 2 located stops, listed without a map line
+- abbottabad-private-wagons/ATD-RTA-QLD-MEERABIN: 2 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-RTA-QLD-MEERABIN: fewer than 2 located stops, listed without a map line
 - jhang-private-wagons/pciip-satellite-rail-bazar: 1 stop(s) without coordinates are left out of the map
 - jhang-private-wagons/pciip-satellite-rail-bazar: fewer than 2 located stops, listed without a map line
 - jhang-private-wagons/pciip-daewoo-ayub: 1 stop(s) without coordinates are left out of the map

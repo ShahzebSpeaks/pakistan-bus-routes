@@ -2829,6 +2829,474 @@
         }
       ],
       "notes": "Serial 54 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / GT Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+    },
+    {
+      "id": "RTA-PSH-96",
+      "name": "Peshawar GBS GT Road - Jamrud",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 25,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 74,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 79, ordinary bus Rs 71, deluxe Rs 73. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Peshawar GBS GT Road",
+          "name_ur": "",
+          "lat": 34.019417,
+          "lon": 71.64725,
+          "coord_source": "auto:photon:N/9550153316",
+          "is_station": false
+        },
+        {
+          "name": "Jamrud",
+          "name_ur": "",
+          "lat": 34.007323,
+          "lon": 71.378049,
+          "coord_source": "auto:osm:node/2433024865",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 96 (section 'District Khyber')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 96 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Khyber'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified."
+    },
+    {
+      "id": "RTA-PSH-97",
+      "name": "Peshawar GBS GT Road - Landi Kotal",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 55,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 163,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 174, ordinary bus Rs 155, deluxe Rs 161. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Peshawar GBS GT Road",
+          "name_ur": "",
+          "lat": 34.019417,
+          "lon": 71.64725,
+          "coord_source": "auto:photon:N/9550153316",
+          "is_station": false
+        },
+        {
+          "name": "Landi Kotal",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 97 (section 'District Khyber')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 97 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Khyber'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified."
+    },
+    {
+      "id": "RTA-PSH-98",
+      "name": "Peshawar GBS GT Road - Torkham",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 60,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 178,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 190, ordinary bus Rs 169, deluxe Rs 175. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Peshawar GBS GT Road",
+          "name_ur": "",
+          "lat": 34.019417,
+          "lon": 71.64725,
+          "coord_source": "auto:photon:N/9550153316",
+          "is_station": false
+        },
+        {
+          "name": "Torkham",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 98 (section 'District Khyber')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 98 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Khyber'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified."
+    },
+    {
+      "id": "RTA-PSH-105",
+      "name": "Peshawar GBS GT Road - Nawagai",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 138,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 410,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 437, ordinary bus Rs 389, deluxe Rs 403. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Peshawar GBS GT Road",
+          "name_ur": "",
+          "lat": 34.019417,
+          "lon": 71.64725,
+          "coord_source": "auto:photon:N/9550153316",
+          "is_station": false
+        },
+        {
+          "name": "Nawagai",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 105 (section 'District Mohmand')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 105 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Mohmand'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified. Long suburban/inter-district route (55-138 km)."
+    },
+    {
+      "id": "RTA-PSH-106",
+      "name": "Peshawar GBS GT Road - Ghalanai (Mohmand)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 100,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 297,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 317, ordinary bus Rs 282, deluxe Rs 292. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Peshawar GBS GT Road",
+          "name_ur": "",
+          "lat": 34.019417,
+          "lon": 71.64725,
+          "coord_source": "auto:photon:N/9550153316",
+          "is_station": false
+        },
+        {
+          "name": "Ghalanai (Mohmand)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 106 (section 'District Mohmand')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 106 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Mohmand'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified. Long suburban/inter-district route (55-138 km)."
+    },
+    {
+      "id": "RTA-PSH-107",
+      "name": "Peshawar - Ambar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 120,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 356,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 380, ordinary bus Rs 338, deluxe Rs 350. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Peshawar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ambar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 107 (section 'District Mohmand')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 107 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Mohmand'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified. Long suburban/inter-district route (55-138 km)."
+    },
+    {
+      "id": "RTA-PSH-108",
+      "name": "Peshawar - Mian Bazar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 110,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 327,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 349, ordinary bus Rs 310, deluxe Rs 321. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Peshawar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mian Bazar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 108 (section 'District Mohmand')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 108 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Mohmand'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified. Long suburban/inter-district route (55-138 km)."
+    },
+    {
+      "id": "RTA-PSH-109",
+      "name": "Peshawar - Prang Ghar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 88,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 261,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 279, ordinary bus Rs 248, deluxe Rs 257. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Peshawar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Prang Ghar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 109 (section 'District Mohmand')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 109 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Mohmand'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified. Long suburban/inter-district route (55-138 km)."
+    },
+    {
+      "id": "RTA-PSH-110",
+      "name": "Peshawar - Ekka Ghund",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": 55,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": {
+        "type": "flat",
+        "currency": "PKR",
+        "flat": 163,
+        "slabs": [],
+        "concessions": "Flying coach / minibus fare (Rs 2.97/km); A/C bus Rs 174, ordinary bus Rs 155, deluxe Rs 161. 50% concession for madrassa/school students, blind/disabled and over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+      },
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Peshawar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Ekka Ghund",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 110 (section 'District Mohmand')",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2004.jpeg"
+        },
+        {
+          "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+          "url": "https://transport.kp.gov.pk/notification.html"
+        }
+      ],
+      "notes": "Serial 110 of the RTA Peshawar diesel fare table No. 286-310/RTA/PESH (111 routes, w.e.f. 2024-04-01), section 'District Mohmand'. Official stage-carriage route: terminal and destination only. Route id is ours (serial). Fares are April-2024 and have been revised since (RTA Peshawar notified new fares 2026-08-12). Not field-verified. Long suburban/inter-district route (55-138 km)."
     }
   ],
   "last_verified": "2026-09-21"

@@ -3155,16 +3155,16 @@
         {
           "name": "Rahimabad",
           "name_ur": "",
-          "lat": 33.594386,
-          "lon": 73.082786,
-          "coord_source": "auto:interpolated",
+          "lat": 33.600881,
+          "lon": 73.091239,
+          "coord_source": "auto:same-name:ext:safar.fyi:rwp:92",
           "is_station": false
         },
         {
           "name": "Chohan Chowk",
           "name_ur": "",
-          "lat": 33.597474,
-          "lon": 73.085353,
+          "lat": 33.600721,
+          "lon": 73.089579,
           "coord_source": "auto:interpolated",
           "is_station": false
         },
@@ -8373,6 +8373,350 @@
         }
       ],
       "notes": "MurreeRoad.org (Jun 2026) lists this as a local wagon route; no number or stops."
+    },
+    {
+      "id": "RTA-RWP-IIA-1",
+      "name": "Rawat - Islamabad International Airport (AC bus)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Rawat",
+          "name_ur": "",
+          "lat": 33.496845,
+          "lon": 73.194428,
+          "coord_source": "auto:same-name:osm:node/264987892",
+          "is_station": false
+        },
+        {
+          "name": "Soan Camp (bus yard)",
+          "name_ur": "",
+          "lat": 33.514306,
+          "lon": 73.16883,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "High Court (Rawalpindi)",
+          "name_ur": "",
+          "lat": 33.531767,
+          "lon": 73.143232,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Fauji Foundation",
+          "name_ur": "",
+          "lat": 33.549229,
+          "lon": 73.117634,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "District Courts",
+          "name_ur": "",
+          "lat": 33.56669,
+          "lon": 73.092036,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kutchery Chowk",
+          "name_ur": "",
+          "lat": 33.584151,
+          "lon": 73.066438,
+          "coord_source": "auto:same-name:osm:node/2450449666",
+          "is_station": false
+        },
+        {
+          "name": "Saddar",
+          "name_ur": "",
+          "lat": 33.594161,
+          "lon": 73.056508,
+          "coord_source": "auto:same-name:osm:node/9160047641",
+          "is_station": false
+        },
+        {
+          "name": "Qasim Market",
+          "name_ur": "",
+          "lat": 33.600363,
+          "lon": 73.033505,
+          "coord_source": "auto:osm:way/231202621",
+          "is_station": false
+        },
+        {
+          "name": "Westridge",
+          "name_ur": "",
+          "lat": 33.609468,
+          "lon": 73.022184,
+          "coord_source": "auto:osm:node/5553669833",
+          "is_station": false
+        },
+        {
+          "name": "Johar Chowk",
+          "name_ur": "",
+          "lat": 33.614188,
+          "lon": 73.001587,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kohinoor Mills",
+          "name_ur": "",
+          "lat": 33.618908,
+          "lon": 72.980991,
+          "coord_source": "auto:same-name:osm:node/8329695320",
+          "is_station": false
+        },
+        {
+          "name": "Islamabad International Airport",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2020-03-02",
+          "url": "https://www.zameen.com/news/two-new-public-transportation-routes-approved-iia.html"
+        }
+      ],
+      "notes": "Approved by RTA Rawalpindi 2020-01 (zameen 2020-01-26: Rawat, T-Chowk, Soan Camp, District Courts Chowk, The Mall, IIA; PKR 270, 35 km). Stop list from the 2020-03-02 district-administration approval (fares Rs 50-200 proposed). No evidence it ever ran. (source date 2020-03-02)"
+    },
+    {
+      "id": "RTA-RWP-IIA-2",
+      "name": "Koral Chowk - Islamabad International Airport (AC bus)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Koral Chowk",
+          "name_ur": "",
+          "lat": 33.605619,
+          "lon": 73.131182,
+          "coord_source": "auto:osm:node/4331753492",
+          "is_station": false
+        },
+        {
+          "name": "Gulzar-e-Quaid",
+          "name_ur": "",
+          "lat": 33.598912,
+          "lon": 73.130041,
+          "coord_source": "auto:osm:node/458337738",
+          "is_station": false
+        },
+        {
+          "name": "Shah Khalid Colony",
+          "name_ur": "",
+          "lat": 33.604483,
+          "lon": 73.113875,
+          "coord_source": "auto:osm:node/2642087228",
+          "is_station": false
+        },
+        {
+          "name": "Old Benazir Bhutto Airport",
+          "name_ur": "",
+          "lat": 33.594283,
+          "lon": 73.090528,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "District Courts",
+          "name_ur": "",
+          "lat": 33.584082,
+          "lon": 73.067181,
+          "coord_source": "auto:osm:node/256071139",
+          "is_station": false
+        },
+        {
+          "name": "Kutchery Chowk",
+          "name_ur": "",
+          "lat": 33.584151,
+          "lon": 73.066438,
+          "coord_source": "auto:same-name:osm:node/2450449666",
+          "is_station": false
+        },
+        {
+          "name": "Saddar",
+          "name_ur": "",
+          "lat": 33.594161,
+          "lon": 73.056508,
+          "coord_source": "auto:same-name:osm:node/9160047641",
+          "is_station": false
+        },
+        {
+          "name": "Qasim Market",
+          "name_ur": "",
+          "lat": 33.600363,
+          "lon": 73.033505,
+          "coord_source": "auto:osm:way/231202621",
+          "is_station": false
+        },
+        {
+          "name": "Westridge",
+          "name_ur": "",
+          "lat": 33.609468,
+          "lon": 73.022184,
+          "coord_source": "auto:osm:node/5553669833",
+          "is_station": false
+        },
+        {
+          "name": "Johar Chowk",
+          "name_ur": "",
+          "lat": 33.614188,
+          "lon": 73.001587,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Kohinoor Mills",
+          "name_ur": "",
+          "lat": 33.618908,
+          "lon": 72.980991,
+          "coord_source": "auto:same-name:osm:node/8329695320",
+          "is_station": false
+        },
+        {
+          "name": "Islamabad International Airport",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2020-03-02",
+          "url": "https://www.zameen.com/news/two-new-public-transportation-routes-approved-iia.html"
+        }
+      ],
+      "notes": "Approved by RTA Rawalpindi 2020-01 (zameen 2020-01-26 said via Islamabad Highway, PKR 270, 45 km). Stop list from 2020-03-02 report. No evidence it ever ran. (source date 2020-03-02)"
+    },
+    {
+      "id": "ITA-2003-MARGALLA-F11",
+      "name": "Margalla Town - F-11 Service Road",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "historical",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Margalla Town",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dhokri Chowk",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Aabpara",
+          "name_ur": "",
+          "lat": 33.708424,
+          "lon": 73.090173,
+          "coord_source": "auto:same-name:osm:node/253126697",
+          "is_station": false
+        },
+        {
+          "name": "Zero Point",
+          "name_ur": "",
+          "lat": 33.694332,
+          "lon": 73.065438,
+          "coord_source": "auto:same-name:osm:node/1425924584",
+          "is_station": false
+        },
+        {
+          "name": "G-8 Markaz",
+          "name_ur": "",
+          "lat": 33.698943,
+          "lon": 73.047102,
+          "coord_source": "auto:same-name:osm:node/12476007294",
+          "is_station": false
+        },
+        {
+          "name": "Tipu Chowk",
+          "name_ur": "",
+          "lat": 33.705244,
+          "lon": 73.043372,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "F-8 Markaz",
+          "name_ur": "",
+          "lat": 33.711546,
+          "lon": 73.039642,
+          "coord_source": "auto:osm:way/568896342",
+          "is_station": false
+        },
+        {
+          "name": "Shaheen Chowk",
+          "name_ur": "",
+          "lat": 33.712297,
+          "lon": 73.027144,
+          "coord_source": "auto:osm:node/13043410030",
+          "is_station": false
+        },
+        {
+          "name": "F-10 Markaz",
+          "name_ur": "",
+          "lat": 33.695347,
+          "lon": 73.012887,
+          "coord_source": "auto:osm:way/7973900",
+          "is_station": false
+        },
+        {
+          "name": "F-11 Service Road",
+          "name_ur": "",
+          "lat": 33.691069,
+          "lon": 72.988731,
+          "coord_source": "auto:osm:way/707249013",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Source dated 2003-03-08",
+          "url": "https://www.dawn.com/news/86335"
+        }
+      ],
+      "notes": "Route approved by the Islamabad transport authority meeting of 2003-03-07 (Dawn 2003-03-08). Historical notice; current operation unknown. (source date 2003-03-08)"
     }
   ],
   "last_verified": "2026-09-21"

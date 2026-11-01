@@ -251,6 +251,726 @@
         }
       ],
       "notes": "Named as one of Abbottabad's local Suzuki/Carry routes run from addas ('قلندرآباد'), in the Aug 2024 traffic-police/Suzuki-union sticker scheme. The Abbottabad terminal is not named; no intermediate stops. The July 2026 RTA colour-coded sticker scheme (APP 7 Jul 2026) publishes no route list or colours."
+    },
+    {
+      "id": "ATD-RTA-MANDIAN",
+      "name": "Abbottabad - Mandian (Complex)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Abbottabad (General Suzuki Stand)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sethi Masjid",
+          "name_ur": "",
+          "lat": 34.176376,
+          "lon": 73.227758,
+          "coord_source": "auto:nominatim:way/306527076",
+          "is_station": false
+        },
+        {
+          "name": "Mandian (Complex)",
+          "name_ur": "",
+          "lat": 34.193983,
+          "lon": 73.236134,
+          "coord_source": "auto:nominatim:node/3123754691",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Source dated 2026-07-10",
+          "url": "https://www.app.com.pk/?p=1243449"
+        }
+      ],
+      "notes": "RTA Hazara Suzuki pick-up fare notice: Mandian (Complex) Rs 30, up to Sethi Masjid Rs 20. Sethi Masjid placed between as the intermediate fare stage. (source date 2026-07-10)"
+    },
+    {
+      "id": "ATD-RTA-MIRPUR",
+      "name": "Abbottabad - Mirpur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Abbottabad (General Suzuki Stand)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Mirpur",
+          "name_ur": "",
+          "lat": 34.204012,
+          "lon": 73.250197,
+          "coord_source": "auto:nominatim:node/3101019953",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2026-07-10",
+          "url": "https://www.app.com.pk/?p=1243449"
+        }
+      ],
+      "notes": "RTA Hazara fare Rs 35. (source date 2026-07-10)"
+    },
+    {
+      "id": "ATD-RTA-NAWANSHEHR",
+      "name": "Abbottabad - Nawan Shehr (Bani) via Murree Road",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Abbottabad (General Suzuki Stand)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kala Pul (Murree Road)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nawan Shehr (Bani)",
+          "name_ur": "",
+          "lat": 34.158166,
+          "lon": 73.263644,
+          "coord_source": "auto:nominatim:way/334210037",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Source dated 2026-07-10",
+          "url": "https://www.app.com.pk/?p=1243449"
+        }
+      ],
+      "notes": "RTA Hazara fare Rs 30; intermediate stage Rs 20 up to Kala Pul on Murree Road. (source date 2026-07-10)"
+    },
+    {
+      "id": "ATD-RTA-GARHIPANAH",
+      "name": "Abbottabad - Garhi Panah",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Abbottabad (General Suzuki Stand)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Garhi Panah",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2026-07-10",
+          "url": "https://www.app.com.pk/?p=1243449"
+        }
+      ],
+      "notes": "RTA Hazara Suzuki pick-up fare notice: Rs 30. Terminals only; corridor grouping not given in the article. (source date 2026-07-10)"
+    },
+    {
+      "id": "ATD-RTA-DHAMTOR",
+      "name": "Abbottabad - Dhamtor",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Abbottabad (General Suzuki Stand)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dhamtor",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2026-07-10",
+          "url": "https://www.app.com.pk/?p=1243449"
+        }
+      ],
+      "notes": "RTA Hazara Suzuki pick-up fare notice: Rs 35. Terminals only; corridor grouping not given in the article. (source date 2026-07-10)"
+    },
+    {
+      "id": "ATD-RTA-HARNOI",
+      "name": "Abbottabad - Harnoi",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Abbottabad (General Suzuki Stand)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Harnoi",
+          "name_ur": "",
+          "lat": 34.149966,
+          "lon": 73.308651,
+          "coord_source": "auto:nominatim:node/13157641852",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2026-07-10",
+          "url": "https://www.app.com.pk/?p=1243449"
+        }
+      ],
+      "notes": "RTA Hazara Suzuki pick-up fare notice: Rs 40. Terminals only; corridor grouping not given in the article. (source date 2026-07-10)"
+    },
+    {
+      "id": "ATD-RTA-AZIZABAD",
+      "name": "Abbottabad - Azizabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Abbottabad (General Suzuki Stand)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Azizabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2026-07-10",
+          "url": "https://www.app.com.pk/?p=1243449"
+        }
+      ],
+      "notes": "RTA Hazara Suzuki pick-up fare notice: Rs 45. Terminals only; corridor grouping not given in the article. (source date 2026-07-10)"
+    },
+    {
+      "id": "ATD-RTA-DOBATHER",
+      "name": "Abbottabad - Dobather",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Abbottabad (General Suzuki Stand)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Dobather",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2026-07-10",
+          "url": "https://www.app.com.pk/?p=1243449"
+        }
+      ],
+      "notes": "RTA Hazara Suzuki pick-up fare notice: Rs 30. Terminals only; corridor grouping not given in the article. (source date 2026-07-10)"
+    },
+    {
+      "id": "ATD-RTA-SALHAD",
+      "name": "Abbottabad - Salhad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Abbottabad (General Suzuki Stand)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Salhad",
+          "name_ur": "",
+          "lat": 34.129825,
+          "lon": 73.197559,
+          "coord_source": "auto:nominatim:node/3100986040",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2026-07-10",
+          "url": "https://www.app.com.pk/?p=1243449"
+        }
+      ],
+      "notes": "RTA Hazara Suzuki pick-up fare notice: Rs 30. Terminals only; corridor grouping not given in the article. (source date 2026-07-10)"
+    },
+    {
+      "id": "ATD-RTA-KOTHAQABAR",
+      "name": "Abbottabad - Kotha Qabar",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Abbottabad (General Suzuki Stand)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kotha Qabar",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2026-07-10",
+          "url": "https://www.app.com.pk/?p=1243449"
+        }
+      ],
+      "notes": "RTA Hazara Suzuki pick-up fare notice: Rs 35. Terminals only; corridor grouping not given in the article. (source date 2026-07-10)"
+    },
+    {
+      "id": "ATD-RTA-BANDAAMLOK",
+      "name": "Abbottabad - Banda Amlok",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Abbottabad (General Suzuki Stand)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Banda Amlok",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2026-07-10",
+          "url": "https://www.app.com.pk/?p=1243449"
+        }
+      ],
+      "notes": "RTA Hazara Suzuki pick-up fare notice: Rs 20. Terminals only; corridor grouping not given in the article. (source date 2026-07-10)"
+    },
+    {
+      "id": "ATD-RTA-MALIKPURA",
+      "name": "Abbottabad - Malikpura (Upper, Lower, Charri)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Abbottabad (General Suzuki Stand)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Malikpura (Upper, Lower, Charri)",
+          "name_ur": "",
+          "lat": 34.146358,
+          "lon": 73.201375,
+          "coord_source": "auto:nominatim:node/3127404002",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2026-07-10",
+          "url": "https://www.app.com.pk/?p=1243449"
+        }
+      ],
+      "notes": "RTA Hazara Suzuki pick-up fare notice: Rs 20. Terminals only; corridor grouping not given in the article. (source date 2026-07-10)"
+    },
+    {
+      "id": "ATD-RTA-KAKUL",
+      "name": "Abbottabad - Kakul Village",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Abbottabad (General Suzuki Stand)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kakul Main Gate",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "PT School",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kakul Village",
+          "name_ur": "",
+          "lat": 34.203601,
+          "lon": 73.282008,
+          "coord_source": "auto:nominatim:node/3096858136",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2026-07-10",
+          "url": "https://www.app.com.pk/?p=1243449"
+        }
+      ],
+      "notes": "RTA Hazara fares: Kakul Main Gate Rs 25, PT School Rs 35, Kakul Village Rs 40; stops ordered by fare stage (inference that they lie on one Kakul Road line). (source date 2026-07-10)"
+    },
+    {
+      "id": "ATD-RTA-BANI-COMPLEX",
+      "name": "Nawan Shehr (Bani) - Complex (Mandian) via Bilal Town",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Nawan Shehr (Bani)",
+          "name_ur": "",
+          "lat": 34.158166,
+          "lon": 73.263644,
+          "coord_source": "auto:nominatim:way/334210037",
+          "is_station": false
+        },
+        {
+          "name": "Bilal Town",
+          "name_ur": "",
+          "lat": 34.171002,
+          "lon": 73.258495,
+          "coord_source": "auto:nominatim:node/2082816584",
+          "is_station": false
+        },
+        {
+          "name": "Complex (Mandian)",
+          "name_ur": "",
+          "lat": 34.155563,
+          "lon": 73.222927,
+          "coord_source": "auto:nominatim:way/306241074",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Source dated 2026-07-10",
+          "url": "https://www.app.com.pk/?p=1243449"
+        }
+      ],
+      "notes": "RTA Hazara fare Rs 40 'via Bilal Town'. (source date 2026-07-10)"
+    },
+    {
+      "id": "ATD-RTA-BANI-PHAGWARIAN",
+      "name": "Nawan Shehr (Bani) - Banda Phagwarian",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Nawan Shehr (Bani)",
+          "name_ur": "",
+          "lat": 34.158166,
+          "lon": 73.263644,
+          "coord_source": "auto:nominatim:way/334210037",
+          "is_station": false
+        },
+        {
+          "name": "Banda Phagwarian",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2026-07-10",
+          "url": "https://www.app.com.pk/?p=1243449"
+        }
+      ],
+      "notes": "RTA Hazara fare Rs 20. (source date 2026-07-10)"
+    },
+    {
+      "id": "ATD-RTA-QLD-BANDIDHUNDAN",
+      "name": "Qalandarabad (Suzuki Stand) - Bandi Dhundan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Qalandarabad (Suzuki Stand)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Bandi Dhundan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2026-06-03",
+          "url": "https://www.app.com.pk/kp/drivers-protest-fare-reduction-in-abbottabad-authorities-enforce-official-rta-rates/"
+        }
+      ],
+      "notes": "Official RTA fare Rs 30 enforced after drivers' protest (APP, Jun 2026). (source date 2026-06-03)"
+    },
+    {
+      "id": "ATD-RTA-QLD-MEERABIN",
+      "name": "Qalandarabad (Suzuki Stand) - Meera Bin",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Qalandarabad (Suzuki Stand)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Meera Bin",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Source dated 2026-06-03",
+          "url": "https://www.app.com.pk/kp/drivers-protest-fare-reduction-in-abbottabad-authorities-enforce-official-rta-rates/"
+        }
+      ],
+      "notes": "Official RTA fare Rs 30 enforced after drivers' protest (APP, Jun 2026). (source date 2026-06-03)"
     }
   ],
   "last_verified": "2026-11-01"
