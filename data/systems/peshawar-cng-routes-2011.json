@@ -1,0 +1,668 @@
+{
+  "id": "peshawar-cng-routes-2011",
+  "city": "peshawar",
+  "name": "Peshawar CNG 14-seat vehicle routes (notified 2011)",
+  "name_ur": "",
+  "operator": "To be franchised by Transport Department KP (EoI invited from firms, Oct 2011); operation unconfirmed",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": "2011-10",
+    "source_url": "https://web.archive.org/web/20120104134315/http://khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346"
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Transport Department KP notified new routes in Peshawar District for CNG-14-Seated Vehicles",
+      "url": "https://web.archive.org/web/20120104134315/http://khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346",
+      "publisher": "Govt of Khyber Pakhtunkhwa web portal (Web Portal Management Cell), archived by Wayback Machine 2012-01-04",
+      "date": "2011-10-20",
+      "official": true
+    },
+    {
+      "title": "KP approves routes for CNG vehicles",
+      "url": "https://www.geo.tv/latest/32577-kp-approves-routes-for-cng-vehicles",
+      "publisher": "Geo News / APP",
+      "date": "2011-10-23",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "CNG-1",
+      "name": "Peshawar Bus Terminal (GT Road) - Hayatabad Phase-VI",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "historical",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Peshawar Bus Terminal (GT Road)",
+          "name_ur": "",
+          "lat": 34.02635,
+          "lon": 71.64413,
+          "coord_source": "auto:osm:node/2417825402",
+          "is_station": false
+        },
+        {
+          "name": "Pir Zakori Bridge (Ring Road)",
+          "name_ur": "",
+          "lat": 34.017078,
+          "lon": 71.622143,
+          "coord_source": "auto:osm:way/1262382532",
+          "is_station": false
+        },
+        {
+          "name": "Canal Road",
+          "name_ur": "",
+          "lat": 34.014955,
+          "lon": 71.598886,
+          "coord_source": "auto:osm:way/633442300",
+          "is_station": false
+        },
+        {
+          "name": "Gulbahar No. 4",
+          "name_ur": "",
+          "lat": 34.012381,
+          "lon": 71.59526,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jan Arcade Gulbahar",
+          "name_ur": "",
+          "lat": 34.009807,
+          "lon": 71.591635,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Sheikhabad",
+          "name_ur": "",
+          "lat": 34.007233,
+          "lon": 71.588009,
+          "coord_source": "auto:osm:node/3276944093",
+          "is_station": false
+        },
+        {
+          "name": "Lahori Gate",
+          "name_ur": "",
+          "lat": 34.010403,
+          "lon": 71.585231,
+          "coord_source": "auto:osm:node/7159388088",
+          "is_station": false
+        },
+        {
+          "name": "Ganj",
+          "name_ur": "",
+          "lat": 34.006347,
+          "lon": 71.581288,
+          "coord_source": "auto:osm:node/2887818435",
+          "is_station": false
+        },
+        {
+          "name": "Kohati Gate",
+          "name_ur": "",
+          "lat": 34.004506,
+          "lon": 71.570085,
+          "coord_source": "auto:osm:node/7159388091",
+          "is_station": false
+        },
+        {
+          "name": "Dabgari",
+          "name_ur": "",
+          "lat": 34.005355,
+          "lon": 71.557143,
+          "coord_source": "auto:osm:node/13410849464",
+          "is_station": false
+        },
+        {
+          "name": "Deans Trade Centre",
+          "name_ur": "",
+          "lat": 33.999868,
+          "lon": 71.546151,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Qayyum Stadium",
+          "name_ur": "",
+          "lat": 33.99438,
+          "lon": 71.535159,
+          "coord_source": "auto:osm:way/225787275",
+          "is_station": false
+        },
+        {
+          "name": "Swati Phatak",
+          "name_ur": "",
+          "lat": 33.989101,
+          "lon": 71.530407,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pishtakhara Police Station",
+          "name_ur": "",
+          "lat": 33.983822,
+          "lon": 71.525656,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ring Road Square (Bara Road)",
+          "name_ur": "",
+          "lat": 33.978543,
+          "lon": 71.520904,
+          "coord_source": "auto:osm:way/233473535",
+          "is_station": false
+        },
+        {
+          "name": "Ajmal Khattak Square",
+          "name_ur": "",
+          "lat": 33.971123,
+          "lon": 71.491749,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Zarghoni Masjid Square",
+          "name_ur": "",
+          "lat": 33.963703,
+          "lon": 71.462595,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gol Chowk (Hayatabad)",
+          "name_ur": "",
+          "lat": 33.956283,
+          "lon": 71.43344,
+          "coord_source": "auto:osm:node/13411115112",
+          "is_station": false
+        },
+        {
+          "name": "Scouts Children Academy / Frontier Corps Complex",
+          "name_ur": "",
+          "lat": 33.966682,
+          "lon": 71.433618,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Phase-VI Adda (Hayatabad)",
+          "name_ur": "",
+          "lat": 33.977081,
+          "lon": 71.433797,
+          "coord_source": "auto:osm:relation/13906072",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Transport Department KP has notified the following new routes in Peshawar District for CNG-14-Seated Vehicles (KP govt portal news, 2011-10-20; archived copy)",
+          "url": "https://web.archive.org/web/20120104134315/http://khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346"
+        },
+        {
+          "title": "KP approves routes for CNG vehicles (APP via Geo, 2011-10-23)",
+          "url": "https://www.geo.tv/latest/32577-kp-approves-routes-for-cng-vehicles"
+        }
+      ],
+      "notes": "Route number is the order in the 20 Oct 2011 Secretary Transport notification as reported on the KP govt portal (1st..4th route); stop order is as listed after 'via'. Original URL http://www.khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346 (dead; Wayback copy used). Geo/APP 23 Oct 2011 gives a shorter via-list for the same 4 routes and says a 10-year plan would divide Peshawar into 88 routes. No evidence found that CNG vans actually ran on these routes; any such service was superseded by the 2019-20 BRT bus-industry restructuring, hence status historical. 'General Bus Stand Kohat Road' is the Peshawar GBS on Kohat Road (Geo misprints it as 'General Bus Stand Kohat')."
+    },
+    {
+      "id": "CNG-2",
+      "name": "General Bus Stand Kohat Road - Board Bus Stop (Jamrud Road)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "historical",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "General Bus Stand Kohat Road",
+          "name_ur": "",
+          "lat": 33.983498,
+          "lon": 71.561215,
+          "coord_source": "auto:osm:node/9559895672",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Rehman Colony",
+          "name_ur": "",
+          "lat": 33.976109,
+          "lon": 71.562415,
+          "coord_source": "auto:osm:way/75504399",
+          "is_station": false
+        },
+        {
+          "name": "Qamar Din Garhi Flyover",
+          "name_ur": "",
+          "lat": 33.978836,
+          "lon": 71.55485,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Landi Arbab Road More (Ring Road)",
+          "name_ur": "",
+          "lat": 33.981562,
+          "lon": 71.547285,
+          "coord_source": "auto:osm:way/1034534126",
+          "is_station": false
+        },
+        {
+          "name": "Farooq-e-Azam Square",
+          "name_ur": "",
+          "lat": 33.975904,
+          "lon": 71.538014,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Canal Road (Garhi Sikandar Khan / Manakro)",
+          "name_ur": "",
+          "lat": 33.970247,
+          "lon": 71.528742,
+          "coord_source": "auto:osm:node/8573287839",
+          "is_station": false
+        },
+        {
+          "name": "Umar Gul Road",
+          "name_ur": "",
+          "lat": 33.972918,
+          "lon": 71.523848,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Old Custom Office Nawa Killi",
+          "name_ur": "",
+          "lat": 33.975588,
+          "lon": 71.518955,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Abdara Killi (Canal Road)",
+          "name_ur": "",
+          "lat": 33.978259,
+          "lon": 71.514061,
+          "coord_source": "auto:osm:way/1053100342",
+          "is_station": false
+        },
+        {
+          "name": "Pawaka Killi",
+          "name_ur": "",
+          "lat": 33.981632,
+          "lon": 71.502423,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Safaid Dheri",
+          "name_ur": "",
+          "lat": 33.985005,
+          "lon": 71.490785,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Academy Town",
+          "name_ur": "",
+          "lat": 33.988378,
+          "lon": 71.479147,
+          "coord_source": "auto:osm:way/106765724",
+          "is_station": false
+        },
+        {
+          "name": "Danish Abad Grid Station",
+          "name_ur": "",
+          "lat": 33.994721,
+          "lon": 71.476137,
+          "coord_source": "auto:osm:node/1224924175",
+          "is_station": false
+        },
+        {
+          "name": "Board Bus Stop (Jamrud Road)",
+          "name_ur": "",
+          "lat": 33.99805,
+          "lon": 71.471382,
+          "coord_source": "auto:osm:node/13316984241",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Transport Department KP has notified the following new routes in Peshawar District for CNG-14-Seated Vehicles (KP govt portal news, 2011-10-20; archived copy)",
+          "url": "https://web.archive.org/web/20120104134315/http://khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346"
+        },
+        {
+          "title": "KP approves routes for CNG vehicles (APP via Geo, 2011-10-23)",
+          "url": "https://www.geo.tv/latest/32577-kp-approves-routes-for-cng-vehicles"
+        }
+      ],
+      "notes": "Route number is the order in the 20 Oct 2011 Secretary Transport notification as reported on the KP govt portal (1st..4th route); stop order is as listed after 'via'. Original URL http://www.khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346 (dead; Wayback copy used). Geo/APP 23 Oct 2011 gives a shorter via-list for the same 4 routes and says a 10-year plan would divide Peshawar into 88 routes. No evidence found that CNG vans actually ran on these routes; any such service was superseded by the 2019-20 BRT bus-industry restructuring, hence status historical. 'General Bus Stand Kohat Road' is the Peshawar GBS on Kohat Road (Geo misprints it as 'General Bus Stand Kohat')."
+    },
+    {
+      "id": "CNG-3",
+      "name": "General Bus Stand Kohat Road - Pir Bala (Warsak Road)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "historical",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "General Bus Stand Kohat Road",
+          "name_ur": "",
+          "lat": 33.983498,
+          "lon": 71.561215,
+          "coord_source": "auto:osm:node/9559895672",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Rehman Colony",
+          "name_ur": "",
+          "lat": 33.976109,
+          "lon": 71.562415,
+          "coord_source": "auto:osm:way/75504399",
+          "is_station": false
+        },
+        {
+          "name": "Qamar Din Garhi Flyover",
+          "name_ur": "",
+          "lat": 33.977606,
+          "lon": 71.562206,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Hino Pak / Nissan showrooms (Ring Road)",
+          "name_ur": "",
+          "lat": 33.979103,
+          "lon": 71.561997,
+          "coord_source": "auto:osm:way/59804562",
+          "is_station": false
+        },
+        {
+          "name": "Hazar Khwani Square",
+          "name_ur": "",
+          "lat": 33.991761,
+          "lon": 71.582046,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Jamil Square",
+          "name_ur": "",
+          "lat": 34.00442,
+          "lon": 71.602094,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Zakori Bridge",
+          "name_ur": "",
+          "lat": 34.017078,
+          "lon": 71.622143,
+          "coord_source": "auto:osm:way/1262382532",
+          "is_station": false
+        },
+        {
+          "name": "M-I Overhead Bridge",
+          "name_ur": "",
+          "lat": 34.017958,
+          "lon": 71.604461,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Dalazak Road Square",
+          "name_ur": "",
+          "lat": 34.018839,
+          "lon": 71.58678,
+          "coord_source": "auto:osm:node/9554583095",
+          "is_station": false
+        },
+        {
+          "name": "Patang Square",
+          "name_ur": "",
+          "lat": 34.024337,
+          "lon": 71.582188,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Charsadda Adda",
+          "name_ur": "",
+          "lat": 34.029835,
+          "lon": 71.577596,
+          "coord_source": "auto:osm:node/9491625911",
+          "is_station": false
+        },
+        {
+          "name": "Din Bahar Colony (Canal Road)",
+          "name_ur": "",
+          "lat": 34.025104,
+          "lon": 71.565437,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Tablighi Markaz",
+          "name_ur": "",
+          "lat": 34.020372,
+          "lon": 71.553277,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "FATA Secretariat (Warsak Road)",
+          "name_ur": "",
+          "lat": 34.015641,
+          "lon": 71.541118,
+          "coord_source": "auto:osm:way/284336387",
+          "is_station": false
+        },
+        {
+          "name": "Pir Bala",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Transport Department KP has notified the following new routes in Peshawar District for CNG-14-Seated Vehicles (KP govt portal news, 2011-10-20; archived copy)",
+          "url": "https://web.archive.org/web/20120104134315/http://khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346"
+        },
+        {
+          "title": "KP approves routes for CNG vehicles (APP via Geo, 2011-10-23)",
+          "url": "https://www.geo.tv/latest/32577-kp-approves-routes-for-cng-vehicles"
+        }
+      ],
+      "notes": "Route number is the order in the 20 Oct 2011 Secretary Transport notification as reported on the KP govt portal (1st..4th route); stop order is as listed after 'via'. Original URL http://www.khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346 (dead; Wayback copy used). Geo/APP 23 Oct 2011 gives a shorter via-list for the same 4 routes and says a 10-year plan would divide Peshawar into 88 routes. No evidence found that CNG vans actually ran on these routes; any such service was superseded by the 2019-20 BRT bus-industry restructuring, hence status historical. 'General Bus Stand Kohat Road' is the Peshawar GBS on Kohat Road (Geo misprints it as 'General Bus Stand Kohat')."
+    },
+    {
+      "id": "CNG-4",
+      "name": "General Bus Stand Kohat Road - Hayatabad Phase-VI",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "historical",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "General Bus Stand Kohat Road",
+          "name_ur": "",
+          "lat": 33.983498,
+          "lon": 71.561215,
+          "coord_source": "auto:osm:node/9559895672",
+          "is_station": false
+        },
+        {
+          "name": "Gulshan Rehman Colony",
+          "name_ur": "",
+          "lat": 33.976109,
+          "lon": 71.562415,
+          "coord_source": "auto:osm:way/75504399",
+          "is_station": false
+        },
+        {
+          "name": "Qamar Din Garhi Flyover",
+          "name_ur": "",
+          "lat": 33.983912,
+          "lon": 71.560243,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "SIDB Office",
+          "name_ur": "",
+          "lat": 33.991715,
+          "lon": 71.55807,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Civil Quarters",
+          "name_ur": "",
+          "lat": 33.999518,
+          "lon": 71.555898,
+          "coord_source": "auto:osm:way/320946914",
+          "is_station": false
+        },
+        {
+          "name": "Deans Trade Centre",
+          "name_ur": "",
+          "lat": 33.996949,
+          "lon": 71.545528,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Qayyum Stadium",
+          "name_ur": "",
+          "lat": 33.99438,
+          "lon": 71.535159,
+          "coord_source": "auto:osm:way/225787275",
+          "is_station": false
+        },
+        {
+          "name": "Swati Phatak",
+          "name_ur": "",
+          "lat": 33.989101,
+          "lon": 71.530407,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Pishtakhara Police Station",
+          "name_ur": "",
+          "lat": 33.983822,
+          "lon": 71.525656,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Ring Road Square (Bara Road)",
+          "name_ur": "",
+          "lat": 33.978543,
+          "lon": 71.520904,
+          "coord_source": "auto:osm:way/233473535",
+          "is_station": false
+        },
+        {
+          "name": "Ajmal Khattak Square",
+          "name_ur": "",
+          "lat": 33.971123,
+          "lon": 71.491749,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Zarghoni Masjid Square",
+          "name_ur": "",
+          "lat": 33.963703,
+          "lon": 71.462595,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Gol Chowk (Hayatabad)",
+          "name_ur": "",
+          "lat": 33.956283,
+          "lon": 71.43344,
+          "coord_source": "auto:osm:node/13411115112",
+          "is_station": false
+        },
+        {
+          "name": "Scouts Children Academy / Frontier Corps Complex",
+          "name_ur": "",
+          "lat": 33.966682,
+          "lon": 71.433618,
+          "coord_source": "auto:interpolated",
+          "is_station": false
+        },
+        {
+          "name": "Phase-VI Adda (Hayatabad)",
+          "name_ur": "",
+          "lat": 33.977081,
+          "lon": 71.433797,
+          "coord_source": "auto:osm:relation/13906072",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "medium",
+      "sources": [
+        {
+          "title": "Transport Department KP has notified the following new routes in Peshawar District for CNG-14-Seated Vehicles (KP govt portal news, 2011-10-20; archived copy)",
+          "url": "https://web.archive.org/web/20120104134315/http://khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346"
+        },
+        {
+          "title": "KP approves routes for CNG vehicles (APP via Geo, 2011-10-23)",
+          "url": "https://www.geo.tv/latest/32577-kp-approves-routes-for-cng-vehicles"
+        }
+      ],
+      "notes": "Route number is the order in the 20 Oct 2011 Secretary Transport notification as reported on the KP govt portal (1st..4th route); stop order is as listed after 'via'. Original URL http://www.khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346 (dead; Wayback copy used). Geo/APP 23 Oct 2011 gives a shorter via-list for the same 4 routes and says a 10-year plan would divide Peshawar into 88 routes. No evidence found that CNG vans actually ran on these routes; any such service was superseded by the 2019-20 BRT bus-industry restructuring, hence status historical. 'General Bus Stand Kohat Road' is the Peshawar GBS on Kohat Road (Geo misprints it as 'General Bus Stand Kohat')."
+    }
+  ],
+  "last_verified": "2026-11-01"
+}

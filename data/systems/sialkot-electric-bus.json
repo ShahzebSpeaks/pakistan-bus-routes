@@ -63,8 +63,11 @@
       "status": "operational",
       "launched": "2026-07-16",
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 60,
+      "hours": {
+        "start": "06:00",
+        "end": "21:00"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -218,9 +221,13 @@
         {
           "title": "safar.fyi Sialkot route",
           "url": "https://www.safar.fyi/sialkot/transit-lines/etransit-sialkot%3A322"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "GBS-Daska and GBS-Pasrur. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS, Sialkot to Daska', 18 stops); safar lists service 6:00 AM - 8:05 PM (unverified)."
+      "notes": "GBS-Daska and GBS-Pasrur. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS, Sialkot to Daska', 18 stops); safar lists service 6:00 AM - 8:05 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "gbs-sialkot-to-pasrur",
@@ -231,8 +238,11 @@
       "status": "operational",
       "launched": "2026-07-16",
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 55,
+      "hours": {
+        "start": "06:00",
+        "end": "19:45"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -418,9 +428,13 @@
         {
           "title": "safar.fyi Sialkot route",
           "url": "https://www.safar.fyi/sialkot/transit-lines/etransit-sialkot%3A321"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "GBS-Daska and GBS-Pasrur. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS, Sialkot to Pasrur', 22 stops); safar lists service 6:00 AM - 7:00 PM (unverified)."
+      "notes": "GBS-Daska and GBS-Pasrur. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS, Sialkot to Pasrur', 22 stops); safar lists service 6:00 AM - 7:00 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     }
   ]
 }

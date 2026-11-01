@@ -56,8 +56,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 15,
+      "hours": {
+        "start": "05:00",
+        "end": "22:00"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -291,9 +294,13 @@
         {
           "title": "safar.fyi Multan transit lines",
           "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A38"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Route code, stops and order from safar.fyi (direction 'Dera Adda to Dehhr Chowk'); safar lists 29 stops, fare Rs. 25, service 5:00 AM - 10:00 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence)."
+      "notes": "Route code, stops and order from safar.fyi (direction 'Dera Adda to Dehhr Chowk'); safar lists 29 stops, fare Rs. 25, service 5:00 AM - 10:00 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR01B",
@@ -304,8 +311,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 15,
+      "hours": {
+        "start": "06:00",
+        "end": "17:15"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -571,9 +581,13 @@
         {
           "title": "safar.fyi Multan transit lines",
           "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A39"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Route code, stops and order from safar.fyi (direction 'Dera Adda to E-Khidmat Center'); safar lists 33 stops, fare Rs. 25, service 6:00 AM - 5:15 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence)."
+      "notes": "Route code, stops and order from safar.fyi (direction 'Dera Adda to E-Khidmat Center'); safar lists 33 stops, fare Rs. 25, service 6:00 AM - 5:15 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR01C",
@@ -844,8 +858,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 25,
+      "hours": {
+        "start": "05:45",
+        "end": "21:05"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -1007,9 +1024,13 @@
         {
           "title": "safar.fyi Multan transit lines",
           "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A41"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Route code, stops and order from safar.fyi (direction 'Qasim Fort to Suraj Miani'); safar lists 20 stops, fare Rs. 25, service 5:45 AM - 9:05 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence). 'Pepsi Factory' appears twice in safar's list (non-consecutive), kept as published."
+      "notes": "Route code, stops and order from safar.fyi (direction 'Qasim Fort to Suraj Miani'); safar lists 20 stops, fare Rs. 25, service 5:45 AM - 9:05 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence). 'Pepsi Factory' appears twice in safar's list (non-consecutive), kept as published. Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR03",
@@ -1224,8 +1245,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 60,
+      "hours": {
+        "start": "05:50",
+        "end": "21:15"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -1539,9 +1563,13 @@
         {
           "title": "safar.fyi Multan transit lines",
           "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A43"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Route code, stops and order from safar.fyi (direction 'Ghanta Ghar to Qadir Pur Rawan 1'); safar lists 39 stops, fare Rs. 25, service 5:50 AM - 9:15 PM (unverified). Removed consecutive duplicate stop(s): Qadir Pur Rawan 1."
+      "notes": "Route code, stops and order from safar.fyi (direction 'Ghanta Ghar to Qadir Pur Rawan 1'); safar lists 39 stops, fare Rs. 25, service 5:50 AM - 9:15 PM (unverified). Removed consecutive duplicate stop(s): Qadir Pur Rawan 1. Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR04",
@@ -1552,8 +1580,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 30,
+      "hours": {
+        "start": "06:30",
+        "end": "21:40"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -1675,9 +1706,13 @@
         {
           "title": "safar.fyi Multan transit lines",
           "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A44"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Route code, stops and order from safar.fyi (direction 'Vehari Chowk to Nag Shah'); safar lists 14 stops, fare Rs. 25, service 6:30 AM - 9:40 PM (unverified)."
+      "notes": "Route code, stops and order from safar.fyi (direction 'Vehari Chowk to Nag Shah'); safar lists 14 stops, fare Rs. 25, service 6:30 AM - 9:40 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR04B",
@@ -1688,8 +1723,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 30,
+      "hours": {
+        "start": "05:00",
+        "end": "21:40"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -2019,9 +2057,13 @@
         {
           "title": "safar.fyi Multan transit lines",
           "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A45"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Route code, stops and order from safar.fyi (direction 'Nishter Hospital to Adda Shujaabad'); safar lists 40 stops, fare Rs. 25, service 5:00 AM - 9:40 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence). 'Nishter Hospital' and 'Nishtar Hospital' listed as first two stops (probably two stop points)."
+      "notes": "Route code, stops and order from safar.fyi (direction 'Nishter Hospital to Adda Shujaabad'); safar lists 40 stops, fare Rs. 25, service 5:00 AM - 9:40 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence). 'Nishter Hospital' and 'Nishtar Hospital' listed as first two stops (probably two stop points). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR07B",
@@ -2032,8 +2074,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 40,
+      "hours": {
+        "start": "05:00",
+        "end": "21:00"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -2331,9 +2376,13 @@
         {
           "title": "safar.fyi Multan transit lines",
           "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A47"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Route code, stops and order from safar.fyi (direction 'Vehari Chowk 7B to 32 Pul'); safar lists 36 stops, fare Rs. 25, service 5:00 AM - 9:00 PM (unverified)."
+      "notes": "Route code, stops and order from safar.fyi (direction 'Vehari Chowk 7B to 32 Pul'); safar lists 36 stops, fare Rs. 25, service 5:00 AM - 9:00 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR08B",
@@ -2344,8 +2393,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 40,
+      "hours": {
+        "start": "05:10",
+        "end": "21:00"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -2683,9 +2735,13 @@
         {
           "title": "safar.fyi Multan transit lines",
           "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A48"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Route code, stops and order from safar.fyi (direction 'Vehari Chowk 8B to Basti Malook'); safar lists 41 stops, fare Rs. 25, service 5:10 AM - 9:00 PM (unverified)."
+      "notes": "Route code, stops and order from safar.fyi (direction 'Vehari Chowk 8B to Basti Malook'); safar lists 41 stops, fare Rs. 25, service 5:10 AM - 9:00 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR09",
@@ -2888,8 +2944,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 20,
+      "hours": {
+        "start": "05:00",
+        "end": "20:45"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -3187,9 +3246,13 @@
         {
           "title": "safar.fyi Multan transit lines",
           "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A50"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Route code, stops and order from safar.fyi (direction 'Chungi No 9 to Nadirabad Phatak'); safar lists 39 stops, fare Rs. 25, service 5:00 AM - 8:45 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence)."
+      "notes": "Route code, stops and order from safar.fyi (direction 'Chungi No 9 to Nadirabad Phatak'); safar lists 39 stops, fare Rs. 25, service 5:00 AM - 8:45 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR09C",
@@ -3200,8 +3263,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 60,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -3515,9 +3581,13 @@
         {
           "title": "safar.fyi Multan transit lines",
           "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A51"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Route code, stops and order from safar.fyi (direction 'Chungi. No.9 Multan to Nadirabad Phatak'); safar lists 39 stops, fare Rs. 25, service 6:00 AM - 10:00 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence)."
+      "notes": "Route code, stops and order from safar.fyi (direction 'Chungi. No.9 Multan to Nadirabad Phatak'); safar lists 39 stops, fare Rs. 25, service 6:00 AM - 10:00 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR10",
@@ -3528,8 +3598,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 30,
+      "hours": {
+        "start": "06:30",
+        "end": "21:35"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -3699,9 +3772,13 @@
         {
           "title": "safar.fyi Multan transit lines",
           "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A52"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Route code, stops and order from safar.fyi (direction 'Chungi No 9 to Nawabpur'); safar lists 21 stops, fare Rs. 25, service 6:30 AM - 9:35 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence)."
+      "notes": "Route code, stops and order from safar.fyi (direction 'Chungi No 9 to Nawabpur'); safar lists 21 stops, fare Rs. 25, service 6:30 AM - 9:35 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR11",
@@ -3712,8 +3789,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 20,
+      "hours": {
+        "start": "05:50",
+        "end": "21:25"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -3915,9 +3995,13 @@
         {
           "title": "safar.fyi Multan transit lines",
           "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A53"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Route code, stops and order from safar.fyi (direction 'Vehari Chowk to CMH'); safar lists 24 stops, fare Rs. 25, service 5:50 AM - 9:25 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence)."
+      "notes": "Route code, stops and order from safar.fyi (direction 'Vehari Chowk to CMH'); safar lists 24 stops, fare Rs. 25, service 5:50 AM - 9:25 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR12A",
@@ -3928,8 +4012,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 40,
+      "hours": {
+        "start": "06:20",
+        "end": "21:00"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -4059,9 +4146,13 @@
         {
           "title": "safar.fyi Multan transit lines",
           "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A238"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Route code, stops and order from safar.fyi (direction 'Aziz Hotel RT 12A to Airport'); safar lists 16 stops, fare Rs. 25, service 6:20 AM - 9:00 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence)."
+      "notes": "Route code, stops and order from safar.fyi (direction 'Aziz Hotel RT 12A to Airport'); safar lists 16 stops, fare Rs. 25, service 6:20 AM - 9:00 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR12B",
@@ -4072,8 +4163,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 40,
+      "hours": {
+        "start": "06:00",
+        "end": "21:20"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -4155,9 +4249,13 @@
         {
           "title": "safar.fyi Multan transit lines",
           "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A54"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Route code, stops and order from safar.fyi (direction 'Aziz Hotel to Nishter Chowk'); safar lists 9 stops, fare Rs. 25, service 6:00 AM - 9:20 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence)."
+      "notes": "Route code, stops and order from safar.fyi (direction 'Aziz Hotel to Nishter Chowk'); safar lists 9 stops, fare Rs. 25, service 6:00 AM - 9:20 PM (unverified). Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR30",
@@ -4168,8 +4266,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 30,
+      "hours": {
+        "start": "05:40",
+        "end": "21:10"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -4403,9 +4504,13 @@
         {
           "title": "safar.fyi Multan transit lines",
           "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A55"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Route code, stops and order from safar.fyi (direction 'Dera Adda to Sher Shah Bypass'); safar lists 29 stops, fare Rs. 25, service 5:40 AM - 9:10 PM (unverified). Removed consecutive duplicate stop(s): Sher Shah Bypass. Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence)."
+      "notes": "Route code, stops and order from safar.fyi (direction 'Dera Adda to Sher Shah Bypass'); safar lists 29 stops, fare Rs. 25, service 5:40 AM - 9:10 PM (unverified). Removed consecutive duplicate stop(s): Sher Shah Bypass. Some coordinates matched by exact name to OSM highway=bus_stop nodes in Multan (medium confidence). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR39",
@@ -4416,8 +4521,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 50,
+      "hours": {
+        "start": "06:00",
+        "end": "21:20"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -4651,9 +4759,13 @@
         {
           "title": "safar.fyi Multan transit lines",
           "url": "https://www.safar.fyi/multan/transit-lines/mlt%3A56"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Route code, stops and order from safar.fyi (direction 'Northern Bypass 39 to Dars Chawan'); safar lists 28 stops, fare Rs. 25, service 6:00 AM - 9:20 PM (unverified)."
+      "notes": "Route code, stops and order from safar.fyi (direction 'Northern Bypass 39 to Dars Chawan'); safar lists 28 stops, fare Rs. 25, service 6:00 AM - 9:20 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     }
   ]
 }

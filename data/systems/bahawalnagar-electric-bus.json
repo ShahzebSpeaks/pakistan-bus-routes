@@ -56,8 +56,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 50,
+      "hours": {
+        "start": "06:00",
+        "end": "20:10"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -251,9 +254,13 @@
         {
           "title": "safar.fyi Bahawalnagar route",
           "url": "https://www.safar.fyi/bahawalnagar/transit-lines/bwn%3A192"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Part of ten-city phase announced for inauguration ~19 Nov 2025 (Minute Mirror). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Bahawalnagar GBS to GBS Chishtian', 23 stops); safar lists service 6:00 AM - 8:10 PM (unverified)."
+      "notes": "Part of ten-city phase announced for inauguration ~19 Nov 2025 (Minute Mirror). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Bahawalnagar GBS to GBS Chishtian', 23 stops); safar lists service 6:00 AM - 8:10 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "gbs-bahawalnagar-to-dunga-bunga",
@@ -264,8 +271,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 56,
+      "hours": {
+        "start": "06:00",
+        "end": "20:00"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -459,9 +469,13 @@
         {
           "title": "safar.fyi Bahawalnagar route",
           "url": "https://www.safar.fyi/bahawalnagar/transit-lines/bwn%3A193"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Part of ten-city phase announced for inauguration ~19 Nov 2025 (Minute Mirror). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Bahawalnagar GBS to Dunga Bunga', 23 stops); safar lists service 6:00 AM - 8:00 PM (unverified)."
+      "notes": "Part of ten-city phase announced for inauguration ~19 Nov 2025 (Minute Mirror). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Bahawalnagar GBS to Dunga Bunga', 23 stops); safar lists service 6:00 AM - 8:00 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "gbs-bahawalnagar-to-gbs-bahawalnagar",
@@ -472,8 +486,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 41,
+      "hours": {
+        "start": "06:00",
+        "end": "21:06"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -667,9 +684,13 @@
         {
           "title": "safar.fyi Bahawalnagar route",
           "url": "https://www.safar.fyi/bahawalnagar/transit-lines/bwn%3A194"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Part of ten-city phase announced for inauguration ~19 Nov 2025 (Minute Mirror). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Bahawalnagar GBS to Bahawalnagar GBS', 23 stops); safar lists service 6:00 AM - 8:15 PM (unverified)."
+      "notes": "Part of ten-city phase announced for inauguration ~19 Nov 2025 (Minute Mirror). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Bahawalnagar GBS to Bahawalnagar GBS', 23 stops); safar lists service 6:00 AM - 8:15 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     }
   ]
 }

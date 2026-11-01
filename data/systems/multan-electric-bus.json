@@ -66,7 +66,7 @@
       "headway_min": 20,
       "hours": {
         "start": "05:55",
-        "end": "19:55"
+        "end": "20:35"
       },
       "fare_override": null,
       "women_only": false,
@@ -257,9 +257,13 @@
         {
           "title": "eTransit Punjab (PMA) route planner, line 73, route 457 'Vehari Chowk to Nishtar Hospital' (get-line-schedules, forward direction, fetched 2026-09-24)",
           "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Official PMA/eTransit stop list, forward direction 'Vehari Chowk to Nishtar Hospital' (22 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 3 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. Replaces the existing unverified safar.fyi version: now confirmed by PMA and by launch reports (Nation/ARY name \"Vehari Chowk to Nishtar Hospital\"). The official list ends at Chungi No. 1 and Nishtar Hospital rather than \"Nishter Chowk\". Launched 17 Sep 2026 (phase 1)."
+      "notes": "Official PMA/eTransit stop list, forward direction 'Vehari Chowk to Nishtar Hospital' (22 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 3 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. Replaces the existing unverified safar.fyi version: now confirmed by PMA and by launch reports (Nation/ARY name \"Vehari Chowk to Nishtar Hospital\"). The official list ends at Chungi No. 1 and Nishtar Hospital rather than \"Nishter Chowk\". Launched 17 Sep 2026 (phase 1). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR-EV-476",
@@ -270,10 +274,10 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": 15,
+      "headway_min": 40,
       "hours": {
-        "start": "05:45",
-        "end": "20:30"
+        "start": "05:40",
+        "end": "21:50"
       },
       "fare_override": null,
       "women_only": false,
@@ -460,9 +464,13 @@
         {
           "title": "eTransit Punjab (PMA) route planner, line 73, route 476 'Chungi No. 09 to Nag Shah' (get-line-schedules, forward direction, fetched 2026-09-24)",
           "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Official PMA/eTransit stop list, forward direction 'Chungi No. 09 to Nag Shah' (22 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 3 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. Electric counterpart of diesel feeder MFR09 (Chungi No 9 - Nag Shah)."
+      "notes": "Official PMA/eTransit stop list, forward direction 'Chungi No. 09 to Nag Shah' (22 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 3 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. Electric counterpart of diesel feeder MFR09 (Chungi No 9 - Nag Shah). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR-EV-477",
@@ -473,10 +481,10 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": 20,
+      "headway_min": 40,
       "hours": {
         "start": "05:20",
-        "end": "19:00"
+        "end": "18:10"
       },
       "fare_override": null,
       "women_only": false,
@@ -775,9 +783,13 @@
         {
           "title": "eTransit Punjab (PMA) route planner, line 73, route 477 'Chungi No. 09 to Nadirabad Phatak' (get-line-schedules, forward direction, fetched 2026-09-24)",
           "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Official PMA/eTransit stop list, forward direction 'Chungi No. 09 to Nadirabad Phatak' (36 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 3 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. Electric counterpart of MFR09B."
+      "notes": "Official PMA/eTransit stop list, forward direction 'Chungi No. 09 to Nadirabad Phatak' (36 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 3 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. Electric counterpart of MFR09B. Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR-EV-478",
@@ -1122,7 +1134,7 @@
       "headway_min": 20,
       "hours": {
         "start": "05:40",
-        "end": "20:00"
+        "end": "21:10"
       },
       "fare_override": null,
       "women_only": false,
@@ -1341,9 +1353,13 @@
         {
           "title": "eTransit Punjab (PMA) route planner, line 73, route 483 'Vehari Chowk to Qasim Bela' (get-line-schedules, forward direction, fetched 2026-09-24)",
           "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Official PMA/eTransit stop list, forward direction 'Vehari Chowk to Qasim Bela' (26 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 2 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. New alignment with no diesel MFR equivalent: Vehari Chowk - BCG Chowk - Ghalla Mandi - Double Phatak - Railway Station - Dera Adda - Nawan Shehr - CMH - Qasim Bela."
+      "notes": "Official PMA/eTransit stop list, forward direction 'Vehari Chowk to Qasim Bela' (26 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 2 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. New alignment with no diesel MFR equivalent: Vehari Chowk - BCG Chowk - Ghalla Mandi - Double Phatak - Railway Station - Dera Adda - Nawan Shehr - CMH - Qasim Bela. Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR-EV-484",
@@ -1357,7 +1373,7 @@
       "headway_min": 40,
       "hours": {
         "start": "05:40",
-        "end": "19:40"
+        "end": "20:00"
       },
       "fare_override": null,
       "women_only": false,
@@ -1544,9 +1560,13 @@
         {
           "title": "eTransit Punjab (PMA) route planner, line 73, route 484 'Ghanta Ghar to Ibne Sina Hospital' (get-line-schedules, forward direction, fetched 2026-09-24)",
           "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Official PMA/eTransit stop list, forward direction 'Ghanta Ghar to Ibn-e-Sina Hospital' (22 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 1 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. Electric counterpart of MFR03. Named in launch reports (\"Ghanta Ghar to Ibn-e-Sina Hospital\"). Launched 17 Sep 2026 (phase 1)."
+      "notes": "Official PMA/eTransit stop list, forward direction 'Ghanta Ghar to Ibn-e-Sina Hospital' (22 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 1 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. Electric counterpart of MFR03. Named in launch reports (\"Ghanta Ghar to Ibn-e-Sina Hospital\"). Launched 17 Sep 2026 (phase 1). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR-EV-485",
@@ -1560,7 +1580,7 @@
       "headway_min": 40,
       "hours": {
         "start": "06:00",
-        "end": "17:20"
+        "end": "18:40"
       },
       "fare_override": null,
       "women_only": false,
@@ -1819,9 +1839,13 @@
         {
           "title": "eTransit Punjab (PMA) route planner, line 73, route 485 'Ghanta Ghar to Qadir Pur Raan' (get-line-schedules, forward direction, fetched 2026-09-24)",
           "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Official PMA/eTransit stop list, forward direction 'Ghanta Ghar to Qadirpur Raan' (31 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 0 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. Electric counterpart of MFR03B, with a shorter stop list (31 vs 38)."
+      "notes": "Official PMA/eTransit stop list, forward direction 'Ghanta Ghar to Qadirpur Raan' (31 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 0 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. Electric counterpart of MFR03B, with a shorter stop list (31 vs 38). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR-EV-486",
@@ -1835,7 +1859,7 @@
       "headway_min": 20,
       "hours": {
         "start": "05:40",
-        "end": "16:40"
+        "end": "18:00"
       },
       "fare_override": null,
       "women_only": false,
@@ -2094,9 +2118,13 @@
         {
           "title": "eTransit Punjab (PMA) route planner, line 73, route 486 'Dera Adda to DHA' (get-line-schedules, forward direction, fetched 2026-09-24)",
           "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Official PMA/eTransit stop list, forward direction 'Dera Adda to DHA' (31 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 2 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. New route to DHA Multan via Women University; launch reports mention a service \"from Dera Adda via DHA and Women University to the E-Khidmat Centre\", which may be this route or MFR-EV-488."
+      "notes": "Official PMA/eTransit stop list, forward direction 'Dera Adda to DHA' (31 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 2 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. New route to DHA Multan via Women University; launch reports mention a service \"from Dera Adda via DHA and Women University to the E-Khidmat Centre\", which may be this route or MFR-EV-488. Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "MFR-EV-487",

@@ -56,8 +56,11 @@
       "status": "operational",
       "launched": "2025-09-20",
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 40,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -235,9 +238,13 @@
         {
           "title": "safar.fyi Wazirabad route",
           "url": "https://www.safar.fyi/wazirabad/transit-lines/wzd%3A73"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Gujranwala district. 15 buses first phase: Wazirabad-Gujranwala (safar terminal Sheikhupura Morr, Gujranwala) and Wazirabad-Alipur Chatha; Wazirabad-Gakhar fare reported cut from Rs 200 to Rs 20. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Ahmad Nagar Bus Station to Madina Chowk', 21 stops); safar lists service 6:00 AM - 10:00 PM (unverified)."
+      "notes": "Gujranwala district. 15 buses first phase: Wazirabad-Gujranwala (safar terminal Sheikhupura Morr, Gujranwala) and Wazirabad-Alipur Chatha; Wazirabad-Gakhar fare reported cut from Rs 200 to Rs 20. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Ahmad Nagar Bus Station to Madina Chowk', 21 stops); safar lists service 6:00 AM - 10:00 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "wazirabad-to-sheikhupura-morr",
@@ -248,8 +255,11 @@
       "status": "operational",
       "launched": "2025-09-20",
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 50,
+      "hours": {
+        "start": "06:00",
+        "end": "21:50"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -443,9 +453,13 @@
         {
           "title": "safar.fyi Wazirabad route",
           "url": "https://www.safar.fyi/wazirabad/transit-lines/wzd%3A74"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Gujranwala district. 15 buses first phase: Wazirabad-Gujranwala (safar terminal Sheikhupura Morr, Gujranwala) and Wazirabad-Alipur Chatha; Wazirabad-Gakhar fare reported cut from Rs 200 to Rs 20. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Railway Station to Sheikhupura Morr', 23 stops); safar lists service 6:00 AM - 9:50 PM (unverified)."
+      "notes": "Gujranwala district. 15 buses first phase: Wazirabad-Gujranwala (safar terminal Sheikhupura Morr, Gujranwala) and Wazirabad-Alipur Chatha; Wazirabad-Gakhar fare reported cut from Rs 200 to Rs 20. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Railway Station to Sheikhupura Morr', 23 stops); safar lists service 6:00 AM - 9:50 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     }
   ]
 }

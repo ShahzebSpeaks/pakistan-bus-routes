@@ -63,8 +63,11 @@
       "status": "operational",
       "launched": "2025-09-25",
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 35,
+      "hours": {
+        "start": "06:00",
+        "end": "20:00"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -258,9 +261,13 @@
         {
           "title": "safar.fyi Dera Ghazi Khan route",
           "url": "https://www.safar.fyi/dera-ghazi-khan/transit-lines/dgk%3A156"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "24 buses initially (first e-bus service in South Punjab): GBS-Kot Chutta-Choti Zareen, GBS-Sakhi Sarwar, GBS-Shah Sadar Din, city loop. Launch date = APP report date. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS DG Khan to Choti Zareen', 23 stops); safar lists service 6:00 AM - 8:00 PM (unverified)."
+      "notes": "24 buses initially (first e-bus service in South Punjab): GBS-Kot Chutta-Choti Zareen, GBS-Sakhi Sarwar, GBS-Shah Sadar Din, city loop. Launch date = APP report date. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS DG Khan to Choti Zareen', 23 stops); safar lists service 6:00 AM - 8:00 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "gbs-dg-khan-to-gbs-dg-khan-intercity",
@@ -271,8 +278,11 @@
       "status": "operational",
       "launched": "2025-09-25",
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 30,
+      "hours": {
+        "start": "06:00",
+        "end": "21:30"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -490,9 +500,13 @@
         {
           "title": "safar.fyi Dera Ghazi Khan route",
           "url": "https://www.safar.fyi/dera-ghazi-khan/transit-lines/dgk%3A162"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "24 buses initially (first e-bus service in South Punjab): GBS-Kot Chutta-Choti Zareen, GBS-Sakhi Sarwar, GBS-Shah Sadar Din, city loop. Launch date = APP report date. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS DG Khan to GBS DG Khan', 26 stops); safar lists service 6:00 AM - 8:15 PM (unverified)."
+      "notes": "24 buses initially (first e-bus service in South Punjab): GBS-Kot Chutta-Choti Zareen, GBS-Sakhi Sarwar, GBS-Shah Sadar Din, city loop. Launch date = APP report date. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS DG Khan to GBS DG Khan', 26 stops); safar lists service 6:00 AM - 8:15 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "gbs-dg-khan-to-sakhi-sarwar",
@@ -503,8 +517,11 @@
       "status": "operational",
       "launched": "2025-09-25",
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 37,
+      "hours": {
+        "start": "06:00",
+        "end": "20:11"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -666,9 +683,13 @@
         {
           "title": "safar.fyi Dera Ghazi Khan route",
           "url": "https://www.safar.fyi/dera-ghazi-khan/transit-lines/dgk%3A160"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "24 buses initially (first e-bus service in South Punjab): GBS-Kot Chutta-Choti Zareen, GBS-Sakhi Sarwar, GBS-Shah Sadar Din, city loop. Launch date = APP report date. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS DG Khan to Zair Peer', 19 stops); safar lists service 6:00 AM - 8:11 PM (unverified)."
+      "notes": "24 buses initially (first e-bus service in South Punjab): GBS-Kot Chutta-Choti Zareen, GBS-Sakhi Sarwar, GBS-Shah Sadar Din, city loop. Launch date = APP report date. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS DG Khan to Zair Peer', 19 stops); safar lists service 6:00 AM - 8:11 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "gbs-dg-khan-to-shah-sadar-din",
@@ -679,8 +700,11 @@
       "status": "operational",
       "launched": "2025-09-25",
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 50,
+      "hours": {
+        "start": "06:00",
+        "end": "20:10"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -834,9 +858,13 @@
         {
           "title": "safar.fyi Dera Ghazi Khan route",
           "url": "https://www.safar.fyi/dera-ghazi-khan/transit-lines/dgk%3A158"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "24 buses initially (first e-bus service in South Punjab): GBS-Kot Chutta-Choti Zareen, GBS-Sakhi Sarwar, GBS-Shah Sadar Din, city loop. Launch date = APP report date. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS DG Khan to Shah Sardar Din', 19 stops); safar lists service 6:00 AM - 8:10 PM (unverified). Removed consecutive duplicate stop(s): Shah Sardar Din."
+      "notes": "24 buses initially (first e-bus service in South Punjab): GBS-Kot Chutta-Choti Zareen, GBS-Sakhi Sarwar, GBS-Shah Sadar Din, city loop. Launch date = APP report date. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS DG Khan to Shah Sardar Din', 19 stops); safar lists service 6:00 AM - 8:10 PM (unverified). Removed consecutive duplicate stop(s): Shah Sardar Din. Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     }
   ]
 }

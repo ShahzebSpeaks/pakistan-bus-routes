@@ -70,8 +70,11 @@
       "status": "operational",
       "launched": "2025-09-19",
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 50,
+      "hours": {
+        "start": "06:00",
+        "end": "21:50"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -273,9 +276,13 @@
         {
           "title": "safar.fyi Sargodha route",
           "url": "https://www.safar.fyi/sargodha/transit-lines/srg%3A142"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "60 buses in Sargodha city (105 for the division). Bhera-Sargodha fare reported cut from Rs 200 to Rs 20. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Sargodha to GBS Chota Sahiwal', 24 stops); safar lists service 6:00 AM - 9:50 PM (unverified)."
+      "notes": "60 buses in Sargodha city (105 for the division). Bhera-Sargodha fare reported cut from Rs 200 to Rs 20. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Sargodha to GBS Chota Sahiwal', 24 stops); safar lists service 6:00 AM - 9:50 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "gbs-sargodha-to-gbs-bhera",
@@ -286,8 +293,11 @@
       "status": "operational",
       "launched": "2025-09-19",
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 60,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -585,9 +595,13 @@
         {
           "title": "safar.fyi Sargodha route",
           "url": "https://www.safar.fyi/sargodha/transit-lines/srg%3A138"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "60 buses in Sargodha city (105 for the division). Bhera-Sargodha fare reported cut from Rs 200 to Rs 20. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Sargodha to GBS Bhera', 36 stops); safar lists service 6:00 AM - 10:00 PM (unverified)."
+      "notes": "60 buses in Sargodha city (105 for the division). Bhera-Sargodha fare reported cut from Rs 200 to Rs 20. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Sargodha to GBS Bhera', 36 stops); safar lists service 6:00 AM - 10:00 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "gbs-sargodha-to-kot-momin",
@@ -598,8 +612,11 @@
       "status": "operational",
       "launched": "2025-09-19",
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 40,
+      "hours": {
+        "start": "06:00",
+        "end": "21:20"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -737,9 +754,13 @@
         {
           "title": "safar.fyi Sargodha route",
           "url": "https://www.safar.fyi/sargodha/transit-lines/srg%3A141"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "60 buses in Sargodha city (105 for the division). Bhera-Sargodha fare reported cut from Rs 200 to Rs 20. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Sargodha to Thahmeenabad', 16 stops); safar lists service 6:00 AM - 9:20 PM (unverified)."
+      "notes": "60 buses in Sargodha city (105 for the division). Bhera-Sargodha fare reported cut from Rs 200 to Rs 20. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Sargodha to Thahmeenabad', 16 stops); safar lists service 6:00 AM - 9:20 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "gbs-sargodha-to-mid-ranjha",
@@ -1070,8 +1091,11 @@
       "status": "operational",
       "launched": "2025-09-19",
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 50,
+      "hours": {
+        "start": "06:00",
+        "end": "21:50"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -1337,9 +1361,13 @@
         {
           "title": "safar.fyi Sargodha route",
           "url": "https://www.safar.fyi/sargodha/transit-lines/srg%3A140"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "60 buses in Sargodha city (105 for the division). Bhera-Sargodha fare reported cut from Rs 200 to Rs 20. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Sargodha to Kalma Chowk Sillanwali', 32 stops); safar lists service 6:00 AM - 9:50 PM (unverified)."
+      "notes": "60 buses in Sargodha city (105 for the division). Bhera-Sargodha fare reported cut from Rs 200 to Rs 20. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Sargodha to Kalma Chowk Sillanwali', 32 stops); safar lists service 6:00 AM - 9:50 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "gbs-sargodha-to-shahpur",
@@ -1353,7 +1381,7 @@
       "headway_min": 60,
       "hours": {
         "start": "06:00",
-        "end": "20:00"
+        "end": "21:00"
       },
       "fare_override": null,
       "women_only": false,
@@ -1652,9 +1680,13 @@
         {
           "title": "eTransit Punjab (PMA) route planner, line 31, route 523 'GBS Sargodha to Shahpur' (get-line-schedules, forward direction, fetched 2026-09-24)",
           "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Official PMA/eTransit stop list, forward direction 'GBS Sargodha to Shahpur' (36 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 0 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. New route; shares its first 14 stops with GBS Sargodha - Lak Morr. Likely one of the extra buses announced on 4 Sep 2026."
+      "notes": "Official PMA/eTransit stop list, forward direction 'GBS Sargodha to Shahpur' (36 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 0 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. New route; shares its first 14 stops with GBS Sargodha - Lak Morr. Likely one of the extra buses announced on 4 Sep 2026. Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "gbs-sargodha-to-lak-morr",
@@ -1668,7 +1700,7 @@
       "headway_min": 65,
       "hours": {
         "start": "06:00",
-        "end": "21:10"
+        "end": "22:15"
       },
       "fare_override": null,
       "women_only": false,
@@ -1871,9 +1903,13 @@
         {
           "title": "eTransit Punjab (PMA) route planner, line 31, route 524 'GBS Sargodha to Lak Morr' (get-line-schedules, forward direction, fetched 2026-09-24)",
           "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Official PMA/eTransit stop list, forward direction 'GBS Sargodha to Lak Morr' (24 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 0 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. New route; shares its first 14 stops with GBS Sargodha - Shahpur."
+      "notes": "Official PMA/eTransit stop list, forward direction 'GBS Sargodha to Lak Morr' (24 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 0 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. New route; shares its first 14 stops with GBS Sargodha - Shahpur. Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     }
   ]
 }

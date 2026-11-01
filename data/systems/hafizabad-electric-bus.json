@@ -56,8 +56,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 65,
+      "hours": {
+        "start": "06:00",
+        "end": "21:10"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -211,9 +214,13 @@
         {
           "title": "safar.fyi Hafizabad route",
           "url": "https://www.safar.fyi/hafizabad/transit-lines/etransit-hafizabad%3A307"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "9 buses; Jinnah Chowk inter-city loop and Ghora Chowk-Jalalpur Bhattian, started ~6 Jul 2026. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Ghora Chowk hafizabad to Dahi Hospital', 18 stops); safar lists service 6:00 AM - 9:10 PM (unverified)."
+      "notes": "9 buses; Jinnah Chowk inter-city loop and Ghora Chowk-Jalalpur Bhattian, started ~6 Jul 2026. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Ghora Chowk hafizabad to Dahi Hospital', 18 stops); safar lists service 6:00 AM - 9:10 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "jinnah-chowk-jinnah-chowk",
@@ -224,8 +231,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 24,
+      "hours": {
+        "start": "06:00",
+        "end": "22:38"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -387,9 +397,13 @@
         {
           "title": "safar.fyi Hafizabad route",
           "url": "https://www.safar.fyi/hafizabad/transit-lines/etransit-hafizabad%3A306"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "9 buses; Jinnah Chowk inter-city loop and Ghora Chowk-Jalalpur Bhattian, started ~6 Jul 2026. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Jinnah Chowk hafizabad to Jinnah Chowk hafizabad', 20 stops); safar lists service 6:00 AM - 9:30 PM (unverified)."
+      "notes": "9 buses; Jinnah Chowk inter-city loop and Ghora Chowk-Jalalpur Bhattian, started ~6 Jul 2026. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Jinnah Chowk hafizabad to Jinnah Chowk hafizabad', 20 stops); safar lists service 6:00 AM - 9:30 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     }
   ]
 }

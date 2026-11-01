@@ -49,8 +49,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 27,
+      "hours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -124,9 +127,13 @@
         {
           "title": "safar.fyi Muzaffargarh route",
           "url": "https://www.safar.fyi/muzaffargarh/transit-lines/mzg%3A146"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "No dated launch report found; routes from safar.fyi only (short routes, 5-16 stops). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Fazal Mill to Indus Mill', 9 stops); safar lists service 6:00 AM - 8:00 PM (unverified)."
+      "notes": "No dated launch report found; routes from safar.fyi only (short routes, 5-16 stops). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Fazal Mill to Indus Mill', 9 stops); safar lists service 6:00 AM - 8:00 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "jhang-mor-to-turkey-hospital",
@@ -137,8 +144,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 28,
+      "hours": {
+        "start": "06:00",
+        "end": "21:52"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -180,9 +190,13 @@
         {
           "title": "safar.fyi Muzaffargarh route",
           "url": "https://www.safar.fyi/muzaffargarh/transit-lines/mzg%3A151"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "No dated launch report found; routes from safar.fyi only (short routes, 5-16 stops). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Jhang Morr to Turkey Hospital', 5 stops); safar lists service 6:00 AM - 8:10 PM (unverified). Removed consecutive duplicate stop(s): Turkey Hospital."
+      "notes": "No dated launch report found; routes from safar.fyi only (short routes, 5-16 stops). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Jhang Morr to Turkey Hospital', 5 stops); safar lists service 6:00 AM - 8:10 PM (unverified). Removed consecutive duplicate stop(s): Turkey Hospital. Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "railway-phattak-to-mehmood-mills",
@@ -193,8 +207,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 40,
+      "hours": {
+        "start": "06:00",
+        "end": "20:00"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -276,9 +293,13 @@
         {
           "title": "safar.fyi Muzaffargarh route",
           "url": "https://www.safar.fyi/muzaffargarh/transit-lines/mzg%3A149"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "No dated launch report found; routes from safar.fyi only (short routes, 5-16 stops). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Railway Phattak to Mehmood Textile Mills -', 9 stops); safar lists service 6:00 AM - 8:00 PM (unverified)."
+      "notes": "No dated launch report found; routes from safar.fyi only (short routes, 5-16 stops). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Railway Phattak to Mehmood Textile Mills -', 9 stops); safar lists service 6:00 AM - 8:00 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "railway-phattak-to-railway-phattak",
@@ -289,8 +310,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 40,
+      "hours": {
+        "start": "06:00",
+        "end": "22:21"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -428,9 +452,13 @@
         {
           "title": "safar.fyi Muzaffargarh route",
           "url": "https://www.safar.fyi/muzaffargarh/transit-lines/mzg%3A154"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "No dated launch report found; routes from safar.fyi only (short routes, 5-16 stops). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'PTC Muzaffargarh Depot to Railway Phattak', 16 stops); safar lists service 6:00 AM - 8:00 PM (unverified)."
+      "notes": "No dated launch report found; routes from safar.fyi only (short routes, 5-16 stops). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'PTC Muzaffargarh Depot to Railway Phattak', 16 stops); safar lists service 6:00 AM - 8:00 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     }
   ]
 }

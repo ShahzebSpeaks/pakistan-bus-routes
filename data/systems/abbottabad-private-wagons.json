@@ -1,0 +1,257 @@
+{
+  "id": "abbottabad-private-wagons",
+  "city": "abbottabad",
+  "name": "Abbottabad local Suzuki / Carry routes",
+  "name_ur": "",
+  "operator": "Private Suzuki/Carry owners (Abbottabad Suzuki union); route permits RTA Hazara",
+  "mode": "bus",
+  "website": null,
+  "helpline": null,
+  "payment": "cash",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": "",
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": {
+    "start": null,
+    "end": null,
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "Traffic Management Plan Abbottabad (Urban Policy Unit, P&D KP), Annexure II terminal surveys",
+      "url": "https://urbanpolicyunit.gkp.pk/wp-content/uploads/2020/03/Traffic-Management-Plan-Abbottabad.o.pdf",
+      "publisher": "Urban Policy Unit, P&D Dept KP",
+      "date": "2014-09-29",
+      "official": true
+    },
+    {
+      "title": "ایبٹ آباد پولیس نے لوکل سوزوکی اور کیری ڈبہ کے لیے سٹکر جاری کر دیا",
+      "url": "https://hazaraexpressnews.org/2409/",
+      "publisher": "Hazara Express News",
+      "date": "2024-08-06",
+      "official": false
+    },
+    {
+      "title": "Commissioner Hazara launches colour-coded public transport system in Abbottabad",
+      "url": "https://www.app.com.pk/kp/commissioner-hazara-launches-color-coded-public-transport-system-in-abbottabad/",
+      "publisher": "APP",
+      "date": "2026-07-07",
+      "official": false
+    }
+  ],
+  "routes": [
+    {
+      "id": "ATD-SF-NATHIAGALI",
+      "name": "Spring Field Adda (Abbottabad) - Nathia Gali",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": {
+        "start": "05:00",
+        "end": "19:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Spring Field Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Nathia Gali",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "UPU Traffic Management Plan Abbottabad, Annexure II, bus terminal survey form E-004 'Spring Field Adda' (PDF p.202, survey 29-09-2014)",
+          "url": "https://urbanpolicyunit.gkp.pk/wp-content/uploads/2020/03/Traffic-Management-Plan-Abbottabad.o.pdf"
+        }
+      ],
+      "notes": "Suzuki Carry 'dabba' service by Spring Field Travel Services, 05:00-19:00, about 120 trips per 24 h (2014 survey). Terminal names only. The 2024 local-Suzuki sticker scheme also lists 'Galiyat' among Abbottabad local routes (Hazara Express News, 6 Aug 2024)."
+    },
+    {
+      "id": "ATD-SF-KALABAGH",
+      "name": "Spring Field Adda (Abbottabad) - Kala Bagh (Galiyat)",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": {
+        "start": "07:00",
+        "end": "18:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Spring Field Adda",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Kala Bagh",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "UPU Traffic Management Plan Abbottabad, Annexure II, survey form E-004 'Spring Field Adda' (PDF p.202, survey 29-09-2014)",
+          "url": "https://urbanpolicyunit.gkp.pk/wp-content/uploads/2020/03/Traffic-Management-Plan-Abbottabad.o.pdf"
+        }
+      ],
+      "notes": "Suzuki Carry 'dabba', 07:00-18:00, about 2 trips per hour (2014). Kala Bagh = the Galiyat village on the Abbottabad-Nathia Gali road (assumed; form says 'KalaBagh')."
+    },
+    {
+      "id": "ATD-LOCAL-SHERWAN",
+      "name": "Abbottabad - Sherwan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Abbottabad (local Suzuki adda, not named)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Sherwan",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Abbottabad police issue sticker for local Suzuki and Carry dabba (Hazara Express News, 2024-08-06)",
+          "url": "https://hazaraexpressnews.org/2409/"
+        }
+      ],
+      "notes": "Named as one of Abbottabad's local Suzuki/Carry routes run from addas ('شیروان'), in the Aug 2024 traffic-police/Suzuki-union sticker scheme. The Abbottabad terminal is not named; no intermediate stops. The July 2026 RTA colour-coded sticker scheme (APP 7 Jul 2026) publishes no route list or colours."
+    },
+    {
+      "id": "ATD-LOCAL-HAVELIAN",
+      "name": "Abbottabad - Havelian",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Abbottabad (local Suzuki adda, not named)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Havelian",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Abbottabad police issue sticker for local Suzuki and Carry dabba (Hazara Express News, 2024-08-06)",
+          "url": "https://hazaraexpressnews.org/2409/"
+        }
+      ],
+      "notes": "Named as one of Abbottabad's local Suzuki/Carry routes run from addas ('حویلیاں'), in the Aug 2024 traffic-police/Suzuki-union sticker scheme. The Abbottabad terminal is not named; no intermediate stops. The July 2026 RTA colour-coded sticker scheme (APP 7 Jul 2026) publishes no route list or colours."
+    },
+    {
+      "id": "ATD-LOCAL-QALANDARABAD",
+      "name": "Abbottabad - Qalandarabad",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "unverified",
+      "launched": null,
+      "length_km": null,
+      "headway_min": null,
+      "hours": null,
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Abbottabad (local Suzuki adda, not named)",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        },
+        {
+          "name": "Qalandarabad",
+          "name_ur": "",
+          "lat": null,
+          "lon": null,
+          "coord_source": null,
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "low",
+      "sources": [
+        {
+          "title": "Abbottabad police issue sticker for local Suzuki and Carry dabba (Hazara Express News, 2024-08-06)",
+          "url": "https://hazaraexpressnews.org/2409/"
+        }
+      ],
+      "notes": "Named as one of Abbottabad's local Suzuki/Carry routes run from addas ('قلندرآباد'), in the Aug 2024 traffic-police/Suzuki-union sticker scheme. The Abbottabad terminal is not named; no intermediate stops. The July 2026 RTA colour-coded sticker scheme (APP 7 Jul 2026) publishes no route list or colours."
+    }
+  ],
+  "last_verified": "2026-11-01"
+}

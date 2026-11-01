@@ -91,10 +91,10 @@
       "status": "operational",
       "launched": "2015-06-04",
       "length_km": 22.5,
-      "headway_min": null,
+      "headway_min": 3,
       "hours": {
-        "start": "06:30",
-        "end": "22:00"
+        "start": "06:15",
+        "end": "22:03"
       },
       "fare_override": {
         "type": "flat",
@@ -317,9 +317,13 @@
         {
           "title": "Punjab Masstransit Authority - Rawalpindi",
           "url": "https://pma.punjab.gov.pk/rawalpindi"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Operated by Punjab Masstransit Authority. 24 stations (Wikipedia, Safar and OSM agree). Fare raised Rs 30 -> Rs 40 from 26 Mar 2026 (24NewsHD/PakWheels, Mar 2026); Safar still shows Rs 30. Faiz Ahmad Faiz is the interchange with Orange Line. PMA ran limited-stop express trips (Saddar-Faizabad, Faiz Ahmad Faiz-Rehmanabad) from Feb 2023. OSM route colour=red. Wikipedia: headway 3-6 min daytime."
+      "notes": "Operated by Punjab Masstransit Authority. 24 stations (Wikipedia, Safar and OSM agree). Fare raised Rs 30 -> Rs 40 from 26 Mar 2026 (24NewsHD/PakWheels, Mar 2026); Safar still shows Rs 30. Faiz Ahmad Faiz is the interchange with Orange Line. PMA ran limited-stop express trips (Saddar-Faizabad, Faiz Ahmad Faiz-Rehmanabad) from Feb 2023. OSM route colour=red. Wikipedia: headway 3-6 min daytime. Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "ORANGE",

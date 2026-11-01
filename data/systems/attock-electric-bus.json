@@ -56,8 +56,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 65,
+      "hours": {
+        "start": "06:00",
+        "end": "21:10"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -219,9 +222,13 @@
         {
           "title": "safar.fyi Attock route",
           "url": "https://www.safar.fyi/attock/transit-lines/etransit-attock%3A285"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "9 buses; POF Sanjwal-Hazro and Hakimabad-Attock Khurd reported started ~6 Jul 2026 (The News). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Hakeem Abad to Attock Khurd', 29 stops); safar lists service 6:00 AM - 8:05 PM (unverified)."
+      "notes": "9 buses; POF Sanjwal-Hazro and Hakimabad-Attock Khurd reported started ~6 Jul 2026 (The News). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Hakeem Abad to Attock Khurd', 29 stops); safar lists service 6:00 AM - 8:05 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "pof-sanjwal-to-hazro",
@@ -232,8 +239,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 70,
+      "hours": {
+        "start": "06:00",
+        "end": "20:00"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -531,9 +541,13 @@
         {
           "title": "safar.fyi Attock route",
           "url": "https://www.safar.fyi/attock/transit-lines/etransit-attock%3A284"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "9 buses; POF Sanjwal-Hazro and Hakimabad-Attock Khurd reported started ~6 Jul 2026 (The News). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'POF Sanjwal to GBS Hazro', 36 stops); safar lists service 6:00 AM - 9:00 PM (unverified)."
+      "notes": "9 buses; POF Sanjwal-Hazro and Hakimabad-Attock Khurd reported started ~6 Jul 2026 (The News). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'POF Sanjwal to GBS Hazro', 36 stops); safar lists service 6:00 AM - 9:00 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     }
   ]
 }

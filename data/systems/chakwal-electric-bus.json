@@ -56,8 +56,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 33,
+      "hours": {
+        "start": "06:00",
+        "end": "21:57"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -267,9 +270,13 @@
         {
           "title": "safar.fyi Chakwal route",
           "url": "https://www.safar.fyi/chakwal/transit-lines/ckw%3A184"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Part of ten-city phase (Nov 2025). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'District Complex to Dhudial', 25 stops); safar lists service 6:00 AM - 9:20 PM (unverified)."
+      "notes": "Part of ten-city phase (Nov 2025). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'District Complex to Dhudial', 25 stops); safar lists service 6:00 AM - 9:20 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "tehsil-chowk-to-balkasar",
@@ -280,8 +287,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 41,
+      "hours": {
+        "start": "06:00",
+        "end": "21:43"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -443,9 +453,13 @@
         {
           "title": "safar.fyi Chakwal route",
           "url": "https://www.safar.fyi/chakwal/transit-lines/ckw%3A183"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Part of ten-city phase (Nov 2025). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Tehsil Chowk to Balkasar', 21 stops); safar lists service 6:00 AM - 9:00 PM (unverified). Removed consecutive duplicate stop(s): Balkasar Interchange."
+      "notes": "Part of ten-city phase (Nov 2025). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Tehsil Chowk to Balkasar', 21 stops); safar lists service 6:00 AM - 9:00 PM (unverified). Removed consecutive duplicate stop(s): Balkasar Interchange. Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "tehsil-chowk-to-mohal-mughlan",
@@ -456,8 +470,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 75,
+      "hours": {
+        "start": "06:00",
+        "end": "21:00"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -611,9 +628,13 @@
         {
           "title": "safar.fyi Chakwal route",
           "url": "https://www.safar.fyi/chakwal/transit-lines/ckw%3A185"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Part of ten-city phase (Nov 2025). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Tehsil Chowk to Mulhal Mughlan', 18 stops); safar lists service 6:00 AM - 7:40 PM (unverified)."
+      "notes": "Part of ten-city phase (Nov 2025). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Tehsil Chowk to Mulhal Mughlan', 18 stops); safar lists service 6:00 AM - 7:40 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     }
   ]
 }

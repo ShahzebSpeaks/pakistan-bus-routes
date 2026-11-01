@@ -1,6 +1,6 @@
 # Sources
 
-Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fares, timings) were compiled from these public sources. Maps, images and text from them are not redistributed.
+Generated 2026-11-01 from `data/systems`. Facts (route numbers, stop names, fares, timings) were compiled from these public sources. Maps, images and text from them are not redistributed.
 
 ## Abbottabad Pink Bus (women only) (abbottabad)
 
@@ -8,12 +8,19 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [KP launches Pink Bus Service to provide safe, hassle-free transport to women](https://images.dawn.com/news/1182591) · Dawn Images · 2019-05-01
 - [It's curtains for women bus service](https://www.pakistangendernews.org/its-curtains-for-women-bus-service/) · Pakistan Gender News · 2021-02-10
 
+## Abbottabad local Suzuki / Carry routes (abbottabad)
+
+- [Traffic Management Plan Abbottabad (Urban Policy Unit, P&D KP), Annexure II terminal surveys](https://urbanpolicyunit.gkp.pk/wp-content/uploads/2020/03/Traffic-Management-Plan-Abbottabad.o.pdf) · Urban Policy Unit, P&D Dept KP · 2014-09-29 · official
+- [ایبٹ آباد پولیس نے لوکل سوزوکی اور کیری ڈبہ کے لیے سٹکر جاری کر دیا](https://hazaraexpressnews.org/2409/) · Hazara Express News · 2024-08-06
+- [Commissioner Hazara launches colour-coded public transport system in Abbottabad](https://www.app.com.pk/kp/commissioner-hazara-launches-color-coded-public-transport-system-in-abbottabad/) · APP · 2026-07-07
+
 ## Green Electric Bus Attock (attock)
 
 - [Electric bus service starts on 13 new routes](https://www.thenews.pk/print/1424248-electric-bus-service-starts-on-13-new-routes) · The News · 2026-07-06
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Attock Green Electric Bus routes](https://www.safar.fyi/attock/transit-lines) · safar.fyi
 - [safar.fyi Attock route](https://www.safar.fyi/attock/transit-lines/etransit-attock%3A285)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Attock route](https://www.safar.fyi/attock/transit-lines/etransit-attock%3A284)
 
 ## Green Electric Bus Bahawalnagar (bahawalnagar)
@@ -22,6 +29,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Bahawalnagar Green Electric Bus routes](https://www.safar.fyi/bahawalnagar/transit-lines) · safar.fyi
 - [safar.fyi Bahawalnagar route](https://www.safar.fyi/bahawalnagar/transit-lines/bwn%3A192)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Bahawalnagar route](https://www.safar.fyi/bahawalnagar/transit-lines/bwn%3A193)
 - [safar.fyi Bahawalnagar route](https://www.safar.fyi/bahawalnagar/transit-lines/bwn%3A194)
 
@@ -47,6 +55,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Bhakkar Green Electric Bus routes](https://www.safar.fyi/bhakkar/transit-lines) · safar.fyi
 - [safar.fyi Bhakkar route](https://www.safar.fyi/bhakkar/transit-lines/etransit-bhakkar%3A291)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Bhakkar route](https://www.safar.fyi/bhakkar/transit-lines/etransit-bhakkar%3A288)
 
 ## Green Electric Bus Chakwal (chakwal)
@@ -55,6 +64,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Chakwal Green Electric Bus routes](https://www.safar.fyi/chakwal/transit-lines) · safar.fyi
 - [safar.fyi Chakwal route](https://www.safar.fyi/chakwal/transit-lines/ckw%3A184)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Chakwal route](https://www.safar.fyi/chakwal/transit-lines/ckw%3A183)
 - [safar.fyi Chakwal route](https://www.safar.fyi/chakwal/transit-lines/ckw%3A185)
 
@@ -65,6 +75,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Chiniot Green Electric Bus routes](https://www.safar.fyi/chiniot/transit-lines) · safar.fyi
 - [safar.fyi Chiniot route](https://www.safar.fyi/chiniot/transit-lines/etransit-chiniot%3A308)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Chiniot route](https://www.safar.fyi/chiniot/transit-lines/etransit-chiniot%3A320)
 
 ## Green Electric Bus Dera Ghazi Khan (dera-ghazi-khan)
@@ -74,6 +85,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Dera Ghazi Khan Green Electric Bus routes](https://www.safar.fyi/dera-ghazi-khan/transit-lines) · safar.fyi
 - [safar.fyi Dera Ghazi Khan route](https://www.safar.fyi/dera-ghazi-khan/transit-lines/dgk%3A156)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Dera Ghazi Khan route](https://www.safar.fyi/dera-ghazi-khan/transit-lines/dgk%3A162)
 - [safar.fyi Dera Ghazi Khan route](https://www.safar.fyi/dera-ghazi-khan/transit-lines/dgk%3A160)
 - [safar.fyi Dera Ghazi Khan route](https://www.safar.fyi/dera-ghazi-khan/transit-lines/dgk%3A158)
@@ -87,6 +99,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Faisalabad Green Electric Bus routes](https://www.safar.fyi/faisalabad/transit-lines) · safar.fyi
 - [safar.fyi Faisalabad route](https://www.safar.fyi/faisalabad/transit-lines/fsd%3A130)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Faisalabad route](https://www.safar.fyi/faisalabad/transit-lines/fsd%3A131)
 
 ## Planned integrated public transport network (PMA IPTN) (faisalabad)
@@ -110,6 +123,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Gujar Khan Green Electric Bus routes](https://www.safar.fyi/gujar-khan/transit-lines) · safar.fyi
 - [safar.fyi Gujar Khan route](https://www.safar.fyi/gujar-khan/transit-lines/gjk%3A264)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Gujar Khan route](https://www.safar.fyi/gujar-khan/transit-lines/gjk%3A268)
 
 ## Gujranwala private wagons, minibuses and paratransit (gujranwala)
@@ -125,6 +139,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab set to take green electric buses number to 1,500](https://www.dawn.com/news/2013201/punjab-set-to-take-green-electric-buses-number-to-1500) · Dawn · 2026-07-06
 - [All Gujrat Green Electric Bus routes](https://www.safar.fyi/gujrat/transit-lines) · safar.fyi
 - [safar.fyi Gujrat route](https://www.safar.fyi/gujrat/transit-lines/etransit-gujrat%3A348)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Gujrat route](https://www.safar.fyi/gujrat/transit-lines/etransit-gujrat%3A347)
 
 ## Gujrat private wagons, minibuses and paratransit (gujrat)
@@ -137,6 +152,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Hafizabad Green Electric Bus routes](https://www.safar.fyi/hafizabad/transit-lines) · safar.fyi
 - [safar.fyi Hafizabad route](https://www.safar.fyi/hafizabad/transit-lines/etransit-hafizabad%3A307)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Hafizabad route](https://www.safar.fyi/hafizabad/transit-lines/etransit-hafizabad%3A306)
 
 ## Peoples Bus Service Hyderabad (hyderabad)
@@ -513,6 +529,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/1%3Ared)
 - [OpenStreetMap relation 13911249](https://www.openstreetmap.org/relation/13911249)
 - [Punjab Masstransit Authority - Rawalpindi](https://pma.punjab.gov.pk/rawalpindi)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/1%3Aorange)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/1%3AorangeAirportExpress)
 - [OpenStreetMap relation 13911250](https://www.openstreetmap.org/relation/13911250)
@@ -520,7 +537,6 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/1%3Ablue)
 - [CDA timetable FRG-1 (official)](https://www.cda.gov.pk/Assets/metro_transit_route/FRG-1_Forward.pdf)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/1%3Agreen)
-- [eTransit Punjab route planner, get-line-schedules (line 30, route 537), fetched 2026-09-25](https://etransit.punjab.gov.pk/public/route-planner) · 2026-09-25
 
 ## Islamabad Electric Feeder Buses (CDA) (islamabad-rawalpindi)
 
@@ -555,12 +571,14 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/1%3Afr_8a)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/1%3Afr_8b)
 - [CDA Announces Two New Routes for Islamabad Electric Buses](https://propakistani.pk/2025/09/23/cda-announces-two-new-routes-for-islamabads-electric-buses/)
+- [Three Islamabad electric bus routes now every 12 minutes (TechJuice, Sep 2026)](https://www.techjuice.pk/?p=251552)
 - [CDA timetable FR-08C (official)](https://www.cda.gov.pk/Assets/metro_transit_route/FR-08C_Forward.pdf)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/1%3Afr_8c)
 - [CDA timetable FR-09 (official)](https://www.cda.gov.pk/Assets/metro_transit_route/FR-09_Forward.pdf)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/1%3Afr_9)
 - [CDA timetable FR-10 (official)](https://www.cda.gov.pk/Assets/metro_transit_route/FR-10_Forward.pdf)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/1%3Afr_10)
+- [Islamabad changes two feeder bus routes (ProPakistani, 20 Oct 2026)](https://propakistani.pk/2026/10/20/islamabad-changes-two-feeder-bus-routes/)
 - [CDA timetable FR-11 (official)](https://www.cda.gov.pk/Assets/metro_transit_route/FR-11_Forward.pdf)
 - [Safar route page](https://www.safar.fyi/islamabad/transit-lines/1%3Afr_11)
 - [CDA timetable FR-12 (official)](https://www.cda.gov.pk/Assets/metro_transit_route/FR-12_Forward.pdf)
@@ -606,6 +624,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Jhang Green Electric Bus routes](https://www.safar.fyi/jhang/transit-lines) · safar.fyi
 - [safar.fyi Jhang route](https://www.safar.fyi/jhang/transit-lines/jhg%3A198)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Jhang route](https://www.safar.fyi/jhang/transit-lines/jhg%3A197)
 - [safar.fyi Jhang route](https://www.safar.fyi/jhang/transit-lines/jhg%3A199)
 
@@ -619,6 +638,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Jhelum Green Electric Bus routes](https://www.safar.fyi/jhelum/transit-lines) · safar.fyi
 - [safar.fyi Jhelum route](https://www.safar.fyi/jhelum/transit-lines/jlm%3A205)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Jhelum route](https://www.safar.fyi/jhelum/transit-lines/jlm%3A206)
 - [safar.fyi Jhelum route](https://www.safar.fyi/jhelum/transit-lines/jlm%3A204)
 
@@ -919,6 +939,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Kasur Green Electric Bus routes](https://www.safar.fyi/kasur/transit-lines) · safar.fyi
 - [safar.fyi Kasur route](https://www.safar.fyi/kasur/transit-lines/etransit-kasur%3Aetransit-69-430)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Kasur route](https://www.safar.fyi/kasur/transit-lines/etransit-kasur%3Aetransit-69-429)
 
 ## Peoples Bus Service Khairpur (khairpur)
@@ -934,6 +955,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Khanewal Green Electric Bus routes](https://www.safar.fyi/khanewal/transit-lines) · safar.fyi
 - [safar.fyi Khanewal route](https://www.safar.fyi/khanewal/transit-lines/etransit-khanewal%3A305)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Khanewal route](https://www.safar.fyi/khanewal/transit-lines/etransit-khanewal%3A304)
 
 ## Green Electric Bus Khushab (khushab)
@@ -942,6 +964,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Khushab Green Electric Bus routes](https://www.safar.fyi/khushab/transit-lines) · safar.fyi
 - [safar.fyi Khushab route](https://www.safar.fyi/khushab/transit-lines/etransit-khushab%3A294)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Khushab route](https://www.safar.fyi/khushab/transit-lines/etransit-khushab%3A303)
 - [safar.fyi Khushab route](https://www.safar.fyi/khushab/transit-lines/etransit-khushab%3A298)
 
@@ -954,6 +977,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Here's the route for Lahore's new electric bus service Electro](https://propakistani.pk/2025/02/20/heres-the-route-for-lahores-new-electric-bus-service-electro/) · ProPakistani · 2025-02-20
 - [Lahore transit lines](https://www.safar.fyi/lahore/transit-lines) · Safar · 2026-09
 - [Safar - EV03](https://www.safar.fyi/lahore/transit-lines/lhr%3Alahore-ptc-33)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [Safar - Electric RT20](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-59)
 - [Safar - Electric RT26](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-58)
 
@@ -964,6 +988,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Lahore transit lines](https://www.safar.fyi/lahore/transit-lines) · Safar · 2026-09
 - [Metro Bus, Orange Line Train fares increased](https://pakobserver.net/metro-bus-orange-line-train-fares-increased-check-new-rates-here/) · Pakistan Observer · 2024-02-13
 - [Safar - Speedo RT-03](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-239)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [Safar - Speedo RT-04](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-240)
 - [Safar - Speedo RT-05](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-241)
 - [Safar - Speedo RT-07](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-242)
@@ -1025,6 +1050,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Govt mulls raise in fares of mass transit system in Lahore](https://www.dawn.com/news/1954150) · Dawn · 2025-11-10
 - [Punjab Ends Free Transport Facility for Public](https://propakistani.pk/2026/06/12/punjab-ends-free-transport-facility-for-public/) · ProPakistani · 2026-06-12
 - [Safar - Metro Bus](https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-2)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 
 ## Lahore notified bus routes (LUTMP survey, 2010) (lahore)
 
@@ -1078,6 +1104,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Layyah Green Electric Bus routes](https://www.safar.fyi/layyah/transit-lines) · safar.fyi
 - [safar.fyi Layyah route](https://www.safar.fyi/layyah/transit-lines/etransit-layyah%3A316)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Layyah route](https://www.safar.fyi/layyah/transit-lines/etransit-layyah%3A317)
 
 ## Green Electric Bus Lodhran (lodhran)
@@ -1085,6 +1112,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Lodhran Green Electric Bus routes](https://www.safar.fyi/lodhran/transit-lines) · safar.fyi
 - [safar.fyi Lodhran route](https://www.safar.fyi/lodhran/transit-lines/etransit-lodhran%3A351)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Lodhran route](https://www.safar.fyi/lodhran/transit-lines/etransit-lodhran%3A350)
 
 ## Green Electric Bus Mandi Bahauddin (mandi-bahauddin)
@@ -1093,6 +1121,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Mandi Bahauddin Green Electric Bus routes](https://www.safar.fyi/mandi-bahauddin/transit-lines) · safar.fyi
 - [safar.fyi Mandi Bahauddin route](https://www.safar.fyi/mandi-bahauddin/transit-lines/etransit-mandi-bahauddin%3A286)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Mandi Bahauddin route](https://www.safar.fyi/mandi-bahauddin/transit-lines/etransit-mandi-bahauddin%3A287)
 
 ## Mardan Pink Bus (women only) (mardan)
@@ -1106,6 +1135,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Mianwali Green Electric Bus routes](https://www.safar.fyi/mianwali/transit-lines) · safar.fyi
 - [safar.fyi Mianwali route](https://www.safar.fyi/mianwali/transit-lines/mnw%3A65)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Mianwali route](https://www.safar.fyi/mianwali/transit-lines/mnw%3A63)
 - [safar.fyi Mianwali route](https://www.safar.fyi/mianwali/transit-lines/mnw%3A60)
 
@@ -1131,6 +1161,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Integrated Public Transport Network Multan - Summary of Routes (planning document)](https://pma.punjab.gov.pk/system/files/Multan%20-%20Public%20Transport%20Routes.pdf) · Punjab Masstransit Authority · official
 - [All Multan Metrobus & Feeder Routes](https://www.safar.fyi/multan/transit-lines) · safar.fyi
 - [safar.fyi Multan transit lines](https://www.safar.fyi/multan/transit-lines/mlt%3A38)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Multan transit lines](https://www.safar.fyi/multan/transit-lines/mlt%3A39)
 - [safar.fyi Multan transit lines](https://www.safar.fyi/multan/transit-lines/mlt%3A40)
 - [safar.fyi Multan transit lines](https://www.safar.fyi/multan/transit-lines/mlt%3A41)
@@ -1172,6 +1203,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab Increases Metro Bus Fare](https://propakistani.pk/2026/03/14/punjab-increases-metro-bus-fare/) · ProPakistani · 2026-03-14
 - [Metro Bus Multan route (station order)](https://www.safar.fyi/multan/transit-lines/mlt%3A37) · safar.fyi
 - [OpenStreetMap Metrobus station nodes (Overpass)](https://www.openstreetmap.org/relation/10995086) · OpenStreetMap · 2026-07-24
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 
 ## Multan urban high-occupancy bus routes (Master Plan, c.2008-2012) (multan)
 
@@ -1189,6 +1221,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Murree Green Electric Bus routes](https://www.safar.fyi/murree/transit-lines) · safar.fyi
 - [safar.fyi Murree route](https://www.safar.fyi/murree/transit-lines/etransit-murree%3A313)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Murree route](https://www.safar.fyi/murree/transit-lines/etransit-murree%3A315)
 - [safar.fyi Murree route](https://www.safar.fyi/murree/transit-lines/etransit-murree%3A314)
 
@@ -1203,6 +1236,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Muzaffargarh Green Electric Bus routes](https://www.safar.fyi/muzaffargarh/transit-lines) · safar.fyi
 - [safar.fyi Muzaffargarh route](https://www.safar.fyi/muzaffargarh/transit-lines/mzg%3A146)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Muzaffargarh route](https://www.safar.fyi/muzaffargarh/transit-lines/mzg%3A151)
 - [safar.fyi Muzaffargarh route](https://www.safar.fyi/muzaffargarh/transit-lines/mzg%3A149)
 - [safar.fyi Muzaffargarh route](https://www.safar.fyi/muzaffargarh/transit-lines/mzg%3A154)
@@ -1212,6 +1246,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Nankana Sahib Green Electric Bus routes](https://www.safar.fyi/nankana-sahib/transit-lines) · safar.fyi
 - [safar.fyi Nankana Sahib route](https://www.safar.fyi/nankana-sahib/transit-lines/etransit-nankana-sahib%3Aetransit-67-423)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Nankana Sahib route](https://www.safar.fyi/nankana-sahib/transit-lines/etransit-nankana-sahib%3Aetransit-67-424)
 
 ## Green Electric Bus Narowal (narowal)
@@ -1219,6 +1254,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Narowal Green Electric Bus routes](https://www.safar.fyi/narowal/transit-lines) · safar.fyi
 - [safar.fyi Narowal route](https://www.safar.fyi/narowal/transit-lines/etransit-narowal%3A369)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Narowal route](https://www.safar.fyi/narowal/transit-lines/etransit-narowal%3A371)
 - [safar.fyi Narowal route](https://www.safar.fyi/narowal/transit-lines/etransit-narowal%3A370)
 - [safar.fyi Narowal route](https://www.safar.fyi/narowal/transit-lines/etransit-narowal%3A373)
@@ -1237,9 +1273,9 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Okara Green Electric Bus routes](https://www.safar.fyi/okara/transit-lines) · safar.fyi
 - [safar.fyi Okara route](https://www.safar.fyi/okara/transit-lines/etransit-okara%3A318)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Okara route](https://www.safar.fyi/okara/transit-lines/etransit-okara%3A323)
 - [safar.fyi Okara route](https://www.safar.fyi/okara/transit-lines/etransit-okara%3A319)
-- [eTransit Punjab (PMA) route planner, line 59, route 529 'GBS Okara to Fatehpur' (get-line-schedules, forward direction, fetched 2026-09-24)](https://etransit.punjab.gov.pk/public/route-planner)
 
 ## Pakistan Railways (intercity)
 
@@ -1345,8 +1381,14 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Pakpattan Green Electric Bus routes](https://www.safar.fyi/pakpattan/transit-lines) · safar.fyi
 - [safar.fyi Pakpattan route](https://www.safar.fyi/pakpattan/transit-lines/pkp%3A90)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Pakpattan route](https://www.safar.fyi/pakpattan/transit-lines/pkp%3A89)
 - [safar.fyi Pakpattan route](https://www.safar.fyi/pakpattan/transit-lines/pkp%3A88)
+
+## Peshawar CNG 14-seat vehicle routes (notified 2011) (peshawar)
+
+- [Transport Department KP notified new routes in Peshawar District for CNG-14-Seated Vehicles](https://web.archive.org/web/20120104134315/http://khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346) · Govt of Khyber Pakhtunkhwa web portal (Web Portal Management Cell), archived by Wayback Machine 2012-01-04 · 2011-10-20 · official
+- [KP approves routes for CNG vehicles](https://www.geo.tv/latest/32577-kp-approves-routes-for-cng-vehicles) · Geo News / APP · 2011-10-23
 
 ## Peshawar private wagons and minibuses (peshawar)
 
@@ -1354,6 +1396,9 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Peshawar fare increase (Peshawar se mukhtalif shehron ke kirayon mein izafa)](https://jang.com.pk/news/1564243) · Daily Jang · 2026-03-12
 - [New fares announced for passenger vehicles in Peshawar](https://mmnews.tv/new-fares-announced-for-passenger-vehicles-in-peshawar/) · MM News · 2026-08-13
 - [Kohat Bus Stand Peshawar (listing)](https://pakistanplaces.com/listing/kohat-bus-stand-peshawar)
+- [RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 1 (section 'Kohat Road Peshawar')](https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg)
+- [KP Transport & Mass Transit Dept notifications page (hosts the scans)](https://transport.kp.gov.pk/notification.html)
+- [RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 24 (section 'Warsak Road Peshawar')](https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg)
 
 ## Zu Peshawar (TransPeshawar BRT) (peshawar)
 
@@ -1397,6 +1442,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Rahim Yar Khan Green Electric Bus routes](https://www.safar.fyi/rahim-yar-khan/transit-lines) · safar.fyi
 - [safar.fyi Rahim Yar Khan route](https://www.safar.fyi/rahim-yar-khan/transit-lines/ryk%3A216)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Rahim Yar Khan route](https://www.safar.fyi/rahim-yar-khan/transit-lines/ryk%3A214)
 - [safar.fyi Rahim Yar Khan route](https://www.safar.fyi/rahim-yar-khan/transit-lines/ryk%3A215)
 - [safar.fyi Rahim Yar Khan route](https://www.safar.fyi/rahim-yar-khan/transit-lines/ryk%3A213)
@@ -1408,6 +1454,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [All Rajanpur Green Electric Bus routes](https://www.safar.fyi/rajanpur/transit-lines) · safar.fyi
 - [safar.fyi Rajanpur route](https://www.safar.fyi/rajanpur/transit-lines/rjp%3A273)
 - [safar.fyi Rajanpur route](https://www.safar.fyi/rajanpur/transit-lines/rjp%3A222)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Rajanpur route](https://www.safar.fyi/rajanpur/transit-lines/rjp%3A221)
 - [safar.fyi Rajanpur route](https://www.safar.fyi/rajanpur/transit-lines/rjp%3A223)
 
@@ -1440,10 +1487,10 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Sahiwal Green Electric Bus routes](https://www.safar.fyi/sahiwal/transit-lines) · safar.fyi
 - [safar.fyi Sahiwal route](https://www.safar.fyi/sahiwal/transit-lines/shw%3A86)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Sahiwal route](https://www.safar.fyi/sahiwal/transit-lines/shw%3A82)
 - [safar.fyi Sahiwal route](https://www.safar.fyi/sahiwal/transit-lines/shw%3A87)
 - [safar.fyi Sahiwal route](https://www.safar.fyi/sahiwal/transit-lines/shw%3A85)
-- [eTransit Punjab (PMA) route planner, line 27, route 518 'Electro Bus Depot to Harappa Museum' (get-line-schedules, forward direction, fetched 2026-09-24)](https://etransit.punjab.gov.pk/public/route-planner)
 
 ## Sahiwal private wagons, minibuses and paratransit (sahiwal)
 
@@ -1457,11 +1504,11 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Sargodha Green Electric Bus routes](https://www.safar.fyi/sargodha/transit-lines) · safar.fyi
 - [safar.fyi Sargodha route](https://www.safar.fyi/sargodha/transit-lines/srg%3A142)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Sargodha route](https://www.safar.fyi/sargodha/transit-lines/srg%3A138)
 - [safar.fyi Sargodha route](https://www.safar.fyi/sargodha/transit-lines/srg%3A141)
 - [safar.fyi Sargodha route](https://www.safar.fyi/sargodha/transit-lines/srg%3A163)
 - [safar.fyi Sargodha route](https://www.safar.fyi/sargodha/transit-lines/srg%3A140)
-- [eTransit Punjab (PMA) route planner, line 31, route 523 'GBS Sargodha to Shahpur' (get-line-schedules, forward direction, fetched 2026-09-24)](https://etransit.punjab.gov.pk/public/route-planner)
 
 ## Sargodha private wagons, minibuses and paratransit (sargodha)
 
@@ -1472,6 +1519,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Sheikhupura Green Electric Bus routes](https://www.safar.fyi/sheikhupura/transit-lines) · safar.fyi
 - [safar.fyi Sheikhupura route](https://www.safar.fyi/sheikhupura/transit-lines/etransit-sheikhupura%3Aetransit-70-435)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Sheikhupura route](https://www.safar.fyi/sheikhupura/transit-lines/etransit-sheikhupura%3Aetransit-70-436)
 
 ## Peoples Bus Service Sukkur-Shikarpur (shikarpur)
@@ -1488,6 +1536,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Sialkot Green Electric Bus routes](https://www.safar.fyi/sialkot/transit-lines) · safar.fyi
 - [safar.fyi Sialkot route](https://www.safar.fyi/sialkot/transit-lines/etransit-sialkot%3A322)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Sialkot route](https://www.safar.fyi/sialkot/transit-lines/etransit-sialkot%3A321)
 
 ## Peoples Bus Service Sukkur (sukkur)
@@ -1503,6 +1552,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Toba Tek Singh Green Electric Bus routes](https://www.safar.fyi/toba-tek-singh/transit-lines) · safar.fyi
 - [safar.fyi Toba Tek Singh route](https://www.safar.fyi/toba-tek-singh/transit-lines/tts%3A281)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Toba Tek Singh route](https://www.safar.fyi/toba-tek-singh/transit-lines/tts%3A174)
 - [safar.fyi Toba Tek Singh route](https://www.safar.fyi/toba-tek-singh/transit-lines/tts%3A173)
 
@@ -1516,6 +1566,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Vehari Green Electric Bus routes](https://www.safar.fyi/vehari/transit-lines) · safar.fyi
 - [safar.fyi Vehari route](https://www.safar.fyi/vehari/transit-lines/etransit-vehari%3A352)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Vehari route](https://www.safar.fyi/vehari/transit-lines/etransit-vehari%3A353)
 
 ## Green Electric Bus Wazirabad (wazirabad)
@@ -1524,6 +1575,7 @@ Generated 2026-09-25 from `data/systems`. Facts (route numbers, stop names, fare
 - [Punjab launches 77 electric buses on 17 routes across seven more districts](https://www.brecorder.com/news/40432609/punjab-launches-77-electric-buses-on-17-routes-across-seven-more-districts) · Business Recorder · 2026-07-31
 - [All Wazirabad Green Electric Bus routes](https://www.safar.fyi/wazirabad/transit-lines) · safar.fyi
 - [safar.fyi Wazirabad route](https://www.safar.fyi/wazirabad/transit-lines/wzd%3A73)
+- [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Wazirabad route](https://www.safar.fyi/wazirabad/transit-lines/wzd%3A74)
 
 ## Geodata

@@ -1,0 +1,3679 @@
+{
+  "assignment": "kp-round4",
+  "researched_on": "2026-11-01",
+  "report": "KP ROUND 4 - findings report (researched 2026-10-23 to 2026-11-01)\n\nRESULT: 3 systems, 61 routes. (a) peshawar-cng-routes-2011: 4 historical routes with full ordered via-lists (official KP govt notice, 20 Oct 2011). (b) 52 routes to APPEND to existing peshawar-private-wagons: official RTA Peshawar fare table of 01-04-2024 (terminal + destination + km + fare; no intermediate stops). (c) abbottabad-private-wagons (new): 5 low-confidence 2-stop Suzuki routes. Nothing usable for Mardan, Swat/Mingora, Kohat or DI Khan. All coordinates null (pipeline to geocode).\n\nDOCUMENTS CHECKED (URL - what it held):\n1. KP govt portal news NewsId=2346 (http://www.khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346, read via Wayback 20120104134315 as stripped text) - Secretary Transport notification of 4 CNG 14-seat routes in Peshawar with full via-lists. USED. Found through the reference in en.wikipedia 'Ghari Qamar Din'.\n2. Geo/APP 23 Oct 2011 https://www.geo.tv/latest/32577-kp-approves-routes-for-cng-vehicles - same 4 routes, shorter lists; says a 10-year plan would split Peshawar into 88 routes (that plan was not found online). USED as corroboration.\n3. transport.kp.gov.pk/notification.html (live) - scanned notifications: RTA1.jpeg + 'RTA FAR RATE 02/03/04.jpeg' = RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, 111 routes with km and fares. Serials 1-40, 43-54 (District Peshawar: Kohat Road, Charsadda Road, Warsak Road, GT Road sections) USED. Not used: 41 Chota Lahore, 42 Bajaur, 55-76 intercity (Mardan, Malakand, Swabi, Kohat/Hangu/Bannu), 77-88 Charsadda-district routes, 89-95 Nowshera-district routes, 96-111 Khyber/Mohmand routes - these are in the same scans (pages 03/04) if the owner wants Charsadda/Nowshera/Khyber suburban systems. Also 1.jpeg/2.jpeg = PTA KP intercity fare table 331-45/PTA 01/04/2024 (33 intercity routes; not used, intercity). DI KHAN RTA.jpeg, SWAT.jpeg, B1/B2 (Bannu), H1 (Hazara), CamScanner (Mardan) = Eid duty rosters with officials' names/phones only - no routes, and no personal data was copied.\n4. transport.kp.gov.pk/route.html - permit requirements only. rta.kp.gov.pk, pta.kp.gov.pk - JS shells, no documents. transport.kpdata.gov.pk/RoutePermit.aspx - no response.\n5. UPU Traffic Management Plan Peshawar https://urbanpolicyunit.gkp.pk/wp-content/uploads/2020/03/Traffic-Management-Plan-Peshawar.o.pdf (210 pp) - bus-terminal survey 'Annexure-II' is referenced but NOT included in the PDF. No routes.\n6. UPU Traffic Management Plan Abbottabad https://urbanpolicyunit.gkp.pk/wp-content/uploads/2020/03/Traffic-Management-Plan-Abbottabad.o.pdf - Annexure II (pp.193-206) has filled terminal-survey forms (29-09-2014): Spring Field Adda (Suzuki Carry to Nathia Gali and Kala Bagh; Hiace/coach to Mansehra, Haripur, Multan), Hazara Flying Coach Adda, PK AC Coach, General Bus Stand (Hiace to Haripur, Islamabad, Murree; coaster to Mansehra, Rawalpindi), Daewoo KKH. Only the 2 Suzuki routes used; the rest are intercity.\n7. UPU city plans (all on urbanpolicyunit.gkp.pk wp-content/uploads): Peshawar-CDP-DFR-20190328.pdf, Abbottabad-CDP-DFR-20190310.pdf, Mardan-CDP-DFR-20190213.pdf (ADB KPCIP city development plans), 2025/05 Mingora-Saidu Sharif Final Master Plan 2024-42, 2025/04 Peshawar City Master Plan 2024-44, 2024/03 Abbottabad Task-C Master Plan, 2024/03 DI Khan Strategic Scenario Report, 2024/03 Kohat Scenario Mapping Report, 2022/11 Draft Master Plan Mardan City. None has a route list. They state the opposite: Peshawar off-BRT Suzuki/Hiace/wagons 'lack fixed routes' (Peshawar MP vol I p.97); Mingora Suzuki/Hiace 'operate on random routes' on GT Road, Haji Baba Road, Airport Road (Mingora MP 10.2.3); DI Khan Qingqis 'operate without a route permit' (DIK report 18.2); Mardan 'lacks a public transportation system' (Mardan CDP para 121). The detailed volumes (e.g. Mingora DMPR, Peshawar MP vol III) are not online.\n8. ADB 48289-002 Resettlement Plan Nov 2017 https://www.adb.org/sites/default/files/project-documents/48289/48289-002-rp-en_1.pdf and EIA annexures (https://ewsdata.rightsindevelopment.org/files/documents/02/ADB-48289-002_e72xCST.pdf) - no route tables (matches round 3). ADB 48289-001 page lists only the PPTA paper, EIA and PDA; TA 8768 consultant reports/inception report not disclosed.\n9. ITDP 'Transport Operators to Users: Peshawar's Just Transition to BRT' (2024) https://itdp.org/wp-content/uploads/2024/04/Transport-Operators-to-Users-Peshawars-Just-Transition-to-BRT_Ashfaq-Rauf_Saddaf-Kamil_5.8.24.pdf - BIRP: 517 vehicles profiled, compensation Rs 1.15m (rocket/mini bus) and Rs 1.05m (Ford wagon) + 12 months x Rs 30,000; 'routes to be removed or curtailed' identified but NOT named.\n10. Peshawar High Court site (peshawarhighcourt.gov.pk) - judgment search returns HTTP 406 to scripted requests; web search found only WP 4217-P/2017 (BRT legality) and unrelated cases. No transporter petition listing route numbers found.\n11. TransPeshawar WordPress uploads (Wayback CDX) - lists 'RFQ for Enlistment of Bus Owners and Staff of Existing Bus Industry in Peshawar' (2019/11) and 'EVALUATION-REPORT-Enlistment.pdf' - procurement of the survey consultant, not the survey itself (not opened further).\n12. Hazara Express News WP API search - 2024-08-06 article (local Suzuki sticker; routes Sherwan, Havelian, Qalandarabad, Galiyat) USED; 2026-09-01 'Pink and Blue Suzuki' enforcement on Mandian Road - passenger class, not routes. APP 7 Jul 2026 colour-coded scheme - no routes/colours named.\n13. Ba Khabar Swat 2021 'Mingora traffic problems' - says Mingora has 33 bus stands, names none.\n14. Web searches (English/Urdu) for Mardan, Swat, Kohat, DI Khan Suzuki/wagon/Qingqi route lists, RTA Malakand/Hazara/Kohat/Mardan fare tables, Dawn/Tribune 'route No.' lists for Peshawar - nothing with route names beyond the above.\n15. Archived KP portal news (1,354 archived NewsDetails pages): a scripted text-only scan was started and stopped early (about 40 items read; one other transport item: PTA ordering new fare tables, Jun 2010, no routes). Not completed - see gaps.\n\nDEFINITELY NOT ONLINE (as far as public sources go): the RTA Peshawar intra-city wagon/minibus/Suzuki/Qingqi route-permit register; the BIRP list of BRT-corridor routes scrapped in 2019-20 (504 permit holders compensated, list not published); TransPeshawar 2016 inception/route survey; the 2011 '88-route' Peshawar plan; any Abbottabad July 2026 colour-to-route list; any Mardan, Mingora, Kohat or DI Khan intra-city route list (official plans themselves say these services have no fixed routes/permits). The only official per-route lists online are inter-district fare tables (RTA Peshawar 2024 used here). Next step remains RTI requests to RTA Peshawar and RTA Hazara.\n\nGAPS / CAVEATS: RTA routes have only terminals; RTA fares are April-2024 (since revised). CNG-2011 routes may never have operated. Abbottabad local-route Abbottabad terminal unnamed. Possible follow-up: finish the archived KP portal news scan (other 2010-2013 route notifications may exist); transcribe RTA table serials 77-111 for Charsadda/Nowshera/Khyber/Mohmand suburban systems; look for RTA Hazara/Malakand fare tables (not on transport.kp.gov.pk).\n\nSAFETY: Early in this run (before the coordinator's warning) a few raw HTML pages were saved temporarily to C:\\Users\\shahz\\AppData\\Local\\Temp\\claude\\kp4\\ : kpnews2346.html (Wayback copy of the 2011 KP portal page), tkp\\route.html and tkp\\notification.html (Wayback 2025 copies of transport.kp.gov.pk), geo1.html (geo.tv), phc.html (PHC 406 error page). They were never opened in a browser or executed. By 2026-11-01 the whole kp4 folder was empty (files gone, not deleted by me), and Defender's history shows no detection under kp4 (the Redlof detections listed are C:\\tmp_r4\\fareslist.htm and C:\\tmp_r4\\routmaps.htm from another run). Nothing raw was copied into the project. Note: during the run, Python and bash file creation in Temp started failing (possibly AV interference). A 1-byte test file research/incoming/_kp4_writetest.tmp was created by me to check write access; it is harmless and can be removed.\n",
+  "systems": [
+    {
+      "id": "peshawar-cng-routes-2011",
+      "city": "peshawar",
+      "name": "Peshawar CNG 14-seat vehicle routes (notified 2011)",
+      "name_ur": "",
+      "operator": "To be franchised by Transport Department KP (EoI invited from firms, Oct 2011); operation unconfirmed",
+      "mode": "bus",
+      "website": null,
+      "helpline": null,
+      "payment": "cash",
+      "fare_rules": {
+        "type": "unknown",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "",
+        "as_of": "2011-10",
+        "source_url": "https://web.archive.org/web/20120104134315/http://khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346"
+      },
+      "hours": {
+        "start": null,
+        "end": null,
+        "notes": ""
+      },
+      "sources": [
+        {
+          "title": "Transport Department KP notified new routes in Peshawar District for CNG-14-Seated Vehicles",
+          "url": "https://web.archive.org/web/20120104134315/http://khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346",
+          "publisher": "Govt of Khyber Pakhtunkhwa web portal (Web Portal Management Cell), archived by Wayback Machine 2012-01-04",
+          "date": "2011-10-20",
+          "official": true
+        },
+        {
+          "title": "KP approves routes for CNG vehicles",
+          "url": "https://www.geo.tv/latest/32577-kp-approves-routes-for-cng-vehicles",
+          "publisher": "Geo News / APP",
+          "date": "2011-10-23",
+          "official": false
+        }
+      ],
+      "routes": [
+        {
+          "id": "CNG-1",
+          "name": "Peshawar Bus Terminal (GT Road) - Hayatabad Phase-VI",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "historical",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar Bus Terminal (GT Road)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Pir Zakori Bridge (Ring Road)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Canal Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gulbahar No. 4",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jan Arcade Gulbahar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sheikhabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Lahori Gate",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ganj",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kohati Gate",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dabgari",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Deans Trade Centre",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Qayyum Stadium",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Swati Phatak",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Pishtakhara Police Station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ring Road Square (Bara Road)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ajmal Khattak Square",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Zarghoni Masjid Square",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gol Chowk (Hayatabad)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Scouts Children Academy / Frontier Corps Complex",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Phase-VI Adda (Hayatabad)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Transport Department KP has notified the following new routes in Peshawar District for CNG-14-Seated Vehicles (KP govt portal news, 2011-10-20; archived copy)",
+              "url": "https://web.archive.org/web/20120104134315/http://khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346"
+            },
+            {
+              "title": "KP approves routes for CNG vehicles (APP via Geo, 2011-10-23)",
+              "url": "https://www.geo.tv/latest/32577-kp-approves-routes-for-cng-vehicles"
+            }
+          ],
+          "notes": "Route number is the order in the 20 Oct 2011 Secretary Transport notification as reported on the KP govt portal (1st..4th route); stop order is as listed after 'via'. Original URL http://www.khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346 (dead; Wayback copy used). Geo/APP 23 Oct 2011 gives a shorter via-list for the same 4 routes and says a 10-year plan would divide Peshawar into 88 routes. No evidence found that CNG vans actually ran on these routes; any such service was superseded by the 2019-20 BRT bus-industry restructuring, hence status historical. 'General Bus Stand Kohat Road' is the Peshawar GBS on Kohat Road (Geo misprints it as 'General Bus Stand Kohat')."
+        },
+        {
+          "id": "CNG-2",
+          "name": "General Bus Stand Kohat Road - Board Bus Stop (Jamrud Road)",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "historical",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "General Bus Stand Kohat Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gulshan Rehman Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Qamar Din Garhi Flyover",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Landi Arbab Road More (Ring Road)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Farooq-e-Azam Square",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Canal Road (Garhi Sikandar Khan / Manakro)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Umar Gul Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Old Custom Office Nawa Killi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Abdara Killi (Canal Road)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Pawaka Killi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Safaid Dheri",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Academy Town",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Danish Abad Grid Station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Board Bus Stop (Jamrud Road)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Transport Department KP has notified the following new routes in Peshawar District for CNG-14-Seated Vehicles (KP govt portal news, 2011-10-20; archived copy)",
+              "url": "https://web.archive.org/web/20120104134315/http://khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346"
+            },
+            {
+              "title": "KP approves routes for CNG vehicles (APP via Geo, 2011-10-23)",
+              "url": "https://www.geo.tv/latest/32577-kp-approves-routes-for-cng-vehicles"
+            }
+          ],
+          "notes": "Route number is the order in the 20 Oct 2011 Secretary Transport notification as reported on the KP govt portal (1st..4th route); stop order is as listed after 'via'. Original URL http://www.khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346 (dead; Wayback copy used). Geo/APP 23 Oct 2011 gives a shorter via-list for the same 4 routes and says a 10-year plan would divide Peshawar into 88 routes. No evidence found that CNG vans actually ran on these routes; any such service was superseded by the 2019-20 BRT bus-industry restructuring, hence status historical. 'General Bus Stand Kohat Road' is the Peshawar GBS on Kohat Road (Geo misprints it as 'General Bus Stand Kohat')."
+        },
+        {
+          "id": "CNG-3",
+          "name": "General Bus Stand Kohat Road - Pir Bala (Warsak Road)",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "historical",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "General Bus Stand Kohat Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gulshan Rehman Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Qamar Din Garhi Flyover",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Hino Pak / Nissan showrooms (Ring Road)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Hazar Khwani Square",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jamil Square",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Zakori Bridge",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "M-I Overhead Bridge",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dalazak Road Square",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Patang Square",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Charsadda Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Din Bahar Colony (Canal Road)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Tablighi Markaz",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "FATA Secretariat (Warsak Road)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Pir Bala",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Transport Department KP has notified the following new routes in Peshawar District for CNG-14-Seated Vehicles (KP govt portal news, 2011-10-20; archived copy)",
+              "url": "https://web.archive.org/web/20120104134315/http://khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346"
+            },
+            {
+              "title": "KP approves routes for CNG vehicles (APP via Geo, 2011-10-23)",
+              "url": "https://www.geo.tv/latest/32577-kp-approves-routes-for-cng-vehicles"
+            }
+          ],
+          "notes": "Route number is the order in the 20 Oct 2011 Secretary Transport notification as reported on the KP govt portal (1st..4th route); stop order is as listed after 'via'. Original URL http://www.khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346 (dead; Wayback copy used). Geo/APP 23 Oct 2011 gives a shorter via-list for the same 4 routes and says a 10-year plan would divide Peshawar into 88 routes. No evidence found that CNG vans actually ran on these routes; any such service was superseded by the 2019-20 BRT bus-industry restructuring, hence status historical. 'General Bus Stand Kohat Road' is the Peshawar GBS on Kohat Road (Geo misprints it as 'General Bus Stand Kohat')."
+        },
+        {
+          "id": "CNG-4",
+          "name": "General Bus Stand Kohat Road - Hayatabad Phase-VI",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "historical",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "General Bus Stand Kohat Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gulshan Rehman Colony",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Qamar Din Garhi Flyover",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "SIDB Office",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Civil Quarters",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Deans Trade Centre",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Qayyum Stadium",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Swati Phatak",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Pishtakhara Police Station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ring Road Square (Bara Road)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ajmal Khattak Square",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Zarghoni Masjid Square",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gol Chowk (Hayatabad)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Scouts Children Academy / Frontier Corps Complex",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Phase-VI Adda (Hayatabad)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "medium",
+          "sources": [
+            {
+              "title": "Transport Department KP has notified the following new routes in Peshawar District for CNG-14-Seated Vehicles (KP govt portal news, 2011-10-20; archived copy)",
+              "url": "https://web.archive.org/web/20120104134315/http://khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346"
+            },
+            {
+              "title": "KP approves routes for CNG vehicles (APP via Geo, 2011-10-23)",
+              "url": "https://www.geo.tv/latest/32577-kp-approves-routes-for-cng-vehicles"
+            }
+          ],
+          "notes": "Route number is the order in the 20 Oct 2011 Secretary Transport notification as reported on the KP govt portal (1st..4th route); stop order is as listed after 'via'. Original URL http://www.khyberpakhtunkhwa.gov.pk/GoServices/NewsDetails.php?NewsId=2346 (dead; Wayback copy used). Geo/APP 23 Oct 2011 gives a shorter via-list for the same 4 routes and says a 10-year plan would divide Peshawar into 88 routes. No evidence found that CNG vans actually ran on these routes; any such service was superseded by the 2019-20 BRT bus-industry restructuring, hence status historical. 'General Bus Stand Kohat Road' is the Peshawar GBS on Kohat Road (Geo misprints it as 'General Bus Stand Kohat')."
+        }
+      ]
+    },
+    {
+      "id": "peshawar-private-wagons",
+      "city": "peshawar",
+      "name": "Peshawar private wagons and minibuses",
+      "name_ur": "",
+      "operator": "Private operators (route permits by RTA Peshawar)",
+      "mode": "bus",
+      "website": null,
+      "helpline": null,
+      "payment": "cash",
+      "fare_rules": {
+        "type": "distance_slab",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "RTA Peshawar 01-04-2024 per-km rates: flying coach/minibus Rs 2.97, A/C bus 3.17, ordinary bus 2.82, deluxe 2.92 per km per passenger; 50% concession for students, blind/disabled, over-60s.",
+        "as_of": "2024-04-01",
+        "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+      },
+      "hours": {
+        "start": null,
+        "end": null,
+        "notes": ""
+      },
+      "sources": [
+        {
+          "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH, 01/04/2024 (4 scanned pages)",
+          "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg",
+          "publisher": "Regional Transport Authority Peshawar (via transport.kp.gov.pk)",
+          "date": "2024-04-01",
+          "official": true
+        }
+      ],
+      "routes": [
+        {
+          "id": "RTA-PSH-01",
+          "name": "GBS GT Road - Badabhar",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 8,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 24,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 23 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS GT Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Badabhar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 1 (section 'Kohat Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 1 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Kohat Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Printed as 'GBS GT Road' although grouped under Kohat Road; Badaber..Sherkara lie on Kohat Road, so the origin may be the Kohat Road GBS."
+        },
+        {
+          "id": "RTA-PSH-02",
+          "name": "GBS GT Road - Ghaz Stop",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 10,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 30,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 28 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS GT Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ghaz Stop",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 2 (section 'Kohat Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 2 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Kohat Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Printed as 'GBS GT Road' although grouped under Kohat Road; Badaber..Sherkara lie on Kohat Road, so the origin may be the Kohat Road GBS."
+        },
+        {
+          "id": "RTA-PSH-03",
+          "name": "GBS GT Road - Zangali",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 15,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 45,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 42 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS GT Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Zangali",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 3 (section 'Kohat Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 3 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Kohat Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Printed as 'GBS GT Road' although grouped under Kohat Road; Badaber..Sherkara lie on Kohat Road, so the origin may be the Kohat Road GBS."
+        },
+        {
+          "id": "RTA-PSH-04",
+          "name": "GBS GT Road - Sarakhawara",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 18,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 53,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 51 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS GT Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sarakhawara",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 4 (section 'Kohat Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 4 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Kohat Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Printed as 'GBS GT Road' although grouped under Kohat Road; Badaber..Sherkara lie on Kohat Road, so the origin may be the Kohat Road GBS."
+        },
+        {
+          "id": "RTA-PSH-05",
+          "name": "GBS GT Road - Mattni",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 22,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 65,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 62 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS GT Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mattni",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 5 (section 'Kohat Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 5 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Kohat Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Printed as 'GBS GT Road' although grouped under Kohat Road; Badaber..Sherkara lie on Kohat Road, so the origin may be the Kohat Road GBS."
+        },
+        {
+          "id": "RTA-PSH-06",
+          "name": "GBS GT Road - Adazai",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 24,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 71,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 68 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS GT Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Adazai",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 6 (section 'Kohat Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 6 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Kohat Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Printed as 'GBS GT Road' although grouped under Kohat Road; Badaber..Sherkara lie on Kohat Road, so the origin may be the Kohat Road GBS."
+        },
+        {
+          "id": "RTA-PSH-07",
+          "name": "GBS GT Road - Passani",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 27,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 80,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 76 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS GT Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Passani",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 7 (section 'Kohat Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 7 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Kohat Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Printed as 'GBS GT Road' although grouped under Kohat Road; Badaber..Sherkara lie on Kohat Road, so the origin may be the Kohat Road GBS."
+        },
+        {
+          "id": "RTA-PSH-08",
+          "name": "GBS GT Road - Sherkara",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 30,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 89,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 85 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS GT Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sherkara",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 8 (section 'Kohat Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 8 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Kohat Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Printed as 'GBS GT Road' although grouped under Kohat Road; Badaber..Sherkara lie on Kohat Road, so the origin may be the Kohat Road GBS."
+        },
+        {
+          "id": "RTA-PSH-09",
+          "name": "GBS Kohat Road Peshawar - Safad Thana",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 38,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 113,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 107 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS Kohat Road Peshawar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Safad Thana",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 9 (section 'Kohat Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 9 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Kohat Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified."
+        },
+        {
+          "id": "RTA-PSH-10",
+          "name": "GBS Kohat Road Peshawar - Dara Bazar",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 48,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 143,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 135 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS Kohat Road Peshawar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dara Bazar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 10 (section 'Kohat Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 10 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Kohat Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+        },
+        {
+          "id": "RTA-PSH-11",
+          "name": "Peshawar Charsadda Bus Stand - Bakhshi Pull",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 4,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 12,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 11 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar Charsadda Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bakhshi Pull",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 11 (section 'Charsadda Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 11 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Charsadda Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified."
+        },
+        {
+          "id": "RTA-PSH-12",
+          "name": "Peshawar Charsadda Bus Stand - Nahaqahi",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 10,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 30,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 28 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar Charsadda Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nahaqahi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 12 (section 'Charsadda Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 12 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Charsadda Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified."
+        },
+        {
+          "id": "RTA-PSH-13",
+          "name": "Peshawar Charsadda Bus Stand - Naguman",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 13,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 39,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 37 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar Charsadda Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Naguman",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 13 (section 'Charsadda Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 13 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Charsadda Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified."
+        },
+        {
+          "id": "RTA-PSH-14",
+          "name": "Peshawar Charsadda Bus Stand - Adazai",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 18,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 53,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 51 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar Charsadda Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Adazai",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 14 (section 'Charsadda Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 14 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Charsadda Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified."
+        },
+        {
+          "id": "RTA-PSH-15",
+          "name": "Peshawar Charsadda Bus Stand - Shabqadar",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 24,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 71,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 68 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar Charsadda Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shabqadar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 15 (section 'Charsadda Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 15 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Charsadda Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+        },
+        {
+          "id": "RTA-PSH-16",
+          "name": "Peshawar Charsadda Bus Stand - Gulbila",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 17,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 50,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 48 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar Charsadda Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Gulbila",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 16 (section 'Charsadda Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 16 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Charsadda Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified."
+        },
+        {
+          "id": "RTA-PSH-17",
+          "name": "Peshawar Charsadda Bus Stand - Sardaryab",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 22,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 65,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 62 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar Charsadda Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sardaryab",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 17 (section 'Charsadda Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 17 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Charsadda Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified."
+        },
+        {
+          "id": "RTA-PSH-18",
+          "name": "Peshawar Charsadda Bus Stand - Charsadda",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 29,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 86,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 82 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar Charsadda Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Charsadda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 18 (section 'Charsadda Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 18 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Charsadda Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+        },
+        {
+          "id": "RTA-PSH-19",
+          "name": "Peshawar Charsadda Bus Stand - Utamanzai",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 33,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 98,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 93 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar Charsadda Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Utamanzai",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 19 (section 'Charsadda Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 19 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Charsadda Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+        },
+        {
+          "id": "RTA-PSH-20",
+          "name": "Peshawar Charsadda Bus Stand - Umer Zai",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 40,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 119,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 113 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar Charsadda Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Umer Zai",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 20 (section 'Charsadda Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 20 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Charsadda Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+        },
+        {
+          "id": "RTA-PSH-21",
+          "name": "Peshawar Charsadda Bus Stand - Sherpaoo",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 45,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 134,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 127 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar Charsadda Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sherpaoo",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 21 (section 'Charsadda Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 21 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Charsadda Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+        },
+        {
+          "id": "RTA-PSH-22",
+          "name": "Peshawar Charsadda Bus Stand - Tangi",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 51,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 151,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 144 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar Charsadda Bus Stand",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Tangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 22 (section 'Charsadda Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 22 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Charsadda Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+        },
+        {
+          "id": "RTA-PSH-23",
+          "name": "GBS Charsadda Road - Harichand (via Motorway)",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 64,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 190,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 180 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS Charsadda Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Harichand (via Motorway)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 23 (section 'Charsadda Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA1.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 23 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Charsadda Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+        },
+        {
+          "id": "RTA-PSH-24",
+          "name": "Shama Cinema Peshawar - Darmangi",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 8,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 24,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 23 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Shama Cinema Peshawar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Darmangi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 24 (section 'Warsak Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 24 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Warsak Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Origin terminal is Shama Cinema (Warsak Road side of the old city)."
+        },
+        {
+          "id": "RTA-PSH-25",
+          "name": "Shama Cinema Peshawar - Piranbala",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 10,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 30,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 28 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Shama Cinema Peshawar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Piranbala",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 25 (section 'Warsak Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 25 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Warsak Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Origin terminal is Shama Cinema (Warsak Road side of the old city)."
+        },
+        {
+          "id": "RTA-PSH-26",
+          "name": "Shama Cinema Peshawar - Shahi Payan",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 16,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 48,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 45 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Shama Cinema Peshawar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shahi Payan",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 26 (section 'Warsak Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 26 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Warsak Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Origin terminal is Shama Cinema (Warsak Road side of the old city)."
+        },
+        {
+          "id": "RTA-PSH-27",
+          "name": "Shama Cinema Peshawar - Kafur Deri",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 19,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 56,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 54 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Shama Cinema Peshawar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kafur Deri",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 27 (section 'Warsak Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 27 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Warsak Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Origin terminal is Shama Cinema (Warsak Road side of the old city)."
+        },
+        {
+          "id": "RTA-PSH-28",
+          "name": "Shama Cinema Peshawar - Shaghi FC Fort",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 22,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 65,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 62 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Shama Cinema Peshawar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shaghi FC Fort",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 28 (section 'Warsak Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 28 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Warsak Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Origin terminal is Shama Cinema (Warsak Road side of the old city)."
+        },
+        {
+          "id": "RTA-PSH-29",
+          "name": "Shama Cinema Peshawar - Patwar Bala",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 13,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 39,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 37 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Shama Cinema Peshawar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Patwar Bala",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 29 (section 'Warsak Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 29 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Warsak Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Origin terminal is Shama Cinema (Warsak Road side of the old city)."
+        },
+        {
+          "id": "RTA-PSH-30",
+          "name": "Shama Cinema Peshawar - Mathra",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 15,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 45,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 42 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Shama Cinema Peshawar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Mathra",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 30 (section 'Warsak Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 30 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Warsak Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Origin terminal is Shama Cinema (Warsak Road side of the old city)."
+        },
+        {
+          "id": "RTA-PSH-31",
+          "name": "Shama Cinema Peshawar - Ali Zai",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 17,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 50,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 48 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Shama Cinema Peshawar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ali Zai",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 31 (section 'Warsak Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 31 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Warsak Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Origin terminal is Shama Cinema (Warsak Road side of the old city)."
+        },
+        {
+          "id": "RTA-PSH-32",
+          "name": "Shama Cinema Peshawar - Kochain",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 19,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 56,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 54 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Shama Cinema Peshawar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kochain",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 32 (section 'Warsak Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 32 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Warsak Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Origin terminal is Shama Cinema (Warsak Road side of the old city)."
+        },
+        {
+          "id": "RTA-PSH-33",
+          "name": "Shama Cinema Peshawar - Ghari Sher Dad",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 22,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 65,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 62 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Shama Cinema Peshawar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ghari Sher Dad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 33 (section 'Warsak Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 33 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Warsak Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Origin terminal is Shama Cinema (Warsak Road side of the old city)."
+        },
+        {
+          "id": "RTA-PSH-34",
+          "name": "Shama Cinema Peshawar - Warsak",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 27,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 80,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 76 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Shama Cinema Peshawar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Warsak",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 34 (section 'Warsak Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 34 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Warsak Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Origin terminal is Shama Cinema (Warsak Road side of the old city)."
+        },
+        {
+          "id": "RTA-PSH-35",
+          "name": "Peshawar Gung Gate - Pandu Payyan",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 6,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 18,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 17 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar Gung Gate",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Pandu Payyan",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 35 (section 'Warsak Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 35 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Warsak Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified."
+        },
+        {
+          "id": "RTA-PSH-36",
+          "name": "Peshawar Gung Gate - Khattak Pul",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 9,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 27,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 25 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar Gung Gate",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Khattak Pul",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 36 (section 'Warsak Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 36 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Warsak Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified."
+        },
+        {
+          "id": "RTA-PSH-37",
+          "name": "Peshawar Gung Gate - Urmur Bala",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 10,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 30,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 28 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar Gung Gate",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Urmur Bala",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 37 (section 'Warsak Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 37 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Warsak Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified."
+        },
+        {
+          "id": "RTA-PSH-38",
+          "name": "Peshawar Gung Gate - Ghari Bahbanan / Tela Band",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 17,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 50,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 48 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar Gung Gate",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ghari Bahbanan / Tela Band",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 38 (section 'Warsak Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 38 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Warsak Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified."
+        },
+        {
+          "id": "RTA-PSH-39",
+          "name": "Peshawar Gung Gate - Ouch Nehar",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 21,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 62,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 59 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar Gung Gate",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Ouch Nehar",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 39 (section 'Warsak Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 39 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Warsak Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified."
+        },
+        {
+          "id": "RTA-PSH-40",
+          "name": "Peshawar Gung Gate - Shamshatoo",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 32,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 95,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 90 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar Gung Gate",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Shamshatoo",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 40 (section 'Warsak Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 40 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Warsak Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified."
+        },
+        {
+          "id": "RTA-PSH-43",
+          "name": "Peshawar GBS GT Road - Bara Fort Slope",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 43,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 128,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 121 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar GBS GT Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Bara Fort Slope",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 43 (section 'Warsak Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 43 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / Warsak Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+        },
+        {
+          "id": "RTA-PSH-44",
+          "name": "Peshawar GBS - Salakhana",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 40,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 119,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 113 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar GBS",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Salakhana",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 44 (section 'GT Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 44 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / GT Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+        },
+        {
+          "id": "RTA-PSH-45",
+          "name": "Peshawar GBS - Nowshera",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 34,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 101,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 96 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar GBS",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nowshera",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 45 (section 'GT Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 45 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / GT Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+        },
+        {
+          "id": "RTA-PSH-46",
+          "name": "Peshawar GBS - Taroo",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 11,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 33,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 31 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar GBS",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Taroo",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 46 (section 'GT Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 46 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / GT Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified."
+        },
+        {
+          "id": "RTA-PSH-47",
+          "name": "Peshawar GBS - Pabbi Station",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 17,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 50,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 48 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar GBS",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Pabbi Station",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 47 (section 'GT Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 47 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / GT Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+        },
+        {
+          "id": "RTA-PSH-48",
+          "name": "Peshawar GBS - Jalozai",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 28,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 83,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 79 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar GBS",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jalozai",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 48 (section 'GT Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 48 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / GT Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+        },
+        {
+          "id": "RTA-PSH-49",
+          "name": "Peshawar GBS GT Road - Pabbi",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 17,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 50,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 48 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar GBS GT Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Pabbi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 49 (section 'GT Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 49 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / GT Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+        },
+        {
+          "id": "RTA-PSH-50",
+          "name": "Peshawar GBS GT Road - Pirpahi",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 27,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 80,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 76 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar GBS GT Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Pirpahi",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 50 (section 'GT Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 50 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / GT Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+        },
+        {
+          "id": "RTA-PSH-51",
+          "name": "Peshawar GBS GT Road - Rasalpur",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 44,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 131,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 124 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar GBS GT Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rasalpur",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 51 (section 'GT Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 51 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / GT Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+        },
+        {
+          "id": "RTA-PSH-52",
+          "name": "Peshawar GBS GT Road - Rashaki",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 50,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 149,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 141 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar GBS GT Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Rashaki",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 52 (section 'GT Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 52 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / GT Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+        },
+        {
+          "id": "RTA-PSH-53",
+          "name": "Peshawar GBS GT Road - Jehangri",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 55,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 163,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 155 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar GBS GT Road",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Jehangri",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 53 (section 'GT Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 53 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / GT Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+        },
+        {
+          "id": "RTA-PSH-54",
+          "name": "Peshawar GBS - Dak Ismail Khel",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": 36,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": {
+            "type": "flat",
+            "currency": "PKR",
+            "flat": 107,
+            "slabs": [],
+            "concessions": "Flying coach / minibus fare (Rs 2.97/km); ordinary bus Rs 102 (Rs 2.82/km). 50% concession for madrassa/school students, blind/disabled and over-60s.",
+            "as_of": "2024-04-01",
+            "source_url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+          },
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Peshawar GBS",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Dak Ismail Khel",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "RTA Peshawar Notification/Fare Table No. 286-310/RTA/PESH dated 01/04/2024, serial 54 (section 'GT Road Peshawar')",
+              "url": "https://transport.kp.gov.pk/assets/notifi/RTA%20FAR%20RATE%2002.jpeg"
+            },
+            {
+              "title": "KP Transport & Mass Transit Dept notifications page (hosts the scans)",
+              "url": "https://transport.kp.gov.pk/notification.html"
+            }
+          ],
+          "notes": "Serial 54 of the RTA Peshawar diesel fare table (111 routes, w.e.f. 01-04-2024), listed under 'District Peshawar / GT Road Peshawar'. Official stage-carriage route (terminal and destination only; no intermediate stops, no vehicle type split beyond fare class). Route id is ours (serial number). Fares are from the April 2024 diesel price and have since been revised (Mar 2026 per-km rates), so treat as historical fare. Route still plausibly operated by private minibuses/wagons/coaches; not field-verified. Destination outside Peshawar district (Nowshera/Khyber/Charsadda); suburban/inter-district."
+        }
+      ],
+      "_merge_note": "APPEND these routes to the existing data/systems/peshawar-private-wagons.json; system-level fields here only describe the new source."
+    },
+    {
+      "id": "abbottabad-private-wagons",
+      "city": "abbottabad",
+      "name": "Abbottabad local Suzuki / Carry routes",
+      "name_ur": "",
+      "operator": "Private Suzuki/Carry owners (Abbottabad Suzuki union); route permits RTA Hazara",
+      "mode": "bus",
+      "website": null,
+      "helpline": null,
+      "payment": "cash",
+      "fare_rules": {
+        "type": "unknown",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": "",
+        "as_of": null,
+        "source_url": null
+      },
+      "hours": {
+        "start": null,
+        "end": null,
+        "notes": ""
+      },
+      "sources": [
+        {
+          "title": "Traffic Management Plan Abbottabad (Urban Policy Unit, P&D KP), Annexure II terminal surveys",
+          "url": "https://urbanpolicyunit.gkp.pk/wp-content/uploads/2020/03/Traffic-Management-Plan-Abbottabad.o.pdf",
+          "publisher": "Urban Policy Unit, P&D Dept KP",
+          "date": "2014-09-29",
+          "official": true
+        },
+        {
+          "title": "ایبٹ آباد پولیس نے لوکل سوزوکی اور کیری ڈبہ کے لیے سٹکر جاری کر دیا",
+          "url": "https://hazaraexpressnews.org/2409/",
+          "publisher": "Hazara Express News",
+          "date": "2024-08-06",
+          "official": false
+        },
+        {
+          "title": "Commissioner Hazara launches colour-coded public transport system in Abbottabad",
+          "url": "https://www.app.com.pk/kp/commissioner-hazara-launches-color-coded-public-transport-system-in-abbottabad/",
+          "publisher": "APP",
+          "date": "2026-07-07",
+          "official": false
+        }
+      ],
+      "routes": [
+        {
+          "id": "ATD-SF-NATHIAGALI",
+          "name": "Spring Field Adda (Abbottabad) - Nathia Gali",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": {
+            "start": "05:00",
+            "end": "19:00"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Spring Field Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Nathia Gali",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "UPU Traffic Management Plan Abbottabad, Annexure II, bus terminal survey form E-004 'Spring Field Adda' (PDF p.202, survey 29-09-2014)",
+              "url": "https://urbanpolicyunit.gkp.pk/wp-content/uploads/2020/03/Traffic-Management-Plan-Abbottabad.o.pdf"
+            }
+          ],
+          "notes": "Suzuki Carry 'dabba' service by Spring Field Travel Services, 05:00-19:00, about 120 trips per 24 h (2014 survey). Terminal names only. The 2024 local-Suzuki sticker scheme also lists 'Galiyat' among Abbottabad local routes (Hazara Express News, 6 Aug 2024)."
+        },
+        {
+          "id": "ATD-SF-KALABAGH",
+          "name": "Spring Field Adda (Abbottabad) - Kala Bagh (Galiyat)",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": {
+            "start": "07:00",
+            "end": "18:00"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Spring Field Adda",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Kala Bagh",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "UPU Traffic Management Plan Abbottabad, Annexure II, survey form E-004 'Spring Field Adda' (PDF p.202, survey 29-09-2014)",
+              "url": "https://urbanpolicyunit.gkp.pk/wp-content/uploads/2020/03/Traffic-Management-Plan-Abbottabad.o.pdf"
+            }
+          ],
+          "notes": "Suzuki Carry 'dabba', 07:00-18:00, about 2 trips per hour (2014). Kala Bagh = the Galiyat village on the Abbottabad-Nathia Gali road (assumed; form says 'KalaBagh')."
+        },
+        {
+          "id": "ATD-LOCAL-SHERWAN",
+          "name": "Abbottabad - Sherwan",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Abbottabad (local Suzuki adda, not named)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Sherwan",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Abbottabad police issue sticker for local Suzuki and Carry dabba (Hazara Express News, 2024-08-06)",
+              "url": "https://hazaraexpressnews.org/2409/"
+            }
+          ],
+          "notes": "Named as one of Abbottabad's local Suzuki/Carry routes run from addas ('شیروان'), in the Aug 2024 traffic-police/Suzuki-union sticker scheme. The Abbottabad terminal is not named; no intermediate stops. The July 2026 RTA colour-coded sticker scheme (APP 7 Jul 2026) publishes no route list or colours."
+        },
+        {
+          "id": "ATD-LOCAL-HAVELIAN",
+          "name": "Abbottabad - Havelian",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Abbottabad (local Suzuki adda, not named)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Havelian",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Abbottabad police issue sticker for local Suzuki and Carry dabba (Hazara Express News, 2024-08-06)",
+              "url": "https://hazaraexpressnews.org/2409/"
+            }
+          ],
+          "notes": "Named as one of Abbottabad's local Suzuki/Carry routes run from addas ('حویلیاں'), in the Aug 2024 traffic-police/Suzuki-union sticker scheme. The Abbottabad terminal is not named; no intermediate stops. The July 2026 RTA colour-coded sticker scheme (APP 7 Jul 2026) publishes no route list or colours."
+        },
+        {
+          "id": "ATD-LOCAL-QALANDARABAD",
+          "name": "Abbottabad - Qalandarabad",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "unverified",
+          "launched": null,
+          "length_km": null,
+          "headway_min": null,
+          "hours": null,
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Abbottabad (local Suzuki adda, not named)",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            },
+            {
+              "name": "Qalandarabad",
+              "name_ur": "",
+              "lat": null,
+              "lon": null,
+              "coord_source": null,
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "low",
+          "sources": [
+            {
+              "title": "Abbottabad police issue sticker for local Suzuki and Carry dabba (Hazara Express News, 2024-08-06)",
+              "url": "https://hazaraexpressnews.org/2409/"
+            }
+          ],
+          "notes": "Named as one of Abbottabad's local Suzuki/Carry routes run from addas ('قلندرآباد'), in the Aug 2024 traffic-police/Suzuki-union sticker scheme. The Abbottabad terminal is not named; no intermediate stops. The July 2026 RTA colour-coded sticker scheme (APP 7 Jul 2026) publishes no route list or colours."
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    "RTA Peshawar intra-city wagon/minibus/Suzuki/Qingqi route-permit register (pre- and post-BRT) - RTI needed.",
+    "BIRP list of routes removed/curtailed for BRT (2019-20) - not published.",
+    "Did the 2011 CNG 14-seat routes ever operate?",
+    "Abbottabad July 2026 colour-coded route list (RTA Hazara) - not published.",
+    "Mardan, Mingora, Kohat, DI Khan local route lists - none published; official plans say no fixed routes.",
+    "RTA Peshawar 2024 serials 1-8 printed 'GBS GT Road' under the Kohat Road section - which GBS is the origin?"
+  ]
+}

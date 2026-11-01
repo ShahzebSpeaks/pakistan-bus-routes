@@ -1,8 +1,8 @@
 # Data coverage
 
-Generated 2026-09-25 by `npm run data:build`. Do not edit by hand.
+Generated 2026-11-01 by `npm run data:build`. Do not edit by hand.
 
-**54 cities · 157 systems · 1689 published routes · 7629 stops**
+**54 cities · 159 systems · 1750 published routes · 7678 stops**
 
 Coordinate quality: **exact** = verified (OpenStreetMap element or Wikipedia, checked by a person), **guide** = position published by a route guide such as safar.fyi, **matched** = automatic OpenStreetMap name match, **geocoded** = Nominatim search, **estimated** = interpolated between neighbours, **missing** = not on the map yet.
 
@@ -1270,10 +1270,10 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Islamabad Electric Feeder Buses (CDA) | FR-08B | Khanna Pul - Nilore (via Lehtrar Road, Tarlai, Tramri) | operational | 28 | 4% | 96% | 0% | 0% | 0% | 0 | medium |
 | Islamabad Electric Feeder Buses (CDA) | FR-08C | PIMS Hospital - Capt. Naeem Tufail Shaheed Chowk (Tramri) via Faizabad | operational | 23 | 9% | 65% | 4% | 0% | 17% | 1 | high |
 | Islamabad Electric Feeder Buses (CDA) | FR-09 | Khanna Pul - Golra Morh Metro Station (via IJP Road, Pirwadhai) | operational | 27 | 30% | 70% | 0% | 0% | 0% | 0 | high |
-| Islamabad Electric Feeder Buses (CDA) | FR-10 | Golra Morh Metro Station - Taxila (via G-11, F-11, E-11, D-12, Sangjani, B-17) | operational | 25 | 12% | 60% | 12% | 0% | 16% | 0 | high |
+| Islamabad Electric Feeder Buses (CDA) | FR-10 | Golra Morh Metro Station - B-17 (via G-11, F-11, E-11, D-12, Sangjani) | operational | 20 | 15% | 60% | 10% | 0% | 15% | 0 | high |
 | Islamabad Electric Feeder Buses (CDA) | FR-11 | Golra Morh Metro Station - I-16/4 (via N-5, I-14) | operational | 20 | 20% | 80% | 0% | 0% | 0% | 0 | medium |
 | Islamabad Electric Feeder Buses (CDA) | FR-12 | Taxila Chowk - Tipu Sultan Shaheed Chowk (Hassan Abdal) via Wah | operational | 25 | 0% | 60% | 24% | 0% | 16% | 0 | high |
-| Islamabad Electric Feeder Buses (CDA) | FR-13 | Golra Morh Metro Station - Fateh Jang | operational | 29 | 7% | 79% | 0% | 0% | 14% | 0 | high |
+| Islamabad Electric Feeder Buses (CDA) | FR-13 | Golra Morh Metro Station - Fateh Jang | suspended | 29 | 7% | 79% | 0% | 0% | 14% | 0 | high |
 | Islamabad Electric Feeder Buses (CDA) | FR-14 | Bhara Kahu - Mandi Morh (via Murree Road, Faizabad, IJP Road) | operational | 19 | 21% | 63% | 11% | 0% | 5% | 0 | high |
 | Islamabad Electric Feeder Buses (CDA) | FR-14A | Bhara Kahu Terminal - Satra Meel (Murree Road) | operational | 14 | 7% | 71% | 0% | 0% | 21% | 0 | high |
 | Islamabad Electric Feeder Buses (CDA) | FR-15 | Khanna Pul - T-Chowk Rawat (via Islamabad Expressway, Gulberg, DHA) | operational | 16 | 6% | 38% | 25% | 0% | 31% | 0 | high |
@@ -1387,8 +1387,64 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 
 | System | Route | Name | Status | Stops | Exact | Guide | Matched | Geocoded | Estimated | Missing | Stop list confidence |
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
+| Peshawar CNG 14-seat vehicle routes (notified 2011) | CNG-1 | Peshawar Bus Terminal (GT Road) - Hayatabad Phase-VI | historical | 20 | 0% | 0% | 60% | 0% | 40% | 0 | medium |
+| Peshawar CNG 14-seat vehicle routes (notified 2011) | CNG-2 | General Bus Stand Kohat Road - Board Bus Stop (Jamrud Road) | historical | 14 | 0% | 0% | 57% | 0% | 43% | 0 | medium |
+| Peshawar CNG 14-seat vehicle routes (notified 2011) | CNG-3 | General Bus Stand Kohat Road - Pir Bala (Warsak Road) | historical | 15 | 0% | 0% | 47% | 0% | 47% | 1 | medium |
+| Peshawar CNG 14-seat vehicle routes (notified 2011) | CNG-4 | General Bus Stand Kohat Road - Hayatabad Phase-VI | historical | 15 | 0% | 0% | 47% | 0% | 53% | 0 | medium |
 | Peshawar private wagons and minibuses | FORD-HAJICAMP-KARKHANO | Haji Camp - Karkhano Market | historical | 2 | 50% | 0% | 0% | 50% | 0% | 0 | low |
-| Peshawar private wagons and minibuses | haji-camp-kohat-adda | Haji Camp Adda - Kohat Adda | unverified | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | haji-camp-kohat-adda | Haji Camp Adda - Kohat Adda | unverified | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-01 | GBS GT Road - Badabhar | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-02 | GBS GT Road - Ghaz Stop | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-03 | GBS GT Road - Zangali | unverified | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-04 | GBS GT Road - Sarakhawara | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-05 | GBS GT Road - Mattni | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-06 | GBS GT Road - Adazai | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-07 | GBS GT Road - Passani | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-08 | GBS GT Road - Sherkara | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-09 | GBS Kohat Road Peshawar - Safad Thana | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-10 | GBS Kohat Road Peshawar - Dara Bazar | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-11 | Peshawar Charsadda Bus Stand - Bakhshi Pull | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-12 | Peshawar Charsadda Bus Stand - Nahaqahi | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-13 | Peshawar Charsadda Bus Stand - Naguman | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-14 | Peshawar Charsadda Bus Stand - Adazai | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-15 | Peshawar Charsadda Bus Stand - Shabqadar | unverified | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-16 | Peshawar Charsadda Bus Stand - Gulbila | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-17 | Peshawar Charsadda Bus Stand - Sardaryab | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-18 | Peshawar Charsadda Bus Stand - Charsadda | unverified | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-19 | Peshawar Charsadda Bus Stand - Utamanzai | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-20 | Peshawar Charsadda Bus Stand - Umer Zai | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-21 | Peshawar Charsadda Bus Stand - Sherpaoo | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-22 | Peshawar Charsadda Bus Stand - Tangi | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-23 | GBS Charsadda Road - Harichand (via Motorway) | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-24 | Shama Cinema Peshawar - Darmangi | unverified | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-25 | Shama Cinema Peshawar - Piranbala | unverified | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-26 | Shama Cinema Peshawar - Shahi Payan | unverified | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-27 | Shama Cinema Peshawar - Kafur Deri | unverified | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-28 | Shama Cinema Peshawar - Shaghi FC Fort | unverified | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-29 | Shama Cinema Peshawar - Patwar Bala | unverified | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-30 | Shama Cinema Peshawar - Mathra | unverified | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-31 | Shama Cinema Peshawar - Ali Zai | unverified | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-32 | Shama Cinema Peshawar - Kochain | unverified | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-33 | Shama Cinema Peshawar - Ghari Sher Dad | unverified | 2 | 0% | 0% | 0% | 50% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-34 | Shama Cinema Peshawar - Warsak | unverified | 2 | 0% | 0% | 50% | 50% | 0% | 0 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-35 | Peshawar Gung Gate - Pandu Payyan | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-36 | Peshawar Gung Gate - Khattak Pul | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-37 | Peshawar Gung Gate - Urmur Bala | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-38 | Peshawar Gung Gate - Ghari Bahbanan / Tela Band | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-39 | Peshawar Gung Gate - Ouch Nehar | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-40 | Peshawar Gung Gate - Shamshatoo | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-43 | Peshawar GBS GT Road - Bara Fort Slope | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-44 | Peshawar GBS - Salakhana | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-45 | Peshawar GBS - Nowshera | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-46 | Peshawar GBS - Taroo | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-47 | Peshawar GBS - Pabbi Station | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-48 | Peshawar GBS - Jalozai | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-49 | Peshawar GBS GT Road - Pabbi | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-50 | Peshawar GBS GT Road - Pirpahi | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-51 | Peshawar GBS GT Road - Rasalpur | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-52 | Peshawar GBS GT Road - Rashaki | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-53 | Peshawar GBS GT Road - Jehangri | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
+| Peshawar private wagons and minibuses | RTA-PSH-54 | Peshawar GBS - Dak Ismail Khel | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
 | Zu Peshawar (TransPeshawar BRT) | ER01 | Chamkani - Karkhano Market | operational | 11 | 100% | 0% | 0% | 0% | 0% | 0 | medium |
 | Zu Peshawar (TransPeshawar BRT) | SR02 | Chamkani - Karkhano Market (all stops) | operational | 30 | 100% | 0% | 0% | 0% | 0% | 0 | high |
 | Zu Peshawar (TransPeshawar BRT) | DR03A | Dabgari Gardens - Kohat Adda | operational | 10 | 20% | 0% | 40% | 0% | 40% | 0 | high |
@@ -1729,6 +1785,11 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | System | Route | Name | Status | Stops | Exact | Guide | Matched | Geocoded | Estimated | Missing | Stop list confidence |
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
 | Abbottabad Pink Bus (women only) | pink-bus-atd | Mansehra Bus Stop - Frontier Medical College | suspended | 20 | 0% | 0% | 0% | 40% | 50% | 2 | medium |
+| Abbottabad local Suzuki / Carry routes | ATD-SF-NATHIAGALI | Spring Field Adda (Abbottabad) - Nathia Gali | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Abbottabad local Suzuki / Carry routes | ATD-SF-KALABAGH | Spring Field Adda (Abbottabad) - Kala Bagh (Galiyat) | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Abbottabad local Suzuki / Carry routes | ATD-LOCAL-SHERWAN | Abbottabad - Sherwan | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Abbottabad local Suzuki / Carry routes | ATD-LOCAL-HAVELIAN | Abbottabad - Havelian | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
+| Abbottabad local Suzuki / Carry routes | ATD-LOCAL-QALANDARABAD | Abbottabad - Qalandarabad | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
 
 ## Mardan
 
@@ -2003,7 +2064,7 @@ These routes have the most stops without a verified position. Adding real coordi
 | Karachi | Minibus and coach routes (2010 list) | 52-A | 16 | 0 | 9 |
 | Quetta | Green Bus Service Quetta (incl. Pink Bus) | GB-1 | 17 | 2 | 7 |
 | Lahore | Lahore city wagon / minibus routes (LOV) | LOV-103 | 16 | 3 | 5 |
-| Peshawar | Zu Peshawar (TransPeshawar BRT) | DR13 | 13 | 3 | 5 |
+| Peshawar | Peshawar CNG 14-seat vehicle routes (notified 2011) | CNG-3 | 15 | 1 | 7 |
 
 ## Build warnings
 
@@ -2368,8 +2429,92 @@ These routes have the most stops without a verified position. Adding real coordi
 - rawalpindi-pma-feeder-planned/PMA-RWP-1: fewer than 2 located stops, listed without a map line
 - rawalpindi-pma-feeder-planned/PMA-RWP-5: 1 stop(s) without coordinates are left out of the map
 - rawalpindi-pma-feeder-planned/PMA-RWP-5: fewer than 2 located stops, listed without a map line
-- peshawar-private-wagons/haji-camp-kohat-adda: 1 stop(s) without coordinates are left out of the map
-- peshawar-private-wagons/haji-camp-kohat-adda: fewer than 2 located stops, listed without a map line
+- peshawar-cng-routes-2011/CNG-3: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-01: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-01: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-04: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-04: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-05: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-05: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-06: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-06: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-07: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-07: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-08: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-08: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-09: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-09: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-10: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-10: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-11: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-11: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-12: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-12: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-14: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-14: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-16: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-16: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-18: located stops are too close together to draw a line; listed as information only
+- peshawar-private-wagons/RTA-PSH-19: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-19: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-20: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-20: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-21: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-21: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-22: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-22: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-23: 2 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-23: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-24: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-24: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-25: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-25: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-26: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-26: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-27: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-27: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-28: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-28: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-32: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-32: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-33: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-33: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-35: 2 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-35: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-36: 2 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-36: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-37: 2 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-37: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-38: 2 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-38: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-39: 2 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-39: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-40: 2 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-40: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-43: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-43: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-44: 2 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-44: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-45: 2 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-45: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-46: 2 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-46: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-47: 2 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-47: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-48: 2 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-48: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-49: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-49: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-50: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-50: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-51: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-51: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-52: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-52: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-53: 1 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-53: fewer than 2 located stops, listed without a map line
+- peshawar-private-wagons/RTA-PSH-54: 2 stop(s) without coordinates are left out of the map
+- peshawar-private-wagons/RTA-PSH-54: fewer than 2 located stops, listed without a map line
 - peshawar-zu-brt/DR03B: 2 stop(s) without coordinates are left out of the map
 - peshawar-zu-brt/ER12: 1 stop(s) without coordinates are left out of the map
 - peshawar-zu-brt/DR13: 3 stop(s) without coordinates are left out of the map
@@ -2584,6 +2729,16 @@ These routes have the most stops without a verified position. Adding real coordi
 - quetta-green-bus/KUCHLAK: fewer than 2 located stops, listed without a map line
 - quetta-green-bus/GL-CARDIO: 7 stop(s) without coordinates are left out of the map
 - abbottabad-pink-bus/pink-bus-atd: 2 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-SF-NATHIAGALI: 2 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-SF-NATHIAGALI: fewer than 2 located stops, listed without a map line
+- abbottabad-private-wagons/ATD-SF-KALABAGH: 2 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-SF-KALABAGH: fewer than 2 located stops, listed without a map line
+- abbottabad-private-wagons/ATD-LOCAL-SHERWAN: 2 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-LOCAL-SHERWAN: fewer than 2 located stops, listed without a map line
+- abbottabad-private-wagons/ATD-LOCAL-HAVELIAN: 2 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-LOCAL-HAVELIAN: fewer than 2 located stops, listed without a map line
+- abbottabad-private-wagons/ATD-LOCAL-QALANDARABAD: 2 stop(s) without coordinates are left out of the map
+- abbottabad-private-wagons/ATD-LOCAL-QALANDARABAD: fewer than 2 located stops, listed without a map line
 - jhang-private-wagons/pciip-satellite-rail-bazar: 1 stop(s) without coordinates are left out of the map
 - jhang-private-wagons/pciip-satellite-rail-bazar: fewer than 2 located stops, listed without a map line
 - jhang-private-wagons/pciip-daewoo-ayub: 1 stop(s) without coordinates are left out of the map

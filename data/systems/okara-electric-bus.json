@@ -63,8 +63,11 @@
       "status": "operational",
       "launched": "2026-07-16",
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 45,
+      "hours": {
+        "start": "06:00",
+        "end": "21:45"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -210,9 +213,13 @@
         {
           "title": "safar.fyi Okara route",
           "url": "https://www.safar.fyi/okara/transit-lines/etransit-okara%3A318"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Launch reports: Sahiwal Bypass-KFC Bypass and GBS-Shergarh via Akhtarabad; safar also lists GBS Okara-Depalpur (not in launch reports). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Okara to GBS Deepalpur', 17 stops); safar lists service 6:00 AM - 8:00 PM (unverified)."
+      "notes": "Launch reports: Sahiwal Bypass-KFC Bypass and GBS-Shergarh via Akhtarabad; safar also lists GBS Okara-Depalpur (not in launch reports). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Okara to GBS Deepalpur', 17 stops); safar lists service 6:00 AM - 8:00 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "gbs-okara-to-sher-ghar",
@@ -223,8 +230,11 @@
       "status": "operational",
       "launched": "2026-07-16",
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 60,
+      "hours": {
+        "start": "06:00",
+        "end": "21:00"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -402,9 +412,13 @@
         {
           "title": "safar.fyi Okara route",
           "url": "https://www.safar.fyi/okara/transit-lines/etransit-okara%3A323"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Launch reports: Sahiwal Bypass-KFC Bypass and GBS-Shergarh via Akhtarabad; safar also lists GBS Okara-Depalpur (not in launch reports). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Okara to Sher Garh', 21 stops); safar lists service 6:00 AM - 7:20 PM (unverified)."
+      "notes": "Launch reports: Sahiwal Bypass-KFC Bypass and GBS-Shergarh via Akhtarabad; safar also lists GBS Okara-Depalpur (not in launch reports). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Okara to Sher Garh', 21 stops); safar lists service 6:00 AM - 7:20 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "sahiwal-bypass-to-kfc-bypass",
@@ -415,8 +429,11 @@
       "status": "operational",
       "launched": "2026-07-16",
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 25,
+      "hours": {
+        "start": "06:00",
+        "end": "21:50"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -546,9 +563,13 @@
         {
           "title": "safar.fyi Okara route",
           "url": "https://www.safar.fyi/okara/transit-lines/etransit-okara%3A319"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Launch reports: Sahiwal Bypass-KFC Bypass and GBS-Shergarh via Akhtarabad; safar also lists GBS Okara-Depalpur (not in launch reports). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Sahiwal Bypass Okara to KFC Bypass Okara', 16 stops); safar lists service 6:00 AM - 9:25 PM (unverified)."
+      "notes": "Launch reports: Sahiwal Bypass-KFC Bypass and GBS-Shergarh via Akhtarabad; safar also lists GBS Okara-Depalpur (not in launch reports). No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Sahiwal Bypass Okara to KFC Bypass Okara', 16 stops); safar lists service 6:00 AM - 9:25 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "gbs-okara-to-fatehpur",
@@ -559,10 +580,10 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": 50,
+      "headway_min": 48,
       "hours": {
         "start": "06:00",
-        "end": "21:00"
+        "end": "21:37"
       },
       "fare_override": null,
       "women_only": false,
@@ -717,9 +738,13 @@
         {
           "title": "eTransit Punjab (PMA) route planner, line 59, route 529 'GBS Okara to Fatehpur' (get-line-schedules, forward direction, fetched 2026-09-24)",
           "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "Official PMA/eTransit stop list, forward direction 'GBS Okara to Fatehpur' (18 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 0 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. New 4th Okara route, not in the earlier safar.fyi-based data."
+      "notes": "Official PMA/eTransit stop list, forward direction 'GBS Okara to Fatehpur' (18 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 0 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. New 4th Okara route, not in the earlier safar.fyi-based data. Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     }
   ]
 }

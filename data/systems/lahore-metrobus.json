@@ -78,7 +78,10 @@
       "launched": "2013-02-11",
       "length_km": 27,
       "headway_min": 3,
-      "hours": null,
+      "hours": {
+        "start": "06:00",
+        "end": "21:59"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "high",
@@ -312,9 +315,13 @@
         {
           "title": "Safar - Metro Bus",
           "url": "https://www.safar.fyi/lahore/transit-lines/lhr%3Apma-lahore-2"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "27 stations; order agrees across PMA, Wikipedia and Safar. Called 'Green Line' in Dawn/ProPakistani; no official hex colour. Wikipedia: peak headway under 2 min (headway_min=3 is an approximation); Safar corridor timetable shows ~10 min off-peak. Coordinates: station ways (Bhatti Chowk to Canal) or PMA-tagged OSM bus_stop nodes for the at-grade/other stations, not platform centroids."
+      "notes": "27 stations; order agrees across PMA, Wikipedia and Safar. Called 'Green Line' in Dawn/ProPakistani; no official hex colour. Wikipedia: peak headway under 2 min (headway_min=3 is an approximation); Safar corridor timetable shows ~10 min off-peak. Coordinates: station ways (Bhatti Chowk to Canal) or PMA-tagged OSM bus_stop nodes for the at-grade/other stations, not platform centroids. Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     }
   ]
 }

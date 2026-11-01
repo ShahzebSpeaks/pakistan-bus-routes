@@ -49,8 +49,11 @@
       "status": "operational",
       "launched": "2026-07-31",
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 24,
+      "hours": {
+        "start": "06:00",
+        "end": "21:12"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -212,9 +215,13 @@
         {
           "title": "safar.fyi Kasur route",
           "url": "https://www.safar.fyi/kasur/transit-lines/etransit-kasur%3Aetransit-69-430"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "11 buses; GBS-Kacha Paka and GBS-Gajju Matta. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS KASUR to Gujjumata', 19 stops); safar lists service 6:00 AM - 9:30 PM (unverified)."
+      "notes": "11 buses; GBS-Kacha Paka and GBS-Gajju Matta. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS KASUR to Gujjumata', 19 stops); safar lists service 6:00 AM - 9:30 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "gbs-kasur-to-kacha-paka",
@@ -225,8 +232,11 @@
       "status": "operational",
       "launched": "2026-07-31",
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 40,
+      "hours": {
+        "start": "06:00",
+        "end": "20:40"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -372,9 +382,13 @@
         {
           "title": "safar.fyi Kasur route",
           "url": "https://www.safar.fyi/kasur/transit-lines/etransit-kasur%3Aetransit-69-429"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "11 buses; GBS-Kacha Paka and GBS-Gajju Matta. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS KASUR to Kacha Pakka', 17 stops); safar lists service 6:00 AM - 10:05 PM (unverified)."
+      "notes": "11 buses; GBS-Kacha Paka and GBS-Gajju Matta. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS KASUR to Kacha Pakka', 17 stops); safar lists service 6:00 AM - 10:05 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     }
   ]
 }

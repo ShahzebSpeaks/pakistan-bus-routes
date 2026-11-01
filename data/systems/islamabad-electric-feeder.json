@@ -1874,7 +1874,7 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
+      "headway_min": 12,
       "hours": {
         "start": "06:00",
         "end": "22:00"
@@ -2120,9 +2120,13 @@
         {
           "title": "CDA Announces Two New Routes for Islamabad Electric Buses",
           "url": "https://propakistani.pk/2025/09/23/cda-announces-two-new-routes-for-islamabads-electric-buses/"
+        },
+        {
+          "title": "Three Islamabad electric bus routes now every 12 minutes (TechJuice, Sep 2026)",
+          "url": "https://www.techjuice.pk/?p=251552"
         }
       ],
-      "notes": "On CDA map V-08 (\"Khana Pul to Nilore\"); not in CDA timetable table. Announced Sep 2025 (Nilore - Khanna Pul). Stops from Safar (28)."
+      "notes": "On CDA map V-08 (\"Khana Pul to Nilore\"); not in CDA timetable table. Announced Sep 2025 (Nilore - Khanna Pul). Stops from Safar (28). Every 12 minutes from 3 September 2026 (news report)."
     },
     {
       "id": "FR-08C",
@@ -2352,7 +2356,7 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": 15,
+      "headway_min": 12,
       "hours": {
         "start": "06:00",
         "end": "22:00"
@@ -2594,13 +2598,17 @@
         {
           "title": "Electric buses on two more routes from next week",
           "url": "https://www.dawn.com/news/1851233"
+        },
+        {
+          "title": "Three Islamabad electric bus routes now every 12 minutes (TechJuice, Sep 2026)",
+          "url": "https://www.techjuice.pk/?p=251552"
         }
       ],
-      "notes": "Launched Aug 2024 as Faizabad - Peshawar Road/Pirwadhai Morr (IJP Road); later extended to Khanna Pul and Golra Morh. CDA timetable 27 stops, 15 min headway; Safar agrees."
+      "notes": "Launched Aug 2024 as Faizabad - Peshawar Road/Pirwadhai Morr (IJP Road); later extended to Khanna Pul and Golra Morh. CDA timetable 27 stops, 15 min headway; Safar agrees. Every 12 minutes from 3 September 2026 (news report)."
     },
     {
       "id": "FR-10",
-      "name": "Golra Morh Metro Station - Taxila (via G-11, F-11, E-11, D-12, Sangjani, B-17)",
+      "name": "Golra Morh Metro Station - B-17 (via G-11, F-11, E-11, D-12, Sangjani)",
       "name_ur": "",
       "variant": "electric",
       "color": null,
@@ -2775,46 +2783,6 @@
           "lon": 72.83487,
           "coord_source": "ext:safar.fyi:1:fr_10",
           "is_station": false
-        },
-        {
-          "name": "Margalla",
-          "name_ur": "",
-          "lat": 33.703905,
-          "lon": 72.824407,
-          "coord_source": "ext:safar.fyi:1:fr_10",
-          "is_station": false
-        },
-        {
-          "name": "Taxila Bypass",
-          "name_ur": "",
-          "lat": 33.714678,
-          "lon": 72.814733,
-          "coord_source": "auto:interpolated",
-          "is_station": false
-        },
-        {
-          "name": "Wahdat Colony",
-          "name_ur": "",
-          "lat": 33.725451,
-          "lon": 72.805059,
-          "coord_source": "ext:safar.fyi:1:fr_10",
-          "is_station": false
-        },
-        {
-          "name": "Timber Market",
-          "name_ur": "",
-          "lat": 33.730777,
-          "lon": 72.804339,
-          "coord_source": "ext:safar.fyi:1:fr_10",
-          "is_station": false
-        },
-        {
-          "name": "Taxila",
-          "name_ur": "ٹیکسلا",
-          "lat": 33.742279,
-          "lon": 72.81452,
-          "coord_source": "auto:osm:node/2432186144",
-          "is_station": false
         }
       ],
       "sources": [
@@ -2829,9 +2797,13 @@
         {
           "title": "Safar route page",
           "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_10"
+        },
+        {
+          "title": "Islamabad changes two feeder bus routes (ProPakistani, 20 Oct 2026)",
+          "url": "https://propakistani.pk/2026/10/20/islamabad-changes-two-feeder-bus-routes/"
         }
       ],
-      "notes": "Jan 2025 launch as Golra Morh - B-17 via Tarnol; now to Taxila. CDA map describes FR-10 \"via N5\" but the CDA timetable (and Safar) route runs via Margalla Road/D-12/Sangjani. CDA timetable 25 stops, 50-60 min headway; Safar adds C-14/C-15/C-16 and G-13/4 stops. Taxila section outside Islamabad."
+      "notes": "Jan 2025 launch as Golra Morh - B-17 via Tarnol; now to Taxila. CDA map describes FR-10 \"via N5\" but the CDA timetable (and Safar) route runs via Margalla Road/D-12/Sangjani. CDA timetable 25 stops, 50-60 min headway; Safar adds C-14/C-15/C-16 and G-13/4 stops. Taxila section outside Islamabad. From 20 October 2026 the route ends at B-17 instead of Taxila (news report); the stops beyond B-17 (Margalla, Taxila Bypass, Wahdat Colony, Timber Market, Taxila) were removed."
     },
     {
       "id": "FR-11",
@@ -3277,7 +3249,7 @@
       "name_ur": "",
       "variant": "electric",
       "color": null,
-      "status": "operational",
+      "status": "suspended",
       "launched": null,
       "length_km": null,
       "headway_min": 60,
@@ -3542,9 +3514,13 @@
         {
           "title": "Electric bus service starts between Fatehjang and Islamabad",
           "url": "https://www.dawn.com/news/1899679"
+        },
+        {
+          "title": "Islamabad changes two feeder bus routes (ProPakistani, 20 Oct 2026)",
+          "url": "https://propakistani.pk/2026/10/20/islamabad-changes-two-feeder-bus-routes/"
         }
       ],
-      "notes": "Inaugurated at Fatehjang c. 22 Mar 2025 (Dawn 23 Mar 2025). CDA timetable 29 stops (map V-08 numbered list has 31 incl. Islamabad Toll Plaza, Qutbal Toll Plaza), hourly 06:00-19:15."
+      "notes": "Inaugurated at Fatehjang c. 22 Mar 2025 (Dawn 23 Mar 2025). CDA timetable 29 stops (map V-08 numbered list has 31 incl. Islamabad Toll Plaza, Qutbal Toll Plaza), hourly 06:00-19:15. Discontinued from 20 October 2026 (news report; CDA has not updated its route PDF)."
     },
     {
       "id": "FR-14",
@@ -3555,7 +3531,7 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": 15,
+      "headway_min": 12,
       "hours": {
         "start": "06:00",
         "end": "22:00"
@@ -3729,9 +3705,13 @@
         {
           "title": "Safar route page",
           "url": "https://www.safar.fyi/islamabad/transit-lines/1%3Afr_14"
+        },
+        {
+          "title": "Three Islamabad electric bus routes now every 12 minutes (TechJuice, Sep 2026)",
+          "url": "https://www.techjuice.pk/?p=251552"
         }
       ],
-      "notes": "CDA timetable 19 stops, 15 min headway; Safar agrees (adds Bari Imam Link Road, Rawal Chowk, Dhok Kala Khan)."
+      "notes": "CDA timetable 19 stops, 15 min headway; Safar agrees (adds Bari Imam Link Road, Rawal Chowk, Dhok Kala Khan). Every 12 minutes from 3 September 2026 (news report)."
     },
     {
       "id": "FR-14A",

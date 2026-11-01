@@ -49,8 +49,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 53,
+      "hours": {
+        "start": "06:00",
+        "end": "20:08"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -220,9 +223,13 @@
         {
           "title": "safar.fyi Pakpattan route",
           "url": "https://www.safar.fyi/pakpattan/transit-lines/pkp%3A90"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "No dated launch report found; routes from safar.fyi only. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Old to GBS Arifwala', 20 stops); safar lists service 6:00 AM - 8:08 PM (unverified)."
+      "notes": "No dated launch report found; routes from safar.fyi only. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Old to GBS Arifwala', 20 stops); safar lists service 6:00 AM - 8:08 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "gbs-pakpattan-to-bunga-hayat",
@@ -233,8 +240,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 45,
+      "hours": {
+        "start": "06:00",
+        "end": "20:15"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -356,9 +366,13 @@
         {
           "title": "safar.fyi Pakpattan route",
           "url": "https://www.safar.fyi/pakpattan/transit-lines/pkp%3A89"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "No dated launch report found; routes from safar.fyi only. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Old to PSO Pump Bunga Hayat', 14 stops); safar lists service 6:00 AM - 8:15 PM (unverified)."
+      "notes": "No dated launch report found; routes from safar.fyi only. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Old to PSO Pump Bunga Hayat', 14 stops); safar lists service 6:00 AM - 8:15 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     },
     {
       "id": "gbs-pakpattan-to-noorpur",
@@ -369,8 +383,11 @@
       "status": "operational",
       "launched": null,
       "length_km": null,
-      "headway_min": null,
-      "hours": null,
+      "headway_min": 45,
+      "hours": {
+        "start": "06:00",
+        "end": "20:15"
+      },
       "fare_override": null,
       "women_only": false,
       "stops_confidence": "medium",
@@ -484,9 +501,13 @@
         {
           "title": "safar.fyi Pakpattan route",
           "url": "https://www.safar.fyi/pakpattan/transit-lines/pkp%3A88"
+        },
+        {
+          "title": "Official timetable (eTransit, 2026-10-23)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
         }
       ],
-      "notes": "No dated launch report found; routes from safar.fyi only. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Old to Noorpur', 13 stops); safar lists service 6:00 AM - 8:15 PM (unverified)."
+      "notes": "No dated launch report found; routes from safar.fyi only. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'GBS Old to Noorpur', 13 stops); safar lists service 6:00 AM - 8:15 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
     }
   ]
 }
