@@ -50,6 +50,8 @@ Some routes and stop positions come from unofficial compilations. They are credi
 
 - **Old official Karachi lists** (read from web.archive.org copies): the City District Government Karachi "Bus Routes" page of 2007, with 86 routes (system `karachi-cdgk-2007`, old routes only), and the Karachi Green Bus fare charts of 2005 (`karachi-green-bus-2005`).
 - **Khyber Pakhtunkhwa Transport Department**: the RTA Peshawar fare table of 1 April 2024, giving 52 routes with their ends and fares, and the 2011 CNG route notification (`peshawar-cng-routes-2011`, old routes only).
+- **Newspaper reports of RTA decisions**: Dawn's 2002-03 reports of District RTA Karachi decisions (system `karachi-drta-notices-2002`, old routes only), the RTA Hazara 2026 Suzuki fare notice as reported by APP (Abbottabad), and RTA Rawalpindi decisions reported by Dawn.
+- **Karachi Red Bus, EV and Pink bus timings** come from news reports and guides (BOL, Dawn, redbus.shop and others). SMTA publishes no timetable.
 - **Hours and frequencies** for Punjab and Islamabad metro, feeder and e-bus routes come from the PMA eTransit timetable for 23 October 2026.
 - **Capital Development Authority (CDA), Islamabad**: electric feeder routes, stops and timetables from CDA's published route timetables. CDA's website terms prohibit reproduction without authorisation; the project owner obtained CDA's permission to reuse this data (2026).
 
