@@ -138,7 +138,7 @@ export function RouteList({ data, lang, t, systemFilter, showInactive, onSystemF
                     <span className="route-row-main">
                       <span className="route-name">{localName(lang, r)}</span>
                       <span className="route-sub">
-                        {num(lang, r.stops.length)} {t.stops}
+                        {num(lang, r.stops.length)} {r.stops.length === 1 ? t.stop : t.stops}
                         {r.length_km ? `${t.sep}${num(lang, r.length_km)} ${t.km}` : ''}
                         {r.women_only ? `${t.sep}${t.womenOnlyBadge}` : ''}
                       </span>
@@ -278,7 +278,7 @@ export function RouteDetail({ data, route, lang, t, selectedStopId, onBack, onSt
       {!route.shape && <p className="note warn">{t.noMapLine}</p>}
       {approxStops > 0 && (
         <p className="note warn">
-          ◌ {num(lang, approxStops)} {t.stops}: {t.estimated}
+          ◌ {num(lang, approxStops)} {approxStops === 1 ? t.stop : t.stops}: {t.estimated}
         </p>
       )}
 

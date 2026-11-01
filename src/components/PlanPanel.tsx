@@ -116,7 +116,7 @@ export default function PlanPanel(p: Props) {
                               </div>
                               <details>
                                 <summary>
-                                  {num(lang, leg.stopIds.length - 1)} {t.stops}{t.sep}{num(lang, leg.km.toFixed(1))} {t.km}{t.sep}{fmtMinutes(t, lang, leg.minutes)}
+                                  {num(lang, leg.stopIds.length - 1)} {leg.stopIds.length - 1 === 1 ? t.stop : t.stops}{t.sep}{num(lang, leg.km.toFixed(1))} {t.km}{t.sep}{fmtMinutes(t, lang, leg.minutes)}
                                   {leg.fare != null && `${t.sep}${leg.fareExact ? '' : '~'}${t.rs} ${num(lang, leg.fare)}`}
                                 </summary>
                                 <ol className="mini-stops">
