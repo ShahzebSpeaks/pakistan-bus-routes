@@ -1,0 +1,7297 @@
+[
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-01",
+    "cda_short_name": "FR-01",
+    "direction": "forward",
+    "from": "Nust Metro Station",
+    "to": "MCI Model School",
+    "departures": [
+      "06:00",
+      "07:00",
+      "08:00",
+      "09:00",
+      "10:00",
+      "11:00",
+      "12:00",
+      "13:00",
+      "14:00",
+      "15:00",
+      "16:00",
+      "17:00",
+      "18:00",
+      "19:00",
+      "20:00",
+      "21:00",
+      "22:00"
+    ],
+    "trips": 17,
+    "first": "06:00",
+    "last": "22:00",
+    "headway_min": 60,
+    "headway_peak_min": 60,
+    "headway_offpeak_min": 60,
+    "headway_range_min": [
+      60.0,
+      60.0
+    ],
+    "journey_min": 45.0,
+    "last_arrival": "22:45",
+    "stop_count": 17,
+    "stop_offsets_min": [
+      {
+        "stop": "Nust Metro Station",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Police Foundation Metro Station",
+        "minutes": 1.8
+      },
+      {
+        "stop": "NPA Stop",
+        "minutes": 4.7
+      },
+      {
+        "stop": "Islamic University",
+        "minutes": 7.3
+      },
+      {
+        "stop": "FAST University",
+        "minutes": 10.3
+      },
+      {
+        "stop": "PAEC General Hospital",
+        "minutes": 13.0
+      },
+      {
+        "stop": "IMC Hospital",
+        "minutes": 15.1
+      },
+      {
+        "stop": "Metro CNC",
+        "minutes": 17.8
+      },
+      {
+        "stop": "Sabzi Mandi",
+        "minutes": 19.4
+      },
+      {
+        "stop": "Mandi Morh",
+        "minutes": 22.2
+      },
+      {
+        "stop": "Kurang Road Stop",
+        "minutes": 24.0
+      },
+      {
+        "stop": "IESCO",
+        "minutes": 26.0
+      },
+      {
+        "stop": "PTCL I-10",
+        "minutes": 27.8
+      },
+      {
+        "stop": "Sui Gas Stop",
+        "minutes": 29.6
+      },
+      {
+        "stop": "OGTI Stop",
+        "minutes": 35.4
+      },
+      {
+        "stop": "CDA Complain Center",
+        "minutes": 39.6
+      },
+      {
+        "stop": "MCI Model School",
+        "minutes": 45.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-01_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "PDF Forward is a truncated 17-stop pattern NUST Metro Station -> MCI Model School, although the PDF long name is \"Khana Pul to NUST\" and Backward runs the full 26 stops Khanna Pul -> NUST. Forward is probably incomplete; the data route uses the 26-stop order. Same running times on every trip (template schedule). CDA header: route_id 10001, long name \"Khana Pul to NUST\", total trips 17, average headway 60 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-01",
+    "cda_short_name": "FR-01",
+    "direction": "backward",
+    "from": "Khanna Pul",
+    "to": "Nust Metro Station",
+    "departures": [
+      "07:15",
+      "08:15",
+      "09:15",
+      "10:15",
+      "11:15",
+      "12:15",
+      "13:15",
+      "14:15",
+      "15:15",
+      "16:15",
+      "17:15",
+      "18:15",
+      "19:15",
+      "20:15",
+      "21:15",
+      "22:00"
+    ],
+    "trips": 16,
+    "first": "07:15",
+    "last": "22:00",
+    "headway_min": 60,
+    "headway_peak_min": 60,
+    "headway_offpeak_min": 60,
+    "headway_range_min": [
+      45.0,
+      60.0
+    ],
+    "journey_min": 58.2,
+    "last_arrival": "22:58",
+    "stop_count": 26,
+    "stop_offsets_min": [
+      {
+        "stop": "Khanna Pul",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Zia Masjid",
+        "minutes": 2.8
+      },
+      {
+        "stop": "Kuri Road",
+        "minutes": 5.1
+      },
+      {
+        "stop": "Iqbal Town",
+        "minutes": 7.1
+      },
+      {
+        "stop": "Dhok Kala Khan",
+        "minutes": 9.1
+      },
+      {
+        "stop": "Sohan",
+        "minutes": 11.1
+      },
+      {
+        "stop": "Faizabad",
+        "minutes": 14.1
+      },
+      {
+        "stop": "IJP Metro Station",
+        "minutes": 16.6
+      },
+      {
+        "stop": "Potohar Metro Station",
+        "minutes": 21.2
+      },
+      {
+        "stop": "MCI Model School",
+        "minutes": 23.4
+      },
+      {
+        "stop": "CDA Complain Center",
+        "minutes": 25.4
+      },
+      {
+        "stop": "OGTI Stop",
+        "minutes": 27.6
+      },
+      {
+        "stop": "Sui Gas Stop",
+        "minutes": 29.2
+      },
+      {
+        "stop": "PTCL I-10",
+        "minutes": 31.7
+      },
+      {
+        "stop": "IESCO",
+        "minutes": 33.6
+      },
+      {
+        "stop": "Kurang Road",
+        "minutes": 36.2
+      },
+      {
+        "stop": "Mandi Morh",
+        "minutes": 39.2
+      },
+      {
+        "stop": "Sabzi Mandi",
+        "minutes": 40.7
+      },
+      {
+        "stop": "Metro CNC",
+        "minutes": 43.4
+      },
+      {
+        "stop": "IMC Hospital",
+        "minutes": 46.1
+      },
+      {
+        "stop": "PAEC General Hospital",
+        "minutes": 47.2
+      },
+      {
+        "stop": "Islamic University",
+        "minutes": 50.1
+      },
+      {
+        "stop": "FAST University",
+        "minutes": 51.4
+      },
+      {
+        "stop": "NPA",
+        "minutes": 53.6
+      },
+      {
+        "stop": "Police Foundation Metro Station",
+        "minutes": 55.7
+      },
+      {
+        "stop": "Nust Metro Station",
+        "minutes": 58.2
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-01_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "Same running times on every trip (template schedule). CDA header: route_id 10001, long name \"Khana Pul to NUST\", total trips 16, average headway 60 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-03A",
+    "cda_short_name": "FR-03A",
+    "direction": "forward",
+    "from": "PIMS Hospital",
+    "to": "Flower Market",
+    "departures": [
+      "06:00",
+      "06:10",
+      "06:20",
+      "06:30",
+      "06:40",
+      "06:50",
+      "07:00",
+      "07:10",
+      "07:20",
+      "07:30",
+      "07:40",
+      "07:50",
+      "08:00",
+      "08:10",
+      "08:20",
+      "08:30",
+      "08:40",
+      "08:50",
+      "09:00",
+      "09:10",
+      "09:20",
+      "09:30",
+      "09:40",
+      "09:50",
+      "10:00",
+      "10:10",
+      "10:20",
+      "10:30",
+      "10:40",
+      "10:50",
+      "11:00",
+      "11:10",
+      "11:20",
+      "11:30",
+      "11:40",
+      "11:50",
+      "12:00",
+      "12:10",
+      "12:20",
+      "12:30",
+      "12:40",
+      "12:50",
+      "13:00",
+      "13:10",
+      "13:20",
+      "13:30",
+      "13:40",
+      "13:50",
+      "14:00",
+      "14:10",
+      "14:20",
+      "14:30",
+      "14:40",
+      "14:50",
+      "15:00",
+      "15:10",
+      "15:20",
+      "15:30",
+      "15:40",
+      "15:50",
+      "16:00",
+      "16:10",
+      "16:20",
+      "16:30",
+      "16:40",
+      "16:50",
+      "17:00",
+      "17:10",
+      "17:20",
+      "17:30",
+      "17:40",
+      "17:50",
+      "18:00",
+      "18:10",
+      "18:20",
+      "18:30",
+      "18:40",
+      "18:50",
+      "19:00",
+      "19:10",
+      "19:20",
+      "19:30",
+      "19:40",
+      "19:50",
+      "20:00",
+      "20:10",
+      "20:20",
+      "20:30",
+      "20:40",
+      "20:50",
+      "21:00",
+      "21:10",
+      "21:20",
+      "21:30",
+      "21:40",
+      "21:50",
+      "22:00"
+    ],
+    "trips": 97,
+    "first": "06:00",
+    "last": "22:00",
+    "headway_min": 10,
+    "headway_peak_min": 10,
+    "headway_offpeak_min": 10,
+    "headway_range_min": [
+      10.0,
+      10.0
+    ],
+    "journey_min": 30.0,
+    "last_arrival": "22:30",
+    "stop_count": 13,
+    "stop_offsets_min": [
+      {
+        "stop": "PIMS Hospital",
+        "minutes": 0.0
+      },
+      {
+        "stop": "PIMS Metro Station",
+        "minutes": 2.3
+      },
+      {
+        "stop": "Katchery",
+        "minutes": 6.3
+      },
+      {
+        "stop": "F-8 Markaz",
+        "minutes": 8.4
+      },
+      {
+        "stop": "F-9 Park",
+        "minutes": 10.8
+      },
+      {
+        "stop": "Shaheen Chowk",
+        "minutes": 12.5
+      },
+      {
+        "stop": "Bahria University",
+        "minutes": 15.8
+      },
+      {
+        "stop": "Naval Complex",
+        "minutes": 17.9
+      },
+      {
+        "stop": "Faisal Masjid",
+        "minutes": 21.2
+      },
+      {
+        "stop": "Parveen Shakir Road",
+        "minutes": 24.2
+      },
+      {
+        "stop": "Kohsar Road",
+        "minutes": 26.2
+      },
+      {
+        "stop": "F-7 Markaz",
+        "minutes": 28.4
+      },
+      {
+        "stop": "Flower Market",
+        "minutes": 30.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-03A_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "PDF still shows the older PIMS Hospital <-> Flower Market pattern (13 stops; header long name \"PIMS Hospital to Faisal Masjid\"). CDA route table / map V-08 and our data describe PIMS - Saidpur Village, so the stop list is outdated. PDF headway ~10 min vs data 20. Same running times on every trip (template schedule). CDA header: route_id 10003, long name \"PIMS Hospital to Faisal Masjid\", total trips 97, average headway 10 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-03A",
+    "cda_short_name": "FR-03A",
+    "direction": "backward",
+    "from": "Flower Market",
+    "to": "PIMS Hospital",
+    "departures": [
+      "06:40",
+      "06:50",
+      "07:00",
+      "07:10",
+      "07:20",
+      "07:30",
+      "07:40",
+      "07:50",
+      "08:00",
+      "08:10",
+      "08:20",
+      "08:30",
+      "08:40",
+      "08:50",
+      "09:00",
+      "09:10",
+      "09:20",
+      "09:30",
+      "09:40",
+      "09:50",
+      "10:10",
+      "10:20",
+      "10:30",
+      "10:40",
+      "10:50",
+      "11:00",
+      "11:10",
+      "11:20",
+      "11:30",
+      "11:40",
+      "11:50",
+      "12:00",
+      "12:10",
+      "12:20",
+      "12:30",
+      "12:40",
+      "12:50",
+      "13:00",
+      "13:10",
+      "13:20",
+      "13:30",
+      "13:40",
+      "13:50",
+      "14:00",
+      "14:20",
+      "14:30",
+      "14:40",
+      "14:50",
+      "15:00",
+      "15:10",
+      "15:20",
+      "15:30",
+      "15:40",
+      "15:50",
+      "16:00",
+      "16:10",
+      "16:20",
+      "16:30",
+      "16:40",
+      "16:50",
+      "17:00",
+      "17:10",
+      "17:20",
+      "17:30",
+      "17:40",
+      "17:50",
+      "18:00",
+      "18:10",
+      "18:30",
+      "18:40",
+      "18:50",
+      "19:00",
+      "19:10",
+      "19:20",
+      "19:30",
+      "19:40",
+      "19:50",
+      "20:00",
+      "20:10",
+      "20:20",
+      "20:30",
+      "20:40",
+      "20:50",
+      "21:00",
+      "21:10",
+      "21:20",
+      "21:30",
+      "21:40",
+      "21:50",
+      "22:00"
+    ],
+    "trips": 90,
+    "first": "06:40",
+    "last": "22:00",
+    "headway_min": 10,
+    "headway_peak_min": 10,
+    "headway_offpeak_min": 10,
+    "headway_range_min": [
+      10.0,
+      20.0
+    ],
+    "journey_min": 30.0,
+    "last_arrival": "22:30",
+    "stop_count": 13,
+    "stop_offsets_min": [
+      {
+        "stop": "Flower Market",
+        "minutes": 0.0
+      },
+      {
+        "stop": "F-7 Markaz",
+        "minutes": 1.6
+      },
+      {
+        "stop": "Kohsar Road",
+        "minutes": 4.1
+      },
+      {
+        "stop": "Parveen Shakir Road",
+        "minutes": 6.1
+      },
+      {
+        "stop": "Faisal Masjid",
+        "minutes": 9.4
+      },
+      {
+        "stop": "Naval Complex",
+        "minutes": 12.1
+      },
+      {
+        "stop": "Bahria University",
+        "minutes": 13.6
+      },
+      {
+        "stop": "Shaheen Chowk",
+        "minutes": 16.8
+      },
+      {
+        "stop": "F-9 Park",
+        "minutes": 17.8
+      },
+      {
+        "stop": "F-8 Markaz",
+        "minutes": 20.2
+      },
+      {
+        "stop": "Katchery",
+        "minutes": 21.8
+      },
+      {
+        "stop": "PIMS Metro Station",
+        "minutes": 24.9
+      },
+      {
+        "stop": "PIMS Hospital",
+        "minutes": 30.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-03A_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "PDF still shows the older PIMS Hospital <-> Flower Market pattern (13 stops; header long name \"PIMS Hospital to Faisal Masjid\"). CDA route table / map V-08 and our data describe PIMS - Saidpur Village, so the stop list is outdated. PDF headway ~10 min vs data 20. Same running times on every trip (template schedule). CDA header: route_id 10003, long name \"PIMS Hospital to Faisal Masjid\", total trips 90, average headway 10 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-04",
+    "cda_short_name": "FR-04",
+    "direction": "forward",
+    "from": "PIMS Hospital",
+    "to": "Bari Imam",
+    "departures": [
+      "06:00",
+      "06:10",
+      "06:20",
+      "06:30",
+      "06:40",
+      "06:50",
+      "07:00",
+      "07:10",
+      "07:20",
+      "07:30",
+      "07:40",
+      "07:50",
+      "08:00",
+      "08:10",
+      "08:20",
+      "08:30",
+      "08:40",
+      "08:50",
+      "09:00",
+      "09:10",
+      "09:20",
+      "09:30",
+      "09:40",
+      "09:50",
+      "10:00",
+      "10:10",
+      "10:20",
+      "10:30",
+      "10:40",
+      "10:50",
+      "11:00",
+      "11:10",
+      "11:20",
+      "11:30",
+      "11:40",
+      "11:50",
+      "12:00",
+      "12:10",
+      "12:20",
+      "12:30",
+      "12:40",
+      "12:50",
+      "13:00",
+      "13:10",
+      "13:20",
+      "13:30",
+      "13:40",
+      "13:50",
+      "14:00",
+      "14:10",
+      "14:20",
+      "14:30",
+      "14:40",
+      "14:50",
+      "15:00",
+      "15:10",
+      "15:20",
+      "15:30",
+      "15:40",
+      "15:50",
+      "16:00",
+      "16:10",
+      "16:20",
+      "16:30",
+      "16:40",
+      "16:50",
+      "17:00",
+      "17:10",
+      "17:20",
+      "17:30",
+      "17:40",
+      "17:50",
+      "18:00",
+      "18:10",
+      "18:20",
+      "18:30",
+      "18:40",
+      "18:50",
+      "19:00",
+      "19:10",
+      "19:20",
+      "19:30",
+      "19:40",
+      "19:50",
+      "20:00",
+      "20:10",
+      "20:20",
+      "20:30",
+      "20:40",
+      "20:50",
+      "21:00",
+      "21:10",
+      "21:20",
+      "21:30",
+      "21:40",
+      "21:50",
+      "22:00"
+    ],
+    "trips": 97,
+    "first": "06:00",
+    "last": "22:00",
+    "headway_min": 10,
+    "headway_peak_min": 10,
+    "headway_offpeak_min": 10,
+    "headway_range_min": [
+      10.0,
+      10.0
+    ],
+    "journey_min": 55.6,
+    "last_arrival": "22:55",
+    "stop_count": 25,
+    "stop_offsets_min": [
+      {
+        "stop": "PIMS Hospital",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Children Hospital",
+        "minutes": 2.1
+      },
+      {
+        "stop": "Rescue 15",
+        "minutes": 4.2
+      },
+      {
+        "stop": "Bank Colony",
+        "minutes": 6.3
+      },
+      {
+        "stop": "Salai Centre",
+        "minutes": 8.1
+      },
+      {
+        "stop": "Sitara Market",
+        "minutes": 10.2
+      },
+      {
+        "stop": "Pully Stop",
+        "minutes": 13.1
+      },
+      {
+        "stop": "Iqbal Hall",
+        "minutes": 15.2
+      },
+      {
+        "stop": "G-6/1.2",
+        "minutes": 18.8
+      },
+      {
+        "stop": "Melody Market",
+        "minutes": 20.9
+      },
+      {
+        "stop": "Abpara Market",
+        "minutes": 23.8
+      },
+      {
+        "stop": "Youth Hostel",
+        "minutes": 26.1
+      },
+      {
+        "stop": "Metropolitan Corporation",
+        "minutes": 30.8
+      },
+      {
+        "stop": "ICB College",
+        "minutes": 32.8
+      },
+      {
+        "stop": "NADRA Chowk",
+        "minutes": 33.6
+      },
+      {
+        "stop": "Lodges Park",
+        "minutes": 34.9
+      },
+      {
+        "stop": "Sukh Chayn Park",
+        "minutes": 36.3
+      },
+      {
+        "stop": "Ministry of Foreign Affairs",
+        "minutes": 40.6
+      },
+      {
+        "stop": "Radio Pakistan",
+        "minutes": 42.3
+      },
+      {
+        "stop": "National Library",
+        "minutes": 43.9
+      },
+      {
+        "stop": "Secretariate Police Station",
+        "minutes": 44.9
+      },
+      {
+        "stop": "Diplomatic Enclave Gate 4",
+        "minutes": 47.4
+      },
+      {
+        "stop": "Aiwan e Sadar Colony",
+        "minutes": 49.4
+      },
+      {
+        "stop": "Muslim Colony",
+        "minutes": 51.1
+      },
+      {
+        "stop": "Bari Imam",
+        "minutes": 55.6
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-04_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "Same running times on every trip (template schedule). CDA header: route_id 10004, long name \"PIMS Hospital to Bari Amam\", total trips 97, average headway 10 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-04",
+    "cda_short_name": "FR-04",
+    "direction": "backward",
+    "from": "Bari Imam",
+    "to": "PIMS Hospital",
+    "departures": [
+      "06:00",
+      "06:10",
+      "06:20",
+      "06:30",
+      "06:40",
+      "06:50",
+      "07:00",
+      "07:10",
+      "07:20",
+      "07:30",
+      "07:40",
+      "07:50",
+      "08:00",
+      "08:10",
+      "08:20",
+      "08:30",
+      "08:40",
+      "08:50",
+      "09:00",
+      "09:10",
+      "09:20",
+      "09:30",
+      "09:40",
+      "09:50",
+      "10:00",
+      "10:10",
+      "10:20",
+      "10:30",
+      "10:40",
+      "10:50",
+      "11:00",
+      "11:10",
+      "11:20",
+      "11:30",
+      "11:40",
+      "11:50",
+      "12:00",
+      "12:10",
+      "12:20",
+      "12:30",
+      "12:40",
+      "12:50",
+      "13:00",
+      "13:10",
+      "13:20",
+      "13:30",
+      "13:40",
+      "13:50",
+      "14:00",
+      "14:10",
+      "14:20",
+      "14:30",
+      "14:40",
+      "14:50",
+      "15:00",
+      "15:10",
+      "15:20",
+      "15:30",
+      "15:40",
+      "15:50",
+      "16:00",
+      "16:10",
+      "16:20",
+      "16:30",
+      "16:40",
+      "16:50",
+      "17:00",
+      "17:10",
+      "17:20",
+      "17:30",
+      "17:40",
+      "17:50",
+      "18:00",
+      "18:10",
+      "18:20",
+      "18:30",
+      "18:40",
+      "18:50",
+      "19:00",
+      "19:10",
+      "19:20",
+      "19:30",
+      "19:40",
+      "19:50",
+      "20:00",
+      "20:10",
+      "20:20",
+      "20:30",
+      "20:40",
+      "20:50",
+      "21:00",
+      "21:10",
+      "21:20",
+      "21:30",
+      "21:40",
+      "21:50",
+      "22:00"
+    ],
+    "trips": 97,
+    "first": "06:00",
+    "last": "22:00",
+    "headway_min": 10,
+    "headway_peak_min": 10,
+    "headway_offpeak_min": 10,
+    "headway_range_min": [
+      10.0,
+      10.0
+    ],
+    "journey_min": 57.4,
+    "last_arrival": "22:57",
+    "stop_count": 25,
+    "stop_offsets_min": [
+      {
+        "stop": "Bari Imam",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Muslim Colony",
+        "minutes": 1.8
+      },
+      {
+        "stop": "Aiwan e Sadar Colony",
+        "minutes": 5.8
+      },
+      {
+        "stop": "Diplomatic Enclave Gate 4",
+        "minutes": 7.4
+      },
+      {
+        "stop": "Secretariate Police Station",
+        "minutes": 8.5
+      },
+      {
+        "stop": "National Library",
+        "minutes": 11.3
+      },
+      {
+        "stop": "Radio Pakistan",
+        "minutes": 13.0
+      },
+      {
+        "stop": "Ministry of Foreign Affairs",
+        "minutes": 14.8
+      },
+      {
+        "stop": "Sukh Chayn Park",
+        "minutes": 17.6
+      },
+      {
+        "stop": "Lodges Park",
+        "minutes": 19.6
+      },
+      {
+        "stop": "NADRA Chowk",
+        "minutes": 20.9
+      },
+      {
+        "stop": "ICB College",
+        "minutes": 23.8
+      },
+      {
+        "stop": "Metropolitan Corporation",
+        "minutes": 25.1
+      },
+      {
+        "stop": "Youth Hostel",
+        "minutes": 26.6
+      },
+      {
+        "stop": "Abpara Market",
+        "minutes": 32.0
+      },
+      {
+        "stop": "Melody Market",
+        "minutes": 35.6
+      },
+      {
+        "stop": "G-6/1.2",
+        "minutes": 36.9
+      },
+      {
+        "stop": "Iqbal Hall",
+        "minutes": 40.2
+      },
+      {
+        "stop": "Pully Stop",
+        "minutes": 42.5
+      },
+      {
+        "stop": "Sitara Market",
+        "minutes": 45.3
+      },
+      {
+        "stop": "Salai Centre",
+        "minutes": 47.8
+      },
+      {
+        "stop": "Bank Colony",
+        "minutes": 49.5
+      },
+      {
+        "stop": "Rescue 15",
+        "minutes": 52.4
+      },
+      {
+        "stop": "Children Hospital",
+        "minutes": 54.6
+      },
+      {
+        "stop": "PIMS Hospital",
+        "minutes": 57.4
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-04_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "Same running times on every trip (template schedule). CDA header: route_id 10004, long name \"PIMS Hospital to Bari Amam\", total trips 97, average headway 10 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-04A",
+    "cda_short_name": "FR-04A",
+    "direction": "forward",
+    "from": "Bari Imam",
+    "to": "Quaid Azam University",
+    "departures": [
+      "06:00",
+      "06:30",
+      "07:00",
+      "07:30",
+      "08:00",
+      "08:30",
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30",
+      "13:00",
+      "13:30",
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30",
+      "17:00",
+      "17:30",
+      "18:00",
+      "18:30",
+      "19:00",
+      "19:30",
+      "20:00",
+      "20:30",
+      "21:00",
+      "21:30",
+      "22:00"
+    ],
+    "trips": 33,
+    "first": "06:00",
+    "last": "22:00",
+    "headway_min": 30,
+    "headway_peak_min": 30,
+    "headway_offpeak_min": 30,
+    "headway_range_min": [
+      30.0,
+      30.0
+    ],
+    "journey_min": 11.7,
+    "last_arrival": "22:11",
+    "stop_count": 7,
+    "stop_offsets_min": [
+      {
+        "stop": "Bari Imam",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Muhallah Noori Bagh",
+        "minutes": 1.7
+      },
+      {
+        "stop": "Commmunity Health Center",
+        "minutes": 3.3
+      },
+      {
+        "stop": "D-Type Quaid e Azam Colony",
+        "minutes": 5.2
+      },
+      {
+        "stop": "C-Type Quaid-e-Azam Colony",
+        "minutes": 6.8
+      },
+      {
+        "stop": "Babul Quaid",
+        "minutes": 8.7
+      },
+      {
+        "stop": "Quaid Azam University",
+        "minutes": 11.7
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-04A_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "Same running times on every trip (template schedule). CDA header: route_id 11004, long name \"Bari Imam to Quaid e Azam University\", total trips 33, average headway 30 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-04A",
+    "cda_short_name": "FR-04A",
+    "direction": "backward",
+    "from": "Quaid Azam University",
+    "to": "Bari Imam",
+    "departures": [
+      "06:15",
+      "06:45",
+      "07:15",
+      "07:45",
+      "08:15",
+      "08:45",
+      "09:15",
+      "09:45",
+      "10:15",
+      "10:45",
+      "11:15",
+      "11:45",
+      "12:15",
+      "12:45",
+      "13:15",
+      "13:45",
+      "14:15",
+      "14:45",
+      "15:15",
+      "15:45",
+      "16:15",
+      "16:45",
+      "17:15",
+      "17:45",
+      "18:15",
+      "18:45",
+      "19:15",
+      "19:45",
+      "20:15",
+      "20:45",
+      "21:15",
+      "21:45"
+    ],
+    "trips": 32,
+    "first": "06:15",
+    "last": "21:45",
+    "headway_min": 30,
+    "headway_peak_min": 30,
+    "headway_offpeak_min": 30,
+    "headway_range_min": [
+      30.0,
+      30.0
+    ],
+    "journey_min": 11.7,
+    "last_arrival": "21:56",
+    "stop_count": 7,
+    "stop_offsets_min": [
+      {
+        "stop": "Quaid Azam University",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Babul Quaid",
+        "minutes": 2.8
+      },
+      {
+        "stop": "C-Type Quaid e Azam Colony",
+        "minutes": 4.4
+      },
+      {
+        "stop": "D-Type Quaid e Azam Colony",
+        "minutes": 5.8
+      },
+      {
+        "stop": "Community Health Centre",
+        "minutes": 7.2
+      },
+      {
+        "stop": "Muhallah Noori Bagh",
+        "minutes": 9.3
+      },
+      {
+        "stop": "Bari Imam",
+        "minutes": 11.7
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-04A_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "Same running times on every trip (template schedule). CDA header: route_id 11004, long name \"Bari Imam to Quaid e Azam University\", total trips 32, average headway 30 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-05",
+    "cda_short_name": "FR-05",
+    "direction": "forward",
+    "from": "Nust Metro Station",
+    "to": "D-12",
+    "departures": [
+      "06:00",
+      "06:05",
+      "06:10",
+      "06:15",
+      "06:20",
+      "06:25",
+      "06:30",
+      "06:35",
+      "06:40",
+      "06:45",
+      "06:50",
+      "06:55",
+      "07:00",
+      "07:05",
+      "07:10",
+      "07:15",
+      "07:20",
+      "07:25",
+      "07:30",
+      "07:35",
+      "07:40",
+      "07:45",
+      "07:50",
+      "07:55",
+      "08:00",
+      "08:05",
+      "08:10",
+      "08:15",
+      "08:20",
+      "08:25",
+      "08:30",
+      "08:35",
+      "08:40",
+      "08:45",
+      "08:50",
+      "08:55",
+      "09:00",
+      "09:05",
+      "09:10",
+      "09:15",
+      "09:20",
+      "09:25",
+      "09:30",
+      "09:35",
+      "09:40",
+      "09:45",
+      "09:50",
+      "09:55",
+      "10:00",
+      "10:05",
+      "10:10",
+      "10:15",
+      "10:20",
+      "10:25",
+      "10:30",
+      "10:35",
+      "10:40",
+      "10:45",
+      "10:50",
+      "10:55",
+      "11:00",
+      "11:05",
+      "11:10",
+      "11:15",
+      "11:20",
+      "11:25",
+      "11:30",
+      "11:35",
+      "11:40",
+      "11:45",
+      "11:50",
+      "11:55",
+      "12:00",
+      "12:05",
+      "12:10",
+      "12:15",
+      "12:20",
+      "12:25",
+      "12:30",
+      "12:35",
+      "12:40",
+      "12:45",
+      "12:50",
+      "12:55",
+      "13:00",
+      "13:05",
+      "13:10",
+      "13:15",
+      "13:20",
+      "13:25",
+      "13:30",
+      "13:35",
+      "13:40",
+      "13:45",
+      "13:50",
+      "13:55",
+      "14:00",
+      "14:05",
+      "14:10",
+      "14:15",
+      "14:20",
+      "14:25",
+      "14:30",
+      "14:35",
+      "14:40",
+      "14:45",
+      "14:50",
+      "14:55",
+      "15:00",
+      "15:05",
+      "15:10",
+      "15:15",
+      "15:20",
+      "15:25",
+      "15:30",
+      "15:35",
+      "15:40",
+      "15:45",
+      "15:50",
+      "15:55",
+      "16:00",
+      "16:05",
+      "16:10",
+      "16:15",
+      "16:20",
+      "16:25",
+      "16:30",
+      "16:35",
+      "16:40",
+      "16:45",
+      "16:50",
+      "16:55",
+      "17:00",
+      "17:05",
+      "17:10",
+      "17:15",
+      "17:20",
+      "17:25",
+      "17:30",
+      "17:35",
+      "17:40",
+      "17:45",
+      "17:50",
+      "17:55",
+      "18:00",
+      "18:05",
+      "18:10",
+      "18:15",
+      "18:20",
+      "18:25",
+      "18:30",
+      "18:35",
+      "18:40",
+      "18:45",
+      "18:50",
+      "18:55",
+      "19:00",
+      "19:05",
+      "19:10",
+      "19:15",
+      "19:20",
+      "19:25",
+      "19:30",
+      "19:35",
+      "19:40",
+      "19:45",
+      "19:50",
+      "19:55",
+      "20:00",
+      "20:05",
+      "20:10",
+      "20:15",
+      "20:20",
+      "20:25",
+      "20:30",
+      "20:35",
+      "20:40",
+      "20:45",
+      "20:50",
+      "20:55",
+      "21:00",
+      "21:05",
+      "21:10",
+      "21:15",
+      "21:20",
+      "21:25",
+      "21:30",
+      "21:35",
+      "21:40",
+      "21:45",
+      "21:50",
+      "21:55",
+      "22:00"
+    ],
+    "trips": 193,
+    "first": "06:00",
+    "last": "22:00",
+    "headway_min": 5,
+    "headway_peak_min": 5,
+    "headway_offpeak_min": 5,
+    "headway_range_min": [
+      5.0,
+      5.0
+    ],
+    "journey_min": 30.4,
+    "last_arrival": "22:30",
+    "stop_count": 14,
+    "stop_offsets_min": [
+      {
+        "stop": "Nust Metro Station",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Police Foundation",
+        "minutes": 3.3
+      },
+      {
+        "stop": "G-10 Metro Station",
+        "minutes": 5.8
+      },
+      {
+        "stop": "Sunday Bazar",
+        "minutes": 7.3
+      },
+      {
+        "stop": "G10/G11",
+        "minutes": 10.0
+      },
+      {
+        "stop": "Sumbal Road",
+        "minutes": 12.8
+      },
+      {
+        "stop": "Khayaban e Iqbal",
+        "minutes": 15.2
+      },
+      {
+        "stop": "NPF Housing Society",
+        "minutes": 18.2
+      },
+      {
+        "stop": "Multy Stop/Islamabad Gardens",
+        "minutes": 20.2
+      },
+      {
+        "stop": "E-11/2 / FECHS / Islamabad International Hospital",
+        "minutes": 23.3
+      },
+      {
+        "stop": "D-12 Service Road",
+        "minutes": 25.3
+      },
+      {
+        "stop": "IESCO D-12",
+        "minutes": 27.6
+      },
+      {
+        "stop": "D-12 Markaz",
+        "minutes": 29.2
+      },
+      {
+        "stop": "D-12",
+        "minutes": 30.4
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-05_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "PDF shows NUST Metro Station <-> D-12 (14 stops, ~5 min), but the PDF header long name and the CDA route table say \"Golara Morh to Taxila\". Data route is \"unverified\"; conflict unresolved. Same running times on every trip (template schedule). CDA header: route_id 10005, long name \"Golara Morh to Taxila\", total trips 193, average headway 5 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-05",
+    "cda_short_name": "FR-05",
+    "direction": "backward",
+    "from": "D-12",
+    "to": "Nust Metro Station",
+    "departures": [
+      "06:00",
+      "06:05",
+      "06:10",
+      "06:15",
+      "06:20",
+      "06:25",
+      "06:30",
+      "06:35",
+      "06:40",
+      "06:45",
+      "06:50",
+      "06:55",
+      "07:00",
+      "07:05",
+      "07:10",
+      "07:15",
+      "07:20",
+      "07:25",
+      "07:30",
+      "07:35",
+      "07:40",
+      "07:45",
+      "07:50",
+      "07:55",
+      "08:00",
+      "08:05",
+      "08:10",
+      "08:15",
+      "08:20",
+      "08:25",
+      "08:30",
+      "08:35",
+      "08:40",
+      "08:45",
+      "08:50",
+      "08:55",
+      "09:00",
+      "09:05",
+      "09:10",
+      "09:15",
+      "09:20",
+      "09:25",
+      "09:30",
+      "09:35",
+      "09:40",
+      "09:45",
+      "09:50",
+      "09:55",
+      "10:00",
+      "10:05",
+      "10:10",
+      "10:15",
+      "10:20",
+      "10:25",
+      "10:30",
+      "10:35",
+      "10:40",
+      "10:45",
+      "10:50",
+      "10:55",
+      "11:00",
+      "11:05",
+      "11:10",
+      "11:15",
+      "11:20",
+      "11:25",
+      "11:30",
+      "11:35",
+      "11:40",
+      "11:45",
+      "11:50",
+      "11:55",
+      "12:00",
+      "12:05",
+      "12:10",
+      "12:15",
+      "12:20",
+      "12:25",
+      "12:30",
+      "12:35",
+      "12:40",
+      "12:45",
+      "12:50",
+      "12:55",
+      "13:00",
+      "13:05",
+      "13:10",
+      "13:15",
+      "13:20",
+      "13:25",
+      "13:30",
+      "13:35",
+      "13:40",
+      "13:45",
+      "13:50",
+      "13:55",
+      "14:00",
+      "14:05",
+      "14:10",
+      "14:15",
+      "14:20",
+      "14:25",
+      "14:30",
+      "14:35",
+      "14:40",
+      "14:45",
+      "14:50",
+      "14:55",
+      "15:00",
+      "15:05",
+      "15:10",
+      "15:15",
+      "15:20",
+      "15:25",
+      "15:30",
+      "15:35",
+      "15:40",
+      "15:45",
+      "15:50",
+      "15:55",
+      "16:00",
+      "16:05",
+      "16:10",
+      "16:15",
+      "16:20",
+      "16:25",
+      "16:30",
+      "16:35",
+      "16:40",
+      "16:45",
+      "16:50",
+      "16:55",
+      "17:00",
+      "17:05",
+      "17:10",
+      "17:15",
+      "17:20",
+      "17:25",
+      "17:30",
+      "17:35",
+      "17:40",
+      "17:45",
+      "17:50",
+      "17:55",
+      "18:00",
+      "18:05",
+      "18:10",
+      "18:15",
+      "18:20",
+      "18:25",
+      "18:30",
+      "18:35",
+      "18:40",
+      "18:45",
+      "18:50",
+      "18:55",
+      "19:00",
+      "19:05",
+      "19:10",
+      "19:15",
+      "19:20",
+      "19:25",
+      "19:30",
+      "19:35",
+      "19:40",
+      "19:45",
+      "19:50",
+      "19:55",
+      "20:00",
+      "20:05",
+      "20:10",
+      "20:15",
+      "20:20",
+      "20:25",
+      "20:30",
+      "20:35",
+      "20:40",
+      "20:45",
+      "20:50",
+      "20:55",
+      "21:00",
+      "21:05",
+      "21:10",
+      "21:15",
+      "21:20",
+      "21:25",
+      "21:30",
+      "21:35",
+      "21:40",
+      "21:45",
+      "21:50",
+      "21:55",
+      "22:00"
+    ],
+    "trips": 193,
+    "first": "06:00",
+    "last": "22:00",
+    "headway_min": 5,
+    "headway_peak_min": 5,
+    "headway_offpeak_min": 5,
+    "headway_range_min": [
+      5.0,
+      5.0
+    ],
+    "journey_min": 32.2,
+    "last_arrival": "22:32",
+    "stop_count": 14,
+    "stop_offsets_min": [
+      {
+        "stop": "D-12",
+        "minutes": 0.0
+      },
+      {
+        "stop": "D-12 Markaz",
+        "minutes": 1.2
+      },
+      {
+        "stop": "IESCO D-12",
+        "minutes": 2.8
+      },
+      {
+        "stop": "D-12 Service Road",
+        "minutes": 5.3
+      },
+      {
+        "stop": "E-11/2 / FECHS / Islamabad International Hospital",
+        "minutes": 8.2
+      },
+      {
+        "stop": "Multy Stop/Islamabad Gardens",
+        "minutes": 11.3
+      },
+      {
+        "stop": "NPF Housing Society",
+        "minutes": 13.2
+      },
+      {
+        "stop": "Khayaban e Iqbal",
+        "minutes": 16.0
+      },
+      {
+        "stop": "Sumbal Road",
+        "minutes": 18.6
+      },
+      {
+        "stop": "G10/G11",
+        "minutes": 21.4
+      },
+      {
+        "stop": "Sunday Bazar",
+        "minutes": 24.4
+      },
+      {
+        "stop": "G-10 Metro Station",
+        "minutes": 25.9
+      },
+      {
+        "stop": "Police Foundation",
+        "minutes": 28.6
+      },
+      {
+        "stop": "Nust Metro Station",
+        "minutes": 32.2
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-05_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "PDF shows NUST Metro Station <-> D-12 (14 stops, ~5 min), but the PDF header long name and the CDA route table say \"Golara Morh to Taxila\". Data route is \"unverified\"; conflict unresolved. Same running times on every trip (template schedule). CDA header: route_id 10005, long name \"Golara Morh to Taxila\", total trips 193, average headway 5 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-06",
+    "cda_short_name": "FR-06",
+    "direction": "forward",
+    "from": "Pims Metro Station",
+    "to": "Golra sharif",
+    "departures": [
+      "06:00",
+      "07:00",
+      "08:00",
+      "09:00",
+      "10:00",
+      "11:00",
+      "12:00",
+      "13:00",
+      "14:00",
+      "15:00",
+      "16:00",
+      "17:00",
+      "18:00",
+      "19:00",
+      "20:00",
+      "21:00",
+      "22:00"
+    ],
+    "trips": 17,
+    "first": "06:00",
+    "last": "22:00",
+    "headway_min": 60,
+    "headway_peak_min": 60,
+    "headway_offpeak_min": 60,
+    "headway_range_min": [
+      60.0,
+      60.0
+    ],
+    "journey_min": 43.0,
+    "last_arrival": "22:43",
+    "stop_count": 26,
+    "stop_offsets_min": [
+      {
+        "stop": "Pims Metro Station",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Tipu Market G-8",
+        "minutes": 2.7
+      },
+      {
+        "stop": "Ibn-e-Sina Metro Station",
+        "minutes": 4.2
+      },
+      {
+        "stop": "Chaman Metro Station",
+        "minutes": 5.5
+      },
+      {
+        "stop": "Taqwa Market",
+        "minutes": 7.2
+      },
+      {
+        "stop": "G-9/4 Park",
+        "minutes": 8.3
+      },
+      {
+        "stop": "Karachi Company",
+        "minutes": 9.3
+      },
+      {
+        "stop": "G-9/1 and G-9/4",
+        "minutes": 10.8
+      },
+      {
+        "stop": "G-9 Markaz",
+        "minutes": 12.1
+      },
+      {
+        "stop": "G-9/3",
+        "minutes": 14.6
+      },
+      {
+        "stop": "F-9 Park",
+        "minutes": 17.1
+      },
+      {
+        "stop": "Shaheen Chowk",
+        "minutes": 18.3
+      },
+      {
+        "stop": "Fazaia Housing Scheme",
+        "minutes": 19.6
+      },
+      {
+        "stop": "PAF Hospital",
+        "minutes": 21.8
+      },
+      {
+        "stop": "Pakistan gate",
+        "minutes": 23.4
+      },
+      {
+        "stop": "Maroof International Hospital",
+        "minutes": 25.6
+      },
+      {
+        "stop": "F-10 Markaz",
+        "minutes": 27.8
+      },
+      {
+        "stop": "IMCB F10/4",
+        "minutes": 30.0
+      },
+      {
+        "stop": "IMCG F-10/2",
+        "minutes": 32.2
+      },
+      {
+        "stop": "F-10/F-11 Chowk",
+        "minutes": 33.8
+      },
+      {
+        "stop": "Major Road",
+        "minutes": 35.5
+      },
+      {
+        "stop": "PTCL F-11",
+        "minutes": 36.5
+      },
+      {
+        "stop": "F-11 Markaz",
+        "minutes": 37.6
+      },
+      {
+        "stop": "OPF Girls College",
+        "minutes": 39.4
+      },
+      {
+        "stop": "Golra Sharif F-11/3",
+        "minutes": 40.8
+      },
+      {
+        "stop": "Golra sharif",
+        "minutes": 43.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-06_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "PDF ends at Golra Sharif; CDA map V-08 and Safar show an extension to E-11 Markaz. Same running times on every trip (template schedule). CDA header: route_id 10006, long name \"PIMS Hospital to Golara Shareef\", total trips 17, average headway 60 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-06",
+    "cda_short_name": "FR-06",
+    "direction": "backward",
+    "from": "Golra sharif",
+    "to": "PIMS Hospital",
+    "departures": [
+      "07:00",
+      "08:00",
+      "09:00",
+      "10:00",
+      "11:00",
+      "12:00",
+      "13:00",
+      "14:00",
+      "15:00",
+      "16:00",
+      "17:00",
+      "18:00",
+      "19:00",
+      "20:00",
+      "21:00",
+      "22:00"
+    ],
+    "trips": 16,
+    "first": "07:00",
+    "last": "22:00",
+    "headway_min": 60,
+    "headway_peak_min": 60,
+    "headway_offpeak_min": 60,
+    "headway_range_min": [
+      60.0,
+      60.0
+    ],
+    "journey_min": 35.0,
+    "last_arrival": "22:35",
+    "stop_count": 26,
+    "stop_offsets_min": [
+      {
+        "stop": "Golra sharif",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Golra Sharif F-11/3",
+        "minutes": 1.9
+      },
+      {
+        "stop": "OPF Girls College",
+        "minutes": 2.9
+      },
+      {
+        "stop": "F-11 Markaz",
+        "minutes": 4.4
+      },
+      {
+        "stop": "PTCL F-11",
+        "minutes": 5.2
+      },
+      {
+        "stop": "Major Road",
+        "minutes": 5.8
+      },
+      {
+        "stop": "F-10/F-11 Chowk",
+        "minutes": 7.2
+      },
+      {
+        "stop": "IMCG F-10/2",
+        "minutes": 8.5
+      },
+      {
+        "stop": "IMCB F10/4",
+        "minutes": 10.3
+      },
+      {
+        "stop": "F-10 Markaz",
+        "minutes": 12.2
+      },
+      {
+        "stop": "Maroof International Hospital",
+        "minutes": 14.1
+      },
+      {
+        "stop": "Pakistan gate",
+        "minutes": 15.9
+      },
+      {
+        "stop": "PAF Hospital",
+        "minutes": 17.2
+      },
+      {
+        "stop": "Fazaia Housing Scheme",
+        "minutes": 19.1
+      },
+      {
+        "stop": "Shaheen Chowk",
+        "minutes": 20.0
+      },
+      {
+        "stop": "F-9 Park Gate 3/ Fazia Housing Scheme",
+        "minutes": 20.9
+      },
+      {
+        "stop": "G-9/3",
+        "minutes": 23.1
+      },
+      {
+        "stop": "G-9 Markaz",
+        "minutes": 25.2
+      },
+      {
+        "stop": "G-9/1 and G-9/4",
+        "minutes": 26.2
+      },
+      {
+        "stop": "Karachi Company",
+        "minutes": 27.3
+      },
+      {
+        "stop": "G-9/4 Park",
+        "minutes": 28.0
+      },
+      {
+        "stop": "Taqwa Market",
+        "minutes": 28.8
+      },
+      {
+        "stop": "Chaman Metro Station",
+        "minutes": 30.2
+      },
+      {
+        "stop": "Ibn-e-Sina Metro Station",
+        "minutes": 31.2
+      },
+      {
+        "stop": "Tipu Market G-8",
+        "minutes": 33.5
+      },
+      {
+        "stop": "PIMS Hospital",
+        "minutes": 35.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-06_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "PDF ends at Golra Sharif; CDA map V-08 and Safar show an extension to E-11 Markaz. Same running times on every trip (template schedule). CDA header: route_id 10006, long name \"PIMS Hospital to Golara Shareef\", total trips 16, average headway 60 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-07",
+    "cda_short_name": "FR-07",
+    "direction": "forward",
+    "from": "PIMS Hospital",
+    "to": "Police Foundation Metro Station",
+    "departures": [
+      "06:00",
+      "06:10",
+      "06:20",
+      "06:30",
+      "06:40",
+      "06:50",
+      "07:00",
+      "07:10",
+      "07:20",
+      "07:30",
+      "07:40",
+      "07:50",
+      "08:00",
+      "08:10",
+      "08:20",
+      "08:30",
+      "08:40",
+      "08:50",
+      "09:00",
+      "09:10",
+      "09:20",
+      "09:30",
+      "09:40",
+      "09:50",
+      "10:00",
+      "10:10",
+      "10:20",
+      "10:30",
+      "10:40",
+      "10:50",
+      "11:00",
+      "11:10",
+      "11:20",
+      "11:30",
+      "11:40",
+      "11:50",
+      "12:00",
+      "12:10",
+      "12:20",
+      "12:30",
+      "12:40",
+      "12:50",
+      "13:00",
+      "13:10",
+      "13:20",
+      "13:30",
+      "13:40",
+      "13:50",
+      "14:00",
+      "14:10",
+      "14:20",
+      "14:30",
+      "14:40",
+      "14:50",
+      "15:00",
+      "15:10",
+      "15:20",
+      "15:30",
+      "15:40",
+      "15:50",
+      "16:00",
+      "16:10",
+      "16:20",
+      "16:30",
+      "16:40",
+      "16:50",
+      "17:00",
+      "17:10",
+      "17:20",
+      "17:30",
+      "17:40",
+      "17:50",
+      "18:00",
+      "18:10",
+      "18:20",
+      "18:30",
+      "18:40",
+      "18:50",
+      "19:00",
+      "19:10",
+      "19:20",
+      "19:30",
+      "19:40",
+      "19:50",
+      "20:00",
+      "20:10",
+      "20:20",
+      "20:30",
+      "20:40",
+      "20:50",
+      "21:00",
+      "21:10",
+      "21:20",
+      "21:30",
+      "21:40",
+      "21:50",
+      "22:00"
+    ],
+    "trips": 97,
+    "first": "06:00",
+    "last": "22:00",
+    "headway_min": 10,
+    "headway_peak_min": 10,
+    "headway_offpeak_min": 10,
+    "headway_range_min": [
+      10.0,
+      10.0
+    ],
+    "journey_min": 47.3,
+    "last_arrival": "22:47",
+    "stop_count": 23,
+    "stop_offsets_min": [
+      {
+        "stop": "PIMS Hospital",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Children Hospital",
+        "minutes": 1.0
+      },
+      {
+        "stop": "NORI Hospital",
+        "minutes": 4.0
+      },
+      {
+        "stop": "Dental Hospital",
+        "minutes": 6.3
+      },
+      {
+        "stop": "G-8 Markaz",
+        "minutes": 6.8
+      },
+      {
+        "stop": "Development Park",
+        "minutes": 7.3
+      },
+      {
+        "stop": "Chaman Metro Station",
+        "minutes": 9.5
+      },
+      {
+        "stop": "G-9/4",
+        "minutes": 11.4
+      },
+      {
+        "stop": "Karachi Company",
+        "minutes": 13.4
+      },
+      {
+        "stop": "G-9 Markaz",
+        "minutes": 14.6
+      },
+      {
+        "stop": "Police Flats",
+        "minutes": 16.5
+      },
+      {
+        "stop": "College Morh",
+        "minutes": 19.3
+      },
+      {
+        "stop": "G-10 Markaz",
+        "minutes": 22.1
+      },
+      {
+        "stop": "PHA Flats",
+        "minutes": 25.0
+      },
+      {
+        "stop": "Tanki Stop",
+        "minutes": 26.1
+      },
+      {
+        "stop": "G-10/G-11",
+        "minutes": 27.3
+      },
+      {
+        "stop": "Institute of Modern Studies",
+        "minutes": 28.6
+      },
+      {
+        "stop": "G-11 Markaz",
+        "minutes": 30.4
+      },
+      {
+        "stop": "Mehrabad",
+        "minutes": 34.4
+      },
+      {
+        "stop": "Nust Metro Station",
+        "minutes": 40.2
+      },
+      {
+        "stop": "Bar Council",
+        "minutes": 42.7
+      },
+      {
+        "stop": "A.K Bari Road",
+        "minutes": 43.8
+      },
+      {
+        "stop": "Police Foundation Metro Station",
+        "minutes": 47.3
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-07_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "Same running times on every trip (template schedule). CDA header: route_id 10007, long name \"PIMS Hospital-Police Foundation\", total trips 97, average headway 10 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-07",
+    "cda_short_name": "FR-07",
+    "direction": "backward",
+    "from": "Police Foundation Metro Station",
+    "to": "PIMS Hospital",
+    "departures": [
+      "06:00",
+      "06:10",
+      "06:20",
+      "06:30",
+      "06:40",
+      "06:50",
+      "07:00",
+      "07:10",
+      "07:20",
+      "07:30",
+      "07:40",
+      "07:50",
+      "08:00",
+      "08:10",
+      "08:20",
+      "08:30",
+      "08:40",
+      "08:50",
+      "09:00",
+      "09:10",
+      "09:20",
+      "09:30",
+      "09:40",
+      "09:50",
+      "10:00",
+      "10:10",
+      "10:20",
+      "10:30",
+      "10:40",
+      "10:50",
+      "11:00",
+      "11:10",
+      "11:20",
+      "11:30",
+      "11:40",
+      "11:50",
+      "12:00",
+      "12:10",
+      "12:20",
+      "12:30",
+      "12:40",
+      "12:50",
+      "13:00",
+      "13:10",
+      "13:20",
+      "13:30",
+      "13:50",
+      "14:00",
+      "14:10",
+      "14:20",
+      "14:30",
+      "14:40",
+      "14:50",
+      "15:00",
+      "15:10",
+      "15:20",
+      "15:30",
+      "15:40",
+      "15:50",
+      "16:00",
+      "16:10",
+      "16:20",
+      "16:30",
+      "16:40",
+      "16:50",
+      "17:00",
+      "17:10",
+      "17:20",
+      "17:30",
+      "17:40",
+      "18:00",
+      "18:10",
+      "18:20",
+      "18:30",
+      "18:40",
+      "18:50",
+      "19:00",
+      "19:10",
+      "19:20",
+      "19:30",
+      "19:40",
+      "19:50",
+      "20:00",
+      "20:10",
+      "20:20",
+      "20:30",
+      "20:40",
+      "20:50",
+      "21:00",
+      "21:10",
+      "21:20",
+      "21:30",
+      "21:40",
+      "21:50"
+    ],
+    "trips": 94,
+    "first": "06:00",
+    "last": "21:50",
+    "headway_min": 10,
+    "headway_peak_min": 10,
+    "headway_offpeak_min": 10,
+    "headway_range_min": [
+      10.0,
+      20.0
+    ],
+    "journey_min": 47.3,
+    "last_arrival": "22:37",
+    "stop_count": 23,
+    "stop_offsets_min": [
+      {
+        "stop": "Police Foundation Metro Station",
+        "minutes": 0.0
+      },
+      {
+        "stop": "A.K Bari Road",
+        "minutes": 1.0
+      },
+      {
+        "stop": "Bar Council",
+        "minutes": 2.2
+      },
+      {
+        "stop": "NUST Metro Station",
+        "minutes": 3.8
+      },
+      {
+        "stop": "Mehrabad",
+        "minutes": 10.3
+      },
+      {
+        "stop": "G-11 Markaz",
+        "minutes": 12.6
+      },
+      {
+        "stop": "Institute of Modern Studies",
+        "minutes": 14.5
+      },
+      {
+        "stop": "G-10/G-11",
+        "minutes": 15.7
+      },
+      {
+        "stop": "Tanki Stop",
+        "minutes": 18.5
+      },
+      {
+        "stop": "PHA Flats",
+        "minutes": 19.5
+      },
+      {
+        "stop": "G-10 Markaz",
+        "minutes": 20.5
+      },
+      {
+        "stop": "College Morh",
+        "minutes": 22.6
+      },
+      {
+        "stop": "Police Flats",
+        "minutes": 25.2
+      },
+      {
+        "stop": "G-9 Markaz",
+        "minutes": 28.0
+      },
+      {
+        "stop": "Karachi Company",
+        "minutes": 30.4
+      },
+      {
+        "stop": "G-9/4",
+        "minutes": 31.6
+      },
+      {
+        "stop": "Chaman Metro Station",
+        "minutes": 33.5
+      },
+      {
+        "stop": "Development Park",
+        "minutes": 35.4
+      },
+      {
+        "stop": "G-8 Markaz",
+        "minutes": 37.5
+      },
+      {
+        "stop": "Dental Hospital",
+        "minutes": 38.7
+      },
+      {
+        "stop": "NORI Hospital",
+        "minutes": 41.9
+      },
+      {
+        "stop": "Children Hospital",
+        "minutes": 44.5
+      },
+      {
+        "stop": "PIMS Hospital",
+        "minutes": 47.3
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-07_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "Same running times on every trip (template schedule). CDA header: route_id 10007, long name \"PIMS Hospital-Police Foundation\", total trips 94, average headway 10 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-08A",
+    "cda_short_name": "FR-08A",
+    "direction": "forward",
+    "from": "PIMS Hospital",
+    "to": "Capt. Naeem Tufail Shaheed Chowk",
+    "departures": [
+      "06:00",
+      "06:20",
+      "06:40",
+      "07:00",
+      "07:20",
+      "07:40",
+      "08:00",
+      "08:20",
+      "08:40",
+      "08:45",
+      "08:50",
+      "08:55",
+      "09:00",
+      "09:00",
+      "09:05",
+      "09:10",
+      "09:15",
+      "09:20",
+      "09:20",
+      "09:25",
+      "09:30",
+      "09:35",
+      "09:40",
+      "09:40",
+      "09:45",
+      "09:50",
+      "09:55",
+      "10:00",
+      "10:00",
+      "10:05",
+      "10:10",
+      "10:15",
+      "10:20",
+      "10:20",
+      "10:25",
+      "10:30",
+      "10:35",
+      "10:40",
+      "10:40",
+      "10:45",
+      "10:50",
+      "10:55",
+      "11:00",
+      "11:00",
+      "11:05",
+      "11:10",
+      "11:15",
+      "11:20",
+      "11:20",
+      "11:25",
+      "11:30",
+      "11:35",
+      "11:40",
+      "11:40",
+      "11:45",
+      "11:50",
+      "11:55",
+      "12:00",
+      "12:00",
+      "12:05",
+      "12:10",
+      "12:15",
+      "12:20",
+      "12:20",
+      "12:25",
+      "12:30",
+      "12:35",
+      "12:40",
+      "12:40",
+      "12:45",
+      "12:50",
+      "12:55",
+      "13:00",
+      "13:00",
+      "13:05",
+      "13:10",
+      "13:15",
+      "13:20",
+      "13:20",
+      "13:25",
+      "13:30",
+      "13:35",
+      "13:40",
+      "13:40",
+      "13:45",
+      "13:50",
+      "13:55",
+      "14:00",
+      "14:00",
+      "14:05",
+      "14:10",
+      "14:15",
+      "14:20",
+      "14:20",
+      "14:25",
+      "14:30",
+      "14:35",
+      "14:40",
+      "14:40",
+      "14:45",
+      "14:50",
+      "14:55",
+      "15:00",
+      "15:00",
+      "15:05",
+      "15:10",
+      "15:15",
+      "15:20",
+      "15:20",
+      "15:25",
+      "15:30",
+      "15:35",
+      "15:40",
+      "15:40",
+      "15:45",
+      "15:50",
+      "15:55",
+      "16:00",
+      "16:00",
+      "16:05",
+      "16:10",
+      "16:15",
+      "16:20",
+      "16:20",
+      "16:25",
+      "16:30",
+      "16:35",
+      "16:40",
+      "16:40",
+      "16:45",
+      "16:50",
+      "16:55",
+      "17:00",
+      "17:00",
+      "17:05",
+      "17:10",
+      "17:15",
+      "17:20",
+      "17:20",
+      "17:25",
+      "17:30",
+      "17:35",
+      "17:40",
+      "17:40",
+      "17:45",
+      "17:50",
+      "17:55",
+      "18:00",
+      "18:00",
+      "18:05",
+      "18:10",
+      "18:15",
+      "18:20",
+      "18:20",
+      "18:25",
+      "18:30",
+      "18:35",
+      "18:40",
+      "18:40",
+      "18:45",
+      "18:50",
+      "18:55",
+      "19:00",
+      "19:00",
+      "19:05",
+      "19:10",
+      "19:15",
+      "19:20",
+      "19:20",
+      "19:25",
+      "19:30",
+      "19:35",
+      "19:40",
+      "19:40",
+      "19:45",
+      "19:50",
+      "19:55",
+      "20:00",
+      "20:00",
+      "20:05",
+      "20:10",
+      "20:15",
+      "20:20",
+      "20:20",
+      "20:25",
+      "20:30",
+      "20:35",
+      "20:40",
+      "20:40",
+      "20:45",
+      "20:50",
+      "20:55",
+      "21:00",
+      "21:00",
+      "21:05",
+      "21:10",
+      "21:15",
+      "21:20",
+      "21:20",
+      "21:25",
+      "21:30",
+      "21:35",
+      "21:40",
+      "21:40",
+      "21:45",
+      "21:50",
+      "21:55",
+      "22:00",
+      "22:00"
+    ],
+    "trips": 209,
+    "first": "06:00",
+    "last": "22:00",
+    "headway_min": 5,
+    "headway_peak_min": 5,
+    "headway_offpeak_min": 5,
+    "headway_range_min": [
+      0.0,
+      20.0
+    ],
+    "journey_min": 45.0,
+    "last_arrival": "22:45",
+    "stop_count": 23,
+    "stop_offsets_min": [
+      {
+        "stop": "PIMS Hospital",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Children Hospital",
+        "minutes": 0.3
+      },
+      {
+        "stop": "TNT",
+        "minutes": 5.7
+      },
+      {
+        "stop": "Zero Point",
+        "minutes": 8.0
+      },
+      {
+        "stop": "CDA",
+        "minutes": 10.3
+      },
+      {
+        "stop": "Abpara",
+        "minutes": 12.8
+      },
+      {
+        "stop": "Foreign Affairs Office",
+        "minutes": 15.8
+      },
+      {
+        "stop": "Kashmir Chowk",
+        "minutes": 17.8
+      },
+      {
+        "stop": "Rawal Dam Chowk",
+        "minutes": 20.7
+      },
+      {
+        "stop": "Rawal Town",
+        "minutes": 22.0
+      },
+      {
+        "stop": "School Board Stop",
+        "minutes": 23.5
+      },
+      {
+        "stop": "Rawal Dam Colony",
+        "minutes": 25.0
+      },
+      {
+        "stop": "NARC Colony",
+        "minutes": 27.5
+      },
+      {
+        "stop": "NIH Allergy Center",
+        "minutes": 29.2
+      },
+      {
+        "stop": "Shahzad Town",
+        "minutes": 31.5
+      },
+      {
+        "stop": "Park View City",
+        "minutes": 33.2
+      },
+      {
+        "stop": "Green Avenue",
+        "minutes": 35.7
+      },
+      {
+        "stop": "Chatta Bakhtawar",
+        "minutes": 37.0
+      },
+      {
+        "stop": "Gulshan Al Huda Community",
+        "minutes": 38.7
+      },
+      {
+        "stop": "Hostel City",
+        "minutes": 39.8
+      },
+      {
+        "stop": "COMSATS University",
+        "minutes": 41.8
+      },
+      {
+        "stop": "Tamma Stop",
+        "minutes": 43.3
+      },
+      {
+        "stop": "Capt. Naeem Tufail Shaheed Chowk",
+        "minutes": 45.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-08A_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "SUSPECT: Forward lists 209 trips = a 20-min series 06:00-22:00 overlaid with a second 5-min series 08:40-22:00 (40 exact duplicate times), while Backward lists only 46 trips (20 min). Likely two schedule versions merged in the CDA export (sister route FR-08C is 20 min both ways). Prefer 20 min; do not use the Forward 5-min headway. Same running times on every trip (template schedule). CDA header: route_id 10008, long name \"Capt. Naeem T. Shaheed Chowk to PIMS\", total trips 209, average headway 5 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-08A",
+    "cda_short_name": "FR-08A",
+    "direction": "backward",
+    "from": "Capt. Naeem Tufail Shaheed Chowk",
+    "to": "PIMS Hospital",
+    "departures": [
+      "07:00",
+      "07:20",
+      "07:40",
+      "08:00",
+      "08:20",
+      "08:40",
+      "09:00",
+      "09:20",
+      "09:40",
+      "10:00",
+      "10:20",
+      "10:40",
+      "11:00",
+      "11:20",
+      "11:40",
+      "12:00",
+      "12:20",
+      "12:40",
+      "13:00",
+      "13:20",
+      "13:40",
+      "14:00",
+      "14:20",
+      "14:40",
+      "15:00",
+      "15:20",
+      "15:40",
+      "16:00",
+      "16:20",
+      "16:40",
+      "17:00",
+      "17:20",
+      "17:40",
+      "18:00",
+      "18:20",
+      "18:40",
+      "19:00",
+      "19:20",
+      "19:40",
+      "20:00",
+      "20:20",
+      "20:40",
+      "21:00",
+      "21:20",
+      "21:40",
+      "22:00"
+    ],
+    "trips": 46,
+    "first": "07:00",
+    "last": "22:00",
+    "headway_min": 20,
+    "headway_peak_min": 20,
+    "headway_offpeak_min": 20,
+    "headway_range_min": [
+      20.0,
+      20.0
+    ],
+    "journey_min": 46.0,
+    "last_arrival": "22:46",
+    "stop_count": 23,
+    "stop_offsets_min": [
+      {
+        "stop": "Capt. Naeem Tufail Shaheed Chowk",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Tamma Stop",
+        "minutes": 1.5
+      },
+      {
+        "stop": "COMSATS University",
+        "minutes": 3.7
+      },
+      {
+        "stop": "Hostel City",
+        "minutes": 5.7
+      },
+      {
+        "stop": "Gulshan Al Huda Community",
+        "minutes": 6.8
+      },
+      {
+        "stop": "Chatta Bakhtawar",
+        "minutes": 10.2
+      },
+      {
+        "stop": "Green Avenue",
+        "minutes": 12.6
+      },
+      {
+        "stop": "Park View City",
+        "minutes": 14.4
+      },
+      {
+        "stop": "Shahzad Town",
+        "minutes": 16.6
+      },
+      {
+        "stop": "NIH Allergy Center",
+        "minutes": 18.5
+      },
+      {
+        "stop": "NARC Colony",
+        "minutes": 21.0
+      },
+      {
+        "stop": "Rawal Dam Colony",
+        "minutes": 22.3
+      },
+      {
+        "stop": "School Board Stop",
+        "minutes": 23.6
+      },
+      {
+        "stop": "Rawal Town",
+        "minutes": 25.6
+      },
+      {
+        "stop": "Rawal Dam Chowk",
+        "minutes": 28.7
+      },
+      {
+        "stop": "Kashmir Chowk",
+        "minutes": 31.5
+      },
+      {
+        "stop": "Foreign Affairs Office",
+        "minutes": 34.5
+      },
+      {
+        "stop": "Abpara",
+        "minutes": 37.0
+      },
+      {
+        "stop": "CDA",
+        "minutes": 39.2
+      },
+      {
+        "stop": "Zero Point",
+        "minutes": 42.0
+      },
+      {
+        "stop": "TNT",
+        "minutes": 43.5
+      },
+      {
+        "stop": "Children Hospital",
+        "minutes": 45.0
+      },
+      {
+        "stop": "PIMS Hospital",
+        "minutes": 46.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-08A_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "Same running times on every trip (template schedule). CDA header: route_id 10008, long name \"Capt. Naeem T. Shaheed Chowk to PIMS\", total trips 46, average headway 20 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-08C",
+    "cda_short_name": "FR-08C",
+    "direction": "forward",
+    "from": "PIMS Hospital",
+    "to": "Capt. Naeem Tufail Shaheed Chowk",
+    "departures": [
+      "06:10",
+      "06:30",
+      "06:50",
+      "07:10",
+      "07:30",
+      "07:50",
+      "08:10",
+      "08:30",
+      "08:50",
+      "09:10",
+      "09:30",
+      "09:50",
+      "10:10",
+      "10:30",
+      "10:50",
+      "11:10",
+      "11:30",
+      "11:50",
+      "12:10",
+      "12:30",
+      "12:50",
+      "13:10",
+      "13:30",
+      "13:50",
+      "14:10",
+      "14:30",
+      "14:50",
+      "15:10",
+      "15:30",
+      "15:50",
+      "16:10",
+      "16:30",
+      "16:50",
+      "17:10",
+      "17:30",
+      "17:50",
+      "18:10",
+      "18:30",
+      "18:50",
+      "19:10",
+      "19:30",
+      "19:50",
+      "20:10",
+      "20:30",
+      "20:50",
+      "21:10",
+      "21:30",
+      "21:50"
+    ],
+    "trips": 48,
+    "first": "06:10",
+    "last": "21:50",
+    "headway_min": 20,
+    "headway_peak_min": 20,
+    "headway_offpeak_min": 20,
+    "headway_range_min": [
+      20.0,
+      20.0
+    ],
+    "journey_min": 46.2,
+    "last_arrival": "22:36",
+    "stop_count": 23,
+    "stop_offsets_min": [
+      {
+        "stop": "PIMS Hospital",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Children Hospital",
+        "minutes": 3.7
+      },
+      {
+        "stop": "TNT",
+        "minutes": 6.8
+      },
+      {
+        "stop": "H-8",
+        "minutes": 9.5
+      },
+      {
+        "stop": "Kach Naar Park I-8",
+        "minutes": 12.1
+      },
+      {
+        "stop": "Faizabad",
+        "minutes": 14.6
+      },
+      {
+        "stop": "ITP Driving License Centre",
+        "minutes": 17.4
+      },
+      {
+        "stop": "Margalla Town",
+        "minutes": 20.0
+      },
+      {
+        "stop": "Garden Avenue",
+        "minutes": 22.3
+      },
+      {
+        "stop": "Rawal Town",
+        "minutes": 23.8
+      },
+      {
+        "stop": "School Board Stop",
+        "minutes": 25.3
+      },
+      {
+        "stop": "Rawal Dam Colony",
+        "minutes": 27.8
+      },
+      {
+        "stop": "N.A.R.C Colony",
+        "minutes": 29.5
+      },
+      {
+        "stop": "N.I.H Allergy Center",
+        "minutes": 31.8
+      },
+      {
+        "stop": "Shahzad Town",
+        "minutes": 33.5
+      },
+      {
+        "stop": "Park View City",
+        "minutes": 36.0
+      },
+      {
+        "stop": "Green Avenue",
+        "minutes": 37.3
+      },
+      {
+        "stop": "Chatta Bakhtawar",
+        "minutes": 39.8
+      },
+      {
+        "stop": "Gulshan Al Huda Community",
+        "minutes": 41.8
+      },
+      {
+        "stop": "Hostel City",
+        "minutes": 43.3
+      },
+      {
+        "stop": "COMSATS University",
+        "minutes": 44.6
+      },
+      {
+        "stop": "Tamma Stop",
+        "minutes": 45.0
+      },
+      {
+        "stop": "Capt. Naeem Tufail Shaheed Chowk",
+        "minutes": 46.2
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-08C_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "Same running times on every trip (template schedule). CDA header: route_id 11118, long name \"Capt. Naeem T. Shaheed Chowk to PIMS\", total trips 48, average headway 20 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-08C",
+    "cda_short_name": "FR-08C",
+    "direction": "backward",
+    "from": "Capt. Naeem Tufail Shaheed Chowk",
+    "to": "PIMS Hospital",
+    "departures": [
+      "07:10",
+      "07:30",
+      "07:50",
+      "08:10",
+      "08:30",
+      "08:50",
+      "09:10",
+      "09:30",
+      "09:50",
+      "10:10",
+      "10:30",
+      "10:50",
+      "11:10",
+      "11:30",
+      "11:50",
+      "12:10",
+      "12:30",
+      "12:50",
+      "13:10",
+      "13:30",
+      "13:50",
+      "14:10",
+      "14:30",
+      "14:50",
+      "15:10",
+      "15:30",
+      "15:50",
+      "16:10",
+      "16:30",
+      "16:50",
+      "17:10",
+      "17:30",
+      "17:50",
+      "18:10",
+      "18:30",
+      "18:50",
+      "19:10",
+      "19:30",
+      "19:50",
+      "20:10",
+      "20:30",
+      "20:50",
+      "21:10",
+      "21:30",
+      "21:50"
+    ],
+    "trips": 45,
+    "first": "07:10",
+    "last": "21:50",
+    "headway_min": 20,
+    "headway_peak_min": 20,
+    "headway_offpeak_min": 20,
+    "headway_range_min": [
+      20.0,
+      20.0
+    ],
+    "journey_min": 46.2,
+    "last_arrival": "22:36",
+    "stop_count": 23,
+    "stop_offsets_min": [
+      {
+        "stop": "Capt. Naeem Tufail Shaheed Chowk",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Tamma Stop",
+        "minutes": 1.5
+      },
+      {
+        "stop": "COMSATS University",
+        "minutes": 3.7
+      },
+      {
+        "stop": "Hostel City",
+        "minutes": 5.7
+      },
+      {
+        "stop": "Gulshan Al Huda Community",
+        "minutes": 8.0
+      },
+      {
+        "stop": "Chatta Bakhtawar",
+        "minutes": 9.9
+      },
+      {
+        "stop": "Green Avenue",
+        "minutes": 12.2
+      },
+      {
+        "stop": "Park View City",
+        "minutes": 14.1
+      },
+      {
+        "stop": "Shahzad Town",
+        "minutes": 16.9
+      },
+      {
+        "stop": "N.I.H Allergy Center",
+        "minutes": 18.8
+      },
+      {
+        "stop": "N.A.R.C Colony",
+        "minutes": 21.3
+      },
+      {
+        "stop": "Rawal Dam Colony",
+        "minutes": 22.7
+      },
+      {
+        "stop": "School Board Stop",
+        "minutes": 23.9
+      },
+      {
+        "stop": "Rawal Town",
+        "minutes": 25.8
+      },
+      {
+        "stop": "Garden Avenue",
+        "minutes": 27.8
+      },
+      {
+        "stop": "Margalla Town",
+        "minutes": 30.6
+      },
+      {
+        "stop": "ITP Driving License Centre",
+        "minutes": 33.4
+      },
+      {
+        "stop": "Faizabad",
+        "minutes": 36.7
+      },
+      {
+        "stop": "Kach Naar Park I-8",
+        "minutes": 39.5
+      },
+      {
+        "stop": "H-8",
+        "minutes": 42.0
+      },
+      {
+        "stop": "TNT",
+        "minutes": 44.6
+      },
+      {
+        "stop": "Children Hospital",
+        "minutes": 45.0
+      },
+      {
+        "stop": "PIMS Hospital",
+        "minutes": 46.2
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-08C_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "Same running times on every trip (template schedule). CDA header: route_id 11118, long name \"Capt. Naeem T. Shaheed Chowk to PIMS\", total trips 45, average headway 20 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-09",
+    "cda_short_name": "FR-09",
+    "direction": "forward",
+    "from": "Khanna Pul",
+    "to": "Golra Morh Metro Station",
+    "departures": [
+      "06:00",
+      "06:15",
+      "06:30",
+      "06:45",
+      "07:00",
+      "07:15",
+      "07:30",
+      "07:45",
+      "08:00",
+      "08:15",
+      "08:30",
+      "08:45",
+      "09:00",
+      "09:15",
+      "09:30",
+      "09:45",
+      "10:00",
+      "10:15",
+      "10:30",
+      "10:45",
+      "11:00",
+      "11:15",
+      "11:30",
+      "11:45",
+      "12:00",
+      "12:15",
+      "12:30",
+      "12:45",
+      "13:00",
+      "13:15",
+      "13:30",
+      "13:45",
+      "14:00",
+      "14:15",
+      "14:30",
+      "14:45",
+      "15:00",
+      "15:15",
+      "15:30",
+      "15:45",
+      "16:00",
+      "16:15",
+      "16:30",
+      "16:45",
+      "17:00",
+      "17:15",
+      "17:30",
+      "17:45",
+      "18:00",
+      "18:15",
+      "18:30",
+      "18:45",
+      "19:00",
+      "19:15",
+      "19:30",
+      "19:45",
+      "20:00",
+      "20:15",
+      "20:30",
+      "20:45",
+      "21:00",
+      "21:15",
+      "21:30",
+      "21:45",
+      "22:00"
+    ],
+    "trips": 65,
+    "first": "06:00",
+    "last": "22:00",
+    "headway_min": 15,
+    "headway_peak_min": 15,
+    "headway_offpeak_min": 15,
+    "headway_range_min": [
+      15.0,
+      15.0
+    ],
+    "journey_min": 65.0,
+    "last_arrival": "23:05",
+    "stop_count": 27,
+    "stop_offsets_min": [
+      {
+        "stop": "Khanna Pul",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Zia Masjid",
+        "minutes": 4.8
+      },
+      {
+        "stop": "Kuri Road",
+        "minutes": 7.2
+      },
+      {
+        "stop": "Iqbal Town",
+        "minutes": 9.2
+      },
+      {
+        "stop": "Dhok Kala Khan",
+        "minutes": 11.1
+      },
+      {
+        "stop": "Sohan",
+        "minutes": 14.2
+      },
+      {
+        "stop": "Faizabad Metro Station",
+        "minutes": 18.2
+      },
+      {
+        "stop": "IJP Metro Station",
+        "minutes": 22.6
+      },
+      {
+        "stop": "Pindora Chungi",
+        "minutes": 26.8
+      },
+      {
+        "stop": "Katarian Chungi",
+        "minutes": 28.2
+      },
+      {
+        "stop": "Katarian Pull",
+        "minutes": 29.9
+      },
+      {
+        "stop": "CDA Stop",
+        "minutes": 32.1
+      },
+      {
+        "stop": "Pully Stop",
+        "minutes": 34.1
+      },
+      {
+        "stop": "Mandi Morh",
+        "minutes": 37.1
+      },
+      {
+        "stop": "Fauji Colony",
+        "minutes": 39.1
+      },
+      {
+        "stop": "Carriage Factory",
+        "minutes": 40.7
+      },
+      {
+        "stop": "Westridge",
+        "minutes": 42.6
+      },
+      {
+        "stop": "CTTI",
+        "minutes": 44.2
+      },
+      {
+        "stop": "Social Security Hospital",
+        "minutes": 46.1
+      },
+      {
+        "stop": "British Homes",
+        "minutes": 47.5
+      },
+      {
+        "stop": "Pir Wadhai Morh",
+        "minutes": 49.1
+      },
+      {
+        "stop": "Kohinoor Mill Colony",
+        "minutes": 51.6
+      },
+      {
+        "stop": "Kohinoor Mill",
+        "minutes": 53.8
+      },
+      {
+        "stop": "Chishtiabad",
+        "minutes": 56.1
+      },
+      {
+        "stop": "Golra Morh",
+        "minutes": 58.5
+      },
+      {
+        "stop": "Home of Military Transport",
+        "minutes": 61.7
+      },
+      {
+        "stop": "Golra Morh Metro Station",
+        "minutes": 65.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-09_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": true,
+    "notes": "CHANGED since PDF: every 12 min from 3 Sep 2026 (TechJuice, https://www.techjuice.pk/?p=251552); PDF is 15 min. PDF departures are the 2025-08-25 baseline only. Same running times on every trip (template schedule). CDA header: route_id 10009, long name \"Golara Mor to Khanna Pul\", total trips 65, average headway 15 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-09",
+    "cda_short_name": "FR-09",
+    "direction": "backward",
+    "from": "Golra Morh Metro Station",
+    "to": "Khanna Pul",
+    "departures": [
+      "06:30",
+      "06:45",
+      "07:00",
+      "07:15",
+      "07:30",
+      "07:45",
+      "08:00",
+      "08:15",
+      "08:30",
+      "08:45",
+      "09:00",
+      "09:15",
+      "09:30",
+      "09:45",
+      "10:00",
+      "10:15",
+      "10:30",
+      "10:45",
+      "11:00",
+      "11:15",
+      "11:30",
+      "11:45",
+      "12:00",
+      "12:15",
+      "12:30",
+      "12:45",
+      "13:00",
+      "13:15",
+      "13:30",
+      "13:45",
+      "14:00",
+      "14:15",
+      "14:30",
+      "14:45",
+      "15:00",
+      "15:15",
+      "15:30",
+      "15:45",
+      "16:00",
+      "16:15",
+      "16:30",
+      "16:45",
+      "17:00",
+      "17:15",
+      "17:30",
+      "17:45",
+      "18:00",
+      "18:15",
+      "18:30",
+      "18:45",
+      "19:00",
+      "19:15",
+      "19:30",
+      "19:45",
+      "20:00",
+      "20:15",
+      "20:30",
+      "20:45",
+      "21:00",
+      "21:15",
+      "21:30",
+      "21:45",
+      "22:00"
+    ],
+    "trips": 63,
+    "first": "06:30",
+    "last": "22:00",
+    "headway_min": 15,
+    "headway_peak_min": 15,
+    "headway_offpeak_min": 15,
+    "headway_range_min": [
+      15.0,
+      15.0
+    ],
+    "journey_min": 65.0,
+    "last_arrival": "23:05",
+    "stop_count": 27,
+    "stop_offsets_min": [
+      {
+        "stop": "Golra Morh Metro Station",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Home of Military Transport",
+        "minutes": 2.8
+      },
+      {
+        "stop": "Golra Morh",
+        "minutes": 6.3
+      },
+      {
+        "stop": "Chishtiabad",
+        "minutes": 8.3
+      },
+      {
+        "stop": "Kohinoor Mill",
+        "minutes": 10.8
+      },
+      {
+        "stop": "Kohinoor Mill Colony",
+        "minutes": 12.8
+      },
+      {
+        "stop": "Pir Wadhai Morh",
+        "minutes": 15.3
+      },
+      {
+        "stop": "British Homes",
+        "minutes": 16.9
+      },
+      {
+        "stop": "Social Security Hospital",
+        "minutes": 18.6
+      },
+      {
+        "stop": "CTTI",
+        "minutes": 20.6
+      },
+      {
+        "stop": "Carriage Factory",
+        "minutes": 22.3
+      },
+      {
+        "stop": "Westridge",
+        "minutes": 24.1
+      },
+      {
+        "stop": "Fauji Colony",
+        "minutes": 26.3
+      },
+      {
+        "stop": "Mandi Morh",
+        "minutes": 28.6
+      },
+      {
+        "stop": "Pully Stop",
+        "minutes": 30.5
+      },
+      {
+        "stop": "CDA Stop",
+        "minutes": 32.2
+      },
+      {
+        "stop": "Katarian Pull",
+        "minutes": 33.9
+      },
+      {
+        "stop": "Katarian Chungi",
+        "minutes": 35.6
+      },
+      {
+        "stop": "Pindora Chungi",
+        "minutes": 37.6
+      },
+      {
+        "stop": "IJP Metro Station",
+        "minutes": 40.6
+      },
+      {
+        "stop": "Faizabad Metro Station",
+        "minutes": 44.8
+      },
+      {
+        "stop": "Sohan",
+        "minutes": 51.5
+      },
+      {
+        "stop": "Dhok Kala Khan",
+        "minutes": 55.0
+      },
+      {
+        "stop": "Iqbal Town",
+        "minutes": 57.3
+      },
+      {
+        "stop": "Kuri Road",
+        "minutes": 59.3
+      },
+      {
+        "stop": "Zia Masjid",
+        "minutes": 61.8
+      },
+      {
+        "stop": "Khanna Pul",
+        "minutes": 65.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-09_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": true,
+    "notes": "CHANGED since PDF: every 12 min from 3 Sep 2026 (TechJuice, https://www.techjuice.pk/?p=251552); PDF is 15 min. PDF departures are the 2025-08-25 baseline only. Same running times on every trip (template schedule). CDA header: route_id 10009, long name \"Golara Mor to Khanna Pul\", total trips 63, average headway 15 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-10",
+    "cda_short_name": "FR-10",
+    "direction": "forward",
+    "from": "Golra Morh",
+    "to": "Taxila",
+    "departures": [
+      "06:00",
+      "06:30",
+      "07:00",
+      "07:30",
+      "08:00",
+      "09:00",
+      "10:00",
+      "11:00",
+      "12:00",
+      "12:30",
+      "13:00",
+      "14:00",
+      "15:00",
+      "16:00",
+      "17:00",
+      "18:00",
+      "19:00",
+      "20:00",
+      "21:00"
+    ],
+    "trips": 19,
+    "first": "06:00",
+    "last": "21:00",
+    "headway_min": 60,
+    "headway_peak_min": 60,
+    "headway_offpeak_min": 60,
+    "headway_range_min": [
+      30.0,
+      60.0
+    ],
+    "journey_min": 75.2,
+    "last_arrival": "22:15",
+    "stop_count": 25,
+    "stop_offsets_min": [
+      {
+        "stop": "Golra Morh",
+        "minutes": 0.0
+      },
+      {
+        "stop": "G-13 Metro Station",
+        "minutes": 2.3
+      },
+      {
+        "stop": "NUST Metro Station",
+        "minutes": 4.8
+      },
+      {
+        "stop": "A.K Bari Road",
+        "minutes": 7.0
+      },
+      {
+        "stop": "G-11 Markaz",
+        "minutes": 10.0
+      },
+      {
+        "stop": "Hammad Uddin Road",
+        "minutes": 12.3
+      },
+      {
+        "stop": "Federal Government College",
+        "minutes": 14.8
+      },
+      {
+        "stop": "F-11 Markaz",
+        "minutes": 18.0
+      },
+      {
+        "stop": "OPF Girls College",
+        "minutes": 20.5
+      },
+      {
+        "stop": "Golra Sharif F-11/3",
+        "minutes": 22.5
+      },
+      {
+        "stop": "NPF Housing Society",
+        "minutes": 27.7
+      },
+      {
+        "stop": "Multy Stop",
+        "minutes": 29.7
+      },
+      {
+        "stop": "Islamabad International Hospital",
+        "minutes": 33.7
+      },
+      {
+        "stop": "D-12 Service Road",
+        "minutes": 35.8
+      },
+      {
+        "stop": "IESCO D-12",
+        "minutes": 38.1
+      },
+      {
+        "stop": "D-12 Markaz",
+        "minutes": 40.5
+      },
+      {
+        "stop": "Shah Allah Ditta",
+        "minutes": 44.8
+      },
+      {
+        "stop": "Sangjani",
+        "minutes": 56.6
+      },
+      {
+        "stop": "B-17 Gate no. 1",
+        "minutes": 59.8
+      },
+      {
+        "stop": "B-17 Gate no. 2",
+        "minutes": 62.1
+      },
+      {
+        "stop": "Margalla",
+        "minutes": 64.8
+      },
+      {
+        "stop": "Taxila Bypass",
+        "minutes": 67.4
+      },
+      {
+        "stop": "Wahdat Colony",
+        "minutes": 70.9
+      },
+      {
+        "stop": "Timber Market",
+        "minutes": 72.6
+      },
+      {
+        "stop": "Taxila",
+        "minutes": 75.2
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-10_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": true,
+    "notes": "CHANGED since PDF: from 20 Oct 2026 FR-10 runs only Golra Morh - B-17, no longer to Taxila (ProPakistani, https://propakistani.pk/2026/10/20/islamabad-changes-two-feeder-bus-routes/). The Golra Morh <-> Taxila timetable is superseded; stop offsets up to B-17 may still be usable. Same running times on every trip (template schedule). CDA header: route_id 10010, long name \"Golara Morh to Taxila\", total trips 19, average headway 50 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-10",
+    "cda_short_name": "FR-10",
+    "direction": "backward",
+    "from": "Taxila",
+    "to": "Golra Morh Metro Station",
+    "departures": [
+      "07:45",
+      "08:45",
+      "09:45",
+      "10:45",
+      "11:45",
+      "12:45",
+      "13:45",
+      "14:45",
+      "15:45",
+      "16:45",
+      "17:45",
+      "18:45",
+      "19:45",
+      "20:45",
+      "21:45"
+    ],
+    "trips": 15,
+    "first": "07:45",
+    "last": "21:45",
+    "headway_min": 60,
+    "headway_peak_min": 60,
+    "headway_offpeak_min": 60,
+    "headway_range_min": [
+      60.0,
+      60.0
+    ],
+    "journey_min": 79.9,
+    "last_arrival": "23:04",
+    "stop_count": 25,
+    "stop_offsets_min": [
+      {
+        "stop": "Taxila",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Timber Market",
+        "minutes": 2.3
+      },
+      {
+        "stop": "Wahdat Colony",
+        "minutes": 4.2
+      },
+      {
+        "stop": "Taxila Bypass",
+        "minutes": 7.7
+      },
+      {
+        "stop": "Margalla",
+        "minutes": 10.3
+      },
+      {
+        "stop": "B-17 Gate no. 2",
+        "minutes": 13.2
+      },
+      {
+        "stop": "B-17 Gate no. 1",
+        "minutes": 15.6
+      },
+      {
+        "stop": "Sangjani",
+        "minutes": 18.9
+      },
+      {
+        "stop": "Shah Allah Ditta",
+        "minutes": 30.6
+      },
+      {
+        "stop": "D-12 Markaz",
+        "minutes": 37.2
+      },
+      {
+        "stop": "IESCO D-12",
+        "minutes": 39.7
+      },
+      {
+        "stop": "D-12 Service Road",
+        "minutes": 41.9
+      },
+      {
+        "stop": "Islamabad International Hospital",
+        "minutes": 44.1
+      },
+      {
+        "stop": "Multy Stop",
+        "minutes": 48.1
+      },
+      {
+        "stop": "NPF Housing Society",
+        "minutes": 50.1
+      },
+      {
+        "stop": "Golra Sharif F-11/3",
+        "minutes": 57.2
+      },
+      {
+        "stop": "OPF Girls College",
+        "minutes": 59.2
+      },
+      {
+        "stop": "F-11 Markaz",
+        "minutes": 61.8
+      },
+      {
+        "stop": "Federal Government College",
+        "minutes": 64.9
+      },
+      {
+        "stop": "Hammad Uddin Road",
+        "minutes": 67.4
+      },
+      {
+        "stop": "G-11 Markaz",
+        "minutes": 69.6
+      },
+      {
+        "stop": "A.K Bari Road",
+        "minutes": 72.6
+      },
+      {
+        "stop": "NUST Metro Station",
+        "minutes": 74.8
+      },
+      {
+        "stop": "G-13 Metro Station",
+        "minutes": 77.2
+      },
+      {
+        "stop": "Golra Morh Metro Station",
+        "minutes": 79.9
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-10_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": true,
+    "notes": "CHANGED since PDF: from 20 Oct 2026 FR-10 runs only Golra Morh - B-17, no longer to Taxila (ProPakistani, https://propakistani.pk/2026/10/20/islamabad-changes-two-feeder-bus-routes/). The Golra Morh <-> Taxila timetable is superseded; stop offsets up to B-17 may still be usable. Same running times on every trip (template schedule). CDA header: route_id 10010, long name \"Golara Morh to Taxila\", total trips 15, average headway 60 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-11",
+    "cda_short_name": "FR-11",
+    "direction": "forward",
+    "from": "Golra Morh Metro Station",
+    "to": "Rafiullah Shaheed Chowk",
+    "departures": [
+      "06:00",
+      "07:00",
+      "08:00",
+      "09:00",
+      "10:00",
+      "11:00",
+      "12:00",
+      "13:00",
+      "14:00",
+      "15:00",
+      "16:00",
+      "17:00",
+      "18:00",
+      "19:00",
+      "20:00",
+      "21:00",
+      "21:50",
+      "21:55",
+      "22:00"
+    ],
+    "trips": 19,
+    "first": "06:00",
+    "last": "22:00",
+    "headway_min": 60,
+    "headway_peak_min": 60,
+    "headway_offpeak_min": 60,
+    "headway_range_min": [
+      5.0,
+      60.0
+    ],
+    "journey_min": 20.0,
+    "last_arrival": "22:20",
+    "stop_count": 10,
+    "stop_offsets_min": [
+      {
+        "stop": "Golra Morh Metro Station",
+        "minutes": 0.0
+      },
+      {
+        "stop": "N5 Metro Station",
+        "minutes": 4.8
+      },
+      {
+        "stop": "Motorway Chowk",
+        "minutes": 6.0
+      },
+      {
+        "stop": "NUST EME College",
+        "minutes": 8.4
+      },
+      {
+        "stop": "Golra Morh",
+        "minutes": 10.9
+      },
+      {
+        "stop": "IMCG I-14/3",
+        "minutes": 13.2
+      },
+      {
+        "stop": "RIPHAH International University",
+        "minutes": 15.2
+      },
+      {
+        "stop": "I-14 Markaz",
+        "minutes": 16.8
+      },
+      {
+        "stop": "I-14/1 Park",
+        "minutes": 18.5
+      },
+      {
+        "stop": "Rafiullah Shaheed Chowk",
+        "minutes": 20.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-11_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "PDF shows the older short pattern ending at Rafiullah Shaheed Chowk (I-14, 10 stops); the CDA route table and the data route now run to I-16/4. Same running times on every trip (template schedule). CDA header: route_id 10011, long name \"Golra Morh Metro Station- Rafiullah Shaheed Chowk\", total trips 19, average headway 53 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-11",
+    "cda_short_name": "FR-11",
+    "direction": "backward",
+    "from": "Rafiullah Shaheed Chowk",
+    "to": "Golra Morh Metro Station",
+    "departures": [
+      "07:00",
+      "08:00",
+      "09:00",
+      "10:00",
+      "11:00",
+      "12:00",
+      "13:00",
+      "14:00",
+      "15:00",
+      "16:00",
+      "17:00",
+      "18:00",
+      "19:00",
+      "20:00",
+      "21:00",
+      "22:00"
+    ],
+    "trips": 16,
+    "first": "07:00",
+    "last": "22:00",
+    "headway_min": 60,
+    "headway_peak_min": 60,
+    "headway_offpeak_min": 60,
+    "headway_range_min": [
+      60.0,
+      60.0
+    ],
+    "journey_min": 20.0,
+    "last_arrival": "22:20",
+    "stop_count": 10,
+    "stop_offsets_min": [
+      {
+        "stop": "Rafiullah Shaheed Chowk",
+        "minutes": 0.0
+      },
+      {
+        "stop": "I-14/1 Park",
+        "minutes": 1.2
+      },
+      {
+        "stop": "I-14 Markaz",
+        "minutes": 2.8
+      },
+      {
+        "stop": "RIPHAH International University",
+        "minutes": 4.4
+      },
+      {
+        "stop": "IMCG I-14/3",
+        "minutes": 6.4
+      },
+      {
+        "stop": "Golra Morh",
+        "minutes": 8.8
+      },
+      {
+        "stop": "NUST EME College",
+        "minutes": 11.2
+      },
+      {
+        "stop": "Motorway Chowk",
+        "minutes": 14.1
+      },
+      {
+        "stop": "N5 Metro Station",
+        "minutes": 17.1
+      },
+      {
+        "stop": "Golra Morh Metro Station",
+        "minutes": 20.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-11_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "PDF shows the older short pattern ending at Rafiullah Shaheed Chowk (I-14, 10 stops); the CDA route table and the data route now run to I-16/4. Same running times on every trip (template schedule). CDA header: route_id 10011, long name \"Golra Morh Metro Station- Rafiullah Shaheed Chowk\", total trips 16, average headway 60 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-12",
+    "cda_short_name": "FR-12",
+    "direction": "forward",
+    "from": "Taxila Chowk",
+    "to": "Tipu Sultan Shaheed Chowk",
+    "departures": [
+      "07:00",
+      "08:00",
+      "09:00",
+      "10:00",
+      "11:00",
+      "12:00",
+      "13:00",
+      "14:00",
+      "15:00",
+      "16:00",
+      "17:00",
+      "18:00"
+    ],
+    "trips": 12,
+    "first": "07:00",
+    "last": "18:00",
+    "headway_min": 60,
+    "headway_peak_min": 60,
+    "headway_offpeak_min": 60,
+    "headway_range_min": [
+      60.0,
+      60.0
+    ],
+    "journey_min": 41.0,
+    "last_arrival": "18:41",
+    "stop_count": 25,
+    "stop_offsets_min": [
+      {
+        "stop": "Taxila Chowk",
+        "minutes": 0.0
+      },
+      {
+        "stop": "University of Wah",
+        "minutes": 2.3
+      },
+      {
+        "stop": "Nawab Abad",
+        "minutes": 4.5
+      },
+      {
+        "stop": "Wah Cantt Barrier No 2",
+        "minutes": 6.7
+      },
+      {
+        "stop": "Gulshan e Anwar",
+        "minutes": 8.3
+      },
+      {
+        "stop": "Jinnah Colony",
+        "minutes": 10.0
+      },
+      {
+        "stop": "New City Phase 01",
+        "minutes": 11.9
+      },
+      {
+        "stop": "Losar Sharfoo",
+        "minutes": 13.6
+      },
+      {
+        "stop": "New City Phase 02",
+        "minutes": 15.8
+      },
+      {
+        "stop": "Bahtar Morh",
+        "minutes": 18.1
+      },
+      {
+        "stop": "Wah Model Town Phase 01",
+        "minutes": 19.2
+      },
+      {
+        "stop": "Wah Model Town Phase 02",
+        "minutes": 21.2
+      },
+      {
+        "stop": "Swedish College",
+        "minutes": 22.5
+      },
+      {
+        "stop": "Malakand Stop",
+        "minutes": 24.3
+      },
+      {
+        "stop": "Basti",
+        "minutes": 25.8
+      },
+      {
+        "stop": "Sabri Gali",
+        "minutes": 27.7
+      },
+      {
+        "stop": "Wah Cantt Barrier 03",
+        "minutes": 28.7
+      },
+      {
+        "stop": "Ahmad Nagar",
+        "minutes": 29.8
+      },
+      {
+        "stop": "Shah Wali Colony Road",
+        "minutes": 31.0
+      },
+      {
+        "stop": "Wah Gardens",
+        "minutes": 32.4
+      },
+      {
+        "stop": "Askari Cement Factory Road",
+        "minutes": 34.7
+      },
+      {
+        "stop": "Dhok Dhollian",
+        "minutes": 36.3
+      },
+      {
+        "stop": "WAPDA Colony",
+        "minutes": 38.0
+      },
+      {
+        "stop": "Hassan Abdal",
+        "minutes": 39.8
+      },
+      {
+        "stop": "Tipu Sultan Shaheed Chowk",
+        "minutes": 41.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-12_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "Same running times on every trip (template schedule). CDA header: route_id 10012, long name \"Taxila Chowk- Tipu Sultan Shaheed Chowk\", total trips 12, average headway 60 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-12",
+    "cda_short_name": "FR-12",
+    "direction": "backward",
+    "from": "Tipu Sultan Shaheed Chowk",
+    "to": "Taxila Chowk",
+    "departures": [
+      "08:00",
+      "09:00",
+      "10:00",
+      "11:00",
+      "12:00",
+      "13:00",
+      "14:00",
+      "15:00",
+      "16:00",
+      "17:00",
+      "18:00",
+      "19:00"
+    ],
+    "trips": 12,
+    "first": "08:00",
+    "last": "19:00",
+    "headway_min": 60,
+    "headway_peak_min": 60,
+    "headway_offpeak_min": 60,
+    "headway_range_min": [
+      60.0,
+      60.0
+    ],
+    "journey_min": 41.5,
+    "last_arrival": "19:41",
+    "stop_count": 25,
+    "stop_offsets_min": [
+      {
+        "stop": "Tipu Sultan Shaheed Chowk",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Hassan Abdal",
+        "minutes": 1.3
+      },
+      {
+        "stop": "WAPDA Colony",
+        "minutes": 3.2
+      },
+      {
+        "stop": "Dhok Dhollian",
+        "minutes": 4.8
+      },
+      {
+        "stop": "Askari Cement Factory Road",
+        "minutes": 6.5
+      },
+      {
+        "stop": "Wah Gardens",
+        "minutes": 8.8
+      },
+      {
+        "stop": "Shah Wali Colony Road",
+        "minutes": 10.2
+      },
+      {
+        "stop": "Ahmad Nagar",
+        "minutes": 11.3
+      },
+      {
+        "stop": "Wah Cantt Barrier 03",
+        "minutes": 12.5
+      },
+      {
+        "stop": "Sabri Gali",
+        "minutes": 13.5
+      },
+      {
+        "stop": "Basti",
+        "minutes": 15.3
+      },
+      {
+        "stop": "Malakand Stop",
+        "minutes": 16.8
+      },
+      {
+        "stop": "Swedish College",
+        "minutes": 18.7
+      },
+      {
+        "stop": "Wah Model Town Phase 02",
+        "minutes": 19.9
+      },
+      {
+        "stop": "Wah Model Town Phase 01",
+        "minutes": 21.9
+      },
+      {
+        "stop": "Bahtar Morh",
+        "minutes": 23.1
+      },
+      {
+        "stop": "New City Phase 02",
+        "minutes": 25.3
+      },
+      {
+        "stop": "Losar Sharfoo",
+        "minutes": 27.6
+      },
+      {
+        "stop": "New City Phase 01",
+        "minutes": 29.2
+      },
+      {
+        "stop": "Jinnah Colony",
+        "minutes": 31.2
+      },
+      {
+        "stop": "Gulshan e Anwar",
+        "minutes": 32.8
+      },
+      {
+        "stop": "Wah Cantt Barrier No 2",
+        "minutes": 34.5
+      },
+      {
+        "stop": "Nawab Abad",
+        "minutes": 36.7
+      },
+      {
+        "stop": "University of Wah",
+        "minutes": 38.8
+      },
+      {
+        "stop": "Taxila Chowk",
+        "minutes": 41.5
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-12_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "Same running times on every trip (template schedule). CDA header: route_id 10012, long name \"Taxila Chowk- Tipu Sultan Shaheed Chowk\", total trips 12, average headway 60 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-13",
+    "cda_short_name": "FR-13",
+    "direction": "forward",
+    "from": "Golra Morh Metro Station",
+    "to": "Fateh Jang",
+    "departures": [
+      "06:00",
+      "07:00",
+      "08:00",
+      "09:00",
+      "10:00",
+      "11:00",
+      "12:00",
+      "13:00",
+      "14:00",
+      "15:00",
+      "16:00",
+      "17:00",
+      "18:00"
+    ],
+    "trips": 13,
+    "first": "06:00",
+    "last": "18:00",
+    "headway_min": 60,
+    "headway_peak_min": 60,
+    "headway_offpeak_min": 60,
+    "headway_range_min": [
+      60.0,
+      60.0
+    ],
+    "journey_min": 70.5,
+    "last_arrival": "19:10",
+    "stop_count": 29,
+    "stop_offsets_min": [
+      {
+        "stop": "Golra Morh Metro Station",
+        "minutes": 0.0
+      },
+      {
+        "stop": "N-5 Metro Station",
+        "minutes": 2.2
+      },
+      {
+        "stop": "G-15/H-15",
+        "minutes": 4.2
+      },
+      {
+        "stop": "G-16/H-16",
+        "minutes": 6.8
+      },
+      {
+        "stop": "G-16/1",
+        "minutes": 9.8
+      },
+      {
+        "stop": "Masjid Abu Al Qasim",
+        "minutes": 12.4
+      },
+      {
+        "stop": "Top City",
+        "minutes": 15.9
+      },
+      {
+        "stop": "Mumtaz City",
+        "minutes": 17.6
+      },
+      {
+        "stop": "Airport Enclave",
+        "minutes": 20.2
+      },
+      {
+        "stop": "Madni Chowk",
+        "minutes": 24.3
+      },
+      {
+        "stop": "Dhuma",
+        "minutes": 26.8
+      },
+      {
+        "stop": "PECHS",
+        "minutes": 29.8
+      },
+      {
+        "stop": "Mohri Patak",
+        "minutes": 33.2
+      },
+      {
+        "stop": "Dhok Miskeen",
+        "minutes": 35.5
+      },
+      {
+        "stop": "Mangial Link Road 1",
+        "minutes": 39.1
+      },
+      {
+        "stop": "Graceland Housing Society",
+        "minutes": 42.6
+      },
+      {
+        "stop": "Mangial Link Road 2",
+        "minutes": 45.3
+      },
+      {
+        "stop": "Mangial Main Stop",
+        "minutes": 48.0
+      },
+      {
+        "stop": "Doiyan",
+        "minutes": 49.6
+      },
+      {
+        "stop": "Qutbal",
+        "minutes": 52.4
+      },
+      {
+        "stop": "Bangu Chowk",
+        "minutes": 54.4
+      },
+      {
+        "stop": "Afridi Bagh",
+        "minutes": 56.3
+      },
+      {
+        "stop": "Hattar",
+        "minutes": 57.9
+      },
+      {
+        "stop": "Prem Nagar Faqeeran",
+        "minutes": 59.4
+      },
+      {
+        "stop": "Garhi Hasu Khan",
+        "minutes": 60.7
+      },
+      {
+        "stop": "The Avanue 03",
+        "minutes": 62.7
+      },
+      {
+        "stop": "Akram City",
+        "minutes": 66.2
+      },
+      {
+        "stop": "Civil CT Road",
+        "minutes": 68.0
+      },
+      {
+        "stop": "Fateh Jang",
+        "minutes": 70.5
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-13_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": true,
+    "notes": "DISCONTINUED 20 Oct 2026 (ProPakistani, https://propakistani.pk/2026/10/20/islamabad-changes-two-feeder-bus-routes/). PDF timetable is historical only. Same running times on every trip (template schedule). CDA header: route_id 10013, long name \"Golara Morh Station to Fateh Jang\", total trips 13, average headway 60 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-13",
+    "cda_short_name": "FR-13",
+    "direction": "backward",
+    "from": "Fateh Jang",
+    "to": "Golra Morh Metro Station",
+    "departures": [
+      "07:15",
+      "08:15",
+      "09:15",
+      "10:15",
+      "11:15",
+      "12:15",
+      "13:15",
+      "14:15",
+      "15:15",
+      "16:15",
+      "17:15",
+      "18:15",
+      "19:15"
+    ],
+    "trips": 13,
+    "first": "07:15",
+    "last": "19:15",
+    "headway_min": 60,
+    "headway_peak_min": 60,
+    "headway_offpeak_min": 60,
+    "headway_range_min": [
+      60.0,
+      60.0
+    ],
+    "journey_min": 70.5,
+    "last_arrival": "20:25",
+    "stop_count": 29,
+    "stop_offsets_min": [
+      {
+        "stop": "Fateh Jang",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Civil CT Road",
+        "minutes": 2.2
+      },
+      {
+        "stop": "Akram City",
+        "minutes": 4.2
+      },
+      {
+        "stop": "The Avanue 03",
+        "minutes": 6.8
+      },
+      {
+        "stop": "Garhi Hasu Khan",
+        "minutes": 9.8
+      },
+      {
+        "stop": "Prem Nagar Faqeeran",
+        "minutes": 12.4
+      },
+      {
+        "stop": "Hattar",
+        "minutes": 15.9
+      },
+      {
+        "stop": "Afridi Bagh",
+        "minutes": 17.6
+      },
+      {
+        "stop": "Bangu Chowk",
+        "minutes": 20.2
+      },
+      {
+        "stop": "Qutbal",
+        "minutes": 24.3
+      },
+      {
+        "stop": "Doiyan",
+        "minutes": 26.8
+      },
+      {
+        "stop": "Mangial Main Stop",
+        "minutes": 29.8
+      },
+      {
+        "stop": "Mangial Link Road 2",
+        "minutes": 33.2
+      },
+      {
+        "stop": "Graceland Housing Society",
+        "minutes": 35.5
+      },
+      {
+        "stop": "Mangial Link Road 1",
+        "minutes": 39.1
+      },
+      {
+        "stop": "Dhok Miskeen",
+        "minutes": 42.6
+      },
+      {
+        "stop": "Mohri Patak",
+        "minutes": 45.3
+      },
+      {
+        "stop": "PECHS",
+        "minutes": 48.0
+      },
+      {
+        "stop": "Dhuma",
+        "minutes": 49.6
+      },
+      {
+        "stop": "Madni Chowk",
+        "minutes": 52.4
+      },
+      {
+        "stop": "Airport Enclave",
+        "minutes": 54.4
+      },
+      {
+        "stop": "Mumtaz City",
+        "minutes": 56.3
+      },
+      {
+        "stop": "Top City",
+        "minutes": 57.9
+      },
+      {
+        "stop": "Masjid Abu Al Qasim",
+        "minutes": 59.4
+      },
+      {
+        "stop": "G-16/1",
+        "minutes": 60.7
+      },
+      {
+        "stop": "G-16/H-16",
+        "minutes": 62.7
+      },
+      {
+        "stop": "G-15/H-15",
+        "minutes": 66.2
+      },
+      {
+        "stop": "N5 Metro Station",
+        "minutes": 68.0
+      },
+      {
+        "stop": "Golra Morh Metro Station",
+        "minutes": 70.5
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-13_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": true,
+    "notes": "DISCONTINUED 20 Oct 2026 (ProPakistani, https://propakistani.pk/2026/10/20/islamabad-changes-two-feeder-bus-routes/). PDF timetable is historical only. Same running times on every trip (template schedule). CDA header: route_id 10013, long name \"Golara Morh Station to Fateh Jang\", total trips 13, average headway 60 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-14",
+    "cda_short_name": "FR-14",
+    "direction": "forward",
+    "from": "Barakahu",
+    "to": "Mandi Morh",
+    "departures": [
+      "06:00",
+      "06:15",
+      "06:30",
+      "06:45",
+      "07:00",
+      "07:15",
+      "07:30",
+      "07:45",
+      "08:00",
+      "08:15",
+      "08:30",
+      "08:45",
+      "09:00",
+      "09:15",
+      "09:30",
+      "09:45",
+      "10:00",
+      "10:15",
+      "10:30",
+      "10:45",
+      "11:00",
+      "11:15",
+      "11:30",
+      "11:45",
+      "12:00",
+      "12:15",
+      "12:30",
+      "12:45",
+      "13:00",
+      "13:15",
+      "13:30",
+      "13:45",
+      "14:00",
+      "14:15",
+      "14:30",
+      "14:45",
+      "15:00",
+      "15:15",
+      "15:30",
+      "15:45",
+      "16:00",
+      "16:15",
+      "16:30",
+      "16:45",
+      "17:00",
+      "17:15",
+      "17:30",
+      "17:45",
+      "18:00",
+      "18:15",
+      "18:30",
+      "18:45",
+      "19:00",
+      "19:15",
+      "19:30",
+      "19:45",
+      "20:00",
+      "20:15",
+      "20:30",
+      "20:45",
+      "21:00",
+      "21:15",
+      "21:30",
+      "21:45",
+      "22:00"
+    ],
+    "trips": 65,
+    "first": "06:00",
+    "last": "22:00",
+    "headway_min": 15,
+    "headway_peak_min": 15,
+    "headway_offpeak_min": 15,
+    "headway_range_min": [
+      15.0,
+      15.0
+    ],
+    "journey_min": 53.0,
+    "last_arrival": "22:53",
+    "stop_count": 19,
+    "stop_offsets_min": [
+      {
+        "stop": "Barakahu",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Shahdara",
+        "minutes": 2.2
+      },
+      {
+        "stop": "Malpur",
+        "minutes": 4.8
+      },
+      {
+        "stop": "Lake View Park",
+        "minutes": 7.2
+      },
+      {
+        "stop": "Dhokri Stop",
+        "minutes": 11.2
+      },
+      {
+        "stop": "Kashmir Chowk",
+        "minutes": 12.8
+      },
+      {
+        "stop": "Rawal Dam Chowk",
+        "minutes": 15.8
+      },
+      {
+        "stop": "Garden Avenue",
+        "minutes": 18.3
+      },
+      {
+        "stop": "Margalla Town",
+        "minutes": 20.4
+      },
+      {
+        "stop": "ITP Driving License Centre",
+        "minutes": 23.1
+      },
+      {
+        "stop": "Sohan",
+        "minutes": 30.1
+      },
+      {
+        "stop": "Faizabad Metro Station",
+        "minutes": 34.1
+      },
+      {
+        "stop": "IJP Metro Station",
+        "minutes": 38.4
+      },
+      {
+        "stop": "Pindora Chungi",
+        "minutes": 42.6
+      },
+      {
+        "stop": "Katarian Chungi",
+        "minutes": 44.1
+      },
+      {
+        "stop": "Katarian Pull",
+        "minutes": 45.7
+      },
+      {
+        "stop": "CDA Stop",
+        "minutes": 47.9
+      },
+      {
+        "stop": "Pully Stop",
+        "minutes": 50.0
+      },
+      {
+        "stop": "Mandi Morh",
+        "minutes": 53.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-14_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": true,
+    "notes": "CHANGED since PDF: every 12 min from 3 Sep 2026 (TechJuice, https://www.techjuice.pk/?p=251552); PDF is 15 min. PDF departures are the 2025-08-25 baseline only. Same running times on every trip (template schedule). CDA header: route_id 10014, long name \"Bara Kahu to Mandi Morh\", total trips 65, average headway 15 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-14",
+    "cda_short_name": "FR-14",
+    "direction": "backward",
+    "from": "Mandi Morh",
+    "to": "Barahkahu",
+    "departures": [
+      "07:00",
+      "07:15",
+      "07:30",
+      "07:45",
+      "08:00",
+      "08:15",
+      "08:30",
+      "08:45",
+      "09:00",
+      "09:15",
+      "09:30",
+      "09:45",
+      "10:00",
+      "10:15",
+      "10:30",
+      "10:45",
+      "11:00",
+      "11:15",
+      "11:30",
+      "11:45",
+      "12:00",
+      "12:15",
+      "12:30",
+      "12:45",
+      "13:00",
+      "13:15",
+      "13:30",
+      "13:45",
+      "14:00",
+      "14:15",
+      "14:30",
+      "14:45",
+      "15:00",
+      "15:15",
+      "15:30",
+      "15:45",
+      "16:00",
+      "16:15",
+      "16:30",
+      "16:45",
+      "17:00",
+      "17:15",
+      "17:30",
+      "17:45",
+      "18:00",
+      "18:15",
+      "18:30",
+      "18:45",
+      "19:00",
+      "19:15",
+      "19:30",
+      "19:45",
+      "20:00",
+      "20:15",
+      "20:30",
+      "20:45",
+      "21:00",
+      "21:15",
+      "21:30",
+      "21:45",
+      "22:00"
+    ],
+    "trips": 61,
+    "first": "07:00",
+    "last": "22:00",
+    "headway_min": 15,
+    "headway_peak_min": 15,
+    "headway_offpeak_min": 15,
+    "headway_range_min": [
+      15.0,
+      15.0
+    ],
+    "journey_min": 44.7,
+    "last_arrival": "22:44",
+    "stop_count": 18,
+    "stop_offsets_min": [
+      {
+        "stop": "Mandi Morh",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Pully Stop",
+        "minutes": 1.5
+      },
+      {
+        "stop": "CDA Stop",
+        "minutes": 3.2
+      },
+      {
+        "stop": "Katarian Chungi",
+        "minutes": 4.9
+      },
+      {
+        "stop": "Katarian Chungi",
+        "minutes": 6.6
+      },
+      {
+        "stop": "Pindora",
+        "minutes": 8.6
+      },
+      {
+        "stop": "IJP Metro Station",
+        "minutes": 11.6
+      },
+      {
+        "stop": "Faizabad Metro Station",
+        "minutes": 15.8
+      },
+      {
+        "stop": "ITP Driving Licence Centre",
+        "minutes": 19.4
+      },
+      {
+        "stop": "Margalla Town",
+        "minutes": 22.4
+      },
+      {
+        "stop": "Garden Avenue",
+        "minutes": 24.4
+      },
+      {
+        "stop": "Rawal Dam Chowk",
+        "minutes": 27.1
+      },
+      {
+        "stop": "Kashmir Chowk",
+        "minutes": 30.4
+      },
+      {
+        "stop": "Dhokri Chowk",
+        "minutes": 32.7
+      },
+      {
+        "stop": "Lake view Park",
+        "minutes": 36.8
+      },
+      {
+        "stop": "Malpur",
+        "minutes": 39.3
+      },
+      {
+        "stop": "Shahdara",
+        "minutes": 42.7
+      },
+      {
+        "stop": "Barahkahu",
+        "minutes": 44.7
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-14_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": true,
+    "notes": "CHANGED since PDF: every 12 min from 3 Sep 2026 (TechJuice, https://www.techjuice.pk/?p=251552); PDF is 15 min. PDF departures are the 2025-08-25 baseline only. Same running times on every trip (template schedule). CDA header: route_id 10014, long name \"Bara Kahu to Mandi Morh\", total trips 61, average headway 15 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-14A",
+    "cda_short_name": "FR-14A",
+    "direction": "forward",
+    "from": "Barakahu Terminal",
+    "to": "Satra Meel",
+    "departures": [
+      "06:00",
+      "06:15",
+      "06:30",
+      "06:45",
+      "07:00",
+      "07:15",
+      "07:30",
+      "07:45",
+      "08:00",
+      "08:15",
+      "08:30",
+      "08:45",
+      "09:00",
+      "09:15",
+      "09:30",
+      "09:45",
+      "10:00",
+      "10:15",
+      "10:30",
+      "10:45",
+      "11:00",
+      "11:15",
+      "11:30",
+      "11:45",
+      "12:00",
+      "12:15",
+      "12:30",
+      "12:45",
+      "13:00",
+      "13:15",
+      "13:30",
+      "13:45",
+      "14:00",
+      "14:15",
+      "14:30",
+      "14:45",
+      "15:00",
+      "15:15",
+      "15:30",
+      "15:45",
+      "16:00",
+      "16:15",
+      "16:30",
+      "16:45",
+      "17:00",
+      "17:15",
+      "17:30",
+      "17:45",
+      "18:00",
+      "18:15",
+      "18:30",
+      "18:45",
+      "19:00",
+      "19:15",
+      "19:30",
+      "19:45",
+      "20:00",
+      "20:15",
+      "20:30",
+      "20:45",
+      "21:00",
+      "21:15",
+      "21:30",
+      "21:45",
+      "22:00"
+    ],
+    "trips": 65,
+    "first": "06:00",
+    "last": "22:00",
+    "headway_min": 15,
+    "headway_peak_min": 15,
+    "headway_offpeak_min": 15,
+    "headway_range_min": [
+      15.0,
+      15.0
+    ],
+    "journey_min": 22.0,
+    "last_arrival": "22:22",
+    "stop_count": 14,
+    "stop_offsets_min": [
+      {
+        "stop": "Barakahu Terminal",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Mangu Town",
+        "minutes": 0.8
+      },
+      {
+        "stop": "Col. Ammanullah Road",
+        "minutes": 2.3
+      },
+      {
+        "stop": "Athal Chowk",
+        "minutes": 4.5
+      },
+      {
+        "stop": "Barakahu Bazar",
+        "minutes": 7.5
+      },
+      {
+        "stop": "Bhera Pull",
+        "minutes": 10.0
+      },
+      {
+        "stop": "Nai Abadi",
+        "minutes": 12.5
+      },
+      {
+        "stop": "Traders Colony",
+        "minutes": 14.8
+      },
+      {
+        "stop": "Akbar Niazi Hospital",
+        "minutes": 16.5
+      },
+      {
+        "stop": "Phulgran",
+        "minutes": 17.5
+      },
+      {
+        "stop": "Dhok Badam",
+        "minutes": 18.5
+      },
+      {
+        "stop": "Punjab College",
+        "minutes": 19.5
+      },
+      {
+        "stop": "Al Wadi Colony",
+        "minutes": 20.0
+      },
+      {
+        "stop": "Satra Meel",
+        "minutes": 22.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-14A_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "Same running times on every trip (template schedule). CDA header: route_id 11014, long name \"Bara Kahu to Satra Meel\", total trips 65, average headway 15 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-14A",
+    "cda_short_name": "FR-14A",
+    "direction": "backward",
+    "from": "Satra Meel",
+    "to": "Barakahu Terminal",
+    "departures": [
+      "06:30",
+      "06:45",
+      "07:00",
+      "07:15",
+      "07:30",
+      "07:45",
+      "08:00",
+      "08:15",
+      "08:30",
+      "08:45",
+      "09:00",
+      "09:15",
+      "09:30",
+      "09:45",
+      "10:00",
+      "10:15",
+      "10:30",
+      "10:45",
+      "11:00",
+      "11:15",
+      "11:30",
+      "11:45",
+      "12:00",
+      "12:15",
+      "12:30",
+      "12:45",
+      "13:00",
+      "13:15",
+      "13:30",
+      "13:45",
+      "14:00",
+      "14:15",
+      "14:30",
+      "14:45",
+      "15:00",
+      "15:15",
+      "15:30",
+      "15:45",
+      "16:00",
+      "16:15",
+      "16:30",
+      "16:45",
+      "17:00",
+      "17:15",
+      "17:30",
+      "17:45",
+      "18:00",
+      "18:15",
+      "18:30",
+      "18:45",
+      "19:00",
+      "19:15",
+      "19:30",
+      "19:45",
+      "20:00",
+      "20:15",
+      "20:30",
+      "20:45",
+      "21:00",
+      "21:15",
+      "21:30",
+      "21:45",
+      "22:00"
+    ],
+    "trips": 63,
+    "first": "06:30",
+    "last": "22:00",
+    "headway_min": 15,
+    "headway_peak_min": 15,
+    "headway_offpeak_min": 15,
+    "headway_range_min": [
+      15.0,
+      15.0
+    ],
+    "journey_min": 23.8,
+    "last_arrival": "22:23",
+    "stop_count": 15,
+    "stop_offsets_min": [
+      {
+        "stop": "Satra Meel",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Al Wadi Colony",
+        "minutes": 1.3
+      },
+      {
+        "stop": "Punjab College",
+        "minutes": 2.3
+      },
+      {
+        "stop": "Dhok Badam",
+        "minutes": 3.3
+      },
+      {
+        "stop": "Phulgran",
+        "minutes": 4.2
+      },
+      {
+        "stop": "Akbar Niazi Hospital",
+        "minutes": 5.2
+      },
+      {
+        "stop": "Traders Colony",
+        "minutes": 6.8
+      },
+      {
+        "stop": "Shahpur Link Road",
+        "minutes": 9.2
+      },
+      {
+        "stop": "Nai Abadi",
+        "minutes": 10.5
+      },
+      {
+        "stop": "Bhera Pull",
+        "minutes": 13.0
+      },
+      {
+        "stop": "Barakahu Bazar",
+        "minutes": 15.5
+      },
+      {
+        "stop": "Athal Chowk",
+        "minutes": 18.5
+      },
+      {
+        "stop": "Col. Ammanullah Road",
+        "minutes": 20.5
+      },
+      {
+        "stop": "Mangu Town",
+        "minutes": 21.7
+      },
+      {
+        "stop": "Barakahu Terminal",
+        "minutes": 23.8
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-14A_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "Same running times on every trip (template schedule). CDA header: route_id 11014, long name \"Bara Kahu to Satra Meel\", total trips 63, average headway 15 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-15",
+    "cda_short_name": "FR-15",
+    "direction": "forward",
+    "from": "Khanna Pul",
+    "to": "T- Chowk",
+    "departures": [
+      "06:00",
+      "06:30",
+      "07:00",
+      "07:30",
+      "08:00",
+      "08:30",
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30",
+      "13:00",
+      "13:30",
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30",
+      "17:00",
+      "17:30",
+      "18:00",
+      "18:30",
+      "19:00",
+      "19:30",
+      "20:00",
+      "20:30",
+      "21:00",
+      "21:30",
+      "22:00"
+    ],
+    "trips": 33,
+    "first": "06:00",
+    "last": "22:00",
+    "headway_min": 30,
+    "headway_peak_min": 30,
+    "headway_offpeak_min": 30,
+    "headway_range_min": [
+      30.0,
+      30.0
+    ],
+    "journey_min": 30.5,
+    "last_arrival": "22:30",
+    "stop_count": 16,
+    "stop_offsets_min": [
+      {
+        "stop": "Khanna Pul",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Fazaia",
+        "minutes": 1.5
+      },
+      {
+        "stop": "Gangal",
+        "minutes": 3.6
+      },
+      {
+        "stop": "Koral Town",
+        "minutes": 5.8
+      },
+      {
+        "stop": "Gulberg",
+        "minutes": 7.7
+      },
+      {
+        "stop": "Pagh Chowk",
+        "minutes": 9.8
+      },
+      {
+        "stop": "PWD Housing Society",
+        "minutes": 12.0
+      },
+      {
+        "stop": "Soan Gardens E Block",
+        "minutes": 13.8
+      },
+      {
+        "stop": "Soan Gardens G Block",
+        "minutes": 15.9
+      },
+      {
+        "stop": "Soan Gardens H Block",
+        "minutes": 18.2
+      },
+      {
+        "stop": "River Gardens",
+        "minutes": 20.0
+      },
+      {
+        "stop": "Kaak Pul",
+        "minutes": 22.1
+      },
+      {
+        "stop": "DHA Gate 08",
+        "minutes": 24.3
+      },
+      {
+        "stop": "DHA Gate 07",
+        "minutes": 26.2
+      },
+      {
+        "stop": "SUPARCO",
+        "minutes": 28.2
+      },
+      {
+        "stop": "T- Chowk",
+        "minutes": 30.5
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-15_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "Same running times on every trip (template schedule). CDA header: route_id 10015, long name \"Khanna Pul- T- Chowk\", total trips 33, average headway 30 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "FR-15",
+    "cda_short_name": "FR-15",
+    "direction": "backward",
+    "from": "T- Chowk",
+    "to": "Khanna Pul",
+    "departures": [
+      "06:50",
+      "07:20",
+      "07:50",
+      "08:20",
+      "08:50",
+      "09:20",
+      "09:50",
+      "10:20",
+      "10:50",
+      "11:20",
+      "11:50",
+      "12:20",
+      "12:50",
+      "13:20",
+      "13:50",
+      "14:20",
+      "14:50",
+      "15:20",
+      "15:50",
+      "16:20",
+      "16:50",
+      "17:20",
+      "17:50",
+      "18:20",
+      "18:50",
+      "19:20",
+      "19:50",
+      "20:20",
+      "20:50",
+      "21:20",
+      "21:50",
+      "22:00"
+    ],
+    "trips": 32,
+    "first": "06:50",
+    "last": "22:00",
+    "headway_min": 30,
+    "headway_peak_min": 30,
+    "headway_offpeak_min": 30,
+    "headway_range_min": [
+      10.0,
+      30.0
+    ],
+    "journey_min": 34.7,
+    "last_arrival": "22:34",
+    "stop_count": 16,
+    "stop_offsets_min": [
+      {
+        "stop": "T- Chowk",
+        "minutes": 0.0
+      },
+      {
+        "stop": "SUPARCO",
+        "minutes": 2.0
+      },
+      {
+        "stop": "DHA Gate 07",
+        "minutes": 4.3
+      },
+      {
+        "stop": "DHA Gate 08",
+        "minutes": 6.7
+      },
+      {
+        "stop": "Kaak Pul",
+        "minutes": 9.0
+      },
+      {
+        "stop": "River Gardens",
+        "minutes": 11.3
+      },
+      {
+        "stop": "Soan Gardens H Block",
+        "minutes": 13.7
+      },
+      {
+        "stop": "Soan Gardens G Block",
+        "minutes": 16.0
+      },
+      {
+        "stop": "Soan Gardens E Block",
+        "minutes": 18.3
+      },
+      {
+        "stop": "PWD Housing Society",
+        "minutes": 20.7
+      },
+      {
+        "stop": "Pagh Chowk",
+        "minutes": 23.0
+      },
+      {
+        "stop": "Gulberg",
+        "minutes": 25.3
+      },
+      {
+        "stop": "Koral Town",
+        "minutes": 27.7
+      },
+      {
+        "stop": "Gangal",
+        "minutes": 30.0
+      },
+      {
+        "stop": "Fazaia",
+        "minutes": 32.3
+      },
+      {
+        "stop": "Khanna Pul",
+        "minutes": 34.7
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FR-15_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "Same running times on every trip (template schedule). CDA header: route_id 10015, long name \"Khanna Pul- T- Chowk\", total trips 32, average headway 30 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "isb-rwp-metrobus",
+    "route_id": "BLUE",
+    "cda_short_name": "FRB-01",
+    "direction": "forward",
+    "from": "PIMS",
+    "to": "Gulberg",
+    "departures": [
+      "05:45",
+      "05:50",
+      "05:55",
+      "06:00",
+      "06:05",
+      "06:10",
+      "06:15",
+      "06:20",
+      "06:25",
+      "06:30",
+      "06:35",
+      "06:40",
+      "06:45",
+      "06:50",
+      "06:55",
+      "07:00",
+      "07:05",
+      "07:10",
+      "07:15",
+      "07:20",
+      "07:25",
+      "07:30",
+      "07:35",
+      "07:40",
+      "07:45",
+      "07:50",
+      "07:55",
+      "08:00",
+      "08:05",
+      "08:10",
+      "08:15",
+      "08:20",
+      "08:25",
+      "08:30",
+      "08:35",
+      "08:40",
+      "08:45",
+      "08:50",
+      "08:55",
+      "09:00",
+      "09:05",
+      "09:10",
+      "09:15",
+      "09:20",
+      "09:25",
+      "09:30",
+      "09:35",
+      "09:40",
+      "09:45",
+      "09:50",
+      "09:55",
+      "10:00",
+      "10:05",
+      "10:10",
+      "10:15",
+      "10:20",
+      "10:25",
+      "10:30",
+      "10:35",
+      "10:40",
+      "10:45",
+      "10:50",
+      "10:55",
+      "11:00",
+      "11:05",
+      "11:10",
+      "11:15",
+      "11:20",
+      "11:25",
+      "11:30",
+      "11:35",
+      "11:40",
+      "11:45",
+      "11:50",
+      "11:55",
+      "12:00",
+      "12:05",
+      "12:10",
+      "12:15",
+      "12:20",
+      "12:25",
+      "12:30",
+      "12:35",
+      "12:40",
+      "12:45",
+      "12:50",
+      "12:55",
+      "13:00",
+      "13:05",
+      "13:10",
+      "13:15",
+      "13:20",
+      "13:25",
+      "13:30",
+      "13:35",
+      "13:40",
+      "13:45",
+      "13:50",
+      "13:55",
+      "14:00",
+      "14:05",
+      "14:10",
+      "14:15",
+      "14:20",
+      "14:25",
+      "14:30",
+      "14:35",
+      "14:40",
+      "14:45",
+      "14:50",
+      "14:55",
+      "15:00",
+      "15:05",
+      "15:10",
+      "15:15",
+      "15:20",
+      "15:25",
+      "15:30",
+      "15:35",
+      "15:40",
+      "15:45",
+      "15:50",
+      "15:55",
+      "16:00",
+      "16:05",
+      "16:10",
+      "16:15",
+      "16:20",
+      "16:25",
+      "16:30",
+      "16:35",
+      "16:40",
+      "16:45",
+      "16:50",
+      "16:55",
+      "17:00",
+      "17:05",
+      "17:10",
+      "17:15",
+      "17:20",
+      "17:25",
+      "17:30",
+      "17:35",
+      "17:40",
+      "17:45",
+      "17:50",
+      "17:55",
+      "18:00",
+      "18:05",
+      "18:10",
+      "18:15",
+      "18:20",
+      "18:25",
+      "18:30",
+      "18:35",
+      "18:40",
+      "18:45",
+      "18:50",
+      "18:55",
+      "19:00",
+      "19:05",
+      "19:10",
+      "19:15",
+      "19:20",
+      "19:25",
+      "19:30",
+      "19:35",
+      "19:40",
+      "19:45",
+      "19:50",
+      "19:55",
+      "20:00",
+      "20:05",
+      "20:10",
+      "20:15",
+      "20:20",
+      "20:25",
+      "20:30",
+      "20:35",
+      "20:40",
+      "20:45",
+      "20:50",
+      "20:55",
+      "21:00",
+      "21:05",
+      "21:10",
+      "21:15",
+      "21:20",
+      "21:25",
+      "21:30",
+      "21:35",
+      "21:40",
+      "21:45",
+      "21:50",
+      "21:55",
+      "22:00"
+    ],
+    "trips": 196,
+    "first": "05:45",
+    "last": "22:00",
+    "headway_min": 5,
+    "headway_peak_min": 5,
+    "headway_offpeak_min": 5,
+    "headway_range_min": [
+      5.0,
+      5.0
+    ],
+    "journey_min": 38.0,
+    "last_arrival": "22:38",
+    "stop_count": 15,
+    "stop_offsets_min": [
+      {
+        "stop": "PIMS",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Children Hospital",
+        "minutes": 1.5
+      },
+      {
+        "stop": "TNT",
+        "minutes": 5.0
+      },
+      {
+        "stop": "H-8",
+        "minutes": 11.0
+      },
+      {
+        "stop": "Kach Naar Park I-8",
+        "minutes": 14.0
+      },
+      {
+        "stop": "Sohan",
+        "minutes": 18.0
+      },
+      {
+        "stop": "Dhok Kala Khan",
+        "minutes": 20.5
+      },
+      {
+        "stop": "Iqbal Town",
+        "minutes": 21.8
+      },
+      {
+        "stop": "Kuri Road",
+        "minutes": 23.2
+      },
+      {
+        "stop": "Zia Masjid",
+        "minutes": 24.8
+      },
+      {
+        "stop": "Khanna Pul",
+        "minutes": 27.7
+      },
+      {
+        "stop": "Fazaia",
+        "minutes": 29.3
+      },
+      {
+        "stop": "Gangal",
+        "minutes": 31.8
+      },
+      {
+        "stop": "Koral Town",
+        "minutes": 34.8
+      },
+      {
+        "stop": "Gulberg",
+        "minutes": 38.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FRB-01_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "CDA code FRB-01 = Metro Blue Line (PIMS - Gulberg); matched to isb-rwp-metrobus BLUE. Same running times on every trip (template schedule). CDA header: route_id 30001, long name \"PIMS- Gulberg\", total trips 196, average headway 5 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "isb-rwp-metrobus",
+    "route_id": "BLUE",
+    "cda_short_name": "FRB-01",
+    "direction": "backward",
+    "from": "Gulberg",
+    "to": "PIMS",
+    "departures": [
+      "05:45",
+      "05:50",
+      "05:55",
+      "06:00",
+      "06:05",
+      "06:10",
+      "06:15",
+      "06:20",
+      "06:25",
+      "06:30",
+      "06:35",
+      "06:40",
+      "06:45",
+      "06:50",
+      "06:55",
+      "07:00",
+      "07:05",
+      "07:10",
+      "07:15",
+      "07:20",
+      "07:25",
+      "07:30",
+      "07:35",
+      "07:40",
+      "07:45",
+      "07:50",
+      "07:55",
+      "08:00",
+      "08:05",
+      "08:10",
+      "08:15",
+      "08:20",
+      "08:25",
+      "08:30",
+      "08:35",
+      "08:40",
+      "08:45",
+      "08:50",
+      "08:55",
+      "09:00",
+      "09:05",
+      "09:10",
+      "09:15",
+      "09:20",
+      "09:25",
+      "09:30",
+      "09:35",
+      "09:40",
+      "09:45",
+      "09:50",
+      "09:55",
+      "10:00",
+      "10:05",
+      "10:10",
+      "10:15",
+      "10:20",
+      "10:25",
+      "10:30",
+      "10:35",
+      "10:40",
+      "10:45",
+      "10:50",
+      "10:55",
+      "11:00",
+      "11:05",
+      "11:10",
+      "11:15",
+      "11:20",
+      "11:25",
+      "11:30",
+      "11:35",
+      "11:40",
+      "11:45",
+      "11:50",
+      "11:55",
+      "12:00",
+      "12:05",
+      "12:10",
+      "12:15",
+      "12:20",
+      "12:25",
+      "12:30",
+      "12:35",
+      "12:40",
+      "12:45",
+      "12:50",
+      "12:55",
+      "13:00",
+      "13:05",
+      "13:10",
+      "13:15",
+      "13:20",
+      "13:25",
+      "13:30",
+      "13:35",
+      "13:40",
+      "13:45",
+      "13:50",
+      "13:55",
+      "14:00",
+      "14:05",
+      "14:10",
+      "14:15",
+      "14:20",
+      "14:25",
+      "14:30",
+      "14:35",
+      "14:40",
+      "14:45",
+      "14:50",
+      "14:55",
+      "15:00",
+      "15:05",
+      "15:10",
+      "15:15",
+      "15:20",
+      "15:25",
+      "15:30",
+      "15:35",
+      "15:40",
+      "15:45",
+      "15:50",
+      "15:55",
+      "16:00",
+      "16:05",
+      "16:10",
+      "16:15",
+      "16:20",
+      "16:25",
+      "16:30",
+      "16:35",
+      "16:40",
+      "16:45",
+      "16:50",
+      "16:55",
+      "17:00",
+      "17:05",
+      "17:10",
+      "17:15",
+      "17:20",
+      "17:25",
+      "17:30",
+      "17:35",
+      "17:40",
+      "17:45",
+      "17:50",
+      "17:55",
+      "18:00",
+      "18:05",
+      "18:10",
+      "18:15",
+      "18:20",
+      "18:25",
+      "18:30",
+      "18:35",
+      "18:40",
+      "18:45",
+      "18:50",
+      "18:55",
+      "19:00",
+      "19:05",
+      "19:10",
+      "19:15",
+      "19:20",
+      "19:25",
+      "19:30",
+      "19:35",
+      "19:40",
+      "19:45",
+      "19:50",
+      "19:55",
+      "20:00",
+      "20:05",
+      "20:10",
+      "20:15",
+      "20:20",
+      "20:25",
+      "20:30",
+      "20:35",
+      "20:40",
+      "20:45",
+      "20:50",
+      "20:55",
+      "21:00",
+      "21:05",
+      "21:10",
+      "21:15",
+      "21:20",
+      "21:25",
+      "21:30",
+      "21:35",
+      "21:40",
+      "21:45",
+      "21:50",
+      "21:55",
+      "22:00"
+    ],
+    "trips": 196,
+    "first": "05:45",
+    "last": "22:00",
+    "headway_min": 5,
+    "headway_peak_min": 5,
+    "headway_offpeak_min": 5,
+    "headway_range_min": [
+      5.0,
+      5.0
+    ],
+    "journey_min": 42.0,
+    "last_arrival": "22:42",
+    "stop_count": 17,
+    "stop_offsets_min": [
+      {
+        "stop": "Gulberg",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Koral Town",
+        "minutes": 4.8
+      },
+      {
+        "stop": "Gangal",
+        "minutes": 7.8
+      },
+      {
+        "stop": "Fazaia",
+        "minutes": 10.3
+      },
+      {
+        "stop": "Khanna Pul",
+        "minutes": 11.7
+      },
+      {
+        "stop": "Zia Masjid",
+        "minutes": 14.2
+      },
+      {
+        "stop": "Kuri Road",
+        "minutes": 15.8
+      },
+      {
+        "stop": "Iqbal Town",
+        "minutes": 17.2
+      },
+      {
+        "stop": "Dhok Kala Khan",
+        "minutes": 18.8
+      },
+      {
+        "stop": "Sohan",
+        "minutes": 21.2
+      },
+      {
+        "stop": "Kachnar Park I-8",
+        "minutes": 24.8
+      },
+      {
+        "stop": "H-8",
+        "minutes": 27.5
+      },
+      {
+        "stop": "TNT",
+        "minutes": 31.0
+      },
+      {
+        "stop": "Children Hospital",
+        "minutes": 33.5
+      },
+      {
+        "stop": "PIMS Metro Station",
+        "minutes": 36.3
+      },
+      {
+        "stop": "Tipu Market G-8",
+        "minutes": 39.2
+      },
+      {
+        "stop": "PIMS",
+        "minutes": 42.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FRB-01_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "CDA code FRB-01 = Metro Blue Line (PIMS - Gulberg); matched to isb-rwp-metrobus BLUE. Same running times on every trip (template schedule). CDA header: route_id 30001, long name \"PIMS- Gulberg\", total trips 196, average headway 5 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "isb-rwp-metrobus",
+    "route_id": "GREEN",
+    "cda_short_name": "FRG-1",
+    "direction": "forward",
+    "from": "PIMS",
+    "to": "Barakahu",
+    "departures": [
+      "05:45",
+      "05:50",
+      "05:55",
+      "06:00",
+      "06:05",
+      "06:10",
+      "06:15",
+      "06:20",
+      "06:25",
+      "06:30",
+      "06:35",
+      "06:40",
+      "06:45",
+      "06:50",
+      "06:55",
+      "07:00",
+      "07:05",
+      "07:10",
+      "07:15",
+      "07:20",
+      "07:25",
+      "07:30",
+      "07:35",
+      "07:40",
+      "07:45",
+      "07:50",
+      "07:55",
+      "08:00",
+      "08:05",
+      "08:10",
+      "08:15",
+      "08:20",
+      "08:25",
+      "08:30",
+      "08:35",
+      "08:40",
+      "08:45",
+      "08:50",
+      "08:55",
+      "09:00",
+      "09:05",
+      "09:10",
+      "09:15",
+      "09:20",
+      "09:25",
+      "09:30",
+      "09:35",
+      "09:40",
+      "09:45",
+      "09:50",
+      "09:55",
+      "10:00",
+      "10:05",
+      "10:10",
+      "10:15",
+      "10:20",
+      "10:25",
+      "10:30",
+      "10:35",
+      "10:40",
+      "10:45",
+      "10:50",
+      "10:55",
+      "11:00",
+      "11:05",
+      "11:10",
+      "11:15",
+      "11:20",
+      "11:25",
+      "11:30",
+      "11:35",
+      "11:40",
+      "11:45",
+      "11:50",
+      "11:55",
+      "12:00",
+      "12:05",
+      "12:10",
+      "12:15",
+      "12:20",
+      "12:25",
+      "12:30",
+      "12:35",
+      "12:40",
+      "12:45",
+      "12:50",
+      "12:55",
+      "13:00",
+      "13:05",
+      "13:10",
+      "13:15",
+      "13:20",
+      "13:25",
+      "13:30",
+      "13:35",
+      "13:40",
+      "13:45",
+      "13:50",
+      "13:55",
+      "14:00",
+      "14:05",
+      "14:10",
+      "14:15",
+      "14:20",
+      "14:25",
+      "14:30",
+      "14:35",
+      "14:40",
+      "14:45",
+      "14:50",
+      "14:55",
+      "15:00",
+      "15:05",
+      "15:10",
+      "15:15",
+      "15:20",
+      "15:25",
+      "15:30",
+      "15:35",
+      "15:40",
+      "15:45",
+      "15:50",
+      "15:55",
+      "16:00",
+      "16:05",
+      "16:10",
+      "16:15",
+      "16:20",
+      "16:25",
+      "16:30",
+      "16:35",
+      "16:40",
+      "16:45",
+      "16:50",
+      "16:55",
+      "17:00",
+      "17:05",
+      "17:10",
+      "17:15",
+      "17:20",
+      "17:25",
+      "17:30",
+      "17:35",
+      "17:40",
+      "17:45",
+      "17:50",
+      "17:55",
+      "18:00",
+      "18:05",
+      "18:10",
+      "18:15",
+      "18:20",
+      "18:25",
+      "18:30",
+      "18:35",
+      "18:40",
+      "18:45",
+      "18:50",
+      "18:55",
+      "19:00",
+      "19:05",
+      "19:10",
+      "19:15",
+      "19:20",
+      "19:25",
+      "19:30",
+      "19:35",
+      "19:40",
+      "19:45",
+      "19:50",
+      "19:55",
+      "20:00",
+      "20:05",
+      "20:10",
+      "20:15",
+      "20:20",
+      "20:25",
+      "20:30",
+      "20:35",
+      "20:40",
+      "20:45",
+      "20:50",
+      "20:55",
+      "21:00",
+      "21:05",
+      "21:10",
+      "21:15",
+      "21:20",
+      "21:25",
+      "21:30",
+      "21:35",
+      "21:40",
+      "21:45",
+      "21:50",
+      "21:55",
+      "22:00"
+    ],
+    "trips": 196,
+    "first": "05:45",
+    "last": "22:00",
+    "headway_min": 5,
+    "headway_peak_min": 5,
+    "headway_offpeak_min": 5,
+    "headway_range_min": [
+      5.0,
+      5.0
+    ],
+    "journey_min": 30.0,
+    "last_arrival": "22:30",
+    "stop_count": 10,
+    "stop_offsets_min": [
+      {
+        "stop": "PIMS",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Children Hospital",
+        "minutes": 1.5
+      },
+      {
+        "stop": "TNT",
+        "minutes": 5.0
+      },
+      {
+        "stop": "CDA",
+        "minutes": 10.7
+      },
+      {
+        "stop": "Abpara",
+        "minutes": 13.5
+      },
+      {
+        "stop": "Foreign Affairs Office",
+        "minutes": 16.5
+      },
+      {
+        "stop": "Lake View Park",
+        "minutes": 21.8
+      },
+      {
+        "stop": "Malpur",
+        "minutes": 24.7
+      },
+      {
+        "stop": "Shahdara",
+        "minutes": 27.8
+      },
+      {
+        "stop": "Barakahu",
+        "minutes": 30.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FRG-1_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "CDA code FRG-1 = Metro Green Line (PIMS - Bhara Kahu); matched to isb-rwp-metrobus GREEN. Same running times on every trip (template schedule). CDA header: route_id 20001, long name \"PIMS - Barakahu\", total trips 196, average headway 5 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "isb-rwp-metrobus",
+    "route_id": "GREEN",
+    "cda_short_name": "FRG-1",
+    "direction": "backward",
+    "from": "Barakahu",
+    "to": "PIMS",
+    "departures": [
+      "05:45",
+      "05:50",
+      "05:55",
+      "06:00",
+      "06:05",
+      "06:10",
+      "06:15",
+      "06:20",
+      "06:25",
+      "06:30",
+      "06:35",
+      "06:40",
+      "06:45",
+      "06:50",
+      "06:55",
+      "07:00",
+      "07:05",
+      "07:10",
+      "07:15",
+      "07:20",
+      "07:25",
+      "07:30",
+      "07:35",
+      "07:40",
+      "07:45",
+      "07:50",
+      "07:55",
+      "08:00",
+      "08:05",
+      "08:10",
+      "08:15",
+      "08:20",
+      "08:25",
+      "08:30",
+      "08:35",
+      "08:40",
+      "08:45",
+      "08:50",
+      "08:55",
+      "09:00",
+      "09:05",
+      "09:10",
+      "09:15",
+      "09:20",
+      "09:25",
+      "09:30",
+      "09:35",
+      "09:40",
+      "09:45",
+      "09:50",
+      "09:55",
+      "10:00",
+      "10:05",
+      "10:10",
+      "10:15",
+      "10:20",
+      "10:25",
+      "10:30",
+      "10:35",
+      "10:40",
+      "10:45",
+      "10:50",
+      "10:55",
+      "11:00",
+      "11:05",
+      "11:10",
+      "11:15",
+      "11:20",
+      "11:25",
+      "11:30",
+      "11:35",
+      "11:40",
+      "11:45",
+      "11:50",
+      "11:55",
+      "12:00",
+      "12:05",
+      "12:10",
+      "12:15",
+      "12:20",
+      "12:25",
+      "12:30",
+      "12:35",
+      "12:40",
+      "12:45",
+      "12:50",
+      "12:55",
+      "13:00",
+      "13:05",
+      "13:10",
+      "13:15",
+      "13:20",
+      "13:25",
+      "13:30",
+      "13:35",
+      "13:40",
+      "13:45",
+      "13:50",
+      "13:55",
+      "14:00",
+      "14:05",
+      "14:10",
+      "14:15",
+      "14:20",
+      "14:25",
+      "14:30",
+      "14:35",
+      "14:40",
+      "14:45",
+      "14:50",
+      "14:55",
+      "15:00",
+      "15:05",
+      "15:10",
+      "15:15",
+      "15:20",
+      "15:25",
+      "15:30",
+      "15:35",
+      "15:40",
+      "15:45",
+      "15:50",
+      "15:55",
+      "16:00",
+      "16:05",
+      "16:10",
+      "16:15",
+      "16:20",
+      "16:25",
+      "16:30",
+      "16:35",
+      "16:40",
+      "16:45",
+      "16:50",
+      "16:55",
+      "17:00",
+      "17:05",
+      "17:10",
+      "17:15",
+      "17:20",
+      "17:25",
+      "17:30",
+      "17:35",
+      "17:40",
+      "17:45",
+      "17:50",
+      "17:55",
+      "18:00",
+      "18:05",
+      "18:10",
+      "18:15",
+      "18:20",
+      "18:25",
+      "18:30",
+      "18:35",
+      "18:40",
+      "18:45",
+      "18:50",
+      "18:55",
+      "19:00",
+      "19:05",
+      "19:10",
+      "19:15",
+      "19:20",
+      "19:25",
+      "19:30",
+      "19:35",
+      "19:40",
+      "19:45",
+      "19:50",
+      "19:55",
+      "20:00",
+      "20:05",
+      "20:10",
+      "20:15",
+      "20:20",
+      "20:25",
+      "20:30",
+      "20:35",
+      "20:40",
+      "20:45",
+      "20:50",
+      "20:55",
+      "21:00",
+      "21:05",
+      "21:10",
+      "21:15",
+      "21:20",
+      "21:25",
+      "21:30",
+      "21:35",
+      "21:40",
+      "21:45",
+      "21:50",
+      "21:55",
+      "22:00"
+    ],
+    "trips": 196,
+    "first": "05:45",
+    "last": "22:00",
+    "headway_min": 5,
+    "headway_peak_min": 5,
+    "headway_offpeak_min": 5,
+    "headway_range_min": [
+      5.0,
+      5.0
+    ],
+    "journey_min": 36.0,
+    "last_arrival": "22:36",
+    "stop_count": 12,
+    "stop_offsets_min": [
+      {
+        "stop": "Barakahu",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Shahdara",
+        "minutes": 2.0
+      },
+      {
+        "stop": "Malpur",
+        "minutes": 5.5
+      },
+      {
+        "stop": "Lake View Park",
+        "minutes": 8.3
+      },
+      {
+        "stop": "Foreign Affairs Office",
+        "minutes": 15.6
+      },
+      {
+        "stop": "Abpara",
+        "minutes": 18.6
+      },
+      {
+        "stop": "CDA",
+        "minutes": 21.3
+      },
+      {
+        "stop": "TNT",
+        "minutes": 25.8
+      },
+      {
+        "stop": "Children Hospital",
+        "minutes": 28.7
+      },
+      {
+        "stop": "PIMS Metro Station",
+        "minutes": 31.3
+      },
+      {
+        "stop": "Tipu Market G-8",
+        "minutes": 33.8
+      },
+      {
+        "stop": "PIMS",
+        "minutes": 36.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/FRG-1_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "CDA code FRG-1 = Metro Green Line (PIMS - Bhara Kahu); matched to isb-rwp-metrobus GREEN. Same running times on every trip (template schedule). CDA header: route_id 20001, long name \"PIMS - Barakahu\", total trips 196, average headway 5 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "ST-01",
+    "cda_short_name": "ST-01",
+    "direction": "forward",
+    "from": "PIMS Hospital",
+    "to": "Daman e Koh",
+    "departures": [
+      "09:10",
+      "10:10",
+      "11:10",
+      "12:10",
+      "13:10",
+      "14:10",
+      "15:10",
+      "16:10",
+      "17:10"
+    ],
+    "trips": 9,
+    "first": "09:10",
+    "last": "17:10",
+    "headway_min": 60,
+    "headway_peak_min": 60,
+    "headway_offpeak_min": 60,
+    "headway_range_min": [
+      60.0,
+      60.0
+    ],
+    "journey_min": 40.0,
+    "last_arrival": "17:50",
+    "stop_count": 13,
+    "stop_offsets_min": [
+      {
+        "stop": "PIMS Hospital",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Faisal Morh F-7/F-8",
+        "minutes": 3.7
+      },
+      {
+        "stop": "Katchery",
+        "minutes": 6.7
+      },
+      {
+        "stop": "F-8 Markaz",
+        "minutes": 8.8
+      },
+      {
+        "stop": "F-9 Park",
+        "minutes": 11.1
+      },
+      {
+        "stop": "Shaheen Chowk",
+        "minutes": 12.8
+      },
+      {
+        "stop": "Bahria University",
+        "minutes": 16.2
+      },
+      {
+        "stop": "Naval Complex",
+        "minutes": 18.2
+      },
+      {
+        "stop": "Faisal Masjid",
+        "minutes": 21.5
+      },
+      {
+        "stop": "Parveen Shakir Road",
+        "minutes": 24.5
+      },
+      {
+        "stop": "Kohsar Road/F-7 Markaz",
+        "minutes": 27.2
+      },
+      {
+        "stop": "Murghzar Zoo",
+        "minutes": 30.2
+      },
+      {
+        "stop": "Daman e Koh",
+        "minutes": 40.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/ST-01_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "PDF does not state service days; CDA map / data say Saturday & Sunday only. Same running times on every trip (template schedule). CDA header: route_id 11001, long name \"PIMS Hospital- Daman e Koh\", total trips 9, average headway 60 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "ST-01",
+    "cda_short_name": "ST-01",
+    "direction": "backward",
+    "from": "Daman e Koh",
+    "to": "PIMS Hospital",
+    "departures": [
+      "10:10",
+      "11:10",
+      "12:10",
+      "13:10",
+      "14:10",
+      "15:10",
+      "16:10",
+      "17:10",
+      "18:10"
+    ],
+    "trips": 9,
+    "first": "10:10",
+    "last": "18:10",
+    "headway_min": 60,
+    "headway_peak_min": 60,
+    "headway_offpeak_min": 60,
+    "headway_range_min": [
+      60.0,
+      60.0
+    ],
+    "journey_min": 40.0,
+    "last_arrival": "18:50",
+    "stop_count": 14,
+    "stop_offsets_min": [
+      {
+        "stop": "Daman e Koh",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Murghzar Zoo",
+        "minutes": 9.0
+      },
+      {
+        "stop": "Kohsar Road/ F-7 Markaz",
+        "minutes": 12.5
+      },
+      {
+        "stop": "Parveen Shakir Road",
+        "minutes": 14.6
+      },
+      {
+        "stop": "Faisal Masjid",
+        "minutes": 17.9
+      },
+      {
+        "stop": "Naval Complex",
+        "minutes": 20.5
+      },
+      {
+        "stop": "Bahria University",
+        "minutes": 22.0
+      },
+      {
+        "stop": "Shaheen Chowk",
+        "minutes": 25.2
+      },
+      {
+        "stop": "F-9 Park",
+        "minutes": 26.2
+      },
+      {
+        "stop": "F-8 Markaz",
+        "minutes": 28.7
+      },
+      {
+        "stop": "Katchery",
+        "minutes": 30.2
+      },
+      {
+        "stop": "Faisal Morh F-7/F-8",
+        "minutes": 33.9
+      },
+      {
+        "stop": "PIMS Metro Station",
+        "minutes": 37.3
+      },
+      {
+        "stop": "PIMS Hospital",
+        "minutes": 40.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/ST-01_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "PDF does not state service days; CDA map / data say Saturday & Sunday only. Same running times on every trip (template schedule). CDA header: route_id 11001, long name \"PIMS Hospital- Daman e Koh\", total trips 9, average headway 60 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "ST-02",
+    "cda_short_name": "ST-02",
+    "direction": "forward",
+    "from": "PIMS",
+    "to": "Capt. Naeem Tufail Shaheed Chowk",
+    "departures": [
+      "09:10",
+      "10:10",
+      "11:10",
+      "12:10",
+      "13:10",
+      "14:10",
+      "15:10",
+      "16:10",
+      "17:10"
+    ],
+    "trips": 9,
+    "first": "09:10",
+    "last": "17:10",
+    "headway_min": 60,
+    "headway_peak_min": 60,
+    "headway_offpeak_min": 60,
+    "headway_range_min": [
+      60.0,
+      60.0
+    ],
+    "journey_min": 53.0,
+    "last_arrival": "18:03",
+    "stop_count": 19,
+    "stop_offsets_min": [
+      {
+        "stop": "PIMS",
+        "minutes": 0.0
+      },
+      {
+        "stop": "TNT",
+        "minutes": 3.7
+      },
+      {
+        "stop": "Zero Point",
+        "minutes": 6.0
+      },
+      {
+        "stop": "CDA",
+        "minutes": 8.7
+      },
+      {
+        "stop": "Abpara",
+        "minutes": 10.3
+      },
+      {
+        "stop": "Shakarparian Park",
+        "minutes": 16.8
+      },
+      {
+        "stop": "Rawal Town",
+        "minutes": 30.3
+      },
+      {
+        "stop": "School Board Stop",
+        "minutes": 31.8
+      },
+      {
+        "stop": "Rawal Dam Colony",
+        "minutes": 33.3
+      },
+      {
+        "stop": "NARC Colony",
+        "minutes": 35.8
+      },
+      {
+        "stop": "NIH Allergy Center",
+        "minutes": 37.5
+      },
+      {
+        "stop": "Shahzad Town",
+        "minutes": 39.8
+      },
+      {
+        "stop": "Park View City",
+        "minutes": 41.5
+      },
+      {
+        "stop": "Green Avenue",
+        "minutes": 44.0
+      },
+      {
+        "stop": "Chatta Bakhtawar",
+        "minutes": 45.3
+      },
+      {
+        "stop": "Hostel City",
+        "minutes": 47.8
+      },
+      {
+        "stop": "COMSATS University",
+        "minutes": 49.8
+      },
+      {
+        "stop": "Tamma Stop",
+        "minutes": 51.3
+      },
+      {
+        "stop": "Capt. Naeem Tufail Shaheed Chowk",
+        "minutes": 53.0
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/ST-02_Forward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "PDF does not state service days; CDA map / data say Saturday & Sunday only. Same running times on every trip (template schedule). CDA header: route_id 11002, long name \"10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk\", total trips 9, average headway 60 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  },
+  {
+    "system_hint": "islamabad-electric-feeder",
+    "route_id": "ST-02",
+    "cda_short_name": "ST-02",
+    "direction": "backward",
+    "from": "Capt. Naeem Tufail Shaheed Chowk",
+    "to": "PIMS",
+    "departures": [
+      "10:10",
+      "11:10",
+      "12:10",
+      "13:10",
+      "14:10",
+      "15:10",
+      "16:10",
+      "17:10",
+      "18:10"
+    ],
+    "trips": 9,
+    "first": "10:10",
+    "last": "18:10",
+    "headway_min": 60,
+    "headway_peak_min": 60,
+    "headway_offpeak_min": 60,
+    "headway_range_min": [
+      60.0,
+      60.0
+    ],
+    "journey_min": 55.7,
+    "last_arrival": "19:05",
+    "stop_count": 22,
+    "stop_offsets_min": [
+      {
+        "stop": "Capt. Naeem Tufail Shaheed Chowk",
+        "minutes": 0.0
+      },
+      {
+        "stop": "Tamma Stop",
+        "minutes": 1.5
+      },
+      {
+        "stop": "COMSATS University",
+        "minutes": 3.7
+      },
+      {
+        "stop": "Hostel City",
+        "minutes": 5.7
+      },
+      {
+        "stop": "Chatta Bakhtawar",
+        "minutes": 8.0
+      },
+      {
+        "stop": "Green Avenue",
+        "minutes": 9.9
+      },
+      {
+        "stop": "Park View City",
+        "minutes": 12.2
+      },
+      {
+        "stop": "Shahzad Town",
+        "minutes": 14.1
+      },
+      {
+        "stop": "NIH Allergy Center",
+        "minutes": 16.9
+      },
+      {
+        "stop": "NARC Colony",
+        "minutes": 18.8
+      },
+      {
+        "stop": "Rawal Dam Colony",
+        "minutes": 21.3
+      },
+      {
+        "stop": "School Board Stop",
+        "minutes": 22.7
+      },
+      {
+        "stop": "Rawal Town",
+        "minutes": 23.9
+      },
+      {
+        "stop": "Rawal Dam Chowk",
+        "minutes": 25.9
+      },
+      {
+        "stop": "Kashmir Chowk",
+        "minutes": 29.0
+      },
+      {
+        "stop": "Foreign Affairs Office",
+        "minutes": 31.8
+      },
+      {
+        "stop": "Abpara",
+        "minutes": 34.8
+      },
+      {
+        "stop": "Shakarparian Park",
+        "minutes": 41.7
+      },
+      {
+        "stop": "CDA",
+        "minutes": 48.0
+      },
+      {
+        "stop": "Zero Point",
+        "minutes": 50.2
+      },
+      {
+        "stop": "TNT",
+        "minutes": 52.7
+      },
+      {
+        "stop": "PIMS",
+        "minutes": 55.7
+      }
+    ],
+    "source_url": "https://www.cda.gov.pk/Assets/metro_transit_route/ST-02_Backward.pdf",
+    "as_of": "2025-08-25",
+    "official": true,
+    "changed_since_pdf": false,
+    "notes": "PDF does not state service days; CDA map / data say Saturday & Sunday only. Same running times on every trip (template schedule). CDA header: route_id 11002, long name \"10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk\", total trips 9, average headway 60 min. Single schedule; the PDF has no weekday/Friday/Sunday variants."
+  }
+]
