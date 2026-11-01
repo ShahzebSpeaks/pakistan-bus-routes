@@ -32,14 +32,14 @@
       "first": "09:00",
       "last": "16:35",
       "last_arrival_at_terminal": "19:04",
-      "headway_min": 35.0,
+      "headway_min": 35,
       "headway_range_min": [
-        35.0,
-        35.0
+        35,
+        35
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 14,
-      "scheduled_run_time_min": 149.0,
+      "scheduled_run_time_min": 149,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -73,14 +73,14 @@
       "first": "09:00",
       "last": "17:00",
       "last_arrival_at_terminal": "19:25",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 17,
-      "scheduled_run_time_min": 145.0,
+      "scheduled_run_time_min": 145,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -196,10 +196,10 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "21:16",
-      "headway_min": 10.0,
+      "headway_min": 10,
       "headway_range_min": [
-        8.0,
-        15.0
+        8,
+        15
       ],
       "max_departures_in_an_hour": 8,
       "departures_per_day": 92,
@@ -237,14 +237,14 @@
       "first": "06:00",
       "last": "22:00",
       "last_arrival_at_terminal": "23:22",
-      "headway_min": 10.0,
+      "headway_min": 10,
       "headway_range_min": [
-        8.0,
-        15.0
+        8,
+        15
       ],
       "max_departures_in_an_hour": 8,
       "departures_per_day": 102,
-      "scheduled_run_time_min": 82.0,
+      "scheduled_run_time_min": 82,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -278,10 +278,10 @@
       "first": "06:15",
       "last": "22:00",
       "last_arrival_at_terminal": "22:45",
-      "headway_min": 5.0,
+      "headway_min": 5,
       "headway_range_min": [
-        5.0,
-        10.0
+        5,
+        10
       ],
       "max_departures_in_an_hour": 12,
       "departures_per_day": 176,
@@ -319,10 +319,10 @@
       "first": "06:15",
       "last": "22:51",
       "last_arrival_at_terminal": "23:36",
-      "headway_min": 5.0,
+      "headway_min": 5,
       "headway_range_min": [
-        5.0,
-        10.0
+        5,
+        10
       ],
       "max_departures_in_an_hour": 12,
       "departures_per_day": 185,
@@ -360,10 +360,10 @@
       "first": "05:00",
       "last": "20:45",
       "last_arrival_at_terminal": "21:44",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        635.0
+        15,
+        635
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 20,
@@ -401,10 +401,10 @@
       "first": "06:15",
       "last": "22:00",
       "last_arrival_at_terminal": "22:59",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        635.0
+        15,
+        635
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 20,
@@ -442,10 +442,10 @@
       "first": "06:00",
       "last": "16:00",
       "last_arrival_at_terminal": "17:08",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        225.0
+        15,
+        225
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 25,
@@ -483,10 +483,10 @@
       "first": "07:15",
       "last": "17:15",
       "last_arrival_at_terminal": "18:20",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        225.0
+        15,
+        225
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 25,
@@ -524,10 +524,10 @@
       "first": "08:30",
       "last": "11:45",
       "last_arrival_at_terminal": "12:46",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        15.0
+        15,
+        15
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 14,
@@ -565,10 +565,10 @@
       "first": "09:45",
       "last": "13:00",
       "last_arrival_at_terminal": "13:59",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        15.0
+        15,
+        15
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 14,
@@ -606,10 +606,10 @@
       "first": "05:45",
       "last": "20:20",
       "last_arrival_at_terminal": "20:57",
-      "headway_min": 25.0,
+      "headway_min": 25,
       "headway_range_min": [
-        25.0,
-        25.0
+        25,
+        25
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 36,
@@ -647,10 +647,10 @@
       "first": "06:30",
       "last": "21:05",
       "last_arrival_at_terminal": "21:43",
-      "headway_min": 25.0,
+      "headway_min": 25,
       "headway_range_min": [
-        25.0,
-        25.0
+        25,
+        25
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 36,
@@ -688,10 +688,10 @@
       "first": "06:30",
       "last": "20:30",
       "last_arrival_at_terminal": "21:16",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 15,
@@ -729,10 +729,10 @@
       "first": "07:30",
       "last": "21:30",
       "last_arrival_at_terminal": "22:14",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 15,
@@ -770,10 +770,10 @@
       "first": "05:50",
       "last": "19:50",
       "last_arrival_at_terminal": "21:03",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 15,
@@ -811,10 +811,10 @@
       "first": "07:15",
       "last": "21:15",
       "last_arrival_at_terminal": "22:31",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 15,
@@ -852,10 +852,10 @@
       "first": "06:30",
       "last": "21:00",
       "last_arrival_at_terminal": "21:28",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        35.0
+        30,
+        35
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 28,
@@ -893,10 +893,10 @@
       "first": "07:10",
       "last": "21:40",
       "last_arrival_at_terminal": "22:08",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        35.0
+        30,
+        35
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 28,
@@ -934,10 +934,10 @@
       "first": "05:00",
       "last": "20:00",
       "last_arrival_at_terminal": "21:35",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 31,
@@ -975,10 +975,10 @@
       "first": "06:40",
       "last": "21:40",
       "last_arrival_at_terminal": "23:09",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 31,
@@ -1016,10 +1016,10 @@
       "first": "05:00",
       "last": "19:40",
       "last_arrival_at_terminal": "20:48",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 23,
@@ -1057,10 +1057,10 @@
       "first": "06:20",
       "last": "21:00",
       "last_arrival_at_terminal": "22:10",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 23,
@@ -1098,10 +1098,10 @@
       "first": "05:10",
       "last": "19:10",
       "last_arrival_at_terminal": "20:30",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
@@ -1139,10 +1139,10 @@
       "first": "07:00",
       "last": "21:00",
       "last_arrival_at_terminal": "22:25",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
@@ -1180,10 +1180,10 @@
       "first": "19:40",
       "last": "21:40",
       "last_arrival_at_terminal": "22:32",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 7,
@@ -1221,10 +1221,10 @@
       "first": "21:05",
       "last": "21:50",
       "last_arrival_at_terminal": "22:38",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        15.0
+        15,
+        15
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 4,
@@ -1262,10 +1262,10 @@
       "first": "05:00",
       "last": "19:20",
       "last_arrival_at_terminal": "20:39",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        120.0
+        20,
+        120
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 34,
@@ -1303,10 +1303,10 @@
       "first": "06:25",
       "last": "20:45",
       "last_arrival_at_terminal": "22:04",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 44,
@@ -1344,10 +1344,10 @@
       "first": "06:00",
       "last": "13:15",
       "last_arrival_at_terminal": "14:39",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        285.0
+        15,
+        285
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 12,
@@ -1385,10 +1385,10 @@
       "first": "06:00",
       "last": "22:00",
       "last_arrival_at_terminal": "23:19",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 17,
@@ -1426,10 +1426,10 @@
       "first": "06:30",
       "last": "21:00",
       "last_arrival_at_terminal": "21:39",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 30,
@@ -1467,10 +1467,10 @@
       "first": "07:05",
       "last": "21:35",
       "last_arrival_at_terminal": "22:12",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 30,
@@ -1508,10 +1508,10 @@
       "first": "05:50",
       "last": "20:25",
       "last_arrival_at_terminal": "21:15",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        25.0
+        20,
+        25
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 44,
@@ -1549,10 +1549,10 @@
       "first": "06:50",
       "last": "21:25",
       "last_arrival_at_terminal": "22:17",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        25.0
+        20,
+        25
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 44,
@@ -1590,10 +1590,10 @@
       "first": "06:00",
       "last": "20:40",
       "last_arrival_at_terminal": "20:58",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 23,
@@ -1631,10 +1631,10 @@
       "first": "06:40",
       "last": "21:20",
       "last_arrival_at_terminal": "21:43",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 23,
@@ -1672,10 +1672,10 @@
       "first": "05:40",
       "last": "20:40",
       "last_arrival_at_terminal": "21:34",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 31,
@@ -1713,10 +1713,10 @@
       "first": "06:10",
       "last": "21:10",
       "last_arrival_at_terminal": "22:05",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 31,
@@ -1754,10 +1754,10 @@
       "first": "06:00",
       "last": "20:10",
       "last_arrival_at_terminal": "21:13",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 18,
@@ -1795,14 +1795,14 @@
       "first": "07:10",
       "last": "21:20",
       "last_arrival_at_terminal": "22:21",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 18,
-      "scheduled_run_time_min": 61.0,
+      "scheduled_run_time_min": 61,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -1836,10 +1836,10 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "21:43",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        15.0
+        15,
+        15
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 57,
@@ -1877,10 +1877,10 @@
       "first": "06:00",
       "last": "22:20",
       "last_arrival_at_terminal": "23:50",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        20.0
+        15,
+        20
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 65,
@@ -1918,14 +1918,14 @@
       "first": "05:20",
       "last": "20:20",
       "last_arrival_at_terminal": "21:52",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 31,
-      "scheduled_run_time_min": 92.0,
+      "scheduled_run_time_min": 92,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -1959,14 +1959,14 @@
       "first": "06:50",
       "last": "21:50",
       "last_arrival_at_terminal": "23:24",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 31,
-      "scheduled_run_time_min": 94.0,
+      "scheduled_run_time_min": 94,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2000,10 +2000,10 @@
       "first": "06:00",
       "last": "20:15",
       "last_arrival_at_terminal": "21:08",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 20,
@@ -2041,10 +2041,10 @@
       "first": "06:00",
       "last": "21:45",
       "last_arrival_at_terminal": "22:36",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
@@ -2082,14 +2082,14 @@
       "first": "06:00",
       "last": "19:45",
       "last_arrival_at_terminal": "21:55",
-      "headway_min": 55.0,
+      "headway_min": 55,
       "headway_range_min": [
-        55.0,
-        55.0
+        55,
+        55
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 16,
-      "scheduled_run_time_min": 130.0,
+      "scheduled_run_time_min": 130,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2123,14 +2123,14 @@
       "first": "06:00",
       "last": "21:35",
       "last_arrival_at_terminal": "23:40",
-      "headway_min": 55.0,
+      "headway_min": 55,
       "headway_range_min": [
-        55.0,
-        55.0
+        55,
+        55
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 18,
-      "scheduled_run_time_min": 125.0,
+      "scheduled_run_time_min": 125,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2164,14 +2164,14 @@
       "first": "06:00",
       "last": "19:00",
       "last_arrival_at_terminal": "21:00",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 14,
-      "scheduled_run_time_min": 120.0,
+      "scheduled_run_time_min": 120,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2205,14 +2205,14 @@
       "first": "06:00",
       "last": "21:00",
       "last_arrival_at_terminal": "22:55",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 16,
-      "scheduled_run_time_min": 115.0,
+      "scheduled_run_time_min": 115,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2246,14 +2246,14 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "21:45",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
-      "scheduled_run_time_min": 105.0,
+      "scheduled_run_time_min": 105,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2287,14 +2287,14 @@
       "first": "06:00",
       "last": "22:00",
       "last_arrival_at_terminal": "23:45",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 25,
-      "scheduled_run_time_min": 105.0,
+      "scheduled_run_time_min": 105,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2328,14 +2328,14 @@
       "first": "06:00",
       "last": "20:10",
       "last_arrival_at_terminal": "22:05",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 18,
-      "scheduled_run_time_min": 115.0,
+      "scheduled_run_time_min": 115,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2369,14 +2369,14 @@
       "first": "06:00",
       "last": "21:50",
       "last_arrival_at_terminal": "23:45",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 20,
-      "scheduled_run_time_min": 115.0,
+      "scheduled_run_time_min": 115,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2410,14 +2410,14 @@
       "first": "06:00",
       "last": "21:00",
       "last_arrival_at_terminal": "22:24",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 16,
-      "scheduled_run_time_min": 84.0,
+      "scheduled_run_time_min": 84,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2451,14 +2451,14 @@
       "first": "06:00",
       "last": "22:00",
       "last_arrival_at_terminal": "23:28",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 17,
-      "scheduled_run_time_min": 88.0,
+      "scheduled_run_time_min": 88,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2492,14 +2492,14 @@
       "first": "06:00",
       "last": "19:26",
       "last_arrival_at_terminal": "20:50",
-      "headway_min": 62.0,
+      "headway_min": 62,
       "headway_range_min": [
-        62.0,
-        62.0
+        62,
+        62
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 14,
-      "scheduled_run_time_min": 84.0,
+      "scheduled_run_time_min": 84,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2533,14 +2533,14 @@
       "first": "06:00",
       "last": "21:30",
       "last_arrival_at_terminal": "22:58",
-      "headway_min": 62.0,
+      "headway_min": 62,
       "headway_range_min": [
-        62.0,
-        62.0
+        62,
+        62
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 16,
-      "scheduled_run_time_min": 88.0,
+      "scheduled_run_time_min": 88,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2574,14 +2574,14 @@
       "first": "06:00",
       "last": "18:30",
       "last_arrival_at_terminal": "20:06",
-      "headway_min": 75.0,
+      "headway_min": 75,
       "headway_range_min": [
-        75.0,
-        75.0
+        75,
+        75
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 11,
-      "scheduled_run_time_min": 96.0,
+      "scheduled_run_time_min": 96,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2615,14 +2615,14 @@
       "first": "06:00",
       "last": "21:00",
       "last_arrival_at_terminal": "22:40",
-      "headway_min": 75.0,
+      "headway_min": 75,
       "headway_range_min": [
-        75.0,
-        75.0
+        75,
+        75
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 13,
-      "scheduled_run_time_min": 100.0,
+      "scheduled_run_time_min": 100,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2656,14 +2656,14 @@
       "first": "06:00",
       "last": "19:12",
       "last_arrival_at_terminal": "20:24",
-      "headway_min": 66.0,
+      "headway_min": 66,
       "headway_range_min": [
-        66.0,
-        66.0
+        66,
+        66
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 13,
-      "scheduled_run_time_min": 72.0,
+      "scheduled_run_time_min": 72,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2697,14 +2697,14 @@
       "first": "06:00",
       "last": "21:24",
       "last_arrival_at_terminal": "22:36",
-      "headway_min": 66.0,
+      "headway_min": 66,
       "headway_range_min": [
-        66.0,
-        66.0
+        66,
+        66
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 15,
-      "scheduled_run_time_min": 72.0,
+      "scheduled_run_time_min": 72,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2738,14 +2738,14 @@
       "first": "06:00",
       "last": "20:15",
       "last_arrival_at_terminal": "21:20",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 20,
-      "scheduled_run_time_min": 65.0,
+      "scheduled_run_time_min": 65,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2779,14 +2779,14 @@
       "first": "06:00",
       "last": "20:15",
       "last_arrival_at_terminal": "21:15",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 20,
-      "scheduled_run_time_min": 60.0,
+      "scheduled_run_time_min": 60,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2820,14 +2820,14 @@
       "first": "06:00",
       "last": "20:15",
       "last_arrival_at_terminal": "21:22",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 20,
-      "scheduled_run_time_min": 67.0,
+      "scheduled_run_time_min": 67,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2861,14 +2861,14 @@
       "first": "06:00",
       "last": "20:15",
       "last_arrival_at_terminal": "21:20",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 20,
-      "scheduled_run_time_min": 65.0,
+      "scheduled_run_time_min": 65,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -2902,10 +2902,10 @@
       "first": "06:00",
       "last": "20:08",
       "last_arrival_at_terminal": "21:52",
-      "headway_min": 53.0,
+      "headway_min": 53,
       "headway_range_min": [
-        53.0,
-        53.0
+        53,
+        53
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 17,
@@ -2943,10 +2943,10 @@
       "first": "06:00",
       "last": "20:08",
       "last_arrival_at_terminal": "21:52",
-      "headway_min": 53.0,
+      "headway_min": 53,
       "headway_range_min": [
-        53.0,
-        53.0
+        53,
+        53
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 17,
@@ -2984,10 +2984,10 @@
       "first": "06:00",
       "last": "22:00",
       "last_arrival_at_terminal": "22:29",
-      "headway_min": 10.0,
+      "headway_min": 10,
       "headway_range_min": [
-        10.0,
-        10.0
+        10,
+        10
       ],
       "max_departures_in_an_hour": 6,
       "departures_per_day": 97,
@@ -3025,10 +3025,10 @@
       "first": "06:50",
       "last": "22:50",
       "last_arrival_at_terminal": "23:19",
-      "headway_min": 10.0,
+      "headway_min": 10,
       "headway_range_min": [
-        10.0,
-        10.0
+        10,
+        10
       ],
       "max_departures_in_an_hour": 6,
       "departures_per_day": 97,
@@ -3066,14 +3066,14 @@
       "first": "05:30",
       "last": "22:00",
       "last_arrival_at_terminal": "22:42",
-      "headway_min": 10.0,
+      "headway_min": 10,
       "headway_range_min": [
-        10.0,
-        15.0
+        10,
+        15
       ],
       "max_departures_in_an_hour": 6,
       "departures_per_day": 84,
-      "scheduled_run_time_min": 42.0,
+      "scheduled_run_time_min": 42,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -3107,14 +3107,14 @@
       "first": "06:35",
       "last": "23:05",
       "last_arrival_at_terminal": "23:44",
-      "headway_min": 10.0,
+      "headway_min": 10,
       "headway_range_min": [
-        10.0,
-        15.0
+        10,
+        15
       ],
       "max_departures_in_an_hour": 6,
       "departures_per_day": 84,
-      "scheduled_run_time_min": 39.0,
+      "scheduled_run_time_min": 39,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -3148,14 +3148,14 @@
       "first": "05:55",
       "last": "22:10",
       "last_arrival_at_terminal": "22:32",
-      "headway_min": 10.0,
+      "headway_min": 10,
       "headway_range_min": [
-        10.0,
-        15.0
+        10,
+        15
       ],
       "max_departures_in_an_hour": 6,
       "departures_per_day": 82,
-      "scheduled_run_time_min": 22.0,
+      "scheduled_run_time_min": 22,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -3189,14 +3189,14 @@
       "first": "06:35",
       "last": "22:50",
       "last_arrival_at_terminal": "23:12",
-      "headway_min": 10.0,
+      "headway_min": 10,
       "headway_range_min": [
-        10.0,
-        15.0
+        10,
+        15
       ],
       "max_departures_in_an_hour": 6,
       "departures_per_day": 82,
-      "scheduled_run_time_min": 22.0,
+      "scheduled_run_time_min": 22,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -3230,14 +3230,14 @@
       "first": "05:00",
       "last": "05:01",
       "last_arrival_at_terminal": "05:43",
-      "headway_min": 1.0,
+      "headway_min": 1,
       "headway_range_min": [
-        1.0,
-        1.0
+        1,
+        1
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 2,
-      "scheduled_run_time_min": 42.0,
+      "scheduled_run_time_min": 42,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -3271,14 +3271,14 @@
       "first": "05:00",
       "last": "05:01",
       "last_arrival_at_terminal": "05:43",
-      "headway_min": 1.0,
+      "headway_min": 1,
       "headway_range_min": [
-        1.0,
-        1.0
+        1,
+        1
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 2,
-      "scheduled_run_time_min": 42.0,
+      "scheduled_run_time_min": 42,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -3312,10 +3312,10 @@
       "first": "06:00",
       "last": "22:00",
       "last_arrival_at_terminal": "22:25",
-      "headway_min": 10.0,
+      "headway_min": 10,
       "headway_range_min": [
-        10.0,
-        15.0
+        10,
+        15
       ],
       "max_departures_in_an_hour": 6,
       "departures_per_day": 81,
@@ -3353,10 +3353,10 @@
       "first": "06:50",
       "last": "22:50",
       "last_arrival_at_terminal": "23:15",
-      "headway_min": 10.0,
+      "headway_min": 10,
       "headway_range_min": [
-        10.0,
-        15.0
+        10,
+        15
       ],
       "max_departures_in_an_hour": 6,
       "departures_per_day": 81,
@@ -3377,8 +3377,8 @@
       "timetable_partial_or_suspect": true,
       "system_hint": "rawalpindi-electric-bus",
       "system_exists_in_data": true,
-      "route_id_guess": "RWP-EB-01X",
-      "match_method": "eTransit stop-id overlap 75%; CHECK: eTransit 100 = \"Saddar Stop to Qabristan Chowk\" but matched data RWP-EB-01X (named Saddar - Bhatta Chowk) by 75% stop ids, while data RWP-EB-01 (named Saddar - Qabristan Chowk) cites safar id 172, which eTransit now calls \"Saddar Stop to Bhatta Chowk\". The names of RWP-EB-01 / RWP-EB-01X in data may be swapped.",
+      "route_id_guess": "RWP-EB-01",
+      "match_method": "eTransit stop-id overlap 75%; CHECK: eTransit 100 = \"Saddar Stop to Qabristan Chowk\" but matched data RWP-EB-01X (named Saddar - Bhatta Chowk) by 75% stop ids, while data RWP-EB-01 (named Saddar - Qabristan Chowk) cites safar id 172, which eTransit now calls \"Saddar Stop to Bhatta Chowk\". The names of RWP-EB-01 / RWP-EB-01X in data may be swapped. Corrected 2026-11-01: matched by terminals (eTransit 100 ends at Qabristan Chowk, 172 at Bhatta Chowk).",
       "match_confidence": "medium",
       "etransit_route_id": 100,
       "etransit_line_id": 26,
@@ -3398,7 +3398,7 @@
       "headway_range_min": null,
       "max_departures_in_an_hour": null,
       "departures_per_day": 1,
-      "scheduled_run_time_min": 24.0,
+      "scheduled_run_time_min": 24,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -3415,8 +3415,8 @@
       "timetable_partial_or_suspect": true,
       "system_hint": "rawalpindi-electric-bus",
       "system_exists_in_data": true,
-      "route_id_guess": "RWP-EB-01X",
-      "match_method": "eTransit stop-id overlap 75%; CHECK: eTransit 100 = \"Saddar Stop to Qabristan Chowk\" but matched data RWP-EB-01X (named Saddar - Bhatta Chowk) by 75% stop ids, while data RWP-EB-01 (named Saddar - Qabristan Chowk) cites safar id 172, which eTransit now calls \"Saddar Stop to Bhatta Chowk\". The names of RWP-EB-01 / RWP-EB-01X in data may be swapped.",
+      "route_id_guess": "RWP-EB-01",
+      "match_method": "eTransit stop-id overlap 75%; CHECK: eTransit 100 = \"Saddar Stop to Qabristan Chowk\" but matched data RWP-EB-01X (named Saddar - Bhatta Chowk) by 75% stop ids, while data RWP-EB-01 (named Saddar - Qabristan Chowk) cites safar id 172, which eTransit now calls \"Saddar Stop to Bhatta Chowk\". The names of RWP-EB-01 / RWP-EB-01X in data may be swapped. Corrected 2026-11-01: matched by terminals (eTransit 100 ends at Qabristan Chowk, 172 at Bhatta Chowk).",
       "match_confidence": "medium",
       "etransit_route_id": 100,
       "etransit_line_id": 26,
@@ -3436,7 +3436,7 @@
       "headway_range_min": null,
       "max_departures_in_an_hour": null,
       "departures_per_day": 1,
-      "scheduled_run_time_min": 22.0,
+      "scheduled_run_time_min": 22,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -3470,10 +3470,10 @@
       "first": "06:00",
       "last": "22:00",
       "last_arrival_at_terminal": "22:59",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        15.0
+        15,
+        15
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 65,
@@ -3511,10 +3511,10 @@
       "first": "06:00",
       "last": "22:00",
       "last_arrival_at_terminal": "22:59",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        15.0
+        15,
+        15
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 65,
@@ -3552,14 +3552,14 @@
       "first": "06:00",
       "last": "20:42",
       "last_arrival_at_terminal": "21:26",
-      "headway_min": 18.0,
+      "headway_min": 18,
       "headway_range_min": [
-        18.0,
-        18.0
+        18,
+        18
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 50,
-      "scheduled_run_time_min": 44.0,
+      "scheduled_run_time_min": 44,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -3593,14 +3593,14 @@
       "first": "06:00",
       "last": "21:54",
       "last_arrival_at_terminal": "22:38",
-      "headway_min": 18.0,
+      "headway_min": 18,
       "headway_range_min": [
-        18.0,
-        18.0
+        18,
+        18
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 54,
-      "scheduled_run_time_min": 44.0,
+      "scheduled_run_time_min": 44,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -3636,8 +3636,8 @@
       "last_arrival_at_terminal": "22:52",
       "headway_min": 3.5,
       "headway_range_min": [
-        2.0,
-        5.0
+        2,
+        5
       ],
       "max_departures_in_an_hour": 30,
       "departures_per_day": 297,
@@ -3675,14 +3675,14 @@
       "first": "06:15",
       "last": "22:03",
       "last_arrival_at_terminal": "22:56",
-      "headway_min": 3.0,
+      "headway_min": 3,
       "headway_range_min": [
         2.5,
-        5.0
+        5
       ],
       "max_departures_in_an_hour": 24,
       "departures_per_day": 306,
-      "scheduled_run_time_min": 53.0,
+      "scheduled_run_time_min": 53,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -3716,10 +3716,10 @@
       "first": "06:00",
       "last": "19:00",
       "last_arrival_at_terminal": "21:02",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 14,
@@ -3757,10 +3757,10 @@
       "first": "06:00",
       "last": "22:00",
       "last_arrival_at_terminal": "23:02",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 17,
@@ -3798,10 +3798,10 @@
       "first": "06:00",
       "last": "19:20",
       "last_arrival_at_terminal": "21:43",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 17,
@@ -3839,10 +3839,10 @@
       "first": "06:00",
       "last": "21:50",
       "last_arrival_at_terminal": "23:19",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 20,
@@ -3880,14 +3880,14 @@
       "first": "06:00",
       "last": "19:20",
       "last_arrival_at_terminal": "20:52",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
-      "scheduled_run_time_min": 92.0,
+      "scheduled_run_time_min": 92,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -3921,14 +3921,14 @@
       "first": "06:00",
       "last": "21:20",
       "last_arrival_at_terminal": "22:50",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 24,
-      "scheduled_run_time_min": 90.0,
+      "scheduled_run_time_min": 90,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -3962,14 +3962,14 @@
       "first": "06:00",
       "last": "19:20",
       "last_arrival_at_terminal": "21:20",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 17,
-      "scheduled_run_time_min": 120.0,
+      "scheduled_run_time_min": 120,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4003,14 +4003,14 @@
       "first": "06:00",
       "last": "21:50",
       "last_arrival_at_terminal": "23:50",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 20,
-      "scheduled_run_time_min": 120.0,
+      "scheduled_run_time_min": 120,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4044,14 +4044,14 @@
       "first": "06:00",
       "last": "21:18",
       "last_arrival_at_terminal": "21:48",
-      "headway_min": 27.0,
+      "headway_min": 27,
       "headway_range_min": [
-        27.0,
-        27.0
+        27,
+        27
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 35,
-      "scheduled_run_time_min": 30.0,
+      "scheduled_run_time_min": 30,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4085,14 +4085,14 @@
       "first": "06:15",
       "last": "22:00",
       "last_arrival_at_terminal": "22:28",
-      "headway_min": 27.0,
+      "headway_min": 27,
       "headway_range_min": [
-        27.0,
-        27.0
+        27,
+        27
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 36,
-      "scheduled_run_time_min": 28.0,
+      "scheduled_run_time_min": 28,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4126,14 +4126,14 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "20:24",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
-      "scheduled_run_time_min": 24.0,
+      "scheduled_run_time_min": 24,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4167,14 +4167,14 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "20:24",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
-      "scheduled_run_time_min": 24.0,
+      "scheduled_run_time_min": 24,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4208,14 +4208,14 @@
       "first": "06:00",
       "last": "21:24",
       "last_arrival_at_terminal": "21:44",
-      "headway_min": 28.0,
+      "headway_min": 28,
       "headway_range_min": [
-        28.0,
-        28.0
+        28,
+        28
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 34,
-      "scheduled_run_time_min": 20.0,
+      "scheduled_run_time_min": 20,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4249,14 +4249,14 @@
       "first": "06:00",
       "last": "21:52",
       "last_arrival_at_terminal": "22:12",
-      "headway_min": 28.0,
+      "headway_min": 28,
       "headway_range_min": [
-        28.0,
-        28.0
+        28,
+        28
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 35,
-      "scheduled_run_time_min": 20.0,
+      "scheduled_run_time_min": 20,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4290,14 +4290,14 @@
       "first": "06:00",
       "last": "20:15",
       "last_arrival_at_terminal": "21:17",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 20,
-      "scheduled_run_time_min": 62.0,
+      "scheduled_run_time_min": 62,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4331,14 +4331,14 @@
       "first": "06:25",
       "last": "22:21",
       "last_arrival_at_terminal": "22:25",
-      "headway_min": 34.0,
+      "headway_min": 34,
       "headway_range_min": [
-        11.0,
-        45.0
+        11,
+        45
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 42,
-      "scheduled_run_time_min": 60.0,
+      "scheduled_run_time_min": 60,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4372,10 +4372,10 @@
       "first": "06:00",
       "last": "17:40",
       "last_arrival_at_terminal": "19:22",
-      "headway_min": 35.0,
+      "headway_min": 35,
       "headway_range_min": [
-        35.0,
-        35.0
+        35,
+        35
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
@@ -4413,10 +4413,10 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "21:44",
-      "headway_min": 35.0,
+      "headway_min": 35,
       "headway_range_min": [
-        35.0,
-        35.0
+        35,
+        35
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 25,
@@ -4454,14 +4454,14 @@
       "first": "06:00",
       "last": "18:30",
       "last_arrival_at_terminal": "19:52",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 16,
-      "scheduled_run_time_min": 82.0,
+      "scheduled_run_time_min": 82,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4495,14 +4495,14 @@
       "first": "06:00",
       "last": "20:10",
       "last_arrival_at_terminal": "21:31",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 18,
-      "scheduled_run_time_min": 81.0,
+      "scheduled_run_time_min": 81,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4536,10 +4536,10 @@
       "first": "06:00",
       "last": "18:20",
       "last_arrival_at_terminal": "20:10",
-      "headway_min": 37.0,
+      "headway_min": 37,
       "headway_range_min": [
-        37.0,
-        37.0
+        37,
+        37
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
@@ -4577,10 +4577,10 @@
       "first": "06:00",
       "last": "20:11",
       "last_arrival_at_terminal": "21:55",
-      "headway_min": 37.0,
+      "headway_min": 37,
       "headway_range_min": [
-        37.0,
-        37.0
+        37,
+        37
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 24,
@@ -4618,14 +4618,14 @@
       "first": "06:00",
       "last": "21:30",
       "last_arrival_at_terminal": "21:30",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        15.0,
-        45.0
+        15,
+        45
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 40,
-      "scheduled_run_time_min": 0.0,
+      "scheduled_run_time_min": 0,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4659,14 +4659,14 @@
       "first": "06:00",
       "last": "21:30",
       "last_arrival_at_terminal": "21:30",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        15.0,
-        45.0
+        15,
+        45
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 40,
-      "scheduled_run_time_min": 0.0,
+      "scheduled_run_time_min": 0,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4704,7 +4704,7 @@
       "headway_range_min": null,
       "max_departures_in_an_hour": null,
       "departures_per_day": 1,
-      "scheduled_run_time_min": 111.0,
+      "scheduled_run_time_min": 111,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4742,7 +4742,7 @@
       "headway_range_min": null,
       "max_departures_in_an_hour": null,
       "departures_per_day": 1,
-      "scheduled_run_time_min": 108.0,
+      "scheduled_run_time_min": 108,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4759,8 +4759,8 @@
       "timetable_partial_or_suspect": true,
       "system_hint": "rawalpindi-electric-bus",
       "system_exists_in_data": true,
-      "route_id_guess": "RWP-EB-01",
-      "match_method": "id: route cites eTransit/safar route id 172; CHECK: see eTransit 100; RWP-EB-01 / RWP-EB-01X names may be swapped in data.",
+      "route_id_guess": "RWP-EB-01X",
+      "match_method": "id: route cites eTransit/safar route id 172; CHECK: see eTransit 100; RWP-EB-01 / RWP-EB-01X names may be swapped in data. Corrected 2026-11-01: matched by terminals (eTransit 100 ends at Qabristan Chowk, 172 at Bhatta Chowk).",
       "match_confidence": "medium",
       "etransit_route_id": 172,
       "etransit_line_id": 26,
@@ -4776,14 +4776,14 @@
       "first": "05:00",
       "last": "05:01",
       "last_arrival_at_terminal": "05:31",
-      "headway_min": 1.0,
+      "headway_min": 1,
       "headway_range_min": [
-        1.0,
-        1.0
+        1,
+        1
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 2,
-      "scheduled_run_time_min": 30.0,
+      "scheduled_run_time_min": 30,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4800,8 +4800,8 @@
       "timetable_partial_or_suspect": true,
       "system_hint": "rawalpindi-electric-bus",
       "system_exists_in_data": true,
-      "route_id_guess": "RWP-EB-01",
-      "match_method": "id: route cites eTransit/safar route id 172; CHECK: see eTransit 100; RWP-EB-01 / RWP-EB-01X names may be swapped in data.",
+      "route_id_guess": "RWP-EB-01X",
+      "match_method": "id: route cites eTransit/safar route id 172; CHECK: see eTransit 100; RWP-EB-01 / RWP-EB-01X names may be swapped in data. Corrected 2026-11-01: matched by terminals (eTransit 100 ends at Qabristan Chowk, 172 at Bhatta Chowk).",
       "match_confidence": "medium",
       "etransit_route_id": 172,
       "etransit_line_id": 26,
@@ -4817,14 +4817,14 @@
       "first": "05:00",
       "last": "05:01",
       "last_arrival_at_terminal": "05:30",
-      "headway_min": 1.0,
+      "headway_min": 1,
       "headway_range_min": [
-        1.0,
-        1.0
+        1,
+        1
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 2,
-      "scheduled_run_time_min": 29.0,
+      "scheduled_run_time_min": 29,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4858,14 +4858,14 @@
       "first": "06:00",
       "last": "19:20",
       "last_arrival_at_terminal": "20:56",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 17,
-      "scheduled_run_time_min": 96.0,
+      "scheduled_run_time_min": 96,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4899,14 +4899,14 @@
       "first": "06:00",
       "last": "21:00",
       "last_arrival_at_terminal": "22:39",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 19,
-      "scheduled_run_time_min": 99.0,
+      "scheduled_run_time_min": 99,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4940,14 +4940,14 @@
       "first": "06:00",
       "last": "19:20",
       "last_arrival_at_terminal": "20:56",
-      "headway_min": 32.0,
+      "headway_min": 32,
       "headway_range_min": [
-        32.0,
-        32.0
+        32,
+        32
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 26,
-      "scheduled_run_time_min": 96.0,
+      "scheduled_run_time_min": 96,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -4981,14 +4981,14 @@
       "first": "06:00",
       "last": "20:56",
       "last_arrival_at_terminal": "22:29",
-      "headway_min": 32.0,
+      "headway_min": 32,
       "headway_range_min": [
-        32.0,
-        32.0
+        32,
+        32
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 29,
-      "scheduled_run_time_min": 93.0,
+      "scheduled_run_time_min": 93,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -5022,14 +5022,14 @@
       "first": "06:00",
       "last": "20:21",
       "last_arrival_at_terminal": "21:27",
-      "headway_min": 41.0,
+      "headway_min": 41,
       "headway_range_min": [
-        41.0,
-        41.0
+        41,
+        41
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
-      "scheduled_run_time_min": 66.0,
+      "scheduled_run_time_min": 66,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -5063,14 +5063,14 @@
       "first": "06:00",
       "last": "21:43",
       "last_arrival_at_terminal": "22:49",
-      "headway_min": 41.0,
+      "headway_min": 41,
       "headway_range_min": [
-        41.0,
-        41.0
+        41,
+        41
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 24,
-      "scheduled_run_time_min": 66.0,
+      "scheduled_run_time_min": 66,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -5104,10 +5104,10 @@
       "first": "06:00",
       "last": "19:45",
       "last_arrival_at_terminal": "21:17",
-      "headway_min": 33.0,
+      "headway_min": 33,
       "headway_range_min": [
-        33.0,
-        33.0
+        33,
+        33
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 26,
@@ -5145,10 +5145,10 @@
       "first": "06:00",
       "last": "21:57",
       "last_arrival_at_terminal": "23:32",
-      "headway_min": 33.0,
+      "headway_min": 33,
       "headway_range_min": [
-        33.0,
-        33.0
+        33,
+        33
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 30,
@@ -5186,14 +5186,14 @@
       "first": "06:00",
       "last": "18:30",
       "last_arrival_at_terminal": "20:09",
-      "headway_min": 75.0,
+      "headway_min": 75,
       "headway_range_min": [
-        75.0,
-        75.0
+        75,
+        75
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 11,
-      "scheduled_run_time_min": 99.0,
+      "scheduled_run_time_min": 99,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -5227,10 +5227,10 @@
       "first": "06:00",
       "last": "21:00",
       "last_arrival_at_terminal": "22:33",
-      "headway_min": 75.0,
+      "headway_min": 75,
       "headway_range_min": [
-        75.0,
-        75.0
+        75,
+        75
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 13,
@@ -5268,14 +5268,14 @@
       "first": "06:00",
       "last": "17:40",
       "last_arrival_at_terminal": "19:12",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 15,
-      "scheduled_run_time_min": 92.0,
+      "scheduled_run_time_min": 92,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -5309,14 +5309,14 @@
       "first": "06:00",
       "last": "20:10",
       "last_arrival_at_terminal": "21:42",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 18,
-      "scheduled_run_time_min": 92.0,
+      "scheduled_run_time_min": 92,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -5350,10 +5350,10 @@
       "first": "06:00",
       "last": "18:08",
       "last_arrival_at_terminal": "19:37",
-      "headway_min": 56.0,
+      "headway_min": 56,
       "headway_range_min": [
-        56.0,
-        56.0
+        56,
+        56
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 14,
@@ -5391,10 +5391,10 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "21:25",
-      "headway_min": 56.0,
+      "headway_min": 56,
       "headway_range_min": [
-        56.0,
-        56.0
+        56,
+        56
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 16,
@@ -5435,7 +5435,7 @@
       "headway_min": 39.4,
       "headway_range_min": [
         5.6,
-        45.0
+        45
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 40,
@@ -5476,7 +5476,7 @@
       "headway_min": 41.6,
       "headway_range_min": [
         3.4,
-        45.0
+        45
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 40,
@@ -5514,10 +5514,10 @@
       "first": "06:00",
       "last": "21:18",
       "last_arrival_at_terminal": "21:55",
-      "headway_min": 9.0,
+      "headway_min": 9,
       "headway_range_min": [
-        9.0,
-        9.0
+        9,
+        9
       ],
       "max_departures_in_an_hour": 7,
       "departures_per_day": 103,
@@ -5555,10 +5555,10 @@
       "first": "06:00",
       "last": "22:12",
       "last_arrival_at_terminal": "22:49",
-      "headway_min": 9.0,
+      "headway_min": 9,
       "headway_range_min": [
-        9.0,
-        9.0
+        9,
+        9
       ],
       "max_departures_in_an_hour": 7,
       "departures_per_day": 109,
@@ -5596,10 +5596,10 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "20:15",
-      "headway_min": 5.0,
+      "headway_min": 5,
       "headway_range_min": [
-        5.0,
-        5.0
+        5,
+        5
       ],
       "max_departures_in_an_hour": 12,
       "departures_per_day": 169,
@@ -5637,10 +5637,10 @@
       "first": "06:00",
       "last": "20:20",
       "last_arrival_at_terminal": "20:35",
-      "headway_min": 5.0,
+      "headway_min": 5,
       "headway_range_min": [
-        5.0,
-        5.0
+        5,
+        5
       ],
       "max_departures_in_an_hour": 12,
       "departures_per_day": 173,
@@ -5678,10 +5678,10 @@
       "first": "06:00",
       "last": "20:45",
       "last_arrival_at_terminal": "21:22",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        15.0
+        15,
+        15
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 60,
@@ -5719,10 +5719,10 @@
       "first": "06:00",
       "last": "21:30",
       "last_arrival_at_terminal": "22:07",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        15.0
+        15,
+        15
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 63,
@@ -5760,10 +5760,10 @@
       "first": "06:00",
       "last": "21:00",
       "last_arrival_at_terminal": "22:01",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 31,
@@ -5801,10 +5801,10 @@
       "first": "06:00",
       "last": "22:00",
       "last_arrival_at_terminal": "23:01",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 33,
@@ -5842,10 +5842,10 @@
       "first": "06:00",
       "last": "19:20",
       "last_arrival_at_terminal": "21:09",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
@@ -5883,10 +5883,10 @@
       "first": "06:00",
       "last": "21:20",
       "last_arrival_at_terminal": "23:01",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 24,
@@ -5924,10 +5924,10 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "20:59",
-      "headway_min": 35.0,
+      "headway_min": 35,
       "headway_range_min": [
-        35.0,
-        35.0
+        35,
+        35
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 25,
@@ -5965,10 +5965,10 @@
       "first": "06:00",
       "last": "21:10",
       "last_arrival_at_terminal": "22:16",
-      "headway_min": 35.0,
+      "headway_min": 35,
       "headway_range_min": [
-        35.0,
-        35.0
+        35,
+        35
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 27,
@@ -6006,10 +6006,10 @@
       "first": "06:00",
       "last": "20:40",
       "last_arrival_at_terminal": "22:14",
-      "headway_min": 55.0,
+      "headway_min": 55,
       "headway_range_min": [
-        55.0,
-        55.0
+        55,
+        55
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 17,
@@ -6047,14 +6047,14 @@
       "first": "06:25",
       "last": "19:47",
       "last_arrival_at_terminal": "21:19",
-      "headway_min": 55.0,
+      "headway_min": 55,
       "headway_range_min": [
-        32.0,
-        55.0
+        32,
+        55
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 16,
-      "scheduled_run_time_min": 92.0,
+      "scheduled_run_time_min": 92,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -6088,10 +6088,10 @@
       "first": "06:00",
       "last": "21:10",
       "last_arrival_at_terminal": "22:13",
-      "headway_min": 35.0,
+      "headway_min": 35,
       "headway_range_min": [
-        35.0,
-        35.0
+        35,
+        35
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 27,
@@ -6129,14 +6129,14 @@
       "first": "06:00",
       "last": "21:10",
       "last_arrival_at_terminal": "22:15",
-      "headway_min": 35.0,
+      "headway_min": 35,
       "headway_range_min": [
-        35.0,
-        35.0
+        35,
+        35
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 27,
-      "scheduled_run_time_min": 65.0,
+      "scheduled_run_time_min": 65,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -6170,10 +6170,10 @@
       "first": "06:00",
       "last": "20:35",
       "last_arrival_at_terminal": "21:39",
-      "headway_min": 35.0,
+      "headway_min": 35,
       "headway_range_min": [
-        35.0,
-        35.0
+        35,
+        35
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 26,
@@ -6211,10 +6211,10 @@
       "first": "06:00",
       "last": "20:35",
       "last_arrival_at_terminal": "21:37",
-      "headway_min": 35.0,
+      "headway_min": 35,
       "headway_range_min": [
-        35.0,
-        35.0
+        35,
+        35
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 26,
@@ -6252,10 +6252,10 @@
       "first": "06:00",
       "last": "20:40",
       "last_arrival_at_terminal": "21:42",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 23,
@@ -6293,14 +6293,14 @@
       "first": "06:35",
       "last": "21:15",
       "last_arrival_at_terminal": "22:15",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 23,
-      "scheduled_run_time_min": 60.0,
+      "scheduled_run_time_min": 60,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -6334,10 +6334,10 @@
       "first": "06:00",
       "last": "20:15",
       "last_arrival_at_terminal": "21:12",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 20,
@@ -6375,10 +6375,10 @@
       "first": "06:00",
       "last": "21:45",
       "last_arrival_at_terminal": "22:42",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
@@ -6416,14 +6416,14 @@
       "first": "06:00",
       "last": "22:10",
       "last_arrival_at_terminal": "22:11",
-      "headway_min": 16.0,
+      "headway_min": 16,
       "headway_range_min": [
-        2.0,
-        16.0
+        2,
+        16
       ],
       "max_departures_in_an_hour": 7,
       "departures_per_day": 108,
-      "scheduled_run_time_min": 17.0,
+      "scheduled_run_time_min": 17,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -6457,14 +6457,14 @@
       "first": "06:00",
       "last": "22:46",
       "last_arrival_at_terminal": "22:47",
-      "headway_min": 16.0,
+      "headway_min": 16,
       "headway_range_min": [
-        2.0,
-        16.0
+        2,
+        16
       ],
       "max_departures_in_an_hour": 7,
       "departures_per_day": 112,
-      "scheduled_run_time_min": 17.0,
+      "scheduled_run_time_min": 17,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -6498,14 +6498,14 @@
       "first": "06:00",
       "last": "19:30",
       "last_arrival_at_terminal": "20:10",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 28,
-      "scheduled_run_time_min": 40.0,
+      "scheduled_run_time_min": 40,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -6539,14 +6539,14 @@
       "first": "06:00",
       "last": "19:30",
       "last_arrival_at_terminal": "20:10",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 28,
-      "scheduled_run_time_min": 40.0,
+      "scheduled_run_time_min": 40,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -6580,10 +6580,10 @@
       "first": "06:00",
       "last": "20:42",
       "last_arrival_at_terminal": "22:22",
-      "headway_min": 42.0,
+      "headway_min": 42,
       "headway_range_min": [
-        42.0,
-        42.0
+        42,
+        42
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
@@ -6621,10 +6621,10 @@
       "first": "06:00",
       "last": "20:42",
       "last_arrival_at_terminal": "22:22",
-      "headway_min": 42.0,
+      "headway_min": 42,
       "headway_range_min": [
-        42.0,
-        42.0
+        42,
+        42
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
@@ -6662,10 +6662,10 @@
       "first": "06:00",
       "last": "22:00",
       "last_arrival_at_terminal": "22:55",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 17,
@@ -6703,10 +6703,10 @@
       "first": "06:00",
       "last": "22:00",
       "last_arrival_at_terminal": "22:55",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 17,
@@ -6744,10 +6744,10 @@
       "first": "06:00",
       "last": "21:50",
       "last_arrival_at_terminal": "22:30",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 20,
@@ -6785,10 +6785,10 @@
       "first": "06:00",
       "last": "21:50",
       "last_arrival_at_terminal": "22:30",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 20,
@@ -6826,10 +6826,10 @@
       "first": "06:00",
       "last": "21:00",
       "last_arrival_at_terminal": "21:32",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
@@ -6867,10 +6867,10 @@
       "first": "06:00",
       "last": "21:00",
       "last_arrival_at_terminal": "21:32",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
@@ -6908,10 +6908,10 @@
       "first": "06:20",
       "last": "20:20",
       "last_arrival_at_terminal": "20:51",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
@@ -6949,10 +6949,10 @@
       "first": "07:00",
       "last": "21:00",
       "last_arrival_at_terminal": "21:38",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
@@ -6990,14 +6990,14 @@
       "first": "06:20",
       "last": "22:22",
       "last_arrival_at_terminal": "23:47",
-      "headway_min": 13.0,
+      "headway_min": 13,
       "headway_range_min": [
-        13.0,
-        13.0
+        13,
+        13
       ],
       "max_departures_in_an_hour": 5,
       "departures_per_day": 75,
-      "scheduled_run_time_min": 124.0,
+      "scheduled_run_time_min": 124,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -7031,14 +7031,14 @@
       "first": "05:00",
       "last": "21:02",
       "last_arrival_at_terminal": "22:57",
-      "headway_min": 13.0,
+      "headway_min": 13,
       "headway_range_min": [
-        13.0,
-        13.0
+        13,
+        13
       ],
       "max_departures_in_an_hour": 5,
       "departures_per_day": 75,
-      "scheduled_run_time_min": 115.0,
+      "scheduled_run_time_min": 115,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -7072,10 +7072,10 @@
       "first": "06:10",
       "last": "22:10",
       "last_arrival_at_terminal": "22:39",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 49,
@@ -7113,10 +7113,10 @@
       "first": "05:30",
       "last": "21:30",
       "last_arrival_at_terminal": "21:55",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 49,
@@ -7154,14 +7154,14 @@
       "first": "06:00",
       "last": "21:45",
       "last_arrival_at_terminal": "22:08",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        15.0
+        15,
+        15
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 64,
-      "scheduled_run_time_min": 23.0,
+      "scheduled_run_time_min": 23,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -7195,10 +7195,10 @@
       "first": "06:40",
       "last": "22:25",
       "last_arrival_at_terminal": "22:50",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        15.0
+        15,
+        15
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 64,
@@ -7236,10 +7236,10 @@
       "first": "06:10",
       "last": "21:50",
       "last_arrival_at_terminal": "22:37",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 48,
@@ -7277,14 +7277,14 @@
       "first": "06:55",
       "last": "22:35",
       "last_arrival_at_terminal": "23:07",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 48,
-      "scheduled_run_time_min": 32.0,
+      "scheduled_run_time_min": 32,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -7318,10 +7318,10 @@
       "first": "06:27",
       "last": "21:57",
       "last_arrival_at_terminal": "22:54",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 32,
@@ -7359,10 +7359,10 @@
       "first": "05:30",
       "last": "21:00",
       "last_arrival_at_terminal": "21:46",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 32,
@@ -7400,14 +7400,14 @@
       "first": "06:08",
       "last": "22:38",
       "last_arrival_at_terminal": "23:07",
-      "headway_min": 10.0,
+      "headway_min": 10,
       "headway_range_min": [
-        10.0,
-        10.0
+        10,
+        10
       ],
       "max_departures_in_an_hour": 6,
       "departures_per_day": 100,
-      "scheduled_run_time_min": 29.0,
+      "scheduled_run_time_min": 29,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -7441,10 +7441,10 @@
       "first": "05:30",
       "last": "22:00",
       "last_arrival_at_terminal": "22:27",
-      "headway_min": 10.0,
+      "headway_min": 10,
       "headway_range_min": [
-        10.0,
-        10.0
+        10,
+        10
       ],
       "max_departures_in_an_hour": 6,
       "departures_per_day": 100,
@@ -7482,10 +7482,10 @@
       "first": "05:45",
       "last": "21:55",
       "last_arrival_at_terminal": "22:37",
-      "headway_min": 10.0,
+      "headway_min": 10,
       "headway_range_min": [
-        10.0,
-        10.0
+        10,
+        10
       ],
       "max_departures_in_an_hour": 6,
       "departures_per_day": 98,
@@ -7523,10 +7523,10 @@
       "first": "06:40",
       "last": "22:50",
       "last_arrival_at_terminal": "23:29",
-      "headway_min": 10.0,
+      "headway_min": 10,
       "headway_range_min": [
-        10.0,
-        10.0
+        10,
+        10
       ],
       "max_departures_in_an_hour": 6,
       "departures_per_day": 98,
@@ -7564,14 +7564,14 @@
       "first": "06:15",
       "last": "21:55",
       "last_arrival_at_terminal": "22:49",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 48,
-      "scheduled_run_time_min": 54.0,
+      "scheduled_run_time_min": 54,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -7605,14 +7605,14 @@
       "first": "06:15",
       "last": "21:55",
       "last_arrival_at_terminal": "22:41",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 48,
-      "scheduled_run_time_min": 46.0,
+      "scheduled_run_time_min": 46,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -7646,10 +7646,10 @@
       "first": "06:00",
       "last": "22:30",
       "last_arrival_at_terminal": "23:16",
-      "headway_min": 10.0,
+      "headway_min": 10,
       "headway_range_min": [
-        10.0,
-        20.0
+        10,
+        20
       ],
       "max_departures_in_an_hour": 6,
       "departures_per_day": 92,
@@ -7687,10 +7687,10 @@
       "first": "06:00",
       "last": "22:30",
       "last_arrival_at_terminal": "23:14",
-      "headway_min": 10.0,
+      "headway_min": 10,
       "headway_range_min": [
-        10.0,
-        20.0
+        10,
+        20
       ],
       "max_departures_in_an_hour": 6,
       "departures_per_day": 92,
@@ -7728,10 +7728,10 @@
       "first": "06:00",
       "last": "21:40",
       "last_arrival_at_terminal": "22:37",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 48,
@@ -7769,10 +7769,10 @@
       "first": "06:54",
       "last": "22:34",
       "last_arrival_at_terminal": "23:33",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 48,
@@ -7810,10 +7810,10 @@
       "first": "06:00",
       "last": "22:04",
       "last_arrival_at_terminal": "23:31",
-      "headway_min": 8.0,
+      "headway_min": 8,
       "headway_range_min": [
-        8.0,
-        15.0
+        8,
+        15
       ],
       "max_departures_in_an_hour": 8,
       "departures_per_day": 118,
@@ -7851,10 +7851,10 @@
       "first": "06:00",
       "last": "22:04",
       "last_arrival_at_terminal": "23:35",
-      "headway_min": 8.0,
+      "headway_min": 8,
       "headway_range_min": [
-        8.0,
-        15.0
+        8,
+        15
       ],
       "max_departures_in_an_hour": 8,
       "departures_per_day": 118,
@@ -7892,10 +7892,10 @@
       "first": "06:00",
       "last": "22:10",
       "last_arrival_at_terminal": "23:17",
-      "headway_min": 10.0,
+      "headway_min": 10,
       "headway_range_min": [
-        10.0,
-        20.0
+        10,
+        20
       ],
       "max_departures_in_an_hour": 6,
       "departures_per_day": 91,
@@ -7933,10 +7933,10 @@
       "first": "06:00",
       "last": "22:10",
       "last_arrival_at_terminal": "23:25",
-      "headway_min": 10.0,
+      "headway_min": 10,
       "headway_range_min": [
-        10.0,
-        20.0
+        10,
+        20
       ],
       "max_departures_in_an_hour": 6,
       "departures_per_day": 91,
@@ -7974,10 +7974,10 @@
       "first": "06:47",
       "last": "22:07",
       "last_arrival_at_terminal": "23:33",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 24,
@@ -8015,14 +8015,14 @@
       "first": "05:30",
       "last": "20:50",
       "last_arrival_at_terminal": "22:00",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 24,
-      "scheduled_run_time_min": 70.0,
+      "scheduled_run_time_min": 70,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8056,14 +8056,14 @@
       "first": "05:30",
       "last": "19:40",
       "last_arrival_at_terminal": "22:20",
-      "headway_min": 25.0,
+      "headway_min": 25,
       "headway_range_min": [
-        25.0,
-        25.0
+        25,
+        25
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 35,
-      "scheduled_run_time_min": 160.0,
+      "scheduled_run_time_min": 160,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8097,14 +8097,14 @@
       "first": "07:10",
       "last": "21:20",
       "last_arrival_at_terminal": "23:35",
-      "headway_min": 25.0,
+      "headway_min": 25,
       "headway_range_min": [
-        25.0,
-        25.0
+        25,
+        25
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 35,
-      "scheduled_run_time_min": 160.0,
+      "scheduled_run_time_min": 160,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8138,14 +8138,14 @@
       "first": "05:25",
       "last": "21:25",
       "last_arrival_at_terminal": "22:37",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        15.0
+        15,
+        15
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 65,
-      "scheduled_run_time_min": 72.0,
+      "scheduled_run_time_min": 72,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8179,14 +8179,14 @@
       "first": "06:20",
       "last": "22:20",
       "last_arrival_at_terminal": "23:32",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        15.0
+        15,
+        15
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 65,
-      "scheduled_run_time_min": 72.0,
+      "scheduled_run_time_min": 72,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8220,14 +8220,14 @@
       "first": "07:00",
       "last": "22:00",
       "last_arrival_at_terminal": "23:39",
-      "headway_min": 25.0,
+      "headway_min": 25,
       "headway_range_min": [
-        25.0,
-        25.0
+        25,
+        25
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 37,
-      "scheduled_run_time_min": 124.0,
+      "scheduled_run_time_min": 124,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8261,14 +8261,14 @@
       "first": "05:30",
       "last": "20:30",
       "last_arrival_at_terminal": "22:34",
-      "headway_min": 25.0,
+      "headway_min": 25,
       "headway_range_min": [
-        25.0,
-        25.0
+        25,
+        25
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 37,
-      "scheduled_run_time_min": 124.0,
+      "scheduled_run_time_min": 124,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8302,14 +8302,14 @@
       "first": "06:00",
       "last": "21:45",
       "last_arrival_at_terminal": "23:22",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        15.0
+        15,
+        15
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 64,
-      "scheduled_run_time_min": 97.0,
+      "scheduled_run_time_min": 97,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8343,14 +8343,14 @@
       "first": "06:45",
       "last": "22:30",
       "last_arrival_at_terminal": "23:58",
-      "headway_min": 15.0,
+      "headway_min": 15,
       "headway_range_min": [
-        15.0,
-        15.0
+        15,
+        15
       ],
       "max_departures_in_an_hour": 4,
       "departures_per_day": 64,
-      "scheduled_run_time_min": 88.0,
+      "scheduled_run_time_min": 88,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8384,14 +8384,14 @@
       "first": "06:15",
       "last": "22:15",
       "last_arrival_at_terminal": "23:55",
-      "headway_min": 80.0,
+      "headway_min": 80,
       "headway_range_min": [
-        80.0,
-        80.0
+        80,
+        80
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 13,
-      "scheduled_run_time_min": 100.0,
+      "scheduled_run_time_min": 100,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8425,14 +8425,14 @@
       "first": "05:00",
       "last": "21:00",
       "last_arrival_at_terminal": "22:24",
-      "headway_min": 80.0,
+      "headway_min": 80,
       "headway_range_min": [
-        80.0,
-        80.0
+        80,
+        80
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 13,
-      "scheduled_run_time_min": 84.0,
+      "scheduled_run_time_min": 84,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8466,14 +8466,14 @@
       "first": "06:30",
       "last": "23:00",
       "last_arrival_at_terminal": "23:50",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 34,
-      "scheduled_run_time_min": 140.0,
+      "scheduled_run_time_min": 140,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8507,14 +8507,14 @@
       "first": "04:50",
       "last": "21:20",
       "last_arrival_at_terminal": "23:40",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 34,
-      "scheduled_run_time_min": 140.0,
+      "scheduled_run_time_min": 140,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8548,14 +8548,14 @@
       "first": "07:00",
       "last": "21:00",
       "last_arrival_at_terminal": "21:08",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 29,
-      "scheduled_run_time_min": 8.0,
+      "scheduled_run_time_min": 8,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8589,14 +8589,14 @@
       "first": "07:15",
       "last": "21:15",
       "last_arrival_at_terminal": "21:23",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 29,
-      "scheduled_run_time_min": 8.0,
+      "scheduled_run_time_min": 8,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8630,14 +8630,14 @@
       "first": "07:45",
       "last": "22:20",
       "last_arrival_at_terminal": "23:37",
-      "headway_min": 35.0,
+      "headway_min": 35,
       "headway_range_min": [
-        35.0,
-        35.0
+        35,
+        35
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 26,
-      "scheduled_run_time_min": 112.0,
+      "scheduled_run_time_min": 112,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8671,14 +8671,14 @@
       "first": "06:00",
       "last": "20:35",
       "last_arrival_at_terminal": "22:23",
-      "headway_min": 35.0,
+      "headway_min": 35,
       "headway_range_min": [
-        35.0,
-        35.0
+        35,
+        35
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 26,
-      "scheduled_run_time_min": 108.0,
+      "scheduled_run_time_min": 108,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8712,10 +8712,10 @@
       "first": "06:00",
       "last": "20:24",
       "last_arrival_at_terminal": "21:36",
-      "headway_min": 24.0,
+      "headway_min": 24,
       "headway_range_min": [
-        24.0,
-        24.0
+        24,
+        24
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 37,
@@ -8753,14 +8753,14 @@
       "first": "06:00",
       "last": "21:36",
       "last_arrival_at_terminal": "22:48",
-      "headway_min": 24.0,
+      "headway_min": 24,
       "headway_range_min": [
-        24.0,
-        24.0
+        24,
+        24
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 40,
-      "scheduled_run_time_min": 72.0,
+      "scheduled_run_time_min": 72,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8794,14 +8794,14 @@
       "first": "06:00",
       "last": "19:20",
       "last_arrival_at_terminal": "20:56",
-      "headway_min": 32.0,
+      "headway_min": 32,
       "headway_range_min": [
-        32.0,
-        32.0
+        32,
+        32
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 26,
-      "scheduled_run_time_min": 96.0,
+      "scheduled_run_time_min": 96,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8835,14 +8835,14 @@
       "first": "06:00",
       "last": "21:28",
       "last_arrival_at_terminal": "23:04",
-      "headway_min": 32.0,
+      "headway_min": 32,
       "headway_range_min": [
-        32.0,
-        32.0
+        32,
+        32
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 30,
-      "scheduled_run_time_min": 96.0,
+      "scheduled_run_time_min": 96,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8876,10 +8876,10 @@
       "first": "05:50",
       "last": "20:50",
       "last_arrival_at_terminal": "22:42",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 46,
@@ -8917,14 +8917,14 @@
       "first": "07:00",
       "last": "22:00",
       "last_arrival_at_terminal": "23:48",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 46,
-      "scheduled_run_time_min": 108.0,
+      "scheduled_run_time_min": 108,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8958,14 +8958,14 @@
       "first": "06:00",
       "last": "21:25",
       "last_arrival_at_terminal": "21:45",
-      "headway_min": 25.0,
+      "headway_min": 25,
       "headway_range_min": [
-        25.0,
-        25.0
+        25,
+        25
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 38,
-      "scheduled_run_time_min": 20.0,
+      "scheduled_run_time_min": 20,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -8999,14 +8999,14 @@
       "first": "06:25",
       "last": "21:50",
       "last_arrival_at_terminal": "22:10",
-      "headway_min": 25.0,
+      "headway_min": 25,
       "headway_range_min": [
-        25.0,
-        25.0
+        25,
+        25
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 38,
-      "scheduled_run_time_min": 20.0,
+      "scheduled_run_time_min": 20,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9040,14 +9040,14 @@
       "first": "06:00",
       "last": "15:00",
       "last_arrival_at_terminal": "15:40",
-      "headway_min": 90.0,
+      "headway_min": 90,
       "headway_range_min": [
-        90.0,
-        90.0
+        90,
+        90
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 7,
-      "scheduled_run_time_min": 40.0,
+      "scheduled_run_time_min": 40,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9081,14 +9081,14 @@
       "first": "06:00",
       "last": "15:00",
       "last_arrival_at_terminal": "15:40",
-      "headway_min": 90.0,
+      "headway_min": 90,
       "headway_range_min": [
-        90.0,
-        90.0
+        90,
+        90
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 7,
-      "scheduled_run_time_min": 40.0,
+      "scheduled_run_time_min": 40,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9122,14 +9122,14 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "20:32",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
-      "scheduled_run_time_min": 32.0,
+      "scheduled_run_time_min": 32,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9163,10 +9163,10 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "20:32",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
@@ -9204,14 +9204,14 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "20:36",
-      "headway_min": 70.0,
+      "headway_min": 70,
       "headway_range_min": [
-        70.0,
-        70.0
+        70,
+        70
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 13,
-      "scheduled_run_time_min": 36.0,
+      "scheduled_run_time_min": 36,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9245,14 +9245,14 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "20:36",
-      "headway_min": 70.0,
+      "headway_min": 70,
       "headway_range_min": [
-        70.0,
-        70.0
+        70,
+        70
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 13,
-      "scheduled_run_time_min": 36.0,
+      "scheduled_run_time_min": 36,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9286,14 +9286,14 @@
       "first": "06:00",
       "last": "21:10",
       "last_arrival_at_terminal": "21:29",
-      "headway_min": 65.0,
+      "headway_min": 65,
       "headway_range_min": [
-        65.0,
-        65.0
+        65,
+        65
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 15,
-      "scheduled_run_time_min": 19.0,
+      "scheduled_run_time_min": 19,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9327,14 +9327,14 @@
       "first": "06:00",
       "last": "21:10",
       "last_arrival_at_terminal": "21:38",
-      "headway_min": 65.0,
+      "headway_min": 65,
       "headway_range_min": [
-        65.0,
-        65.0
+        65,
+        65
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 15,
-      "scheduled_run_time_min": 28.0,
+      "scheduled_run_time_min": 28,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9368,14 +9368,14 @@
       "first": "06:00",
       "last": "21:10",
       "last_arrival_at_terminal": "22:37",
-      "headway_min": 65.0,
+      "headway_min": 65,
       "headway_range_min": [
-        65.0,
-        65.0
+        65,
+        65
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 15,
-      "scheduled_run_time_min": 87.0,
+      "scheduled_run_time_min": 87,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9409,14 +9409,14 @@
       "first": "06:00",
       "last": "21:10",
       "last_arrival_at_terminal": "22:37",
-      "headway_min": 65.0,
+      "headway_min": 65,
       "headway_range_min": [
-        65.0,
-        65.0
+        65,
+        65
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 15,
-      "scheduled_run_time_min": 87.0,
+      "scheduled_run_time_min": 87,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9450,14 +9450,14 @@
       "first": "06:00",
       "last": "21:00",
       "last_arrival_at_terminal": "22:41",
-      "headway_min": 75.0,
+      "headway_min": 75,
       "headway_range_min": [
-        75.0,
-        75.0
+        75,
+        75
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 13,
-      "scheduled_run_time_min": 101.0,
+      "scheduled_run_time_min": 101,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9491,14 +9491,14 @@
       "first": "06:00",
       "last": "21:00",
       "last_arrival_at_terminal": "22:41",
-      "headway_min": 75.0,
+      "headway_min": 75,
       "headway_range_min": [
-        75.0,
-        75.0
+        75,
+        75
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 13,
-      "scheduled_run_time_min": 101.0,
+      "scheduled_run_time_min": 101,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9532,14 +9532,14 @@
       "first": "06:00",
       "last": "20:40",
       "last_arrival_at_terminal": "21:31",
-      "headway_min": 55.0,
+      "headway_min": 55,
       "headway_range_min": [
-        55.0,
-        55.0
+        55,
+        55
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 17,
-      "scheduled_run_time_min": 51.0,
+      "scheduled_run_time_min": 51,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9573,14 +9573,14 @@
       "first": "06:00",
       "last": "21:28",
       "last_arrival_at_terminal": "21:31",
-      "headway_min": 48.0,
+      "headway_min": 48,
       "headway_range_min": [
-        7.0,
-        48.0
+        7,
+        48
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 34,
-      "scheduled_run_time_min": 51.0,
+      "scheduled_run_time_min": 51,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9614,14 +9614,14 @@
       "first": "06:00",
       "last": "20:05",
       "last_arrival_at_terminal": "20:53",
-      "headway_min": 65.0,
+      "headway_min": 65,
       "headway_range_min": [
-        65.0,
-        65.0
+        65,
+        65
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 14,
-      "scheduled_run_time_min": 48.0,
+      "scheduled_run_time_min": 48,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9655,14 +9655,14 @@
       "first": "06:00",
       "last": "20:05",
       "last_arrival_at_terminal": "20:53",
-      "headway_min": 65.0,
+      "headway_min": 65,
       "headway_range_min": [
-        65.0,
-        65.0
+        65,
+        65
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 14,
-      "scheduled_run_time_min": 48.0,
+      "scheduled_run_time_min": 48,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9696,14 +9696,14 @@
       "first": "06:00",
       "last": "19:00",
       "last_arrival_at_terminal": "20:09",
-      "headway_min": 65.0,
+      "headway_min": 65,
       "headway_range_min": [
-        65.0,
-        65.0
+        65,
+        65
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 13,
-      "scheduled_run_time_min": 69.0,
+      "scheduled_run_time_min": 69,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9737,14 +9737,14 @@
       "first": "06:00",
       "last": "21:10",
       "last_arrival_at_terminal": "22:19",
-      "headway_min": 65.0,
+      "headway_min": 65,
       "headway_range_min": [
-        65.0,
-        65.0
+        65,
+        65
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 15,
-      "scheduled_run_time_min": 69.0,
+      "scheduled_run_time_min": 69,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9778,14 +9778,14 @@
       "first": "06:00",
       "last": "18:45",
       "last_arrival_at_terminal": "19:51",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 18,
-      "scheduled_run_time_min": 66.0,
+      "scheduled_run_time_min": 66,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9819,14 +9819,14 @@
       "first": "06:00",
       "last": "20:15",
       "last_arrival_at_terminal": "21:21",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 20,
-      "scheduled_run_time_min": 66.0,
+      "scheduled_run_time_min": 66,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9860,14 +9860,14 @@
       "first": "06:00",
       "last": "19:45",
       "last_arrival_at_terminal": "20:42",
-      "headway_min": 55.0,
+      "headway_min": 55,
       "headway_range_min": [
-        55.0,
-        55.0
+        55,
+        55
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 16,
-      "scheduled_run_time_min": 57.0,
+      "scheduled_run_time_min": 57,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9901,14 +9901,14 @@
       "first": "06:00",
       "last": "20:40",
       "last_arrival_at_terminal": "21:37",
-      "headway_min": 55.0,
+      "headway_min": 55,
       "headway_range_min": [
-        55.0,
-        55.0
+        55,
+        55
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 17,
-      "scheduled_run_time_min": 57.0,
+      "scheduled_run_time_min": 57,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9942,14 +9942,14 @@
       "first": "06:00",
       "last": "19:20",
       "last_arrival_at_terminal": "20:22",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 17,
-      "scheduled_run_time_min": 62.0,
+      "scheduled_run_time_min": 62,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -9983,14 +9983,14 @@
       "first": "06:00",
       "last": "20:10",
       "last_arrival_at_terminal": "21:10",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 18,
-      "scheduled_run_time_min": 60.0,
+      "scheduled_run_time_min": 60,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10024,14 +10024,14 @@
       "first": "06:00",
       "last": "19:00",
       "last_arrival_at_terminal": "20:21",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 14,
-      "scheduled_run_time_min": 81.0,
+      "scheduled_run_time_min": 81,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10065,14 +10065,14 @@
       "first": "06:30",
       "last": "20:30",
       "last_arrival_at_terminal": "21:51",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 15,
-      "scheduled_run_time_min": 81.0,
+      "scheduled_run_time_min": 81,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10106,14 +10106,14 @@
       "first": "06:00",
       "last": "22:34",
       "last_arrival_at_terminal": "22:38",
-      "headway_min": 22.0,
+      "headway_min": 22,
       "headway_range_min": [
-        5.0,
-        27.0
+        5,
+        27
       ],
       "max_departures_in_an_hour": 5,
       "departures_per_day": 70,
-      "scheduled_run_time_min": 80.0,
+      "scheduled_run_time_min": 80,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10147,14 +10147,14 @@
       "first": "06:00",
       "last": "22:38",
       "last_arrival_at_terminal": "22:42",
-      "headway_min": 26.0,
+      "headway_min": 26,
       "headway_range_min": [
-        1.0,
-        27.0
+        1,
+        27
       ],
       "max_departures_in_an_hour": 6,
       "departures_per_day": 70,
-      "scheduled_run_time_min": 84.0,
+      "scheduled_run_time_min": 84,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10188,14 +10188,14 @@
       "first": "06:00",
       "last": "19:00",
       "last_arrival_at_terminal": "20:12",
-      "headway_min": 65.0,
+      "headway_min": 65,
       "headway_range_min": [
-        65.0,
-        65.0
+        65,
+        65
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 13,
-      "scheduled_run_time_min": 72.0,
+      "scheduled_run_time_min": 72,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10229,14 +10229,14 @@
       "first": "06:00",
       "last": "21:10",
       "last_arrival_at_terminal": "22:22",
-      "headway_min": 65.0,
+      "headway_min": 65,
       "headway_range_min": [
-        65.0,
-        65.0
+        65,
+        65
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 15,
-      "scheduled_run_time_min": 72.0,
+      "scheduled_run_time_min": 72,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10270,14 +10270,14 @@
       "first": "06:00",
       "last": "20:40",
       "last_arrival_at_terminal": "21:22",
-      "headway_min": 110.0,
+      "headway_min": 110,
       "headway_range_min": [
-        110.0,
-        110.0
+        110,
+        110
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 9,
-      "scheduled_run_time_min": 42.0,
+      "scheduled_run_time_min": 42,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10311,10 +10311,10 @@
       "first": "06:00",
       "last": "20:40",
       "last_arrival_at_terminal": "21:22",
-      "headway_min": 110.0,
+      "headway_min": 110,
       "headway_range_min": [
-        110.0,
-        110.0
+        110,
+        110
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 9,
@@ -10352,14 +10352,14 @@
       "first": "07:00",
       "last": "21:35",
       "last_arrival_at_terminal": "22:35",
-      "headway_min": 35.0,
+      "headway_min": 35,
       "headway_range_min": [
-        35.0,
-        35.0
+        35,
+        35
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 26,
-      "scheduled_run_time_min": 60.0,
+      "scheduled_run_time_min": 60,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10393,14 +10393,14 @@
       "first": "07:00",
       "last": "21:35",
       "last_arrival_at_terminal": "22:35",
-      "headway_min": 35.0,
+      "headway_min": 35,
       "headway_range_min": [
-        35.0,
-        35.0
+        35,
+        35
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 26,
-      "scheduled_run_time_min": 60.0,
+      "scheduled_run_time_min": 60,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10434,14 +10434,14 @@
       "first": "06:15",
       "last": "21:15",
       "last_arrival_at_terminal": "21:56",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
-      "scheduled_run_time_min": 41.0,
+      "scheduled_run_time_min": 41,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10475,14 +10475,14 @@
       "first": "07:15",
       "last": "22:15",
       "last_arrival_at_terminal": "22:56",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
-      "scheduled_run_time_min": 41.0,
+      "scheduled_run_time_min": 41,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10516,14 +10516,14 @@
       "first": "05:45",
       "last": "20:45",
       "last_arrival_at_terminal": "21:34",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
-      "scheduled_run_time_min": 49.0,
+      "scheduled_run_time_min": 49,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10557,14 +10557,14 @@
       "first": "07:15",
       "last": "22:15",
       "last_arrival_at_terminal": "23:06",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
-      "scheduled_run_time_min": 51.0,
+      "scheduled_run_time_min": 51,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10598,14 +10598,14 @@
       "first": "06:15",
       "last": "21:15",
       "last_arrival_at_terminal": "21:59",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
-      "scheduled_run_time_min": 44.0,
+      "scheduled_run_time_min": 44,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10639,14 +10639,14 @@
       "first": "07:15",
       "last": "22:15",
       "last_arrival_at_terminal": "22:59",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
-      "scheduled_run_time_min": 44.0,
+      "scheduled_run_time_min": 44,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10680,14 +10680,14 @@
       "first": "06:00",
       "last": "21:00",
       "last_arrival_at_terminal": "22:30",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
-      "scheduled_run_time_min": 90.0,
+      "scheduled_run_time_min": 90,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10721,14 +10721,14 @@
       "first": "06:00",
       "last": "21:00",
       "last_arrival_at_terminal": "22:30",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
-      "scheduled_run_time_min": 90.0,
+      "scheduled_run_time_min": 90,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10762,14 +10762,14 @@
       "first": "06:00",
       "last": "20:24",
       "last_arrival_at_terminal": "21:30",
-      "headway_min": 32.0,
+      "headway_min": 32,
       "headway_range_min": [
-        32.0,
-        32.0
+        32,
+        32
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 28,
-      "scheduled_run_time_min": 66.0,
+      "scheduled_run_time_min": 66,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10803,14 +10803,14 @@
       "first": "06:15",
       "last": "20:39",
       "last_arrival_at_terminal": "21:42",
-      "headway_min": 32.0,
+      "headway_min": 32,
       "headway_range_min": [
-        32.0,
-        32.0
+        32,
+        32
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 28,
-      "scheduled_run_time_min": 63.0,
+      "scheduled_run_time_min": 63,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10844,14 +10844,14 @@
       "first": "06:00",
       "last": "21:00",
       "last_arrival_at_terminal": "22:08",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
-      "scheduled_run_time_min": 68.0,
+      "scheduled_run_time_min": 68,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10885,14 +10885,14 @@
       "first": "06:00",
       "last": "21:45",
       "last_arrival_at_terminal": "22:53",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
-      "scheduled_run_time_min": 68.0,
+      "scheduled_run_time_min": 68,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10926,14 +10926,14 @@
       "first": "06:00",
       "last": "21:50",
       "last_arrival_at_terminal": "22:54",
-      "headway_min": 25.0,
+      "headway_min": 25,
       "headway_range_min": [
-        25.0,
-        25.0
+        25,
+        25
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 39,
-      "scheduled_run_time_min": 56.0,
+      "scheduled_run_time_min": 56,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -10967,14 +10967,14 @@
       "first": "06:00",
       "last": "21:50",
       "last_arrival_at_terminal": "22:50",
-      "headway_min": 25.0,
+      "headway_min": 25,
       "headway_range_min": [
-        25.0,
-        25.0
+        25,
+        25
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 39,
-      "scheduled_run_time_min": 60.0,
+      "scheduled_run_time_min": 60,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -11008,14 +11008,14 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "20:51",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
-      "scheduled_run_time_min": 51.0,
+      "scheduled_run_time_min": 51,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -11049,14 +11049,14 @@
       "first": "06:00",
       "last": "20:40",
       "last_arrival_at_terminal": "21:31",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 23,
-      "scheduled_run_time_min": 51.0,
+      "scheduled_run_time_min": 51,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -11090,14 +11090,14 @@
       "first": "06:00",
       "last": "19:45",
       "last_arrival_at_terminal": "20:24",
-      "headway_min": 55.0,
+      "headway_min": 55,
       "headway_range_min": [
-        55.0,
-        55.0
+        55,
+        55
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 16,
-      "scheduled_run_time_min": 39.0,
+      "scheduled_run_time_min": 39,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -11131,10 +11131,10 @@
       "first": "06:00",
       "last": "19:45",
       "last_arrival_at_terminal": "20:22",
-      "headway_min": 55.0,
+      "headway_min": 55,
       "headway_range_min": [
-        55.0,
-        55.0
+        55,
+        55
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 16,
@@ -11172,14 +11172,14 @@
       "first": "06:00",
       "last": "21:00",
       "last_arrival_at_terminal": "21:57",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 16,
-      "scheduled_run_time_min": 57.0,
+      "scheduled_run_time_min": 57,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -11213,14 +11213,14 @@
       "first": "06:00",
       "last": "21:00",
       "last_arrival_at_terminal": "21:57",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 16,
-      "scheduled_run_time_min": 57.0,
+      "scheduled_run_time_min": 57,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -11254,14 +11254,14 @@
       "first": "06:00",
       "last": "21:00",
       "last_arrival_at_terminal": "22:03",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 16,
-      "scheduled_run_time_min": 63.0,
+      "scheduled_run_time_min": 63,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -11295,14 +11295,14 @@
       "first": "06:00",
       "last": "21:00",
       "last_arrival_at_terminal": "22:03",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 16,
-      "scheduled_run_time_min": 63.0,
+      "scheduled_run_time_min": 63,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -11336,14 +11336,14 @@
       "first": "06:00",
       "last": "19:20",
       "last_arrival_at_terminal": "20:14",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
-      "scheduled_run_time_min": 54.0,
+      "scheduled_run_time_min": 54,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -11377,14 +11377,14 @@
       "first": "06:20",
       "last": "20:20",
       "last_arrival_at_terminal": "21:14",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
-      "scheduled_run_time_min": 54.0,
+      "scheduled_run_time_min": 54,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -11418,14 +11418,14 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "21:06",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 15,
-      "scheduled_run_time_min": 66.0,
+      "scheduled_run_time_min": 66,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -11459,14 +11459,14 @@
       "first": "06:30",
       "last": "21:30",
       "last_arrival_at_terminal": "22:36",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 16,
-      "scheduled_run_time_min": 66.0,
+      "scheduled_run_time_min": 66,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -11500,10 +11500,10 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "21:55",
-      "headway_min": 70.0,
+      "headway_min": 70,
       "headway_range_min": [
-        70.0,
-        70.0
+        70,
+        70
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 13,
@@ -11541,10 +11541,10 @@
       "first": "06:00",
       "last": "21:10",
       "last_arrival_at_terminal": "23:05",
-      "headway_min": 70.0,
+      "headway_min": 70,
       "headway_range_min": [
-        70.0,
-        70.0
+        70,
+        70
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 14,
@@ -11582,14 +11582,14 @@
       "first": "06:00",
       "last": "20:10",
       "last_arrival_at_terminal": "22:09",
-      "headway_min": 85.0,
+      "headway_min": 85,
       "headway_range_min": [
-        85.0,
-        85.0
+        85,
+        85
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 11,
-      "scheduled_run_time_min": 119.0,
+      "scheduled_run_time_min": 119,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -11623,10 +11623,10 @@
       "first": "06:25",
       "last": "20:58",
       "last_arrival_at_terminal": "23:03",
-      "headway_min": 85.0,
+      "headway_min": 85,
       "headway_range_min": [
-        23.0,
-        85.0
+        23,
+        85
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 13,
@@ -11664,14 +11664,14 @@
       "first": "06:00",
       "last": "20:40",
       "last_arrival_at_terminal": "22:22",
-      "headway_min": 55.0,
+      "headway_min": 55,
       "headway_range_min": [
-        55.0,
-        55.0
+        55,
+        55
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 17,
-      "scheduled_run_time_min": 102.0,
+      "scheduled_run_time_min": 102,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -11705,10 +11705,10 @@
       "first": "06:00",
       "last": "20:40",
       "last_arrival_at_terminal": "22:25",
-      "headway_min": 55.0,
+      "headway_min": 55,
       "headway_range_min": [
-        55.0,
-        55.0
+        55,
+        55
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 17,
@@ -11746,14 +11746,14 @@
       "first": "06:00",
       "last": "18:50",
       "last_arrival_at_terminal": "21:10",
-      "headway_min": 70.0,
+      "headway_min": 70,
       "headway_range_min": [
-        70.0,
-        70.0
+        70,
+        70
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 12,
-      "scheduled_run_time_min": 140.0,
+      "scheduled_run_time_min": 140,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -11787,14 +11787,14 @@
       "first": "06:30",
       "last": "20:55",
       "last_arrival_at_terminal": "23:15",
-      "headway_min": 70.0,
+      "headway_min": 70,
       "headway_range_min": [
-        55.0,
-        70.0
+        55,
+        70
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 14,
-      "scheduled_run_time_min": 140.0,
+      "scheduled_run_time_min": 140,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -11828,14 +11828,14 @@
       "first": "06:00",
       "last": "18:00",
       "last_arrival_at_terminal": "19:39",
-      "headway_min": 80.0,
+      "headway_min": 80,
       "headway_range_min": [
-        80.0,
-        80.0
+        80,
+        80
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 10,
-      "scheduled_run_time_min": 99.0,
+      "scheduled_run_time_min": 99,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -11869,10 +11869,10 @@
       "first": "06:00",
       "last": "19:20",
       "last_arrival_at_terminal": "21:02",
-      "headway_min": 80.0,
+      "headway_min": 80,
       "headway_range_min": [
-        80.0,
-        80.0
+        80,
+        80
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 11,
@@ -11910,10 +11910,10 @@
       "first": "06:00",
       "last": "16:00",
       "last_arrival_at_terminal": "17:45",
-      "headway_min": 100.0,
+      "headway_min": 100,
       "headway_range_min": [
-        100.0,
-        100.0
+        100,
+        100
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 7,
@@ -11951,10 +11951,10 @@
       "first": "06:35",
       "last": "18:15",
       "last_arrival_at_terminal": "20:00",
-      "headway_min": 100.0,
+      "headway_min": 100,
       "headway_range_min": [
-        100.0,
-        100.0
+        100,
+        100
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 8,
@@ -11992,10 +11992,10 @@
       "first": "06:00",
       "last": "18:00",
       "last_arrival_at_terminal": "19:26",
-      "headway_min": 90.0,
+      "headway_min": 90,
       "headway_range_min": [
-        90.0,
-        90.0
+        90,
+        90
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 9,
@@ -12033,10 +12033,10 @@
       "first": "06:00",
       "last": "19:30",
       "last_arrival_at_terminal": "20:59",
-      "headway_min": 90.0,
+      "headway_min": 90,
       "headway_range_min": [
-        90.0,
-        90.0
+        90,
+        90
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 10,
@@ -12074,14 +12074,14 @@
       "first": "06:00",
       "last": "21:49",
       "last_arrival_at_terminal": "21:49",
-      "headway_min": 39.0,
+      "headway_min": 39,
       "headway_range_min": [
-        26.0,
-        39.0
+        26,
+        39
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 30,
-      "scheduled_run_time_min": 0.0,
+      "scheduled_run_time_min": 0,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -12115,14 +12115,14 @@
       "first": "06:00",
       "last": "21:49",
       "last_arrival_at_terminal": "21:49",
-      "headway_min": 39.0,
+      "headway_min": 39,
       "headway_range_min": [
-        26.0,
-        39.0
+        26,
+        39
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 30,
-      "scheduled_run_time_min": 0.0,
+      "scheduled_run_time_min": 0,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -12156,10 +12156,10 @@
       "first": "06:00",
       "last": "17:40",
       "last_arrival_at_terminal": "19:00",
-      "headway_min": 70.0,
+      "headway_min": 70,
       "headway_range_min": [
-        70.0,
-        70.0
+        70,
+        70
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 11,
@@ -12197,10 +12197,10 @@
       "first": "06:35",
       "last": "19:25",
       "last_arrival_at_terminal": "20:46",
-      "headway_min": 70.0,
+      "headway_min": 70,
       "headway_range_min": [
-        70.0,
-        70.0
+        70,
+        70
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 12,
@@ -12238,14 +12238,14 @@
       "first": "06:00",
       "last": "18:40",
       "last_arrival_at_terminal": "19:44",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 20,
-      "scheduled_run_time_min": 64.0,
+      "scheduled_run_time_min": 64,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -12279,14 +12279,14 @@
       "first": "06:20",
       "last": "20:20",
       "last_arrival_at_terminal": "21:21",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
-      "scheduled_run_time_min": 61.0,
+      "scheduled_run_time_min": 61,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -12320,10 +12320,10 @@
       "first": "06:00",
       "last": "19:20",
       "last_arrival_at_terminal": "20:21",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
@@ -12361,10 +12361,10 @@
       "first": "06:20",
       "last": "21:00",
       "last_arrival_at_terminal": "22:03",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 23,
@@ -12402,10 +12402,10 @@
       "first": "06:00",
       "last": "20:40",
       "last_arrival_at_terminal": "22:20",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 23,
@@ -12443,10 +12443,10 @@
       "first": "06:00",
       "last": "20:40",
       "last_arrival_at_terminal": "22:14",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 23,
@@ -12484,10 +12484,10 @@
       "first": "06:00",
       "last": "21:12",
       "last_arrival_at_terminal": "22:31",
-      "headway_min": 24.0,
+      "headway_min": 24,
       "headway_range_min": [
-        24.0,
-        24.0
+        24,
+        24
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 39,
@@ -12525,10 +12525,10 @@
       "first": "06:00",
       "last": "21:12",
       "last_arrival_at_terminal": "22:31",
-      "headway_min": 24.0,
+      "headway_min": 24,
       "headway_range_min": [
-        24.0,
-        24.0
+        24,
+        24
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 39,
@@ -12566,14 +12566,14 @@
       "first": "06:00",
       "last": "21:10",
       "last_arrival_at_terminal": "22:45",
-      "headway_min": 70.0,
+      "headway_min": 70,
       "headway_range_min": [
-        70.0,
-        70.0
+        70,
+        70
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 14,
-      "scheduled_run_time_min": 95.0,
+      "scheduled_run_time_min": 95,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -12607,14 +12607,14 @@
       "first": "06:30",
       "last": "21:50",
       "last_arrival_at_terminal": "23:25",
-      "headway_min": 70.0,
+      "headway_min": 70,
       "headway_range_min": [
-        50.0,
-        70.0
+        50,
+        70
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 15,
-      "scheduled_run_time_min": 95.0,
+      "scheduled_run_time_min": 95,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -12648,10 +12648,10 @@
       "first": "06:00",
       "last": "21:10",
       "last_arrival_at_terminal": "22:45",
-      "headway_min": 70.0,
+      "headway_min": 70,
       "headway_range_min": [
-        70.0,
-        70.0
+        70,
+        70
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 14,
@@ -12689,10 +12689,10 @@
       "first": "06:30",
       "last": "21:50",
       "last_arrival_at_terminal": "23:25",
-      "headway_min": 70.0,
+      "headway_min": 70,
       "headway_range_min": [
-        55.0,
-        70.0
+        55,
+        70
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 15,
@@ -12730,14 +12730,14 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "20:06",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
-      "scheduled_run_time_min": 6.0,
+      "scheduled_run_time_min": 6,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -12771,14 +12771,14 @@
       "first": "06:20",
       "last": "21:00",
       "last_arrival_at_terminal": "21:06",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 23,
-      "scheduled_run_time_min": 6.0,
+      "scheduled_run_time_min": 6,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -12812,14 +12812,14 @@
       "first": "06:00",
       "last": "21:00",
       "last_arrival_at_terminal": "21:06",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
-      "scheduled_run_time_min": 3.0,
+      "scheduled_run_time_min": 3,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -12853,14 +12853,14 @@
       "first": "06:25",
       "last": "22:10",
       "last_arrival_at_terminal": "22:16",
-      "headway_min": 45.0,
+      "headway_min": 45,
       "headway_range_min": [
-        45.0,
-        45.0
+        45,
+        45
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 22,
-      "scheduled_run_time_min": 6.0,
+      "scheduled_run_time_min": 6,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -12894,14 +12894,14 @@
       "first": "06:00",
       "last": "20:10",
       "last_arrival_at_terminal": "20:16",
-      "headway_min": 25.0,
+      "headway_min": 25,
       "headway_range_min": [
-        25.0,
-        25.0
+        25,
+        25
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 35,
-      "scheduled_run_time_min": 6.0,
+      "scheduled_run_time_min": 6,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -12935,14 +12935,14 @@
       "first": "06:15",
       "last": "20:50",
       "last_arrival_at_terminal": "20:56",
-      "headway_min": 25.0,
+      "headway_min": 25,
       "headway_range_min": [
-        25.0,
-        25.0
+        25,
+        25
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 36,
-      "scheduled_run_time_min": 6.0,
+      "scheduled_run_time_min": 6,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -12976,14 +12976,14 @@
       "first": "05:55",
       "last": "19:35",
       "last_arrival_at_terminal": "20:24",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 42,
-      "scheduled_run_time_min": 49.0,
+      "scheduled_run_time_min": 49,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -13017,10 +13017,10 @@
       "first": "06:55",
       "last": "20:35",
       "last_arrival_at_terminal": "21:27",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 42,
@@ -13058,10 +13058,10 @@
       "first": "05:40",
       "last": "20:20",
       "last_arrival_at_terminal": "21:11",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 23,
@@ -13099,10 +13099,10 @@
       "first": "07:10",
       "last": "21:50",
       "last_arrival_at_terminal": "22:37",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 23,
@@ -13140,10 +13140,10 @@
       "first": "05:20",
       "last": "16:40",
       "last_arrival_at_terminal": "17:59",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 18,
@@ -13181,14 +13181,14 @@
       "first": "06:50",
       "last": "18:10",
       "last_arrival_at_terminal": "19:27",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 18,
-      "scheduled_run_time_min": 78.0,
+      "scheduled_run_time_min": 78,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -13222,10 +13222,10 @@
       "first": "06:20",
       "last": "14:40",
       "last_arrival_at_terminal": "16:03",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        240.0
+        20,
+        240
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 15,
@@ -13263,10 +13263,10 @@
       "first": "06:45",
       "last": "08:00",
       "last_arrival_at_terminal": "09:20",
-      "headway_min": 25.0,
+      "headway_min": 25,
       "headway_range_min": [
-        25.0,
-        25.0
+        25,
+        25
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 4,
@@ -13304,10 +13304,10 @@
       "first": "05:40",
       "last": "20:20",
       "last_arrival_at_terminal": "21:05",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 45,
@@ -13345,10 +13345,10 @@
       "first": "06:30",
       "last": "21:10",
       "last_arrival_at_terminal": "21:58",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 45,
@@ -13386,14 +13386,14 @@
       "first": "05:40",
       "last": "19:00",
       "last_arrival_at_terminal": "19:46",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
-      "scheduled_run_time_min": 46.0,
+      "scheduled_run_time_min": 46,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -13427,10 +13427,10 @@
       "first": "06:40",
       "last": "20:00",
       "last_arrival_at_terminal": "20:44",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 21,
@@ -13468,10 +13468,10 @@
       "first": "06:00",
       "last": "17:20",
       "last_arrival_at_terminal": "18:23",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 18,
@@ -13509,10 +13509,10 @@
       "first": "07:20",
       "last": "18:40",
       "last_arrival_at_terminal": "19:42",
-      "headway_min": 40.0,
+      "headway_min": 40,
       "headway_range_min": [
-        40.0,
-        40.0
+        40,
+        40
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 18,
@@ -13550,14 +13550,14 @@
       "first": "05:40",
       "last": "16:40",
       "last_arrival_at_terminal": "17:47",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        500.0
+        20,
+        500
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 10,
-      "scheduled_run_time_min": 68.0,
+      "scheduled_run_time_min": 68,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -13591,14 +13591,14 @@
       "first": "07:00",
       "last": "18:00",
       "last_arrival_at_terminal": "19:06",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        500.0
+        20,
+        500
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 10,
-      "scheduled_run_time_min": 67.0,
+      "scheduled_run_time_min": 67,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -13632,10 +13632,10 @@
       "first": "09:20",
       "last": "11:40",
       "last_arrival_at_terminal": "12:39",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 8,
@@ -13673,14 +13673,14 @@
       "first": "10:40",
       "last": "13:00",
       "last_arrival_at_terminal": "13:57",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 8,
-      "scheduled_run_time_min": 58.0,
+      "scheduled_run_time_min": 58,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -13714,10 +13714,10 @@
       "first": "07:20",
       "last": "15:00",
       "last_arrival_at_terminal": "16:04",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        180.0
+        20,
+        180
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 16,
@@ -13755,10 +13755,10 @@
       "first": "08:40",
       "last": "16:20",
       "last_arrival_at_terminal": "17:22",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        180.0
+        20,
+        180
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 16,
@@ -13796,10 +13796,10 @@
       "first": "17:00",
       "last": "19:30",
       "last_arrival_at_terminal": "20:27",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 6,
@@ -13837,10 +13837,10 @@
       "first": "18:30",
       "last": "21:00",
       "last_arrival_at_terminal": "21:57",
-      "headway_min": 30.0,
+      "headway_min": 30,
       "headway_range_min": [
-        30.0,
-        30.0
+        30,
+        30
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 6,
@@ -13878,14 +13878,14 @@
       "first": "06:00",
       "last": "19:20",
       "last_arrival_at_terminal": "21:08",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 17,
-      "scheduled_run_time_min": 108.0,
+      "scheduled_run_time_min": 108,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -13919,14 +13919,14 @@
       "first": "06:00",
       "last": "21:50",
       "last_arrival_at_terminal": "23:38",
-      "headway_min": 50.0,
+      "headway_min": 50,
       "headway_range_min": [
-        50.0,
-        50.0
+        50,
+        50
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 20,
-      "scheduled_run_time_min": 108.0,
+      "scheduled_run_time_min": 108,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -13960,14 +13960,14 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "21:48",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 15,
-      "scheduled_run_time_min": 108.0,
+      "scheduled_run_time_min": 108,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -14001,14 +14001,14 @@
       "first": "06:00",
       "last": "21:00",
       "last_arrival_at_terminal": "22:45",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 16,
-      "scheduled_run_time_min": 105.0,
+      "scheduled_run_time_min": 105,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -14042,14 +14042,14 @@
       "first": "06:00",
       "last": "21:10",
       "last_arrival_at_terminal": "22:22",
-      "headway_min": 65.0,
+      "headway_min": 65,
       "headway_range_min": [
-        65.0,
-        65.0
+        65,
+        65
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 15,
-      "scheduled_run_time_min": 72.0,
+      "scheduled_run_time_min": 72,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -14083,14 +14083,14 @@
       "first": "06:00",
       "last": "22:15",
       "last_arrival_at_terminal": "23:24",
-      "headway_min": 65.0,
+      "headway_min": 65,
       "headway_range_min": [
-        65.0,
-        65.0
+        65,
+        65
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 16,
-      "scheduled_run_time_min": 69.0,
+      "scheduled_run_time_min": 69,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -14124,14 +14124,14 @@
       "first": "06:00",
       "last": "20:24",
       "last_arrival_at_terminal": "21:44",
-      "headway_min": 48.0,
+      "headway_min": 48,
       "headway_range_min": [
-        48.0,
-        48.0
+        48,
+        48
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 19,
-      "scheduled_run_time_min": 80.0,
+      "scheduled_run_time_min": 80,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -14165,14 +14165,14 @@
       "first": "06:25",
       "last": "21:37",
       "last_arrival_at_terminal": "23:01",
-      "headway_min": 48.0,
+      "headway_min": 48,
       "headway_range_min": [
-        48.0,
-        48.0
+        48,
+        48
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 20,
-      "scheduled_run_time_min": 84.0,
+      "scheduled_run_time_min": 84,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -14206,10 +14206,10 @@
       "first": "05:00",
       "last": "05:01",
       "last_arrival_at_terminal": "05:28",
-      "headway_min": 1.0,
+      "headway_min": 1,
       "headway_range_min": [
-        1.0,
-        1.0
+        1,
+        1
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 2,
@@ -14247,10 +14247,10 @@
       "first": "06:00",
       "last": "07:00",
       "last_arrival_at_terminal": "07:27",
-      "headway_min": 3.0,
+      "headway_min": 3,
       "headway_range_min": [
-        3.0,
-        3.0
+        3,
+        3
       ],
       "max_departures_in_an_hour": 20,
       "departures_per_day": 21,
@@ -14288,14 +14288,14 @@
       "first": "06:00",
       "last": "06:45",
       "last_arrival_at_terminal": "06:45",
-      "headway_min": 3.0,
+      "headway_min": 3,
       "headway_range_min": [
-        3.0,
-        3.0
+        3,
+        3
       ],
       "max_departures_in_an_hour": 16,
       "departures_per_day": 16,
-      "scheduled_run_time_min": 0.0,
+      "scheduled_run_time_min": 0,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -14329,14 +14329,14 @@
       "first": "05:00",
       "last": "05:01",
       "last_arrival_at_terminal": "05:01",
-      "headway_min": 1.0,
+      "headway_min": 1,
       "headway_range_min": [
-        1.0,
-        1.0
+        1,
+        1
       ],
       "max_departures_in_an_hour": 2,
       "departures_per_day": 2,
-      "scheduled_run_time_min": 0.0,
+      "scheduled_run_time_min": 0,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -14370,14 +14370,14 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "21:12",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 15,
-      "scheduled_run_time_min": 72.0,
+      "scheduled_run_time_min": 72,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -14411,14 +14411,14 @@
       "first": "06:30",
       "last": "21:30",
       "last_arrival_at_terminal": "21:30",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 16,
-      "scheduled_run_time_min": 0.0,
+      "scheduled_run_time_min": 0,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -14452,14 +14452,14 @@
       "first": "06:00",
       "last": "21:40",
       "last_arrival_at_terminal": "21:56",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 48,
-      "scheduled_run_time_min": 16.0,
+      "scheduled_run_time_min": 16,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -14493,14 +14493,14 @@
       "first": "06:00",
       "last": "21:40",
       "last_arrival_at_terminal": "21:56",
-      "headway_min": 20.0,
+      "headway_min": 20,
       "headway_range_min": [
-        20.0,
-        20.0
+        20,
+        20
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 48,
-      "scheduled_run_time_min": 16.0,
+      "scheduled_run_time_min": 16,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -14534,10 +14534,10 @@
       "first": "05:40",
       "last": "19:50",
       "last_arrival_at_terminal": "20:44",
-      "headway_min": 25.0,
+      "headway_min": 25,
       "headway_range_min": [
-        25.0,
-        25.0
+        25,
+        25
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 35,
@@ -14575,14 +14575,14 @@
       "first": "07:00",
       "last": "21:10",
       "last_arrival_at_terminal": "22:13",
-      "headway_min": 25.0,
+      "headway_min": 25,
       "headway_range_min": [
-        25.0,
-        25.0
+        25,
+        25
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 35,
-      "scheduled_run_time_min": 63.0,
+      "scheduled_run_time_min": 63,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -14616,10 +14616,10 @@
       "first": "05:40",
       "last": "19:50",
       "last_arrival_at_terminal": "20:57",
-      "headway_min": 25.0,
+      "headway_min": 25,
       "headway_range_min": [
-        25.0,
-        25.0
+        25,
+        25
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 35,
@@ -14657,10 +14657,10 @@
       "first": "07:00",
       "last": "21:10",
       "last_arrival_at_terminal": "22:15",
-      "headway_min": 25.0,
+      "headway_min": 25,
       "headway_range_min": [
-        25.0,
-        25.0
+        25,
+        25
       ],
       "max_departures_in_an_hour": 3,
       "departures_per_day": 35,
@@ -14698,14 +14698,14 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "20:40",
-      "headway_min": 70.0,
+      "headway_min": 70,
       "headway_range_min": [
-        70.0,
-        70.0
+        70,
+        70
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 13,
-      "scheduled_run_time_min": 40.0,
+      "scheduled_run_time_min": 40,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -14739,14 +14739,14 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "20:40",
-      "headway_min": 70.0,
+      "headway_min": 70,
       "headway_range_min": [
-        70.0,
-        70.0
+        70,
+        70
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 13,
-      "scheduled_run_time_min": 40.0,
+      "scheduled_run_time_min": 40,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -14780,10 +14780,10 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "21:48",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 15,
@@ -14821,10 +14821,10 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "21:48",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 15,
@@ -14862,14 +14862,14 @@
       "first": "06:00",
       "last": "20:10",
       "last_arrival_at_terminal": "21:22",
-      "headway_min": 85.0,
+      "headway_min": 85,
       "headway_range_min": [
-        85.0,
-        85.0
+        85,
+        85
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 11,
-      "scheduled_run_time_min": 72.0,
+      "scheduled_run_time_min": 72,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -14903,14 +14903,14 @@
       "first": "06:35",
       "last": "20:45",
       "last_arrival_at_terminal": "21:57",
-      "headway_min": 85.0,
+      "headway_min": 85,
       "headway_range_min": [
-        85.0,
-        85.0
+        85,
+        85
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 11,
-      "scheduled_run_time_min": 72.0,
+      "scheduled_run_time_min": 72,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -14944,14 +14944,14 @@
       "first": "06:00",
       "last": "19:12",
       "last_arrival_at_terminal": "20:04",
-      "headway_min": 99.0,
+      "headway_min": 99,
       "headway_range_min": [
-        99.0,
-        99.0
+        99,
+        99
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 9,
-      "scheduled_run_time_min": 52.0,
+      "scheduled_run_time_min": 52,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -14985,14 +14985,14 @@
       "first": "06:00",
       "last": "19:12",
       "last_arrival_at_terminal": "20:04",
-      "headway_min": 99.0,
+      "headway_min": 99,
       "headway_range_min": [
-        99.0,
-        99.0
+        99,
+        99
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 9,
-      "scheduled_run_time_min": 52.0,
+      "scheduled_run_time_min": 52,
       "source_url": "https://etransit.punjab.gov.pk/repo/backend/public/api/home-page/get-line-schedules",
       "source_request": {
         "method": "POST",
@@ -15026,10 +15026,10 @@
       "first": "06:00",
       "last": "20:00",
       "last_arrival_at_terminal": "20:52",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 15,
@@ -15067,10 +15067,10 @@
       "first": "06:30",
       "last": "21:30",
       "last_arrival_at_terminal": "22:22",
-      "headway_min": 60.0,
+      "headway_min": 60,
       "headway_range_min": [
-        60.0,
-        60.0
+        60,
+        60
       ],
       "max_departures_in_an_hour": 1,
       "departures_per_day": 16,

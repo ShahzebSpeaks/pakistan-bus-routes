@@ -126,6 +126,10 @@ Generated 2026-11-01 from `data/systems`. Facts (route numbers, stop names, fare
 - [Official timetable (eTransit, 2026-10-23)](https://etransit.punjab.gov.pk/public/route-planner)
 - [safar.fyi Gujar Khan route](https://www.safar.fyi/gujar-khan/transit-lines/gjk%3A268)
 
+## PMA Electric Bus (GRW) (PMA) (gujranwala)
+
+- [PMA eTransit route planner](https://etransit.punjab.gov.pk/public/route-planner) · Punjab Masstransit Authority · 2026-10-23 · official
+
 ## Gujranwala private wagons, minibuses and paratransit (gujranwala)
 
 - [Aslam & Batool, 'Evaluation of Urban Bus Transport Failure in Gujranwala City of Pakistan', Mehran Univ. Research J. Eng. & Tech. 36(3), July 2017 (Tables 1-2, Fig. 1)](https://publications.muet.edu.pk/index.php/muetrj/article/view/252) · Mehran University of Engineering & Technology (authors: UET Lahore) · 2017-07

@@ -745,6 +745,121 @@
         }
       ],
       "notes": "Official PMA/eTransit stop list, forward direction 'GBS Okara to Fatehpur' (18 stops after dropping the duplicated terminal 'Down' stop; 'Up'/'Down' suffixes removed from names). Headway and hours are the median gap and first/last departures from the first stop in the 2026-09-24 timetable. Coordinates: 0 stops matched to named OSM bus-stop nodes within 150 m; the rest use the PMA stop coordinates (coord_source 'ext:etransit...'). pma_stop_id is an extra field. New 4th Okara route, not in the earlier safar.fyi-based data. Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
+    },
+    {
+      "id": "gbs-okara-to-adda-gamber",
+      "name": "GBS Okara to Adda Gamber",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 75,
+      "hours": {
+        "start": "06:00",
+        "end": "19:45"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "GBS Okara Up",
+          "name_ur": "",
+          "lat": 30.81124,
+          "lon": 73.45899,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6552",
+          "is_station": false
+        },
+        {
+          "name": "Chungi No. 7 Up",
+          "name_ur": "",
+          "lat": 30.798923,
+          "lon": 73.456784,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8290",
+          "is_station": false
+        },
+        {
+          "name": "Daewoo Terminal Up",
+          "name_ur": "",
+          "lat": 30.798901,
+          "lon": 73.45454,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8292",
+          "is_station": false
+        },
+        {
+          "name": "Station Stop Up",
+          "name_ur": "",
+          "lat": 30.79889,
+          "lon": 73.446817,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8293",
+          "is_station": false
+        },
+        {
+          "name": "Govt Sutluj School Up",
+          "name_ur": "",
+          "lat": 30.798875,
+          "lon": 73.442776,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8294",
+          "is_station": false
+        },
+        {
+          "name": "Katchehry Phattak Up",
+          "name_ur": "",
+          "lat": 30.798052,
+          "lon": 73.430744,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8295",
+          "is_station": false
+        },
+        {
+          "name": "Sahiwal Bypass Okara Up",
+          "name_ur": "",
+          "lat": 30.793132,
+          "lon": 73.419996,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6586",
+          "is_station": false
+        },
+        {
+          "name": "Adda Tabrook Up",
+          "name_ur": "",
+          "lat": 30.773677,
+          "lon": 73.381076,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8296",
+          "is_station": false
+        },
+        {
+          "name": "Army Cantt Up",
+          "name_ur": "",
+          "lat": 30.755043,
+          "lon": 73.343388,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8297",
+          "is_station": false
+        },
+        {
+          "name": "Adda Gamber, Okara Up",
+          "name_ur": "",
+          "lat": 30.749263,
+          "lon": 73.331864,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8298",
+          "is_station": false
+        },
+        {
+          "name": "Adda Gamber, Okara Down",
+          "name_ur": "",
+          "lat": 30.749228,
+          "lon": 73.331114,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8300",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "high",
+      "sources": [
+        {
+          "title": "Official timetable (eTransit, 2026-11-01)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        }
+      ],
+      "notes": "Ordered stops, positions and departures from PMA eTransit (route 567); hours and frequency from the official timetable for 2026-11-01."
     }
   ]
 }

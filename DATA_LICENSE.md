@@ -41,7 +41,7 @@ Some routes and stop positions come from unofficial compilations. They are credi
 
 - **Other private routes**: Faisalabad routes come from a 2003 WEDC (Loughborough University) case report and from Wikiroutes, a crowdsourced site. Hyderabad, Gujranwala and Bahawalpur routes come from university papers (MUET) and Urban Unit city profiles. Routes marked "(Mnzil)" in Karachi are Mnzil's version of a route that our other sources describe differently. The station positions on those routes also come from Mnzil.
 
-- **Punjab Masstransit Authority eTransit** (etransit.punjab.gov.pk): official stop lists and positions for the new Multan, Okara, Sargodha and Sahiwal e-bus routes, and updates to Bahawalpur and Rawalpindi routes (coord_source `ext:etransit.punjab.gov.pk:...`). The site states no reuse terms.
+- **Punjab Masstransit Authority eTransit** (etransit.punjab.gov.pk): official stop lists and positions for the new Multan, Okara, Sargodha and Sahiwal e-bus routes, and updates to Bahawalpur and Rawalpindi routes (coord_source `ext:etransit.punjab.gov.pk:...`), plus 11 more routes in Rawalpindi, Lahore, Gujranwala, Khanewal, Chiniot, Okara, Attock, Bhakkar and Lodhran. The site itself states no reuse terms; the project owner obtained PMA's permission to reuse this data (2026).
 - **Mnzil station positions** for Karachi stops where we had only an estimate (coord_source `ext:mnzil:...`), and the "Lets go pk" YouTube channel for route Z-22 and for evidence that routes still run.
 - **Urban Unit city profiles** (about 2010): Qingqi and wagon corridors in Sargodha, Sahiwal, Gujrat and Jhang.
 
@@ -51,6 +51,7 @@ Some routes and stop positions come from unofficial compilations. They are credi
 - **Old official Karachi lists** (read from web.archive.org copies): the City District Government Karachi "Bus Routes" page of 2007, with 86 routes (system `karachi-cdgk-2007`, old routes only), and the Karachi Green Bus fare charts of 2005 (`karachi-green-bus-2005`).
 - **Khyber Pakhtunkhwa Transport Department**: the RTA Peshawar fare table of 1 April 2024, giving 52 routes with their ends and fares, and the 2011 CNG route notification (`peshawar-cng-routes-2011`, old routes only).
 - **Hours and frequencies** for Punjab and Islamabad metro, feeder and e-bus routes come from the PMA eTransit timetable for 23 October 2026.
+- **Capital Development Authority (CDA), Islamabad**: electric feeder routes, stops and timetables from CDA's published route timetables. CDA's website terms prohibit reproduction without authorisation; the project owner obtained CDA's permission to reuse this data (2026).
 
 None of these publish a data licence.
 

@@ -1,0 +1,367 @@
+{
+  "id": "gujranwala-electric-bus",
+  "city": "gujranwala",
+  "name": "PMA Electric Bus (GRW) (PMA)",
+  "name_ur": "",
+  "operator": "Punjab Masstransit Authority (PMA)",
+  "mode": "electric_bus",
+  "website": "https://etransit.punjab.gov.pk",
+  "helpline": "111-222-627",
+  "payment": "Cash or T-Cash card",
+  "fare_rules": {
+    "type": "unknown",
+    "currency": "PKR",
+    "flat": null,
+    "slabs": [],
+    "concessions": null,
+    "as_of": null,
+    "source_url": null
+  },
+  "hours": null,
+  "sources": [
+    {
+      "title": "PMA eTransit route planner",
+      "url": "https://etransit.punjab.gov.pk/public/route-planner",
+      "publisher": "Punjab Masstransit Authority",
+      "date": "2026-10-23",
+      "official": true
+    }
+  ],
+  "routes": [
+    {
+      "id": "gondlanwala-to-qila-didar-singh",
+      "name": "Gondlanwala to Qila Didar Singh",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 25,
+      "hours": {
+        "start": "05:40",
+        "end": "19:50"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Gondlanwala",
+          "name_ur": "",
+          "lat": 32.16349,
+          "lon": 74.18779,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8222",
+          "is_station": false
+        },
+        {
+          "name": "Nomania Chowk (Forward)",
+          "name_ur": "",
+          "lat": 32.16706,
+          "lon": 74.18107,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8223",
+          "is_station": false
+        },
+        {
+          "name": "Gurjakh Chowk (Forward)",
+          "name_ur": "",
+          "lat": 32.17279,
+          "lon": 74.1717,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8224",
+          "is_station": false
+        },
+        {
+          "name": "Dhullay Stop (Forward)",
+          "name_ur": "",
+          "lat": 32.17872,
+          "lon": 74.16177,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8225",
+          "is_station": false
+        },
+        {
+          "name": "Alipur Chowk (Forward)",
+          "name_ur": "",
+          "lat": 32.1852,
+          "lon": 74.1491,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8226",
+          "is_station": false
+        },
+        {
+          "name": "Nawab Chowk (Forward)",
+          "name_ur": "",
+          "lat": 32.16885,
+          "lon": 74.14601,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8227",
+          "is_station": false
+        },
+        {
+          "name": "Alam Chowk 1 (Forward)",
+          "name_ur": "",
+          "lat": 32.15566,
+          "lon": 74.14648,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8228",
+          "is_station": false
+        },
+        {
+          "name": "Alam Chowk 2 (Forward)",
+          "name_ur": "",
+          "lat": 32.15624,
+          "lon": 74.1452,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8229",
+          "is_station": false
+        },
+        {
+          "name": "Best Group College (Forward)",
+          "name_ur": "",
+          "lat": 32.15662,
+          "lon": 74.13712,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8230",
+          "is_station": false
+        },
+        {
+          "name": "Ladhe Wala Waraich (Forward)",
+          "name_ur": "",
+          "lat": 32.15668,
+          "lon": 74.13101,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8231",
+          "is_station": false
+        },
+        {
+          "name": "Municipal Corporation Office (Forward)",
+          "name_ur": "",
+          "lat": 32.15618,
+          "lon": 74.11927,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8232",
+          "is_station": false
+        },
+        {
+          "name": "Allah Wali Masjid Stop (FWD)",
+          "name_ur": "",
+          "lat": 32.154672,
+          "lon": 74.1048,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8724",
+          "is_station": false
+        },
+        {
+          "name": "Qazi Kot (Forward)",
+          "name_ur": "",
+          "lat": 32.15128,
+          "lon": 74.09131,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8233",
+          "is_station": false
+        },
+        {
+          "name": "Hardupur Pind (Forward)",
+          "name_ur": "",
+          "lat": 32.14424,
+          "lon": 74.063,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8234",
+          "is_station": false
+        },
+        {
+          "name": "Khatam e Nabuwat Chowk (Forward)",
+          "name_ur": "",
+          "lat": 32.13476,
+          "lon": 74.02667,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8235",
+          "is_station": false
+        },
+        {
+          "name": "Qila Didar Singh Bus Adda (Forward)",
+          "name_ur": "",
+          "lat": 32.13543,
+          "lon": 74.0176,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8236",
+          "is_station": false
+        },
+        {
+          "name": "Govt Graduate College",
+          "name_ur": "",
+          "lat": 32.13473,
+          "lon": 74.01327,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8237",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "high",
+      "sources": [
+        {
+          "title": "Official timetable (eTransit, 2026-11-01)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        }
+      ],
+      "notes": "Ordered stops, positions and departures from PMA eTransit (route 560); hours and frequency from the official timetable for 2026-11-01."
+    },
+    {
+      "id": "khayali-bypass-to-nandipur",
+      "name": "Khayali Bypass to Nandipur",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 25,
+      "hours": {
+        "start": "05:40",
+        "end": "19:50"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Khayali Bypass",
+          "name_ur": "",
+          "lat": 32.11403,
+          "lon": 74.17205,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8253",
+          "is_station": false
+        },
+        {
+          "name": "Shah Pur (Forward)",
+          "name_ur": "",
+          "lat": 32.121391,
+          "lon": 74.175978,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8254",
+          "is_station": false
+        },
+        {
+          "name": "Siddique Sadiq Hospital (Backward)",
+          "name_ur": "",
+          "lat": 32.135552,
+          "lon": 74.18402,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8286",
+          "is_station": false
+        },
+        {
+          "name": "Qainchi Stop (Forward)",
+          "name_ur": "",
+          "lat": 32.138899,
+          "lon": 74.185229,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8256",
+          "is_station": false
+        },
+        {
+          "name": "Mini Stadium (Forward)",
+          "name_ur": "",
+          "lat": 32.144452,
+          "lon": 74.187343,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8257",
+          "is_station": false
+        },
+        {
+          "name": "Sheikhupura Moore (Forward)",
+          "name_ur": "",
+          "lat": 32.147835,
+          "lon": 74.191325,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8258",
+          "is_station": false
+        },
+        {
+          "name": "Dinga Phatak Stop (Forward)",
+          "name_ur": "",
+          "lat": 32.169372,
+          "lon": 74.186657,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8259",
+          "is_station": false
+        },
+        {
+          "name": "Jinnah Stadium (Forward)",
+          "name_ur": "",
+          "lat": 32.162729,
+          "lon": 74.1924,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8260",
+          "is_station": false
+        },
+        {
+          "name": "DC Office (Forward)",
+          "name_ur": "",
+          "lat": 32.166305,
+          "lon": 74.195599,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8261",
+          "is_station": false
+        },
+        {
+          "name": "Church Road (Forward)",
+          "name_ur": "",
+          "lat": 32.173287,
+          "lon": 74.199704,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8262",
+          "is_station": false
+        },
+        {
+          "name": "Purani Chungi (Forward)",
+          "name_ur": "",
+          "lat": 32.178173,
+          "lon": 74.202746,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8263",
+          "is_station": false
+        },
+        {
+          "name": "Fattu Mand Chowk (Forward)",
+          "name_ur": "",
+          "lat": 32.183287,
+          "lon": 74.205876,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8264",
+          "is_station": false
+        },
+        {
+          "name": "Jagna Bazaar (Forward)",
+          "name_ur": "",
+          "lat": 32.187567,
+          "lon": 74.208402,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8265",
+          "is_station": false
+        },
+        {
+          "name": "Sialkot Bypass (Forward)",
+          "name_ur": "",
+          "lat": 32.196392,
+          "lon": 74.214077,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8266",
+          "is_station": false
+        },
+        {
+          "name": "Maafi Wala (Forward)",
+          "name_ur": "",
+          "lat": 32.203208,
+          "lon": 74.218835,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8267",
+          "is_station": false
+        },
+        {
+          "name": "Aroob More (Forward)",
+          "name_ur": "",
+          "lat": 32.212381,
+          "lon": 74.227342,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8268",
+          "is_station": false
+        },
+        {
+          "name": "Butnna Wali (Forward)",
+          "name_ur": "",
+          "lat": 32.224821,
+          "lon": 74.241735,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8269",
+          "is_station": false
+        },
+        {
+          "name": "Nandi Pur",
+          "name_ur": "",
+          "lat": 32.253017,
+          "lon": 74.269677,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8270",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "high",
+      "sources": [
+        {
+          "title": "Official timetable (eTransit, 2026-11-01)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        }
+      ],
+      "notes": "Ordered stops, positions and departures from PMA eTransit (route 561); hours and frequency from the official timetable for 2026-11-01."
+    }
+  ],
+  "last_verified": "2026-11-01"
+}

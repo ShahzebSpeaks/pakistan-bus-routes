@@ -476,6 +476,233 @@
         }
       ],
       "notes": "9 buses; Khanewal-Jahanian and Khanewal-Kabirwala, started ~6 Jul 2026. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Khanewal Depot to GBS, Kabirwala', 21 stops); safar lists service 6:00 AM - 9:35 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
+    },
+    {
+      "id": "khanewal-to-qadirpur-raan",
+      "name": "Khanewal to Qadirpur Raan",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 65,
+      "hours": {
+        "start": "06:00",
+        "end": "19:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Bismillah Chowk Khanwal Up",
+          "name_ur": "",
+          "lat": 30.298187,
+          "lon": 71.910273,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6258",
+          "is_station": false
+        },
+        {
+          "name": "RCA Chowk, Khanewal Up",
+          "name_ur": "",
+          "lat": 30.300191,
+          "lon": 71.915719,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6259",
+          "is_station": false
+        },
+        {
+          "name": "T-Chowk Up",
+          "name_ur": "",
+          "lat": 30.302454,
+          "lon": 71.922337,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6260",
+          "is_station": false
+        },
+        {
+          "name": "Railway Station, Khanewal Up",
+          "name_ur": "",
+          "lat": 30.306203,
+          "lon": 71.931642,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8148",
+          "is_station": false
+        },
+        {
+          "name": "Nizamabad Pulli up",
+          "name_ur": "",
+          "lat": 30.309326,
+          "lon": 71.944214,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8139",
+          "is_station": false
+        },
+        {
+          "name": "NADRA Office Khanewal up",
+          "name_ur": "",
+          "lat": 30.312186,
+          "lon": 71.949171,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8140",
+          "is_station": false
+        },
+        {
+          "name": "City Gate Up",
+          "name_ur": "",
+          "lat": 30.31607,
+          "lon": 71.95473,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6312",
+          "is_station": false
+        },
+        {
+          "name": "COD Chowk / Basti Khalil Wali Up",
+          "name_ur": "",
+          "lat": 30.316359,
+          "lon": 71.939175,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8153",
+          "is_station": false
+        },
+        {
+          "name": "DPS, Khanewal Up",
+          "name_ur": "",
+          "lat": 30.317709,
+          "lon": 71.930441,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6314",
+          "is_station": false
+        },
+        {
+          "name": "Lahore Morr, khanewal Up",
+          "name_ur": "",
+          "lat": 30.318421,
+          "lon": 71.919762,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6315",
+          "is_station": false
+        },
+        {
+          "name": "3 Kassi up",
+          "name_ur": "",
+          "lat": 30.321461,
+          "lon": 71.885723,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8141",
+          "is_station": false
+        },
+        {
+          "name": "Qasim Bagh Up",
+          "name_ur": "",
+          "lat": 30.322667,
+          "lon": 71.869203,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8176",
+          "is_station": false
+        },
+        {
+          "name": "Jamesabad Up",
+          "name_ur": "",
+          "lat": 30.324725,
+          "lon": 71.858389,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8178",
+          "is_station": false
+        },
+        {
+          "name": "Shamkot Adda up",
+          "name_ur": "",
+          "lat": 30.326289,
+          "lon": 71.842991,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8142",
+          "is_station": false
+        },
+        {
+          "name": "Rajput Colony up",
+          "name_ur": "",
+          "lat": 30.327615,
+          "lon": 71.830588,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8143",
+          "is_station": false
+        },
+        {
+          "name": "8 Kassi up",
+          "name_ur": "",
+          "lat": 30.329806,
+          "lon": 71.806339,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8144",
+          "is_station": false
+        },
+        {
+          "name": "Umer Hospital up",
+          "name_ur": "",
+          "lat": 30.330779,
+          "lon": 71.796277,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8145",
+          "is_station": false
+        },
+        {
+          "name": "6 Kasi Up",
+          "name_ur": "",
+          "lat": 30.332061,
+          "lon": 71.785264,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8180",
+          "is_station": false
+        },
+        {
+          "name": "Khoi Wala up",
+          "name_ur": "",
+          "lat": 30.333033,
+          "lon": 71.775998,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8146",
+          "is_station": false
+        },
+        {
+          "name": "Younasabad up",
+          "name_ur": "",
+          "lat": 30.334022,
+          "lon": 71.763827,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8147",
+          "is_station": false
+        },
+        {
+          "name": "Mahni Sial up",
+          "name_ur": "",
+          "lat": 30.334442,
+          "lon": 71.752995,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8149",
+          "is_station": false
+        },
+        {
+          "name": "Basti Odaan Wali up",
+          "name_ur": "",
+          "lat": 30.326723,
+          "lon": 71.735853,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8150",
+          "is_station": false
+        },
+        {
+          "name": "Qadirpur Raan Bypass up",
+          "name_ur": "",
+          "lat": 30.301954,
+          "lon": 71.684785,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8151",
+          "is_station": false
+        },
+        {
+          "name": "Govt Higher Secondary School khanewal up",
+          "name_ur": "",
+          "lat": 30.296061,
+          "lon": 71.674204,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8154",
+          "is_station": false
+        },
+        {
+          "name": "Qadirpur Raan up",
+          "name_ur": "",
+          "lat": 30.292895,
+          "lon": 71.668422,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8155",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "high",
+      "sources": [
+        {
+          "title": "Official timetable (eTransit, 2026-11-01)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        }
+      ],
+      "notes": "Ordered stops, positions and departures from PMA eTransit (route 549); hours and frequency from the official timetable for 2026-11-01."
     }
   ]
 }

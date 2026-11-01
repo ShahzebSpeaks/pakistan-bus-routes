@@ -1,0 +1,2031 @@
+{
+  "assignment": "pma-missing-routes",
+  "researched_on": "2026-11-01",
+  "systems": [
+    {
+      "id": "rawalpindi-electric-bus",
+      "city": "islamabad-rawalpindi",
+      "name": "Rawalpindi Electric Bus (Punjab Green Electric Bus)",
+      "mode": "electric_bus",
+      "routes": [
+        {
+          "id": "RFR-99",
+          "name": "Umar Baig Chowk to TB Hospital",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": 10,
+          "hours": {
+            "start": "06:00",
+            "end": "22:00"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Umar Baig Chowk Up",
+              "name_ur": "",
+              "lat": 33.600606,
+              "lon": 73.088502,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/2063",
+              "is_station": false
+            },
+            {
+              "name": "Fauji Tower Stop Up",
+              "name_ur": "",
+              "lat": 33.6068644,
+              "lon": 73.08441823,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/2193",
+              "is_station": false
+            },
+            {
+              "name": "PAF Chowk Up",
+              "name_ur": "",
+              "lat": 33.609035,
+              "lon": 73.0820013,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/2191",
+              "is_station": false
+            },
+            {
+              "name": "Rawalpindi Institute of Cardiology Up",
+              "name_ur": "",
+              "lat": 33.6155191,
+              "lon": 73.0817325,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/2189",
+              "is_station": false
+            },
+            {
+              "name": "Qureshi Mor Up",
+              "name_ur": "",
+              "lat": 33.62158,
+              "lon": 73.08222,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/2187",
+              "is_station": false
+            },
+            {
+              "name": "Chah Sultan Up",
+              "name_ur": "",
+              "lat": 33.62556,
+              "lon": 73.07625,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/2185",
+              "is_station": false
+            },
+            {
+              "name": "Chandni Chowk Metrobus Station Up",
+              "name_ur": "",
+              "lat": 33.6293,
+              "lon": 73.07165,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/2183",
+              "is_station": false
+            },
+            {
+              "name": "Pine Banquet Hall Up",
+              "name_ur": "",
+              "lat": 33.6264668,
+              "lon": 73.0682437,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/2181",
+              "is_station": false
+            },
+            {
+              "name": "Asghar Mall Main Chowk Up",
+              "name_ur": "",
+              "lat": 33.62738,
+              "lon": 73.05912,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/2177",
+              "is_station": false
+            },
+            {
+              "name": "Eid Gah Sharif Up",
+              "name_ur": "",
+              "lat": 33.62691,
+              "lon": 73.05746,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/2175",
+              "is_station": false
+            },
+            {
+              "name": "T.B Hospital Up",
+              "name_ur": "",
+              "lat": 33.62573,
+              "lon": 73.0544,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/2173",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "high",
+          "sources": [
+            {
+              "title": "Official timetable (eTransit, 2026-11-01)",
+              "url": "https://etransit.punjab.gov.pk/public/route-planner"
+            }
+          ],
+          "notes": "Ordered stops, positions and departures from PMA eTransit (route 99); hours and frequency from the official timetable for 2026-11-01."
+        }
+      ]
+    },
+    {
+      "id": "lahore-feeder",
+      "city": "lahore",
+      "name": "Lahore Feeder Routes (Speedo)",
+      "mode": "feeder",
+      "routes": [
+        {
+          "id": "LFR-309",
+          "name": "Shahdara to Gajjumata",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": 35,
+          "hours": {
+            "start": "07:00",
+            "end": "21:35"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Shahdara Metro Station Lmbs",
+              "name_ur": "",
+              "lat": 31.6156135,
+              "lon": 74.29122241,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/110",
+              "is_station": false
+            },
+            {
+              "name": "2. Niazi Chowk",
+              "name_ur": "",
+              "lat": 31.60091,
+              "lon": 74.299247,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/5",
+              "is_station": false
+            },
+            {
+              "name": "3. Timber Market",
+              "name_ur": "",
+              "lat": 31.59445,
+              "lon": 74.302198,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8",
+              "is_station": false
+            },
+            {
+              "name": "4. Azadi Chowk",
+              "name_ur": "",
+              "lat": 31.590645,
+              "lon": 74.306455,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/118",
+              "is_station": false
+            },
+            {
+              "name": "5. Bhatti Chowk",
+              "name_ur": "",
+              "lat": 31.580652,
+              "lon": 74.306254,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/15",
+              "is_station": false
+            },
+            {
+              "name": "6. Kachehry",
+              "name_ur": "",
+              "lat": 31.574589,
+              "lon": 74.306481,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/19",
+              "is_station": false
+            },
+            {
+              "name": "7. Civil Secretariat",
+              "name_ur": "",
+              "lat": 31.568849,
+              "lon": 74.304411,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/21",
+              "is_station": false
+            },
+            {
+              "name": "M.A.O. College",
+              "name_ur": "",
+              "lat": 31.561725,
+              "lon": 74.306683,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/24",
+              "is_station": false
+            },
+            {
+              "name": "9. Janazgah",
+              "name_ur": "",
+              "lat": 31.553796,
+              "lon": 74.311643,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/29",
+              "is_station": false
+            },
+            {
+              "name": "10. Qartaba Chowk",
+              "name_ur": "",
+              "lat": 31.548778,
+              "lon": 74.315099,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/34",
+              "is_station": false
+            },
+            {
+              "name": "11. Shama",
+              "name_ur": "",
+              "lat": 31.539032,
+              "lon": 74.319157,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/38",
+              "is_station": false
+            },
+            {
+              "name": "12. Ichara",
+              "name_ur": "",
+              "lat": 31.531516,
+              "lon": 74.321426,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/43",
+              "is_station": false
+            },
+            {
+              "name": "13. Canal",
+              "name_ur": "",
+              "lat": 31.519472,
+              "lon": 74.326709,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/46",
+              "is_station": false
+            },
+            {
+              "name": "14. Qaddafi Stadium",
+              "name_ur": "",
+              "lat": 31.51198304,
+              "lon": 74.32884266,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/167",
+              "is_station": false
+            },
+            {
+              "name": "15. Kalma Chowk",
+              "name_ur": "",
+              "lat": 31.50352531,
+              "lon": 74.33188819,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/54",
+              "is_station": false
+            },
+            {
+              "name": "16. Model Town",
+              "name_ur": "",
+              "lat": 31.49744125,
+              "lon": 74.33446559,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/56",
+              "is_station": false
+            },
+            {
+              "name": "17. Naseerabad",
+              "name_ur": "",
+              "lat": 31.48707603,
+              "lon": 74.3387698,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/59",
+              "is_station": false
+            },
+            {
+              "name": "18. Ittefaq Hospital",
+              "name_ur": "",
+              "lat": 31.4792154,
+              "lon": 74.34206847,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/63",
+              "is_station": false
+            },
+            {
+              "name": "19. Qainchi",
+              "name_ur": "",
+              "lat": 31.46441822,
+              "lon": 74.34823703,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/66",
+              "is_station": false
+            },
+            {
+              "name": "20. Ghazi Chowk",
+              "name_ur": "",
+              "lat": 31.45708817,
+              "lon": 74.35125537,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/69",
+              "is_station": false
+            },
+            {
+              "name": "21. Chungi Amar Sidhu",
+              "name_ur": "",
+              "lat": 31.45042606,
+              "lon": 74.35338135,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/74",
+              "is_station": false
+            },
+            {
+              "name": "22. Kamahan",
+              "name_ur": "",
+              "lat": 31.44103415,
+              "lon": 74.35531102,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/78",
+              "is_station": false
+            },
+            {
+              "name": "23. Atari Saroba",
+              "name_ur": "",
+              "lat": 31.43103531,
+              "lon": 74.35677771,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/79",
+              "is_station": false
+            },
+            {
+              "name": "24. Nishtar Colony",
+              "name_ur": "",
+              "lat": 31.41972558,
+              "lon": 74.35843922,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/84",
+              "is_station": false
+            },
+            {
+              "name": "25. Youhanabad",
+              "name_ur": "",
+              "lat": 31.41281889,
+              "lon": 74.35946826,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/87",
+              "is_station": false
+            },
+            {
+              "name": "26. Dulu khurd",
+              "name_ur": "",
+              "lat": 31.40542958,
+              "lon": 74.36054209,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/88",
+              "is_station": false
+            },
+            {
+              "name": "27. Gajjumata",
+              "name_ur": "",
+              "lat": 31.39831499,
+              "lon": 74.36160257,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/92",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "high",
+          "sources": [
+            {
+              "title": "Official timetable (eTransit, 2026-11-01)",
+              "url": "https://etransit.punjab.gov.pk/public/route-planner"
+            }
+          ],
+          "notes": "Ordered stops, positions and departures from PMA eTransit (route 309); hours and frequency from the official timetable for 2026-11-01."
+        }
+      ]
+    },
+    {
+      "id": "khanewal-electric-bus",
+      "city": "khanewal",
+      "name": "Green Electric Bus Khanewal",
+      "mode": "electric_bus",
+      "routes": [
+        {
+          "id": "khanewal-to-qadirpur-raan",
+          "name": "Khanewal to Qadirpur Raan",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": 65,
+          "hours": {
+            "start": "06:00",
+            "end": "19:00"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Bismillah Chowk Khanwal Up",
+              "name_ur": "",
+              "lat": 30.298187,
+              "lon": 71.910273,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6258",
+              "is_station": false
+            },
+            {
+              "name": "RCA Chowk, Khanewal Up",
+              "name_ur": "",
+              "lat": 30.300191,
+              "lon": 71.915719,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6259",
+              "is_station": false
+            },
+            {
+              "name": "T-Chowk Up",
+              "name_ur": "",
+              "lat": 30.302454,
+              "lon": 71.922337,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6260",
+              "is_station": false
+            },
+            {
+              "name": "Railway Station, Khanewal Up",
+              "name_ur": "",
+              "lat": 30.306203,
+              "lon": 71.931642,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8148",
+              "is_station": false
+            },
+            {
+              "name": "Nizamabad Pulli up",
+              "name_ur": "",
+              "lat": 30.309326,
+              "lon": 71.944214,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8139",
+              "is_station": false
+            },
+            {
+              "name": "NADRA Office Khanewal up",
+              "name_ur": "",
+              "lat": 30.312186,
+              "lon": 71.949171,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8140",
+              "is_station": false
+            },
+            {
+              "name": "City Gate Up",
+              "name_ur": "",
+              "lat": 30.31607,
+              "lon": 71.95473,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6312",
+              "is_station": false
+            },
+            {
+              "name": "COD Chowk / Basti Khalil Wali Up",
+              "name_ur": "",
+              "lat": 30.316359,
+              "lon": 71.939175,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8153",
+              "is_station": false
+            },
+            {
+              "name": "DPS, Khanewal Up",
+              "name_ur": "",
+              "lat": 30.317709,
+              "lon": 71.930441,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6314",
+              "is_station": false
+            },
+            {
+              "name": "Lahore Morr, khanewal Up",
+              "name_ur": "",
+              "lat": 30.318421,
+              "lon": 71.919762,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6315",
+              "is_station": false
+            },
+            {
+              "name": "3 Kassi up",
+              "name_ur": "",
+              "lat": 30.321461,
+              "lon": 71.885723,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8141",
+              "is_station": false
+            },
+            {
+              "name": "Qasim Bagh Up",
+              "name_ur": "",
+              "lat": 30.322667,
+              "lon": 71.869203,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8176",
+              "is_station": false
+            },
+            {
+              "name": "Jamesabad Up",
+              "name_ur": "",
+              "lat": 30.324725,
+              "lon": 71.858389,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8178",
+              "is_station": false
+            },
+            {
+              "name": "Shamkot Adda up",
+              "name_ur": "",
+              "lat": 30.326289,
+              "lon": 71.842991,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8142",
+              "is_station": false
+            },
+            {
+              "name": "Rajput Colony up",
+              "name_ur": "",
+              "lat": 30.327615,
+              "lon": 71.830588,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8143",
+              "is_station": false
+            },
+            {
+              "name": "8 Kassi up",
+              "name_ur": "",
+              "lat": 30.329806,
+              "lon": 71.806339,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8144",
+              "is_station": false
+            },
+            {
+              "name": "Umer Hospital up",
+              "name_ur": "",
+              "lat": 30.330779,
+              "lon": 71.796277,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8145",
+              "is_station": false
+            },
+            {
+              "name": "6 Kasi Up",
+              "name_ur": "",
+              "lat": 30.332061,
+              "lon": 71.785264,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8180",
+              "is_station": false
+            },
+            {
+              "name": "Khoi Wala up",
+              "name_ur": "",
+              "lat": 30.333033,
+              "lon": 71.775998,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8146",
+              "is_station": false
+            },
+            {
+              "name": "Younasabad up",
+              "name_ur": "",
+              "lat": 30.334022,
+              "lon": 71.763827,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8147",
+              "is_station": false
+            },
+            {
+              "name": "Mahni Sial up",
+              "name_ur": "",
+              "lat": 30.334442,
+              "lon": 71.752995,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8149",
+              "is_station": false
+            },
+            {
+              "name": "Basti Odaan Wali up",
+              "name_ur": "",
+              "lat": 30.326723,
+              "lon": 71.735853,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8150",
+              "is_station": false
+            },
+            {
+              "name": "Qadirpur Raan Bypass up",
+              "name_ur": "",
+              "lat": 30.301954,
+              "lon": 71.684785,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8151",
+              "is_station": false
+            },
+            {
+              "name": "Govt Higher Secondary School khanewal up",
+              "name_ur": "",
+              "lat": 30.296061,
+              "lon": 71.674204,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8154",
+              "is_station": false
+            },
+            {
+              "name": "Qadirpur Raan up",
+              "name_ur": "",
+              "lat": 30.292895,
+              "lon": 71.668422,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8155",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "high",
+          "sources": [
+            {
+              "title": "Official timetable (eTransit, 2026-11-01)",
+              "url": "https://etransit.punjab.gov.pk/public/route-planner"
+            }
+          ],
+          "notes": "Ordered stops, positions and departures from PMA eTransit (route 549); hours and frequency from the official timetable for 2026-11-01."
+        }
+      ]
+    },
+    {
+      "id": "chiniot-electric-bus",
+      "city": "chiniot",
+      "name": "Green Electric Bus Chiniot",
+      "mode": "electric_bus",
+      "routes": [
+        {
+          "id": "tehsil-chowk-to-bhutto-colony",
+          "name": "Tehsil Chowk to Bhutto Colony",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": 22,
+          "hours": {
+            "start": "06:00",
+            "end": "20:18"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Tehsil Chowk, Chiniot Up",
+              "name_ur": "",
+              "lat": 31.719486,
+              "lon": 72.988251,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6371",
+              "is_station": false
+            },
+            {
+              "name": "Tehsil Chowk Chiniot 1 Up",
+              "name_ur": "",
+              "lat": 31.719486,
+              "lon": 72.988251,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6614",
+              "is_station": false
+            },
+            {
+              "name": "Ghalla Mandi Stop, Chiniot Up",
+              "name_ur": "",
+              "lat": 31.710873,
+              "lon": 72.992261,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8188",
+              "is_station": false
+            },
+            {
+              "name": "Chiniot City Up",
+              "name_ur": "",
+              "lat": 31.705048,
+              "lon": 72.993852,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8189",
+              "is_station": false
+            },
+            {
+              "name": "Chikri Wala Bypass Up",
+              "name_ur": "",
+              "lat": 31.698871,
+              "lon": 72.996424,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8190",
+              "is_station": false
+            },
+            {
+              "name": "Superior College, Chiniot Up",
+              "name_ur": "",
+              "lat": 31.690845,
+              "lon": 72.999637,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8191",
+              "is_station": false
+            },
+            {
+              "name": "Shamas Mill Up",
+              "name_ur": "",
+              "lat": 31.677855,
+              "lon": 73.004812,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8192",
+              "is_station": false
+            },
+            {
+              "name": "Bhutto Colony Up",
+              "name_ur": "",
+              "lat": 31.672268,
+              "lon": 73.007065,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8186",
+              "is_station": false
+            },
+            {
+              "name": "Bhutto Colony Down",
+              "name_ur": "",
+              "lat": 31.671182,
+              "lon": 73.007136,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8187",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "high",
+          "sources": [
+            {
+              "title": "Official timetable (eTransit, 2026-11-01)",
+              "url": "https://etransit.punjab.gov.pk/public/route-planner"
+            }
+          ],
+          "notes": "Ordered stops, positions and departures from PMA eTransit (route 556); hours and frequency from the official timetable for 2026-11-01."
+        }
+      ]
+    },
+    {
+      "id": "gujranwala-electric-bus",
+      "city": "gujranwala",
+      "name": "PMA Electric Bus (GRW) (PMA)",
+      "name_ur": "",
+      "operator": "Punjab Masstransit Authority (PMA)",
+      "mode": "electric_bus",
+      "website": "https://etransit.punjab.gov.pk",
+      "helpline": "111-222-627",
+      "payment": "Cash or T-Cash card",
+      "fare_rules": {
+        "type": "unknown",
+        "currency": "PKR",
+        "flat": null,
+        "slabs": [],
+        "concessions": null,
+        "as_of": null,
+        "source_url": null
+      },
+      "hours": null,
+      "sources": [
+        {
+          "title": "PMA eTransit route planner",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner",
+          "publisher": "Punjab Masstransit Authority",
+          "date": "2026-10-23",
+          "official": true
+        }
+      ],
+      "routes": [
+        {
+          "id": "gondlanwala-to-qila-didar-singh",
+          "name": "Gondlanwala to Qila Didar Singh",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": 25,
+          "hours": {
+            "start": "05:40",
+            "end": "19:50"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Gondlanwala",
+              "name_ur": "",
+              "lat": 32.16349,
+              "lon": 74.18779,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8222",
+              "is_station": false
+            },
+            {
+              "name": "Nomania Chowk (Forward)",
+              "name_ur": "",
+              "lat": 32.16706,
+              "lon": 74.18107,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8223",
+              "is_station": false
+            },
+            {
+              "name": "Gurjakh Chowk (Forward)",
+              "name_ur": "",
+              "lat": 32.17279,
+              "lon": 74.1717,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8224",
+              "is_station": false
+            },
+            {
+              "name": "Dhullay Stop (Forward)",
+              "name_ur": "",
+              "lat": 32.17872,
+              "lon": 74.16177,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8225",
+              "is_station": false
+            },
+            {
+              "name": "Alipur Chowk (Forward)",
+              "name_ur": "",
+              "lat": 32.1852,
+              "lon": 74.1491,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8226",
+              "is_station": false
+            },
+            {
+              "name": "Nawab Chowk (Forward)",
+              "name_ur": "",
+              "lat": 32.16885,
+              "lon": 74.14601,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8227",
+              "is_station": false
+            },
+            {
+              "name": "Alam Chowk 1 (Forward)",
+              "name_ur": "",
+              "lat": 32.15566,
+              "lon": 74.14648,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8228",
+              "is_station": false
+            },
+            {
+              "name": "Alam Chowk 2 (Forward)",
+              "name_ur": "",
+              "lat": 32.15624,
+              "lon": 74.1452,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8229",
+              "is_station": false
+            },
+            {
+              "name": "Best Group College (Forward)",
+              "name_ur": "",
+              "lat": 32.15662,
+              "lon": 74.13712,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8230",
+              "is_station": false
+            },
+            {
+              "name": "Ladhe Wala Waraich (Forward)",
+              "name_ur": "",
+              "lat": 32.15668,
+              "lon": 74.13101,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8231",
+              "is_station": false
+            },
+            {
+              "name": "Municipal Corporation Office (Forward)",
+              "name_ur": "",
+              "lat": 32.15618,
+              "lon": 74.11927,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8232",
+              "is_station": false
+            },
+            {
+              "name": "Allah Wali Masjid Stop (FWD)",
+              "name_ur": "",
+              "lat": 32.154672,
+              "lon": 74.1048,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8724",
+              "is_station": false
+            },
+            {
+              "name": "Qazi Kot (Forward)",
+              "name_ur": "",
+              "lat": 32.15128,
+              "lon": 74.09131,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8233",
+              "is_station": false
+            },
+            {
+              "name": "Hardupur Pind (Forward)",
+              "name_ur": "",
+              "lat": 32.14424,
+              "lon": 74.063,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8234",
+              "is_station": false
+            },
+            {
+              "name": "Khatam e Nabuwat Chowk (Forward)",
+              "name_ur": "",
+              "lat": 32.13476,
+              "lon": 74.02667,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8235",
+              "is_station": false
+            },
+            {
+              "name": "Qila Didar Singh Bus Adda (Forward)",
+              "name_ur": "",
+              "lat": 32.13543,
+              "lon": 74.0176,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8236",
+              "is_station": false
+            },
+            {
+              "name": "Govt Graduate College",
+              "name_ur": "",
+              "lat": 32.13473,
+              "lon": 74.01327,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8237",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "high",
+          "sources": [
+            {
+              "title": "Official timetable (eTransit, 2026-11-01)",
+              "url": "https://etransit.punjab.gov.pk/public/route-planner"
+            }
+          ],
+          "notes": "Ordered stops, positions and departures from PMA eTransit (route 560); hours and frequency from the official timetable for 2026-11-01."
+        },
+        {
+          "id": "khayali-bypass-to-nandipur",
+          "name": "Khayali Bypass to Nandipur",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": 25,
+          "hours": {
+            "start": "05:40",
+            "end": "19:50"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Khayali Bypass",
+              "name_ur": "",
+              "lat": 32.11403,
+              "lon": 74.17205,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8253",
+              "is_station": false
+            },
+            {
+              "name": "Shah Pur (Forward)",
+              "name_ur": "",
+              "lat": 32.121391,
+              "lon": 74.175978,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8254",
+              "is_station": false
+            },
+            {
+              "name": "Siddique Sadiq Hospital (Backward)",
+              "name_ur": "",
+              "lat": 32.135552,
+              "lon": 74.18402,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8286",
+              "is_station": false
+            },
+            {
+              "name": "Qainchi Stop (Forward)",
+              "name_ur": "",
+              "lat": 32.138899,
+              "lon": 74.185229,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8256",
+              "is_station": false
+            },
+            {
+              "name": "Mini Stadium (Forward)",
+              "name_ur": "",
+              "lat": 32.144452,
+              "lon": 74.187343,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8257",
+              "is_station": false
+            },
+            {
+              "name": "Sheikhupura Moore (Forward)",
+              "name_ur": "",
+              "lat": 32.147835,
+              "lon": 74.191325,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8258",
+              "is_station": false
+            },
+            {
+              "name": "Dinga Phatak Stop (Forward)",
+              "name_ur": "",
+              "lat": 32.169372,
+              "lon": 74.186657,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8259",
+              "is_station": false
+            },
+            {
+              "name": "Jinnah Stadium (Forward)",
+              "name_ur": "",
+              "lat": 32.162729,
+              "lon": 74.1924,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8260",
+              "is_station": false
+            },
+            {
+              "name": "DC Office (Forward)",
+              "name_ur": "",
+              "lat": 32.166305,
+              "lon": 74.195599,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8261",
+              "is_station": false
+            },
+            {
+              "name": "Church Road (Forward)",
+              "name_ur": "",
+              "lat": 32.173287,
+              "lon": 74.199704,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8262",
+              "is_station": false
+            },
+            {
+              "name": "Purani Chungi (Forward)",
+              "name_ur": "",
+              "lat": 32.178173,
+              "lon": 74.202746,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8263",
+              "is_station": false
+            },
+            {
+              "name": "Fattu Mand Chowk (Forward)",
+              "name_ur": "",
+              "lat": 32.183287,
+              "lon": 74.205876,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8264",
+              "is_station": false
+            },
+            {
+              "name": "Jagna Bazaar (Forward)",
+              "name_ur": "",
+              "lat": 32.187567,
+              "lon": 74.208402,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8265",
+              "is_station": false
+            },
+            {
+              "name": "Sialkot Bypass (Forward)",
+              "name_ur": "",
+              "lat": 32.196392,
+              "lon": 74.214077,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8266",
+              "is_station": false
+            },
+            {
+              "name": "Maafi Wala (Forward)",
+              "name_ur": "",
+              "lat": 32.203208,
+              "lon": 74.218835,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8267",
+              "is_station": false
+            },
+            {
+              "name": "Aroob More (Forward)",
+              "name_ur": "",
+              "lat": 32.212381,
+              "lon": 74.227342,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8268",
+              "is_station": false
+            },
+            {
+              "name": "Butnna Wali (Forward)",
+              "name_ur": "",
+              "lat": 32.224821,
+              "lon": 74.241735,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8269",
+              "is_station": false
+            },
+            {
+              "name": "Nandi Pur",
+              "name_ur": "",
+              "lat": 32.253017,
+              "lon": 74.269677,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8270",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "high",
+          "sources": [
+            {
+              "title": "Official timetable (eTransit, 2026-11-01)",
+              "url": "https://etransit.punjab.gov.pk/public/route-planner"
+            }
+          ],
+          "notes": "Ordered stops, positions and departures from PMA eTransit (route 561); hours and frequency from the official timetable for 2026-11-01."
+        }
+      ]
+    },
+    {
+      "id": "okara-electric-bus",
+      "city": "okara",
+      "name": "Green Electric Bus Okara",
+      "mode": "electric_bus",
+      "routes": [
+        {
+          "id": "gbs-okara-to-adda-gamber",
+          "name": "GBS Okara to Adda Gamber",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": 75,
+          "hours": {
+            "start": "06:00",
+            "end": "19:45"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS Okara Up",
+              "name_ur": "",
+              "lat": 30.81124,
+              "lon": 73.45899,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6552",
+              "is_station": false
+            },
+            {
+              "name": "Chungi No. 7 Up",
+              "name_ur": "",
+              "lat": 30.798923,
+              "lon": 73.456784,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8290",
+              "is_station": false
+            },
+            {
+              "name": "Daewoo Terminal Up",
+              "name_ur": "",
+              "lat": 30.798901,
+              "lon": 73.45454,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8292",
+              "is_station": false
+            },
+            {
+              "name": "Station Stop Up",
+              "name_ur": "",
+              "lat": 30.79889,
+              "lon": 73.446817,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8293",
+              "is_station": false
+            },
+            {
+              "name": "Govt Sutluj School Up",
+              "name_ur": "",
+              "lat": 30.798875,
+              "lon": 73.442776,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8294",
+              "is_station": false
+            },
+            {
+              "name": "Katchehry Phattak Up",
+              "name_ur": "",
+              "lat": 30.798052,
+              "lon": 73.430744,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8295",
+              "is_station": false
+            },
+            {
+              "name": "Sahiwal Bypass Okara Up",
+              "name_ur": "",
+              "lat": 30.793132,
+              "lon": 73.419996,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6586",
+              "is_station": false
+            },
+            {
+              "name": "Adda Tabrook Up",
+              "name_ur": "",
+              "lat": 30.773677,
+              "lon": 73.381076,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8296",
+              "is_station": false
+            },
+            {
+              "name": "Army Cantt Up",
+              "name_ur": "",
+              "lat": 30.755043,
+              "lon": 73.343388,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8297",
+              "is_station": false
+            },
+            {
+              "name": "Adda Gamber, Okara Up",
+              "name_ur": "",
+              "lat": 30.749263,
+              "lon": 73.331864,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8298",
+              "is_station": false
+            },
+            {
+              "name": "Adda Gamber, Okara Down",
+              "name_ur": "",
+              "lat": 30.749228,
+              "lon": 73.331114,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8300",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "high",
+          "sources": [
+            {
+              "title": "Official timetable (eTransit, 2026-11-01)",
+              "url": "https://etransit.punjab.gov.pk/public/route-planner"
+            }
+          ],
+          "notes": "Ordered stops, positions and departures from PMA eTransit (route 567); hours and frequency from the official timetable for 2026-11-01."
+        }
+      ]
+    },
+    {
+      "id": "attock-electric-bus",
+      "city": "attock",
+      "name": "Green Electric Bus Attock",
+      "mode": "electric_bus",
+      "routes": [
+        {
+          "id": "gbs-attock-to-hassan-abad",
+          "name": "GBS Attock to Hassan Abad",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": 65,
+          "hours": {
+            "start": "06:00",
+            "end": "20:05"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS Attock Up",
+              "name_ur": "",
+              "lat": 33.774764,
+              "lon": 72.36024,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/5947",
+              "is_station": false
+            },
+            {
+              "name": "Katchery Chowk Attock Up",
+              "name_ur": "",
+              "lat": 33.77009,
+              "lon": 72.361999,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/5946",
+              "is_station": false
+            },
+            {
+              "name": "Session Chowk Attock Up",
+              "name_ur": "",
+              "lat": 33.769058,
+              "lon": 72.362654,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/5945",
+              "is_station": false
+            },
+            {
+              "name": "Naaz Cinema Chowk Up",
+              "name_ur": "",
+              "lat": 33.766697,
+              "lon": 72.364243,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/5944",
+              "is_station": false
+            },
+            {
+              "name": "APS College Stop Attock Up",
+              "name_ur": "",
+              "lat": 33.768466,
+              "lon": 72.372315,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/5943",
+              "is_station": false
+            },
+            {
+              "name": "Chungi No.03 Attock Up",
+              "name_ur": "",
+              "lat": 33.771407,
+              "lon": 72.378521,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/5942",
+              "is_station": false
+            },
+            {
+              "name": "Mirza Chowk Up",
+              "name_ur": "",
+              "lat": 33.77498,
+              "lon": 72.385906,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/5941",
+              "is_station": false
+            },
+            {
+              "name": "Setha Pull Mirza Up",
+              "name_ur": "",
+              "lat": 33.776376,
+              "lon": 72.388608,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/5940",
+              "is_station": false
+            },
+            {
+              "name": "Khattak Hotel Up",
+              "name_ur": "",
+              "lat": 33.778638,
+              "lon": 72.393185,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/5939",
+              "is_station": false
+            },
+            {
+              "name": "POF Sanjwal Up",
+              "name_ur": "",
+              "lat": 33.781752,
+              "lon": 72.398081,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/5938",
+              "is_station": false
+            },
+            {
+              "name": "Tariqabad Up",
+              "name_ur": "",
+              "lat": 33.781354,
+              "lon": 72.402341,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8380",
+              "is_station": false
+            },
+            {
+              "name": "Boora Stop Up",
+              "name_ur": "",
+              "lat": 33.780243,
+              "lon": 72.417627,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8381",
+              "is_station": false
+            },
+            {
+              "name": "T-Chowk, Attock Up",
+              "name_ur": "",
+              "lat": 33.780543,
+              "lon": 72.428529,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8383",
+              "is_station": false
+            },
+            {
+              "name": "Bani wala Baba Darbar Up",
+              "name_ur": "",
+              "lat": 33.798808,
+              "lon": 72.430971,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8384",
+              "is_station": false
+            },
+            {
+              "name": "Jhala Khan Chowk Up",
+              "name_ur": "",
+              "lat": 33.802944,
+              "lon": 72.43405,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8386",
+              "is_station": false
+            },
+            {
+              "name": "Dhok Jogian Up",
+              "name_ur": "",
+              "lat": 33.811838,
+              "lon": 72.452025,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8387",
+              "is_station": false
+            },
+            {
+              "name": "Golra Stop Up",
+              "name_ur": "",
+              "lat": 33.814563,
+              "lon": 72.476459,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8388",
+              "is_station": false
+            },
+            {
+              "name": "Qazi Abad Up",
+              "name_ur": "",
+              "lat": 33.824272,
+              "lon": 72.505482,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8390",
+              "is_station": false
+            },
+            {
+              "name": "Sanjwal Morr Up",
+              "name_ur": "",
+              "lat": 33.826989,
+              "lon": 72.515942,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8391",
+              "is_station": false
+            },
+            {
+              "name": "Gharsheen Up",
+              "name_ur": "",
+              "lat": 33.815955,
+              "lon": 72.5436316,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8392",
+              "is_station": false
+            },
+            {
+              "name": "Khuddah Stop Up",
+              "name_ur": "",
+              "lat": 33.815187,
+              "lon": 72.548547,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8393",
+              "is_station": false
+            },
+            {
+              "name": "Fateh Ullah Up",
+              "name_ur": "",
+              "lat": 33.817626,
+              "lon": 72.560071,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8394",
+              "is_station": false
+            },
+            {
+              "name": "Khaliq Dad Up",
+              "name_ur": "",
+              "lat": 33.819674,
+              "lon": 72.572867,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8395",
+              "is_station": false
+            },
+            {
+              "name": "Burhan Up",
+              "name_ur": "",
+              "lat": 33.821258,
+              "lon": 72.588442,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8396",
+              "is_station": false
+            },
+            {
+              "name": "Police Choki, Burhan Up",
+              "name_ur": "",
+              "lat": 33.819905,
+              "lon": 72.606789,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8397",
+              "is_station": false
+            },
+            {
+              "name": "Jallo Stop Up",
+              "name_ur": "",
+              "lat": 33.822867,
+              "lon": 72.630807,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8398",
+              "is_station": false
+            },
+            {
+              "name": "Katcha Stop Up",
+              "name_ur": "",
+              "lat": 33.823769,
+              "lon": 72.638014,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8399",
+              "is_station": false
+            },
+            {
+              "name": "Fauji Mill Up",
+              "name_ur": "",
+              "lat": 33.825193,
+              "lon": 72.657408,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8400",
+              "is_station": false
+            },
+            {
+              "name": "Mohallah Shaheedabad Up",
+              "name_ur": "",
+              "lat": 33.822247,
+              "lon": 72.673239,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8401",
+              "is_station": false
+            },
+            {
+              "name": "Abbotabad Morr Up",
+              "name_ur": "",
+              "lat": 33.821423,
+              "lon": 72.678874,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8402",
+              "is_station": false
+            },
+            {
+              "name": "Hassan Abdal Up",
+              "name_ur": "",
+              "lat": 33.816711,
+              "lon": 72.686513,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8403",
+              "is_station": false
+            },
+            {
+              "name": "Hassan Abdal Down",
+              "name_ur": "",
+              "lat": 33.816777,
+              "lon": 72.68591,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8404",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "high",
+          "sources": [
+            {
+              "title": "Official timetable (eTransit, 2026-11-01)",
+              "url": "https://etransit.punjab.gov.pk/public/route-planner"
+            }
+          ],
+          "notes": "Ordered stops, positions and departures from PMA eTransit (route 568); hours and frequency from the official timetable for 2026-11-01."
+        }
+      ]
+    },
+    {
+      "id": "bhakkar-electric-bus",
+      "city": "bhakkar",
+      "name": "Green Electric Bus Bhakkar",
+      "mode": "electric_bus",
+      "routes": [
+        {
+          "id": "gbs-bhakker-to-khanser",
+          "name": "GBS Bhakker to Khanser",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": 90,
+          "hours": {
+            "start": "06:00",
+            "end": "19:30"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS, Bhakker Up",
+              "name_ur": "",
+              "lat": 31.613775,
+              "lon": 71.081414,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6110",
+              "is_station": false
+            },
+            {
+              "name": "Bhakkar DC Office Up",
+              "name_ur": "",
+              "lat": 31.615243,
+              "lon": 71.079035,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6111",
+              "is_station": false
+            },
+            {
+              "name": "Jhang Chowk Up",
+              "name_ur": "",
+              "lat": 31.619816,
+              "lon": 71.072838,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6112",
+              "is_station": false
+            },
+            {
+              "name": "Khansir Chungi Up",
+              "name_ur": "",
+              "lat": 31.627322,
+              "lon": 71.074378,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6113",
+              "is_station": false
+            },
+            {
+              "name": "DHQ, Bhakkar Up",
+              "name_ur": "",
+              "lat": 31.629808,
+              "lon": 71.08886,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8308",
+              "is_station": false
+            },
+            {
+              "name": "Global Hospital Up",
+              "name_ur": "",
+              "lat": 31.632227,
+              "lon": 71.106666,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8309",
+              "is_station": false
+            },
+            {
+              "name": "District Jail, Bhakkar Up",
+              "name_ur": "",
+              "lat": 31.633508,
+              "lon": 71.116394,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8310",
+              "is_station": false
+            },
+            {
+              "name": "32 Chak, Bhakkar Up",
+              "name_ur": "",
+              "lat": 31.635535,
+              "lon": 71.131625,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8311",
+              "is_station": false
+            },
+            {
+              "name": "36 Chowk Up",
+              "name_ur": "",
+              "lat": 31.639296,
+              "lon": 71.160579,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8312",
+              "is_station": false
+            },
+            {
+              "name": "Karari Minner Up",
+              "name_ur": "",
+              "lat": 31.639341,
+              "lon": 71.183305,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8313",
+              "is_station": false
+            },
+            {
+              "name": "Athwan Meel, Bhakkar Up",
+              "name_ur": "",
+              "lat": 31.639553,
+              "lon": 71.195903,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8314",
+              "is_station": false
+            },
+            {
+              "name": "183 Chak Up",
+              "name_ur": "",
+              "lat": 31.643851,
+              "lon": 71.210079,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8316",
+              "is_station": false
+            },
+            {
+              "name": "Kikri Morr Up",
+              "name_ur": "",
+              "lat": 31.64811,
+              "lon": 71.245064,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8318",
+              "is_station": false
+            },
+            {
+              "name": "Bhattian Wala Up",
+              "name_ur": "",
+              "lat": 31.650492,
+              "lon": 71.273186,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8320",
+              "is_station": false
+            },
+            {
+              "name": "Mureed Wala School Up",
+              "name_ur": "",
+              "lat": 31.653527,
+              "lon": 71.307495,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8321",
+              "is_station": false
+            },
+            {
+              "name": "Khanser Up",
+              "name_ur": "",
+              "lat": 31.656722,
+              "lon": 71.325052,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8323",
+              "is_station": false
+            },
+            {
+              "name": "Khanser Down",
+              "name_ur": "",
+              "lat": 31.656531,
+              "lon": 71.324754,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8324",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "high",
+          "sources": [
+            {
+              "title": "Official timetable (eTransit, 2026-11-01)",
+              "url": "https://etransit.punjab.gov.pk/public/route-planner"
+            }
+          ],
+          "notes": "Ordered stops, positions and departures from PMA eTransit (route 569); hours and frequency from the official timetable for 2026-11-01."
+        },
+        {
+          "id": "gbs-bhakker-to-saray-e-muhajir",
+          "name": "GBS Bhakker to Saray-e-Muhajir",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": 65,
+          "hours": {
+            "start": "06:00",
+            "end": "20:05"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "GBS, Bhakker Up",
+              "name_ur": "",
+              "lat": 31.613775,
+              "lon": 71.081414,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6110",
+              "is_station": false
+            },
+            {
+              "name": "Mughal Chowk Up",
+              "name_ur": "",
+              "lat": 31.609555,
+              "lon": 71.089119,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8346",
+              "is_station": false
+            },
+            {
+              "name": "42/43 Chak Morr Up",
+              "name_ur": "",
+              "lat": 31.60425,
+              "lon": 71.096764,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8348",
+              "is_station": false
+            },
+            {
+              "name": "Pakki Nehar Up",
+              "name_ur": "",
+              "lat": 31.579091,
+              "lon": 71.142171,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8350",
+              "is_station": false
+            },
+            {
+              "name": "Qaiser Pulli Up",
+              "name_ur": "",
+              "lat": 31.566846,
+              "lon": 71.154993,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8351",
+              "is_station": false
+            },
+            {
+              "name": "Jahan Khan Up",
+              "name_ur": "",
+              "lat": 31.552372,
+              "lon": 71.168244,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8353",
+              "is_station": false
+            },
+            {
+              "name": "Qazi Baqir Pull Up",
+              "name_ur": "",
+              "lat": 31.539852,
+              "lon": 71.182286,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8355",
+              "is_station": false
+            },
+            {
+              "name": "Jessy Wala Pump Up",
+              "name_ur": "",
+              "lat": 31.52262,
+              "lon": 71.210126,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8356",
+              "is_station": false
+            },
+            {
+              "name": "Saraye Muhajir Up",
+              "name_ur": "",
+              "lat": 31.503792,
+              "lon": 71.236907,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8357",
+              "is_station": false
+            },
+            {
+              "name": "Saraye Muhajir Down",
+              "name_ur": "",
+              "lat": 31.503634,
+              "lon": 71.236884,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8358",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "high",
+          "sources": [
+            {
+              "title": "Official timetable (eTransit, 2026-11-01)",
+              "url": "https://etransit.punjab.gov.pk/public/route-planner"
+            }
+          ],
+          "notes": "Ordered stops, positions and departures from PMA eTransit (route 571); hours and frequency from the official timetable for 2026-11-01."
+        }
+      ]
+    },
+    {
+      "id": "lodhran-electric-bus",
+      "city": "lodhran",
+      "name": "Green Electric Bus Lodhran",
+      "mode": "electric_bus",
+      "routes": [
+        {
+          "id": "lodhran-to-basti-malook",
+          "name": "Lodhran to Basti Malook",
+          "name_ur": "",
+          "variant": "regular",
+          "color": null,
+          "status": "operational",
+          "launched": null,
+          "length_km": null,
+          "headway_min": 120,
+          "hours": {
+            "start": "06:00",
+            "end": "20:00"
+          },
+          "fare_override": null,
+          "women_only": false,
+          "stops": [
+            {
+              "name": "Shahida Islam Hospital Up",
+              "name_ur": "",
+              "lat": 29.489132,
+              "lon": 71.642947,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6924",
+              "is_station": false
+            },
+            {
+              "name": "New GBS, Lodhran Up",
+              "name_ur": "",
+              "lat": 29.491484,
+              "lon": 71.642296,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6925",
+              "is_station": false
+            },
+            {
+              "name": "DHQ Lodhran Up",
+              "name_ur": "",
+              "lat": 29.496295,
+              "lon": 71.640932,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6926",
+              "is_station": false
+            },
+            {
+              "name": "Govt College, Lodhran Up",
+              "name_ur": "",
+              "lat": 29.502324,
+              "lon": 71.639131,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6928",
+              "is_station": false
+            },
+            {
+              "name": "Katchery Chowk, Lodhran Up",
+              "name_ur": "",
+              "lat": 29.506171,
+              "lon": 71.638041,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6929",
+              "is_station": false
+            },
+            {
+              "name": "Millad Chowk, Lodhran Up",
+              "name_ur": "",
+              "lat": 29.514629,
+              "lon": 71.636002,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6931",
+              "is_station": false
+            },
+            {
+              "name": "Jalalpur Morr Up",
+              "name_ur": "",
+              "lat": 29.522816,
+              "lon": 71.633615,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6932",
+              "is_station": false
+            },
+            {
+              "name": "Family Hospital Up",
+              "name_ur": "",
+              "lat": 29.529239,
+              "lon": 71.632093,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6934",
+              "is_station": false
+            },
+            {
+              "name": "Model Bazar Lodhran Up",
+              "name_ur": "",
+              "lat": 29.533624,
+              "lon": 71.631186,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/6935",
+              "is_station": false
+            },
+            {
+              "name": "GBS Ldr up",
+              "name_ur": "",
+              "lat": 29.536315,
+              "lon": 71.630645,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8317",
+              "is_station": false
+            },
+            {
+              "name": "Post Office ldr up",
+              "name_ur": "",
+              "lat": 29.541361,
+              "lon": 71.629331,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8319",
+              "is_station": false
+            },
+            {
+              "name": "Hassan Wala up",
+              "name_ur": "",
+              "lat": 29.546801,
+              "lon": 71.627577,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8322",
+              "is_station": false
+            },
+            {
+              "name": "WAPDA Office up",
+              "name_ur": "",
+              "lat": 29.554024,
+              "lon": 71.625078,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8325",
+              "is_station": false
+            },
+            {
+              "name": "Lodhran Entrance Gate up",
+              "name_ur": "",
+              "lat": 29.557391,
+              "lon": 71.623921,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8327",
+              "is_station": false
+            },
+            {
+              "name": "Pipli Wala up",
+              "name_ur": "",
+              "lat": 29.571902,
+              "lon": 71.619015,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8330",
+              "is_station": false
+            },
+            {
+              "name": "Adda Permat up",
+              "name_ur": "",
+              "lat": 29.591807,
+              "lon": 71.613601,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8332",
+              "is_station": false
+            },
+            {
+              "name": "Adda Abbas Pur up",
+              "name_ur": "",
+              "lat": 29.604018,
+              "lon": 71.610283,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8335",
+              "is_station": false
+            },
+            {
+              "name": "Chak Himta up",
+              "name_ur": "",
+              "lat": 29.638667,
+              "lon": 71.598841,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8337",
+              "is_station": false
+            },
+            {
+              "name": "Adda Shahnal up",
+              "name_ur": "",
+              "lat": 29.644325,
+              "lon": 71.596942,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8339",
+              "is_station": false
+            },
+            {
+              "name": "Jalalabad Morr up",
+              "name_ur": "",
+              "lat": 29.677601,
+              "lon": 71.588091,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8341",
+              "is_station": false
+            },
+            {
+              "name": "Pull Behashti Nehar up",
+              "name_ur": "",
+              "lat": 29.705169,
+              "lon": 71.580033,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8344",
+              "is_station": false
+            },
+            {
+              "name": "Chak Mujahid up",
+              "name_ur": "",
+              "lat": 29.729042,
+              "lon": 71.572939,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8345",
+              "is_station": false
+            },
+            {
+              "name": "Jalla Morr up",
+              "name_ur": "",
+              "lat": 29.742761,
+              "lon": 71.568904,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8347",
+              "is_station": false
+            },
+            {
+              "name": "Kotli Morr up",
+              "name_ur": "",
+              "lat": 29.781013,
+              "lon": 71.557551,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8349",
+              "is_station": false
+            },
+            {
+              "name": "Makhdoom Aali up",
+              "name_ur": "",
+              "lat": 29.788411,
+              "lon": 71.555353,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8352",
+              "is_station": false
+            },
+            {
+              "name": "Odan Wali Basti up",
+              "name_ur": "",
+              "lat": 29.829781,
+              "lon": 71.543429,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/8354",
+              "is_station": false
+            },
+            {
+              "name": "Basti Malook Up",
+              "name_ur": "",
+              "lat": 29.853379,
+              "lon": 71.536732,
+              "coord_source": "ext:etransit.punjab.gov.pk:stop/5212",
+              "is_station": false
+            }
+          ],
+          "stops_confidence": "high",
+          "sources": [
+            {
+              "title": "Official timetable (eTransit, 2026-11-01)",
+              "url": "https://etransit.punjab.gov.pk/public/route-planner"
+            }
+          ],
+          "notes": "Ordered stops, positions and departures from PMA eTransit (route 570); hours and frequency from the official timetable for 2026-11-01."
+        }
+      ]
+    }
+  ]
+}

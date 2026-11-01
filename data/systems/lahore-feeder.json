@@ -6519,6 +6519,249 @@
         }
       ],
       "notes": "Source: Fahad741/SpeedoRoutes details.html (student-style project page). Not an official PMA list; no licence or source stated. Route number is the page's own 'Route #34'; for the routes we already hold, the page's numbering disagrees with PMA's for most of them, so this id may not be PMA's. Page gives: Mini bus, every 20-25 minutes, approx 6 km, '8 stops' (list has 8). Timings look templated (all Standard 15-20 min, all Mini 20-25 min). Several stop sequences on this page are geographically implausible; stops_confidence low."
+    },
+    {
+      "id": "LFR-309",
+      "name": "Shahdara to Gajjumata",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 35,
+      "hours": {
+        "start": "07:00",
+        "end": "21:35"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Shahdara Metro Station Lmbs",
+          "name_ur": "",
+          "lat": 31.6156135,
+          "lon": 74.29122241,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/110",
+          "is_station": false
+        },
+        {
+          "name": "2. Niazi Chowk",
+          "name_ur": "",
+          "lat": 31.60091,
+          "lon": 74.299247,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/5",
+          "is_station": false
+        },
+        {
+          "name": "3. Timber Market",
+          "name_ur": "",
+          "lat": 31.59445,
+          "lon": 74.302198,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8",
+          "is_station": false
+        },
+        {
+          "name": "4. Azadi Chowk",
+          "name_ur": "",
+          "lat": 31.590645,
+          "lon": 74.306455,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/118",
+          "is_station": false
+        },
+        {
+          "name": "5. Bhatti Chowk",
+          "name_ur": "",
+          "lat": 31.580652,
+          "lon": 74.306254,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/15",
+          "is_station": false
+        },
+        {
+          "name": "6. Kachehry",
+          "name_ur": "",
+          "lat": 31.574589,
+          "lon": 74.306481,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/19",
+          "is_station": false
+        },
+        {
+          "name": "7. Civil Secretariat",
+          "name_ur": "",
+          "lat": 31.568849,
+          "lon": 74.304411,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/21",
+          "is_station": false
+        },
+        {
+          "name": "M.A.O. College",
+          "name_ur": "",
+          "lat": 31.561725,
+          "lon": 74.306683,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/24",
+          "is_station": false
+        },
+        {
+          "name": "9. Janazgah",
+          "name_ur": "",
+          "lat": 31.553796,
+          "lon": 74.311643,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/29",
+          "is_station": false
+        },
+        {
+          "name": "10. Qartaba Chowk",
+          "name_ur": "",
+          "lat": 31.548778,
+          "lon": 74.315099,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/34",
+          "is_station": false
+        },
+        {
+          "name": "11. Shama",
+          "name_ur": "",
+          "lat": 31.539032,
+          "lon": 74.319157,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/38",
+          "is_station": false
+        },
+        {
+          "name": "12. Ichara",
+          "name_ur": "",
+          "lat": 31.531516,
+          "lon": 74.321426,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/43",
+          "is_station": false
+        },
+        {
+          "name": "13. Canal",
+          "name_ur": "",
+          "lat": 31.519472,
+          "lon": 74.326709,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/46",
+          "is_station": false
+        },
+        {
+          "name": "14. Qaddafi Stadium",
+          "name_ur": "",
+          "lat": 31.51198304,
+          "lon": 74.32884266,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/167",
+          "is_station": false
+        },
+        {
+          "name": "15. Kalma Chowk",
+          "name_ur": "",
+          "lat": 31.50352531,
+          "lon": 74.33188819,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/54",
+          "is_station": false
+        },
+        {
+          "name": "16. Model Town",
+          "name_ur": "",
+          "lat": 31.49744125,
+          "lon": 74.33446559,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/56",
+          "is_station": false
+        },
+        {
+          "name": "17. Naseerabad",
+          "name_ur": "",
+          "lat": 31.48707603,
+          "lon": 74.3387698,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/59",
+          "is_station": false
+        },
+        {
+          "name": "18. Ittefaq Hospital",
+          "name_ur": "",
+          "lat": 31.4792154,
+          "lon": 74.34206847,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/63",
+          "is_station": false
+        },
+        {
+          "name": "19. Qainchi",
+          "name_ur": "",
+          "lat": 31.46441822,
+          "lon": 74.34823703,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/66",
+          "is_station": false
+        },
+        {
+          "name": "20. Ghazi Chowk",
+          "name_ur": "",
+          "lat": 31.45708817,
+          "lon": 74.35125537,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/69",
+          "is_station": false
+        },
+        {
+          "name": "21. Chungi Amar Sidhu",
+          "name_ur": "",
+          "lat": 31.45042606,
+          "lon": 74.35338135,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/74",
+          "is_station": false
+        },
+        {
+          "name": "22. Kamahan",
+          "name_ur": "",
+          "lat": 31.44103415,
+          "lon": 74.35531102,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/78",
+          "is_station": false
+        },
+        {
+          "name": "23. Atari Saroba",
+          "name_ur": "",
+          "lat": 31.43103531,
+          "lon": 74.35677771,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/79",
+          "is_station": false
+        },
+        {
+          "name": "24. Nishtar Colony",
+          "name_ur": "",
+          "lat": 31.41972558,
+          "lon": 74.35843922,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/84",
+          "is_station": false
+        },
+        {
+          "name": "25. Youhanabad",
+          "name_ur": "",
+          "lat": 31.41281889,
+          "lon": 74.35946826,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/87",
+          "is_station": false
+        },
+        {
+          "name": "26. Dulu khurd",
+          "name_ur": "",
+          "lat": 31.40542958,
+          "lon": 74.36054209,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/88",
+          "is_station": false
+        },
+        {
+          "name": "27. Gajjumata",
+          "name_ur": "",
+          "lat": 31.39831499,
+          "lon": 74.36160257,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/92",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "high",
+      "sources": [
+        {
+          "title": "Official timetable (eTransit, 2026-11-01)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        }
+      ],
+      "notes": "Ordered stops, positions and departures from PMA eTransit (route 309); hours and frequency from the official timetable for 2026-11-01."
     }
   ]
 }

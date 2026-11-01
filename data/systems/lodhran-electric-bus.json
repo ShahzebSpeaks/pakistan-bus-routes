@@ -637,6 +637,249 @@
         }
       ],
       "notes": "11 buses; Shahida Islam Hospital-Kahror Pakka and Shahida Islam Hospital-Dunyapur. No official route code published; id derived from route name. Stops/order from safar.fyi (direction 'Shahida Islam Hospital to Mailsi Chowk Kahror Pakka', 33 stops); safar lists service 6:00 AM - 8:20 PM (unverified). Hours and frequency from the official timetable for 2026-10-23 (first and last departure, typical gap between buses)."
+    },
+    {
+      "id": "lodhran-to-basti-malook",
+      "name": "Lodhran to Basti Malook",
+      "name_ur": "",
+      "variant": "regular",
+      "color": null,
+      "status": "operational",
+      "launched": null,
+      "length_km": null,
+      "headway_min": 120,
+      "hours": {
+        "start": "06:00",
+        "end": "20:00"
+      },
+      "fare_override": null,
+      "women_only": false,
+      "stops": [
+        {
+          "name": "Shahida Islam Hospital Up",
+          "name_ur": "",
+          "lat": 29.489132,
+          "lon": 71.642947,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6924",
+          "is_station": false
+        },
+        {
+          "name": "New GBS, Lodhran Up",
+          "name_ur": "",
+          "lat": 29.491484,
+          "lon": 71.642296,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6925",
+          "is_station": false
+        },
+        {
+          "name": "DHQ Lodhran Up",
+          "name_ur": "",
+          "lat": 29.496295,
+          "lon": 71.640932,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6926",
+          "is_station": false
+        },
+        {
+          "name": "Govt College, Lodhran Up",
+          "name_ur": "",
+          "lat": 29.502324,
+          "lon": 71.639131,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6928",
+          "is_station": false
+        },
+        {
+          "name": "Katchery Chowk, Lodhran Up",
+          "name_ur": "",
+          "lat": 29.506171,
+          "lon": 71.638041,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6929",
+          "is_station": false
+        },
+        {
+          "name": "Millad Chowk, Lodhran Up",
+          "name_ur": "",
+          "lat": 29.514629,
+          "lon": 71.636002,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6931",
+          "is_station": false
+        },
+        {
+          "name": "Jalalpur Morr Up",
+          "name_ur": "",
+          "lat": 29.522816,
+          "lon": 71.633615,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6932",
+          "is_station": false
+        },
+        {
+          "name": "Family Hospital Up",
+          "name_ur": "",
+          "lat": 29.529239,
+          "lon": 71.632093,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6934",
+          "is_station": false
+        },
+        {
+          "name": "Model Bazar Lodhran Up",
+          "name_ur": "",
+          "lat": 29.533624,
+          "lon": 71.631186,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/6935",
+          "is_station": false
+        },
+        {
+          "name": "GBS Ldr up",
+          "name_ur": "",
+          "lat": 29.536315,
+          "lon": 71.630645,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8317",
+          "is_station": false
+        },
+        {
+          "name": "Post Office ldr up",
+          "name_ur": "",
+          "lat": 29.541361,
+          "lon": 71.629331,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8319",
+          "is_station": false
+        },
+        {
+          "name": "Hassan Wala up",
+          "name_ur": "",
+          "lat": 29.546801,
+          "lon": 71.627577,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8322",
+          "is_station": false
+        },
+        {
+          "name": "WAPDA Office up",
+          "name_ur": "",
+          "lat": 29.554024,
+          "lon": 71.625078,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8325",
+          "is_station": false
+        },
+        {
+          "name": "Lodhran Entrance Gate up",
+          "name_ur": "",
+          "lat": 29.557391,
+          "lon": 71.623921,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8327",
+          "is_station": false
+        },
+        {
+          "name": "Pipli Wala up",
+          "name_ur": "",
+          "lat": 29.571902,
+          "lon": 71.619015,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8330",
+          "is_station": false
+        },
+        {
+          "name": "Adda Permat up",
+          "name_ur": "",
+          "lat": 29.591807,
+          "lon": 71.613601,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8332",
+          "is_station": false
+        },
+        {
+          "name": "Adda Abbas Pur up",
+          "name_ur": "",
+          "lat": 29.604018,
+          "lon": 71.610283,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8335",
+          "is_station": false
+        },
+        {
+          "name": "Chak Himta up",
+          "name_ur": "",
+          "lat": 29.638667,
+          "lon": 71.598841,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8337",
+          "is_station": false
+        },
+        {
+          "name": "Adda Shahnal up",
+          "name_ur": "",
+          "lat": 29.644325,
+          "lon": 71.596942,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8339",
+          "is_station": false
+        },
+        {
+          "name": "Jalalabad Morr up",
+          "name_ur": "",
+          "lat": 29.677601,
+          "lon": 71.588091,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8341",
+          "is_station": false
+        },
+        {
+          "name": "Pull Behashti Nehar up",
+          "name_ur": "",
+          "lat": 29.705169,
+          "lon": 71.580033,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8344",
+          "is_station": false
+        },
+        {
+          "name": "Chak Mujahid up",
+          "name_ur": "",
+          "lat": 29.729042,
+          "lon": 71.572939,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8345",
+          "is_station": false
+        },
+        {
+          "name": "Jalla Morr up",
+          "name_ur": "",
+          "lat": 29.742761,
+          "lon": 71.568904,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8347",
+          "is_station": false
+        },
+        {
+          "name": "Kotli Morr up",
+          "name_ur": "",
+          "lat": 29.781013,
+          "lon": 71.557551,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8349",
+          "is_station": false
+        },
+        {
+          "name": "Makhdoom Aali up",
+          "name_ur": "",
+          "lat": 29.788411,
+          "lon": 71.555353,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8352",
+          "is_station": false
+        },
+        {
+          "name": "Odan Wali Basti up",
+          "name_ur": "",
+          "lat": 29.829781,
+          "lon": 71.543429,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/8354",
+          "is_station": false
+        },
+        {
+          "name": "Basti Malook Up",
+          "name_ur": "",
+          "lat": 29.853379,
+          "lon": 71.536732,
+          "coord_source": "ext:etransit.punjab.gov.pk:stop/5212",
+          "is_station": false
+        }
+      ],
+      "stops_confidence": "high",
+      "sources": [
+        {
+          "title": "Official timetable (eTransit, 2026-11-01)",
+          "url": "https://etransit.punjab.gov.pk/public/route-planner"
+        }
+      ],
+      "notes": "Ordered stops, positions and departures from PMA eTransit (route 570); hours and frequency from the official timetable for 2026-11-01."
     }
   ]
 }

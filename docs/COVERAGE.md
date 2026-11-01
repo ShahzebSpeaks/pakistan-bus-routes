@@ -2,7 +2,7 @@
 
 Generated 2026-11-01 by `npm run data:build`. Do not edit by hand.
 
-**54 cities · 161 systems · 1841 published routes · 7966 stops**
+**54 cities · 162 systems · 1852 published routes · 8108 stops**
 
 Coordinate quality: **exact** = verified (OpenStreetMap element or Wikipedia, checked by a person), **guide** = position published by a route guide such as safar.fyi, **matched** = automatic OpenStreetMap name match, **geocoded** = Nominatim search, **estimated** = interpolated between neighbours, **missing** = not on the map yet.
 
@@ -1199,6 +1199,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Lahore Feeder Routes (Speedo) | RT-32 | Shimla Pahari - Ek Moriya | unverified | 5 | 0% | 0% | 80% | 0% | 0% | 1 | low |
 | Lahore Feeder Routes (Speedo) | RT-33 | Cooper Store - Mughalpura | unverified | 9 | 0% | 0% | 78% | 0% | 0% | 2 | low |
 | Lahore Feeder Routes (Speedo) | RT-34 | Singhpura - Mughalpura | unverified | 8 | 0% | 0% | 75% | 0% | 0% | 2 | low |
+| Lahore Feeder Routes (Speedo) | LFR-309 | Shahdara to Gajjumata | operational | 27 | 0% | 100% | 0% | 0% | 0% | 0 | high |
 | Planned feeder network (PMA IPTN) | IPTN-2 | Samanabad Morr - Bhatti Chowk | unverified | 8 | 0% | 38% | 50% | 0% | 13% | 0 | low |
 | Planned feeder network (PMA IPTN) | IPTN-6 | Babu Sabu - Raj Garh Chowk | unverified | 11 | 0% | 36% | 45% | 0% | 18% | 0 | low |
 | Planned feeder network (PMA IPTN) | IPTN-15 | Qartaba Chowk - Babu Sabu | planned | 2 | 0% | 50% | 50% | 0% | 0% | 0 | low |
@@ -1467,6 +1468,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Rawalpindi Electric Bus (Punjab Green Electric Bus) | RWP-EB-03 | Saddar Metro Station - Munawar Colony (via Tulsa Road) | operational | 12 | 8% | 92% | 0% | 0% | 0% | 0 | medium |
 | Rawalpindi Electric Bus (Punjab Green Electric Bus) | RWP-EB-04 | Marrir Metro Station - Motorway Chowk 26 Number (via The Mall, Pirwadhai) | operational | 22 | 9% | 91% | 0% | 0% | 0% | 0 | medium |
 | Rawalpindi Electric Bus (Punjab Green Electric Bus) | RWP-EB-05 | Rawalpindi Railway Station - Hamrahi Bus Stop (Adiala Road) | operational | 15 | 7% | 93% | 0% | 0% | 0% | 0 | high |
+| Rawalpindi Electric Bus (Punjab Green Electric Bus) | RFR-99 | Umar Baig Chowk to TB Hospital | operational | 11 | 0% | 100% | 0% | 0% | 0% | 0 | high |
 | Rawalpindi Integrated Transportation System Phase I (PMA plan) | PMA-RWP-1 | Suwan Adda - Railway Station | planned | 3 | 0% | 0% | 33% | 0% | 0% | 2 | low |
 | Rawalpindi Integrated Transportation System Phase I (PMA plan) | PMA-RWP-2 | Islamabad Expressway - Railway Station | planned | 9 | 0% | 0% | 56% | 0% | 44% | 0 | low |
 | Rawalpindi Integrated Transportation System Phase I (PMA plan) | PMA-RWP-3 | Dhok Kashmirian - Railway Workshop | planned | 2 | 0% | 0% | 100% | 0% | 0% | 0 | low |
@@ -1723,6 +1725,8 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 
 | System | Route | Name | Status | Stops | Exact | Guide | Matched | Geocoded | Estimated | Missing | Stop list confidence |
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
+| PMA Electric Bus (GRW) (PMA) | gondlanwala-to-qila-didar-singh | Gondlanwala to Qila Didar Singh | operational | 17 | 0% | 100% | 0% | 0% | 0% | 0 | high |
+| PMA Electric Bus (GRW) (PMA) | khayali-bypass-to-nandipur | Khayali Bypass to Nandipur | operational | 18 | 0% | 100% | 0% | 0% | 0% | 0 | high |
 | Gujranwala private wagons, minibuses and paratransit | B1 | Kamonki - Aziz Cross | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
 | Gujranwala private wagons, minibuses and paratransit | B2 | Chan Da Qilla - Gakhar | unverified | 2 | 0% | 0% | 50% | 0% | 0% | 1 | low |
 | Gujranwala private wagons, minibuses and paratransit | B4 | Sheikhupura Morr - Wazirabad Railway Station | unverified | 2 | 0% | 0% | 0% | 0% | 0% | 2 | low |
@@ -1902,6 +1906,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
 | Green Electric Bus Attock | hakeem-abad-to-attock-khurd | Hakeem Abad to Attock Khurd | operational | 19 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
 | Green Electric Bus Attock | pof-sanjwal-to-hazro | POF Sanjwal to Hazro | operational | 36 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Green Electric Bus Attock | gbs-attock-to-hassan-abad | GBS Attock to Hassan Abad | operational | 32 | 0% | 100% | 0% | 0% | 0% | 0 | high |
 
 ## Bahawalnagar
 
@@ -1917,6 +1922,8 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
 | Green Electric Bus Bhakkar | gbs-bhakkar-to-behal | GBS Bhakkar to Behal | operational | 16 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
 | Green Electric Bus Bhakkar | gbs-bhakker-to-darya-khan | GBS Bhakker to Darya Khan | operational | 17 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Green Electric Bus Bhakkar | gbs-bhakker-to-khanser | GBS Bhakker to Khanser | operational | 17 | 0% | 100% | 0% | 0% | 0% | 0 | high |
+| Green Electric Bus Bhakkar | gbs-bhakker-to-saray-e-muhajir | GBS Bhakker to Saray-e-Muhajir | operational | 10 | 0% | 100% | 0% | 0% | 0% | 0 | high |
 
 ## Chakwal
 
@@ -1932,6 +1939,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
 | Green Electric Bus Chiniot | tehsil-chowk-to-bhawana | Tehsil Chowk to Bhawana | operational | 26 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
 | Green Electric Bus Chiniot | tehsil-chowk-to-lalian | Tehsil Chowk to Lalian | operational | 18 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Green Electric Bus Chiniot | tehsil-chowk-to-bhutto-colony | Tehsil Chowk to Bhutto Colony | operational | 9 | 0% | 100% | 0% | 0% | 0% | 0 | high |
 
 ## Gujar Khan
 
@@ -1982,6 +1990,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
 | Green Electric Bus Khanewal | khanewal-to-jahaniya | Khanewal to Jahaniya | operational | 25 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
 | Green Electric Bus Khanewal | khanewal-to-kabirwala | Khanewal to Kabirwala | operational | 21 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Green Electric Bus Khanewal | khanewal-to-qadirpur-raan | Khanewal to Qadirpur Raan | operational | 25 | 0% | 100% | 0% | 0% | 0% | 0 | high |
 
 ## Khushab
 
@@ -2004,6 +2013,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 |---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
 | Green Electric Bus Lodhran | shahida-islam-hospital-to-duniyapur | Shahida Islam Hospital to Duniyapur | operational | 34 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
 | Green Electric Bus Lodhran | shahida-islam-hospital-to-kahror-pakka | Shahida Islam Hospital to Kahror Pakka | operational | 33 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
+| Green Electric Bus Lodhran | lodhran-to-basti-malook | Lodhran to Basti Malook | operational | 27 | 0% | 100% | 0% | 0% | 0% | 0 | high |
 
 ## Mandi Bahauddin
 
@@ -2054,6 +2064,7 @@ Help wanted: routes with many *estimated* or *missing* stops. See [CONTRIBUTING.
 | Green Electric Bus Okara | gbs-okara-to-sher-ghar | GBS Okara to Sher Ghar | operational | 21 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
 | Green Electric Bus Okara | sahiwal-bypass-to-kfc-bypass | Sahiwal Bypass to KFC Bypass | operational | 15 | 0% | 100% | 0% | 0% | 0% | 0 | medium |
 | Green Electric Bus Okara | gbs-okara-to-fatehpur | GBS Okara to Fatehpur | operational | 18 | 0% | 100% | 0% | 0% | 0% | 0 | high |
+| Green Electric Bus Okara | gbs-okara-to-adda-gamber | GBS Okara to Adda Gamber | operational | 11 | 0% | 100% | 0% | 0% | 0% | 0 | high |
 
 ## Pakpattan
 
